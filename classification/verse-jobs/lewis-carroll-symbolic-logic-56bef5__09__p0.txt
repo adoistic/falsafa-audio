@@ -1,0 +1,175 @@
+WORK: Symbolic Logic  (slug: lewis-carroll-symbolic-logic-56bef5)
+
+CHAPTER: 09
+
+
+
+[0] SORITESES.
+
+[12] CHAPTER I.
+
+[24] *INTRODUCTORY.*
+
+[41] When a Set of three or more Biliteral Propositions are such that all their Terms are Species of the same Genus, and are also so related that two of them, taken together, yield a Conclusion, which, taken with another of them, yields another Conclusion, and so on, until all have been taken, it is evident that, if the original Set were true, the last Conclusion would *also* be true.
+
+[425] Such a Set, with the last Conclusion tacked on, is called a '=Sorites='; the original Set of Propositions is called its '=Premisses='; each of the intermediate Conclusions is called a '=Partial Conclusion=' of the Sorites; the last Conclusion is called its '=Complete Conclusion=,' or, more briefly, its '=Conclusion='; the Genus, of which all the Terms are Species, is called its '=Universe of Discourse=', or, more briefly, its '=Univ.='; the Terms, used as Eliminands in the Syllogisms, are called its '=Eliminands='; and the two Terms, which are retained, and therefore appear in the Conclusion, are called its '=Retinends='.
+
+[1056] [Note that each *Partial* Conclusion contains one or two *Eliminands*; but that the *Complete* Conclusion contains *Retinends* only.]
+
+[1191] The Conclusion is said to be '=consequent=' from the Premisses; for which reason it is usual to prefix to it the word "Therefore" (or the symbol ".'.").
+
+[1345] [Note that the question, whether the Conclusion is or is not *consequent* from the Premisses, is not affected by the *actual* truth or falsity of any one of the Propositions which make up the Sorites, by depends entirely on their _relationship to one another_. pg086 As a specimen-Sorites, let us take the following Set of 5 Propositions:--
+
+[1687] Here the first and second, taken together, yield "No a are c'".
+
+[1752] This, taken along with the third, yields "No a are d'".
+
+[1809] This, taken along with the fourth, yields "No d' are e'".
+
+[1868] And this, taken along with the fifth, yields "All h are d".
+
+[1929] Hence, if the original Set were true, this would *also* be true.
+
+[1995] Hence the original Set, with this tacked on, is a *Sorites*; the original Set is its *Premisses*; the Proposition "All h are d" is its *Conclusion*; the Terms a, b, c, e are its *Eliminands*; and the Terms d and h are its *Retinends*.
+
+[2231] Hence we may write the whole Sorites thus:--
+
+[2277] In the above Sorites, the 3 Partial Conclusions are the Positions "No a are e'", "No a are d'", "No d' are e'"; but, if the Premisses were arranged in other ways, other Partial Conclusions might be obtained. Thus, the order 41523 yields the Partial Conclusions "No c' are b'", "All h are b", "All h are c". There are altogether *nine* Partial Conclusions to this Sorites, which the Reader will find it an interesting task to make out for himself.]
+
+[2726] CHAPTER II.
+
+[2739] *PROBLEMS IN SORITESES.*
+
+[2765] *Introductory.*
+
+[2782] The Problems we shall have to solve are of the following form:--
+
+[2848] "Given three or more Propositions of Relation, which are proposed as Premisses: to ascertain what Conclusion, if any, is consequent from them."
+
+[2993] We will limit ourselves, at present, to Problems which can be worked by the Formulæ of Fig. I. (See p. 75.) Those, that require *other* Formulæ, are rather too hard for beginners.
+
+[3174] Such Problems may be solved by either of two Methods, viz.
+
+[3234] (1) The Method of Separate Syllogisms; (2) The Method of Underscoring.
+
+[3306] These shall be discussed separately.
+
+[3344] *Solution by Method of Separate Syllogisms.*
+
+[3390] The Rules, for doing this, are as follows:--
+
+[3436] (1) Name the 'Universe of Discourse'.
+
+[3475] (2) Construct a Dictionary, making a, b, c, &c. represent the Terms.
+
+[3545] (3) Put the Proposed Premisses into subscript form.
+
+[3598] (4) Select two which, containing between them a pair of codivisional Classes, can be used as the Premisses of a Syllogism.
+
+[3722] (5) Find their Conclusion by Formula.
+
+[3761] (6) Find a third Premiss which, along with this Conclusion, can be used as the Premisses of a second Syllogism.
+
+[3874] (7) Find a second Conclusion by Formula.
+
+[3916] (8) Proceed thus, until all the proposed Premisses have been used.
+
+[3984] (9) Put the last Conclusion, which is the Complete Conclusion of the Sorites, into concrete form.
+
+[4083] [As an example of this process, let us take, as the proposed Set of Premisses,
+
+[4163] (1) "All the policemen on this beat sup with our cook; (2) No man with long hair can fail to be a poet; (3) Amos Judd has never been in prison; (4) Our cook's 'cousins' all love cold mutton; (5) None but policemen on this beat are poets; (6) None but her 'cousins' ever sup with our cook; (7) Men with short hair have all been in prison."
+
+[4503] Univ. "men"; a = Amos Judd; b = cousins of our cook; c = having been in prison; d = long-haired; e = loving cold mutton; h = poets; k = policemen on this beat; l = supping with our cook pg089 We now have to put the proposed Premisses into *subscript* form. Let us begin by putting them into *abstract* form. The result is
+
+[4826] And it is now easy to put them into *subscript* form, as follows:--
+
+[4895] We now have to find a pair of Premisses which will yield a Conclusion. Let us begin with No. (1), and look down the list, till we come to one which we can take along with it, so as to form Premisses belonging to Fig. I. We find that No. (5) will do, since we can take k as our Eliminand. So our first syllogism is
+
+[5210] We must now begin again with l'h_{0} and find a Premiss to go along with it. We find that No. (2) will do, h being our Eliminand. So our next Syllogism is
+
+[5366] We have now used up Nos. (1), (5), and (2), and must search among the others for a partner for l'd_{0}. We find that No. (6) will do. So we write
+
+[5513] Now what can we take along with db'_{0}? No. (4) will do.
+
+[5572] And along with this we may take No. (3).
+
+[5614] This Complete Conclusion, translated into *abstract* form, is
+
+[5677] "All a are e";
+
+[5693] and this, translated into *concrete* form, is
+
+[5740] "Amos Judd loves cold mutton."
+
+[5772] In actually *working* this Problem, the above explanations would, of course, be omitted, and all, that would appear on paper, would be as follows:--
+
+[5922] Note that, in working a Sorites by this Process, we may begin with *any* Premiss we choose.]
+
+[6016] *Solution by Method of Underscoring.*
+
+[6055] Consider the Pair of Premisses
+
+[6087] which yield the Conclusion xy_{0}
+
+[6122] We see that, in order to get this Conclusion, we must eliminate m and m', and write x and y together in one expression.
+
+[6243] Now, if we agree to *mark* m and m' as eliminated, and to read the two expressions together, as if they were written in one, the two Premisses will then exactly represent the *Conclusion*, and we need not write it out separately.
+
+[6474] Let us agree to mark the eliminated letters by *underscoring* them, putting a *single* score under the *first*, and a *double* one under the *second*.
+
+[6626] The two Premisses now become
+
+[6656] which we read as "xy_{0}".
+
+[6684] In copying out the Premisses for underscoring, it will be convenient to *omit all subscripts*. As to the "0's" we may always *suppose* them written, and, as to the "1's", we are not concerned to know *which* Terms are asserted to *exist*, except those which appear in the *Complete* Conclusion; and for *them* it will be easy enough to refer to the original list. pg092 [I will now go through the process of solving, by this method, the example worked in § 2.
+
+[7145] The Data are
+
+[7159] The Reader should take a piece of paper, and write out this solution for himself. The first line will consist of the above Data; the second must be composed, bit by bit, according to the following directions.
+
+[7369] We begin by writing down the first Premiss, with its numeral over it, but omitting the subscripts.
+
+[7469] We have now to find a Premiss which can be combined with this, *i.e.*, a Premiss containing either k' or l. The first we find is No. 5; and this we tack on, with a +.
+
+[7637] To get the *Conclusion* from these, k and k' must be eliminated, and what remains must be taken as one expression. So we *underscore* them, putting a *single* score under k, and a *double* one under k'. The result we read as l'h.
+
+[7868] We must now find a Premiss containing either l or h'. Looking along the row, we fix on No. 2, and tack it on.
+
+[7979] Now these 3 Nullities are really equivalent to (l'h + dh'), in which h and h' must be eliminated, and what remains taken as one expression. So we *underscore* them. The result reads as l'd.
+
+[8170] We now want a Premiss containing l or d'. No. 6 will do.
+
+[8228] These 4 Nullities are really equivalent to (l'd + b'l). So we underscore l' and l. The result reads as db'.
+
+[8337] We now want a Premiss containing d' or b. No. 4 will do.
+
+[8395] Here we underscore b' and b. The result reads as de'.
+
+[8450] We now want a Premiss containing d' or e. No. 7 will do.
+
+[8508] Here we underscore d and d'. The result reads as c'e'.
+
+[8564] We now want a Premiss containing c or e. No. 3 will do--in fact *must* do, as it is the only one left.
+
+[8668] Here we underscore c' and c; and, as the whole thing now reads as e'a, we tack on e'a*{0} as the *Conclusion_, with a ¶.
+
+[8790] We now look along the row of Data, to see whether e' or a has been given as *existent*. We find that a has been so given in No. 3. So we add this fact to the Conclusion, which now stands as ¶ e'a*{0} + a*{1}, *i.e.* ¶ a*{1}e'*{0}; i.e. "All a are e."
+
+[9042] If the Reader has faithfully obeyed the above directions, his written solution will now stand as follows:--
+
+[9151] *i.e.* "All a are e." pg093 The Reader should now take a second piece of paper, and copy the Data only, and try to work out the solution for himself, beginning with some other Premiss.
+
+[9337] If he fails to bring out the Conclusion a*{1}e'*{0}, I would advise him to take a third piece of paper, and *begin again*!]
+
+[9462] I will now work out, in its briefest form, a Sorites of 5 Premisses, to serve as a model for the Reader to imitate in working examples.
+
+[9599] (1) "I greatly value everything that John gives me; (2) Nothing but this bone will satisfy my dog; (3) I take particular care of everything that I greatly value; (4) This bone was a present from John; (5) The things, of which I take particular care, are things I do *not* give to my dog".
+
+[9889] Univ. "things"; a = given by John to me; b = given by me to my dog; c = greatly valued by me; d = satisfactory to my dog; e = taken particular care of by me; h = this bone.
+
+[10063] i.e. "Nothing, that I give my dog, satisfies him," or, "My dog is not satisfied with *anything* that I give him!"
+
+[10178] [Note that, in working a Sorites by this process, we may begin with *any* Premiss we choose. For instance, we might begin with No. 5, and the result would then be
+
+[10342] pg094 The Reader, who has successfully grappled with all the Examples hitherto set, and who thirsts, like Alexander the Great, for "more worlds to conquer," may employ his spare energies on the following 17 Examination-Papers. He is recommended not to attempt more than *one* Paper on any one day. The answers to the questions about words and phrases may be found by referring to the Index at p. 197.

@@ -1,0 +1,149 @@
+WORK: The Theory of Interest  (slug: irving-fisher-the-theory-of-interest-e18a08)
+
+CHAPTER: 20
+
+
+
+[0] IN this chapter, the four principles constituting the first approximation, previously expressed verbally and geometrically, will be expressed algebraically. Inasmuch as the equations, the solutions of which express the solution of the interest problem, are necessarily numerous and complicated, we shall first consider a simplified special case where there are to be considered only two years in which there is income and three individuals who borrow or lend. We shall then pass to the general case where there are any given number of years and any number of individuals.
+
+[573] In the simplified case, we assume, therefore, that each individual's degree of impatience for this year's over next year's income can be expressed as dependent solely on the amount of this year's and next year's income, the incomes of all other future years being disregarded. We also assume, for simplicity, that the income of each of the two years is concentrated at the middle of the year, making the two points just a year apart, and that borrowing and lending are so restricted as to affect only this year's and next year's income.
+
+[1111] Let f1 represent the marginal rate of time preference for this year's over next year's income for Individual 1 (this is the slope at Q of a Willingness line relatively to the 45° line). Let his original endowment of income for the two years be respectively
+
+[1369] c1' and c1''.
+
+[1384] (These are the longitude and latitude of P in Chapter X.) This original income stream, consisting merely of the two jets, so to speak, c1', c1'', is modified by borrowing this year and repaying next year. The sum borrowed this year is called x1' (this is the horizontal shift from P to Q). To represent the final income of this year this sum x1' is therefore to be added to the present income c1'. Next year the debt is to be paid, and consequently the income finally arrived at for that year is c1'' reduced by the sum thus paid. For the sake of uniformity, however, we shall regard both additions to and subtractions from pre-existing incomes algebraically as additions. Thus, the addition x1' say $100, to the first year's income is a positive quantity, and the addition, which we shall designate by x1'', to the second year's income, is a negative quantity—$105. The first year's income is, therefore, changed from
+
+[2304] c1' to c1' + x1',
+
+[2323] and the second year's from
+
+[2351] c1'' to c1'' + x1''.
+
+[2373] (Just as c1' and c1'' are the longitude and latitude of P in Chapter X, so c1' + x1' and c1'' + x1'' are those of Q.) By the use of this notation we avoid negative signs and so the necessity of distinguishing between the expressions for loans and repayments or for lenders and borrowers.
+
+[2662] The first condition determining interest, namely, Impatience Principle A, that the rate of preference for each individual depends upon his income stream, is represented for Individual 1 by the following equation:
+
+[2876] f1 = F1 (c1' + x1', c1'' + x1'')
+
+[2910] which expresses f1 as dependent on, or, in mathematical language, as a function of the two income items of the two respective years, F1 being not a symbol of a quantity but an abbreviation for "function." In case the individual lends instead of borrows, the equation represents the resulting relation between his marginal rate of preference and his income stream as modified by lending; the only difference is that, in this case, the particular numerical value of x' is negative and that of x' positive. The equation is the algebraic expression for the dependence of the slope of a Willingness line on the income position of Individual 1.
+
+[3550] In like manner, for Individual 2, we have the equation
+
+[3606] f2 = F2 (c2' + x2', c2'' + x2''),
+
+[3641] and, for the third individual,
+
+[3673] f3 = F3 (c3' + x3', c3'' + x3'').
+
+[3708] These three equations therefore express Impatience Principle A.
+
+[3773] Impatience Principle B requires that the marginal rates of time preference of the three different individuals for present over future income shall each be equal to the rate of interest, and is expressed by the following three equations:
+
+[4011] f1 = i f2 = i f3 = i
+
+[4033] where i denotes the rate of interest. These three equations are best written as the continuous equation:
+
+[4139] i = f1 = f2 = f3.
+
+[4158] (These equations express the fact that at the Q's the slope of the Willingness line is the same as of the Market lines.)
+
+[4280] Market Principle A, which requires that the market be cleared, or that loans and borrowings be equal, is formulated by the following two equations:
+
+[4429] x1' + x2' + x3' = 0, x1'' + x2'' + x3'' = 0.
+
+[4475] That is, the total of this year's borrowings is zero (lendings being regarded as negative borrowings), and the total of next year's repayments is likewise zero (payments from a person being regarded as negative payments to him).
+
+[4705] Market Principle B requires that the present value of this year's loans and the present value of next year's returns, for each individual, be equal. This condition is fulfilled in the following equations, each corresponding to one individual:
+
+[4949] We now proceed to compare the number of the foregoing equations with the number of unknowns, for one of the most important advantages of an algebraic statement of any economic problem is the facility with which, by such a count, we may check up on whether the problem is solved and determinate. There are evidently 3 equations in the first set, 3 in the second, 2 in the third, and 3 in the fourth, making in all 11 equations. The unknown quantities are the marginal rates of time preference, the amounts borrowed, lent and returned, and the rate of interest as follows:
+
+[5521] f1, f2, f3, or 3 unknowns, x1', x2', x3', or 3 unknowns, x1'', x2'', x3'', or 3 unknowns,
+
+[5612] and finally,
+
+[5626] i, or 1 unknown,
+
+[5644] making in all 10 unknowns.
+
+[5672] We have, then, one more equation than necessary. But examination of the equations will show that they are not all independent, since any one equation in the third and fourth sets may be determined from the others of those sets. Thus, if we add together all the equations of the fourth set, we get the first equation of the third set. (namely, x1' + x2' + x3' = 0). The addition gives
+
+[6057] In this equation we may substitute zero for the numerator of the fraction (as is evident by consulting the second equation of the third set). Making this substitution, the above equation becomes
+
+[6253] x1' + x2' + x3' = 0,
+
+[6275] which was to have been proved. Since we have here derived one of the five equations of the last two sets from the other four, the equations are not all independent. Any one of these five may be omitted as it could be obtained from the others. We have left then only ten equations. Since no one of these ten equations can be derived from the other nine, the ten are independent and are just sufficient to determine the ten unknown quantities, namely, the f's, x''s, x'''s and i.
+
+[6754] We may now proceed to the case in which more than three individuals (let us say n individuals) and more than two years (let us say m years) are involved. We shall assume, as before, that the x's, representing loans or borrowings, are to be considered of positive value when they represent additions to income, and of negative value when they represent deductions.
+
+[7119] The equations expressing Impatience Principle A will now be in several groups, of which the first is:
+
+[7222] f1' = F1' (c1' + x1', c1'' + x1'',..., c1(m) + x1(m)), f2' = F2' (c2' + x2', c2'' + x2'',..., c2(m) + x2(m)), ................................................... ................................................... fn' = Fn' (cn' + xn', cn'' + xn'',..., cn(m) + xn(m)).
+
+[7492] These n equations express the rates of time preference of different individuals (f1' of Individual 1, f2' of Individual 2,... fn' of Individual n) for the first year's income compared with the next.
+
+[7692] To express their preference for the second year's income compared with the next there will be another group of equations, namely:
+
+[7823] f1'' = F1'' (c1'' + x1'', c1''' + x1''',..., c1(m) + x1(m)), f2'' = F2'' (c2'' + x2'', c2''' + x2''',..., c2(m) + x2(m)), ................................................... ................................................... fn'' = Fn'' (cn'' + xn'', cn''' + xn''',..., cn(m) + xn(m)).
+
+[8111] For the third year there will be still another group, formed by inserting the superscript ''' for '', and so on up to the year (m - 1), for the year (m - 1) is the last one which has any exchange relations with the next, since that next is the last year, or year m. There will therefore be (m - 1) groups each of n equations, like the above group, making in all n (m - 1) equations in the entire set.
+
+[8513] To express algebraically Impatience Principle B we are compelled to recognize for each year a separate rate of interest. The rate of interest connecting the first year with the second will be called i', that connecting the second year with the third, i'', and so on to i(m-1). Under this principle, the rates of time preference for all the different individuals in the community for each year will be reduced to a level equal to the rate of interest. This condition, algebraically expressed, is contained in several continuous equations, of which the first is:
+
+[9075] i' = f1'= f2' =... = fn'.
+
+[9102] This expresses the fact that the rate of time preference of the first year's income compared with next is the same for all the individuals, and is equal to the rate of interest between the first year and the next. A similar continuous equation may be written with reference to the time preferences and the rate of interest as between the second year's income and the next, namely:
+
+[9484] i'' = f1'' = f2'' =... = fn'.
+
+[9515] Since the element of risk is supposed to be absent, it does not matter whether we consider these second-year rates of interest and time preference as the ones which are expected, or those which will actually obtain, for, under our assumed conditions of no risk, there is no discrepancy between expectations and realizations.
+
+[9841] A similar set of continuous equations applies to time-exchange between each succeeding year and the next, up to that connecting year (m - 1) with year m. There will therefore be m - 1 continuous equations of the above type. Since each such continuous equation is evidently made up of n constituent equations, there are in all n (m - 1) equations in the second set of equations.
+
+[10220] The next set of equations, expressing Market Principle A, represents the clearing of the market. These equations are as follows:
+
+[10350] There are here m equations.
+
+[10379] The equations for Market Principle B express the equivalence of loans and repayments, or, more generally, the fact that for each individual the present value of the total additions (amount borrowed, or lent) to his income stream, algebraically considered, will equal zero. Thus, for Individual 1, the addition the first or present year is x1', the present value of which is also x1', the addition the second year is x1'', the present value of which is
+
+[10832] The addition the third year is x1''', the present value of which is
+
+[10901] This is obtained by two successive steps, namely, discounting x1''' one year by dividing it by 1 + i'', thereby obtaining its value not in the present or first year but in the second year, and then discounting this value so obtained by dividing it in turn by 1 + i1''. The next item xIV is converted into present value, through three such successive steps, and so on. Adding together all the present values we obtain as resulting equations for Individuals 1, 2,... n:
+
+[11370] Similar equations will hold for each of the other individuals, namely:
+
+[11442] making in all n equations.
+
+[11470] We therefore have as the total number of equations the following:
+
+[11537] The sum of these gives 2 mn + m - n equations in all.
+
+[11592] We next proceed to count the unknown quantities (rates of time preference, loans, and rates of interest): First as to the f's:
+
+[11720] For Individual 1 there are f1', f1'',..., f1(m-1), the number of which is m - 1, and, as there is an equal number for each of the n individuals, there will be in all n (m - 1) unknown f's.
+
+[11910] As to the x's, there will be one for each of the m years for each of the n individuals, or mn.
+
+[12006] As to the i's, there will be one for each year up to the last year, m - 1. In short there will be
+
+[12105] n (m - 1) unknown f's, mn unknown x's, m - 1 unknown i's,
+
+[12164] or 2 mn + m - n - 1 unknown quantities in all. Comparing this number with the number of equations, we see that there is one more equation than the number of unknown quantities.
+
+[12342] This is accounted for, as in the simplified case, by the fact that not all the equations are independent. This may be shown if we add together all the equations of the fourth set, and substitute in the numerators of the fractions thus obtained their value as obtained from the third set, namely, zero. We shall then evidently obtain the first equation of the third set. Consequently we may omit any one of the equations in the last two sets. There will then remain just as many equations as unknown quantities, each independent (that is non-derivable from the rest), and our solution is determinate.
+
+[12943] In the preceding analysis, we have throughout assumed a rate of interest between two points of time a year apart. A more minute analysis would involve a greater subdivision of the income stream, and the employment of a rate of interest between each two successive time elements. This will evidently occasion no complication except to increase enormously the number of equations and unknowns.
+
+[13336] The system of equations thus involved when n persons instead of three and m years instead of two are considered introduces very few features of the problem not already contained in the simpler set of equations for two years and three persons. The new feature of chief importance is that, instead of only one rate of interest to be determined, there are now a large number of rates. It is usually assumed, in theories of interest, that the problem is to determine "the" rate of interest, as though one rate would hold true for all time. But in the preceding equations we have m - 1 separate rates of interest, viz., i', i'',..., i(m-1).
+
+[13973] Under the hypothesis of a rigid allotment of future income among different time intervals, which is the hypothesis of the first approximation, there is nothing to prevent great differences in the rate of interest from year to year, even when all factors in the case are foreknown and there is every opportunity for arbitrage. By a suitable distribution of the values of c1, c2,..., cm, there may be produced any differences desired in the magnitudes of i', i'',..., i(m-1). Thus if the total enjoyable income of society should be foreknown to be 10 billion dollars in the ensuing year, 1 billion in the following year, and 20 billion in the third year, and if there were no way of avoiding these enormous disparities in the social income, it is very evident that the income of the middle year would have a very high valuation compared with either of its neighbors, and therefore that the rate of interest connecting that middle year with the first year would be very low, whereas that connecting it with the third year would be very high. It might be that a member of such a community would be willing to exchange $100 of the plentiful 10 billions for the first year, for only $101 out of the scarce 1 billion of next year, but would be glad to give, out of the third year's still more plentiful 20 billions, $150 for the sake of $100 in the middle and lean year.
+
+[15338] In actual markets we find some influence of such differences between future years (as looked at today) in the differences between short term and long term interest rates.
+
+[15510] The reason why, in actual fact, no abrupt or large variations in the rate of interest, such as from 1 per cent to 50 per cent, is ordinarily encountered is that the supposed sudden and abrupt changes in the income stream seldom occur. The causes which prevent their occurrence are:
+
+[15793] (1) The fact that history is constantly repeating itself. For instance, there is regularity in the population, so that, at any point of time, the outlook toward the next year is similar to what it was at any other point of time. The individual may grow old, but the population does not. As individuals are hurried across the stage of life, their places are constantly taken by others, so that, whatever the tendency in the individual life for the rates of preference to go up or down with age, it will not be cumulative in society. Relatively speaking, society stands still.
+
+[16369] Again, the processes of nature recur in almost ceaseless regularity. Crops repeat themselves in a yearly cycle. Even when there are large fluctuations in crops, the variations are seldom world-wide, and a shortage in the Mississippi Valley may be compensated for by an unusually abundant crop in Russia or Asia. The resultant regularity of events is thus sufficient to maintain a fair uniformity in the income stream for society as a whole.
+
+[16811] (2) The tendency toward uniformity is also favored in real life by the fact that the income stream is not fixed, but may be modified in other ways than by borrowing and lending as in accordance with investment opportunities. The significance of these modifications is algebraically considered in the next chapter.

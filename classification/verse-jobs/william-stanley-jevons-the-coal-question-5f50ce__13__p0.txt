@@ -1,0 +1,77 @@
+WORK: The Coal Question  (slug: william-stanley-jevons-the-coal-question-5f50ce)
+
+CHAPTER: 13
+
+
+
+[0] IN the last three chapters I have tried to make apparent, both from principle and fact, that a nation tends to develop itself by multiplication rather than addition—in a geometrical rather than an arithmetical series. And though such continuous multiplication is seldom long possible, owing to the material limits of subsistence, I have given sufficient numbers to prove that up to the present time our growth is unchecked by any such limits, and is proceeding at uniform or rising rates of multiplication.
+
+[508] Now while the iron, cotton, mercantile, and other chief branches of our industry thus progress, it is obvious that our consumption of coal must similarly progress in a geometrical series. This, however, is matter of inference only because until lately the total quantities of coal consumed were quite unknown.
+
+[819] We can trace the progress of the consumption of coal in previous centuries with some accuracy by means of the accounts of the Newcastle and London Coal Trade, which used to be, far more even than it now is, the largest branch of the trade. The total quantities of coal shipped from Newcastle and the neighbouring ports were as follows: [See diagram fronting the title page.—Econlib Ed.]—
+
+[1208] The progressive consumption of London for two centuries, is seen in the following figures:—
+
+[1301] We see that it is almost impossible to compare this and previous centuries, and that the rate of multiplication is in recent years many times as great as during preceding centuries, and is rapidly advancing up to the latest returns. The simple numerical increase is now almost indefinitely greater than it used to be.
+
+[1620] As to the total quantity of coal consumed in the whole kingdom the most erroneous notions were entertained even twelve years ago. Writers on Statistics and the Coal Trade made what they called Estimates, by adding together the Sea-borne, and a few other known quantities of coal, and then making a liberal allowance ad libitum for the rest.
+
+[1962] The variations in the estimates made by different authors may be judged from the following statement: —
+
+[2067] In 1854 was begun the system of Mining Records and Statistical Inquiry, recommended by Mr. Sopwith with reference to our present subject, and carried into practice by Mr. Robert Hunt, with the assistance of the Government Inspectors of Coal Mines, and the voluntary co-operation of the Carrying and Mining Companies. The following are the amounts of coal ascertained to have been raised from our coal-mines:—
+
+[2477] Since the first edition of this work was published it has been found that the returns from South Staffordshire were under-estimated, owing to a misapprehension of the size of the Staffordshire ton and boat-load.
+
+[2690] The correct amounts of coal produced during the last four years are as follows:—
+
+[2772] By adopting the new numbers I might slightly strengthen my conclusions, but I do not think it worth while to make the necessary alterations.
+
+[2914] The quantity of small coals consumed upon the colliery waste-heaps is not included in the above, and is unknown. Mr. Atkinson, inspector of the coal-mines of Durham, south of the Wear, estimated the waste in his district in 1860 at 2,404,215 tons; but Mr. Dunn, inspector for Cumberland, Northumberland, and the rest of Durham, considered the waste in his district to be only 834,117 tons. The discrepancy of these estimates is so great and obvious that there appeared in the Mineral Statistics for 1862 the following note:—"The amount of coals burnt or wasted at pits has been so differently represented, and appears such an uncertain although very large quantity, that it is for the present omitted." We may conjecture it to be at least five millions of tons in the whole. But the uncertainty does not affect our subject much, because before long this deplorable waste of coal must come to a natural end.
+
+[3822] We see that without considering the waste the lowest of the amounts of coal consumed (1854-1863) exceeds, by eight millions of tons, the largest previous estimate of our consumption, that of Mr. T. Y. Hall writing in 1854; while the estimates of Poole, MacCulloch, and R. C. Taylor are hardly more than half the true amount. With such facts before us we cannot place much credit in previous estimates, but I give such as I have met with.
+
+[4261] I much prefer to reject all such estimates, and argue only upon the undoubted returns of the Mining Record Office, given on p. 234. We of course regard not the average annual arithmetic increase of coal consumption between 1854 and 1863, which is 2,403,424 tons; but the average ratio or rate per cent. of increase, which is found by logarithmic calculation to be 3.26 per cent. That is to say, the consumption of each year, one with another, exceeded that of the previous year as 103.26 exceeds 100.
+
+[4763] We cannot help perceiving, however, that the consumption of coal is variable, and dependent upon the fluctuating activity of trade. The year 1854 presents a maximum; for the consumption falls off next year from 64½ millions to 61½, and suffers no great increase until 1859. There is then a very rapid rise up to a second maximum in 1861. We are uncertain when the consumption will again reach a maximum, and under these circumstances it is better to compare the consumption of the two years of maxima, 1854 and 1861, assuming that they are years of a certain correspondent activity. The average rate of increase in the interval is 3.7 per cent., and the comparison of the years 1854 and 1864 would give almost exactly the same result; but in our succeeding calculations I will assume that the average annual rate of growth of our coal consumption is 3½ per cent.—or the ratio of growth is that of 103.5 to 100.
+
+[5675] This is equivalent to a growth in ten years of 41 per cent. or in fifty years of 458 per cent., or 5½ fold.
+
+[5784] Such are the critical numbers of our inquiry.
+
+[5831] If we assume the consumption of coal to have grown to its present (1863) amount, at the uniform rate of 3½ per cent., and calculate its former probable amounts backwards, we find no accordance with former estimates of the error of which we were already well assured (p. 236).
+
+[6108] But it is worthy of notice that Mr. Hull, when briefly reviewing the consumption of coal, conjectured the true amount probably not to exceed ten million tons at the beginning of the century, and to be about 36 million tons in 1840. Now these estimates agree well with the amounts we should arrive at from our assumed rate of growth.
+
+[6442] The following are the calculated probable amounts of coal used at decennial intervals as far back as it is safe to assume that the present high rate of progress existed; that is, to the time of the introduction of Watt's engine, the pit-coal iron furnace, and the cotton factory:—
+
+[6724] If we take the consumption of 1852 and 1853 as the same as that of 1851, and the consumption in each period of ten years as uniformly the same as that of the first year, we easily get the following:—
+
+[6925] We cannot but be struck by the fact that the consumption of the last ten years is half as great as that of the previous seventy-two years! But we gain little notion from the above of the total quantity of coal already burnt or wasted in these islands. An incalculable waste of coal has been going on throughout the period reviewed, both as regards the slack burnt at the pit mouth, and the many times greater quantity of small or large coal left behind in the pit by prodigal modes of mining, which coal cannot for the most part be recovered. And then previous to 1781 there had been a very considerable and more stationary consumption of coal, especially in Northumberland, Staffordshire, and at Whitehaven, during four or five centuries.
+
+[7666] But let us now approach the main point of our inquiry, and follow the future probable consumption of coal. Assuming the present rate of growth, 3½ per cent. per annum, to hold, it is easy to calculate the amounts of coal to be consumed in the undermentioned years, starting from the actual consumption of 1861: [See diagram fronting the title page.—Econlib Ed.]—
+
+[8030] The total aggregate consumption of the period of 110 years, 1861-1970, would be 102,704,000,000 tons. Or, if it be objected that 1861 was a year of maximum consumption, we may reduce the above sum in the proportion of 83.6 millions to 80 millions, the average consumption of the five years 1859—63. We thus get 98,281,000,000 tons; or, in round numbers, we may say, always hypothetically,—If our consumption of coal continue to multiply for 110 years at the same rate as hitherto, the total amount of coal consumed in the interval will be one hundred thousand millions of tons.
+
+[8609] We now turn to compare this imaginary consumption of coal with Mr. Hull's estimate of the available coal in Britain, viz. eighty-three thousand millions of tons within a depth of 4,000 feet.
+
+[8801] Even though Mr. Hull's estimate be greatly under the true amount, we cannot but allow that—Rather more than a century of our present progress would exhaust our mines to the depth of 4,000 feet, or 1,500 feet deeper than our present deepest mine.
+
+[9048] I have given reasons for believing that if all our coal were brought from an average depth of some 2,000 feet, our manufacturers would have to contend with a doubled price of fuel. If the average depth were increased to 4,000 feet, a further great but unknown rise in the cost of fuel must be the consequence.
+
+[9359] But I am far from asserting, from these figures, that our coal-fields will be wrought to a depth of 4,000 feet in little more than a century.
+
+[9502] I draw the conclusion that I think any one would draw, that we cannot long maintain our present rate of increase of consumption; that we can never advance to the higher amounts of consumption supposed. But this only means that the check to our progress must become perceptible within a century from the present time; that the cost of fuel must rise, perhaps within a lifetime, to a rate injurious to our commercial and manufacturing supremacy; and the conclusion is inevitable, that our present happy progressive condition is a thing of limited duration.
+
+[10058] I may here notice that the exact amount of our stock of coal is not the matter of chief moment. The reader who thoroughly apprehends the natural law of growth, or multiplication in social affairs, will see that the absolute quantity of coal rather defines the height of wealth to which we shall rise, than the period during which we shall enjoy either the growth or the climax of prosperity. For, as the multiplication of our numbers and works proceeds at a constant rate, the numerical additions, as we have fully seen in many statistical illustrations, constantly grow. Ultimately the simple addition to our consumption in twenty or thirty years will become of moment compared with our total stores. The addition to our population in four years now is as great as the whole increase of the century 1651—1751, and the increase of coal consumption between 1859 and 1862 is equal to the probable annual consumption at the beginning of this century. It is on this account that I attach less importance than might be thought right to an exact estimate of the coal existing in Great Britain. Were our coal half as abundant again as Mr. Hull states, the effect would only be to defer the climax of our growth perhaps for one generation. And I repeat, the absolute amount of coal in the country rather affects the height to which we shall rise than the time for which we shall enjoy the happy prosperity of progress.
+
+[11470] Suppose our progress to be checked within half a century, yet by that time our consumption will probably be three or four times what it now is; there is nothing impossible or improbable in this; it is a moderate supposition, considering that our consumption has increased eight-fold in the last sixty years. But how shortened and darkened will the prospects of the country appear, with mines already deep, fuel dear, and yet a high rate of consumption to keep up if we are not to retrograde.
+
+[11963] Doubts have been expressed by Mr. Vivian, Mr. Hull, and others, as to whether the number of our mining population and the area of our coal-fields will admit of any further great extension of our yield. It is said that underground hands must be born and bred to the occupation of coal mining; and if we consider that many children of miners may be induced to emigrate, or to avoid their fathers' occupation on account of its hardship and danger, there may be a positive lack of hands. Facts utterly negative such a notion. The Census returns show the number of coal-miners to have been—
+
+[12550] The increase is at the rate of 34.4 per cent. in ten years, or about 3 per cent. per annum, which accords well with the rate of increase of coal raised, if we remember that the use of machinery, and the increased investment of capital in coal mining, enlists greater resources and involves greater cost than is expressed in the mere number of miners.
+
+[12902] The notion, again, that there is anything in the area or condition of our coal-fields to prevent a present extension of the yield, is completely contradicted by accounts of the number of collieries existing in the United Kingdom.
+
+[13133] The general increase is at the rate of 36 per cent. in ten years, or 3.1 per cent. per annum. Nearly the same average rate of increase is shown in the number of pits in the Northumberland and Durham coal-field, which were 41 in number in 1799 and 289 in 1864.
+
+[13394] If we consider that new pits opened are deeper and larger concerns than the old pits laid in, and capable of much larger yields, we must allow that the coal-owners, at least, both expect and are prepared to meet a largely increased demand for a good many years to come. But we should remember that the more rapid and continued our present expansion, the shorter must be its continuance.

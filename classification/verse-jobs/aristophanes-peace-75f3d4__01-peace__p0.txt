@@ -1,0 +1,953 @@
+WORK: Peace  (slug: aristophanes-peace-75f3d4)
+
+CHAPTER: 01-peace
+
+
+
+[0] TRYGAEUS Gently, gently, easy now, donkey! Don't go charging off too proudly right from the start, trusting in your strength, before you've sweated and loosened up the sinews of your joints with the rush of your wings. And don't breathe foul air at me, I beg you; if you do that, just stay at home here in our house.
+
+[318] FIRST SERVANT Master, my lord, how you rave!
+
+[364] TRYGAEUS Quiet, quiet!
+
+[388] FIRST SERVANT Where on earth are you beating the air for nothing?
+
+[455] TRYGAEUS For the sake of all the Greeks I'm flying—having devised a new and daring scheme.
+
+[547] FIRST SERVANT Why are you flying? Why are you out of your wits for nothing?
+
+[624] TRYGAEUS You must keep holy silence and grumble nothing ill-omened, but raise a glad cry. And bid the people be silent, and order the privies and the back-alleys to be walled up with new bricks, and their backsides plugged.
+
+[849] FIRST SERVANT There's no way I'll keep quiet, unless you tell me where you mean to fly.
+
+[938] TRYGAEUS Why, where else but up to Zeus in heaven?
+
+[990] FIRST SERVANT With what in mind?
+
+[1024] TRYGAEUS To ask him about all the Greeks together, what he means to do with them.
+
+[1107] FIRST SERVANT And if he won't tell you?
+
+[1148] TRYGAEUS I'll indict him for betraying Greece to the Medes.
+
+[1209] FIRST SERVANT By Dionysus, never, while I'm alive!
+
+[1261] TRYGAEUS There's no other way.
+
+[1293] FIRST SERVANT Oh, oh, oh! Children, your father is deserting you and going off in secret to heaven, leaving you abandoned! Beg your father, you poor unlucky things!
+
+[1459] LITTLE GIRL O father, father, is the report that's come to our house true, that you, leaving me behind, will go off with the birds to the crows, idly drifting on the wind? Is any of this true? Tell me, father, if you love me at all.
+
+[1693] TRYGAEUS It may be guessed, my girls; but the truth is I'm vexed with you whenever you beg me for bread, calling me "papa," and there's not so much as a speck of silver in the house, none at all. But if I succeed and come back again, you'll have in due season a great barley-loaf, and a knuckle-sandwich to go with it.
+
+[2013] LITTLE GIRL And what means of journeying will you have? For no ship will carry you on this road.
+
+[2111] TRYGAEUS A winged colt will carry me; I'll not go by sea.
+
+[2170] LITTLE GIRL But what's your notion, papa, to harness a beetle and drive it to the gods?
+
+[2259] TRYGAEUS In Aesop's fables it was found to be the only winged thing that ever reached the gods.
+
+[2356] LITTLE GIRL You tell an unbelievable tale, father, father, that a foul-smelling creature came to the gods.
+
+[2464] TRYGAEUS It came long ago, in enmity with the eagle, rolling out its eggs and taking its revenge.
+
+[2563] LITTLE GIRL Then shouldn't you have yoked Pegasus's wing, so you'd appear more tragic to the gods?
+
+[2663] TRYGAEUS But my dear, then I'd have needed double rations. As it is, whatever food I eat myself, I feed this beast on the very same.
+
+[2797] LITTLE GIRL But what if it falls into the watery depths of the sea? How will it be able to escape, with its wings?
+
+[2913] TRYGAEUS On purpose I've got a rudder, which I'll use; and my craft will be a Naxos-built beetle.
+
+[3012] LITTLE GIRL And what harbor will receive you, drifting along?
+
+[3075] TRYGAEUS Why, in the Piraeus there's the Harbor of the Beetle, of course.
+
+[3150] LITTLE GIRL Take care of this: don't slip and tumble down from up there, and then, being lamed, give Euripides his subject and become a tragedy.
+
+[3296] TRYGAEUS I'll see to that. Well, farewell. (To the audience:) And you, for whose sake I take these pains, for three days don't fart or shit; for if this beetle, while aloft, catches the scent, it'll throw me headfirst and graze me away.
+
+[3534] TRYGAEUS Come now, Pegasus, set off gladly, shaking the gold-bridled jingle of your bit, your ears pricked bright. What are you doing? What are you doing? Where are you turning your nostrils aside? Toward the alleys? Launch yourself boldly from the earth, and then, stretching out your racing wing, go straight to the halls of Zeus, keeping your nose away from dung and from all daily food. Man, what are you doing—you there, the one shitting in the Piraeus by the brothels? You'll be the death of me, the death of me! Won't you bury it and heap plenty of earth on it, and plant thyme over it and pour perfume on it? For if I fall and come to harm from here, the city of Chios will owe five talents in fines for my death, on account of your backside.
+
+[4286] TRYGAEUS Oh, how frightened I am—and I'm no longer joking now. Machinist, mind me well: a wind is already churning round my navel, and unless you take care, I'll be feeding the beetle. But I seem to be near the gods, and indeed I see the house of Zeus. Who's at Zeus's door? Won't you open up?
+
+[4581] HERMES Where did this whiff of a mortal strike me from? Lord Heracles, what's this evil thing?
+
+[4677] TRYGAEUS A horse-beetle.
+
+[4703] HERMES You disgusting, brazen, shameless creature—foul, utterly foul, foulest of all! How did you come up here, you foulest of the foul? What's your name, anyway? Won't you tell me?
+
+[4886] TRYGAEUS Foulest-of-the-foul.
+
+[4917] HERMES And of what country and family are you? Tell me.
+
+[4974] TRYGAEUS Foulest-of-the-foul.
+
+[5005] HERMES And who is your father?
+
+[5037] TRYGAEUS Mine? Foulest-of-the-foul.
+
+[5074] HERMES By the Earth, there's no way you won't die, unless you tell me your name, whatever it is.
+
+[5172] TRYGAEUS Trygaeus of Athmonon, a skilled vine-dresser—no informer, no lover of lawsuits.
+
+[5262] HERMES And on what business have you come?
+
+[5306] TRYGAEUS Bringing you these pieces of meat.
+
+[5351] HERMES You poor wretch, how did you get here?
+
+[5398] TRYGAEUS You glutton, you see I no longer seem to you foulest-of-the-foul? Go now, call me Zeus.
+
+[5496] HERMES Aha, ha, ha! You're not even likely to come near the gods, for they're gone—they moved away yesterday.
+
+[5607] TRYGAEUS To what part of the earth?
+
+[5644] HERMES The earth, indeed!
+
+[5671] TRYGAEUS But where, then?
+
+[5698] HERMES Very far off—right up under the very dome of heaven.
+
+[5759] TRYGAEUS Then how were you left here alone?
+
+[5804] HERMES I'm watching over the gods' remaining gear—little pots and little boards and little jars.
+
+[5902] TRYGAEUS And why did the gods move away?
+
+[5944] HERMES In anger at the Greeks. So here, where they themselves were, they settled War, handing you over to him to do absolutely whatever he likes; while they themselves moved up as high as possible, so they wouldn't see you fighting any more, nor hear anything of your supplications.
+
+[6228] TRYGAEUS But why did they do this to us? Tell me.
+
+[6279] HERMES Because you chose to make war, time and again, when they were making truces. If the Spartans gained a slight advantage, they'd say, "By the two gods, now the little Athenians will pay the penalty." And if, on the other hand, you Athenians had some success, and the Spartans came about peace, you'd say at once: "We're being deceived, by Athena, by Zeus—we mustn't be persuaded; they'll come again, if we hold Pylos."
+
+[6704] TRYGAEUS The very stamp of our way of speaking, indeed.
+
+[6761] HERMES For which reason I don't know whether you'll ever see Peace again in the future.
+
+[6850] TRYGAEUS But where has she gone, then?
+
+[6890] HERMES War threw her into a deep cave.
+
+[6930] TRYGAEUS Into which one?
+
+[6956] HERMES Into this one down below; and then you see how many stones he heaped over it from above, so that you'd never get her.
+
+[7082] TRYGAEUS Tell me—what is he preparing to do to us?
+
+[7134] HERMES I don't know but one thing: that yesterday evening he brought in a mortar of enormous size.
+
+[7234] TRYGAEUS And what will he do with this mortar?
+
+[7282] HERMES He means to pound the cities in it. But I'm off; for he's about to come out, I think—at any rate he's making a racket inside.
+
+[7416] TRYGAEUS Oh, wretched me! Let me run away from him; for I too seemed to catch the sound of a mortar of war.
+
+[7525] WAR Oh, mortals, mortals, mortals, much-suffering ones—how very soon your jaws will ache!
+
+[7616] TRYGAEUS O lord Apollo, what a mortar, how wide—what an evil thing!—and what a look on War's face! Is this the very one we flee, the dreadful, the shield-bearing, the one who reaches down to the legs?
+
+[7818] WAR O Prasiae, thrice wretched and five times and many tens of times over, how you'll be destroyed today!
+
+[7925] TRYGAEUS This, gentlemen, is no concern of ours yet; for this calamity is the Spartans'.
+
+[8015] WAR O Megara, Megara, how you'll be ground to bits in a moment—all of you, minced up to a pulp!
+
+[8112] TRYGAEUS Whew, whew! How big and bitter the woes he's flung at the Megarians!
+
+[8191] WAR O Sicily, you too—how you're being destroyed!
+
+[8242] TRYGAEUS What a wretched city, to be ground to pieces!
+
+[8298] WAR Come, let me pour in this Attic honey too.
+
+[8346] TRYGAEUS You there—I advise you, use some other honey. That's a four-obol kind; spare the Attic.
+
+[8444] WAR Boy, boy, Tumult!
+
+[8467] TUMULT Why are you calling me?
+
+[8499] WAR You'll wail long and loud. You stand there idle? Here's a knuckle for you!
+
+[8579] TUMULT How sharp it is! Oh, oh, woe is me, master! You haven't put garlic into that knuckle-blow, have you?
+
+[8688] WAR Will you run and fetch a pestle?
+
+[8726] TUMULT But my good sir, we haven't got one; we only moved in yesterday.
+
+[8799] WAR Then won't you run to the Athenians and fetch one, quick as can be?
+
+[8872] TUMULT Yes, by Zeus; otherwise I'll wail for it.
+
+[8922] TRYGAEUS Come now, what shall we do, you poor little men? You see how great the danger is for us; for if he comes back bringing the pestle, with this he'll sit and pound the cities up. But, O Dionysus, may he perish and not come back with it!
+
+[9166] WAR You there!
+
+[9182] TUMULT What is it?
+
+[9202] WAR You're not bringing it?
+
+[9231] TUMULT The thing is, the Athenians' pestle is lost—the hide-seller, who churned up Greece.
+
+[9323] TRYGAEUS Well done, O Lady Mistress Athena, well done, that he's perished—and just in time for the city—before he could pour the mince in for us.
+
+[9470] WAR Then won't you go and fetch another one from Sparta, and be quick about it?
+
+[9551] TUMULT Yes, master.
+
+[9572] WAR Come back fast now.
+
+[9597] TRYGAEUS Men, what will become of us? Now is the great contest. But if any of you has happened to be initiated in Samothrace, now is a fine time to pray that the fellow may sprain both his feet on his errand.
+
+[9807] TUMULT Oh, wretched me, oh, woe—and then woe yet again, woe doubly!
+
+[9876] WAR What is it? Aren't you bringing it again?
+
+[9923] TUMULT The Spartans' pestle is lost too.
+
+[9965] WAR How so, you villain?
+
+[9991] TUMULT They lent it to others, off in the regions of Thrace, and then lost it.
+
+[10071] TRYGAEUS Well done, well done of them, O Twin Sons of Zeus! It may turn out well—take heart, mortals!
+
+[10174] WAR Take these things and carry them back again; and I'll go inside and make a pestle of my own.
+
+[10272] TRYGAEUS Now this is that very thing—the song of Datis, which he once sang while pleasuring himself at midday: "How I'm delighted and glad and joyful!" Now is the fine time for us, men of Greece, freed from troubles and battles, to drag forth Peace, dear to all, before some other pestle prevents us. Come, you farmers and merchants and craftsmen and artisans and resident aliens and foreigners and islanders—come here, all you people, as quick as can be, with shovels and crowbars and ropes; for now it's possible for us to seize a stroke of good fortune.
+
+[10830] CHORUS Come here, everyone, eagerly, straight for our salvation. O all you Greeks, let's help, if ever, now—freed from the battle-lines and the scarlet evils. For this day has dawned that hates Lamachus. So tell us what we must do, and direct the work; for there's no way I'd consent to give up today, before, with crowbars and machines, we've hauled up into the light the greatest of all the goddesses and the lover of the vine.
+
+[11261] TRYGAEUS Won't you keep quiet, lest, overjoyed at the matter, you rekindle War within with your shouting?
+
+[11368] CHORUS But on hearing such a proclamation we rejoice. For it told us not to come bringing three days' rations.
+
+[11480] TRYGAEUS Beware now of that Cerberus down below, lest, seething and shouting as he was when he was here, he stand in our way and prevent us from dragging out the goddess.
+
+[11652] CHORUS There's no one now who'll take her from us, once she comes into my hands. Hurrah, hurrah!
+
+[11750] TRYGAEUS You'll be the death of me, men, if you don't ease up on the shouting; for he'll run out and trample all this underfoot.
+
+[11880] CHORUS Then let him churn and trample and confound everything—for we couldn't stop rejoicing today.
+
+[11981] TRYGAEUS What's wrong? What's the matter, men? In the gods' name, don't ruin a most beautiful enterprise with your antics.
+
+[12105] CHORUS But I don't want to caper—it's out of joy that my two legs are dancing, with no urging from me.
+
+[12209] TRYGAEUS Don't do it any more now—stop, stop dancing!
+
+[12264] CHORUS There, look, I've stopped.
+
+[12299] TRYGAEUS You say so, but you haven't stopped yet.
+
+[12350] CHORUS Well, let me do just this one figure, and then no more.
+
+[12414] TRYGAEUS This one, then—but don't dance anything else after that.
+
+[12481] CHORUS We wouldn't dance, if it would help you at all.
+
+[12537] TRYGAEUS But look, you haven't stopped yet.
+
+[12582] CHORUS By Zeus, just this one—flinging out the right leg—and now we're done.
+
+[12660] TRYGAEUS I grant you that one, so long as you stop troubling me.
+
+[12726] CHORUS But the left one too I must necessarily fling. For I'm glad and joyful, and I fart and laugh, more than at having stripped off old age and escaped the shield.
+
+[12893] TRYGAEUS Don't rejoice yet, though; for you don't know clearly yet. But when we've got her, then rejoice and shout and laugh. For then it will be possible for you to sail, to stay, to screw, to sleep, to attend the festivals, to feast, to play cottabus, to live like a Sybarite, and to shout "Hurrah, hurrah!"
+
+[13204] CHORUS If only it might fall to me to see this day! For I've put up with many hardships and the pallet-beds that fell to Phormio's lot. And you'd no longer find me a sharp and peevish juror, nor harsh in my ways, as before, but you'd see me soft and much younger, freed from troubles. For we've been perishing a good while now and worn down with wandering to the Lyceum and back from the Lyceum, with spear and shield. But come, tell us what we can do that will please you most; for some good fortune has chosen you as our commander with full authority.
+
+[13759] TRYGAEUS Come, let me look out where we shall haul the stones away.
+
+[13828] HERMES You disgusting, brazen creature, what do you mean to do?
+
+[13893] TRYGAEUS Nothing wicked—only what Cillicon did.
+
+[13942] HERMES You're done for, you wretch.
+
+[13979] TRYGAEUS Well, only if it falls to my lot. For being Hermes, you'll do it by lot, I'm sure.
+
+[14072] HERMES You're done for, you're utterly destroyed.
+
+[14123] TRYGAEUS On which day?
+
+[14147] HERMES This very instant.
+
+[14174] TRYGAEUS But I haven't bought anything yet, neither barley-meal nor cheese, for going to perish.
+
+[14272] HERMES And yet you're ground to dust.
+
+[14311] TRYGAEUS Then how is it I didn't notice I'd got such a great good?
+
+[14379] HERMES Don't you know that Zeus has proclaimed death for whoever is found digging her up?
+
+[14470] TRYGAEUS So now I absolutely must die?
+
+[14510] HERMES Be sure of it.
+
+[14533] TRYGAEUS Then lend me three drachmas for a piglet; for I must be initiated before I die.
+
+[14623] HERMES O Zeus, hurler of thunder and lightning—
+
+[14672] TRYGAEUS In the gods' name, don't denounce us, I beg you, master!
+
+[14739] HERMES I couldn't keep silent.
+
+[14771] TRYGAEUS By the meat I came bringing you so eagerly!
+
+[14825] HERMES But my dear fellow, I'll be ground to nothing by Zeus, if I don't shout this out loud and clear.
+
+[14930] TRYGAEUS Don't shout it out, I beg you, dear little Hermes! Tell me, what's the matter with you men? You stand there thunderstruck. You wretches, don't be silent; or else he'll shout it out.
+
+[15122] CHORUS By no means, lord Hermes, by no means, by no means! If you know any pleasing piglet you've eaten at my expense, don't count it a trifle in this present business.
+
+[15292] TRYGAEUS Don't you hear how they flatter you, lord master?
+
+[15352] CHORUS Don't be ill-disposed toward us as we beg you, so that we may not win her. But grant us this favor, O most humane and most generous of divinities, if you loathe at all Pisander's crests and eyebrows. And we'll glorify you forever, master, with holy sacrifices and great processions, evermore.
+
+[15653] TRYGAEUS Come, I beg you, pity their cry, since they honor you more than before. For they're greater thieves now than they were before. And I'll tell you a dreadful, great matter, which is being plotted against all the gods.
+
+[15879] HERMES Come then, tell it; for perhaps you might persuade me.
+
+[15942] TRYGAEUS For the Moon and that scoundrel the Sun have for a long time now been plotting against you, betraying Greece to the barbarians.
+
+[16080] HERMES And why do they do this?
+
+[16113] TRYGAEUS Because, by Zeus, we sacrifice to you, but to those two the barbarians sacrifice. For this reason, naturally, they'd want us all destroyed, so that they themselves might receive the rites of the gods.
+
+[16324] HERMES So that's why they've long been filching the days and gnawing away at their orbit out of mischief!
+
+[16431] TRYGAEUS Yes, by Zeus. So, dear Hermes, help us with all your heart, and haul her out with us. And we'll celebrate the great Panathenaea for you, and all the other rites of the gods—the Mysteries for Hermes, the Diipolia, the Adonia. And other cities too, freed from their troubles, will sacrifice everywhere to Hermes the averter of evil. And you'll have many other good things besides. First, I give you this golden cup, that you may have wherewith to pour libation.
+
+[16901] HERMES Oh, how full of pity I always am for golden cups! The work is yours from here, men. Come, go in with your shovels as quick as can be and drag away the stones.
+
+[17068] CHORUS We'll do it; and you, wisest of the gods, stand by and tell us like a master-builder what we must do; in the rest you'll find us no bad hands at the work.
+
+[17231] TRYGAEUS Come now, you—hold out the bowl quickly, so that, after praying to the gods, we may set to work.
+
+[17338] HERMES A libation, a libation! Keep holy silence, keep holy silence!
+
+[17408] TRYGAEUS As we pour, we pray that this day may be the beginning of many blessings for all the Greeks, and that whoever lays eager hold of the ropes, that man may never take up a shield.
+
+[17595] CHORUS No, by Zeus—but rather pass his life in peace, with a mistress and stirring the coals.
+
+[17690] TRYGAEUS And whoever would rather there were war—
+
+[17741] CHORUS —may he never stop, lord Dionysus, plucking barbs out of his elbows!
+
+[17818] TRYGAEUS And if anyone, longing to be a captain, grudges your coming up into the light, O lady, then in the battles—
+
+[17936] CHORUS —may he suffer such things as Cleonymus did!
+
+[17989] TRYGAEUS And if any spear-maker or dealer in shields, so he may trade the better, longs for battles—
+
+[18091] CHORUS —may he be taken by pirates and eat nothing but barley!
+
+[18155] TRYGAEUS And if anyone, wanting to be a general, won't lend a hand, or a slave is making ready to desert—
+
+[18262] CHORUS —may he be dragged on the wheel and flogged!
+
+[18315] TRYGAEUS But for us, may good things come! Hurrah, the Healer, hurrah!
+
+[18387] CHORUS Leave off the "strike"—just say "hurrah" only.
+
+[18442] TRYGAEUS Hurrah, hurrah, then—just "hurrah" I say. To Hermes, the Graces, the Seasons, Aphrodite, Desire!
+
+[18549] And to Ares?
+
+[18563] CHORUS No, no!
+
+[18579] TRYGAEUS And not to Enyalius either?
+
+[18617] CHORUS No!
+
+[18629] TRYGAEUS Now everyone, strain at the ropes and haul her down.
+
+[18692] HERMES Oh, heave!
+
+[18711] CHORUS Heave-ho!
+
+[18729] HERMES Oh, heave!
+
+[18748] CHORUS Heave-ho once more!
+
+[18776] HERMES Oh, heave, oh, heave!
+
+[18806] TRYGAEUS But the men aren't pulling alike. Won't you lend a hand? How you puff and bluster! You Boeotians will be sorry!
+
+[18928] HERMES Heave-ho now!
+
+[18950] TRYGAEUS Heave, oh!
+
+[18971] CHORUS Come, you two, pull along with us as well!
+
+[19022] TRYGAEUS Aren't I pulling and hanging on and falling-to and exerting myself?
+
+[19100] CHORUS Then why doesn't the work go forward?
+
+[19146] TRYGAEUS Lamachus, you do us wrong, sitting in the way! We've no need, man, of your bugbear.
+
+[19240] HERMES Nor were these Argives pulling at all just now—no, they were laughing at the men in their distress, and that while drawing rations from both sides.
+
+[19396] TRYGAEUS But the Spartans, my good man, are pulling like men.
+
+[19459] CHORUS Do you know, though—those of them who lay hold of the timber are alone eager; but the smith won't let them.
+
+[19575] HERMES Nor are the Megarians doing anything; and yet they pull, snarling most ravenously like little dogs, by Zeus quite done in with hunger.
+
+[19718] TRYGAEUS We're getting nowhere, men. But with one accord we must all lay hold again.
+
+[19804] HERMES Oh, heave!
+
+[19823] TRYGAEUS Heave-ho!
+
+[19843] HERMES Oh, heave!
+
+[19862] TRYGAEUS Heave, by Zeus!
+
+[19888] CHORUS We move it a little.
+
+[19917] TRYGAEUS Isn't it monstrous that some should strain while others pull the other way? You'll get a beating, you Argives!
+
+[20038] HERMES Heave-ho now!
+
+[20060] TRYGAEUS Heave, oh!
+
+[20081] CHORUS There are some ill-disposed people among us.
+
+[20134] TRYGAEUS At least you who hanker after peace, pull manfully!
+
+[20196] CHORUS But there are some who hinder it.
+
+[20238] HERMES Megarian men, won't you go to the crows? For the goddess hates you, remembering that you were the first to smear her with garlic. And I tell the Athenians to let go from there, from where they're now pulling; for you do nothing but go to law. But if you really want to haul her out, draw back a little toward the sea.
+
+[20564] CHORUS Come, men, let's take hold of her ourselves, just we farmers alone.
+
+[20640] HERMES Why, the work goes much better for you, men.
+
+[20693] CHORUS He says the work's going forward; so let every man be eager.
+
+[20762] TRYGAEUS It's the farmers who haul out the work, and no one else.
+
+[20829] CHORUS Come now, come everyone!
+
+[20862] HERMES And look, she's almost up now.
+
+[20901] CHORUS Let's not slacken, then, but bear down more manfully.
+
+[20963] HERMES This is the very thing now!
+
+[20999] CHORUS Oh, heave now, oh, heave everyone! Oh, heave, heave, heave, heave, heave, heave! Oh, heave, heave, heave, heave, heave, everyone!
+
+[21137] TRYGAEUS O lady, giver of grapes, what word shall I address to you? Where could I find a ten-thousand-jar word with which to address you? For I had none at home. Hail, Harvest! And you too, Festival! What a face you have, Festival, and what a fragrance you breathe—how sweet upon the heart, sweetest, like release from soldiering, and of perfume!
+
+[21485] HERMES Not like a soldier's knapsack, then?
+
+[21530] TRYGAEUS I spit it out—the most hateful satchel of a hateful man! For the one smells of belched-up onions, but this of harvest, of welcome, of the Dionysia, of flutes, of tragedians, of the songs of Sophocles, of thrushes, of little verses of Euripides—
+
+[21785] HERMES Then you'll be sorry for slandering her so; for she takes no pleasure in a poet of petty lawyer's phrases.
+
+[21900] TRYGAEUS —of ivy, of the wine-strainer, of bleating sheep, of women's bosoms hurrying off into the country, of a tipsy slave-girl, of an upset wine-jug, and many other good things—
+
+[22082] HERMES Come now, observe how the cities, reconciled, talk to one another and laugh gladly—and that though they're all marvelously black-eyed and clinging to their cupping-glasses.
+
+[22263] TRYGAEUS And look too at the faces of these spectators here, so you may know their trades.
+
+[22355] HERMES Bah, poor things!
+
+[22381] TRYGAEUS Don't you see that crest-maker there tearing his hair?
+
+[22446] HERMES And the man who makes mattocks just farted at that sword-maker there.
+
+[22524] TRYGAEUS And don't you see how the sickle-maker rejoices, and what a rude gesture he made at the spear-maker?
+
+[22635] HERMES Come now, proclaim that the farmers may depart.
+
+[22691] TRYGAEUS Hear, people: let the farmers depart to the country, taking their farming gear, as quick as can be, without spear and sword and javelin; for everything here is now full of well-aged peace. So let everyone go to his work in the country, after singing the paean.
+
+[22962] CHORUS O day longed for by the just and by the farmers, gladly seeing you, I want to greet my vines, and the fig-trees which I planted when I was younger—my heart longs to embrace them after so long a time.
+
+[23170] TRYGAEUS Now then, men, first let us pray to the goddess who took away our crests and our Gorgons. Then let us scuttle home to the fields, having bought something good for the country—a bit of salt-fish.
+
+[23375] HERMES O Poseidon, how fine their company looks—close-packed and fierce as a barley-cake and a full banquet!
+
+[23485] TRYGAEUS By Zeus, the mattock there gleamed bright in its array, and the winnowing-forks glitter in the sun. Truly she would clear a row of vines for them handsomely. So that I myself now long to go into the country and turn over my little plot with the mattock after so long.
+
+[23763] TRYGAEUS But remembering, men, the old way of life which she once provided for us—those cakes of dried fruit, and the figs and the myrtle-berries, and the sweet new wine, and the bed of violets beside the well, and the olives which we long for—for all these now address this goddess.
+
+[24048] CHORUS Hail, hail, how welcome your coming, O dearest! For I was overcome with longing for you, wishing fervently to creep away into the country. For you were our greatest gain, O longed-for one, to all of us who wore out a farmer's life. For you alone helped us. For we used to enjoy many sweet and cheap and dear things in your time. For to the country folk you were barley-gruel and salvation. So the vines and the young little fig-trees and all the other plants there are will laugh and welcome you gladly.
+
+[24560] CHORUS But where on earth was she, away from us all this long time? Teach us this, O most kindly of gods.
+
+[24667] HERMES O wisest farmers, then hear my words, if you want to learn how she was lost. First of all, Phidias began her troubles, having fared ill. Then Pericles, afraid he might share his misfortune, dreading your natures and your snappish temper, before suffering some dreadful thing himself, set the city ablaze, throwing in a tiny spark of the Megarian decree, and blew up so great a war that all the Greeks wept from the smoke, both those over there and those here. And once the vine first crackled—against our will—and a jar struck in anger kicked back at jar, there was no one left to stop it, and she vanished away.
+
+[25288] TRYGAEUS Well then, by Apollo, I'd learned this from no one, nor had I heard how Phidias concerned her.
+
+[25393] CHORUS Nor I, until just now. That's why she's so fair-faced, being a kinswoman of his. Much escapes us!
+
+[25499] HERMES And then, when the cities you ruled saw you grown savage against one another and snarling, they contrived everything against you out of fear of the tribute, and won over the greatest of the Spartans with money. And they, being basely greedy and treacherous to their guests, cast her out disgracefully and snatched up war. And then their gains were evils for the farmers; for the triremes from here, taking vengeance in turn, devoured the fig-shoots of men who were in no way to blame.
+
+[25992] TRYGAEUS Rightly enough, since they cut down my fine fig-tree, which I had planted and reared.
+
+[26088] CHORUS By Zeus, my good man, rightly indeed, since they smashed a six-bushel grain-bin of mine too with a stone.
+
+[26202] HERMES And then, when the laboring folk gathered together from the fields, they didn't perceive that they were being sold off in the same way, but, being without grape-pips and loving their dried figs, they looked to the speakers; and the speakers, knowing well that the poor were weak and short of barley-meal, drove this goddess away with two-pronged shouts, though she often appeared out of longing for this land; and they shook down the fat and rich among the allies, attaching accusations, saying that this one or that thought as Brasidas did. And then you would tear that man to pieces like little dogs; for the city, pale and sitting in fear, would gladly devour whatever slander anyone served up to her. And those allies, seeing the blows the foreigners were getting, stopped the mouths of the men doing this with gold, so as to make those men rich, while Greece would have been laid waste before you noticed it. And the doer of these things was a hide-seller.
+
+[27172] TRYGAEUS Stop, stop, lord Hermes, don't speak! But let that man stay where he is, down below; for that man is no longer ours, but yours.
+
+[27310] TRYGAEUS So whatever you say about him—even if he was a villain while he lived, and a babbler and an informer and a stirrer-up and a churn—all these things now you're reviling your own people.
+
+[27504] TRYGAEUS But why are you silent, O lady? Tell me.
+
+[27555] HERMES But she wouldn't speak before the spectators; for she holds great anger against them for what she suffered.
+
+[27671] TRYGAEUS Then let her speak just a little to you alone.
+
+[27728] HERMES Tell me what you mean toward them, dearest. Come, you most shield-grip-hating of women. Well, I'm listening. This is your charge? I understand. Hear, all of you, on what account she has her grievance. She says that, having come of her own accord after the affair at Pylos, bringing the city a hamper full of treaties, she was voted down three times in the Assembly.
+
+[28102] TRYGAEUS We did wrong in that; but pardon us, for our minds then were in the leather-trade.
+
+[28195] HERMES Come now, hear what she just asked me—who was most ill-disposed toward her here, and who was a friend and eager that there be no battles.
+
+[28341] TRYGAEUS The most well-disposed by far was Cleonymus.
+
+[28396] HERMES And what sort does Cleonymus seem to be in matters of war?
+
+[28463] TRYGAEUS Bravest in spirit—except that he turned out not to be the son of the father he claims. For if ever he went out as a soldier, he straightway became a shield-shedder.
+
+[28638] HERMES Hear yet again what she just asked me—who now rules over the stone on the Pnyx.
+
+[28726] TRYGAEUS Hyperbolus now holds that place. You there—what are you doing? Where are you turning your head?
+
+[28832] HERMES She turns away from the people, vexed that it has registered for itself such a wretched champion.
+
+[28938] TRYGAEUS But we'll have no more use of him; rather, the people, being at a loss for a guardian and naked, girded itself with this man for a while.
+
+[29086] HERMES She asks how this will profit the city.
+
+[29134] TRYGAEUS We'll become better in counsel.
+
+[29176] HERMES In what way?
+
+[29197] TRYGAEUS Because he happens to be a lamp-maker. Before, then, we groped about in the dark in our affairs, but now we'll deliberate everything by lamplight.
+
+[29354] HERMES Oh, oh! What things she bade me ask you!
+
+[29403] TRYGAEUS What things?
+
+[29426] HERMES Very many, and the old matters she left behind then. First she asked how Sophocles is doing.
+
+[29527] TRYGAEUS He's prosperous, but a strange thing has happened to him.
+
+[29595] HERMES What's that?
+
+[29616] TRYGAEUS Out of Sophocles he's becoming Simonides.
+
+[29668] HERMES Simonides? How so?
+
+[29695] TRYGAEUS Because, being old and decrepit, for the sake of gain he'd sail even on a wicker mat.
+
+[29791] HERMES And what then? Is the clever Cratinus alive?
+
+[29844] TRYGAEUS He died when the Spartans invaded.
+
+[29889] HERMES Of what?
+
+[29906] TRYGAEUS Of what? Of a swoon; for he couldn't bear to see a jar full of wine being broken. And how many other things do you think have happened in the city! So that we'll never let you go, mistress.
+
+[30106] HERMES Come now, on these terms take Harvest here as your wife; and then, dwelling with her in the country, beget grape-clusters for yourself.
+
+[30250] TRYGAEUS O dearest, come here and let me kiss you. Do I seem to you, lord Hermes, likely to come to any harm, after all this time, if I lie with Harvest?
+
+[30405] HERMES Not if you drank a draught of pennyroyal afterward. But take this Festival here and bring her back as quick as can be to the Council, to whom she once belonged.
+
+[30574] TRYGAEUS O blessed Council, in your Festival! What broth you'll slurp for three days, what boiled tripe and meats you'll devour! Well, dear Hermes, farewell heartily.
+
+[30742] HERMES And you too, man—go off rejoicing, and remember me.
+
+[30802] TRYGAEUS O beetle, home, home, let us fly away!
+
+[30851] HERMES He's not here, my friend.
+
+[30885] TRYGAEUS Where has he gone?
+
+[30914] HERMES He's gone under Zeus's chariot and carries the thunderbolt.
+
+[30982] TRYGAEUS Then where will the poor thing get its food up here?
+
+[31045] HERMES It'll feed on Ganymede's ambrosia.
+
+[31088] TRYGAEUS Then how shall I get down?
+
+[31125] HERMES Never fear, fine and easy—this way, beside the goddess herself.
+
+[31197] TRYGAEUS Come here, girls, follow me quickly; for very many men long for you and await you, with their members up.
+
+[31313] CHORUS Well, go off rejoicing; and meanwhile let us hand over this gear to our attendants and give it to them to guard, since usually a great many thieves lurk about the tents and do mischief. Guard these things manfully; and we in turn will tell the spectators the path of our argument, and all that's on our minds.
+
+[31631] CHORUS The ushers ought to beat any comic poet who came forward to the audience in the anapaests to praise himself. But if it's right, daughter of Zeus, to honor anyone who has become the best and most renowned trainer of comic choruses among men, then our trainer says he deserves great praise. For first of all, he alone of men put a stop to his rivals' forever mocking rags and waging war on the lice; and the Heracleses who knead their dough, and those hungry fellows, he was the first to drive off and dishonor; and he did away with the slaves who run away and cheat and get beaten on purpose, whom they would always bring on weeping—and these for this purpose, that a fellow-slave might mock his blows and then ask, "You poor wretch, what's happened to your hide? Did a whip's bristle fall upon your ribs with a great host and clear-cut your back of its trees?" Having removed such mean stuff and trash and ignoble buffooneries, he made a great art for us and built it up high, raising a tower with great words and grand thoughts and jests not of the marketplace, not lampooning little private men nor women, but with a wrath like Heracles' he attacked the greatest, striding through dreadful stenches of hides and muddy-hearted threats. And first of all I do battle with the sharp-toothed one himself, from whose eyes shone the most terrible rays of Cynna, and a hundred heads of cursed flatterers licked around his head, and he had the voice of a torrent that breeds destruction, the smell of a seal, the unwashed balls of a Lamia, and the backside of a camel. Seeing such a monster I did not quail, but, warring on your behalf, I held out always, and on behalf of the other islands too. For all which it's fitting that you now repay me the favor and be mindful. For before, when I succeeded to my heart's content, I didn't go roaming the wrestling-schools tempting boys, but I picked up my gear and went off at once, giving little pain, much delight, providing all that was needful.
+
+[33624] CHORUS For this reason, both the men and the boys ought to be on my side; and we urge the bald men too to join in striving for the victory. For everyone will say, when I win, both at table and at drinking-parties: "Bring to the bald man, give to the bald man some of the sweetmeats, and don't deprive the man who has the forehead of the noblest of poets."
+
+[33981] CHORUS O Muse, having thrust away wars, dance with me, your friend, celebrating the marriages of gods and the feasts of men and the festivities of the blessed; for these have been your care from the beginning. And if Carcinus comes and begs you to dance with his sons, neither obey nor go as their fellow-laborer, but consider them all home-bred quails, dancers with thin necks, dwarfish creatures, parings of goat-droppings, contrivance-mongers. For their father said that the play which he held beyond hope, a weasel strangled in the evening.
+
+[34527] CHORUS Such songs of the fair-haired Graces should the wise poet sing, when in spring the swallow sits and warbles, and Morsimus has no chorus, nor Melanthius—whose most bitter voice I once heard, when he and his brother held the tragic chorus, both of them gluttonous Gorgons, ray-fish-watching Harpies, foul old-hag-chasers, goat-armpit-smelling fish-spoilers; on whom, spitting greatly and broadly, O Muse, goddess, join with me in sporting at the festival.
+
+[34989] CHORUS How happily the old man fares now, as far as one can see, in his present affairs!
+
+[35079] TRYGAEUS What then, when you see me a bridegroom in my glory?
+
+[35142] CHORUS You'll be envied, old man, being young again, anointed with perfume.
+
+[35219] TRYGAEUS I think so. And what when I, lying with her, take hold of her breasts?
+
+[35300] CHORUS You'll appear happier than Carcinus's spinning-tops.
+
+[35361] TRYGAEUS And rightly so, surely—I who, mounting on a beetle's back, saved the Greeks, so that in the fields, all of them safe, they can screw and sleep.
+
+[35515] SERVANT The girl has been bathed, and the matters of her behind are lovely; the cake is baked, the sesame-bun is being shaped, and everything else all complete. Only the prick is wanting.
+
+[35704] TRYGAEUS Come now, let us deliver this Festival here to the Council, and be quick about it.
+
+[35797] SERVANT Who's this here?
+
+[35823] TRYGAEUS What do you say? This is Festival.
+
+[35868] SERVANT The one we once whacked on the way to Brauron, half-tipsy?
+
+[35936] TRYGAEUS Be sure of it; and she was hard to catch, too.
+
+[35993] SERVANT Master, what a four-yearly festival of the backside she has!
+
+[36063] TRYGAEUS Well now, who among you is just—who is it? Who will take and keep this girl safe for the Council? You there, what are you marking off?
+
+[36208] SERVANT What? I'm claiming a tent for myself at the Isthmian games, with my prick.
+
+[36292] TRYGAEUS You men still won't say who'll be the guardian. Come here, girl—I'll lead her myself and set her down in the midst.
+
+[36418] SERVANT That fellow there is nodding.
+
+[36457] TRYGAEUS Who?
+
+[36472] SERVANT Who? Ariphrades—begging to take her over to his place.
+
+[36536] TRYGAEUS But my dear man, he'll fall upon her broth and lap it up. Come now, first set your gear down on the ground. Council, prytaneis, behold Festival! See what good things I bring and hand over to you, so that straightway you may lift up her two legs and conduct the offering aloft. And see what a fine kitchen we have here.
+
+[36865] SERVANT That's why it's all sooty, too. For here, before the war, the Council once had its cooking-pots.
+
+[36971] TRYGAEUS And then, straightway, having her, you can hold a fine contest tomorrow—to wrestle on the ground, to stand on all fours, to throw her sideways, to crouch on the knees; and, oiled up youthfully, hold a pancratium too—to strike, to gouge with fist and prick together. And on the third day after these you'll hold a horse-race, where steed shall race steed, and chariots, overturned upon one another, panting and snorting, shall jostle; and other charioteers shall lie stripped about the turning-posts, fallen. But, prytaneis, receive Festival. See how eagerly the prytanis received her! But you wouldn't be so, if you had to bring some case forward for nothing—no, I'd find you holding out a truce-recess!
+
+[37685] CHORUS Truly a man is a good citizen to all, whoever is of this sort.
+
+[37756] TRYGAEUS When you gather the vintage, you'll know much better what sort I am.
+
+[37835] CHORUS And even now you're plainly so; for you've become a savior to all men.
+
+[37914] TRYGAEUS You'll say so when you drink down a beaker of new wine.
+
+[37980] CHORUS And, except for the gods, we'll always reckon you first.
+
+[38045] TRYGAEUS For Trygaeus of Athmonon is worth much to you, having freed the common folk from dreadful toils, and the farmer host, and put a stop to Hyperbolus.
+
+[38203] CHORUS Since all that a god wills and fortune sets right goes according to plan, one thing meets another of these in good season.
+
+[38334] TRYGAEUS How plain these things are; for the altar is at the door already.
+
+[38410] CHORUS Hurry now, while a stirring breeze from heaven holds sway, turning aside from war. For now the divine power plainly shifts us toward good things.
+
+[38564] TRYGAEUS The basket is here with the barley-grains and the garland and the knife, and here too the fire—and nothing holds us up but you and the sheep.
+
+[38716] CHORUS Won't you make haste, then? For if Chaeris sees you, he'll come up to play the flute uninvited, and then, I know well, when he's puffing and laboring, you'll surely give him something.
+
+[38909] TRYGAEUS Come now, take the basket and the holy water and go quickly round the altar to the right.
+
+[39009] SERVANT There. You may say something else—I've gone round.
+
+[39069] TRYGAEUS Come then, let me take this brand and dip it. Shake yourself quickly, you; and you, hold out the barley-grains, and sprinkle yourself with the holy water—give it here to me—and throw some of the barley to the spectators.
+
+[39300] SERVANT There.
+
+[39316] TRYGAEUS Have you given it already?
+
+[39353] SERVANT By Hermes, yes—so that of all these spectators here there's not one who hasn't got his barley-corn.
+
+[39462] TRYGAEUS The women didn't get any.
+
+[39498] SERVANT But toward evening their husbands will give it to them.
+
+[39563] TRYGAEUS Well, let us pray. Who's here? Where on earth are the many good men?
+
+[39642] SERVANT Here, let me give it to these—for they're many and good.
+
+[39708] TRYGAEUS You thought these good?
+
+[39742] SERVANT Aren't they? When, though we pour so much water over them, they come and stand in this same spot?
+
+[39849] TRYGAEUS But let us pray as quick as can be.
+
+[39895] CHORUS Let us pray, then.
+
+[39922] TRYGAEUS O most august queen-goddess, lady Peace, mistress of choruses, mistress of marriages, receive our sacrifice.
+
+[40041] CHORUS Receive it, O much-honored one, by Zeus—and don't do as adulterous women do. For they, too, set the courtyard-door ajar and peep out, and if anyone pays them heed, they withdraw, and then, if he goes away, they peep out again. Do none of these things to us any more.
+
+[40316] TRYGAEUS No, by Zeus—but show your whole self to us, your lovers, nobly and becomingly, who have been worn down by longing for you these thirteen years now; and dissolve the battles and the tumults, so that we may call you Lysimache, Dissolver-of-battles. And put a stop to our over-clever suspicions, with which we prattle against one another; and mix us Greeks together again from the beginning with the juice of friendship, and temper our minds with some gentler forgiveness. And let our marketplace be filled with good things—with great heads of garlic, with early cucumbers, apples, pomegranates, with little cloaks for the slaves; and let us see men bringing from Boeotia geese, ducks, ringdoves, wrens; and let baskets of Copaic eels arrive, and let us crowd round these in a throng buying provisions, jostling Morychus, Teleas, Glaucetes, and many other gluttons; and then let Melanthius come late to the marketplace, when they're sold out, and let him groan and chant a monody from his Medea: "I'm undone, I'm undone, bereft of the one nestled among the beets!"—and let the people rejoice over him.
+
+[41425] TRYGAEUS These things, O much-honored one, grant us as we pray.
+
+[41490] SERVANT Take the knife; then see that you slaughter the sheep cook-fashion.
+
+[41567] TRYGAEUS But it's not lawful.
+
+[41598] SERVANT Why not?
+
+[41616] TRYGAEUS Peace surely takes no pleasure in slaughterings, nor is her altar bloodied. But carry it inside and sacrifice it, then take out the thighs and bring them here; and so the sheep is saved for the producer.
+
+[41830] CHORUS You there at the door—you must stay and quickly lay split logs here, and all that's needful besides.
+
+[41939] TRYGAEUS Don't I seem to you to lay the kindling like a seer?
+
+[42002] CHORUS How not? What that a wise man should know has escaped you? What that one approved for a clever mind and resourceful daring ought to think, do you not think?
+
+[42167] TRYGAEUS At any rate the kindled split-wood smokes out Stilbides. And I'll fetch the table, and there'll be no need of a servant.
+
+[42298] CHORUS Then who would not praise such a man, who, having endured much, saved the holy city? So that you'll never cease being envied by all.
+
+[42439] SERVANT This is done. Take the thighs and lay them on. I'll go for the innards and the meal-cakes.
+
+[42539] TRYGAEUS I'll see to these; but you should have come.
+
+[42594] SERVANT Look, here I am. Do I seem to have delayed you?
+
+[42651] TRYGAEUS Now roast these well; for here comes someone crowned with bay. Who on earth can it be?
+
+[42748] SERVANT How like a charlatan he looks! He's some sort of seer.
+
+[42812] TRYGAEUS No, by Zeus—it's Hierocles, that oracle-monger from Oreus.
+
+[42881] SERVANT Whatever will he say?
+
+[42912] TRYGAEUS It's plain that he'll oppose the reconciliation in some way.
+
+[42983] SERVANT No, he's come in following the savory smell.
+
+[43037] TRYGAEUS Then let's pretend not to see him.
+
+[43082] SERVANT Well said.
+
+[43102] HIEROCLES What sacrifice is this, and to which of the gods?
+
+[43163] TRYGAEUS Roast in silence, you, and keep away from the loin.
+
+[43225] HIEROCLES Won't you tell me to which god you sacrifice?
+
+[43282] TRYGAEUS The tail's doing nicely?
+
+[43317] SERVANT Nicely indeed, O dear lady Peace.
+
+[43360] HIEROCLES Come now, begin the first offering, and then give me the first-fruits.
+
+[43442] TRYGAEUS Better to roast first.
+
+[43475] HIEROCLES But these here are already roasted.
+
+[43522] TRYGAEUS You're very busy, whoever you are. Cut it up. Where's the table? Bring the libation.
+
+[43617] HIEROCLES The tongue is cut separately.
+
+[43658] TRYGAEUS We remember. But do you know what you should do?
+
+[43717] HIEROCLES If you tell me.
+
+[43744] TRYGAEUS Don't talk to us at all; for we're sacrificing holy things to Peace.
+
+[43823] HIEROCLES "O wretched and foolish mortals—"
+
+[43868] TRYGAEUS On your own head!
+
+[43896] HIEROCLES "—who in your folly, not heeding the mind of the gods, have made compacts, you men, with fierce-eyed apes—"
+
+[44015] TRYGAEUS Ha, ha, ha!
+
+[44037] HIEROCLES What are you laughing at?
+
+[44074] TRYGAEUS I was delighted with the "fierce-eyed apes."
+
+[44129] HIEROCLES "—and you trembling doves have trusted in fox-cubs, whose souls are guileful, guileful their minds—"
+
+[44241] TRYGAEUS Would that your lung were as hot as this roast, you charlatan!
+
+[44314] HIEROCLES "For if the divine nymphs did not deceive Bakis, nor Bakis mortals, nor again the nymphs Bakis himself—"
+
+[44430] TRYGAEUS May you perish utterly, if you don't stop Bakis-ing!
+
+[44493] HIEROCLES "It was not yet fated that the bonds of Peace be loosed, but this first—"
+
+[44578] TRYGAEUS These bits here must be sprinkled with salt.
+
+[44633] HIEROCLES "For it is not yet pleasing to the blessed gods that we cease from strife, before the wolf shall wed the sheep."
+
+[44757] TRYGAEUS And how, you accursed man, could a wolf ever wed a sheep?
+
+[44825] HIEROCLES "As the beetle, fleeing, lets out the foulest stink, and the goldfinch, hurrying, bears blind young—at that time it was not yet fitting that peace be made."
+
+[44993] TRYGAEUS Then what should we have done? Not stopped making war, or cast lots to see which side should wail the louder, when by making a truce we might rule Greece in common?
+
+[45168] HIEROCLES You'll never make the crab walk straight.
+
+[45221] TRYGAEUS You'll never dine in the Prytaneum hereafter, nor make any oracle after the deed is done.
+
+[45321] HIEROCLES You'll never make the rough hedgehog smooth.
+
+[45377] TRYGAEUS Will you never stop hoodwinking the Athenians?
+
+[45434] HIEROCLES According to what oracle did you burn thigh-bones to the gods?
+
+[45508] TRYGAEUS The finest one, surely, that Homer ever made: "So they, having thrust away the hateful cloud of war, chose Peace and set her up with a sacrifice. And when the thighs were burnt and they had tasted the innards, they poured libations from cups; and I led the way; but no one gave the oracle-monger a shining beaker."
+
+[45833] HIEROCLES I have no part in these things; for the Sibyl didn't say them.
+
+[45907] TRYGAEUS But the wise Homer, by Zeus, spoke cleverly: "Clanless, lawless, hearthless is that man who loves chilling civil war."
+
+[46036] HIEROCLES Take care, lest somehow a kite, deceiving your wits by guile, snatch—
+
+[46117] TRYGAEUS Now this you watch out for, since this oracle is dangerous to the innards. Pour the libation, and bring some of the innards here.
+
+[46257] HIEROCLES Well, if that's how it is, I'll serve myself too.
+
+[46318] TRYGAEUS A libation, a libation!
+
+[46352] HIEROCLES Pour for me too, and offer me a share of the innards.
+
+[46417] TRYGAEUS But it's not yet pleasing to the blessed gods—rather this first: that we pour libation, and you depart. O lady Peace, abide with us our life long.
+
+[46574] HIEROCLES Bring the tongue.
+
+[46603] TRYGAEUS And you, carry off your own.
+
+[46642] HIEROCLES A libation!
+
+[46665] TRYGAEUS And take these, quick, along with the libation.
+
+[46723] HIEROCLES Won't anyone give me a share of the innards?
+
+[46779] TRYGAEUS No—for we cannot give you a share, before the wolf shall wed the sheep.
+
+[46861] HIEROCLES Yes, by your knees!
+
+[46892] TRYGAEUS You beg in vain, my good man; for you'll never make the rough hedgehog smooth. Come now, spectators, share the innards with us here, the two of us.
+
+[47050] HIEROCLES And what about me?
+
+[47080] TRYGAEUS Eat your Sibyl.
+
+[47106] HIEROCLES By the Earth, you two shan't eat these alone—I'll snatch them from you. They lie in the open.
+
+[47211] TRYGAEUS Strike Bakis!
+
+[47235] HIEROCLES I call you to witness!
+
+[47269] TRYGAEUS And I, that you're a glutton and a charlatan. Strike him, bearing down with the stick—the charlatan!
+
+[47380] SERVANT You do that; and I'll strip off these fleeces here, which he took himself by deceit. Won't you drop the fleeces, you sacrificer? Do you hear? See what a raven came from Oreus! Won't you fly off quick to Elymnium?
+
+[47602] CHORUS I rejoice, I rejoice, freed from helmet and cheese and onions! For I take no pleasure in battles, but in drinking by the fire with dear comrades, having kindled such of the logs as are driest, sawn in summer, and roasting the chickpea and toasting the acorn, and at the same time kissing the Thracian maid while my wife is at the bath.
+
+[47946] CHORUS For there's nothing sweeter than for the seed to be already sown, and the god to drizzle upon it, and for some neighbor to say: "Tell me, what shall we do at this hour, Comarchides?" "I'd like a drink, since the god is doing well by us. Come, wife, parboil three quarts of beans, and mix in some of the wheat, and bring out some of the figs; and let Syra call Manes in from the field. For there's no way at all to dress the vine-shoots today or break up the clods, since the ground is sodden. And let someone bring out from my place the thrush and the two finches; and there was some beestings-curd inside too, and four hares—unless the weasel carried off any of them in the evening; for something was thumping and clattering inside, I don't know what. Of these, boy, bring three for us, and give one to my father; and ask Aeschinades for some myrtle-branches with the berries; and on the same way let someone call Charinades, to drink with us, while the god is doing well by and helping our crops."
+
+[48954] CHORUS And when the cricket sings its sweet tune, I delight to look over my Lemnian vines, whether they're ripening yet—for the plant is early by nature—and to see the wild fig swelling; and then, when it's ripe, I eat and keep eating, and at the same time I say, "Dear seasons!" and, pounding some thyme, I mix a draught; and then I grow fat at that time of the summer.
+
+[49326] CHORUS —rather than looking at a god-detested captain with three crests and a very sharp scarlet cloak, which he says is a Sardian dye; but if ever he has to fight wearing the scarlet cloak, then he himself gets dyed a Cyzicene dye; and then he flees first, like a tawny horse-cock, shaking his crests, while I stand there watching the nets. And when they get home, they do unbearable things: enrolling some of us and rubbing others out, up and down, twice or three times. And tomorrow is the march-out; but so-and-so has bought no provisions, for he didn't know he was marching out; and then, standing before the statue of Pandion, he sees his name, and at a loss runs off, looking sour at his trouble. Such things they do to us country folk, but to the city folk less—these throwers-away-of-shields, hateful to gods and men. For all which they'll yet render me an account, if god wills.
+
+[50216] CHORUS For they've wronged me much, being lions at home but foxes in battle.
+
+[50294] LAMACHUS'S SON Now let us begin with younger men—
+
+[50345] TRYGAEUS Stop singing of "younger men," and that—you thrice-cursed thing—in time of peace! You're ignorant and accursed.
+
+[50467] LAMACHUS'S SON "And when they were near, advancing upon one another, they clashed together their oxhides and bossed shields."
+
+[50594] TRYGAEUS Shields? Won't you stop reminding us of a shield?
+
+[50654] LAMACHUS'S SON "Then arose at once both the wailing and the boasting of men."
+
+[50733] TRYGAEUS The wailing of men? By Dionysus, you'll wail for singing of wailings—and bossed ones too!
+
+[50833] LAMACHUS'S SON Then what shall I sing? For you tell me what you like.
+
+[50904] TRYGAEUS "So they feasted on the flesh of oxen," and such things as that: "they set out breakfast, and all that's sweetest to eat."
+
+[51037] LAMACHUS'S SON "So they feasted on the flesh of oxen, and unyoked the sweating necks of the horses, when they had had their fill of war."
+
+[51176] TRYGAEUS Good! They had their fill of war and then ate. Sing this, this—how they ate when they were full.
+
+[51283] LAMACHUS'S SON "Then they armed themselves, having ceased—"
+
+[51344] TRYGAEUS Gladly, I think.
+
+[51371] LAMACHUS'S SON "And from the towers they poured forth, and an unquenchable shout arose."
+
+[51461] TRYGAEUS A wretched death to you, boy, battles and all! You sing nothing but wars. Whose son are you, anyway?
+
+[51572] LAMACHUS'S SON Me?
+
+[51592] TRYGAEUS You indeed, by Zeus.
+
+[51623] LAMACHUS'S SON The son of Lamachus.
+
+[51660] TRYGAEUS Bah! Indeed I was wondering, as I listened, whether you weren't the son of some "Mr. Want-war-and-wail." Off with you, and go sing to the spearmen. Where's Cleonymus's boy for me? Sing something before you go in; for I know well you won't sing of troubles, since you're the son of a prudent father.
+
+[51969] CLEONYMUS'S SON "Some Saian glories in my shield, which beside a bush, a faultless weapon, I left behind unwillingly."
+
+[52089] TRYGAEUS Tell me, my little man, are you singing about your own father?
+
+[52162] CLEONYMUS'S SON "But I saved my life—"
+
+[52202] TRYGAEUS —and shamed your parents. But let's go in. For I know well and surely that what you just sang about the shield you'll never forget, being that father's son.
+
+[52369] TRYGAEUS Your task now is for those of you who remain here to crush and pound all this, and not to pull empty jaws along. Come, fall to manfully and grind with both jaws; for there's no use, you wretches, in white teeth, unless they also chew something.
+
+[52624] CHORUS We'll see to that; and you do well to tell us too.
+
+[52683] TRYGAEUS Come, you who were hungry before, fall to upon the hare's meat; for one can't every day come upon cakes wandering forsaken. So eat away, or soon, I tell you, you'll be sorry.
+
+[52868] CHORUS We must keep holy silence, and bring the bride out here, and carry torches, and let all the people rejoice together and dance. And now we must carry all the gear back to the country, after dancing and pouring libation and driving out Hyperbolus, and after praying to the gods to give wealth to the Greeks, and to make us all alike grow much barley and much wine, and to munch figs, and let our wives bear children for us, and let us gather up again from the beginning all the good things we lost, and let the gleaming iron cease.
+
+[53406] TRYGAEUS Come here, wife, to the country, and see that, lovely as you are, you lie lovely beside me. Hymen, Hymenaeus, oh!
+
+[53530] SECOND SEMICHORUS O thrice-blessed man, how justly you now have these good things!
+
+[53614] FIRST SEMICHORUS Hymen, Hymenaeus, oh!
+
+[53654] SECOND SEMICHORUS Hymen, Hymenaeus, oh!
+
+[53695] FIRST SEMICHORUS What shall we do with her?
+
+[53740] SECOND SEMICHORUS What shall we do with her?
+
+[53786] FIRST SEMICHORUS We'll gather her vintage,
+
+[53830] SECOND SEMICHORUS We'll gather her vintage.
+
+[53875] FIRST SEMICHORUS Come, let us, the appointed ones, lift up and carry the bridegroom, men.
+
+[53966] SECOND SEMICHORUS Hymen, Hymenaeus, oh!
+
+[54007] SECOND SEMICHORUS Hymen, Hymenaeus, oh!
+
+[54048] TRYGAEUS You'll dwell well, then, with no troubles, but gathering figs.
+
+[54121] SECOND SEMICHORUS Hymen, Hymenaeus, oh!
+
+[54162] FIRST SEMICHORUS Hymen, Hymenaeus, oh!
+
+[54202] SECOND SEMICHORUS His is big and thick.
+
+[54243] FIRST SEMICHORUS And hers—the fig is sweet.
+
+[54288] TRYGAEUS You'll say so when you eat, and drink much wine.
+
+[54347] CHORUS Hymen, Hymenaeus, oh! Hymen, Hymenaeus, oh!
+
+[54399] TRYGAEUS Farewell, farewell, men! And if you follow along with me, you'll eat cakes.

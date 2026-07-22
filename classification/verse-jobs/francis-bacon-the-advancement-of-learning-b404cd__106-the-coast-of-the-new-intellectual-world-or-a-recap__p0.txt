@@ -1,0 +1,1369 @@
+WORK: The Advancement of Learning  (slug: francis-bacon-the-advancement-of-learning-b404cd)
+
+CHAPTER: 106-the-coast-of-the-new-intellectual-world-or-a-recap
+
+
+
+[0] The History of Monsters; or irregular productions of nature, in all the three kingdoms—vegetable, animal, and mineral.
+
+[120] The History of Arts; or nature formed and wrought by human industry.
+
+[190] A well-purged History of Nature in her extent; or the phenomena of the universe.
+
+[272] Inductive History; or historical matters consequentially deduced from phenomena, facts, observations, experiments, arts, and the active sciences.
+
+[419] A Universal Literary History; or the affairs relating to learning and knowledge, in all ages and countries of the world.
+
+[541] Biography; or the lives of all eminent persons.
+
+[590] The History of Prophecy; or the accomplishment of Divine predictions, to serve as a guide in the interpretation of prophecies.
+
+[718] The Philosophy of the Ancient Fables; or a just interpretation of the mythology of the ancients.
+
+[816] Primary Philosophy; or a collection of general axioms, subservient to all the sciences.
+
+[905] Physical Astronomy; or a philosophical history of the heavens.
+
+[969] A Just Astrology; or the real effects of the celestial bodies upon the terrestrial.
+
+[1054] A Calendar of Doubts; or natural problems, to be continued through all ages, along with a calendar of vulgar errors.
+
+[1172] A Collection of the Opinions of the Ancient Philosophers.
+
+[1231] An Inquiry into the Simple Forms of Things; or that which constitutes their essences and differences.
+
+[1334] Natural Magic; relative to the doctrine of forms.
+
+[1385] An Inventory of Knowledge; or an account of the stock of learning among mankind.
+
+[1467] A Calendar of leading Experiments; for the better interpretation of nature.
+
+[1544] Short and commodious Methods of Calculation, in business, astronomy, etc.
+
+[1619] The Doctrine of Gesture; or the motions of the body, with a view to their interpretation.
+
+[1710] Comparative Anatomy between different Human Bodies.
+
+[1763] A work upon Incurable Diseases, to lessen their number, and fix a true notion of incurable in medicine.
+
+[1868] The Laudable Means of procuring easy Deaths.
+
+[1914] A Set of approved and effectual Remedies for Diseases.
+
+[1970] The Ways of Imitating Natural Springs and Bath Waters.
+
+[2026] The Filum Medicinale; or Physician’s Clew in Prescription.
+
+[2086] A Natural Philosophy fundamental to Physic.
+
+[2131] The Ways of Prolonging Life.
+
+[2161] An Inquiry into the Nature and Substance of the sensitive Soul.
+
+[2226] The Doctrine of Muscular Motion; or the efficacy of the spirits in moving the body.
+
+[2311] The Doctrine of Sense and Sensibility; or the difference between perception and sense.
+
+[2399] An Inquiry into the Origin and Form of Light; or the foundation of optics.
+
+[2475] The Art of Inventing Arts.
+
+[2503] The True Use of Induction in Philosophy.
+
+[2545] The Art of Indication or Direction in Philosophy.
+
+[2596] A Learned or Sagacious Kind of Experience, different from the vulgar, and leading to the direct improvement of arts.
+
+[2714] A Particular Topical Invention, directed by the light of leading questions, or proper heads of inquiry.
+
+[2819] The Doctrine of Idols; or a detection and confutation of the prejudices, false conceptions, and errors of the mind.
+
+[2936] A New Engine; or helps for the mind corresponding to those of the hand.
+
+[3009] An Appendix to the Art of Judgment; assigning the kinds of demonstration proper to every subject.
+
+[3108] An Interpretation of the Marks, Signatures, or Impressions of things.
+
+[3179] A Philosophical Grammar; or an account of the various properties of different languages, in order to form one perfect pattern of speech.
+
+[3317] The Traditive Lamp; or the proper method of delivering down the sciences to posterity.
+
+[3405] The Doctrine of Prudence in private discourse; or colors of good and ill.
+
+[3480] A Collection of Sophisms, with their confutations.
+
+[3532] A Collection of studied Antithets; or short and strong sentences, on both sides of the question, in a variety of subjects.
+
+[3656] A Collection of lesser Forms of Speech, for all the occasions of writing and speaking.
+
+[3744] Sober Satire; or the insides of things.
+
+[3785] The Georgics of the Mind; or the means of procuring the true moral habit of virtue.
+
+[3870] An Account of the Characters or Natures of Persons.
+
+[3923] The Doctrine of the Affections, Passions, or Perturbations of the Mind.
+
+[3996] The Secretary to the Uses of Life; or the doctrine of various occasions.
+
+[4070] The Doctrine of Business; or books upon all kinds of civil employments, arts, trades, etc.
+
+[4162] Self-Policy, the doctrine of rising in life; or the means of advancing a man’s private fortune.
+
+[4259] The Military Statesman; or the political doctrine of enlarging the bounds of empire.
+
+[4345] The Doctrine of Universal Justice; or the fountains of equity.
+
+[4409] The Moderator in Divinity; or the true use of human reason in the business of revelation.
+
+[4500] The Degrees of Unity in Religion adjusted, with a view to preserve the peace of the Church.
+
+[4593] The First Flowings of the Scriptures; or a set of short, sound, and judicious notes upon particular texts, tending to use and practice.
+
+[4730] Pedarii senatores.
+
+[4750] For exemplifications of these opinions, the reader may consult Morhof’s “Polyhistor.,” and the other writers upon polymathy and literary history.—Shaw.
+
+[4903] By wreaths and knots, is understood the apparent complication of causes, and the superaddition of properties not essential to things; as light to heat, yellowness to gold, pellucidity to glass, etc.—Ib.
+
+[5107] Prov. xxv. 2.
+
+[5122] This passage, though tersely and energetically expressed, is founded upon a misconception of deduction, or, as Bacon phrases it, syllogistic reasoning, and its relation to induction. The two processes are only reverse methods of inferences, the one concluding from a general to a particular, and the other from a particular to a general, and both schemata are resolvable into propositions, and propositions into words, which, as he says, are but the tokens and signs of things. Now if these first notions, which are as it were the soul of words and the basis of every philosophic fabric, be hastily abstracted from things, and vague and not clearly defined and limited, the whole structure, whether erected by induction or deduction, or both, as is most frequently the case, must fall to the ground. The error, therefore, does not lie in the deductive mode of proof, without which physical science could never advance beyond its empirical stage, but in clothing this method in the vulgar language of the day, and reasoning upon its terms as if they pointed at some fact or antithesis in nature, instead of previously testing the accuracy of such expressions by experiment and observation. As such notions are more general than the individual cases out of which they arise, it follows that this inquiry must be made through the medium of induction, and the essential merit of Bacon lies in framing a system of rules by which this ascending scale of inference may be secured from error. As the neglect of this important preliminary to scientific investigation vitiated all the Aristotelian physics, and kept the human mind stationary for two thousand years, hardly too much praise can be conferred upon the philosopher who not only pointed out the gap but supplied the materials for its obliteration. The ardency of his nature, however, urged him to extremes, and he confounded the accuracy of the deductive method with the straw and stubble on which it attempted to erect a system of physics. In censuring intermediate propositions, Bacon appears to have been unaware that he was condemning the only forms through which reason or inference can manifest itself, and lecturing mankind on the futility of an instrument which he was employing in every page of his book.—Ed.
+
+[7392] Bacon held, that every perception is nothing more than the consciousness of some body acting either interiorly or from without upon that portion of the frame which is the point of contact. Hence all the knowledge we have of the material world arises from the movements which it generates in our senses. These sensations simply inform us that a wide class of objects exist independent of ourselves, which affect us in a certain manner, and do not convey into our minds the real properties of such objects so much as the effects of the relation in which they stand to our senses. Human knowledge thus becomes relative; and that which we call the relation of objects to one another is nothing more than the relation which they have to our organization. Hence as these relations of objects, either internal or exterior to the mind, vary, sensations must vary along with them, and produce, even in the same individual, a crowd of impressions either conflicting or in some measure opposed to each other. So far as these feelings concern morals, it is the business of ethics to bring them under the influence of reason, and, selecting out of them such as are calculated to dignify and elevate man’s nature, to impart to them a trenchant and permanent character. As respects that portion which flow in upon the mind from the internal world, it is the peculiar province of induction as reformed by our author, to separate such as are illusory from the real, and to construct out of the latter a series of axioms, expressing in hierarchical gradation the general system of laws by which the universe is governed.—Ed.
+
+[9000] The doctrine of the last two paragraphs may appear contradictory to the opinion of some philosophers, who maintain the infallibility of the senses, as well as of reason; but the dispute perhaps turns rather upon words than things. Father Malebranche is express, that the senses never deceive us, yet as express that they should never be trusted, without being verified; charging the errors arising in this case upon human liberty, which makes a wrong choice. See “Recherche de la Vérité,” liv. i. chaps. 5-8. The difference may arise only from considering the senses in two different lights, viz., physically, or according to common use; and metaphysically, or abstractedly. The “Novum Organum” clears the whole. See also Marin Mersenus, “De la Vérité des Sciences.”—Ed.
+
+[9772] This part is what the author elsewhere terms scala intellectus, or the progress of the understanding, and was intended to be supplied by him in the way of monthly productions. See his dedication of the “History of the Winds” to Prince Charles.—Shaw.
+
+[10023] The later Academy, who held the ακαταληψια.
+
+[10068] See Numb. xxviii. 23; Levit. xxii. 18.
+
+[10108] Plato’s Phædo, i. 72 (Steph.); Theæt. i. 166, 191; Menon, ii. 81; and Aristot. de Memor. 2.
+
+[10201] III. Kings iv. 29. We may observe that Bacon invariably quotes from the Vulgate, to which our references point.
+
+[10314] Tacitus, Annales, xiii. 3.
+
+[10342] Poemander of Hermes Trismegistus.
+
+[10377] Eccles. xii. 12, and i. 18.
+
+[10406] I. Cor. viii. 1.
+
+[10424] Eccles. i. 8
+
+[10438] Eccles. iii. 11.
+
+[10456] I. Cor. viii. 1.
+
+[10474] Eccles. ii. 13, 14.
+
+[10495] Ap. Stob. Serm. v. 120, in Ritter’s Hist. Phil. § 47.
+
+[10550] Phil. Jud. de Somnis, p. 41.
+
+[10580] Job. xiii. 7.
+
+[10595] Hooker, Eccl. Pol. i. 2; Butler, Anal. part i. c. 2.
+
+[10649] See the author’s essay on Atheism, and Mr. Boyle’s essays upon the Usefulness of Philosophy.
+
+[10743] Iliad. viii. 19; and conf. Plato, Theæt. i. 153.
+
+[10793] The dispute between the rational and scriptural divines is still on foot; the former are for reconciling reason and philosophy with faith and religion; and the latter for keeping them distinct, as things incompatible, or making reason and knowledge subject to faith and religion. The author is clear, that they should be kept separate, as will more fully appear hereafter, when he comes to treat of theology.—Shaw.
+
+[11209] Plutarch in M. Cato.
+
+[11231] Plato, Apol. Soc.
+
+[11250] By the Italians “Ragioni di stato.”
+
+[11287] Pind. Pyth. ii. 21.
+
+[11308] Cic. ad Att. i. 1.
+
+[11328] Seneca’s Epistles, iii. near the end.
+
+[11367] Plutarch’s “Life of Demosthenes,” not said of Æschines, but Pytheas.
+
+[11437] Plutarch’s M. Cato.
+
+[11458] Plato, Apol. Socr.
+
+[11478] Mach. Hist. de Firenza, b. 10.
+
+[11510] Livy’s preface, toward the end.
+
+[11543] Diog. Cyn. ap. Laert. vi. 54; compare Tacitus, Agric. 45, of Domitian, “Sævus vultus et rubor, a quo se contra pudorem muniebat.”
+
+[11674] Annals, iii. 76.
+
+[11692] Joel ii. 28.
+
+[11706] Plut. “Life of Agesil.”
+
+[11731] Plutarch, Solon.
+
+[11749] Epist. Z. iii. 331; and cf. Ep. T. iii. 316.
+
+[11795] Sallust, Cat. Couspiracy.
+
+[11822] Cicero to Atticus, epis. ii. 1.
+
+[11855] Oratio pro L. Muræna, xxxi. 65.
+
+[11888] “I am unequal to my teaching.”—Ovid, Ars Amandi, ii. 548.
+
+[11947] Oration on the Crown.
+
+[11970] Seneca, Ep. Mor. i. 7.
+
+[11994] Prov. xxv.
+
+[12006] Cicero, Tuscul. Quæst. i. 2; Plutarch, Themistocles.
+
+[12060] Conv. iii. 215; and cf. Xen. Symp. v. 7.
+
+[12102] Lucian de Merc. Cond. 33, 34. The raillery couched under the word cynic will become more evident if the reader will recollect the word is derived from κυνος, the Greek name for dog. Those philosophers were called Cynics who, like Diogenes, rather barked than declaimed against the vices and the manners of their age.—Ed.
+
+[12424] Du Bartas Bethulian’s Rescue, b. v. translated by Sylvester.
+
+[12486] Laert. Life Diog.
+
+[12505] Laert. Life Arist.
+
+[12525] Demonax.
+
+[12535] Spartianus, Vit. Adriani, § 15.
+
+[12568] Neither a Portuguese nor a bishop, but a Spanish monk, born at Tarragona, and sent by St. Augustine on a mission to Jerusalem in the commencement of the fifth century.
+
+[12737] Ovid, Metam. x. 243.
+
+[12759] M. Fontenelle is an eminent modern instance in the same way, who, particularly in his “Plurality of Worlds,” renders the present system of astronomy agreeably familiar, as his “History of the Royal Academy” embellishes and explains the abstruse parts of mathematics and natural philosophy.—Shaw.
+
+[13056] Since the establishment of the French Academy, a studied plainness and simplicity of style begins to prevail in that nation.
+
+[13182] I. Tim. vi. 20.
+
+[13199] For the literary history of the schoolmen, see Morhof’s “Polyhist.” tom. ii. lib. i. cap. 14; and Camden’s “Remains.”
+
+[13318] Quintilian, lib. x. cap. 1, § 130.
+
+[13354] Diog. Laert. iii. 18, Life of Plato.
+
+[13392] Tacit. Hist. b. i. 51.
+
+[13416] As among the Egyptians, the Chinese, and the Arabians, if their histories, are to be credited. In later times, they make copper out of iron, at Newsohl, in Germany. See Agricola “De Re Metallica,” Morhof, Fr. Hoffman, etc. While Brand of Hamburg was working upon urine, in order to find the philosopher’s stone, he stumbled upon that called Kunckel’s burning phosphorus, in the year 1669. See Mém. de l’Acad. Royal. des Sciences, an 1692. And M. Homberg operating upon human excrement, for an oil to convert quicksilver into silver, accidentally produced what we now call the black phosphorus, a powder which readily takes fire and burns like a coal in the open air. See Mém. de l’Acad. an 1711. To give all the instances of this kind were almost endless.—Ed.
+
+[14177] Jeremiah vi. 16.
+
+[14195] Senec. imput. ap. Lact. Instit. i. 26, 13.
+
+[14239] “Nihil aliud quam bene ausus est, vana contemnere.”—Livy, b. 10, c. 17.
+
+[14312] Text Empir. against St. Math. vii. 133.
+
+[14353] If it is true that God is the great spring of motion in the universe, as the theory of moving forces is a part of mechanics and mechanics a department of physics, we cannot see how theology can be entirely divorced from natural philosophy. Physicists are too apt to consider the universe as eternally existing, without contemplating it in its finite aspect as a series of existences to be produced, and controlled by the force of laws externally impressed upon them. Hence their theory of moving forces is incomplete, as they do not take the prime mover into account, or supply us, in case of denying him, with the equivalent of his action.—Ed.
+
+[14999] “Hic ab arte sua non recessit.”—Tuscul. Quæst. i. c. 10.
+
+[15057] Arist. De Gener. et Corrup. lib. 1.
+
+[15094] Cicero, De Natura Deorum, i. c. 8.
+
+[15130] Cicero, Tuscul. Quæst. v. c. 4.
+
+[15163] To this catalogue of errors incident to learned men may be added, the frauds and impostures of which they are sometimes guilty, to the scandal of learning. Thus plagiarism, piracy, falsification, interpolation, castration, the publishing of spurious books, and the stealing of manuscripts out of libraries, have been frequent especially among ecclesiastical writers, and the Fratres Falsarii. For instances of this kind, see Struvius “De Doctis Impostoribus,” Morhof in “Polyhist. de Pseudonymis, Anonymis, etc.,” Le Clerc’s “Ars Critica,” Cave’s “Historia Literaria Scriptorum Ecclesiasticorum,” Father Simon, and Mabillon.—Ed.
+
+[15793] Prov. xxvii. 6.
+
+[15810] See Dionys. Hierarch. 7, 8, 9.
+
+[15842] Gen. i. 3.
+
+[15854] Gen. ii. 3.
+
+[15867] Gen. ii. 19.
+
+[15881] Gen. iv. 2.
+
+[15894] Gen. iv. 21, 22.
+
+[15912] Gen. xi.
+
+[15922] Acts vii. 22.
+
+[15937] Plat. Tim. iii. 22.
+
+[15958] Leviticus xiii. 12.
+
+[15979] See Job xxvi.—xxxviii.
+
+[16003] Job xxvi. 7, 13.
+
+[16021] xxxviii. 31.
+
+[16035] That is, to Job, who cannot be supposed to know what telescopes only have revealed, that stars change their declination with unequal degrees of motion. It is clear, therefore, that their distances must be variable, and that in the end the figures of the constellations will undergo mutation; as this change, however, will not be perceptible for thousands of years, it hardly comes within the limit of man’s idea of mutation, and therefore, with regard to him, may be said to have no existence.—Ed.
+
+[16534] The Hyades nearly approach the letter V in appearance.
+
+[16590] The crown of stars which forms a kind of imperfect circle near Arcturus.
+
+[16664] It is not true that all the southern stars are invisible in our hemisphere. The text applies only to those whose southern declination is greater than the elevation of the equator over their part of the horizon, or, which is the same thing, than the complement of the place’s latitude.—Ed.
+
+[16954] x. 10.
+
+[16962] xxviii. 1.
+
+[16974] Epist. ad Jamblic. Gibbon, vol. ii. c. 23.
+
+[17018] Gibbon, vol. iv. c. 45.
+
+[17043] Matt. xxii. 29.
+
+[17060] Plato (De Republica, b. 5) ii. 475.
+
+[17097] Suetonius, Life of Domitian, c. 23.
+
+[17134] Iliad, i. 42.
+
+[17149] “Unum de istis puto qui cuminum secant.”—Julian. Cæs.
+
+[17204] Βοτάνη τοίχου. He called Adrian ἐργαλειον ζωγραϕικόν.
+
+[17259] Julian. Cæsares.
+
+[17277] For these anecdotes see Plutarch’s life of Alex.
+
+[17327] Seneca de Benef. v. 5.
+
+[17351] Vid. Seneca, Ep. Mor. vi. 7.
+
+[17381] Iliad, iv. 340.
+
+[17398] ὁλοπορϕυρος. Apop. Reg. et Imp.
+
+[17431] Vid. Cie. Brutus, 72.
+
+[17454] Vid. Cic. ad Att. xii. 40, 41; xiii. 50; and Top. xxv.
+
+[17510] Cic. ad Fam. ix. 16.
+
+[17532] Eccl. xii. 11.
+
+[17548] Suet. Life Jul. Cæs. c. 70.
+
+[17577] Suet. Life Jul. Cæs. 79.
+
+[17603] The point of this expression arises from the absence of the article in the Latin tongue, which made rex, a king, exactly convertible with the title of those families who bore Rex for their surname. With us, also, there are many individuals who bear the name of King, and among the French the name Roi is not uncommon.—Ed.
+
+[17926] Plutarch; cf. Oic. ad Att. x. 8.
+
+[17960] Suet. Life, lxxvii.
+
+[17981] Xen. Anab. ii. toward the end.
+
+[18013] Xen. Anab. ii. 1—12.
+
+[18035] Ovid. Ep. Pont. ii. ix. 47.
+
+[18064] See Epictetus, Enchir. c. 33, with the comment of Simplicius.
+
+[18127] Georg. ii. 490.
+
+[18144] Rev. ii. 24.
+
+[18158] “Suave mari magno turbantibus æquora ventis,” etc. De Rerum Natura, ii. 1-13.
+
+[18237] The merits of learning have been incidentally shown by many, but expressly by few. Among the latter may be included Johannes Wouwerius de Polymathia, Gulielmus Budæus de Philologia, Morhof in “Hist. Polyhistor.,” and Stollius in “Introduct, in Historiam Literariam.” To these may be added, Baron Spanheim, M. Perault, Sir William Temple, Gibbon, and Milton.—Ed.
+
+[18600] Matt. xi. 19.
+
+[18615] Ecc. x. 10.
+
+[18628] Georg. iv. 8.
+
+[18643] Apocryphal Orat. post Repit. in Sen. xii. 30; cf. pro Pl. xxx. 74.
+
+[18711] Speech of Menenius Agrippa, Livy, ii. 32.
+
+[18754] Virg. Georg. iii. 128.
+
+[18778] Sylva de Orat. iii. 26; Supellex Orat. xxiv.
+
+[18824] Cic. ad Att. ix. 7.
+
+[18845] The original is sodality, or guild societies, which had their origin in the Middle Ages, when members of the same calling formed a common fund and joined in certain spiritual exercises, taking a saint for their patron out of the Roman calendar. These institutions have since become commercial.—Ed.
+
+[19144] Exod. vii. 10.
+
+[19160] Cic. de Off. i. 16.
+
+[19181] Prov. xxii. 13.
+
+[19198] Virg. Æn. v. 231.
+
+[19217] Plato, Hipp. Maj. iii. 291.
+
+[19246] Thales; see Plato, Theæt. i. 174.
+
+[19281] Laertius, “Life of Thales.”
+
+[19310] Arist. Polit. i. and Phys. i.
+
+[19341] And therefore the history of sophistications, or adulterations and frauds practiced in arts and trades, ought to be inserted, which the learned Morhof adds as a fourth part of this experimental history, though it may seem sufficiently included under the history of arts, as being the secret part essential to every art, and properly called the mystery or craft thereof. Of these impositions, a large number may be readily collected, and serve not only to quicken the understanding and enrich experimental history, but also to contribute to perfect the science of economical prudence. For contraries illustrate each other, and to know the sinister practices of an art gives light to the art itself, as well as puts men upon their guard against being deceived. See Morhof’s “Polyhist.” tom. ii. p. 128.—Shaw.
+
+[20149] Bacon, in the original, classes comets among meteors, yet fifteen hundred years before, Seneca had placed them among planets, predicting that the time would arrive when their seemingly erratic motions would be found to be the result of the same laws. We need hardly remind the reader of the realization of this sage conjecture in the magnificent discoveries of Sir Isaac Newton.—Ed.
+
+[20533] Henry VII.
+
+[20545] Æn. iii. 96.
+
+[20559] Æn. v. 751.
+
+[20572] Prov. x. 7.
+
+[20585] Demosth. adv. Lept. 488.
+
+[20611] Annals, xiii. 31.
+
+[20630] Esther vi. 1.
+
+[20645] Plutarch’s Symposium, i. qu. 6 and Alex. Life, xxiii. 76.
+
+[20704] Virgil, Georgies, i. 251.
+
+[20731] Virgil, Æneid, vi. 590.
+
+[20756] Dan. xii. 4.
+
+[20770] Psalm lxxxix. 4.
+
+[20788] I. Cor. ii.
+
+[20801] Epis. to the Ephesians ii. and Habak. ii.
+
+[20844] Cicero’s Epis. Fam. ix.
+
+[20869] Hymn to Pan, Hom. Odyss. ver. fin.
+
+[20905] Cicero, Epis. to Atticus, 5.
+
+[20935] Ovid, Metamorphoses, ii.
+
+[20961] Anaxagoras, in Diog. Laert.
+
+[20990] This difference between the three philosophies is nothing else, as Hippocrates has observed (De Dicta, lib. i.) than a mere dispute about words. For if there be but one single element or substance identical in all its parts, as the primary mover of things, it follows, as this substance is equally indifferent to the forms of each of the three elements, that one name may attach to it quite as philosophically as the other. In strict language, such a substance could not be defined by any of these terms; as fire, air, or water, appear only as its accidental qualities, and it is not allowable to define anything whose essential properties remain undiscovered.—Ed.
+
+[21656] Plato’s Timæus.
+
+[21673] Bacon directs his interpretation here to the confused mixture of things, as sung by Virgil, Ecl. vi. 31.
+
+[21779] Seneca’s Epistles.
+
+[21799] Iliad, ix.
+
+[21811] This is always supposed to be the case in vision, the mathematical demonstrations in optics proceeding invariably upon the assumption of this phenomenon.—Ed.
+
+[21970] Bacon had no idea of a central fire, and how much it has contributed to work these interior revolutions. The thermometer of Drebbel, which he describes in the second part of the “Novum Organum,” has shown that down to a certain depth beneath the earth’s surface the temperature (in all climates) undergoes no change, and beyond that limit, that the heat augments in proportion to the descent.—Ed.
+
+[22368] Ovid, Rem. Amoris, v. 343. Mart. Epist.
+
+[22409] Psalm xix. 1.
+
+[22424] Laertius’s Life of Epicurus.
+
+[22454] Syrinx signifying a reed, or the ancient pen.
+
+[22501] Æneid, vi. 270.
+
+[22518] Ovid, Metam. iv.
+
+[22536] Thus it is the excellence of a general early to discover what turn the battle is likely to take, and looking prudently behind, as well as before, to pursue a victory so as not to be unprovided for a retreat.
+
+[22745] Ovid’s Metamorphoses, iii. iv. and vi.; and Fasti, iii. 767.
+
+[22807] The word ἀντιπερίστασις, used by the Greeks to express the forces of activity and resistance, which are continually producing all the variegated tissue of phenomena which mark the history of the moral and physical world, and are necessary to their preservation. Without reaction, action could not take place, as force can be only displayed in overcoming resistance, and we can have no idea of its existence except from its effect upon the antagonistic force it attempts to subdue. In mechanics, Newton has observed that reaction is always equal to action, and we may observe a similar principle in the antiperistasis of the moral world. The reactions in communities and individuals against any dominant principle are generally marked with excesses proportionally antagonistic to the fashions over which they prevail; and though no precise certainty can be acquired in the interpretation of phenomena connected with the human will, yet we think a vast amount of proximate truth might be elicited and a flood of light thrown upon the springs of our spiritual nature by a philosophic attempt to generalize such movements and connect them with the higher laws of our mental constitution. Physically speaking, the force of the body resisting only augments the effect of the force which endeavors to conquer it; while in the moral world it increases both the effect and the power, as resistance irritates the assailing force and consequently excites it to redouble its efforts: hence may be seen the wisdom of that Providence who has hidden the springs of the universe from ocular vision to sharpen man’s faculties in their discovery, and who ordinarily surrounds the course of genius with difficulties, in order that it may burst through them with purer flame.—Ed.
+
+[24568] This observation is the foundation of Father Castel’s late piece De Mathématique Universelle, wherein, by the help of sensible representations and divisions, he proposes to teach the sciences readily, and even abstract mathematics, to common capacities.—Shaw.
+
+[24829] Whately’s Logic, ii. 3, § 1.
+
+[24859] Cf. Plat. Theæt. i. 152.
+
+[24885] Eccl. iii. 14, and xlii. 21.
+
+[24915] Discorso sopra la Prima Deca di Tito Livio, libro 3.
+
+[24969] Aristotle, Meteors, Problem 1, § 11.
+
+[25007] Æneid, vii. 9.
+
+[25023] Specific bodies; that is, those which have a certain homogeneous form and regularity in their organization, and which exist in such variety as to urge the mind to form them into species.—Ed.
+
+[25215] By the aid of the microscope, moss has been discovered to be only a collection of small plants, with parts as distinct and regular in their conformation as the larger plants. The vervain which generally covers the surface of moist bodies long exposed to the air presents similar appearances.—Ed.
+
+[25512] Æneid, vi. 787.
+
+[25529] Ps. viii. 3, cii. 25, et al.
+
+[25559] And more particularly since, by Cudworth, in his “Intellectual System of the Universe”; Mr. Boyle, in his “Christian Virtuoso”; Mr. Ray, in his “Wisdom of the Creation”; Dr. Bentley in his “Discourse of the Folly and Unreasonableness of Atheism”; Dr. Clarke, in his “Demonstration of the Being and Attributes of God”; and by Derham, in his “Physico Theology.” See also Raphson’s “De Deo”; Dr. Nieuwentyt’s “Religious Philosopher”; Mr. Whiston’s “Astronomical Principles of Religion”; Commenius’s “Physicæ ad lumen divinum reformatæ Synopsis”; Paley’s “Natural Religion”; the Bridgewater Treatises, and Cardinal Wiseman’s “Connection of Science with Revealed Religion.”—Ed.
+
+[26233] Iliad, ix.
+
+[26245] See above, Prelim. sec. iii. 8, and hereafter of Theology, sec. ult.
+
+[26315] St. Paul, Coloss. ii. 5, 18.
+
+[26345] II. Cor. ii. 11.
+
+[26363] Laertius, Life of Seneca.
+
+[26390] Paracelsus de Philos. Sagac.
+
+[26420] St. John v. 43.
+
+[26437] We should rather say that Alexander caught the fire of ambition from his master, as Aristotle put forth his pretensions to mental empire long before his pupil overran Egypt. In addition, it may be observed that Aristotle was an Athenian, and that the strong antipathies which his countrymen bore to the king of Persia were increased by the ties of blood and friendship which bound him to Hermius, king of Atarné, whom the eastern despot had abused. It is most likely, therefore, that Aristotle never missed an opportunity of exciting his royal pupil to that conquest, which the Athenians had previously attempted to execute; as affording him the satisfaction of retaliating the injuries of a departed friend, as well as an opportunity of collecting a store of natural facts on which he might erect the superstructure of the physical sciences.—Ed.
+
+[27285] Lucan, x. 21.
+
+[27300] Tacitus, Annals, i.
+
+[27321] Concerning primary philosophy, see above.
+
+[27364] Physics, therefore, may be defined that part of universal philosophy which observes and considers the procedure of nature in bodies, so as to discover her laws, powers, and effects; and the material origins, and causes thereof, in different subjects; and thence from rules for imitating, controlling, or even excelling her works, in the instances it considers.—Shaw.
+
+[27732] Virgil’s Eclogues, viii. 80.
+
+[27762] That doctrine had been recently demonstrated by Galileo, and defended by Gilbert.
+
+[27845] That is, from west to east, according to the Copernican system.—Ed.
+
+[27914] Bacon maps out the entire region of human knowledge, breaking up the old sections, and assigning to each science new boundaries more conformable in his view to strict philosophical notions than the old; yet he capriciously enough makes mathematics an essential part of metaphysics, or inquiry into forms, and astronomy a compartment of mathematics, and then decries this absurd arrangement as the notion of the age. It is evident, however, that the age was innocent of the charge, and that Bacon snatched up the idea from the demonstrations which Copernicus, Kepler, and Gilbert employed to dethrone the Ptolemaic theory of the heavens. Bacon was too jealous of Gilbert to entertain one moment any doctrine that he advanced; and a little further on he alludes to his mathematical thesis in favor of the earth’s diurnal motion as proofs contradicted by natural philosophy, though incapable of being confuted by observation. From such demonstrations, however, astronomy could no more be regarded as a branch of mathematics than commerce or politics, because they sometimes call in the aid of arithmetic; and if Bacon had followed out this strange notion, he must have made, with Iamblicus, numbers the parent of all knowledge, as there is no department of science advanced beyond mere empiricism which does not rest upon the basis of figures. The degradation which Bacon imputes to astronomy from its association with mathematics shows that the most acute minds are no more privileged than the weakest to decide questions in relation to things of which they are perfectly ignorant. It is needless to say that a science only advances beyond empiricism to those intermediate or general axioms which Bacon so ardently desired to reach, so far as its phenomena admit of being extended and corrected by mathematical forms, and that it was only through such agencies that astronomy, almost in the space of a single age, was transformed from a mere empiric colligation of facts into the highest of the deductive sciences. The confusion arose from the consequence of Bacon’s fundamental division of the sciences, which confounded those which are purely formal with the substantive sciences of which they are in some measure a universal condition, and hindered Bacon from seizing with precision upon the functions and limits of these sciences, and comprehending the important part the mathematical portion of them perform, in extending and corroborating physical discovery.—Ed.
+
+[30382] Tendencies, forces, efforts, and effects.—Ed.
+
+[30429] But if celestial bodies act upon humors, air, and spirits, and these in turn affect solid bodies, it follows that they also act on solid bodies.—Ed.
+
+[30579] Agrippa, Mystical Philosophy.
+
+[30610] Aristotle’s Physics.
+
+[30632] The work here proposed is of vast extent, and a fit undertaking for a society, as intended to include all the ancient and modern systems of philosophy, or the history of knowledge through all ages and countries. Considerable progress has, however, been made in it, particularly by Vossius “De Philosophia, et Philosophorm Sectis,” continued with a supplement by Russel, printed at Jena, in the year 1705; by Pancirollus, “De Rebus inventis et perditis”; by Paschius, “De Novis Inventis, quibus facem prætulit antiquitas”; by Stanley in his “Lives of the Philosophers”; by Herbelot in his “Bibliothèque Universelle”; by M. Bayle in his “Dictionary,” etc. For more collections, histories, and writings to this purpose, see “Struvii Bibliotheca Philosophica,” Morhof’s “Polyhistor,” and “Stoltii Introductio in Historiam Literariam.”—Shaw.
+
+[31470] In the Timæus, passim, et Rep. x. init. Cf. Hooker, i. 3, 4; compare also Hallam’s Literature of Europe, part iii. c. 3, p. 402.
+
+[31600] As Mr. Boyle has excellently shown, by a large induction of experiments and crucial instances, wherewith most of his physical inquiries are enriched.
+
+[31751] As plants, animals, minerals; the elements fire, air, water, earth, etc.
+
+[31825] Compare Plat. Thæet. i. 155, 156.
+
+[31860] Eccles. iii. 1.
+
+[31877] Virgil, Georgics, i. 281.
+
+[31904] Apocalypse, iv.
+
+[31921] See conclusion of the Dialogue entitled Parmenides.
+
+[31974] Plato’s Phædo; Cicero, Tuscul. Quæst. 4 Defin. 2.
+
+[32025] Prov. iv. 12.
+
+[32040] Cf. e.g. Arist. Phys. ii. 8.
+
+[32070] From the text it must not be judged that Aristotle invested nature with the general powers usually attributed to a divine intelligence, in designing and executing her various ends with wisdom and precision, but only that he regarded nature as an active and intelligent principle performing her agencies by means palpable to herself, yet according to the laws and faculties conferred upon her by the prime mover of things. The Spinozist principle which the text attributes to the Stagyrite has been understood by many critics of the sensational school to intimate that Aristotle was of their way of thinking, though the idea of an independent material intelligence is expressly contradicted by numerous passages in his Metaphysics. In book xii. chap. 5, of the works which go under this name, the principal being is held to exclude the idea of matter from his nature: ἔτι τοίνυν ταύτας δεɩ̂ οὐσίας ε[Editor: illegible character]ναι ἄνευ ὕλης· ἀ[Editor: illegible character]δίους γἁρ δεɩ̂· κ.τ.λ.; and (ibid. 8) τὸ δέ τι [Editor: illegible character]ν ε[Editor: illegible character]ναι οὐκ ἔχει ὕλην τὸ πρω̂τον· ἐντελέχεια γάρ. In chap. 7 he affirms this principle to be spirit—ἀρχὴ ἡ νόησις; that matter cannot move of itself, but needs the action of an exterior agent—οὐ γὰρ ἡ γε ὕλη κινήσει αὐτὴ ἑαυτὴν, ἀλλὰ τεκτονική· and that this principle must be eternal and active—Ἀ[Editor: illegible character]διον καὶ οὐσία καὶ ἐνέργεια οὐσα. Aristotle further proceeds to show that all other beings are only a species of means transmitting the motion to others which have been communicated to them, but that this primary being, possessing the spring of motion in itself, moves without being moved; illustrating this kind of action by the emotions and deeds that spring from the love, pity, or hatred that agents at rest excite in others. In another place he affirms that this being is not only eternal in duration but immutable in essence, and quite distinct from sensible things: ὅτι λὰρ ἔστιν οὐσία τις ἀίδιος καὶ ἀκίνητος κα κεχωρισμένη τω̂ν αἰσθητω̂ν, ϕανερὸν ἐκ τω̂ν εἰρημένων· and that heaven and nature hang upon its behests—ἐκ τοιαύτης ἅρα ἀρχη̂ς ἡρτηται ὸ οὐρανὸς καὶ ἡ ϕύσις. He further shows that life belongs to it by essence, and as the action of intelligence is life, and vice versâ, essential action constitutes the eternal life of this being. Aristotle then calls this independent principle God, and assigns to it endless duration: ϕαμεν δὲ τὸν ΘΕΟ’Ν εἰναι ζω̂ον ἀΐδιον ἄριστον. “It remains,” says the Stagyrite, “to determine whether this principle be one or several; but upon this point we need only remember that those who have decided for a plurality have advanced nothing worthy of consideration in support of their belief.” Ἀλλὰ μεμνη̂σθαι καὶ τὰς τω̂ν ἄλλων ἀποϕάσεις ὅτι περὶ πλήθους οὐδὲ εἰρήκασιν ὁ τι καὶ σαϕὲς εἰπε[Editor: illegible character]ν. (Ibid. chap. 8.) “For the principle of existence, or the immovable being which is the source of all movement, being pure action, and consequently foreign to matter, is one in reason and number . . . . all the rest is the creation of a mythology invented by politicians to advance the public interest and occupy the attention of mankind.” Τὸ δἑ τι ἡν εἰναι οὐκ ἔχαι ὕλην τὸ πρω̂τον· ἐντελέχεια γάρ. (Supp. note 1.) Ἓν μὲν [Editor: illegible character]ρα καὶ λόγῳ καὶ ἀριθμῷ τὸ πρω̂τον κινον̂ν ἀκἰνητον. (Ibid. chap. 8.) Τὰ δὲ λοιπὰ μυθικω̂ς η̂δη προσήχθη πρὸς τὴν πειθὼ τω̂ν πολλω̂ν καὶ πρὸς τὴν εἰς τοὺς νόμους καὶ τὸ σύμϕερον χρη̂σιν. (Ibid.)—Ed.
+
+[35587] Virg. Eclogues, vii. 45.
+
+[35613] Aristotle on the Heavens, 1.
+
+[35643] Hor. Odes, b. ii. ode x. 3.
+
+[35672] Bacon means by forms general laws which co-operate with certain agents in producing the qualities of bodies.—Shaw.
+
+[35788] Pind. Pyth. ii. 21.
+
+[35809] Metaphysics, i. and xi.
+
+[35834] Laertius, Life of Democritus.
+
+[35865] Lamblicus, Life of Pythagoras.
+
+[35897] In nature no two beings exist perfectly equal, and the same being cannot retain its qualities unchanged for an instant of time together. In the universe everything moves in a constant progression and series, and it probably was the presentiment of this truth that led the greatest mathematicians after Bacon’s time to turn nearly all their attention to this department of mathematics. Beyond the analogy, however, there is nothing in these phenomena which has any relation with the reality of things; nor have any philosophers since Flud’s day ever dealt with them except as pure conditional verities. With data sufficiently determinate, we may approach the solution of any question to which they refer; but if these facts are not given, the problem must remain unresolved. The mathematician may draw consequences; but it is not allowed him to form principles, and if he attempt to apply figures to any hypothesis not warranted by facts, he must be content with the fate of the Samian who constructed the world out of arithmetic, and has been rewarded by the derision of ages for his pains.
+
+[36989] No part of learning has perhaps been more cultivated since this author wrote than mathematics, as every other science, or the body of philosophy itself, seems rendered mathematical. The doctrine of solids has been improved by several; the shorter ways of calculation here noted as deficient are in a great measure supplied by the invention of logarithms. Algebra has been so far improved and applied as to rival, or almost prejudice, the ancient geometry; add to this the new discoveries of the Method of Fluxions, the Method of Tangents, the Doctrine of Infinites, the Squaring of Curves, etc. For the general system of mathematical learning, see “Wolfii Elementa Matheseos Universæ,” in two volumes 4to, printed at Halle in the year 1715; or for a more cursory view, Father Castel’s “Mathématique Universelle,” published in the year 1731; but for the history of mathematics, see Vossius “De Universæ Matheseos Natura et Constitutione”; the “Almagest” of Ricciolus; Morhof’s “Polyhist. Mathemat.”; and Wolfius’s “Commentatio de Scriptis Mathematicis,” at the end of the second volume of his “Elementa Matheseos Universe;” “Montucla’s “Hist. Math.;” and De la Croix’s “Analysis of Infinites.”—Ed.
+
+[38187] He ought to have said from Iamblicus. Proclus was, like himself, totally ignorant even of the little mathematical learning extant in his day.—Ed.
+
+[38334] Virg. Eclogues, x. 8.
+
+[38357] Iliad, i. 334.
+
+[38373] Plato’s Alcibiades.
+
+[38394] Seneca’s Epistles, § 89.
+
+[38420] De Oratore.
+
+[38433] Pindar, Olymp. i. The triumphs of men, and the summits of human nature.
+
+[38506] Suetonius’s Life.
+
+[38525] Quintilian’s Institutes, iii., and Laertius’s Lives.
+
+[38579] Xenophon’s Cyropædia, v.; and Quintilian’s Institutes, xi.
+
+[38639] Annals, xv. 67.
+
+[38656] Meteren, History of the Civil Wars in the Netherlands.
+
+[38712] Bacon’s memory here fails him; for Aristotle in his Physiognomia Corporis in Motu, has treated the matter elaborately, though without going much into detail.—Ed.
+
+[38875] Deut. xii.
+
+[38887] Laertius’ Life.
+
+[38904] Plato’s Timæus, and Aristotle on the Generation of Animals.
+
+[38965] Annals, xvi. 18.
+
+[38983] Virg. Æneid, vi. 746.
+
+[39006] Arist. on the Heavens.
+
+[39030] Æneid, vii. 772, 11.
+
+[39052] Eccles. ii. 15.
+
+[39069] Agrippa, Scientia Vana.
+
+[39094] Ovid, Remedia Amoris, 525.
+
+[39122] Narrationes Medicales.
+
+[39146] De Re Medice, i. 5.
+
+[39167] Suetonius’ Life Aug. Cæs. 100.
+
+[39199] Laertius’ Life Epic. x. § 15.
+
+[39230] De Longitudine et Novitate Vitæ.
+
+[39264] To separate God from human reason, appears to be one of the great aims of one of the modern schools of philosophy, and sometimes the theory has received indirect confirmations from quarters by no means favorable to its advocates. Pascal wrote, “Selon les lumières naturelles, nous sommes incapable de connaître ce que Dieu est.” In the edition of this philosopher’s works, by Voltaire and Condorcet, the text was enriched with the addition of the phrase, “Ni s’il est;” and the following note appended to the passage, by Voltaire: “Il est étrange que Pascal ait cru qu’on pouvait deviner le péché originel par la raison, et qu’il dise qu’on ne peut connaître par la raison si Dieu est.” At this specimen of deistic candor, Condorcet exclaims, in a subsequent note, “How marvellous to behold Voltaire contending with Pascal for the existence of God!”—Ed.
+
+[40119] Rerum Natura, book 5.
+
+[40142] This inquiry is greatly embroiled by the moderns; some seeking the soul all over the body, some in the blood, some in the animal spirits, some in the heart, some in the ventricles of the brain, and some, with Descartes, in the glandula pinealis. M. Petit wrote a curious piece relating to this subject, entitled “De Animâ Corpori coextensâ”; printed at Paris, 1665. See also “Hobokenius de Sede Animæ in Corpore Humano.”—Ed.
+
+[40568] The text is indistinct. We are not told whether the faculties here enumerated belong to the produced or to the rational soul. Though from the language of the text, and the order of inquiry, the former appears to be the most probable opinion: yet we do not see how the origin of conscience to which they refer can be physically treated, or how the same substance can unite appetite, and the principle to which it is almost invariably opposed. To obviate such difficulties, Aristotle and Plato made a similar distinction between the rational and the sensitive principle in man, and assigned reason, imagination and memory to the one, while they restricted appetite and sensational feeling to the other. Bacon, however, seems to place all these faculties in the sensitive soul, and leaves the inspired substance a mere breath or aura, without either faculties or functions. By thus implying the cogitative power of matter, he has in some measure countenanced the dangerous belief of the corruptibility of the human soul and its expiration with the body; at least, sceptics have not been slow in putting this interpretation upon his doctrine.—Ed.
+
+[41712] “O city set to sale, whose destruction is at hand, if it find a purchaser!” uttered by Jugurtha, on leaving Rome. Sallust’s Jugurtha, 35.
+
+[41851] The ways of working upon or with the imagination, are touched by the author, in his “Sylva Sylvarum,” under the article Imagination. See more to this purpose in “Descartes upon the Passions,” “Casaubon upon Enthusiasm,” Father Malebranche’s “Recherche de la Vérité,” and Lord Shaftesbury’s “Letter upon Enthusiasm.”—Shaw.
+
+[42174] The original is, pro entelechia et functione quadam, alluding to the technical term entelechy, which Aristotle introduced into his Physics (iii. 1) to denote the act through which any substance exercises its power. The rational soul was never taken in the sense of a simple act, or entelechy, as Bacon would insinuate, but was affirmed even by Aristotle, who introduced the phrase, to be a certain power apart and distinguished from the rest of the human system, as the eternal is distinguishable from the incorruptible. His words are: περὶ δὲ τον̂ νον̂ καὶ τὴς θεωρητικη̂ς δυνάμεως οὐδέπω ϕανερόν. Ἀλλ’ ἔοικε ψυχη̂ς γένος ἓτερον ε[Editor: illegible character]ναι, καὶ τον̂το μόνον ἐνδέχεται χωριζεσθαι καθάπερ ἀΐδιον τον̂ ϕθαρτον̂ (Arist. De An. ii. 2); and as this power is not a simple act, but the effect of a vital substance, possessing the principle of activity virtually in itself, he implies its capability to communicate motion to surrounding bodies even in a state of immobility; ἴσως γὰρ οὐ μόνον ψεν̂δός ἐστι τὸ τὴν οὐσίαν αὐτη̂ς τοι αὐτὴν εἰναι οἰαν ϕασὶν οἱ λέγοντες εἰναι τὴν ψυχὴν τὸ κινον̂ν αὐτὸ ἣ δυνάμενον κινεɩ̂ν· ἀλλ’ ἒν τι τω̂ν αδυνάτων τὸ ὑπάρχειν αὑτη̂ κίνησιν. (Arist. ibid. iii. 1.) With regard to the precise meaning of the word entelechy there have been many disputes among the learned. The origin of the term ought to be allowed to indicate its signification; but Aristotle used it in distinct senses, as signifying not only a simple act or function of an unsubstantial quality, but also as the act of a substantial power; and his followers have never hit upon a generic term capable of uniting the two notions. Many have abandoned it as untranslatable. Budæus uses the word efficacia; Cicero paraphrases it as a certain continuous and eternal motion (Tusc. i. 10), which only implies the motion of unsubstantial qualities, to which Bacon confined it. This signification, however, was but the exceptional use of the term, and does not coincide with the general applications of it in the Greek schools. Hermonlaus Barbarus is said to have been so much oppressed with this difficulty of translation, that he consulted the evil spirit by night, entreating to be supplied with a more common and familiar substitute for this word; the mocking fiend, however, suggested only a word equally obscure, and the translator, discontented with this, invented for himself the word perfectibilia.—Ed.
+
+[44590] Virg. Æneid, iii.
+
+[44609] Ovid, Metam. ii. 14.
+
+[44631] Aristotle’s Politics, i. 5, 6.
+
+[44663] See Whately’s Intro. § 5, b. iii. (on Fallacies) § 2, and b. iv.; also Arist. Eth. Mag. i. 1-17.
+
+[44761] Re Medica, i. 3.
+
+[44779] The Timæus.
+
+[44792] Æneid. xii. 412.
+
+[44810] Æneid, viii. 698.
+
+[44829] Georg. i. 133.
+
+[44845] Oratio pro L. Cor. Balbo, xx.
+
+[44876] Virg. Georg. i. 145.
+
+[44898] Perseus, Prol. 8.
+
+[44917] Pliny’s Natural History.
+
+[44943] Virgil, Georg. iv. 1.
+
+[44966] The Chinese also manufacture their paper out of the interior bark of cane.—Ed.
+
+[45046] Because its surface in relation to its solidity is less than the first ball, and consequently encounters less resistance from the air, with respect to the entire quantity of its motion.—Ed.
+
+[45237] This only happens when the increased content is attended with augmentation of surface. It may be accepted as a principle, that bodies are exposed to the action of external agents in proportion as their surface is extended, an increased size presenting a greater quantity of pores, through which the agent may insinuate itself. As surfaces are only as the squares of their diameters, and the contents increase in the ratio of the cubes of their diameters, it follows that, in the same subject matter, those bodies are more extended in relation to their solidity, which have less bulk, and consequently more liable to the action of external bodies, as Bacon remarks.—Ed.
+
+[45907] This question is impossible to decide, as we are never certain at the moment of the experiment that the needle has not been deflected from the south point, and the slightest imperceptible degree, too fine for human instrument to discover, would render the trial nugatory.—Ed.
+
+[46184] Epistles of Hippocrates, or Pliny’s Nat. History.
+
+[46235] The means that Bacon proposes, and to which the chemists still adhere, is the reverse of that of Archimedes. The ancient compared, in his experiment, three bodies of the same weight, but of different volume, while the text advises three bodies of the same volume, but of different weight. This reversion, however, does not affect the result.—Ed.
+
+[46582] Such are the compounds of very active substances, which chemists designate neuter: for example, the greater part of salts, as nitre, sea-salt, the salt of Glauber, and generally all those substances composed of an acid united to an alkaline or earthy base.—Ed.
+
+[46844] This section appears to have been little understood even by some eminent men, who censure the scheme of the author, and think that experiments must need be casual, and the human understanding unable to direct and conduct them to useful purposes unless by accident. The misfortune seems to lie here, that few converse so familiarly with nature as to judge what may be done in this way; or how the numerous discoveries of Lord Bacon, Mr. Boyle, Dr. Hook, Sir Isaac Newton, etc., were made. An attentive perusal of the Novum Organum, where this subject is largely prosecuted, will unravel the mystery.—Shaw.
+
+[47450] De Reprehen. Soph. ii. 9.
+
+[47477] St. Matt. xiii. 52.
+
+[47498] De Oratore.
+
+[47511] Epistles to Atticus, vi. 16.
+
+[47541] The prefaces alluded to are of doubtful authority.
+
+[47593] See hereafter, sect. 18.
+
+[47619] In Menone, ii. 80.
+
+[47639] An enthymeme is no other than a syllogism of two propositions, the third being supplied by the mind, as the word itself imports.—Ed.
+
+[47773] Animal. Mot. 3.
+
+[47790] Bacon here only gives us a loose translation of the Dictum de omne et nullo, as inclosing the essentiality of the syllogism. Thus, to develop his thought, when a certain attribute does not appear to belong to a proposed subject, the logician presents another subject, in which the contested quality is admitted by his hearers to enter, and having shown that this new subject—the middle term—may be affirmed of the original subject with which he set out, he concludes that its inseparable attribute must also belong to it. If these two primary propositions, viz., those which affirm the attribute of the middle term, and connect this term with the original subject, need proof, he is obliged to seek other middle terms, and employ them in the same manner, until he establish his disputed premises on the basis of experience or consentaneous principles. If such fundaments, common to the minds of the disputants, do not exist, the argument is nugatory, and rational conviction impossible.—Ed.
+
+[48782] For no proof can be considered conclusive, unless the conclusion be an immediate consequence from the propositions which involve the last middle term. Now, if the proposition we seek to establish be particular (singular), and the principle from which we set out general (universal), it is clear that, to connect principle and consequent, we must either climb gradually from principles less general to ones more enlarged, until we reach a proposition which connects the last consequent with the general principle in question; or we must descend by a similar gradation from principles less general to others more particular, until we reach the proposition which affirms the last consequence of the particular conclusion. The number, therefore, of these intermediate links, must augment or diminish in proportion to the interval which separates the principle and consequent.—Ed.
+
+[49659] Upon the subject of analytics, see Weigelius in his “Analysis Aristotelica, ex Euclide restituta;” and Morhof in his “Polyhistor,” tom. i. lib. ii. c. 7, de Methodis variis.
+
+[49834] Epist. 45, c. 7.
+
+[49852] See the opening of the Theætetus.
+
+[49887] He might have added, mathematically, as greater and less have different significations in arithmetic and algebra.—Ed.
+
+[50006] Rather, vulgarisms; since sophisms imply a use of the intellect, though a perverted use; but the wrong acceptations of words imply no use at all.—Ed.
+
+[50157] These might otherwise be called partial idols, as owing to the partiality or obliquity of the mind, which has its particular bent, and admits of some things more readily than others, without a manifest reason assigned for it to the understanding. However this be, they manifestly belong to the tribe of mankind.—Shaw.
+
+[50476] Cicero, Natur. Deor. v. 9.
+
+[50504] The observations of Bradley and Molyneux directly establish the elliptical orbit, in which the earth performs its yearly revolution. The spiral lines, which Bacon suggests in place of the concentric and elliptical theory, are only the apparent paths which the planets seem to follow when viewed by the naked eye, and have long since, with the cumbersome machinery of Ptolemy, been swept from the heavens.—Ed.
+
+[50914] This hypothesis gave rise to the romance of Lamekis.
+
+[50968] Epiphanius, adv. Hær. p. 811, in which the heresy of Audius is explained.
+
+[51043] Repub. vii.
+
+[51056] Ethics, xiii. 1.
+
+[51074] Analogical demonstration, or proof à latere, to which Bacon seems to refer, consists in showing that the disputed attribute may be affirmed of several subjects analogical to the one proposed, and thence proceeds to draw the inference that such attribute enters also into the subject in question. In addition to these last three kinds of mediate positive proof, there are three others, which may be called mediate negative; viz., 1, à posteriori, which in inferring conclusions erroneous from the contradictory of that which is sought to be maintained, shows that the opposition is formed on false principles, and establishes the truth of their contradictories. 2, à priori, which in showing that the contradictory of the original proposition is a necessary consequence of some exploded principle, and also contradictory to the principle of which the contested proposition is also a consequence, infers the truth of such proposition with the principle of which it is a corollary. 3, à latere, whose object is to show that the attribute diametrically opposite to the one in question, agrees with a subject also diametrically opposite to the one proposed, that the last attribute may be inferred to agree with the last subject.—Ed.
+
+[52304] Bacon seems to imply that Aristotle not only admitted demonstration in a circle, but even understood it in the sense of analogical proof or demonstration à latere; whereas the Stagyrite only introduced the term for the purpose of controverting it. Some of the ancient materialists, in order to rid themselves of the illogical consequences of a series of proofs ad infinitum, in which the denial of first principles involved them, asserted the possibility of demonstrating all things from each other, a line of argument in which the chain of proof would run into itself: ἀλλὰ πάντων εἰναι, ἀπόδειξιν οὐδὲν κωλύει· ἐνδέχεται γὰρ κύκλφ γενέσθαι τὴν ἀπόδειξιν καὶ ἐξ ἀλλήλων. (Arist. Anal. Post. i. 3.) The Stagyrite, however, confronted this assertion with the reason, that demonstration could only be effected by evolving new truths out of things prior and more known, and pronounced the formation of a body of scientific truths without admitting first principles more palpable to the mind than any proof could make them, impossible. See, also, Arist. Analyt. Pri. ii. 5, 1.—Ed.
+
+[53382] Upon the subject of commonplace, consult Morhof’s “Polyhistor,” tom. i. lib. i. cap. 21, de Locorum Communium Scriptoribus; Mr. Locke’s commonplace, in his “Discourse of the Conduct of the Understanding”; and Julian’s “Emploi du Temps.”—Shaw.
+
+[53626] I suppose that the art of memory, now commonly taught by memory-master, is little more than a lecture upon the foundations here laid down; and perhaps their secrets are disclosed in Sir Hugh Plat’s “Jewel House of Art and Nature,” printed in London in the year 1653. See page 77-80 of that edition. Consult also upon the means of improving the memory, Morhof’s “Polyhistor,” tom. i. lib. ii. cap. 4, de Subsidiis dirigendi Judicii.—Shaw. [Grey’s “Memoria Technica” and Feinagle’s “Art of Memory” are the modern works on the same subject.—Ed.]
+
+[54170] Pantagruel, ii. 7, p. 76.
+
+[54197] ii. 6, 6.
+
+[54208] Interpret. i. 2.
+
+[54226] The original is, “nec literas nec verba,” which in Latin signify oral as well as written language; so that, to avoid equivocation, we should annex the two adjectives, sonorous and written, to fix their signification. With regard to the relation which exists between the oral and written speech of the Chinese, it is, as the text would imply, not different from that which prevails among us. In articulating, we pronounce as the Chinese the sonorous signs which correspond to the written words, and their art of reading, no less than ours, consists in the struggle to transplant this correspondence in our minds, and learn its reciprocal relations. Even allowing that the Chinese, in addition to their vulgar tongue, had adopted hieroglyphical writing, so designed as to convey, without the interposition of oral signs, the exact ideas which they represent, yet each of these signs would invariably awaken the idea which represented it in the oral language, as well as the vocal word refer to the idea indicated by the written hieroglyphic. The only persons who appear not to intrude intermediate signs between the hieroglyphic and the idea which it conveys to the mind, are those who are incapacitated by nature. But in this respect there is no resemblance between the deaf and dumb and our Asiatic contemporaries.
+
+[55542] Bacon therefore has not seized the exact distinction between the Chinese writing and our own, which consists not in dispensing with vocal signs, but in the diversified elements of which it is composed. Our language contains only twenty-five letters, while the Chinese letters are as innumerable as our words; and what makes the distinction perhaps more startling, there never has been an attempt on the part of that nation to analyze this infinite series of words, or to reduce them to the common elements of vocal sounds. Through this want of philosophic analysis, which characterizes nearly all the Asiatic tribes, the Chinese may be said never perfectly to understand their own language.—Ed.
+
+[56238] See Spizelius “De Re Literaria Chinensium,” ed. Lugd. Bat. 1660; Webb’s “Historical Essay upon the Chinese Language,” printed at London, 1669; Father Besnier’s “Reunion des Langues”; Father le Compe, and other of the Missionaries’ Letters.—Ed.
+
+[56483] See Causinus’s “Polyhistor. Symbolicus,” and “Symbolica Ægyptiorum Sapientia,” ed. Par. 1618. And for other writers upon this subject, see Morhof’s “Polyhistor,” tom. i. lib. iv. cap. 2, de Variis Scripturæ Modis.—Ed.
+
+[56702] Arist. Polit. iii. 13. The person who sent to consult Periander was Thrasybulus of Miletus. Herodotus (v. 92) gives the opposite version of the story, making Periander consult Thrasybulus. Compare the story of Tarquin, told by Ovid, Fast. ii. 701.
+
+[56951] On this foundation, Bishop Wilkins undertook his laborious treatise of a real character, or philosophical language; though Dalgarn published a treatise on the same subject before him; viz., at London, in the year 1661. In the same year, Becher also published another to the same purpose at Frankfort, entitled “Character pro Notitia Linguarum Universali.” See more upon this subject in Joachim Fritschii “Lingua Ludovicea,” Kircher’s “Polygraphia,” Paschius’s “Inventa Nova-Antiqua,” and Morhof’s “Polyhistor.”—Shaw.
+
+[57469] Suetonius’ Life.
+
+[57487] Cratyl.
+
+[57496] Orator, ii. 4.
+
+[57512] Considerable pains have been bestowed upon this subject by various authors; an account whereof is given by Morhof in his “Polyhistor.” See tom. i. lib. iv. cap. 3, 4, 5; or more particularly, Abraham Mylii “De Linguæ Belgicæ cum aliis Linguis Communitate”; Henrici Schævii “Dissertationes Philologicæ de Origine Linguarum et quibusdam earum attributis”; Thom. Hayne “De Linguis in genere, et de variarum Linguarum Harmonia,” in the appendix to his “Grammaticæ Latinæ Compendium,” and Dr. Wallis’s “Grammatica Linguæ Anglicanæ.”—Ed.
+
+[58045] This is the subject which J. Conrad. Amman has prosecuted with great diligence, in his “Surdus loquens,” and “Dissertatio de Loquela”; first printed at Amsterdam in 1692, and the last in 1700.—Shaw.
+
+[58245] For some examples of this kind, see Southey’s Epics.
+
+[58299] Martial, Epig. ix. 82.
+
+[58323] The stage having cultivated the accentuation of sentences more than the school, the rules of the art might, perhaps, to advantage, be borrowed from thence, in order to form an early habit of graceful speaking.—Shaw.
+
+[58540] In which each letter corresponds to a different letter of the alphabet.—Ed.
+
+[58617] That is, joined to other letters and words, the juncture of which destroys the sense to an ordinary observer, which the first letters and words are intended to convey.—Ed.
+
+[58790] Abbreviated writing, or shorthand.—Ed.
+
+[58830] This is a kind of dial, en which are drawn the circumferences of two concentric circles, bordered by the letters of the alphabet. Each letter being marked with a sign, we know to what letter of the exterior circle, each of the interior corresponds in relation to its rank in the alphabet. For example, suppose that it had been previously determined that the letter f should represent a, g b, and h c, the receiver of the missive should turn the interior circle of the dial round until the a in this circle pointed to f in the exterior, and then in the place of the letters in the note he had received, he would read those which corresponded to them in the interior circle.—Ed.
+
+[59508] The key-ciphers are those figures which explain the latent sense of the letter, and are either conveyed with it, or previously concerted by those who are parties to the communication.—Ed.
+
+[59697] Verbal ciphers are those which represent entire words.—Ed.
+
+[59757] The publishing of this secret frustrates its intention; for the examiner, though he should find the outward letter probable, would doubtless, when thus advertised, examine the inner, notwithstanding its alphabet were delivered to him for non-significants.—Shaw.
+
+[60020] For this cipher is practicable in all things that are capable of two differences.
+
+[60103] Those who desire a fuller explanation may consult Bishop Wilkins’s “Secret and Swift Messenger,” or rather Mr. Falconer’s “Cryptomenysis Patefacta, or Art of Secret Information disclosed without a Key.” The trustiness of this cipher depends upon a dexterous use of two hands, or two different kinds of letters, in the same writing, which the skilful decipherer, being thus advertised of, will be quick-sighted enough to discern, and consequently be able to decipher, though a foundation seems here laid for several other ciphers, that perhaps could neither be suspected nor deciphered.—Shaw.
+
+[60696] The art of ciphering is doubtless capable of great improvement. It is said that King Charles I. had a cipher consisting only of a straight line differently inclined; and there are ways of ciphering by the mere punctuation of a letter, while the words of the letter shall be non-significants, or sense, that leave no room for suspicion. It may also be worth considering, whether the art of deciphering could not be applied to languages, so as to translate for instance, a Hebrew book without understanding Hebrew. See Morhof, De variis Scripturæ Modis, “Polyhist.” tom. i. lib. iv. cap. 2, and Mr. Falconer’s “Cryptomenysis Patefacta.”—Shaw.
+
+[61338] The design of Ramus, whose method of Dichotomies is here censured, was to reduce all divisions and subdivisions to two members, with a view to obtain a basis for the construction of dilemmas and disjunctive syllogisms. We are never certain that these species of reasoning are legitimate, except when the divisions out of which they rise are exact; and the only test of this accuracy is to be sought in a dichotomous contradictory division, where the supposition of one member necessarily leads to the exclusion of the other. This method of exhausting a subject by an analytic exhaustion of its parts, which he mainly derived from Plato, has its proper sphere in logic; and though condemned in the text, was employed by Bacon in many of his prerogative instances. The error of Ramus consisted in taking only a part for the whole of logic, and applying what is strictly applicable to subjects of a peculiar nature, to the whole range of inference. It is evident, however, that the dichotomous process can only be employed in the investigation of subjects which admit of a twofold contradictory division, and that where the primitive elements are composed of four or five distinct members, the method is totally inapplicable. Its use, therefore, ought to be attended with the greatest caution, as the Ramist can hardly be certain that the twofold division, in many cases, is not more apparent than real, and that a further analysis would not necessitate a multiform classification. For want of this foresight, Ramus, with all his subtilty, falls into inconceivable errors, and a great many of Bacon’s exemplifications of his method in the crucial instance are direct paralogisms. Milton framed a logic on the model of Ramus’s method, seduced rather by the bold antagonism of the latter against Aristotle, than by its philosophic justness. Both the original and the copy are now forgotten, and Ramus is committed to the judgment of posterity rather on his absurdities than his merits. See Hooker, i. 6, with Keble’s note.—Ed.
+
+[63361] To this purpose see Wolfius’ “Brevis Commentatio de Methodo Mathematica,” prefixed to his “Elementa Matheseos Universæ”; as also his “Logics and Metaphysics.”—Shaw.
+
+[63527] Perhaps M. Tschirnhaus’s “Medicina Mentis, sive Tentamen genuinæ Logicæ, in qua disseritur de Methodo detegendi incognitas Veritates,” may pave the way for supplying this desideratum; proceeding as it does upon a mathematical and algebraical foundation, to raise a method of discovering unknown truths.—Shaw.
+
+[63837] Hor. Art. Poet. 242.
+
+[63859] The reader will bear in mind that this was the situation of the author in his time, and on that account dispense with his figurative style, though it may not be altogether so necessary at present, when we are accustomed to the freest range of philosophical inquiry.—Ed.
+
+[64130] Κάθολον πρω̂τον, κατὰ ραντὸς, καθ’ αὑτὸ, κ.τ.λ.; relation to the first principle, relation to all, and relation to one’s self.
+
+[64258] The axioms in the text must not be understood as applying to the mathematical sciences, which being, as Condillac observes, purely ideal, exact in their conversion nothing more than a detailed exposition of the properties we have already included in their definition; but of the objective sciences, where, since our knowledge of the subject is generally so imperfect as to render any direct definition uncertain, we are obliged to involve ourselves in a chain of reasoning to prove that the interchangeable attribute can be affirmed of the subject in its whole extent, and that both possess no qualities which are not convertible with each other. In establishing this reciprocal accordance of parts, it frequently happens that, having to connect a series of propositions in a chain of mutual dependence on each other, the first being proved by the second and the second by the third, etc., we arrive at and rest the whole proof upon a conclusion which is nothing else than the enunciation of the very proposition which we are laboring to establish, instead of grounding the argument upon some universally admitted principle or well-ascertained fact. This fallacy logicians term a vicious circle, and is the error to which Bacon alludes in the text.—Ed.
+
+[65512] Concio, who preceded Bacon, anticipates, in his treatise “De Methodo,” many of the fundamental principles of the inductive logicians, and discriminates many branches of analysis, which they confound. Descartes, in his book on the same subject, has endeavored to reduce the whole business of method to four rules, which, however, are found in the precepts of Aristotle. Johan. Beyer undertook to write upon this subject, in his “Filum Labyrinthi,” according to the design of Bacon, but appears not to have understood the author, and has rather obscured his doctrine than improved it. M. Tschirnhaus, however, has treated the subject more suitably to its merit, in his “Medicina Mentis,” mentioned above, in the note to § 2. A great variety of methods have been advanced by different authors, an ample catalogue of whom may be found in Morhof’s “Polyhist.” tom. i. lib. ii. cap. 7,” “De Methodis Variis.”—Ed.
+
+[66420] Exodus iv. 14, 15, 16.
+
+[66444] Prov. i. 21.
+
+[66458] As it was in Bacon to place painting and music in the same category.
+
+[66528] B. iii. 42.
+
+[66541] Phedias.
+
+[66551] Orator. ii. 38; Tusc. Disp. ii. 18, 42.
+
+[66592] Ovid, Metam. vii. 20.
+
+[66615] Virg. Ecl. viii. 56.
+
+[66637] For one of the most perfect exemplifications of this rule, see Lord Brougham’s discourse to the Glasgow University and to the Manchester Mechanics’ Institution.—Ed.
+
+[66803] The foundations for this are, in some measure, laid by the learned Morhof in the sketch of his “Homiletice Erudita.” See “Polyhistor,” tom. i. lib. i. cap. 25. See also Jo. Andr. Bosii “De Prudentia et Eloquentia Civili comparanda,” ed. Jenæ, 1698; and “Prudentia Consultatoria in Usum Auditorii Thomasiani,” ed. Halæ Magdeburg, 1721.—Ed.
+
+[67143] Rhetor. ii. 3-8.
+
+[67161] Æneid, ii. 104.
+
+[67178] This paragraph is taken from the fragment of the Colors of Good and Evil, usually printed as an appendix to the author’s essays. That fragment was reconsidered, better digested, and finished by the author, in order to fit it for this place, in the De Augmentis Scientiarum; to which himself assigned it in the Latin edition. The reason of its being called a fragment was, that the author had made a large collection of such kind of sophisms in his youth; but could only find time, in his riper years, to add the fallacies and confutations of the following twelve.—Shaw.
+
+[67749] Plutarch.
+
+[67760] Hor. Epist. ii. 11.
+
+[67781] Prov. xx.
+
+[67792] Divitis servi maxime servi.
+
+[67821] Ovid, Ars Amandi, ii. 662.
+
+[67849] Matt. ix.
+
+[67860] Academ. Frag. By Varro.
+
+[67885] Sertorius having so far obstructed Pompey as to burn one of the towns of his allies in his sight, without experiencing from him the slightest opposition, added, with scorn, “I will teach this young scholar of Sylla, that it is more necessary for a general to look behind than before him”—a piece of advice, we need hardly say, since the whole of life is a combat, as applicable to civil as to military warfare.—Ed.
+
+[68301] Livy, iv. 28.
+
+[68316] Æneid, xii. 600.
+
+[68334] Virg. Ecl. v. 23.
+
+[68353] Philip. i.
+
+[68365] Hor. Epist. 1, ii. 40.
+
+[68389] Hor. i. Sat. i. 66.
+
+[68410] Ibid.
+
+[68417] Habac. i. 15, 16.
+
+[68436] “Quæ miremur habemus, quæ laudemus expectamus.”—Orat. pro Marcellus.
+
+[68506] Suavis cibus à venatu.
+
+[68530] Ovid, Remedia Amoris, 429.
+
+[68558] Luke x. 41.
+
+[68571] The fox had many shifts, but the cat a capital one.
+
+[68624] Controversia.
+
+[68639] Though the ancients may seem to have perfected rhetoric, yet the moderns have given it new light. Gerhord Vossius bestowed incredible pains upon this art, as appears by his book “De Natura et Constitutione Rhetoricæ”; and still more by his “Institutiones Oratoriæ.” See also Wolfgang; Schoensleder’s “Apparatus Eloquentiæ”; “Tesmari Exercitationes Rhetoricæ,” etc. Several French authors have likewise cultivated this subject; particularly Rapin, in his “Réflexions sur l’Eloquence”; Bohour, in his “Manière de bien Penser dans les Ouvrages de l’Esprit” and his “Pensées Ingénieuses”; Father Lamy, in his “Art de Parler.” See also M. Cassander’s French translation of Aristotle’s Rhetorics; the anonymous pieces, entitled, “L’Art de Penser,” and “L’Art de Persuader”; Le Clerc’s “Historie Rhetoricæ,” in his “Ars Critica”; and “Stollius de Arte Rhetoricæ,” in his “Introductip in Historiam Literariam.”—Shaw.
+
+[69549] Hist. b. i. c. 66.
+
+[69569] See Osborn’s Advice to a Son.
+
+[69600] Annal. i. 22.
+
+[69615] Prov. iv. 23.
+
+[69630] For the History of Morality, consult Scheurlius’ “Bibliographia Moralis,” ed. 1686; Placcius’ “Epitome Bibliothecæ Moralis”; “Paschius de variis Moralia tradendi Modis Formisque,” 1707; Barbeyrac’s Preface to his French translation of Puffendorf “De Jure Naturæ et Gentium”; and “Stollii Introductio in Historiam Literariam,” pp. 692-752.—Ed.
+
+[69974] Arist. Ethics, ii.
+
+[69994] Epist. 100, toward the end.
+
+[70023] Olynthias 25, toward the end.
+
+[70054] Georg. iii. 289
+
+[70071] Nic. Ethics, i. 10; Rhet. ii. 12, 8.
+
+[70109] Epist. 53, § 12.
+
+[70127] See Arist. Eth. Nic. i. 3, sq.
+
+[70159] Plut. Life Pomp.
+
+[70177] St. Paul, Rom. ix.
+
+[70197] Iamblicus’ life, in the Tus. Quæst. v. 3. Cicero substitutes Leontius, prince of the Phœnicians, for Hieron.
+
+[70307] For an account of these sects, consult Ritter’s “Geschichte der Philosophie alter Zeit.”
+
+[70397] This opinion has been revived in the Anabaptist heresy, who measure everything by the humors and instincts of the spirit and constancy or vacillation of faith.—Ed.
+
+[70562] Enchir. Arrian. i.
+
+[70582] Prov. xv. 15.
+
+[70597] Rhet. i. 5, 10.
+
+[70614] ἀνέχου άπέχου. Summa Stoic. Philos.
+
+[70651] Acts Ap. xx. 35.
+
+[70669] Apoc. xiv. 13.
+
+[70685] Seneca.
+
+[70694] Seneca, Epist. xxiv. § 23-25.
+
+[70725] Prov. xxi. 25.
+
+[70741] So Barrow, “Sermon iii. on Redemption.” There are some persons of that wicked and gigantic disposition, contracted by evil practice, that should one offer to instruct them in truth or move them to piety, would exclaim with Polyphemus—
+
+[70977] See Virgil, Æneid, vi. 730.
+
+[71006] Plato, Gorgias, i. 492.
+
+[71031] Juvenal, Sat. x. 360.
+
+[71054] For the modern writers in this way, see Morhof’s “Polyhistor,” tom. iii. lib. i. “De Philosophiæ moralis Scriptoribus”; and “Stollii Introductio in Historiam Literariam, de Philosophia generatim morali”; in particular, consult Puffendorf, “De Officio Hominis and Civis.”—Shaw.
+
+[71332] This appears to be attempted by Grotius, in his book “De Jure Belli ac Pacis”; and by Puffendorf, in his “De Jure Naturæ et Gentium.” See M. Barbevrac’s translation of the latter into French, with annotations.—Ib.
+
+[71547] Prov. xiv. 6.
+
+[71562] Perhaps the treatise of Hieron. Cardan “De Arcanis Prudentiæ Civilis,” is a capital performance in this way; as exposing numerous tricks, frauds and stratagems of government, so as to prevent the honest-minded from being imposed upon by them.—Shaw.
+
+[71812] Prov. xviii. 2.
+
+[71829] Virg. Æn. vi. 823.
+
+[71849] Plut. Life Brut.
+
+[71867] Plutarch, Moral. Præc. Gerend. Reip. i. 24.
+
+[71912] Such was the pretext of Titus Quintius Flaminius, who, perceiving that the Achæan League, by which all the Grecian states were associated in one grand confederation, imposed the principal obstacle to the arms of Rome, deceitfully alleged that his sole design was to free each individual state from the thraldom of one dominant power, and leave it to the action of its own laws. The sequel showed, however, that his policy was only an exemplification of the old fable, for the untying the bundle was immediately followed by the subjugation of each community.—Ed.
+
+[72475] Eth. Mag. ad init.
+
+[72495] Mag. Moral. i.
+
+[72511] Juv. Muræn. xxx. 62.
+
+[72533] Epist. lxxi. § 1.
+
+[72552] Psal. cxxii. 3.
+
+[72569] Compare “Les Caractères des Passions,” par M. de la Chambre, ed. Amst. 1658; M. Clarmont, “De Conjectandis latentibus Animi Affectibus.” reprinted by Conringius; “Neuheusii Theatrum Ingenii humani, seu de Hominum cognoscenda Indole et Animi Secretis,” 1633; Mr. Evelyn’s digression concerning Physiognomy, in his Discourse of Medals; “Les Caractères de Théophraste, avec les Mœurs de ce Siècle,” par M. de la Bruyère, 1700. See “Stollii Introductio in Historiam Literariam,” p. 823. See also more to this purpose above, sect. iv.—Ed.
+
+[73104] Miles Gloriosus, act 3. sc. i. v. 39.
+
+[73143] Epist. Tit. i. 12.
+
+[73163] Jugurtha, i, 50.
+
+[73181] Hist. i. 53, toward the end.
+
+[73211] Or, καταπἐψαι μεγἁν δλβον οὑκ εδυνάσθη.—Olymp. i. 55.
+
+[73266] Psalm lxi. 11.
+
+[73282] See b. ii. and cf. Eth. Nic. ii. 4, 1.
+
+[73322] See Butler’s “Analogy,” chap. on rewards and punishments.
+
+[73381] See “Lælius Peregrinus de noscendis et emendandis Animi Affectionibus,” ed. Lipsiæ, 1714; “Placcius de Typo Medicinæ moralis”; M. Perault, “De l’Usage des Passions,” 1668; “Johan. Francisc. Buddæus de Morbis mentis humanæ, de Sanitate mentis humanæ, et de Remediis morborum, quibus mens laborat,” in his “Elementa Philosophiæ Practicæ,” lib. de Philosophia morali, sect. iii. cap. 3, 4, 6. See “Stollii Introduct. in Historiam Literariam,” pp. 813, 814.—Shaw.
+
+[73842] Nicom. Eth. ii. last ch.
+
+[73868] Nicom. Eth. ii. 95, toward the end.
+
+[73905] Nic. Eth. i. 15.
+
+[73923] Seneca, Herc. Fur. v. 351.
+
+[73951] Juv. Sat. xiii. 105.
+
+[73973] Pro L. Muræna, 39.
+
+[73993] Harvey, who was Bacon’s physician, and the most celebrated anatomist of his day, contradicts this doctrine, affirming that nature operates like man by production and elaboration of parts.—Ed.
+
+[74186] “Humanitati autem consentaneum est opponere eam quæ supra humanitatem est heroicam sive divinam virtutem”; and a little after, “Nam ut feræ neque vitium neque virtus est, hic neque Dei: sed hic quidem status altius quiddam virtute est, ille aliud quiddam a vitio.”—Nic. Ethics, vii. 1.—Ed.
+
+[74477] Paneg. lxxiv. § 4 and 5.
+
+[74503] Colos. iii.
+
+[74516] Cyropædia.
+
+[74528] Isa. xiv. 14.
+
+[74543] Matt. v. 44.
+
+[74557] Eccles. xviii. 12.
+
+[74577] Virg. Æn. vi. 893.
+
+[74597] This doctrine of the georgics of the mind is expressly endeavored to be supplied by Professor Wesenfeld, in the books he entitles “Arnoldi Wesenfeld Georgica Animi et Vitæ, seu Pathologia practica, moralis nempe et civilis, ex physicis ubique fontibus repetita.” Francof. 1695, and 1712. Some account of this work is given in the “Acta Eruditorum.” Mens. August, 1696. See also “Joan. Franc. Brudens de Cultura Ingeniorum,” ed. Halæ, 1699.—Shaw.
+
+[75044] Mirabeau expressed the same sentiment with his usual felicity. Energy of character is scarcely ever found except in union with violent temperaments. The wicked only are active.—Ed.
+
+[75226] Plut. Moral.
+
+[75240] The author here makes a compliment of his silence to King James, deeming it impertinent to speak of the arts of empire, to one who knew them so well; but the true reason appears to be, that he thought it improper to reveal the mysteries of state. See below, sect. xxv.—Ed.
+
+[75514] Plut. Cato.
+
+[75527] Hence there ought to be a due difference preserved between ethics and politics, though many writers seem to mix them together; and form a promiscuous doctrine of the law of nature, morality, policy, and religion together; as particularly certain Scriptural casuists, and political divines.—Shaw.
+
+[75824] From a mixture of these three parts of civil doctrine, there has of late been formed a new kind of doctrine, which they call by the name of civil prudence. This doctrine has been principally cultivated among the Germans; though hitherto carried to no great length. Hermannus Conringius has dwelt upon it at considerable length, in his book “De Civili Prudentia,” published in the year 1662; and Christian Thomasius has treated it excellently in the little piece entitled, “Primæ Lineæ de Jure-consultorum Prudentia Consultatoria,” etc., first published in the year 1705, but the third edition, with notes, in 1712. The heads it considers, are, 1, “de Prudentia in genere”; 2, “de Prudentia consultatoria”; 3, “de Prudentia Juris-consultorum”; 4, “de Prudentia consulendi intuitu actionum propriarum”; 5, “de Prudentia dirigendi actiones proprias in conversatione quotidiana”; 6, “de Prudentia in conversatione selecta”; 7, “de Prudentia intuitu societatum domesticarum”; 8, “de Prudentia in societate civili”; and 9, “de Prudentia alios et aliis consulendi.” The little piece also of Andr. Bossius, “De Prudentia Civili comparanda,” deserves the perusal. See Morhof, “De Prudentiæ Civilis Scriptoribus”; “Struvii Bibliotheca Philosophica,” cap. 7; and “Stollii Introductio in Historiam Literariam, de Prudentia Politica.”—Shaw.
+
+[77153] Ovid, Ars Amandi, i. 312.
+
+[77180] De Petit. Consulatus, xi. 44.
+
+[77211] Speech of Hanno. “Nunc interroganti senatori, pœniteatne me adhuc suscepti adversus Romanos belli? si reticeam, aut superbus aut obnoxius videar; quorum alterum est hominis alienæ libertatis obliti, alterum suæ.” Livy, b. xxiii. c. 12.
+
+[77448] Eccles. xi. 4.
+
+[77464] It seems of late more cultivated among the French and Germans, than among the English. The “Morale du Monde”; the “Modèles de Conversation”; the “Réfléxions sur la Ridicule, and sur les moyens de l’éviter”; “La Politesse des Mœurs”; “L’Art de Plaire dans la Conversation”; and Frid. Gentzkenius’s “Doctrina de Decoro,” in his Systema Philosophiæ, deserve perusal. This last work, published in Germany, treats 1, of the nature of decorum and its foundation; 2, of national decorum; 3, of human decorum; 4, the decorum of youth and age; 5, the decorum of men and women; 6, the decorum of husband and wife; 7, the decorum of the clergy; 8, the decorum of princes; and 9, the decorum of the nobility and men of letters. See “Stollii Introductio in Historiam Literariam, de Doctrina ejus quod est Decorum,” p. 795-6.—Shaw.
+
+[78283] Orat. § iii. 33.
+
+[78301] III. Kings iv. 27.
+
+[78321] Prov. xv. 1.
+
+[78335] Prov. xvii. 2.
+
+[78351] Prov. xxix. 9.
+
+[78367] Eccles. vii. 22.
+
+[78385] Prov. vi. 11, and xxiv. 34.
+
+[78414] Prov. ix. 7.
+
+[78428] Matt. vii. 6.
+
+[78443] Prov. x. 1.
+
+[78456] Prov. x. 7.
+
+[78469] Prov. xi. 29.
+
+[78484] Petit. Consulatus, § 5.
+
+[78509] Eccles. vii. 9.
+
+[78526] Eccles. x. 1.
+
+[78541] Prov. xxix. 8.
+
+[78557] Prov. xxix. 12.
+
+[78574] Annals, xii. 3.
+
+[78591] Mémoires et Chroniques du Quinzième Siècle.
+
+[78636] Prov. xii. 1.
+
+[78651] Prov. xxix. 11.
+
+[78668] Eccles. x. 4.
+
+[78683] Prov. xvii. 17; but the sense is different.
+
+[78728] Prov. xxix. 21.
+
+[78745] Prov. xxii. 29. Franklin cited this aphorism as exemplified in his person. He was caressed by Louis XVI., feared by George III., and lived on terms of easy friendship with the heads of other powers who had combined against England. His pre-emmence he attributed entirely to his industry.—Ed.
+
+[79038] Eccles. iv. 15. Solomon, in his old age, seeing all his courtiers desert him to pay court to his son Rehoboam, uttered this sentiment.—Ed.
+
+[79178] Tacit. Annals, vi.
+
+[79198] Eccles. xiii. 18.
+
+[79217] Eccles. ix. 14.
+
+[79234] Discorso sepra Liv. lib. i.
+
+[79263] Prov. xv. 19.
+
+[79278] Prov. xxviii 31.
+
+[79296] Prov. xxviii. 3.
+
+[79314] Prov. xxv. 29.
+
+[79330] Prov. xxii. 24.
+
+[79347] Prov. xvii. 9.
+
+[79363] Prov. xiv. 23.
+
+[79379] Ovid, Remedia Amoris, 697.
+
+[79407] Prov. xxvii. 5.
+
+[79424] Prov. xv. 21.
+
+[79439] Eccles. vii. 17.
+
+[79457] Hist. i. 2.
+
+[79470] Annals, iv. 20.
+
+[79487] Prov. ix. 9.
+
+[79501] Prov. xxiv. 14.
+
+[79518] Prov. xxvii. 19.
+
+[79536] Ars Amandi, i. 760.
+
+[79557] Discorso sopra Liv.
+
+[79578] Especially his Il Principe, with the notes of Conringius, which was found in the carriage of Napoleon after the battle of Mont St. Jean, with the annotations of the emperor.—Ed.
+
+[79757] Plautus, Trinum. Act ii. sc. 2. v. 84.
+
+[79797] Livy, xxxix. 40.
+
+[79815] Plut. Sylla.
+
+[79829] Ezek. xxix. 3.
+
+[79845] Habak. i. 15.
+
+[79860] Æneid, x. 773.
+
+[79876] Suetonius.
+
+[79888] Plutarch. Compare with this a curious letter from Cato to Cicero (ap. Cic. ad Fam. xv. 5), wherein he says, “Supplicationem decretam, si tu, quâ in re nihil fortuito, sed summa tua ratione et continentia reipublicæ, provisum est diis immortalibus gratulari nos quam tibi referre acceptum mavis gaudeo.”
+
+[80192] Suetonius.
+
+[80204] Plato, Reip.; Lucan, Hermot. xx.; and Eras. Chil. i. 74.
+
+[80262] Æneid, iv. 423.
+
+[80279] Prov. xx. 5.
+
+[80293] Martial, i. Ep. 25, v. 4.
+
+[80320] Cicero, Petit. Consulatus, § 2.
+
+[80353] Annals, i. 52.
+
+[80369] Annals iv. 31.
+
+[80385] Annals, iv. 52.
+
+[80402] Hor. Ep. ii. 18, v. 38. It must be remembered that Augustus had some intention of conferring the empire upon her husband Germanicus.—Ed.
+
+[80540] Tacit. Hist. iv.
+
+[80558] “There is always less money, less wisdom, and less honesty, than people imagine.”
+
+[80641] Prov. xxv. 3.
+
+[80656] This expression occurs Tacit. Annal. xiv. 57. It is spoken, however, of the intrigues of Tigellinus against Plautus and Sulla, by which he induced Nero to have both of them murdered. Petronius Turpilianus was put to death by Galba because he had enjoyed Nero’s confidence. Annal. xvi. 18, 19.
+
+[80950] Cicero, Petit. Consul.
+
+[80974] Enchiridion, iv.
+
+[80992] Ep. i. 23, 24.
+
+[81008] The expression of Tacitus is, “alia Tiberio morum via.” Annals, i. 54.
+
+[81080] Ita vivente Cæsare moriar.
+
+[81108] Epist. Atticus, ix. Ep. 10.
+
+[81137] Hist. ii. 80.
+
+[81152] Ovid, Ars. Amand. i. 661
+
+[81178] Plut.
+
+[81185] Ib.
+
+[81190] Epist. ad Att. x. Ep. iv.
+
+[81217] B. xvi. Ep. 15.
+
+[81234] Ore probo, animo inverecundo. Sallust.
+
+[81274] Occultior, non melior. Tacit. Hist. ii. c. 38.
+
+[81322] Annals, v. 1.
+
+[81337] Cic. in Brut. speaking of Hortensius, c. 95.
+
+[81383] B. xxxix. 40.
+
+[81398] Discorso sopra Liv.
+
+[81419] Philippic i.
+
+[81433] Virg. Eclog. ix. 66.
+
+[81455] Lucan, viii. 486. Quoted also by Jeremy Taylor in his “Life of Christ,” Preface.
+
+[81537] Philippic i. 51.
+
+[81555] Georg. iii. 284.
+
+[81573] Which is inculcated by ancient as well as modern wisdom. Epic. Enchir. and Matt. xx. 23, and Luke xi. 42.—Ed.
+
+[81684] Arist. Rhet. ii. 13, 4; and cf. Cic. Læl. xvi. Canning, in one of his speeches, condemns this principle as unworthy of an honorable mind. But it undoubtedly contains much wisdom, when it is restricted to the moderation of the affections.—Ed.
+
+[81927] Libro del Principe.
+
+[81948] Il seminatore delle spine.
+
+[81976] Cadant amici, dummodo inimici intercidant. Orat. pro reg. Deiot.
+
+[82042] Cicero pro L. Muræna, and Cat. Conspir. 31.
+
+[82087] Eccles. i. 2-14.
+
+[82105] Æneid, ix. 252.
+
+[82122] Psal. vii. 15, but in another sense.
+
+[82160] Hor. Sat. ii. 79.
+
+[82179] Ovid. Metam. i. 85.
+
+[82200] Matt. vi. 33.
+
+[82215] For an account of these authors, see Morhof’s “Polyhist.” tom. iii. De Prudentiæ Civilis Scriptoribus; and “Stollii Introduct. in Hist. Literar.” cap. v. De Prudentia Politica.
+
+[82393] Plutarch, Tus. Quæst. b. i. 2.
+
+[82425] Eclog. vii. 52.
+
+[82442] Quintus Curtius, iv. 15, and Plutarch.
+
+[82482] Lucul.
+
+[82490] Machi. Discorso sopra Livio, lib. ii.
+
+[82529] Plut.
+
+[82536] Genesis xlix. 9, 14.
+
+[82558] Æneid, i. 531.
+
+[82574] Cic. pro L. C. Bal.
+
+[82595] Livy, v. 37.
+
+[82609] B. 10, ep. 8.
+
+[82624] Matt. vi. 27, and Luke xii. 25.
+
+[82657] Compare Morhof’s “Polyhistor,” tom. iii. lib. vi. De Jurisprudentiæ universalis Scriptoribus; “Struvii Bibliothec. Philosoph.” cap. 6, 7, De Scriptoribus Politicis; and “Stollii Introduct. in Hist. Liter.” p. 753, etc., De Jure Naturali.—Ed.
+
+[82900] As laying down the just foundations and rules of the law; for the law itself is governed by reason, justice and good sense. But perhaps these aphorisms of the author follow the particular law of England too close to be allowed by other nations for the foundations of universal justice, which is a very extensive subject. See “Struvii Bibliothec. Philosoph.” cap. 8, De Scriptoribus Juris Naturæ et Gentium.—Ed.
+
+[83312] These are so many several titles, or general heads, laid down by the author, as if he intended a full treatise upon the subject; but he here only considers the first of them.—Shaw.
+
+[83494] I. Cor. xiv. 8.
+
+[83511] The author made a speech to this effect, upon receiving the seal and taking his place in Chancery.
+
+[83611] Psal. x. 7.
+
+[83624] The Lesbians are said to have made their rules from their buildings; so that if the buildings were erroneous, the rules they worked by became so, too, and thus propagated the error: so if the laws were written concise, as if drawn up in perfect times, or with an affectation of a sententious or majestic brevity, they might propagate errors, instead of correcting them.
+
+[83995] Though the design itself was not executed by the author, some progress was made in the history of the nature, use and proceedings of the laws of England.—Shaw.
+
+[84156] Alluding only to the two famous ones, among the Greeks and Romans.
+
+[84224] He might have added the discovery of a new world.—Ed.
+
+[84279] This is spoken like one who was versed in ecclesiastical history and polemical divinity; for scarce any religious dispute is now raised, that has not been previously contested; but many have found the art, by heat and warmth, to revive old doctrines, opinions and heresies, and pass them upon the crowd for new; rekindling the firebrands of their ancestors, as if religious controversies were to be entailed upon mankind, and descend from one generation to another.—Ed.
+
+[84750] Themistocles to Eurybiades. Plut. Reg. et Imper. Apop.
+
+[84806] Gen. xviii.
+
+[84819] I. Cor. xiii. 12.
+
+[84838] Psal. xviii. 2.
+
+[84855] Matt. v. 44, 45.
+
+[84873] Æneid, i. 332.
+
+[84889] Ovid, Metam. x. 330.
+
+[84911] Strabo, xv.
+
+[84924] St. Paul, Rom. xii. 1.
+
+[84948] This is erroneous. The Mohammedan religion, though not divided into so many churches as the Christian, is, notwithstanding, disturbed by the cry of conflicting parties under the generic titles of Soonees and Sheeahs; the former comprise the orthodox, the latter the heretics. It is needless to add that the hatred of the rival sects is most cordial and intense.—Ed.
+
+[85315] Hooker, Eccles. Polit.
+
+[85339] John iii. 4.
+
+[85353] I. Cor. vii. 12.
+
+[85371] Matt. xii. 30, and Luke xi. 23.
+
+[85404] Luke ix. 50.
+
+[85418] St. Paul, Eph. ix. 51.
+
+[85442] St. John xix. 23.
+
+[85461] Exodus ii. 13.
+
+[85477] IV. Kings ix. 19.

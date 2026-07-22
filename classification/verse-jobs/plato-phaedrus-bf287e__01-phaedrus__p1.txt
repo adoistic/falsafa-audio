@@ -1,0 +1,155 @@
+WORK: Phaedrus  (slug: plato-phaedrus-bf287e)
+
+CHAPTER: 01-phaedrus
+
+
+
+[109740] Socrates. Very well. They say that there is no need of treating these matters with such gravity and carrying them back so far to first principles with many words; for, as we said in the beginning of this discussion, he who is to be a competent rhetorician need have nothing at all to do, they say, with truth in considering things which are just or good, or men who are so, whether by nature or by education. For in the courts, they say, nobody cares for truth about these matters, but for that which is convincing; and that is probability, so that he who is to be an artist in speech must fix his attention upon probability. For sometimes one must not even tell what was actually done, if it was not likely to be done, but what was probable, whether in accusation or defence; and in brief, a speaker must always aim at probability, paying no attention to truth; for this method, if pursued throughout the whole speech, provides us with the entire art.
+
+[110694] Phaedrus. You have stated just what those say who pretend to possess the art of speech, Socrates. I remember that we touched upon this matter briefly before, but the professional rhetoricians think it is of great importance.
+
+[110920] Socrates. Well, there is Tisias whom you have studied carefully; now let Tisias himself tell us if he does not say that probability is that which most people think.
+
+[111086] Phaedrus. That is just what he says.
+
+[111124] Socrates. Apparently after he had invented this clever scientific definition, he wrote that if a feeble and brave man assaulted a strong coward, robbed him of his cloak or something, and was brought to trial for it, neither party ought to speak the truth; the coward should say that he had not been assaulted by the brave man alone, whereas the other should prove that only they two were present and should use the well-known argument, How could a little man like me assault such a man as he is? The coward will not acknowledge his cowardice, but will perhaps try to invent some other lie, and thus give his opponent a chance to confute him. And in other cases there are other similar rules of art. Is that not so, Phaedrus?
+
+[111850] Phaedrus. Certainly.
+
+[111872] Socrates. Oh, a wonderfully hidden art it seems to be which Tisias has brought to light, or some other, whoever he may be and whatever country he is proud to call his own! But, my friend, shall we say in reply to this, or shall we not—
+
+[112109] Phaedrus. What?
+
+[112126] Socrates. Tisias, some time ago, before you came along, we were saying that this probability of yours was accepted by the people because of its likeness to truth; and we just stated that he who knows the truth is always best able to discover likenesses. And so, if you have anything else to say about the art of speech, we will listen to you; but if not, we will put our trust in what we said just now, that unless a man take account of the characters of his hearers and is able to divide things by classes and to comprehend particulars under a general idea, he will never attain the highest human perfection in the art of speech. But this ability he will not gain without much diligent toil, which a wise man ought not to undergo for the sake of speaking and acting before men, but that he may be able to speak and to do everything, so far as possible, in a manner pleasing to the gods.
+
+[113015] Socrates. For those who are wiser than we, Tisias, say that a man of sense should surely practice to please not his fellow slaves, except as a secondary consideration, but his good and noble masters. Therefore, if the path is long, be not astonished; for it must be trodden for great ends, not for those you have in mind. Yet your ends also, as our argument says, will be best gained in this way, if one so desires.
+
+[113432] Phaedrus. I think what you have said is admirable, if one could only do it.
+
+[113509] Socrates. But it is noble to strive after noble objects, no matter what happens to us.
+
+[113597] Phaedrus. Certainly.
+
+[113619] Socrates. We have, then, said enough about the art of speaking and that which is no art.
+
+[113709] Phaedrus. Assuredly.
+
+[113731] Socrates. But we have still to speak of propriety and impropriety in writing, how it should be done and how it is improper, have we not?
+
+[113869] Phaedrus. Yes.
+
+[113885] Socrates. Do you know how you can act or speak about rhetoric so as to please God best?
+
+[113974] Phaedrus. Not at all; do you?
+
+[114005] Socrates. I can tell something I have heard of the ancients; but whether it is true, they only know. But if we ourselves should find it out, should we care any longer for human opinions?
+
+[114193] Phaedrus. A ridiculous question! But tell me what you say you have heard.
+
+[114268] Socrates. I heard, then, that at Naucratis, in Egypt, was one of the ancient gods of that country, the one whose sacred bird is called the ibis, and the name of the god himself was Theuth. He it was who invented numbers and arithmetic and geometry and astronomy, also draughts and dice, and, most important of all, letters. Now the king of all Egypt at that time was the god Thamus, who lived in the great city of the upper region, which the Greeks call the Egyptian Thebes, and they call the god himself Ammon. To him came Theuth to show his inventions, saying that they ought to be imparted to the other Egyptians. But Thamus asked what use there was in each, and as Theuth enumerated their uses, expressed praise or blame, according as he approved or disapproved. The story goes that Thamus said many things to Theuth in praise or blame of the various arts, which it would take too long to repeat; but when they came to the letters, This invention, O king, said Theuth, will make the Egyptians wiser and will improve their memories; for it is an elixir of memory and wisdom that I have discovered.
+
+[115370] Socrates. But Thamus replied, Most ingenious Theuth, one man has the ability to beget arts, but the ability to judge of their usefulness or harmfulness to their users belongs to another; and now you, who are the father of letters, have been led by your affection to ascribe to them a power the opposite of that which they really possess. For this invention will produce forgetfulness in the minds of those who learn to use it, because they will not practice their memory. Their trust in writing, produced by external characters which are no part of themselves, will discourage the use of their own memory within them. You have invented an elixir not of memory, but of reminding; and you offer your pupils the appearance of wisdom, not true wisdom, for they will read many things without instruction and will therefore seem to know many things, when they are for the most part ignorant and hard to get along with, since they are not wise, but only appear wise.
+
+[116331] Phaedrus. Socrates, you easily make up stories of Egypt or any country you please.
+
+[116415] Socrates. They used to say, my friend, that the words of the oak in the holy place of Zeus at Dodona were the first prophetic utterances. The people of that time, not being so wise as you young folks, were content in their simplicity to hear an oak or a rock, provided only it spoke the truth; but to you, perhaps, it makes a difference who the speaker is and where he comes from, for you do not consider only whether his words are true or not.
+
+[116861] Phaedrus. Your rebuke is just; and I think the Theban is right in what he says about letters.
+
+[116956] Socrates. He who thinks, then, that he has left behind him any art in writing, and he who receives it in the belief that anything in writing will be clear and certain, would be an utterly simple person, and in truth ignorant of the prophecy of Ammon, if he thinks written words are of any use except to remind him who knows the matter about which they are written.
+
+[117322] Phaedrus. Very true.
+
+[117344] Socrates. Writing, Phaedrus, has this strange quality, and is very like painting; for the creatures of painting stand like living beings, but if one asks them a question, they preserve a solemn silence. And so it is with written words; you might think they spoke as if they had intelligence, but if you question them, wishing to know about their sayings, they always say only one and the same thing. And every word, when once it is written, is bandied about, alike among those who understand and those who have no interest in it, and it knows not to whom to speak or not to speak; when ill-treated or unjustly reviled it always needs its father to help it; for it has no power to protect or help itself.
+
+[118049] Phaedrus. You are quite right about that, too.
+
+[118097] Socrates. Now tell me; is there not another kind of speech, or word, which shows itself to be the legitimate brother of this bastard one, both in the manner of its begetting and in its better and more powerful nature?
+
+[118316] Phaedrus. What is this word and how is it begotten, as you say?
+
+[118381] Socrates. The word which is written with intelligence in the mind of the learner, which is able to defend itself and knows to whom it should speak, and before whom to be silent.
+
+[118560] Phaedrus. You mean the living and breathing word of him who knows, of which the written word may justly be called the image.
+
+[118686] Socrates. Exactly. Now tell me this. Would a sensible husbandman, who has seeds which he cares for and which he wishes to bear fruit, plant them with serious purpose in the heat of summer in some garden of Adonis, and delight in seeing them appear in beauty in eight days, or would he do that sort of thing, when he did it at all, only in play and for amusement? Would he not, when he was in earnest, follow the rules of husbandry, plant his seeds in fitting ground, and be pleased when those which he had sowed reached their perfection in the eighth month?
+
+[119245] Phaedrus. Yes, Socrates, he would, as you say, act in that way when in earnest and in the other way only for amusement.
+
+[119366] Socrates. And shall we suppose that he who has knowledge of the just and the good and beautiful has less sense about his seeds than the husbandman?
+
+[119515] Phaedrus. By no means.
+
+[119539] Socrates. Then he will not, when in earnest, write them in ink, sowing them through a pen with words which cannot defend themselves by argument and cannot teach the truth effectually.
+
+[119724] Phaedrus. No, at least, probably not.
+
+[119763] Socrates. No. The gardens of letters he will, it seems, plant for amusement, and will write, when he writes, to treasure up reminders for himself, when he comes to the forgetfulness of old age, and for others who follow the same path, and he will be pleased when he sees them putting forth tender leaves. When others engage in other amusements, refreshing themselves with banquets and kindred entertainments, he will pass the time in such pleasures as I have suggested.
+
+[120234] Phaedrus. A noble pastime, Socrates, and a contrast to those base pleasures, the pastime of the man who can find amusement in discourse, telling stories about justice, and the other subjects of which you speak.
+
+[120446] Socrates. Yes, Phaedrus, so it is; but, in my opinion, serious discourse about them is far nobler, when one employs the dialectic method and plants and sows in a fitting soul intelligent words which are able to help themselves and him who planted them, which are not fruitless, but yield seed from which there spring up in other minds other words capable of continuing the process for ever, and which make their possessor happy, to the farthest possible limit of human happiness.
+
+[120927] Phaedrus. Yes, that is far nobler.
+
+[120963] Socrates. And now, Phaedrus, since we have agreed about these matters, we can decide the others.
+
+[121061] Phaedrus. What others?
+
+[121085] Socrates. Those which brought us to this point through our desire to investigate them, for we wished to examine into the reproach against Lysias as a speechwriter, and also to discuss the speeches themselves and see which were the products of art and which were not. I think we have shown pretty clearly what is and what is not a work of art.
+
+[121429] Phaedrus. Yes, I thought so, too; but please recall to my mind what was said.
+
+[121508] Socrates. A man must know the truth about all the particular things of which he speaks or writes, and must be able to define everything separately; then when he has defined them, he must know how to divide them by classes until further division is impossible; and in the same way he must understand the nature of the soul, must find out the class of speech adapted to each nature, and must arrange and adorn his discourse accordingly, offering to the complex soul elaborate and harmonious discourses, and simple talks to the simple soul. Until he has attained to all this, he will not be able to speak by the method of art, so far as speech can be controlled by method, either for purposes of instruction or of persuasion. This has been taught by our whole preceding discussion.
+
+[122288] Phaedrus. Yes, certainly, that is just about our result.
+
+[122346] Socrates. How about the question whether it is a fine or a disgraceful thing to be a speaker or writer and under what circumstances the profession might properly be called a disgrace or not? Was that made clear a little while ago when we said—
+
+[122591] Phaedrus. What?
+
+[122608] Socrates. That if Lysias or anyone else ever wrote or ever shall write, in private, or in public as lawgiver, a political document, and in writing it believes that it possesses great certainty and clearness, then it is a disgrace to the writer, whether anyone says so, or not. For whether one be awake or asleep, ignorance of right and wrong and good and bad is in truth inevitably a disgrace, even if the whole mob applaud it.
+
+[123037] Phaedrus. That is true.
+
+[123062] Socrates. But the man who thinks that in the written word there is necessarily much that is playful, and that no written discourse, whether in meter or in prose, deserves to be treated very seriously (and this applies also to the recitations of the rhapsodes, delivered to sway people’s minds, without opportunity for questioning and teaching), but that the best of them really serve only to remind us of what we know; and who thinks that only in words about justice and beauty and goodness spoken by teachers for the sake of instruction and really written in a soul is clearness and perfection and serious value, that such words should be considered the speaker’s own legitimate offspring, first the word within himself, if it be found there, and secondly its descendants or brothers which may have sprung up in worthy manner in the souls of others, and who pays no attention to the other words,—that man, Phaedrus, is likely to be such as you and I might pray that we ourselves may become.
+
+[124055] Phaedrus. By all means that is what I wish and pray for.
+
+[124113] Socrates. We have amused ourselves with talk about words long enough. Go and tell Lysias that you and I came down to the fountain and sacred place of the nymphs, and heard words which they told us to repeat to Lysias and anyone else who composed speeches, and to Homer or any other who has composed poetry with or without musical accompaniment, and third to Solon and whoever has written political compositions which he calls laws: If he has composed his writings with knowledge of the truth, and is able to support them by discussion of that which he has written, and has the power to show by his own speech that the written words are of little worth, such a man ought not to derive his title from such writings, but from the serious pursuit which underlies them.
+
+[124879] Phaedrus. What titles do you grant them then?
+
+[124926] Socrates. I think, Phaedrus, that the epithet wise is too great and befits God alone; but the name philosopher, that is, lover of wisdom, or something of the sort would be more fitting and modest for such a man.
+
+[125139] Phaedrus. And quite appropriate.
+
+[125173] Socrates. On the other hand, he who has nothing more valuable than the things he has composed or written, turning his words up and down at his leisure, adding this phrase and taking that away, will you not properly address him as poet or writer of speeches or of laws?
+
+[125443] Phaedrus. Certainly.
+
+[125465] Socrates. Tell this then to your friend.
+
+[125507] Phaedrus. But what will you do? For your friend ought not to be passed by.
+
+[125583] Socrates. What friend?
+
+[125607] Phaedrus. The fair Isocrates. What message will you give him? What shall we say that he is?
+
+[125700] Socrates. Isocrates is young yet, Phaedrus; however, I am willing to say what I prophesy for him.
+
+[125799] Phaedrus. What is it?
+
+[125822] Socrates. I think he has a nature above the speeches of Lysias and possesses a nobler character; so that I should not be surprised if, as he grows older, he should so excel in his present studies that all who have ever treated of rhetoric shall seem less than children; and I suspect that these studies will not satisfy him, but a more divine impulse will lead him to greater things; for my friend, something of philosophy is inborn in his mind. This is the message that I carry from these deities to my favorite Isocrates, and do you carry the other to Lysias, your favorite.
+
+[126400] Phaedrus. It shall be done; but now let us go, since the heat has grown gentler.
+
+[126482] Socrates. Is it not well to pray to the deities here before we go?
+
+[126550] Phaedrus. Of course.
+
+[126572] Socrates. O beloved Pan and all ye other gods of this place, grant to me that I be made beautiful in my soul within, and that all external possessions be in harmony with my inner man. May I consider the wise man rich; and may I have such wealth as only the self-restrained man can bear or endure.—Do we need anything more, Phaedrus? For me that prayer is enough.
+
+[126936] Phaedrus. Let me also share in this prayer; for friends have all things in common.
+
+[127020] Socrates. Let us go.

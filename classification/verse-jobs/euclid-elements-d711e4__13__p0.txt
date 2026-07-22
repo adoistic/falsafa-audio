@@ -1,0 +1,861 @@
+WORK: Elements  (slug: euclid-elements-d711e4)
+
+CHAPTER: 13
+
+
+
+[0] I have already given, in the note to IV. 10, the evidence upon which the construction of the five regular solids is attributed to the Pythagoreans. Some of them, the cube, the tetrahedron (which is nothing but a pyramid), and the octahedron (which is only a double pyramid with a square base), cannot but have been known to the Egyptians. And it appears that dodecahedra have been found, of bronze or other material, which may belong to periods earlier than Pythagoras' time by some centuries (for references see Cantor's Geschichte der Mathematik I_{3}, pp. 175-6).
+
+[568] It is true that the author of the scholium No. I to Eucl. XIII. says that the Book is about the five so-called Platonic figures, which however do not belong to Plato, three of the aforesaid five figures being due to the Pythagoreans, namely the cube, the pyramid and the dodecahedron, while the octahedron and the icosahedron are due to Theaetetus. This statement (taken probably from Geminus) may perhaps rest on the fact that Theaetetus was the first to write at any length about the two last-mentioned solids. We are told indeed by Suidas (S. V. Θεαίτητος) that Theaetetus first wrote on the’five solids’ as they are called. This no doubt means that Theaetetus was the first to write a complete and systematic treatise on all the regular solids; it does not exclude the possibility that Hippasus or others had already written on the dodecahedron. The fact that Theaetetus wrote upon the regular solids agrees very well with the evidence which we possess of his contributions to the theory of irrationals, the connexion between which and the investigation of the regular solids is seen in Euclid's Book XIII.
+
+[1680] Theaetetus flourished about 380 B.C., and his work on the regular solids was soon followed by another, that of Aristaeus, an elder contemporary of Euclid, who also wrote an important book on Solid Loci, i.e. on conics treated as loci. This Aristaeus (known as the elder) wrote in the period about 320 B.C. We hear of his Comparison of the five regular solids from Hypsicles (2nd cent. B.C.), the writer of the short book commonly included in the editions of the Elements as Book XIV. Hypsicles gives in this Book some six propositions supplementing Eucl. XIII.; and he introduces the second of the propositions (Heiberg's Euclid, Vol. v. p. 6) as follows:
+
+[2337] The same circle circumscribes both the pentagon of the dodecahedron and the triangle of the icosahedron when both are inscribed in the same sphere. This is proved by Aristaeus in the book entitled Comparison of the five figures.
+
+[2567] Hypsicles proceeds (pp. 7 sqq.) to give a proof of this theorem. Allman pointed out (Greek Geometry from Thales to Euclid, 1889, pp. 201-2) that this proof depends on eight theorems, six of which appear in Euclid's Book XIII. (in Propositions 8, 10, 12, 15, 16 with Por., 17); two other propositions not mentioned by Allman are also used, namely XIII. 4 and 9. This seems, as Allman says, to confirm the inference of Bretschneider (p. 171) that, as Aristaeus' work was the newest and latest in which, before Euclid's time, this subject was treated, we have in Eucl. XIII. at least a partial recapitulation of the contents of the treatise of Aristaeus.
+
+[3220] After Euclid, Apollonius wrote on the comparison of the dodecahedron and the icosahedron inscribed in one and the same sphere. This we also learn from Hypsicles, who says in the next words following those about Aristaeus above quoted: But it is proved by Apollonius in the second edition of his Comparison of the dodecahedron with the icosahedron that, as the surface of the dodecahedron is to the surface of the icosahedron [inscribed in the same sphere], so is the dodecahedron itself [i.e. its volume] to the icosahedron, because the perpendicular is the same from the centre of the sphere to the pentagon of the dodecahedron and to the triangle of the icosahedron.
+
+[3890] If a straight line be cut in extreme and mean ratio, the square on the greater segment added to the half of the whole is five times the square on the half.
+
+[4047] For let the straight line AB be cut in extreme and mean ratio at the point C, and let AC be the greater segment; let the straight line AD be produced in a straight line with CA, and let AD be made half of AB; I say that the square on CD is five times the square on AD.
+
+[4317] For let the squares AE, DF be described on AB, DC, and let the figure in DF be drawn; let FC be carried through to G.
+
+[4436] Now, since AB has been cut in extreme and mean ratio at C, therefore the rectangle AB, BC is equal to the square on AC. [ VI. Def. 3, VI. 17]
+
+[4579] And CE is the rectangle AB, BC, and FH the square on AC; therefore CE is equal to FH.
+
+[4666] And, since BA is double of AD, while BA is equal to KA, and AD to AH, therefore KA is also double of AH.
+
+[4772] But, as KA is to AH, so is CK to CH; [ VI. 1] therefore CK is double of CH.
+
+[4849] But LH, HC are also double of CH.
+
+[4884] Therefore KC is equal to LH, HC.
+
+[4918] But CE was also proved equal to HF; therefore the whole square AE is equal to the gnomon MNO.
+
+[5013] And, since BA is double of AD, the square on BA is quadruple of the square on AD, that is, AE is quadruple of DH.
+
+[5128] But AE is equal to the gnomon MNO; therefore the gnomon MNO is also quadruple of AP; therefore the whole DF is five times AP.
+
+[5255] And DF is the square on DC, and AP the square on DA; therefore the square on CD is five times the square on DA.
+
+[5368] Therefore etc. Q. E. D.
+
+[5393] If the square on a straight line be five times the square on a segment of it, then, when the double of the said segment is cut in extreme and mean ratio, the greater segment is the remaining part of the original straight line.
+
+[5621] For let the square on the straight line AB be five times the square on the segment AC of it, and let CD be double of AC; I say that, when CD is cut in extreme and mean ratio, the greater segment is CB.
+
+[5824] Let the squares AF, CG be described on AB, CD respectively, let the figure in AF be drawn, and let BE be drawn through.
+
+[5945] Now, since the square on BA is five times the square on AC, AF is five times AH.
+
+[6027] Therefore the gnomon MNO is quadruple of AH.
+
+[6073] And, since DC is double of CA, therefore the square on DC is quadruple of the square on CA, that is, CG is quadruple of AH.
+
+[6198] But the gnomon MNO was also proved quadruple of AH; therefore the gnomon MNO is equal to CG.
+
+[6292] And, since DC is double of CA, while DC is equal to CK, and AC to CH, therefore KB is also double of BH. [ VI. 1]
+
+[6407] But LH, HB are also double of HB; therefore KB is equal to LH, HB.
+
+[6475] But the whole gnomon MNO was also proved equal to the whole CG; therefore the remainder HF is equal to BG.
+
+[6583] And BG is the rectangle CD, DB, for CD is equal to DG; and HF is the square on CB; therefore the rectangle CD, DB is equal to the square on CB.
+
+[6728] Therefore, as DC is to CB, so is CB to BD.
+
+[6772] But DC is greater than CB; therefore CB is also greater than BD.
+
+[6838] Therefore, when the straight line CD is cut in extreme and mean ratio, CB is the greater segment.
+
+[6937] Therefore etc. Q. E. D.
+
+[6962] Lemma. That the double of AC is greater than BC is to be proved thus.
+
+[7033] If not, let BC be, if possible, double of CA.
+
+[7080] Therefore the square on BC is quadruple of the square on CA; therefore the squares on BC, CA are five times the square on CA.
+
+[7207] But, by hypothesis, the square on BA is also five times the square on CA; therefore the square on BA is equal to the squares on BC, CA: which is impossible. [ II. 4]
+
+[7374] Therefore CB is not double of AC.
+
+[7409] Similarly we can prove that neither is a straight line less than CB double of CA; for the absurdity is much greater.
+
+[7527] Therefore the double of AC is greater than CB. Q. E. D.
+
+[7584] If a straight line be cut in extreme and mean ratio, the square on the lesser segment added to the half of the greater segment is five times the square on the half of the greater segment.
+
+[7773] For let any straight line AB be cut in extreme and mean ratio at the point C, let AC be the greater segment, and let AC be bisected at D; I say that the square on BD is five times the square on DC.
+
+[7972] For let the square AE be described on AB, and let the figure be drawn double.
+
+[8051] Since AC is double of DC, therefore the square on AC is quadruple of the square on DC, that is, RS is quadruple of FG.
+
+[8171] And, since the rectangle AB, BC is equal to the square on AC, and CE is the rectangle AB, BC, therefore CE is equal to RS.
+
+[8295] But RS is quadruple of FG; therefore CE is also quadruple of FG.
+
+[8361] Again, since AD is equal to DC, HK is also equal to KF.
+
+[8418] Hence the square GF is also equal to the square HL.
+
+[8471] Therefore GK is equal to KL, that is, MN to NE; hence MF is also equal to FE.
+
+[8550] But MF is equal to CG; therefore CG is also equal to FE.
+
+[8608] Let CN be added to each; therefore the gnomon OPQ is equal to CE.
+
+[8675] But CE was proved quadruple of GF; therefore the gnomon OPQ is also quadruple of the square FG.
+
+[8772] Therefore the gnomon OPQ and the square FG are five times FG.
+
+[8835] But the gnomon OPQ and the square FG are the square DN.
+
+[8892] And DN is the square on DB, and GF the square on DC.
+
+[8946] Therefore the square on DB is five times the square on DC. Q. E. D.
+
+[9015] If a straight line be cut in extreme and mean ratio, the square on the whole and the square on the lesser segment together are triple of the square on the greater segment.
+
+[9188] Let AB be a straight line, let it be cut in extreme and mean ratio at C, and let AC be the greater segment; I say that the squares on AB, BC are triple of the square on CA.
+
+[9362] For let the square ADEB be described on AB, and let the figure be drawn.
+
+[9436] Since then AB has been cut in extreme and mean ratio at C, and AC is the greater segment, therefore the rectangle AB, BC is equal to the square on AC. [ VI. Def. 3, VI. 17]
+
+[9610] And AK is the rectangle AB, BC, and HG the square on AC; therefore AK is equal to HG.
+
+[9697] And, since AF is equal to FE, let CK be added to each; therefore the whole AK is equal to the whole CE; therefore AK, CE are double of AK.
+
+[9837] But AK, CE are the gnomon LMN and the square CK; therefore the gnomon LMN and the square CK are double of AK.
+
+[9948] But, further, AK was also proved equal to HG; therefore the gnomon LMN and the squares CK, HG are triple of the square HG.
+
+[10072] And the gnomon LMN and the squares CK, HG are the whole square AE and CK, which are the squares on AB, BC, while HG is the square on AC.
+
+[10210] Therefore the squares on AB, BC are triple of the square on AC. Q. E. D.
+
+[10284] If a straight line be cut in extreme and mean ratio, and there be added to it a straight line equal to the greater segment, the whole straight line has been cut in extreme and mean ratio, and the original straight line is the greater segment.
+
+[10528] For let the straight line AB be cut in extreme and mean ratio at the point C, let AC be the greater segment, and let AD be equal to AC.
+
+[10665] I say that the straight line DB has been cut in extreme and mean ratio at A, and the original straight line AB is the greater segment.
+
+[10801] For let the square AE be described on AB, and let the figure be drawn.
+
+[10873] Since AB has been cut in extreme and mean ratio at C, therefore the rectangle AB, BC is equal to the square on AC. [ VI. Def. 3, VI. 17]
+
+[11011] And CE is the rectangle AB, BC, and CH the square on AC; therefore CE is equal to HC.
+
+[11098] But HE is equal to CE, and DH is equal to HC; therefore DH is also equal to HE.
+
+[11179] Therefore the whole DK is equal to the whole AE.
+
+[11229] And DK is the rectangle BD, DA, for AD is equal to DL; and AE is the square on AB; therefore the rectangle BD, DA is equal to the square on AB.
+
+[11374] Therefore, as DB is to BA, so is BA to AD. [ VI. 17]
+
+[11428] And DB is greater than BA; therefore BA is also greater than AD. [ V. 14]
+
+[11503] Therefore DB has been cut in extreme and mean ratio at A, and AB is the greater segment. Q. E. D.
+
+[11602] If a rational straight line be cut in extreme and mean ratio, each of the segments is the irrational straight line called apotome.
+
+[11734] Let AB be a rational straight line, let it be cut in extreme and mean ratio at C, and let AC be the greater segment; I say that each of the straight lines AC, CB is the irrational straight line called apotome.
+
+[11945] For let BA be produced, and let AD be made half of BA.
+
+[12001] Since then the straight line AB has been cut in extreme and mean ratio, and to the greater segment AC is added AD which is half of AB, therefore the square on CD is five times the square on DA. [ XIII. 1]
+
+[12207] Therefore the square on CD has to the square on DA the ratio which a number has to a number; therefore the square on CD is commensurable with the square on DA. [ X. 6]
+
+[12376] But the square on DA is rational, for DA is rational, being half of AB which is rational; therefore the square on CD is also rational; [ X. Def. 4] therefore CD is also rational.
+
+[12556] And, since the square on CD has not to the square on DA the ratio which a square number has to a square number, therefore CD is incommensurable in length with DA; [ X. 9] therefore CD, DA are rational straight lines commensurable in square only; therefore AC is an apotome. [ X. 73]
+
+[12840] Again, since AB has been cut in extreme and mean ratio, and AC is the greater segment, therefore the rectangle AB, BC is equal to the square on AC. [ VI. Def. 3, VI. 17]
+
+[13011] Therefore the square on the apotome AC, if applied to the rational straight line AB, produces BC as breadth.
+
+[13121] But the square on an apotome, if applied to a rational straight line, produces as breadth a first apotome; [ X. 97] therefore CB is a first apotome.
+
+[13271] And CA was also proved to be an apotome.
+
+[13313] Therefore etc. Q. E. D.
+
+[13338] If three angles of an equilateral pentagon, taken either in order or not in order, be equal, the pentagon will be equiangular.
+
+[13466] For in the equilateral pentagon ABCDE let, first, three angles taken in order, those at A, B, C, be equal to one another; I say that the pentagon ABCDE is equiangular.
+
+[13635] For let AC, BE, FD be joined.
+
+[13666] Now, since the two sides CB, BA are equal to the two sides BA, AE respectively, and the angle CBA is equal to the angle BAE, therefore the base AC is equal to the base BE, the triangle ABC is equal to the triangle ABE, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend, [ I. 4] that is, the angle BCA to the angle BEA, and the angle ABE to the angle CAB; hence the side AF is also equal to the side BF. [ I. 6]
+
+[14135] But the whole AC was also proved equal to the whole BE; therefore the remainder FC is also equal to the remainder FE.
+
+[14254] But CD is also equal to DE.
+
+[14283] Therefore the two sides FC, CD are equal to the two sides FE, ED; and the base FD is common to them; therefore the angle FCD is equal to the angle FED. [ I. 8]
+
+[14444] But the angle BCA was also proved equal to the angle AEB; therefore the whole angle BCD is also equal to the whole angle AED.
+
+[14571] But, by hypothesis, the angle BCD is equal to the angles at A, B; therefore the angle AED is also equal to the angles at A, B.
+
+[14699] Similarly we can prove that the angle CDE is also equal to the angles at A, B, C; therefore the pentagon ABCDE is equiangular.
+
+[14827] Next, let the given equal angles not be angles taken in order, but let the angles at the points A, C, D be equal; I say that in this case too the pentagon ABCDE is equiangular.
+
+[15005] For let BD be joined.
+
+[15028] Then, since the two sides BA, AE are equal to the two sides BC, CD, and they contain equal angles, therefore the base BE is equal to the base BD, the triangle ABE is equal to the triangle BCD, and the remaining angles will be equal to the remaining angles, namely those which the equal sides subtend; [ I. 4] therefore the angle AEB is equal to the angle CDB.
+
+[15389] But the angle BED is also equal to the angle BDE, since the side BE is also equal to the side BD. [ I. 5]
+
+[15496] Therefore the whole angle AED is equal to the whole angle CDE.
+
+[15560] But the angle CDE is, by hypothesis, equal to the angles at A, C; therefore the angle AED is also equal to the angles at A, C.
+
+[15688] For the same reason the angle ABC is also equal to the angles at A, C, D.
+
+[15763] Therefore the pentagon ABCDE is equiangular. Q. E. D.
+
+[15818] If in an equilateral and equiangular pentagon straight lines subtend two angles taken in order, they cut one another in extreme and mean ratio, and their greater segments are equal to the side of the pentagon.
+
+[16029] For in the equilateral and equiangular pentagon ABCDE let the straight lines AC, BE, cutting one another at the point H, subtend two angles taken in order, the angles at A, B; I say that each of them has been cut in extreme and mean ratio at the point H, and their greater segments are equal to the side of the pentagon.
+
+[16351] For let the circle ABCDE be circumscribed about the pentagon ABCDE. [ IV. 14]
+
+[16430] Then, since the two straight lines EA, AB are equal to the two AB, BC, and they contain equal angles, therefore the base BE is equal to the base AC, the triangle ABE is equal to the triangle ABC, and the remaining angles will be equal to the remaining angles respectively, namely those which the equal sides subtend. [ I. 4]
+
+[16756] Therefore the angle BAC is equal to the angle ABE; therefore the angle AHE is double of the angle BAH. [ I. 32]
+
+[16869] But the angle EAC is also double of the angle BAC, inasmuch as the circumference EDC is also double of the circumference CB; [ III. 28, VI. 33] therefore the angle HAE is equal to the angle AHE; hence the straight line HE is also equal to EA, that is, to AB. [ I. 6]
+
+[17137] And, since the straight line BA is equal to AE, the angle ABE is also equal to the angle AEB. [ I. 5]
+
+[17240] But the angle ABE was proved equal to the angle BAH; therefore the angle BEA is also equal to the angle BAH.
+
+[17350] And the angle ABE is common to the two triangles ABE and ABH; therefore the remaining angle BAE is equal to the remaining angle AHB; [ I. 32] therefore the triangle ABE is equiangular with the triangle ABH; therefore, proportionally, as EB is to BA, so is AB to BH. [ VI. 4]
+
+[17626] But BA is equal to EH; therefore, as BE is to EH, so is EH to HB.
+
+[17693] And BE is greater than EH; therefore EH is also greater than HB. [ V. 14]
+
+[17768] Therefore BE has been cut in extreme and mean ratio at H, and the greater segment HE is equal to the side of the pentagon.
+
+[17892] Similarly we can prove that AC has also been cut in extreme and mean ratio at H, and its greater segment CH is equal to the side of the pentagon. Q. E. D.
+
+[18048] If the side of the hexagon and that of the decagon inscribed in the same circle be added together, the whole straight line has been cut in extreme and mean ratio, and its greater segment is the side of the hexagon.
+
+[18264] Let ABC be a circle; of the figures inscribed in the circle ABC let BC be the side of a decagon, CD that of a hexagon, and let them be in a straight line; I say that the whole straight line BD has been cut in extreme and mean ratio, and CD is its greater segment.
+
+[18529] For let the centre of the circle, the point E, be taken, let EB, EC, ED be joined, and let BE be carried through to A.
+
+[18649] Since BC is the side of an equilateral decagon, therefore the circumference ACB is five times the circumference BC; therefore the circumference AC is quadruple of CB.
+
+[18817] But, as the circumference AC is to CB, so is the angle AEC to the angle CEB; [ VI. 33] therefore the angle AEC is quadruple of the angle CEB.
+
+[18960] And, since the angle EBC is equal to the angle ECB, [ I. 5] therefore the angle AEC is double of the angle ECB. [ I. 32]
+
+[19082] And, since the straight line EC is equal to CD, for each of them is equal to the side of the hexagon inscribed in the circle ABC, [ IV. 15, Por.] the angle CED is also equal to the angle CDE; [ I. 5] therefore the angle ECB is double of the angle EDC. [ I. 32]
+
+[19344] But the angle AEC was proved double of the angle ECB; therefore the angle AEC is quadruple of the angle EDC.
+
+[19454] But the angle AEC was also proved quadruple of the angle BEC; therefore the angle EDC is equal to the angle BEC.
+
+[19568] But the angle EBD is common to the two triangles BEC and BED; therefore the remaining angle BED is also equal to the remaining angle ECB; [ I. 32] therefore the triangle EBD is equiangular with the triangle EBC.
+
+[19781] Therefore, proportionally, as DB is to BE, so is EB to BC. [ VI. 4]
+
+[19850] But EB is equal to CD.
+
+[19874] Therefore, as BD is to DC, so is DC to CB.
+
+[19918] And BD is greater than DC; therefore DC is also greater than CB.
+
+[19984] Therefore the straight line BD has been cut in extreme and mean ratio, and DC is its greater segment. Q. E. D.
+
+[20096] If an equilateral pentagon be inscribed in a circle, the square on the side of the pentagon is equal to the squares on the side of the hexagon and on that of the decagon inscribed in the same circle.
+
+[20297] Let ABCDE be a circle, and let the equilateral pentagon ABCDE be inscribed in the circle ABCDE.
+
+[20394] I say that the square on the side of the pentagon ABCDE is equal to the squares on the side of the hexagon and on that of the decagon inscribed in the circle ABCDE.
+
+[20560] For let the centre of the circle, the point F, be taken, let AF be joined and carried through to the point G, let FB be joined, let FH be drawn from F perpendicular to AB and be carried through to K, let AK, KB be joined, let FL be again drawn from F perpendicular to AK, and be carried through to M, and let KN be joined.
+
+[20884] Since the circumference ABCG is equal to the circumference AEDG, and in them ABC is equal to AED, therefore the remainder, the circumference CG, is equal to the remainder GD.
+
+[21060] But CD belongs to a pentagon; therefore CG belongs to a decagon.
+
+[21126] And, since FA is equal to FB, and FH is perpendicular, therefore the angle AFK is also equal to the angle KFB. [ I. 5, I. 26]
+
+[21253] Hence the circumference AK is also equal to KB; [ III. 26] therefore the circumference AB is double of the circumference BK; therefore the straight line AK is a side of a decagon.
+
+[21434] For the same reason AK is also double of KM.
+
+[21480] Now, since the circumference AB is double of the circumference BK, while the circumference CD is equal to the circumference AB, therefore the circumference CD is also double of the circumference BK.
+
+[21680] But the circumference CD is also double of CG; therefore the circumference CG is equal to the circumference BK.
+
+[21793] But BK is double of KM, since KA is so also; therefore CG is also double of KM.
+
+[21874] But, further, the circumference CB is also double of the circumference BK, for the circumference CB is equal to BA.
+
+[21991] Therefore the whole circumference GB is also double of BM; hence the angle GFB is also double of the angle BFM. [ VI. 33]
+
+[22114] But the angle GFB is also double of the angle FAB, for the angle FAB is equal to the angle ABF.
+
+[22211] Therefore the angle BFN is also equal to the angle FAB.
+
+[22268] But the angle ABF is common to the two triangles ABF and BFN; therefore the remaining angle AFB is equal to the remaining angle BNF; [ I. 32] therefore the triangle ABF is equiangular with the triangle BFN.
+
+[22476] Therefore, proportionally, as the straight line AB is to BF, so is FB to BN; [ VI. 4] therefore the rectangle AB, BN is equal to the square on BF. [ VI. 17]
+
+[22634] Again, since AL is equal to LK, while LN is common and at right angles, therefore the base KN is equal to the base AN; [ I. 4] therefore the angle LKN is also equal to the angle LAN.
+
+[22818] But the angle LAN is equal to the angle KBN; therefore the angle LKN is also equal to the angle KBN.
+
+[22920] And the angle at A is common to the two triangles AKB and AKN.
+
+[22984] Therefore the remaining angle AKB is equal to the remaining angle KNA; [ I. 32] therefore the triangle KBA is equiangular with the triangle KNA.
+
+[23130] Therefore, proportionally, as the straight line BA is to AK, so is KA to AN; [ VI. 4] therefore the rectangle BA, AN is equal to the square on AK. [ VI. 17]
+
+[23288] But the rectangle AB, BN was also proved equal to the square on BF; therefore the rectangle AB, BN together with the rectangle BA, AN, that is, the square on BA [ II. 2], is equal to the square on BF together with the square on AK.
+
+[23521] And BA is a side of the pentagon, BF of the hexagon [ IV. 15, Por.], and AK of the decagon.
+
+[23614] Therefore etc. Q. E. D.
+
+[23639] If in a circle which has its diameter rational an equilateral pentagon be inscribed, the side of the pentagon is the irrational straight line called minor.
+
+[23796] For in the circle ABCDE which has its diameter rational let the equilateral pentagon ABCDE be inscribed; I say that the side of the pentagon is the irrational straight line called minor.
+
+[23984] For let the centre of the circle, the point F, be taken, let AF, FB be joined and carried through to the points, G, H, let AC be joined, and let FK be made a fourth part of AF.
+
+[24162] Now AF is rational; therefore FK is also rational.
+
+[24214] But BF is also rational; therefore the whole BK is rational.
+
+[24276] And, since the circumference ACG is equal to the circumference ADG, and in them ABC is equal to AED, therefore the remainder CG is equal to the remainder GD.
+
+[24435] And, if we join AD, we conclude that the angles at L are right, and CD is double of CL.
+
+[24524] For the same reason the angles at M are also right, and AC is double of CM.
+
+[24601] Since then the angle ALC is equal to the angle AMF, and the angle LAC is common to the two triangles ACL and AMF, therefore the remaining angle ACL is equal to the remaining angle MFA; [ I. 32] therefore the triangle ACL is equiangular with the triangle AMF; therefore, proportionally, as LC is to CA, so is MF to FA.
+
+[24920] And the doubles of the antecedents may be taken; therefore, as the double of LC is to CA, so is the double of MF to FA.
+
+[25041] But, as the double of MF is to FA, so is MF to the half of FA; therefore also, as the double of LC is to CA, so is MF to the half of FA.
+
+[25179] And the halves of the consequents may be taken; therefore, as the double of LC is to the half of CA, so is MF to the fourth of FA.
+
+[25311] And DC is double of LC, CM is half of CA, and FK a fourth part of FA; therefore, as DC is to CM, so is MF to FK.
+
+[25425] Componendo also, as the sum of DC, CM is to CM, so is MK to KF; [ V. 18] therefore also, as the square on the sum of DC, CM is to the square on CM, so is the square on MK to the square on KF.
+
+[25618] And since, when the straight line subtending two sides of the pentagon, as AC, is cut in extreme and mean ratio, the greater segment is equal to the side of the pentagon, that is, to DC, [ XIII. 8] while the square on the greater segment added to the half of the whole is five times the square on the half of the whole, [ XIII. 1] and CM is half of the whole AC, therefore the square on DC, CM taken as one straight line is five times the square on CM.
+
+[26072] But it was proved that, as the square on DC, CM taken as one straight line is to the square on CM, so is the square on MK to the square on KF; therefore the square on MK is five times the square on KF.
+
+[26275] But the square on KF is rational, for the diameter is rational; therefore the square on MK is also rational; therefore MK is rational
+
+[26410] And, since BF is quadruple of FK, therefore BK is five times KF; therefore the square on BK is twenty-five times the square on KF.
+
+[26542] But the square on MK is five times the square on KF; therefore the square on BK is five times the square on KM; therefore the square on BK has not to the square on KM the ratio which a square number has to a square number; therefore BK is incommensurable in length with KM. [ X. 9]
+
+[26825] And each of them is rational.
+
+[26856] Therefore BK, KM are rational straight lines commensurable in square only.
+
+[26932] But, if from a rational straight line there be subtracted a rational straight line which is commensurable with the whole in square only, the remainder is irrational, namely an apotome; therefore MB is an apotome and MK the annex to it. [ X. 73]
+
+[27178] I say next that MB is also a fourth apotome.
+
+[27224] Let the square on N be equal to that by which the square on BK is greater than the square on KM; therefore the square on BK is greater than the square on KM by the square on N.
+
+[27402] And, since KF is commensurable with FB, componendo also, KB is commensurable with FB. [ X. 15]
+
+[27498] But BF is commensurable with BH; therefore BK is also commensurable with BH. [ X. 12]
+
+[27585] And, since the square on BK is five times the square on KM, therefore the square on BK has to the square on KM the ratio which 5 has to 1.
+
+[27725] Therefore, convertendo, the square on BK has to the square on N the ratio which 5 has to 4 [ V. 19, Por.], and this is not the ratio which a square number has to a square number; therefore BK is incommensurable with N; [ X. 9] therefore the square on BK is greater than the square on KM by the square on a straight line incommensurable with BK.
+
+[28071] Since then the square on the whole BK is greater than the square on the annex KM by the square on a straight line incommensurable with BK, and the whole BK is commensurable with the rational straight line, BH, set out, therefore MB is a fourth apotome. [ X. Deff. III. 4]
+
+[28344] But the rectangle contained by a rational straight line and a fourth apotome is irrational, and its square root is irrational, and is called minor. [ X. 94]
+
+[28502] But the square on AB is equal to the rectangle HB, BM, because, when AH is joined, the triangle ABH is equiangular with the triangle ABM, and, as HB is to BA, so is AB to BM.
+
+[28678] Therefore the side AB of the pentagon is the irrational straight line called minor. Q. E. D.
+
+[28772] If an equilateral triangle be inscribed in a circle, the square on the side of the triangle is triple of the square on the radius of the circle.
+
+[28918] Let ABC be a circle, and let the equilateral triangle ABC be inscribed in it; I say that the square on one side of the triangle ABC is triple of the square on the radius of the circle.
+
+[29104] For let the centre D of the circle ABC be taken, let AD be joined and carried through to E, and let BE be joined.
+
+[29219] Then, since the triangle ABC is equilateral, therefore the circumference BEC is a third part of the circumference of the circle ABC.
+
+[29353] Therefore the circumference BE is a sixth part of the circumference of the circle; therefore the straight line BE belongs to a hexagon; therefore it is equal to the radius DE. [ IV. 15, Por.]
+
+[29546] And, since AE is double of DE, the square on AE is quadruple of the square on ED, that is, of the square on BE.
+
+[29659] But the square on AE is equal to the squares on AB, BE; [ III. 31, I. 47] therefore the squares on AB, BE are quadruple of the square on BE.
+
+[29801] Therefore, separando, the square on AB is triple of the square on BE.
+
+[29872] But BE is equal to DE; therefore the square on AB is triple of the square on DE.
+
+[29954] Therefore the square on the side of the triangle is triple of the square on the radius. Q. E. D.
+
+[30052] To construct a pyramid, to comprehend it in a given sphere, and to prove that the square on the diameter of the sphere is one and a half times the square on the side of the pyramid.
+
+[30235] Let the diameter AB of the given sphere be set out, and let it be cut at the point C so that AC is double of CB; let the semicircle ADB be described on AB, let CD be drawn from the point C at right angles to AB, and let DA be joined; let the circle EFG which has its radius equal to DC be set out, let the equilateral triangle EFG be inscribed in the circle EFG, [ IV. 2] let the centre of the circle, the point H, be taken, [ III. 1] let EH, HF, HG be joined; from the point H let HK be set up at right angles to the plane of the circle EFG, [ XI. 12] let HK equal to the straight line AC be cut off from HK, and let KE, KF, KG be joined.
+
+[30876] Now, since KH is at right angles to the plane of the circle EFG, therefore it will also make right angles with all the straight lines which meet it and are in the plane of the circle EFG. [ XI. Def. 3]
+
+[31079] But each of the straight lines HE, HF, HG meets it: therefore HK is at right angles to each of the straight lines HE, HF, HG.
+
+[31206] And, since AC is equal to HK, and CD to HE, and they contain right angles, therefore the base DA is equal to the base KE. [ I. 4]
+
+[31337] For the same reason each of the straight lines KF, KG is also equal to DA; therefore the three straight lines KE, KF, KG are equal to one another.
+
+[31485] And, since AC is double of CB, therefore AB is triple of BC.
+
+[31547] But, as AB is to BC, so is the square on AD to the square on DC, as will be proved afterwards.
+
+[31643] Therefore the square on AD is triple of the square on DC.
+
+[31702] But the square on FE is also triple of the square on EH, [ XIII. 12] and DC is equal to EH; therefore DA is also equal to EF.
+
+[31829] But DA was proved equal to each of the straight lines KE, KF, KG; therefore each of the straight lines EF, FG, GE is also equal to each of the straight lines KE, KF, KG; therefore the four triangles EFG, KEF, KFG, KEG are equilateral.
+
+[32065] Therefore a pyramid has been constructed out of four equilateral triangles, the triangle EFG being its base and the point K its vertex.
+
+[32202] It is next required to comprehend it in the given sphere and to prove that the square on the diameter of the sphere is one and a half times the square on the side of the pyramid.
+
+[32382] For let the straight line HL be produced in a straight line with KH, and let HL be made equal to CB.
+
+[32484] Now, since, as AC is to CD, so is CD to CB, [ VI. 8, Por.] while AC is equal to KH, CD to HE, and CB to HL, therefore, as KH is to HE, so is EH to HL; therefore the rectangle KH, HL is equal to the square on EH. [ VI. 17]
+
+[32707] And each of the angles KHE. EHL is right; therefore the semicircle described on KL will pass through E also. [cf. VI. 8, III. 31.]
+
+[32839] If then, KL remaining fixed, the semicircle be carried round and restored to the same position from which it began to be moved, it will also pass through the points F, G, since, if FL, LG be joined, the angles at F, G similarly become right angles; and the pyramid will be comprehended in the given sphere.
+
+[33147] For KL, the diameter of the sphere, is equal to the diameter AB of the given sphere, inasmuch as KH was made equal to AC, and HL to CB.
+
+[33284] I say next that the square on the diameter of the sphere is one and a half times the square on the side of the pyramid
+
+[33404] For, since AC is double of CB, therefore AB is triple of BC; and, convertendo, BA is one and a half times AC.
+
+[33515] But, as BA is to AC, so is the square on BA to the square on AD.
+
+[33581] Therefore the square on BA is also one and a half times the square on AD.
+
+[33656] And BA is the diameter of the given sphere, and AD is equal to the side of the pyramid.
+
+[33745] Therefore the square on the diameter of the sphere is one and a half times the square on the side of the pyramid. Q. E. D.
+
+[33869] Lemma. It is to be proved that, as AB is to BC, so is the square on AD to the square on DC.
+
+[33962] For let the figure of the semicircle be set out, let DB be joined, let the square EC be described on AC, and let the parallelogram FB be completed.
+
+[34111] Since then, because the triangle DAB is equiangular with the triangle DAC, as BA is to AD, so is DA to AC, [ VI. 8, VI. 4] therefore the rectangle BA, AC is equal to the square on AD. [ VI. 17]
+
+[34306] And since, as AB is to BC, so is EB to BF, [ VI. 1] and EB is the rectangle BA, AC, for EA is equal to AC, and BF is the rectangle AC, CB, therefore, as AB is to BC, so is the rectangle BA, AC to the rectangle AC, CB.
+
+[34525] And the rectangle BA, AC is equal to the square on AD, and the rectangle AC, CB to the square on DC, for the perpendicular DC is a mean proportional between the segments AC, CB of the base, because the angle ADB is right. [ VI. 8, Por.]
+
+[34763] Therefore, as AB is to BC, so is the square on AD to the square on DC. Q. E. D.
+
+[34844] To construct an octahedron and comprehend it in a sphere, as in the preceding case; and to prove that the square on the diameter of the sphere is double of the square on the side of the octahedron.
+
+[35043] Let the diameter AB of the given sphere be set out, and let it be bisected at C; let the semicircle ADB be described on AB, let CD be drawn from C at right angles to AB, let DB be joined; let the square EFGH, having each of its sides equal to DB, be set out, let HF, EG be joined, from the point K let the straight line KL be set up at right angles to the plane of the square EFGH [ XI. 12], and let it be carried through to the other side of the plane, as KM; from the straight lines KL, KM let KL, KM be respectively cut off equal to one of the straight lines EK, FK, GK, HK, and let LE, LF, LG, LH, ME, MF, MG, MH be joined.
+
+[35672] Then, since KE is equal to KH, and the angle EKH is right, therefore the square on HE is double of the square on EK. [ I. 47]
+
+[35799] Again, since LK is equal to KE, and the angle LKE is right, therefore the square on EL is double of the square on EK. [ id.]
+
+[35925] But the square on HE was also proved double of the square on EK; therefore the square on LE is equal to the square on EH; therefore LE is equal to EH.
+
+[36077] For the same reason LH is also equal to HE; therefore the triangle LEH is equilateral.
+
+[36165] Similarly we can prove that each of the remaining triangles of which the sides of the square EFGH are the bases, and the points L, M the vertices, is equilateral; therefore an octahedron has been constructed which is contained by eight equilateral triangles.
+
+[36425] It is next required to comprehend it in the given sphere, and to prove that the square on the diameter of the sphere is double of the square on the side of the octahedron.
+
+[36598] For, since the three straight lines LK, KM, KE are equal to one another, therefore the semicircle described on LM will also pass through E.
+
+[36739] And for the same reason, if, LM remaining fixed, the semicircle be carried round and restored to the same position from which it began to be moved, it will also pass through the points F, G, H, and the octahedron will have been comprehended in a sphere.
+
+[36994] I say next that it is also comprehended in the given sphere.
+
+[37056] For, since LK is equal to KM, while KE is common, and they contain right angles, therefore the base LE is equal to the base EM. [ I. 4]
+
+[37193] And, since the angle LEM is right, for it is in a semicircle, [ III. 31] therefore the square on LM is double of the square on LE. [ I. 47]
+
+[37334] Again, since AC is equal to CB, AB is double of BC.
+
+[37387] But, as AB is to BC, so is the square on AB to the square on BD; therefore the square on AB is double of the square on BD.
+
+[37511] But the square on LM was also proved double of the square on LE.
+
+[37577] And the square on DB is equal to the square on LE, for EH was made equal to DB.
+
+[37658] Therefore the square on AB is also equal to the square on LM; therefore AB is equal to LM.
+
+[37750] And AB is the diameter of the given sphere; therefore LM is equal to the diameter of the given sphere.
+
+[37854] Therefore the octahedron has been comprehended in the given sphere, and it has been demonstrated at the same time that the square on the diameter of the sphere is double of the square on the side of the octahedron. Q. E. D.
+
+[38079] To construct a cube and comprehend it in a sphere, like the pyramid; and to prove that the square on the diameter of the sphere is triple of the square on the side of the cube.
+
+[38257] Let the diameter AB of the given sphere be set out, and let it be cut at C so that AC is double of CB; let the semicircle ADB be described on AB, let CD be drawn from C at right angles to AB, and let DB be joined; let the square EFGH having its side equal to DB be set out, from E, F, G, H let EK, FL, GM, HN be drawn at right angles to the plane of the square EFGH, from EK, FL, GM, HN let EK, FL, GM, HN respectively be cut off equal to one of the straight lines EF, FG, GH, HE, and let KL, LM, MN, NK be joined; therefore the cube FN has been constructed which is contained by six equal squares.
+
+[38857] It is then required to comprehend it in the given sphere, and to prove that the square on the diameter of the sphere is triple of the square on the side of the cube.
+
+[39024] For let KG, EG be joined.
+
+[39051] Then, since the angle KEG is right, because KE is also at right angles to the plane EG and of course to the straight line EG also, [ XI. Def. 3] therefore the semicircle described on KG will also pass through the point E.
+
+[39274] Again, since GF is at right angles to each of the straight lines FL, FE, GF is also at right angles to the plane FK; hence also, if we join FK, GF will be at right angles to FK; and for this reason again the semicircle described on GK will also pass through F.
+
+[39536] Similarly it will also pass through the remaining angular points of the cube.
+
+[39615] If then, KG remaining fixed, the semicircle be carried round and restored to the same position from which it began to be moved, the cube will be comprehended in a sphere.
+
+[39787] I say next that it is also comprehended in the given sphere.
+
+[39849] For, since GF is equal to FE, and the angle at F is right, therefore the square on EG is double of the square on EF.
+
+[39967] But EF is equal to EK; therefore the square on EG is double of the square on EK; hence the squares on GE, EK, that is the square on GK [ I. 47], is triple of the square on EK.
+
+[40144] And, since AB is triple of BC, while, as AB is to BC, so is the square on AB to the square on BD, therefore the square on AB is triple of the square on BD.
+
+[40301] But the square on GK was also proved triple of the square on KE.
+
+[40367] And KE was made equal to DB; therefore KG is also equal to AB.
+
+[40431] And AB is the diameter of the given sphere; therefore KG is also equal to the diameter of the given sphere.
+
+[40540] Therefore the cube has been comprehended in the given sphere; and it has been demonstrated at the same time that the square on the diameter of the sphere is triple of the square on the side of the cube. Q. E. D.
+
+[40753] To construct an icosahedron and comprehend it in a sphere, like the aforesaid figures; and to prove that the side of the icosahedron is the irrational straight line called minor.
+
+[40933] Let the diameter AB of the given sphere be set out, and let it be cut at C so that AC is quadruple of CB, let the semicircle ADB be described on AB, let the straight line CD be drawn from C at right angles to AB, and let DB be joined; let the circle EFGHK be set out and let its radius be equal to DB, let the equilateral and equiangular pentagon EFGHK be inscribed in the circle EFGHK, let the circumferences EF, FG, GH, HK, KE be bisected at the points L, M, N, O, P, and let LM, MN, NO, OP, PL, EP be joined.
+
+[41446] Therefore the pentagon LMNOP is also equilateral, and the straight line EP belongs to a decagon.
+
+[41544] Now from the points E, F, G, H, K let the straight lines EQ, FR, GS, HT, KU be set up at right angles to the plane of the circle, and let them be equal to the radius of the circle EFGHK, let QR, RS, ST, TU, UQ, QL, LR, RM, MS, SN, NT, TO, OU, UP, PQ be joined.
+
+[41806] Now, since each of the straight lines EQ, KU is at right angles to the same plane, therefore EQ is parallel to KU. [ XI. 6]
+
+[41931] But it is also equal to it; and the straight lines joining those extremities of equal and parallel straight lines which are in the same direction are equal and parallel. [ I. 33]
+
+[42111] Therefore QU is equal and parallel to EK.
+
+[42154] But EK belongs to an equilateral pentagon; therefore QU also belongs to the equilateral pentagon inscribed in the circle EFGHK.
+
+[42283] For the same reason each of the straight lines QR, RS, ST, TU also belongs to the equilateral pentagon inscribed in the circle EFGHK; therefore the pentagon QRSTU is equilateral.
+
+[42463] And, since QE belongs to a hexagon, and EP to a decagon, and the angle QEP is right, therefore QP belongs to a pentagon; for the square on the side of the pentagon is equal to the square on the side of the hexagon and the square on the side of the decagon inscribed in the same circle. [ XIII. 10]
+
+[42762] For the same reason PU is also a side of a pentagon.
+
+[42816] But QU also belongs to a pentagon; therefore the triangle QPU is equilateral.
+
+[42895] For the same reason each of the triangles QLR, RMS, SNT, TOU is also equilateral.
+
+[42978] And, since each of the straight lines QL, QP was proved to belong to a pentagon, and LP also belongs to a pentagon, therefore the triangle QLP is equilateral.
+
+[43138] For the same reason each of the triangles LRM, MSN, NTO, OUP is also equilateral.
+
+[43221] Let the centre of the circle EFGHK the point V, be taken; from V let VZ be set up at right angles to the plane of the circle, let it be produced in the other direction, as VX, let there be cut off VW, the side of a hexagon, and each of the straight lines VX, WZ, being sides of a decagon, and let QZ, QW, UZ, EV, LV, LX, XM be joined.
+
+[43557] Now, since each of the straight lines VW, QE is at right angles to the plane of the circle, therefore VW is parallel to QE. [ XI. 6]
+
+[43691] But they are also equal; therefore EV, QW are also equal and parallel. [ I. 33]
+
+[43772] But EV belongs to a hexagon; therefore QW also belongs to a hexagon.
+
+[43842] And, since QW belongs to a hexagon, and WZ to a decagon, and the angle QWZ is right, therefore QZ belongs to a pentagon. [ XIII. 10]
+
+[43976] For the same reason UZ also belongs to a pentagon, inasmuch as, if we join VK, WU, they will be equal and opposite, and VK, being a radius, belongs to a hexagon; [ IV. 15, Por.] therefore WU also belongs to a hexagon.
+
+[44195] But WZ belongs to a decagon, and the angle UWZ is right; therefore UZ belongs to a pentagon. [ XIII. 10]
+
+[44301] But QU also belongs to a pentagon; therefore the triangle QUZ is equilateral.
+
+[44380] For the same reason each of the remaining triangles of which the straight lines QR, RS, ST, TU are the bases, and the point Z the vertex, is also equilateral.
+
+[44540] Again, since VL belongs to a hexagon, and VX to a decagon, and the angle LVX is right, therefore LX belongs to a pentagon. [ XIII. 10]
+
+[44676] For the same reason, if we join MV, which belongs to a hexagon, MX is also inferred to belong to a pentagon.
+
+[44786] But LM also belongs to a pentagon; therefore the triangle LMX is equilateral.
+
+[44865] Similarly it can be proved that each of the remaining triangles of which MN, NO, OP, PL are the bases, and the point X the vertex, is also equilateral.
+
+[45018] Therefore an icosahedron has been constructed which is contained by twenty equilateral triangles.
+
+[45117] It is next required to comprehend it in the given sphere, and to prove that the side of the icosahedron is the irrational straight line called minor.
+
+[45268] For, since VW belongs to a hexagon, and WZ to a decagon, therefore VZ has been cut in extreme and mean ratio at W, and VW is its greater segment; [ XIII. 9] therefore, as ZV is to VW, so is VW to WZ.
+
+[45469] But VW is equal to VE, and WZ to VX; therefore, as ZV is to VE, so is EV to VX.
+
+[45550] And the angles ZVE, EVX are right; therefore, if we join the straight line EZ, the angle XEZ will be right because of the similarity of the triangles XEZ, VEZ.
+
+[45711] For the same reason, since, as ZV is to VW, so is VW to WZ, and ZV is equal to XW, and VW to WQ, therefore, as XW is to WQ, so is QW to WZ.
+
+[45852] And for this reason again, if we join QX, the angle at Q will be right; [ VI. 8] therefore the semicircle described on XZ will also pass through Q. [ III. 31]
+
+[46012] And if, XZ remaining fixed, the semicircle be carried round and restored to the same position from which it began to be moved, it will also pass through Q and the remaining angular points of the icosahedron, and the icosahedron will have been comprehended in a sphere.
+
+[46282] I say next that it is also comprehended in the given sphere.
+
+[46344] For let VW be bisected at A'.
+
+[46375] Then, since the straight line VZ has been cut in extreme and mean ratio at W, and ZW is its lesser segment, therefore the square on ZW added to the half of the greater segment, that is WA', is five times the square on the half of the greater segment; [ XIII. 3] therefore the square on ZA' is five times the square on.
+
+[46695] And ZX is double of ZA', and VW double of; therefore the square on ZX is five times the square on WV.
+
+[46798] And, since AC is quadruple of CB, therefore AB is five times BC.
+
+[46864] But, as AB is to BC, so is the square on AB to the square on BD; [ VI. 8, V. Def. 9] therefore the square on AB is five times the square on BD.
+
+[47009] But the square on ZX was also proved to be five times the square on VW.
+
+[47082] And DB is equal to VW, for each of them is equal to the radius of the circle EFGHK; therefore AB is also equal to XZ.
+
+[47201] And AB is the diameter of the given sphere; therefore XZ is also equal to the diameter of the given sphere.
+
+[47310] Therefore the icosahedron has been comprehended in the given sphere
+
+[47379] I say next that the side of the icosahedron is the irrational straight line called minor.
+
+[47470] For, since the diameter of the sphere is rational, and the square on it is five times the square on the radius of the circle EFGHK, therefore the radius of the circle EFGHK is also rational; hence its diameter is also rational.
+
+[47699] But, if an equilateral pentagon be inscribed in a circle which has its diameter rational, the side of the pentagon is the irrational straight line called minor. [ XIII. 11]
+
+[47873] And the side of the pentagon EFGHK is the side of the icosahedron.
+
+[47941] Therefore the side of the icosahedron is the irrational straight line called minor.
+
+[48026] Porism. From this it is manifest that the square on the diameter of the sphere is five times the square on the radius of the circle from which the icosahedron has been described, and that the diameter of the sphere is composed of the side of the hexagon and two of the sides of the decagon inscribed in the same circle. Q. E. D.
+
+[48356] To construct a dodecahedron and comprehend it in a sphere, like the aforesaid figures, and to prove that the side of the dodecahedron is the irrational straight line called apotome.
+
+[48539] Let ABCD, CBEF, two planes of the aforesaid cube at right angles to one another, be set out, let the sides AB, BC, CD, DA, EF, EB, FC be bisected at G, H, K, L, M, N, O respectively, let GK, HL, MH, NO be joined, let the straight lines NP, PO, HQ be cut in extreme and mean ratio at the points R, S, T respectively, and let RP, PS, TQ be their greater segments; from the points R, S, T let RU, SV, TW be set up at right angles to the planes of the cube towards the outside of the cube, let them be made equal to RP, PS, TQ, and let UB, BW, WC, CV, VU be joined.
+
+[49102] I say that the pentagon UBWCV is equilateral, and in one plane, and is further equiangular.
+
+[49195] For let RB, SB, VB be joined.
+
+[49226] Then, since the straight line NP has been cut in extreme and mean ratio at R, and RP is the greater segment, therefore the squares on PN, NR are triple of the square on RP. [ XIII. 4]
+
+[49411] But PN is equal to NB, and PR to RU; therefore the squares on BN, NR are triple of the square on RU.
+
+[49513] But the square on BR is equal to the squares on BN, NR; [ I. 47] therefore the square on BR is triple of the square on RU; hence the squares on BR, RU are quadruple of the square on RU.
+
+[49700] But the square on BU is equal to the squares on BR, RU; therefore the square on BU is quadruple of the square on RU; therefore BU is double of RU.
+
+[49848] But VU is also double of UR, inasmuch as SR is also double of PR, that is, of RU; therefore BU is equal to UV.
+
+[49960] Similarly it can be proved that each of the straight lines BW, WC, CV is also equal to each of the straight lines BU, UV.
+
+[50083] Therefore the pentagon BUVCW is equilateral.
+
+[50129] I say next that it is also in one plane.
+
+[50171] For let PX be drawn from P parallel to each of the straight lines RU, SV and towards the outside of the cube, and let XH, HW be joined; I say that XHW is a straight line.
+
+[50343] For, since HQ has been cut in extreme and mean ratio at T, and QT is its greater segment, therefore, as HQ is to QT, so is QT to TH.
+
+[50477] But HQ is equal to HP, and QT to each of the straight lines TW, PX; therefore, as HP is to PX, so is WT to TH.
+
+[50589] And HP is parallel to TW, for each of them is at right angles to the plane BD; [ XI. 6] and TH is parallel to PX, for each of them is at right angles to the plane BF. [ id.]
+
+[50764] But if two triangles, as XPH, HTW, which have two sides proportional to two sides be placed together at one angle so that their corresponding sides are also parallel, the remaining straight lines will be in a straight line; [ VI. 32] therefore XH is in a straight line with HW.
+
+[51043] But every straight line is in one plane; [ XI. 1] therefore the pentagon UBWCV is in one plane.
+
+[51140] I say next that it is also equiangular.
+
+[51181] For, since the straight line NP has been cut in extreme and mean ratio at R, and PR is the greater segment, while PR is equal to PS, therefore NS has also been cut in extreme and mean ratio at P, and NP is the greater segment; [ XIII. 5] therefore the squares on NS, SP are triple of the square on NP. [ XIII. 4]
+
+[51495] But NP is equal to NB, and PS to SV; therefore the squares on NS, SV are triple of the square on NB; hence the squares on VS, SN, NB are quadruple of the square on NB.
+
+[51664] But the square on SB is equal to the squares on SN, NB; therefore the squares on BS, SV, that is, the square on BV —for the angle VSB is right—is quadruple of the square on NB; therefore VB is double of BN.
+
+[51872] But BC is also double of BN; therefore BV is equal to BC.
+
+[51931] And, since the two sides BU, UV are equal to the two sides BW, WC, and the base BV is equal to the base BC, therefore the angle BUV is equal to the angle BWC. [ I. 8]
+
+[52099] Similarly we can prove that the angle UVC is also equal to the angle BWC; therefore the three angles BWC, BUV, UVC are equal to one another.
+
+[52241] But if in an equilateral pentagon three angles are equal to one another, the pentagon will be equiangular, [ XIII. 7] therefore the pentagon BUVCW is equiangular.
+
+[52405] And it was also proved equilateral; therefore the pentagon BUVCW is equilateral and equiangular, and it is on one side BC of the cube.
+
+[52541] Therefore, if we make the same construction in the case of each of the twelve sides of the cube, a solid figure will have been constructed which is contained by twelve equilateral and equiangular pentagons, and which is called a dodecahedron.
+
+[52785] It is then required to comprehend it in the given sphere, and to prove that the side of the dodecahedron is the irrational straight line called apotome.
+
+[52939] For let XP be produced, and let the produced straight line be XZ; therefore PZ meets the diameter of the cube, and they bisect one another, for this has been proved in the last theorem but one of the eleventh book. [ XI. 38]
+
+[53165] Let them cut at Z; therefore Z is the centre of the sphere which comprehends the cube, and ZP is half of the side of the cube.
+
+[53293] Let UZ be joined.
+
+[53312] Now, since the straight line NS has been cut in extreme and mean ratio at P, and NP is its greater segment, therefore the squares on NS, SP are triple of the square on NP. [ XIII. 4]
+
+[53496] But NS is equal to XZ, inasmuch as NP is also equal to PZ, and XP to PS.
+
+[53570] But further PS is also equal to XU, since it is also equal to RP; therefore the squares on ZX, XU are triple of the square on NP.
+
+[53701] But the square on UZ is equal to the squares on ZX, XU; therefore the square on UZ is triple of the square on NP.
+
+[53816] But the square on the radius of the sphere which comprehends the cube is also triple of the square on the half of the side of the cube, for it has previously been shown how to construct a cube and comprehend it in a sphere, and to prove that the square on the diameter of the sphere is triple of the square on the side of the cube. [ XIII. 15]
+
+[54161] But, if whole is so related to whole, so is half to half also; and NP is half of the side of the cube; therefore UZ is equal to the radius of the sphere which comprehends the cube.
+
+[54343] And Z is the centre of the sphere which comprehends the cube; therefore the point U is on the surface of the sphere.
+
+[54461] Similarly we can prove that each of the remaining angles of the dodecahedron is also on the surface of the sphere; therefore the dodecahedron has been comprehended in the given sphere.
+
+[54647] I say next that the side of the dodecahedron is the irrational straight line called apotome.
+
+[54741] For since, when NP has been cut in extreme and mean ratio, RP is the greater segment, and, when PO has been cut in extreme and mean ratio, PS is the greater segment, therefore, when the whole NO is cut in extreme and mean ratio, RS is the greater segment.
+
+[54998] [Thus, since, as NP is to PR, so is PR to RN, the same is true of the doubles also, for parts have the same ratio as their equimultiples; [ V. 15] therefore as NO is to RS, so is RS to the sum of NR, SO.
+
+[55203] But NO is greater than RS; therefore RS is also greater than the sum of NR, SO; therefore NO has been cut in extreme and mean ratio, and RS is its greater segment.]
+
+[55369] But RS is equal to UV; therefore, when NO is cut in extreme and mean ratio, UV is the greater segment.
+
+[55473] And, since the diameter of the sphere is rational, and the square on it is triple of the square on the side of the cube, therefore NO, being a side of the cube, is rational.
+
+[55648] [But if a rational line be cut in extreme and mean ratio, each of the segments is an irrational apotome.]
+
+[55755] Therefore UV, being a side of the dodecahedron, is an irrational apotome. [ XIII. 6]
+
+[55841] Porism. From this it is manifest that, when the side of the cube is cut in extreme and mean ratio, the greater segment is the side of the dodecahedron. Q. E. D.
+
+[56003] To set out the sides of the five figures and to compare them with one another.
+
+[56083] Let AB, the diameter of the given sphere, be set out, and let it be cut at C so that AC is equal to CB, and at D so that AD is double of DB; let the semicircle AEB be described on AB, from C, D let CE, DF be drawn at right angles to AB, and let AF, FB, EB be joined.
+
+[56351] Then, since AD is double of DB, therefore AB is triple of BD.
+
+[56414] Convertendo, therefore, BA is one and a half times AD.
+
+[56470] But, as BA is to AD, so is the square on BA to the square on AF, [ V. Def. 9, VI. 8] for the triangle AFB is equiangular with the triangle AFD; therefore the square on BA is one and a half times the square on AF.
+
+[56684] But the square on the diameter of the sphere is also one and a half times the square on the side of the pyramid. [ XIII. 13]
+
+[56810] And AB is the diameter of the sphere; therefore AF is equal to the side of the pyramid.
+
+[56899] Again, since AD is double of DB, therefore AB is triple of BD.
+
+[56963] But, as AB is to BD, so is the square on AB to the square on BF; [ VI. 8, V. Def. 9] therefore the square on AB is triple of the square on BF.
+
+[57107] But the square on the diameter of the sphere is also triple of the square on the side of the cube. [ XIII. 15]
+
+[57219] And AB is the diameter of the sphere; therefore BF is the side of the cube.
+
+[57296] And, since AC is equal to CB, therefore AB is double of BC.
+
+[57357] But, as AB is to BC, so is the square on AB to the square on BE; therefore the square on AB is double of the square on BE.
+
+[57481] But the square on the diameter of the sphere is also double of the square on the side of the octahedron. [ XIII. 14]
+
+[57599] And AB is the diameter of the given sphere; therefore BE is the side of the octahedron.
+
+[57688] Next, let AG be drawn from the point A at right angles to the straight line AB, let AG be made equal to AB, let GC be joined, and from H let HK be drawn perpendicular to AB.
+
+[57863] Then, since GA is double of AC, for GA is equal to AB, and, as GA is to AC, so is HK to KC, therefore HK is also double of KC.
+
+[57991] Therefore the square on HK is quadruple of the square on KC; therefore the squares on HK, KC, that is, the square on HC, is five times the square on KC.
+
+[58145] But HC is equal to CB; therefore the square on BC is five times the square on CK.
+
+[58228] And, since AB is double of CB, and, in them, AD is double of DB, therefore the remainder BD is double of the remainder DC.
+
+[58352] Therefore BC is triple of CD; therefore the square on BC is nine times the square on CD.
+
+[58442] But the square on BC is five times the square on CK; therefore the square on CK is greater than the square on CD; therefore CK is greater than CD.
+
+[58590] Let CL be made equal to CK, from L let LM be drawn at right angles to AB, and let MB be joined.
+
+[58687] Now, since the square on BC is five times the square on CK, and AB is double of BC, and KL double of CK, therefore the square on AB is five times the square on KL.
+
+[58852] But the square on the diameter of the sphere is also five times the square on the radius of the circle from which the icosahedron has been described. [ XIII. 16, Por.]
+
+[59021] And AB is the diameter of the sphere; therefore KL is the radius of the circle from which the icosahedron has been described; therefore KL is a side of the hexagon in the said circle. [ IV. 15, Por.]
+
+[59222] And, since the diameter of the sphere is made up of the side of the hexagon and two of the sides of the decagon inscribed in the same circle, [ XIII. 16, Por.] and AB is the diameter of the sphere, while KL is a side of the hexagon, and AK is equal to LB, therefore each of the straight lines AK, LB is a side of the decagon inscribed in the circle from which the icosahedron has been described.
+
+[59619] And, since LB belongs to a decagon, and ML to a hexagon, for ML is equal to KL, since it is also equal to HK, being the same distance from the centre, and each of the straight lines HK, KL is double of KC, therefore MB belongs to a pentagon. [ XIII. 10]
+
+[59874] But the side of the pentagon is the side of the icosahedron; [ XIII. 16] therefore MB belongs to the icosahedron.
+
+[59989] Now, since FB is a side of the cube, let it be cut in extreme and mean ratio at N, and let NB be the greater segment; therefore NB is a side of the dodecahedron. [ XIII. 17, Por.]
+
+[60170] And, since the square on the diameter of the sphere was proved to be one and a half times the square on the side AF of the pyramid, double of the square on the side BE of the octahedron and triple of the side FB of the cube, therefore, of parts of which the square on the diameter of the sphere contains six, the square on the side of the pyramid contains four, the square on the side of the octahedron three, and the square on the side of the cube two.
+
+[60625] Therefore the square on the side of the pyramid is fourthirds of the square on the side of the octahedron, and double of the square on the side of the cube; and the square on the side of the octahedron is one and a half times the square on the side of the cube.
+
+[60888] The said sides, therefore, of the three figures, I mean the pyramid, the octahedron and the cube, are to one another in rational ratios.
+
+[61026] But the remaining two, I mean the side of the icosahedron and the side of the dodecahedron, are not in rational ratios either to one another or to the aforesaid sides; for they are irrational, the one being minor [ XIII. 16] and the other an apotome [ XIII. 17].
+
+[61290] That the side MB of the icosahedron is greater than the side NB of the dodecahedron we can prove thus.
+
+[61394] For, since the triangle FDB is equiangular with the triangle FAB, [ VI. 8] proportionally, as DB is to BF, so is BF to BA. [ VI. 4]
+
+[61527] And, since the three straight lines are proportional, as the first is to the third, so is the square on the first to the square on the second; [ V. Def. 9, VI. 20, Por.] therefore, as DB is to BA, so is the square on DB to the square on BF; therefore, inversely, as AB is to BD, so is the square on FB to the square on BD.
+
+[61851] But AB is triple of BD; therefore the square on FB is triple of the square on BD.
+
+[61934] But the square on AD is also quadruple of the square on DB, for AD is double of DB; therefore the square on AD is greater than the square on FB; therefore AD is greater than FB; therefore AL is by far greater than FB.
+
+[62153] And, when AL is cut in extreme and mean ratio, KL is the greater segment, inasmuch as LK belongs to a hexagon, and KA to a decagon; [ XIII. 9] and, when FB is cut in extreme and mean ratio, NB is the greater segment; therefore KL is greater than NB.
+
+[62404] But KL is equal to LM; therefore LM is greater than NB.
+
+[62461] Therefore MB, which is a side of the icosahedron, is by far greater than NB which is a side of the dodecahedron. Q. E. D.
+
+[62584] I say next that no other figure, besides the said five figures, can be constructed which is contained by equilateral and equiangular figures equal to one another.
+
+[62748] For a solid angle cannot be constructed with two triangles, or indeed planes.
+
+[62827] With three triangles the angle of the pyramid is constructed, with four the angle of the octahedron, and with five the angle of the icosahedron; but a solid angle cannot be formed by six equilateral and equiangular triangles placed together at one point, for, the angle of the equilateral triangle being two-thirds of a right angle, the six will be equal to four right angles: which is impossible, for any solid angle is contained by angles less than four right angles. [ XI. 21]
+
+[63308] For the same reason, neither can a solid angle be constructed by more than six plane angles.
+
+[63402] By three squares the angle of the cube is contained, but by four it is impossible for a solid angle to be contained, for they will again be four right angles.
+
+[63562] By three equilateral and equiangular pentagons the angle of the dodecahedron is contained; but by four such it is impossible for any solid angle to be contained, for, the angle of the equilateral pentagon being a right angle and a fifth, the four angles will be greater than four right angles: which is impossible.
+
+[63878] Neither again will a solid angle be contained by other polygonal figures by reason of the same absurdity.
+
+[63985] Therefore etc. Q. E. D.
+
+[64010] Lemma. But that the angle of the equilateral and equiangular pentagon is a right angle and a fifth we must prove thus.
+
+[64130] Let ABCDE be an equilateral and equiangular pentagon, let the circle ABCDE be circumscribed about it, let its centre F be taken, and let FA, FB, FC, FD, FE be joined.
+
+[64298] Therefore they bisect the angles of the pentagon at A, B, C, D, E.
+
+[64366] And, since the angles at F are equal to four right angles and are equal, therefore one of them, as the angle AFB, is one right angle less a fifth; therefore the remaining angles FAB, ABF consist of one right angle and a fifth.
+
+[64594] But the angle FAB is equal to the angle FBC; therefore the whole angle ABC of the pentagon consists of one right angle and a fifth. Q. E. D.

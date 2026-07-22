@@ -1,0 +1,605 @@
+WORK: Historical Library  (slug: diodorus-siculus-historical-library-3031ad)
+
+CHAPTER: 06-book-6
+
+
+
+[0] arg.0. The following is contained in the sixteenth of Diodorus's historical books. How Philip the son of Amyntas succeeded to the kingdom of the Macedonians. How he defeated Argaeus, who was a rival claimant to the kingdom. How, having subdued the Illyrians and Paeonians, he won back his ancestral dominion. Concerning the unmanliness of the younger Dionysius and the flight of Dion. The founding of Tauromenium in Sicily. The events in Euboea and in the Social War. The siege of Amphipolis by Philip and its capture. How Philip enslaved the people of Pydna and developed the gold mines. How Dion, after liberating the Syracusans, made war upon Dionysius. How, after being driven from his native land, he recovered Syracuse again. The ending of the Social War. The combination of three kings against Philip. How Philomelus the Phocian, having seized Delphi and the oracle, kindled the Sacred War. Concerning the original discovery of the oracle. The defeat and death of Philomelus the Phocian. Onomarchus's assumption of the command and his preparations for war. How the Boeotians, coming to the aid of Artabazus, defeated the King's satraps. How the Athenians, having gained control of the Chersonese, allotted it to colonists. How Philip, after taking Methone, razed it. How Philip, having defeated the Phocians, drove them out of Thessaly. How Onomarchus the Phocian, having defeated Philip in two battles, brought him into the utmost peril. How Onomarchus, having defeated the Boeotians, took Coroneia. How Onomarchus, drawing up his forces in Thessaly against Philip and the Thessalians, was defeated. How he himself was hanged, while the others were cast into the sea as temple-robbers. How Phayllus, succeeding to the command, cut up many of the silver and gold offerings. How, by raising the rates of pay, he gathered a multitude of mercenaries. How he restored the fallen fortunes of the Phocians. How, by corrupting with money the cities and their leading men, he won over many allies. How the tyrants of Pherae, surrendering Pherae to Philip, became allies of the Phocians. The battle of the Phocians against the Boeotians near Orchomenus and the defeat of the Phocians. Other battles between the same peoples by the Cephisus and at Coroneia, and the victory of the Boeotians. How Phayllus, marching into Locris, subdued many cities. How Phayllus, falling into a wasting disease, ended his life in suffering. How Phalaecus, succeeding to the command and conducting the war ignobly, was driven out. How those in the Peloponnese fell into civil strife. How Artaxerxes, surnamed Ochus, recovered Egypt and Phoenicia and Cyprus. How Philip, after winning over the Chalcidian cities, razed the most notable city. The inquiry into the sacred treasures that had been expended and the punishment of those who had embezzled them. How those Phocians who took refuge in the temple of Apollo, being five hundred in number, all perished, paradoxically, by fire. How the Phocian War was brought to an end. How all those who had shared in the sacrilege with the Phocians were punished by some divine agency. Timoleon's voyage to Sicily and his exploits down to his death. The siege of Perinthus and Byzantium by Philip. Philip's pitched battle against the Athenians at Chaeronea and the defeat of the Athenians. How the Greeks chose Philip general with full powers. How Philip, when about to cross into Asia, was assassinated.
+
+[3425] 1.1. In all historical works it is fitting that the writers should embrace in their books the self-contained actions of cities or of kings, complete from beginning to end; for in this way above all do we judge history to become easy to remember and clear to those who read it.
+
+[3703] 1.2. For unfinished actions, having no continuous link between their beginnings and their conclusion, cut short the eagerness of those who love reading, whereas those that embrace the continuity of the narrative down to its end present an account of events that is fully rounded out. And when the very nature of the events lends its aid to the writers, then indeed one ought not at all to depart from this purpose.
+
+[4119] 1.3. For this reason we too, now that we have come to the deeds of Philip the son of Amyntas, shall undertake to embrace within this book the actions accomplished by this king. For he reigned over the Macedonians for twenty-four years, and starting from the slenderest resources he built his own kingdom into the greatest of the dominions in Europe, and taking over Macedonia when it was enslaved to the Illyrians, he made it mistress of many great nations and cities.
+
+[4589] 1.4. And through his own valour he took over the leadership of all Greece, the cities submitting to him of their own will; and after defeating those who had plundered the temple at Delphi and giving aid to the oracle, he gained a seat in the council of the Amphictyons, and because of his piety toward the gods he received as his prize the votes of the conquered Phocians.
+
+[4963] 1.5. And after subduing the Illyrians and the Paeonians and the Thracians and the Scythians and all the nations bordering upon these, he set himself to overthrow the kingdom of the Persians; and having transported forces into Asia he was freeing the Greek cities, when, cut short by fate, he left behind forces so great and of such quality that his son Alexander had no need of allies for the overthrow of the Persian empire.
+
+[5390] 1.6. And these things he accomplished not through fortune but through his own valour. For this king was outstanding in shrewdness of generalship, in courage, and in brilliance of spirit. But that we may not anticipate his deeds in the preface, we shall proceed to the continuous course of the history, after briefly going back a little in time.
+
+[5736] 2.1. For in the archonship of Callimedes at Athens the hundred and fifth Olympiad was held, in which Porus of Cyrene won the foot-race, and the Romans appointed as consuls Gnaeus Genucius and Lucius Aemilius. In their time Philip the son of Amyntas, and father of that Alexander who defeated the Persians, succeeded to the kingdom of the Macedonians for the following reasons.
+
+[6114] 2.2. When Amyntas had been defeated by the Illyrians and compelled to pay tribute to his conquerors, the Illyrians took as a hostage Philip, the youngest of his sons, and entrusted him to the Thebans. These in turn entrusted the youth to the father of Epaminondas, and bade him both keep careful watch over the pledge and have charge of his upbringing and education.
+
+[6482] 2.3. And since Epaminondas had as his tutor a Pythagorean philosopher, Philip, being brought up along with him, came to share in no small measure in the Pythagorean teachings. And as both pupils brought to their studies natural gifts and love of toil, each proved outstanding in excellence; of whom Epaminondas, having endured great struggles and dangers, beyond all expectation invested his native land with the leadership of Greece, while Philip, using the same beginnings, fell short in no way of the renown of Epaminondas.
+
+[7010] 2.4. For after the death of Amyntas, Alexander, the eldest of his sons, succeeded to the throne. Him Ptolemy of Alorus murdered by treachery and took over the kingdom, and him in turn Perdiccas slew and reigned. But when Perdiccas had been defeated in a great pitched battle by the Illyrians and had fallen in the action, Philip his brother, having escaped from his life as a hostage, took over the kingdom when it was in a wretched state.
+
+[7451] 2.5. For more than four thousand of the Macedonians had been slain in the battle, and the rest, terrified at the forces of the Illyrians, had become utterly fearful and were dispirited at the prospect of continuing the war.
+
+[7676] 2.6. And about the same time the Paeonians, who dwelt near Macedonia, were ravaging the country in contempt of the Macedonians; the Illyrians were gathering great forces and preparing to march into Macedonia; and a certain Pausanias, who had a share in the royal kinship, was attempting, with the help of the king of the Thracians, to come down upon the Macedonian throne. Likewise the Athenians too, being hostile to Philip, were trying to restore Argaeus to the kingdom, and had sent out as general Mantias with three thousand hoplites and a considerable naval force.
+
+[8247] 3.1. The Macedonians, because of the disaster in the battle and the magnitude of the dangers bearing down upon them, had fallen into the greatest perplexity. Nevertheless, with such fears and dangers threatening, Philip was not dismayed by the magnitude of the perils expected, but holding the Macedonians together in continual assemblies and urging them on to courage by the power of his eloquence, he made them confident; and improving the military formations and equipping the men properly with their weapons of war, he held continual reviews under arms and competitive exercises.
+
+[8832] 3.2. He devised too the close order and equipment of the phalanx, imitating the shield-to-shield array of the heroes at Troy, and was the first to organize the Macedonian phalanx.
+
+[9013] 3.3. In his dealings with men he was affable, and through gifts and promises he led the people on to the greatest goodwill, and he contrived shrewdly to counter the multitude of dangers bearing down upon him. For observing that the Athenians were bringing to bear all their ambition upon recovering Amphipolis, and were on that account trying to restore Argaeus to the throne, he withdrew from the city of his own accord, leaving it independent.
+
+[9460] 3.4. And sending envoys to the Paeonians, and corrupting some of them with gifts and persuading others with kindly promises, he made an agreement to keep peace with them for the present. Likewise he diverted Pausanias too from his return, persuading with gifts the king who was about to restore him.
+
+[9761] 3.5. Mantias, the general of the Athenians, having sailed to Methone, himself remained there, but sent Argaeus with the mercenaries against Aegae. He, approaching the city, urged those in Aegae to accept his return and become the leaders of his kingship.
+
+[10017] 3.6. But when no one heeded him, he turned back toward Methone; whereupon Philip, appearing with his soldiers and joining battle, slew many of the mercenaries, and the rest, who had fled for refuge to a certain hill, he let go under a truce, having received from them the surrender of the exiles. Philip, then, having won this his first battle, made the Macedonians more confident for the struggles that lay ahead.
+
+[10433] 3.7. While these things were going on, the Thasians colonized the place called Crenides, which later the king, naming it after himself Philippi, filled with settlers.
+
+[10601] 3.8. Among the historians, Theopompus of Chios, making this the starting-point of his history concerning Philip, wrote fifty-eight books, of which five are missing.
+
+[10767] 4.1. In the archonship of Eucharistus at Athens, the Romans appointed as consuls Quintus Servilius and Quintus Genucius. In their time Philip, having sent envoys to Athens, persuaded the people to make peace with him, since he no longer laid claim to Amphipolis.
+
+[11031] 4.2. And having been freed from the war with the Athenians, and learning that Agis the king of the Paeonians had died, he supposed that he had an opportunity to attack the Paeonians. Marching therefore into Paeonia and defeating the barbarians in a pitched battle, he compelled the nation to obey the Macedonians.
+
+[11346] 4.3. And since the Illyrians remained as enemies, he was eager to subdue these also. Straightway, then, gathering an assembly and exhorting the soldiers with fitting words to the war, he marched into the country of the Illyrians, having no fewer than ten thousand foot and six hundred horse.
+
+[11639] 4.4. Bardylis, the king of the Illyrians, learning of the enemy's approach, at first sent envoys about a settlement, on the terms that both parties should be masters of the cities they then controlled; but when Philip declared that he desired peace, but would not however grant it unless the Illyrians withdrew from all the Macedonian cities, the envoys returned without success, and Bardylis, trusting in his previous victories and in the valour of the Illyrians, advanced against the enemy with his force; he had ten thousand picked foot and about five hundred horse.
+
+[12210] 4.5. When the armies drew near to one another and clashed in battle with a great shout, Philip, holding the right wing with the best of the Macedonians fighting at his side, ordered the cavalry to ride round and attack the barbarians on the flank, while he himself, falling upon the enemy front to front, joined in a fierce battle.
+
+[12543] 4.6. The Illyrians, forming themselves into a square, stoutly maintained the struggle. And at first for a long time the battle was evenly balanced, owing to the surpassing valour on both sides, and as many were slain and still more wounded, the fortune of the conflict inclined now this way, now that, ever swaying with the prowess of the combatants; but afterward, as the cavalry pressed hard from the flank and the rear, and Philip with the bravest fought heroically, the mass of the Illyrians was forced to take to flight.
+
+[13070] 4.7. The pursuit having extended over a great distance and many having been slain in the flight, Philip, recalling the Macedonians with the trumpet and setting up a trophy, buried his own dead; while the Illyrians, sending envoys and withdrawing from all the Macedonian cities, obtained peace. There were slain of the Illyrians in this battle more than seven thousand.
+
+[13440] 5.1. Now that we have gone through the affairs of Macedonia and Illyria, we shall pass over to events of another kind. For in Sicily Dionysius the younger, tyrant of the Syracusans, having succeeded to the dominion in earlier times, but being inactive and far inferior to his father, pretended, because of his inactivity, to be peaceable and gentle in his character.
+
+[13808] 5.2. For this reason, having taken over the war against the Carthaginians, he made peace with them; and likewise, having warred sluggishly for some time against the Lucanians, and having gained the advantage in the last battles, he gladly ended the war with them.
+
+[14073] 5.3. In Apulia he founded two cities, wishing to make the Ionian passage safe for those who sailed it; for the barbarians who dwelt along the coast, sailing in many pirate vessels, made the whole sea about the Adriatic unnavigable for the merchants.
+
+[14324] 5.4. After this, giving himself over to a peaceful life, he relaxed the military exercises of his soldiers, and having inherited the greatest of the dominions in Europe, and the tyranny which his father had said was bound fast with adamant, he lost it, contrary to all expectation, through his own unmanliness. The causes of this overthrow and the actions in detail we shall try to record.
+
+[14715] 6.1. For in the archonship of Cephisodotus at Athens, the Romans appointed as consuls Gaius Licinius and Gaius Sulpicius. In their time Dion the son of Hipparinus, a most distinguished Syracusan, fled from Sicily, and through the brilliance of his spirit set free the Syracusans and the other Sicilian Greeks for the following reasons.
+
+[15052] 6.2. The elder Dionysius had begotten children by two wives, by the first, who was Locrian by birth, Dionysius who succeeded to the tyranny, and by the second, who was the daughter of Hipparinus, a most highly esteemed Syracusan, two sons, Hipparinus and Nysaeus.
+
+[15317] 6.3. Now Dion happened to be the brother of the second wife, a man who had made great progress in philosophy and who in courage and generalship far surpassed the Syracusans of his time.
+
+[15504] 6.4. This man, because of his noble birth and the brilliance of his spirit, fell under the suspicion of the tyrant, being thought capable of overthrowing the tyranny. Fearing him, therefore, Dionysius resolved to put the man out of the way, arresting him with intent to kill. But Dion, perceiving this, at first hid himself with certain of his friends, and afterward fled from Sicily to the Peloponnese, taking with him his brother Megacles and Heracleides, who had been set over the soldiers by the tyrant.
+
+[16013] 6.5. Sailing to Corinth, he asked the Corinthians to take part with him in the liberation of the Syracusans, while he himself gathered mercenaries and collected suits of armour. Many quickly answering his call, he prepared suits of armour and numerous mercenaries; and hiring two merchant ships, and loading them with the arms and the mercenaries, he himself set sail with these freighters from Zacynthus, which lies off Cephallenia, to Sicily, leaving Heracleides to bring afterward to Syracuse certain triremes and other merchant vessels.
+
+[16555] 7.1. While these things were going on, Andromachus of Tauromenium, the father of Timaeus who wrote the histories, a man distinguished for wealth and brilliance of spirit, gathered together the survivors of Naxos, which had been razed by Dionysius. Settling the hill above Naxos, called Taurus, and remaining there for a long time, he named it Tauromenium from his stay upon the Taurus. And as the city quickly grew, the settlers acquired great wealth, and the city, having gained considerable repute, at last in our own time, when Caesar removed the Tauromenitae from their native city, received a colony of the Romans.
+
+[17176] 7.2. While these things were going on, the inhabitants of Euboea fell into strife with one another, and as some called in the Boeotians and others the Athenians, a war arose in Euboea. And after many engagements and skirmishes had occurred, at times the Thebans had the advantage, at other times the Athenians carried off the victory. No great pitched battle, however, was fought; but when the island had been laid waste by the internal war and many men on both sides had perished, scarcely chastened by their misfortunes did they come to concord and make peace with one another. The Boeotians, then, making their way back home, kept the peace.
+
+[17822] 7.3. But the Athenians, when the Chians and Rhodians and Coans, and also the Byzantines, revolted, fell into the war called the Social War, which lasted three years. Choosing as generals Chares and Chabrias, they sent them out with a force. These, sailing against Chios, found that allies had come to the Chians from the Byzantines and Rhodians and Coans, and also from Mausolus the ruler of Caria. Drawing up their force, they besieged the city both by land and by sea. Now Chares, leading the land army, advanced by land against the walls and contended against those who poured out of the city against him; while Chabrias, sailing up to the harbour, joined a fierce sea-battle, and when his ship was shattered by the rams, he was hard pressed.
+
+[18569] 7.4. The men on the other ships, then, yielding to the moment, saved themselves; but he, exchanging defeat for a glorious death, fighting for his ship and being wounded, died.
+
+[18746] 8.1. About the same time Philip the king of the Macedonians, having defeated the Illyrians in a great pitched battle, and having made subject all who dwelt as far as the lake called Lychnitis, returned to Macedonia, having concluded a glorious peace with the Illyrians, and being celebrated among the Macedonians for the successes achieved through his courage.
+
+[19108] 8.2. After this, when the inhabitants of Amphipolis became hostile toward him and gave many pretexts for war, he marched against them with a considerable force. Bringing engines up against the walls and making vigorous and continuous assaults, he threw down with the rams a portion of the wall, and entering the city through the breach and striking down many of those who resisted, he gained mastery of the city; and those who were hostile toward him he banished, but toward the rest he behaved humanely.
+
+[19614] 8.3. This city, lying favourably with regard to Thrace and the neighbouring regions, contributed much to Philip's increase in power. For straightway he subdued Pydna, and made an alliance with the Olynthians, and agreed to procure Potidaea for them, a city which the Olynthians were very eager to acquire.
+
+[19921] 8.4. And since the Olynthians inhabited a powerful city, and through the number of its inhabitants had great weight in war, the city was much fought over by those who aimed at greater leadership. For this reason both the Athenians and Philip vied with one another for the alliance of the Olynthians.
+
+[20222] 8.5. Nevertheless Philip, having taken Potidaea by siege, led out the Athenian garrison from the city, and treating it humanely, sent it away to Athens; for he was very wary of the Athenian people because of the weight and dignity of their city. But the city, having enslaved its inhabitants, he handed over to the Olynthians, presenting them at the same time with the possessions in the territory.
+
+[20622] 8.6. After this, coming to the city of Crenides, he enlarged it with a multitude of settlers and renamed it Philippi, calling it after himself, and the gold mines in its territory, which were quite scanty and undistinguished in their workings, he so increased that they could bring him a revenue of more than a thousand talents.
+
+[20952] 8.7. From these, quickly heaping up wealth, he raised the Macedonian kingdom ever higher into great pre-eminence through the abundance of his money; for striking a gold coin, called after him the Philippeion, he organized a considerable force of mercenaries, and through it induced many of the Greeks to become traitors to their native lands. But concerning these things the detailed events will make each clear; we shall now turn our account to the continuous narrative.
+
+[21425] 9.1. For in the archonship of Agathocles at Athens, the Romans appointed as consuls Marcus Fabius and Gaius Poplilius. In their time Dion the son of Hipparinus sailed to Sicily to overthrow the tyranny of Dionysius, and using the slenderest resources of all who had gone before him, he overthrew, beyond all hope, the greatest dominion in Europe.
+
+[21773] 9.2. For who would believe that, sailing in with two merchant ships, he should prevail over a ruler who possessed four hundred warships, foot soldiers to the number of a hundred thousand and ten thousand horse, and so great a supply of arms and grain and money as it is reasonable to suppose one would possess who was about to furnish lavishly the forces aforesaid; and who, apart from what has been mentioned, held the greatest of the Greek cities, with harbours and dockyards and fortified citadels that could not be taken, and who besides had a multitude of powerful allies?
+
+[22352] 9.3. The cause of Dion's successes was, most of all, his own brilliance of spirit and courage, and the goodwill of those who were about to be freed; but greater than all these was the unmanliness of the tyrant and the hatred of the subjects toward him. For all these things, coming together at one time, brought to fulfilment, beyond expectation, deeds that defied belief.
+
+[22726] 9.4. But we, leaving these reflections aside, shall turn to the record of what was done in detail. For Dion, having put out from Zacynthus, which lies off Cephallenia, with two merchant ships, sailed to the place called Minoa in the territory of Acragas. This had in old times been founded by Minos the king of the Cretans, at the time when, seeking Daedalus, he was entertained by Cocalus the king of the Sicanians; in the period under consideration this city was subject to the Carthaginians, and its commander, a man named Paralus, being a friend of Dion, eagerly received him.
+
+[23308] 9.5. Dion, taking out of the freighters five thousand suits of armour, handed them over to Paralus and asked him to convey them by waggons to Syracuse; while he himself, taking the mercenaries, a thousand in number, advanced toward Syracuse. On the way, persuading the people of Acragas and Gela and certain of the Sicanians and Sicels who dwelt in the interior, and also the Camarinaeans, to help in liberating the Syracusans, he advanced to the overthrow of the tyrant.
+
+[23781] 9.6. And as many flocked together from all sides with their arms, soon more than twenty thousand soldiers were gathered. Moreover, many of the Greeks from Italy and the Messenians were sent for, and all came with great eagerness and haste.
+
+[24022] 10.1. When Dion was on the borders of Syracuse, a multitude of unarmed men came out to meet him both from the country and from the city; for Dionysius, distrusting the Syracusans, had taken away the arms of many.
+
+[24236] 10.2. At this time the tyrant was tarrying among the newly founded cities along the Adriatic with large forces, while the commanders left behind to guard Syracuse at first tried to recall the Syracusans from their revolt; but as the impulse of the multitude was uncontrollable, they gave up, and gathered the mercenaries and those who favoured the ruler, and filling up the ranks, resolved to attack the rebels.
+
+[24649] 10.3. Dion distributed the five thousand suits of armour to the unarmed Syracusans, and the rest he equipped, as well as he could, with whatever weapons were at hand. Gathering them all into a common assembly, he declared that he had come for the liberation of the Sicilian Greeks, and urged them to choose generals suited to the restoration of independence and the overthrow of the whole tyranny. And the multitude, as if with one voice, shouted that they chose as generals with full powers Dion and his brother Megacles.
+
+[25173] 10.4. Straightway, then, from the assembly, drawing up his force, he advanced upon the city. And as no one in the open country opposed him, he entered within the wall without fear, and passing through Achradina to the market-place, he encamped there, no one daring to come out against him.
+
+[25464] 10.5. The whole number of soldiers with Dion was no fewer than fifty thousand. All these, wearing garlands, came down into the city, with Dion and Megacles leading the way, and with them thirty Syracusans, who alone of the exiles in the Peloponnese had been willing to share the dangers with the Syracusans.
+
+[25773] 11.1. As the whole city changed its garb from slavery to freedom, and as fortune turned the gloom of the tyranny into festal gladness, every house was full of sacrifices and joy, the private citizens burning incense at their own hearths, and giving thanks to the gods for the present blessings, and making good prayers for the future. There arose too among the women, at the unhoped-for good fortune, much shouting of joy, and gatherings throughout the whole city.
+
+[26239] 11.2. There was no one, free man, slave, or stranger, who was not eager to see Dion, and all welcomed the excellence of the man more than mortal. And this they felt with reason, because of the greatness and unexpectedness of the change; for having experienced fifty years of slavery, and having through length of time forgotten what freedom was, they were released from their calamity through the excellence of a single man.
+
+[26665] 11.3. Dionysius at this time happened to be tarrying about Caulonia in Italy, and he sent for Philistus the general, who was about the Adriatic, with the naval force, and ordered him to sail to Syracuse. As both were hastening to come to the same place, Dionysius arrived at Syracuse seven days after Dion's return.
+
+[26982] 11.4. Straightway, then, wishing to outgeneral the Syracusans, he sent envoys about a settlement and gave many indications that he would hand over the tyranny to the people and exchange it for considerable honours under the democracy; and he asked that envoys be sent to him, in council with whom he might bring the war to an end.
+
+[27314] 11.5. The Syracusans, then, lifted up with hopes, sent out as envoys the most distinguished of their men; but Dionysius, setting a guard about these, postponed the conference, and seeing for himself that the Syracusans, because of the hope of peace, were careless about their guard-duties and unprepared for battle, suddenly opening the gates of the citadel on the Island, he poured out with his force in close order.
+
+[27733] 12.1. The Syracusans had constructed a cross-wall of their own from sea to sea; the mercenaries fell upon this wall with much shouting and terror, and slew many of the guards, and getting within the wall, fought against those who came to the rescue.
+
+[27984] 12.2. But Dion, unexpectedly betrayed in violation of the truce, met the enemy with the bravest of his soldiers, and joining battle, wrought great slaughter. For the fighting being, as it were, in a confined space, namely the narrow interval of the cross-wall, a multitude of soldiers crowded together into a narrow place.
+
+[28308] 12.3. Wherefore, on both sides, those who excelled in valour came down into the danger; and as Dionysius's mercenaries, on account of the greatness of his promises, and the Syracusans, on account of the hope of freedom, were carried into surpassing ardour, at first the battle was evenly balanced, the valour on both sides being matched, and many fell, and not a few were wounded, all receiving their wounds in front; for the front-rank men endured death for the sake of the rest with good courage, while those drawn up behind, shielding the fallen and holding firm amid the terrors, took upon themselves the utmost dangers for the sake of victory.
+
+[28958] 12.4. After this Dion, wishing to be foremost in valour in the battle, and eager to win the victory by himself, forced his way into the midst of the enemy; and fighting heroically he slew many, and cutting through the whole array of the mercenaries, he was cut off, alone amid the multitude; and as many missiles were hurled at him, into his shield and helmet, these he escaped through the strength of his armour, but being wounded in the right arm, he was borne down by the weight of the blow, and came within a little of falling into the hands of the enemy.
+
+[29519] 12.5. But the Syracusans, fearing for the safety of their general, dashed against the mercenaries in a heavy mass, and snatched Dion, hard pressed, out of danger, and forcing the enemy, compelled them to flee. Likewise also in the other part of the wall, as the Syracusans had the advantage, the tyrant's mercenaries were driven back within the gates on the Island. The Syracusans, having won a brilliant battle and securely gained their freedom, set up a trophy over the tyrant.
+
+[30000] 13.1. After this Dionysius, having failed and now despairing of his power, left considerable garrisons in the citadels, and himself, taking up the dead, who were eight hundred in number, buried them splendidly, crowning them with golden crowns and clothing them in fine purple robes; for he hoped, through the show of zeal for these, to incite the others to risk themselves eagerly for the tyranny; and those who had distinguished themselves he honoured with great gifts. And he sent envoys to the Syracusans about a settlement.
+
+[30530] 13.2. But Dion, concerning the embassies, ever furnishing plausible pretexts, kept postponing them, and meanwhile, having finished the remainder of the wall at his leisure, he then sent for the embassies, having outgeneralled the enemy by the hopes of peace. When the discussions about a settlement took place, Dion replied to the envoys that there was one settlement only: if Dionysius would lay aside the tyranny and seek to obtain some honours. But Dionysius, the answer being haughty, gathered the commanders and took counsel how he ought to defend himself against the Syracusans.
+
+[31116] 13.3. Being well supplied with everything except grain, and being master of the sea, he plundered the country, and ill providing his sustenance from foraging, he sent out freight ships and money for the purchase of grain. But the Syracusans, having many warships and appearing at the opportune places, deprived him of much of the market goods conveyed by the merchants. And the affairs about Syracuse were in this state.
+
+[31538] 14.1. In Greece Alexander the tyrant of Pherae was treacherously slain by his own wife Thebe and her brothers Lycophron and Tisiphonus. These at first, as tyrannicides, gained great approval, but later, changing their minds and bribing the mercenaries with money, declared themselves tyrants, and slew many of their opponents, and having organized a considerable force, held the rule by force.
+
+[31933] 14.2. The men called Aleuadae among the Thessalians, who through their noble birth had a celebrated dignity, acted against the tyrants. But not being a match for them by themselves, they took as an ally Philip the king of the Macedonians. He, coming into Thessaly, subdued the tyrants, and restoring their freedom to the cities, showed great goodwill toward the Thessalians; wherefore in his subsequent undertakings he always had them as comrades-in-arms, not only he himself, but later also his son Alexander.
+
+[32445] 14.3. Among the historians, Demophilus the son of Ephorus the historian, having composed an account of the war passed over by his father, named the Sacred War, began here, from the seizure of the temple at Delphi and the plundering of the oracle by Philomelus the Phocian; and this war lasted eleven years, until the destruction of those who had divided among themselves the sacred treasures.
+
+[32839] 14.4. Callisthenes wrote the history of Greek affairs in ten books and brought it to a close at the seizure of the temple and the lawlessness of Philomelus the Phocian.
+
+[33009] 14.5. Diyllus the Athenian began his history at the temple-robbery and wrote twenty-six books, embracing all the events that occurred in these times in Greece and Sicily.
+
+[33181] 15.1. In the archonship of Elpinus at Athens, the Romans appointed as consuls Marcus Poplilius Laenas and Gnaeus Manlius Imperiosus, and the hundred and sixth Olympiad was held, in which Porus of Malis won the foot-race. In their time, in Italy, there was gathered about Lucania a multitude of men, a mixed crowd from all sides, but mostly runaway slaves. These at first took up a robber's life, and through their habituation to life in the fields and to raids, they acquired practice and training in the works of war; for which reason, having the advantage over the natives in their warlike struggles, they advanced to a considerable increase in power.
+
+[33836] 15.2. And first, having taken by siege the city of Terina, they plundered it, then having subdued Hipponium and Thurii and many others, they organized a common polity and were called Bruttii, because most of them were slaves; for in the dialect of the natives runaways were called bruttii. The nation of the Bruttii, then, was thus established in Italy.
+
+[34191] 16.1. In Sicily Philistus, the general of Dionysius, having sailed to Rhegium, conveyed the cavalry to Syracuse, being more than five hundred in number. Adding to these other cavalry and two thousand foot, he marched against the Leontines, who had revolted from Dionysius, and breaking in by night within the wall, he seized a part of the city. But when a fierce battle took place and the Syracusans came to the rescue, he was defeated and driven out of Leontini.
+
+[34656] 16.2. Heracleides, who had been left by Dion as admiral of the warships in the Peloponnese, being hindered by certain storms, came too late for Dion's return and the liberation of the Syracusans; he came bringing twenty warships and fifteen hundred soldiers. Being a most distinguished man and one deemed worthy, he was chosen admiral by the Syracusans, and being stationed along with Dion in the command, he carried on the war against Dionysius.
+
+[35104] 16.3. After this Philistus, having been appointed general and having equipped sixty triremes, fought a sea-battle against the Syracusans, who had ships about equal in number. A fierce struggle taking place, and Philistus at first, through his own valour, having the advantage, but later being cut off by the enemy, the Syracusans, surrounding the ships on all sides, were eager to take the general alive; but Philistus, wary of the abuse that would follow capture, slew himself, having rendered very many and very great services to the tyrants, and having been the most faithful of friends to the rulers.
+
+[35710] 16.4. The Syracusans, having won the sea-battle, dismembered the body of Philistus and dragging it through the whole city, cast it out unburied; while Dionysius, having lost the most effective of his friends, and having no other worthy general, and being himself unable to bear the weight of the war, sent envoys to Dion, at first surrendering half of his rule, and later wishing to hand over the whole.
+
+[36115] 17.1. When Dion replied that it was just to hand over the citadel to the Syracusans on the terms of certain choice sums of money and honours, Dionysius was ready to hand over the citadel to the people, so that, taking the mercenaries and the money, he might withdraw to Italy; and Dion advised the Syracusans to accept what was offered. But the people, persuaded by ill-timed demagogues, refused, thinking they would take the tyrant by storm.
+
+[36559] 17.2. After this Dionysius left the best of his mercenaries to guard the citadel, and himself, loading on the money and all the royal equipment, sailed out unobserved and put in to Italy.
+
+[36748] 17.3. The Syracusans fell into strife with one another, some thinking it right to entrust the generalship and the supreme authority over all to Heracleides, because he seemed never likely to aim at tyranny, and others declaring that Dion ought to have the leadership of all. Besides this, much pay being owed to the strangers from the Peloponnese who had freed Syracuse, and the city being short of money, the mercenaries, being deprived of their pay, banded together, being more than three thousand in number, all of them picked men in valour, and trained through the exercise of warlike works, far surpassing the Syracusans in valour.
+
+[37386] 17.4. Dion, being asked by the mercenaries to join in their revolt and to take vengeance on the Syracusans as common enemies, at first refused, but afterward, being forced by circumstances, accepted the command of the strangers, and being stationed with them, marched off against Leontini.
+
+[37677] 17.5. But the Syracusans, banding together, pursued the mercenaries, and joining battle on the march and losing many, withdrew. Dion, having won a brilliant battle, bore no grudge against the Syracusans; for when they sent a herald to him about the taking up of the dead, he both granted the taking up of the dead and released the prisoners, who were many, without ransom. For many, in the flight, being about to be slain, declared that they were of those who favoured Dion, and all, on this account, escaped death.
+
+[38194] 18.1. After this Dionysius sent as general to Syracuse Nypsius the Neapolitan, a man outstanding in courage and military intelligence; and he sent out with him also freight ships laden with grain and other provisions. He, then, putting out from Locri, accomplished the voyage to Syracuse.
+
+[38484] 18.2. The tyrant's mercenaries in the citadel, the grain having at this time failed, and being grievously pressed by the scarcity of necessities, for a while bravely endured their want; but as nature was overcome by necessity, and their safety was despaired of, gathering by night into an assembly, they voted to surrender the citadel and themselves to the Syracusans at daybreak.
+
+[38866] 18.3. As the night was now ending, the mercenaries sent heralds to the Syracusans about the settlement; but Nypsius, the day now breaking, sailed in with the fleet and anchored about Arethusa. Wherefore, the scarcity having immediately turned into great abundance of provisions, the general Nypsius landed the soldiers, and gathering a common assembly and speaking fittingly to the present circumstances, made them eager for the dangers to come. The citadel, then, already being surrendered to the Syracusans in the manner described, was, beyond expectation, preserved.
+
+[39437] 18.4. The Syracusans, manning all their triremes, sailed against the enemy while they were still occupied with the unloading of the provisions. The attack being unexpected, and the mercenaries in the citadel having ranged themselves in confusion against the enemy triremes, a sea-battle took place, in which the Syracusans had the advantage, and they sank some of the ships, gained control of others, and pursued the rest to land.
+
+[39869] 18.5. Lifted up by the success, they sacrificed magnificently to the gods victory-offerings, but themselves, turning to feasting and drinking, and despising the defeated, were careless about their guard-duties.
+
+[40081] 19.1. Nypsius, the general of the mercenaries, wishing to retrieve and recover from the defeat, by night, with his force drawn up, unexpectedly fell upon the constructed wall. Finding the guards, through their contempt and drunkenness, turned to sleep, he set against it the ladders prepared for the purpose.
+
+[40391] 19.2. By these the strongest of the mercenaries climbed up onto the wall, and slaying the guards, opened the gates. As the soldiers burst into the city, the generals of the Syracusans, sobering from their drunkenness, tried to come to the rescue, but, their impulses hindered by the wine, some were slain and some fled. The city being taken, and almost all the soldiers from the citadel having burst within the circuit-wall, and the Syracusans being dismayed by the surprise and the disorder, there was great slaughter.
+
+[40912] 19.3. As the tyrant's soldiers were more than ten thousand and well arranged, no one was able to withstand their weight, since the uproar and confusion, and moreover the want of leadership, hampered the weaker side.
+
+[41129] 19.4. The market-place being mastered by the enemy, straightway the victors rushed upon the houses; and much property was carried off, and not a few persons, women and children and also household slaves, were enslaved. Along the lanes and the other streets, the Syracusans resisting, there were continual clashes, and many died, and not a few fell into wounds. Through the night, then, they spent the time slaying one another at random because of the darkness, and every place was full of corpses.
+
+[41628] 20.1. At daybreak the magnitude of the calamity was beheld, and the Syracusans, having one means of safety, the help that came from Dion, sent horsemen to Leontini, begging Dion not to look on while his native city was taken by the spear, and to grant them forgiveness for their errors, and, taking pity on the present misfortunes, to set right the calamity of his native land.
+
+[42007] 20.2. Dion, being brilliant in spirit and, through his education in philosophy, gentle in his reasonings, bore no grudge against his fellow-citizens, but persuading the mercenaries, straightway set out, and accomplishing swiftly the road to Syracuse, came to the Hexapyla.
+
+[42281] 20.3. There, arraying his soldiers, he advanced with speed, and overtook from the city children and women and the aged, more than ten thousand; all these, meeting him with tears, begged him to ward off their private calamities. The mercenaries from the citadel, having now accomplished their purpose, having plundered the houses about the market-place, set them on fire, and rushing upon the rest, plundered the possessions in them.
+
+[42715] 20.4. At which moment Dion, bursting into the city at many points, and attacking the enemy while they were busied with their plundering, slew all whom he met, as they were carrying on their shoulders all manner of furnishings; and through the surprise of his coming, and the disorder and confusion of those carrying off the possessions, all were easily overcome. At last, more than four thousand having been slain, some in the houses, some in the streets, the rest fled together into the citadel, and closing the gates, escaped the danger.
+
+[43256] 20.5. Dion, having accomplished the fairest of all the deeds he had done before, saved the burning houses by quenching the flame, and having well constructed the circuit-wall, by a single action both fortified the city and, walling off the enemy, shut them off from going out into the country. And having cleansed the city of corpses and set up a trophy, he sacrificed to the gods for his deliverance.
+
+[43659] 20.6. When an assembly was gathered, the people, in gratitude to him, elected Dion general with full powers and awarded him heroic honours; and Dion, in accordance with what he had done, fairly released all his enemies from the charges against them, and consoling the multitude, brought them to common concord. And the Syracusans, with public praises and great approval, honoured their benefactor as having alone become the saviour of his native land. And the affairs in Sicily were in this state.
+
+[44158] 21.1. In Greece, as the Chians and Rhodians and Coans, and also the Byzantines, were carrying on the Social War against the Athenians, both sides made great preparations, wishing to decide the war by a sea-battle. The Athenians had previously, in the earlier period, sent out Chares with sixty ships, and now, manning sixty others and putting in charge the most distinguished of their citizens, Iphicrates and Timotheus, they sent them out jointly with Chares to make war upon those of the allies who had revolted.
+
+[44674] 21.2. The Chians and Rhodians and Byzantines, with their allies, manning a hundred ships, ravaged Imbros and Lemnos, which belonged to the Athenians, and marching against Samos with a great force, laid waste the country and besieged the city by land and sea; and damaging many other islands that were subject to the Athenians, they gathered money for the needs of the war.
+
+[45048] 21.3. The Athenian generals, all gathered together, at first set out to besiege the city of the Byzantines, but after this, when the Chians and their allies broke off the siege of Samos and turned to the help of the Byzantines, all the fleets were gathered about the Hellespont. As the sea-battle was about to take place, a great wind, falling upon them, prevented their purpose.
+
+[45429] 21.4. When Chares wished to fight against nature, and Iphicrates and Timotheus opposed because of the magnitude of the storm, Chares, calling the soldiers to witness, accused his colleagues as traitors, and wrote to the people about them, as having voluntarily abandoned the sea-battle. The Athenians, provoked, and bringing Iphicrates and Timotheus to trial, fined them many talents and removed them from the generalship.
+
+[45853] 22.1. Chares, taking over the command of the whole fleet, and being eager to free the Athenians from expense, undertook a hazardous enterprise. For when Artabazus had revolted from the King and was about, with few soldiers, to contend against the satraps, who had seventy thousand soldiers, Chares allied himself with him with his whole force and defeated the King's force; whereupon Artabazus, repaying the kindness, gave a quantity of money, from which it was possible to provide pay for the whole force.
+
+[46361] 22.2. The Athenians at first approved the action of Chares, but later, when the King sent envoys and accused Chares, they held the opposite opinion; for a report was spread abroad that the King had promised to the enemies of the Athenians to help conquer the Athenians with three hundred ships. The people, wary of this, resolved to end the war against those who had revolted; and finding that they too desired peace, easily came to terms with them. The war called the Social War, then, had such an end, having lasted four years.
+
+[46892] 22.3. In Macedonia three kings combined against Philip, those of the Thracians and Paeonians and Illyrians. For these, being neighbours of the Macedonians and viewing with suspicion the increase of Philip's power, were by themselves no match for him, having been defeated before, but warring jointly they supposed they would easily overcome him. While they were gathering their forces, Philip, appearing while they were still unarranged and striking them with terror, compelled them to join the Macedonians.
+
+[47401] 23.1. In the archonship of Callistratus at Athens, the Romans appointed as consuls Marcus Fabius and Gaius Plotius. In their time the war called Sacred arose and lasted nine years. For Philomelus the Phocian, a man outstanding in audacity and lawlessness, seized the temple at Delphi and kindled the Sacred War for the following reasons.
+
+[47740] 23.2. When the Lacedaemonians had fought out the Leuctrian War against the Boeotians and had been defeated, the Thebans, on account of the seizure of the Cadmeia, brought great suits against the Lacedaemonians before the Amphictyons and condemned them to pay much money.
+
+[48012] 23.3. The Phocians, having cultivated much of the sacred land called Cirrhaean, were brought to trial before the Amphictyons and condemned in many talents. As they did not pay their fines, the hieromnemons before the Amphictyons accused the Phocians and asked the council that, if the Phocians did not pay the money to the god, the land of those who robbed the god should be consecrated; and they said likewise that the others who had been condemned ought to pay their fines, among whom were the Lacedaemonians; and if they did not obey, they should be deemed worthy of the common hatred of the Greeks.
+
+[48616] 23.4. The Greeks confirming the decrees of the Amphictyons, and the land of the Phocians being about to be consecrated, Philomelus, who had the greatest dignity among the Phocians, addressed his countrymen, teaching them that they could not pay the money because of the magnitude of the condemnation, and that to look on while the land was consecrated was not only unmanly but also brought the danger of the overthrow of their whole livelihood.
+
+[49062] 23.5. He tried also to show, as far as possible, that the judgments of the Amphictyons were unjust; for, a quite small piece of land having been cultivated, very great penalties had been imposed. He advised, then, to render these void, and declared that the Phocians had great grounds against the Amphictyons; for in old times these had held the authority and presidency of the oracle. And he produced as witness the most ancient and greatest of the poets, Homer, who says, "But Schedius and Epistrophus led the Phocians, who held Cyparissus and rocky Pytho."
+
+[49623] 23.6. Wherefore he said that they ought to dispute the presidency of the oracle as being ancestral to the Phocians. And he promised to carry through the design, if they would appoint him general with full powers over the whole undertaking and master of it.
+
+[49881] 24.1. The Phocians, because of the fear arising from the condemnation, having chosen him general with full powers, Philomelus vigorously fulfilled his promises. First, going to Sparta, he conferred in secret with Archidamus the king of the Lacedaemonians, that the struggle was common to him, to make the judgments of the Amphictyons void; for there were against the Lacedaemonians too great and unjust decisions of the Amphictyons. He revealed to him, therefore, that he had resolved to seize Delphi, and that, if he should gain control of the presidency, he would annul the decrees of the Amphictyons.
+
+[50486] 24.2. Archidamus, approving the proposal, openly, for the present, said he would not help, but secretly would assist in everything, supplying both money and mercenaries. Philomelus, receiving from him fifteen talents, and adding privately no less than this, hired foreign mercenaries and picked out a thousand of the Phocians, whom he named peltasts.
+
+[50838] 24.3. Gathering a multitude of soldiers and seizing the oracle, he slew those of the Delphians called Thracidae who opposed him, and confiscated their estates; and seeing the others terrified, he urged them to take courage, since no harm would come to them.
+
+[51097] 24.4. When the seizure of the temple was noised abroad, the Locrians, who dwelt nearby, straightway marched against Philomelus. A battle taking place about Delphi, the Locrians, being defeated and losing many of their soldiers, fled to their own country; while Philomelus, elated by the victory, both cut out the decisions of the Amphictyons from the steles and effaced the writings concerning the condemnations.
+
+[51511] 24.5. He himself spread abroad a report that he had resolved neither to plunder the oracle nor to commit any other lawless act, but, disputing the ancestral presidency and wishing to annul the unjust decisions of the Amphictyons, he was defending the ancestral laws of the Phocians.
+
+[51795] 25.1. The Boeotians, gathering into an assembly, voted to aid the oracle, and straightway sent out soldiers. While these things were going on, Philomelus both threw a wall about the temple and gathered many mercenaries, raising the pay and making it one and a half times the usual, and picking out the best of the Phocians, he enrolled them, and quickly gathered a considerable force; for, having no fewer than five thousand soldiers, he held the field before Delphi, being now formidable to those who wished to war against him.
+
+[52325] 25.2. After this, marching into the country of the Locrians and ravaging much of the enemy's land, he encamped near a certain river that flowed past a strong fortress. Making assaults upon it and being unable to take it, he gave up the siege, and joining battle with the Locrians, lost twenty of his soldiers, and being unable to gain control of the dead, asked for their recovery through a herald. The Locrians, not granting the recovery, gave the answer that it was a common law among all the Greeks that temple-robbers be cast out unburied.
+
+[52870] 25.3. Philomelus, taking the occurrence hard, joined battle with the Locrians, and bringing to bear all his ardour, slew some of the enemy, and gaining control of the bodies, compelled the Locrians to make an exchange of the dead. Being master of the open country and having ravaged much of Locris, he returned to Delphi, having filled his soldiers with booty. After this, wishing to consult the oracle about the war, he compelled the Pythia to ascend the tripod and give the response.
+
+[53357] 26.1. Since I have made mention of the tripod, I think it not unseasonable to recount the ancient story handed down about it. For it is said that in old times goats discovered the oracle; for which reason the Delphians, even to this day, especially employ goats for divination.
+
+[53636] 26.2. They say the manner of the discovery was as follows. There being a chasm in this place, where now is what is called the inner sanctuary of the temple, and goats grazing about it, because the Delphians were not yet settled there, ever the goat that approached the chasm and gazed into it would leap about marvellously and utter a voice different from what it was formerly wont to make.
+
+[54028] 26.3. The man who tended the goats, marvelling at the strange thing, and approaching the chasm and gazing in to see what manner of thing it was, suffered the same as the goats; for they behaved like men inspired, and he began to foretell things to come. After this, the report being spread among the natives about the experience of those who approached the chasm, more came to the place; and because of the strangeness, as all made trial of it, those who ever came near became inspired. For these reasons the oracle was marvelled at and the seat was held to be of Earth.
+
+[54600] 26.4. And for some time those who wished to divine, approaching the chasm, made their prophecies to one another; but afterward, many leaping into the chasm because of their inspiration, and all disappearing, it seemed best to those dwelling about the place, in order that no one should be endangered, to appoint a single prophetess for all, and that through her the giving of oracles should take place. And for her a contrivance was constructed, mounting upon which she might safely become inspired and prophesy to those who wished.
+
+[55134] 26.5. This contrivance had three feet, from which it was called a tripod; and almost all the bronze tripods that are still even now made are imitations of this device. In what manner, then, the oracle was discovered, and for what reasons the tripod was constructed, I think has been sufficiently told.
+
+[55437] 26.6. It is said that in ancient times maidens delivered the prophecies, both because of the incorruptibility of their nature and because they were of the same kind as Artemis; for these were well suited to keeping the secrets of what was prophesied. But in later times they say that Echecrates the Thessalian, coming to the oracle and beholding the prophesying maiden, fell in love with her because of her beauty, and seizing her, did violence to her; and the Delphians, because of the occurrence, made a law for the future that no longer should a maiden prophesy, but a woman older than fifty years should deliver the oracles; and that she should be adorned in maiden's garb, as a reminder of the ancient prophetess. Such, then, are the things told in legend about the discovery of the oracle; but we shall return to the deeds of Philomelus.
+
+[56282] 27.1. He, being master of the oracle, ordered the Pythia to make her prophecy from the tripod according to ancestral custom. When she answered that such was not the ancestral custom, he threatened her and forced her to make the ascent onto the tripod. When she, in the face of the superior power of the man who was forcing her, declared that it was permitted to him to do what he wished, he gladly received the saying and declared that he had the response that suited him. And straightway, putting the response in writing and setting it forth in public for all, he made it plain that the god gave him authority to do whatever he wished.
+
+[56920] 27.2. Gathering an assembly and revealing the oracle to the multitudes and urging them to take courage, he turned to the actions of the war. There occurred to him also a sign in the temple of Apollo; for an eagle, flying over the temple of the god and swooping to the ground, hunted the doves reared in the temple, and snatched some of them from the very altars. Those occupied with such matters said that the sign signified that Philomelus and the Phocians would gain mastery over the affairs about Delphi.
+
+[57429] 27.3. Elated, then, by these things, he chose out the most suitable of his friends for embassies, and sent some of them to Athens, some to Lacedaemon, some to Thebes; and likewise he sent also to the other most notable of the cities in Greece, defending himself that he had seized Delphi not plotting against the sacred treasures, but disputing the presidency of the temple; for it belonged to the Phocians as their own, having been so determined in ancient times.
+
+[57895] 27.4. He said that he would render an account of the treasures to all the Greeks, and that he was ready to hand over both the weight and the number of the offerings to any who wished to examine them. And he asked that, if anyone, through enmity or envy, should make war upon the Phocians, they should, above all, ally themselves with him, or, if not, keep quiet.
+
+[58259] 27.5. The envoys having done as ordered, the Athenians and Lacedaemonians and certain others made alliance with him and promised to help, while the Boeotians and Locrians and certain others voted the opposite of these, and took up the war against the Phocians on behalf of the god. These things, then, were done in this year.
+
+[58586] 28.1. In the archonship of Diotimus at Athens, the Romans appointed as consuls Gaius Marcius and Gnaeus Manlius. In their time Philomelus, foreseeing the magnitude of the war, gathered a multitude of mercenaries and enrolled the suitable of the Phocians for the campaign.
+
+[58859] 28.2. As the war required money, he kept his hands off the sacred offerings, but the Delphians, who were outstanding in prosperity and wealth, he exacted from them a sufficient quantity of money for the mercenaries' pay. Having thus organized a considerable force, he led it out into the open field and showed himself ready to contend against those who were hostile to the Phocians.
+
+[59243] 28.3. The Locrians having marched against him, a battle took place about the rocks called Phaedriades, which Philomelus won, and slew many of the enemy, and took not a few alive, and forced some to cast themselves down from the rock. After this battle the Phocians were lifted up in their spirits by their success, while the Locrians, humbled, sent envoys to Thebes, asking the Boeotians to help both themselves and the god.
+
+[59669] 28.4. The Boeotians, both because of their piety toward the gods and because it was to their advantage that the judgments of the Amphictyons should be firm, sent envoys to the Thessalians and the other Amphictyons, asking them jointly to make war upon the Phocians. The Amphictyons having voted the war against the Phocians, there was great commotion and division throughout all Greece. For some judged it right to help the god and punish the Phocians as temple-robbers, while others inclined to the help of the Phocians.
+
+[60192] 29.1. The choice of the nations and cities being divided, the Boeotians and Locrians and Thessalians and Perrhaebians resolved to help the temple, and besides these the Dorians and Dolopians, and also the Athamanians and Achaeans of Phthiotis and Magnetes, and besides the Aenianians and certain others; while with the Phocians were allied the Athenians and Lacedaemonians and certain others of the Peloponnesians.
+
+[60608] 29.2. Most eagerly did the Lacedaemonians take part for the following reasons. In the Leuctrian War the Thebans, having defeated the enemy, brought suit before the Amphictyons against the Spartans, on the ground that Phoebidas the Spartan had seized the Cadmeia, and assessed the wrong at five hundred talents. And when the Lacedaemonians had been condemned and did not pay the penalty within the time fixed by the laws, the Thebans again brought suit for double the wrong.
+
+[61083] 29.3. The Amphictyons having condemned them in a thousand talents, the Lacedaemonians, because of the magnitude of the debt, made the same declarations as the Phocians, saying that they had been unjustly condemned by the Amphictyons.
+
+[61318] 29.4. Wherefore, the interest being common, the Lacedaemonians shrank from taking up a war on their own behalf about the condemnation, but through the person of the Phocians they judged it more seemly to annul the judgments of the Amphictyons. For these reasons, then, they most readily allied themselves with the Phocians and helped them to establish the presidency of the temple.
+
+[61701] 30.1. It being clear that the Boeotians would march against the Phocians with a great force, Philomelus resolved to gather a multitude of mercenaries. As the war required more money, he was compelled to lay hands on the sacred offerings and plunder the oracle. When he had promised the strangers pay of one and a half times, a multitude of mercenaries was quickly gathered, many answering the call to the campaign because of the magnitude of the pay.
+
+[62153] 30.2. Now of the decent men no one enrolled for the campaign, because of their piety toward the gods, but the most worthless and those who despised the gods through their greed eagerly flocked to Philomelus, and quickly a strong force was formed of those who set out for the sacrilege.
+
+[62440] 30.3. Philomelus, then, through the magnitude of his wealth, quickly equipped a sufficient force. Straightway, then, he marched into the country of the Locrians, having horse and foot soldiers more than ten thousand. The Locrians having ranged themselves against him, and the Boeotians having come to the aid of the Locrians, a cavalry battle took place, in which the Phocians had the advantage.
+
+[62837] 30.4. After this the Thessalians, with their neighbouring allies, gathered to six thousand, came to Locris, and joining battle with the Phocians about a hill called Argolas, were defeated. The Boeotians having appeared with thirteen thousand soldiers, and the Achaeans from the Peloponnese with fifteen hundred having come to the aid of the Phocians, the forces encamped opposite one another, both having gathered into one place.
+
+[63268] 31.1. After this the Boeotians, having taken alive in their foraging not a few of the mercenaries, led them out before the city and proclaimed that the Amphictyons punish with death these men who had campaigned along with the temple-robbers; and straightway, the deeds following the words, they shot them all down.
+
+[63584] 31.2. Whereupon the mercenaries with the Phocians, provoked, asked Philomelus to deem the enemy worthy of the like vengeance; and bringing to bear great contentiousness, and having taken alive many of those who wandered in the country among the enemy, they brought them up, and Philomelus shot them all down. Through this punishment they made the enemy give up their haughty and dreadful vengeance.
+
+[63984] 31.3. After this, the forces having broken into another country and making their march through wooded and rough places, suddenly those leading the army met one another. An engagement taking place, and then a fierce battle, the Boeotians, being far superior in number, defeated the Phocians.
+
+[64276] 31.4. As the flight took place through a precipitous and hard-to-exit place, many of the Phocians and mercenaries were cut down; and Philomelus, fighting furiously and falling into many wounds, was shut up in a certain precipitous place; and having no way out, and fearing the abuse that would follow capture, he cast himself down, and in this manner, paying the penalty to the divine power, ended his life.
+
+[64685] 31.5. His colleague in the command, Onomarchus, succeeding to the leadership and withdrawing with the force that was being saved, gathered up those returning from the flight.
+
+[64861] 31.6. While these things were going on, Philip the king of the Macedonians, having taken Methone by siege and plundered it, razed it, and having subdued Pagasae, compelled it to submit. In Pontus Leucon the king of the Bosporus died after ruling forty years, and Spartacus his son, succeeding to the rule, reigned five years.
+
+[65188] 31.7. The Romans had a war against the Faliscans, and nothing great or worthy of mention was accomplished, but raids and ravagings of the country of the Faliscans took place. In Sicily, Dion the general having been slain by certain Zacynthian mercenaries, the leadership was succeeded to by Callippus, who had prepared them for the murder, and he ruled thirteen months.
+
+[65559] 32.1. In the archonship of Thudemus at Athens, the Romans appointed as consuls Marcus Poplilius and Marcus Fabius. In their time the Boeotians, having defeated the Phocians and thinking that Philomelus, the chief author of the sacrilege, having been punished by gods and men, would deter the others from like wickedness, withdrew to their own country.
+
+[65912] 32.2. The Phocians, freed from the war for the present, returned to Delphi, and gathering with their allies into a common assembly, deliberated about the war. Now the most decent inclined toward peace, but the impious, who were outstanding in audacity and greed, were of the opposite mind, and looked about seeking one who would advocate their own lawlessness.
+
+[66274] 32.3. Onomarchus, delivering a carefully prepared speech in favour of keeping to the original purpose, urged the multitude to war, not so much taking thought for the common advantage as preferring his own profit; for he had been condemned by the Amphictyons in many great suits, like the others, and had not paid his fines. Wherefore, seeing that war was more eligible for him than peace, he plausibly incited the Phocians and the allies to keep to the resolve of Philomelus.
+
+[66751] 32.4. Having been chosen general with full powers, he both gathered a multitude of mercenaries and filled up the ranks of the slain, and increasing his force by the multitude of those levied, he made great preparations of allies and of the other things useful for war.
+
+[67021] 33.1. A dream urged him on to this resolve, giving an indication of great increase and glory; for in his sleep he seemed to be reshaping with his own hands the bronze colossus, which the Amphictyons had dedicated in the temple of Apollo, into greater height and making it much larger. He supposed, then, that it was signified to him by the gods that there would be an increase of glory through his generalship; but the truth was not so, but on the contrary it was signified: because the Amphictyons had dedicated it out of the fine, when the Phocians had committed sacrilege against the temple and had on that account been fined, the fine of the Phocians signified that it would receive increase at the hands of Onomarchus; which also came to pass.
+
+[67771] 33.2. Onomarchus, then, having been chosen general with full powers, out of the bronze and iron equipped a multitude of arms, and out of the silver and gold, striking coin, distributed it to the allied cities and especially bribed their leaders. He corrupted also many of the enemy, persuading some to ally themselves with him, and asking others to keep quiet.
+
+[68133] 33.3. And he accomplished everything easily through the love of money in men; for even the Thessalians, who had the greatest dignity among the allies, he bribed and persuaded to keep quiet. And of the Phocians he arrested and slew those who opposed him, and confiscated their estates; and breaking into the enemy's country, he took Thronium by siege and enslaved it, and striking the Amphissians with terror, compelled them to submit.
+
+[68569] 33.4. He plundered the cities in Doris and ravaged their country. And breaking into Boeotia, he took Orchomenus, but attempting to take Chaeronea by siege and being defeated by the Thebans, he returned to his own country.
+
+[68792] 34.1. While these things were going on, Artabazus, being in revolt from the King, carried on the war against the satraps sent by the King to the war. At first, with Chares the Athenian general allied to him, he stoutly opposed the satraps, but when Chares departed, being left alone, he persuaded the Thebans to send him an alliance. They, choosing Pammenes as general and giving him five thousand soldiers, sent him to Asia.
+
+[69219] 34.2. Pammenes, having come to the aid of Artabazus and having defeated the satraps in two great battles, won great glory both for himself and for the Boeotians. For it seemed marvellous that the Boeotians, the Thessalians having abandoned them and the Phocian War bearing great dangers, should send forces overseas to Asia and have the advantage for the most part in the dangers.
+
+[69601] 34.3. While these things were going on, a war arose between the Argives and the Lacedaemonians, and a battle taking place about the city of Orneae, the Lacedaemonians were victorious, and having taken Orneae by siege, they returned to Sparta. Chares the Athenian general, sailing into the Hellespont and taking the city of Sestos, slew those of military age and enslaved the rest.
+
+[69983] 34.4. When Cersobleptes the son of Cotys, because of his hostility toward Philip and his friendship toward the Athenians, handed over to the Athenians the cities in the Chersonese except Cardia, the people sent out colonists to the cities. Philip, seeing that the Methonaeans furnished their city as a base for his enemies, undertook a siege of it.
+
+[70333] 34.5. And for a while the Methonaeans held out, but then, being overpowered, were compelled to surrender the city to the king, on terms that the citizens should depart from Methone each having a single garment. Philip razed the city and distributed the territory among the Macedonians. In this siege it happened that Philip, struck in the eye by an arrow, lost the sight of it.
+
+[70712] 35.1. After this Philip, summoned by the Thessalians, came to Thessaly with his force, and at first carried on the war against Lycophron the tyrant of Pherae, helping the Thessalians; but after this, when Lycophron summoned an alliance from the Phocians, Phayllus the brother of Onomarchus was sent with seven thousand soldiers. But Philip, having defeated the Phocians, drove them out of Thessaly.
+
+[71112] 35.2. Onomarchus, taking up his whole force and thinking he would gain mastery of all Thessaly, came quickly to the aid of Lycophron. Philip having drawn up against the Phocians along with the Thessalians, Onomarchus, being superior in numbers, won two battles and slew many of the Macedonians. Philip, hemmed in to the utmost dangers, and the soldiers through despondency abandoning him, by encouraging the multitude scarcely made them obedient.
+
+[71560] 35.3. After this Philip withdrew to Macedonia, while Onomarchus, marching into Boeotia, defeated the Boeotians in battle and took the city of Coroneia. In Thessaly Philip, having just arrived from Macedonia with his force, marched against Lycophron the tyrant of Pherae.
+
+[71832] 35.4. He, not being a match for him, summoned an alliance from the Phocians, promising to help establish their affairs in Thessaly. Wherefore, Onomarchus having come zealously to the aid with twenty thousand foot and five hundred horse, Philip, persuading the Thessalians to take up the war jointly, gathered all together foot more than twenty thousand and horse three thousand.
+
+[72212] 35.5. A fierce pitched battle taking place, and the Thessalian cavalry being outstanding in number and valour, Philip was victorious. As Onomarchus's men fled to the sea, and the Athenian Chares happened to be sailing by with many triremes, there was great slaughter of the Phocians; for those fleeing, casting away their armour, swam out to the triremes, among whom was Onomarchus himself.
+
+[72604] 35.6. At last there were slain of the Phocians and mercenaries more than six thousand, among whom was the general himself, and there were taken no fewer than three thousand. Philip hanged Onomarchus, and the rest he cast into the sea as temple-robbers.
+
+[72858] 36.1. After the death of Onomarchus, his brother Phayllus succeeded to the leadership of the Phocians. He, setting right the calamity that had occurred, gathered a multitude of mercenaries, doubling the usual pay, and summoned help from the allies; and he prepared a multitude of arms and struck coin of gold and silver.
+
+[73180] 36.2. About the same time Mausolus the ruler of Caria died after ruling twenty-four years, and his sister and wife Artemisia, succeeding to the rule, governed two years.
+
+[73351] 36.3. Clearchus the tyrant of Heracleia, going to a Dionysiac spectacle, was slain after ruling twelve years; and his son Timotheus, succeeding to the rule, ruled fifteen years.
+
+[73530] 36.4. The Tyrrhenians, at war with the Romans, ravaged much of the enemy's country, and overrunning it as far as the Tiber, returned to their own land.
+
+[73683] 36.5. In Syracuse, strife having arisen between Dion's friends and Callippus, Dion's friends, being defeated, fled to Leontini; and after some time, when Hipparinus the son of Dionysius sailed to Syracuse with a force, Callippus was defeated and driven out of the city, and Hipparinus, recovering his father's dominion, ruled two years.
+
+[74021] 37.1. In the archonship of Aristodemus at Athens, the Romans appointed as consuls Gaius Sulpicius and Marcus Valerius, and the hundred and seventh Olympiad was held, in which Micrinas of Tarentum won the foot-race. In their time Phayllus the Phocian general, after his brother's death and defeat, restored the fallen fortunes of the Phocians, fallen both through the defeat and through the loss of their soldiers.
+
+[74436] 37.2. For having an inexhaustible quantity of money, he both gathered many mercenaries and persuaded not a few allies to take part in the war. For using the abundance of money without stint, he had not only many private individuals as eager comrades, but also drew in the most notable cities to the common enterprise.
+
+[74755] 37.3. For the Lacedaemonians sent him a thousand soldiers, the Achaeans two thousand, the Athenians five thousand foot and four hundred horse, of whom the general was Nausicles. The tyrants of Pherae, Lycophron and Peitholaus, after the death of Onomarchus being destitute of allies, surrendered Pherae to Philip, and themselves, becoming parties to a truce, gathered the mercenaries, who were two thousand, and with these, fleeing to Phayllus, fought alongside the Phocians.
+
+[75232] 37.4. Not a few also of the lesser cities came to the aid of the Phocians because of the multitude of money distributed; for gold, calling forth the greed of men, compelled them to desert to the profit that came from gain.
+
+[75456] 37.5. Phayllus, then, with his force marched into Boeotia, and being defeated in battle near the city of Orchomenus, lost many of his soldiers. After this, another battle taking place by the river Cephisus, the Boeotians again were victorious and slew of the enemy more than five hundred, and took alive no fewer than four hundred.
+
+[75789] 37.6. And a few days later, a battle taking place about Coroneia, the Boeotians were victorious and slew fifty of the Phocians and took alive a hundred and thirty. Now that we have gone through the affairs concerning the Boeotians and Phocians, we return to Philip.
+
+[76056] 38.1. He, having defeated Onomarchus in a brilliant pitched battle, both put down the tyranny in Pherae and, having restored to the city its freedom and settled the other affairs in Thessaly, advanced to Thermopylae to war upon the Phocians.
+
+[76299] 38.2. But when the Athenians prevented him from passing through the defiles, he returned to Macedonia, having increased his kingdom by his deeds and by his piety toward the divine.
+
+[76481] 38.3. Phayllus, marching into Locris, against those called Epicnemidian, subdued all the other cities, but one, called Naryx, having taken it by treachery at night, he was again driven out and lost no fewer than two hundred of his soldiers.
+
+[76723] 38.4. After this, while he was encamped about the place called Abae, the Boeotians, attacking the Phocians by night, slew not a few of them; and elated by the success, they passed into the country of the Phocians, and ravaging much of it, gathered a quantity of spoils.
+
+[76994] 38.5. As they were returning and coming to the aid of the city of the Narycaeans, which was being besieged, Phayllus, appearing, routed them, and taking the city by storm, plundered and razed it.
+
+[77191] 38.6. But he himself, falling into a wasting disease and being sick for a long time in suffering, ended his life in a manner befitting his impiety, leaving as general of the Phocians Phalaecus the son of Onomarchus who had kindled the Sacred War, being but a boy in age; and he set over him as guardian and at the same time general Mnaseas, one of his own friends.
+
+[77557] 38.7. After this the Boeotians, attacking the Phocians by night, both killed their general Mnaseas and about two hundred of the soldiers. And a little later, a cavalry battle taking place about Chaeronea, Phalaecus was defeated and lost not a few of his cavalry.
+
+[77821] 39.1. While these things were going on, disturbances and movements also arose in the Peloponnese for the following reasons. The Lacedaemonians, being at variance with the Megalopolitans, overran their country, Archidamus holding the command; and the Megalopolitans, provoked at what had been done, and being by themselves no match, summoned help from their allies.
+
+[78187] 39.2. The Argives, then, and Sicyonians and Messenians came quickly to the rescue in full force, while the Thebans sent four thousand foot and five hundred horse, putting Cephision in command.
+
+[78381] 39.3. The Megalopolitans, then, with their allies, marching out, encamped about the springs of the river Alpheus; and the Lacedaemonians took three thousand foot from the Phocians and a hundred and fifty horse from Lycophron and Peitholaus, who had been driven out of the tyranny in Pherae; and having organized a force fit to fight, they encamped about Mantinea.
+
+[78746] 39.4. After this, coming to the city of Orneae in Argive territory, which was an ally of the Megalopolitans, they took it by siege before the enemy's coming. When the Argives came out against them, they joined battle and were victorious and slew more than two hundred.
+
+[79016] 39.5. The Thebans appearing and being double in number, but inferior in good order, a fierce battle took place; and the victory being doubtful, the Argives and their allies made their return to their own cities, while the Lacedaemonians, breaking into Arcadia and taking the city of Helisson by storm and plundering it, returned to Sparta.
+
+[79357] 39.6. After some time the Thebans with their allies defeated the enemy about Telphusa, and slaying many, took alive Anaxander the leader and more than sixty of the others. A little later they had the advantage in two other battles and struck down not a few of their opponents.
+
+[79635] 39.7. Finally, the Lacedaemonians having won a notable battle, the forces of both sides returned to their own cities. Then, the Lacedaemonians having made a truce with the Megalopolitans, the Thebans returned to Boeotia.
+
+[79857] 39.8. Phalaecus, tarrying about Boeotia, took Chaeronea, and when the Thebans came to the rescue, he was driven out of the city. Then the Boeotians, marching into Phocis with a great force, ravaged most of it and laid waste the possessions in the country; and taking some too of the small towns and gathering a quantity of spoils, they returned to Boeotia.
+
+[80215] 40.1. In the archonship of Theëllus at Athens, the Romans appointed as consuls Marcus Fabius and Titus Quintius. In their time the Thebans, wearied by the war against the Phocians and short of money, sent envoys to the king of the Persians, asking him to supply money to the city.
+
+[80497] 40.2. Artaxerxes, readily complying, gave them as a gift three hundred talents of silver. Between the Boeotians and Phocians there were skirmishes and raids of country, but no actions worthy of mention were accomplished in this year.
+
+[80732] 40.3. In Asia the king of the Persians, having in earlier times marched against Egypt with great numbers of soldiers, had failed, but in the period under consideration again made war upon the Egyptians, and accomplishing notable deeds through his own energy, recovered Egypt and Phoenicia and Cyprus.
+
+[81034] 40.4. But that we may make the history of these matters clear, we shall set forth beforehand the causes of the war, going back a little to the relevant times. For when the Egyptians had revolted from the Persians in earlier times, Artaxerxes surnamed Ochus, being himself not warlike, remained quiet, but sending forces and generals, often failed through the baseness and inexperience of the commanders.
+
+[81439] 40.5. Wherefore, being despised by the Egyptians, he was compelled to endure it, both because of his inactivity and the peaceableness of his spirit. But in the period under consideration, when the kings of the Phoenicians and those in Cyprus, imitating the Egyptians, set out, through their contempt, upon revolt, he was provoked and resolved to make war upon those who had revolted.
+
+[81824] 40.6. Now he rejected the sending of generals, and resolved to make the struggles for his kingdom himself. Wherefore, having made great preparations of arms and missiles and grain and forces, he gathered three hundred thousand foot and thirty thousand horse, three hundred triremes, and five hundred freight ships and other vessels carrying provisions.
+
+[82178] 41.1. He began to war against the Phoenicians too for the following reasons. In Phoenicia there is a notable city named Tripolis, which has a name fitting its nature; for there are three cities in it, having a furlong's interval from one another; and of these one is called of the Aradians, another of the Sidonians, and another of the Tyrians. This city has the greatest dignity of the cities in Phoenicia, in which it happened that the Phoenicians held a council and deliberated about the greatest matters.
+
+[82688] 41.2. As the satraps and generals tarried in the territory of the Sidonians, and behaved, in their orders concerning affairs, insolently and arrogantly toward the Sidonians, those ill-used, taking the outrage hard, resolved to revolt from the Persians.
+
+[82942] 41.3. Persuading also the other Phoenicians to lay hold of independence, they sent envoys to Nectanebo the king of the Egyptians, who was an enemy of the Persians, and persuading him to take them into alliance, prepared the things for the war.
+
+[83187] 41.4. As Sidon excelled in prosperity, and its private citizens had through their trading acquired great wealth, quickly many triremes were equipped and a multitude of mercenaries gathered, and besides these, arms and missiles and grain and all the other things useful for war were speedily provided.
+
+[83489] 41.5. Beginning the hostility, they cut down and destroyed the royal park, in which the kings of the Persians were wont to take their rest; then they burned the fodder gathered by the satraps for the horses for the war; and finally, arresting those Persians who had committed the outrages, they took vengeance on them.
+
+[83809] 41.6. The war against the Phoenicians having taken this beginning, the King, learning of the daring deeds of the rebels, threatened all the Phoenicians, but especially the Sidonians.
+
+[83993] 42.1. In Babylon, having gathered together the foot and horse forces, straightway he took them up and advanced against the Phoenicians. While he was making his way along the march, Belesys the satrap of Syria and Mazaeus the ruler of Cilicia, joining together, warred against the Phoenicians.
+
+[84287] 42.2. Tennes the king of Sidon took from the Egyptians four thousand Greek mercenaries, of whom the general was Mentor the Rhodian. With these and the citizen-soldiers, engaging the aforesaid satraps, he was victorious and drove the enemy out of Phoenicia.
+
+[84545] 42.3. While these things were going on, a war arose in Cyprus too, having its actions intertwined with the war under consideration.
+
+[84678] 42.4. For in this island there were nine notable cities, and under these were ranged small towns belonging to the nine cities. Each of these had a king who ruled the city, but was subject to the king of the Persians.
+
+[84896] 42.5. All these, taking thought together and imitating the Phoenicians, revolted, and preparing the things for war, made their own kingdoms independent.
+
+[85050] 42.6. At which Artaxerxes, provoked, wrote to Idrieus the ruler of Caria, who had just taken over the rule and was a friend and ally of the Persians from his ancestors, to gather a land and naval force to war against the kings in Cyprus.
+
+[85289] 42.7. He, swiftly preparing forty triremes and eight thousand mercenary soldiers, sent them to Cyprus, putting in command Phocion the Athenian and Evagoras, who in earlier times had been king in the island.
+
+[85497] 42.8. These, then, having sailed to Cyprus, straightway led the force against the greatest of the cities, Salamis. Throwing up a palisade and fortifying the camp, they besieged the Salaminians both by land and by sea. As the whole island had long been at peace and the country prosperous, the soldiers, mastering the open country, gathered much booty.
+
+[85850] 42.9. As their abundance was noised abroad, many of the soldiers from the opposite coast of Syria and Cilicia flocked together of their own accord at the hope of gain. At last, the force with Evagoras and Phocion having been doubled, the kings in Cyprus fell into anguish and the greatest fears. And the affairs in Cyprus were in this state.
+
+[86193] 43.1. After this the king of the Persians, having set out from Babylon with his force, advanced against Phoenicia; and Tennes the ruler of Sidon, learning of the magnitude of the Persian force and thinking that the rebels were no match, resolved to provide his own safety privately.
+
+[86477] 43.2. Wherefore he sent the most faithful of his servants, Thettalion, secretly from the Sidonians, to Artaxerxes, promising to hand over Sidon and to help conquer Egypt, and to cooperate greatly with him, being experienced in the regions of Egypt and accurately knowing the landings along the Nile.
+
+[86778] 43.3. The King, hearing the details from Thettalion, was exceedingly pleased, and said he would release Tennes from the charges of the revolt, and promised, if he should do what was agreed, to give him great gifts. But when Thettalion said that Tennes asked also to receive his right hand, at this the King, angered as one not trusted, handed Thettalion over to his attendants and ordered them to cut off his head.
+
+[87194] 43.4. But when Thettalion, being led away to punishment, said only this, "You, O King, will do what you wish, but Tennes, who is able to accomplish everything, will, because you have not given the pledge, accomplish nothing of what he has promised," again, hearing this, the King changed his mind, and recalling the attendants, ordered them to release him, and gave the right hand to Thettalion; this pledge is the most binding among the Persians. He, then, coming to Sidon, reported to Tennes what had been done, secretly from the Sidonians.
+
+[87738] 44.1. The King, accounting it of great moment to gain mastery of Egypt because of his former failure, sent envoys to the greatest of the cities in Greece, asking them to campaign together with the Persians against the Egyptians. The Athenians and Lacedaemonians said that they kept their friendship with the Persians, but refused to send an alliance.
+
+[88090] 44.2. The Thebans, choosing Lacrates as general, sent him out with a thousand hoplites. The Argives sent three thousand soldiers, but did not themselves choose a general, and when the King by name asked for Nicostratus as general, they consented.
+
+[88338] 44.3. For this man was good both at acting and at counsel, but had madness mingled with his prudence; for being outstanding in bodily strength, he imitated Heracles on his campaigns, and wore a lion's skin and carried a club in his battles.
+
+[88580] 44.4. Likewise the Greeks who dwelt along the coast of Asia sent six thousand soldiers, so that all the Greek allies came to ten thousand. Before the coming of these, the King, having passed through Syria and arrived in Phoenicia, encamped not far from Sidon.
+
+[88841] 44.5. The Sidonians, the King having spent time over his preparations, took great care of the supplies of grain and arms and missiles. Likewise they had encompassed the city with three great trenches and constructions of high walls.
+
+[89075] 44.6. They had also a sufficient number of citizen-soldiers, trained in exercises and toils and outstanding in the good condition and strength of their bodies. In wealth and the other resources the city far surpassed the cities in Phoenicia, and, what was greatest, it had more than a hundred triremes and quinqueremes.
+
+[89396] 45.1. Tennes, having shared the treachery with Mentor the general of the mercenaries from Egypt, left him to guard a part of the city and to cooperate in the matters of the treachery being undertaken, while he himself advanced out of the city with five hundred soldiers, pretending to be going to a common meeting of the Phoenicians; and he led with him the hundred most notable of the citizens as counsellors.
+
+[89808] 45.2. When they were near the King, seizing the hundred, he handed them over to Artaxerxes. The King, receiving him as a friend, shot down the hundred as being responsible for the revolt; and when five hundred of the foremost Sidonians came out with suppliant branches, he recalled Tennes and asked whether he could hand over the city to him; for he was very eager not to take Sidon by capitulation, in order that, encompassing the Sidonians with inexorable calamities, he might by their punishment terrify the other cities.
+
+[90334] 45.3. When Tennes affirmed that he would hand over the city, the King, keeping his anger inexorable, shot down all the five hundred who held the suppliant branches. Then Tennes, approaching the mercenaries from Egypt, persuaded them to bring within the walls both himself and the King.
+
+[90621] 45.4. Sidon, then, through such treachery, fell into the hands of the Persians. The King, supposing that Tennes was no longer useful, slew him. The Sidonians, before the King's coming, had burned all their ships, in order that no one of those in the city might, by sailing out, provide safety for himself privately; but when they saw the city and the walls seized and surrounded by many thousands of soldiers, they shut themselves up, with their children and wives, in their houses, and set them on fire.
+
+[91127] 45.5. They say that those then destroyed by the fire, together with the household persons, were more than forty thousand. This calamity having befallen the Sidonians, and the whole city with its inhabitants having been made to vanish by the fire, the King sold the burnt site for many talents;
+
+[91422] 45.6. for because of the prosperity of the inhabitants, much silver and gold was found melted by the fire. The misfortunes that befell Sidon, then, had such a catastrophe; and the other cities, struck with terror, went over to the Persians.
+
+[91664] 45.7. A little before these times, Artemisia who ruled Caria died after ruling two years, and her brother Idrieus succeeded to the rule and ruled seven years.
+
+[91824] 45.8. In Italy the Romans made a truce with the Praenestines and a treaty with the Samnites, but put to death publicly in the market-place two hundred and sixty men of Tarquinii.
+
+[92004] 45.9. In Sicily Leptines and Callippus, Syracusans having a force, took by siege Rhegium, which was garrisoned by Dionysius the younger tyrant, and expelled the garrison and restored to the Rhegians their independence.
+
+[92224] 46.1. In the archonship of Apollodorus at Athens, the Romans appointed as consuls Marcus Valerius and Gaius Sulpicius. In their time, in Cyprus, the Salaminians being besieged by Evagoras and Phocion, all the other cities submitted to the Persians, but of Salamis Pnytagoras, being king, alone endured the siege.
+
+[92538] 46.2. Evagoras was trying to recover the rule of the Salaminians, which was his ancestral, and through the king of the Persians was making his return to the kingdom. But after this, when he was slandered to Artaxerxes, and the King aided Pnytagoras, Evagoras, despairing of the return and having defended himself concerning the charges, was deemed worthy of another, greater command in Asia.
+
+[92931] 46.3. But having ill administered the rule, he fled again to Cyprus, and being arrested, was deemed worthy of punishment. Pnytagoras, having voluntarily submitted to the Persians, thereafter ruled Salamis without fear.
+
+[93151] 46.4. The king of the Persians, after the capture of Sidon, the allies having come to him from Argos and Thebes and the Greek cities in Asia, gathered his whole force and advanced against Egypt.
+
+[93347] 46.5. Coming to the great lake, where are the so-called Barathra, he lost a part of his force through inexperience of the places. But concerning the nature of the lake and the strange occurrence about it, having spoken in the first book, we shall pass over saying the same things twice.
+
+[93635] 46.6. Having passed through the Barathra with his force, the King came to Pelusium; this is a city upon the first mouth, at the place where the Nile makes its outflows. The Persians, then, encamped forty furlongs from Pelusium, while the Greeks encamped close to the town itself.
+
+[93916] 46.7. The Egyptians, the Persians having given them much time for preparation, had well fortified all the mouths of the Nile, but especially that at Pelusium, because this was the first and most conveniently situated.
+
+[94135] 46.8. The place was guarded by five thousand soldiers, with Philophron the Spartan as general. The Thebans, eager to appear the best of the Greeks campaigning together, first and alone dared, hazardously, to cross through a certain narrow and deep canal.
+
+[94391] 46.9. When they had crossed and were attacking the walls, the guards of Pelusium, pouring out of the city, joined battle with the Thebans; and a great struggle taking place because of the ambition on both sides, they spent the day in the danger and were parted by the night.
+
+[94667] 47.1. On the next day the King divided the Greek force into three parts, and each part had a Greek general, and beside him a Persian commander, a man preferred for valour and goodwill.
+
+[94853] 47.2. The first division was held by the Boeotians, having as general Lacrates the Theban, and as Persian commander Rhosaces; he was a descendant of one of the seven Persians who overthrew the Magi, and was satrap of Ionia and Lydia; there followed him much cavalry and not a little infantry of the barbarians.
+
+[95165] 47.3. The second division was that of the Argives, with Nicostratus as general, and with him a Persian colleague, Aristazanes; he was the King's introducer of suitors and the most faithful of his friends after Bagoas; there were assigned to him five thousand picked soldiers and eighty triremes.
+
+[95462] 47.4. Of the third division Mentor, who had handed over Sidon, was general, having the mercenaries that were already his; and there campaigned with him Bagoas, in whom the King most trusted, a man outstanding in audacity and lawlessness; he had the King's Greeks and a sufficient multitude of the barbarians and not a few ships.
+
+[95792] 47.5. The King himself, with the rest of the force, lay in reserve over the whole affair. Such being the division among the Persians, Nectanebo the king of the Egyptians was dismayed neither by the multitude of the enemy nor by the whole arrangement of the Persians, although he was far inferior in number.
+
+[96100] 47.6. For he had twenty thousand Greek mercenaries, Libyans about as many, and Egyptians, those called among them the "fighting men," sixty thousand, and besides these an incredible number of river boats fitted for the battles and engagements on the Nile.
+
+[96357] 47.7. He had also fortified the side of the river that inclined toward Arabia, packed with towns, and moreover all divided up by walls and trenches. And having all the other preparations sufficient for the war, he quickly came to grief in the whole matter through his own ill counsel.
+
+[96643] 48.1. The cause of the defeat was, most of all, his inexperience in generalship and the fact that the Persians had previously been defeated by him in the campaign before this.
+
+[96820] 48.2. For having then as generals distinguished men, outstanding in valour and military shrewdness, Diophantus the Athenian and Lamius the Spartan, through these he had succeeded in everything; but now, supposing himself to be a sufficient general, he gave no one a share in the command, and through his inexperience could do nothing of what was useful in the war.
+
+[97186] 48.3. The towns, then, he distributed and guarded with considerable garrisons, while he himself, having thirty thousand of the Egyptians, five thousand of the Greeks, and half of the Libyans, lay in reserve at the most opportune of the entrances. Such being the arrangement on both sides, Nicostratus the general of the Argives, having Egyptian guides, whose children and wives were held as hostages among the Persians, sailed along with the fleet through a certain canal to a hidden place, and landing the soldiers and fortifying a camp, encamped.
+
+[97736] 48.4. The mercenaries of the Egyptians who guarded the nearby place, as they perceived the enemy's presence, straightway came out to the rescue, being no fewer than seven thousand.
+
+[97918] 48.5. Cleinias the Coan, having the command of them, drew up the force for battle. The men who had sailed in being ranged against them, a fierce battle took place, in which the Greeks with the Persians, fighting brilliantly, both slew the general Cleinias and cut down more than five thousand of the other soldiers.
+
+[98235] 48.6. Nectanebo the king of the Egyptians, hearing of the destruction of his own men, was dismayed, thinking that the rest of the Persian force too would easily cross the river.
+
+[98414] 48.7. Supposing that the enemy with all their force would come against Memphis itself, he resolved to take thought above all for it. He, then, with the army about him, returning to Memphis, prepared the things for the siege.
+
+[98640] 49.1. Lacrates the Theban, leading the first division, set out for the siege of Pelusium; and turning aside the stream of the canal to other parts, and mounding up the dried-out place, he brought engines against the city. A great part of the walls having fallen, the guards of Pelusium swiftly built others in their stead and raised up considerable wooden towers.
+
+[99005] 49.2. For some days the wall-fighting being continuous, at first the Greeks in Pelusium stoutly defended themselves against the besiegers; but when they learned of the King's withdrawal to Memphis, being dismayed, they sent envoys about a settlement.
+
+[99257] 49.3. Lacrates having given them pledges, under oath, that, if they surrendered Pelusium, they should all be conveyed to Greece with whatever they should carry out, they surrendered the fortress.
+
+[99454] 49.4. After this Artaxerxes sent Bagoas with barbarian soldiers to take over Pelusium; and the soldiers, passing into the place, took away from the departing Greeks much of what they were carrying out.
+
+[99657] 49.5. As those wronged were indignant and called upon the gods who oversee oaths, Lacrates, provoked, routed the barbarians, and striking down some, came to the aid of those wronged in violation of the truce.
+
+[99867] 49.6. Bagoas having fled to the King and accused Lacrates, Artaxerxes judged that Bagoas's men had suffered justly, and put to death those of the Persians responsible for the seizure. Pelusium, then, was thus handed over to the Persians.
+
+[100106] 49.7. Mentor, leading the third division, subdued Bubastus and many other cities and made them subject to the King by a single stratagem. For all the cities being garrisoned by two nations, Greeks and Egyptians, Mentor spread a report among the soldiers that King Artaxerxes had resolved to treat humanely those who voluntarily surrendered the cities, but to those taken by force to deal out the same punishment that he had inflicted on the Sidonians; and he ordered those who guarded the gates to permit any who wished to desert from them.
+
+[100648] 49.8. Wherefore, the captured Egyptians departing unhindered from the camp, the aforesaid report was quickly spread among all the cities in Egypt. Straightway, then, the mercenaries everywhere fell to quarrelling with the natives, and the cities were filled with strife. For each side, privately, vied with the other to surrender the fortresses and to exchange this favour for hopes of private benefits; which also happened to occur first about Bubastus.
+
+[101104] 50.1. For when Mentor and Bagoas encamped near it, the Egyptians, secretly from the Greeks, sent someone to Bagoas, promising to surrender the city if they would grant them safety.
+
+[101286] 50.2. The Greeks, perceiving what had been done, pursued the man who had been sent, and hanging fear over him, heard the truth; provoked at this, they attacked the Egyptians, and slew some, and wounding others, drove the rest into a part of the city.
+
+[101538] 50.3. The defeated, revealing to Bagoas what had happened, asked him to come quickly and take over the city from them. The Greeks having secretly sent a herald to Mentor, Mentor in secret urged them, when Bagoas should enter the city, to make the attack upon the barbarians.
+
+[101814] 50.4. After this, when Bagoas with the Persians entered without the consent of the Greeks, and a part of the soldiers had entered, the Greeks suddenly closing the gates attacked those within the walls, and slaying all, took Bagoas himself alive.
+
+[102061] 50.5. He, seeing his hopes of safety lying in Mentor, begged to be saved, and undertook for the future to do nothing without his judgment.
+
+[102201] 50.6. Mentor, persuading the Greeks to release Bagoas and to let the surrender be made through himself, took to himself the credit of the success, and having become to Bagoas the author of his safety, made a partnership with him, and giving and receiving oaths about these things, kept the agreement until the end of his life.
+
+[102529] 50.7. Wherefore it came to pass that these men, being of one mind with the King, were afterward strongest of the friends and kinsmen about Artaxerxes; for Mentor, having been appointed greatest commander in the coastal parts of Asia, rendered great services to the King, gathering mercenaries from Greece and sending them to Artaxerxes, and managing everything in his undertakings with courage and faithfulness;
+
+[102942] 50.8. and Bagoas, having administered everything for the King in the upper satrapies, so prevailed, through his partnership with Mentor in affairs, that he was master of the kingdom, and Artaxerxes did nothing without his judgment. And after Artaxerxes's death he ever appointed the successors of the kingdom, and had everything of a king except the title. But concerning these matters we shall record the details in their proper times.
+
+[103380] 51.1. At that time, after the surrender of Bubastus, the remaining cities, struck with terror, were surrendered by capitulation to the Persians. Nectanebo the king, tarrying in Memphis and seeing the cities' impulse toward treachery, did not dare to undergo the dangers for his rule. Despairing, then, of the kingdom, and taking up most of the money, he fled to Ethiopia.
+
+[103753] 51.2. Artaxerxes, having taken over all Egypt and pulled down the walls of the most notable cities, plundered the temples and gathered a quantity of silver and gold, and carried off too the records from the ancient temples, which later Bagoas ransomed back to the priests of the Egyptians for much money.
+
+[104059] 51.3. Those of the Greeks who had campaigned with him he honoured each according to his worth with considerable gifts and released to their native lands; and having appointed Pherendates satrap of Egypt, he returned with his force to Babylon, bringing much money and spoils, and having gained great glory from his successes.
+
+[104385] 52.1. In the archonship of Callimachus at Athens, the Romans appointed as consuls Gaius Marcius and Publius Valerius. In their time Artaxerxes, seeing that Mentor the general had rendered him great services in the war against the Egyptians, advanced him most of his friends.
+
+[104661] 52.2. Honouring the man with prizes of valour, he gave him a hundred talents of silver, and of his other costly equipment the best; and he appointed him satrap of the coast of Asia and entrusted to him the war against those who had revolted, appointing him general with full powers.
+
+[104945] 52.3. Mentor, having a connection with Artabazus and Memnon, who had warred against the Persians in earlier times, but were then in flight from Asia and tarrying with Philip, begging the King, persuaded him to release the men from the charges. Straightway he summoned to himself both, with their whole kindred;
+
+[105257] 52.4. for there had been born to Artabazus, from the sister of Mentor and Memnon, eleven sons and ten daughters. Being delighted at the multitude of children, Mentor advanced the sons, handing over to them the most notable commands in the army.
+
+[105503] 52.5. He campaigned first against Hermias the tyrant of Atarneus, who was in revolt from the King and held many strongholds and cities.
+
+[105640] 52.6. Promising to persuade the King and release him from the charges, he came to a parley, and tricking him, arrested him. Gaining control of his ring, and writing to the cities that he had been reconciled to the King through Mentor, and sealing the letters with the ring of Hermias, he sent out with them those who were to take over the places.
+
+[105988] 52.7. Those in the cities, trusting in what was written and gladly receiving the peace, all surrendered the fortresses and cities. Mentor, then, through deceit quickly and without danger taking over the towns of the rebels, gained great approval from the King, being thought able to conduct generalship practically.
+
+[106305] 52.8. Likewise the other commanders too who were hostile to the Persians, forcing some and outgeneralling others, he quickly subdued all. And the affairs in Asia were in this state.
+
+[106488] 52.9. In Europe Philip the king of the Macedonians, marching against the Chalcidian cities, took by siege and razed the fortress of Zereia, and striking certain of the other towns with terror, compelled them to submit; and coming to Pherae in Thessaly, he drove out Peitholaus who ruled the city.
+
+[106786] 52.10. While these things were going on, in Pontus Spartacus the king of Pontus died after ruling five years, and his brother Paerisades, succeeding to the leadership, reigned thirty-eight years.
+
+[106983] 53.1. This year having passed, Theophilus was archon at Athens, and in Rome were appointed consuls Gaius Sulpicius and Gaius Quintius, and the hundred and eighth Olympiad was held, in which Polycles of Cyrene won the foot-race.
+
+[107212] 53.2. In their time Philip, being eager to subdue the cities on the Hellespont, took Mecyberna and Torone without danger through treachery, and marching with a great force against Olynthus, the greatest of the cities in these regions, first defeated the Olynthians in two battles and shut them up in a siege; and making continual assaults, he lost many of his soldiers in the wall-fighting; but at last, corrupting with money the leaders of the Olynthians, Euthycrates and Lasthenes, he took Olynthus, betrayed through these men.
+
+[107743] 53.3. Plundering it and enslaving the inhabitants, he sold them as booty. By doing this he both provided himself with much money for the war and struck with terror the other cities that opposed him. Honouring with worthy gifts those of his soldiers who had distinguished themselves in the battle, and distributing a quantity of money among those who had power in the cities, he had many traitors to their native lands. And he himself declared that he had increased his own kingdom much more through gold than through arms.
+
+[108267] 54.1. The Athenians, viewing with suspicion the increase of Philip, came to the aid of those who were ever being warred upon by the king, sending envoys to the cities and urging them to keep their independence and to punish with death those of the citizens who set out upon treachery; and they promised to ally themselves with all, and openly declaring themselves enemies to the king, carried on the war against Philip.
+
+[108688] 54.2. Most of all did Demosthenes the orator provoke them to take the lead of Greece, being the cleverest of the Greeks in those times. The city, however, was not able to check the citizens from their impulse toward treachery; for such a crop of traitors there was then throughout Greece.
+
+[108978] 54.3. Wherefore they say too that Philip, wishing to take a certain city outstanding in strength, when one of the natives told him that it was unassailable by force, asked whether even gold could not climb over the wall.
+
+[109200] 54.4. For he had learned by experience that what was impossible to subdue by arms was easy to overcome by gold. So, setting up traitors in the cities through bribery, and calling those who accepted the gold "guests" and "friends," he corrupted the characters of men by his evil dealings.
+
+[109489] 55.1. After the capture of Olynthus, holding Olympian victory-festivals to the gods, he performed magnificent sacrifices; and organizing a great festal assembly and holding brilliant contests, he received many of the visiting strangers to his banquets.
+
+[109743] 55.2. And during the drinking, employing much conversation, and giving cups to many in the toasts, and bestowing gifts upon not a few, and making to all great promises graciously, he had many who desired his friendship.

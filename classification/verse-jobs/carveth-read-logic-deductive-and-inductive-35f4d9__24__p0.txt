@@ -1,0 +1,479 @@
+WORK: Logic: Deductive and Inductive  (slug: carveth-read-logic-deductive-and-inductive-35f4d9)
+
+CHAPTER: 24
+
+
+
+[0] FALLACIES
+
+[11] § 1. A Fallacy is any failure to fulfil the conditions of proof. If we neglect or mistake the conditions of proof unintentionally, whether in our private meditations or in addressing others, it is a Paralogism: but if we endeavour to pass off upon others evidence or argument which we know or suspect to be unsound, it is a Sophism.
+
+[345] Fallacies, whether paralogisms or sophisms, may be divided into two classes: (a) the Formal, or those that can be shown to conflict with one or more of the truths of Logic, whether Deductive or Inductive; as if we attempt to prove an universal affirmative in the Third Figure; or to argue that, as the average expectation of life for males at the age of 20 is 19-1/2 years, therefore Alcibiades, being 20 years of age, will die when he is 39-1/2; (b) the Material, or those that cannot be clearly exhibited as transgressions of any logical principle, but are due to superficial inquiry or confused reasoning; as in adopting premises on insufficient authority, or without examining the facts; or in mistaking the point to be proved.
+
+[1078] § 2. Formal Fallacies of Deduction and Induction are, all of them, breaches of the rule 'not to go beyond the evidence.' As a detailed account of them would be little else than a repetition of the foregoing chapters, it may suffice to recall some of the places at which it is easiest to go astray.
+
+[1377] (1) It is not uncommon to mistake the Contrary for the Contradictory, as--A is not taller than B, .'. he is shorter.
+
+[1495] All Money is Wealth .'. All Wealth is Money;
+
+[1541] or--Some Wealth is not Money .'. Some Money is not Wealth.
+
+[1601] In both these cases, Wealth, though undistributed in the convertend, is distributed in the converse.
+
+[1703] (3) To attempt to syllogise with two premises containing four terms, as
+
+[1776] The Papuans are savages; The Javanese are neighbours of the Papuans: .'. The Javanese are savages.
+
+[1876] Such an argument is excluded by the definition of a Syllogism, and presents no formal evidence whatever. We should naturally assume that any man who advanced it merely meant to raise some probability that 'neighbourhood is a sign of community of ideas and customs.' But, if so, he should have been more explicit. There would, of course, be the same failure of connection, if a fourth term were introduced into the conclusion, instead of into the premises.
+
+[2333] (4) To distribute in the conclusion a term that was undistributed in the premises (an error essentially the same as (2) above), i.e., Illicit process of the major or minor term, as--
+
+[2517] Every rational agent is accountable; Brutes are not rational agents: .'. Brutes are not accountable.
+
+[2619] In this example (from Whately), an illegitimate mood of Fig. I., the major term, 'accountable,' has suffered the illicit process; since, in the premise, it is predicate of an affirmative proposition and, therefore, undistributed; but, in the conclusion, it is predicate of a negative proposition and, therefore, distributed. The fact that nearly everybody would accept the conclusion as true, might lead one to overlook the formal inconclusiveness of the proof.
+
+[3082] Again,
+
+[3090] All men are two-handed; All two-handed animals are cooking animals: .'. All cooking animals are men.
+
+[3192] Here we have Bramantip concluding in A.; and there is, formally, an illicit process of the minor; though the conclusion is true; and the evidence, such as it is, is materially adequate. ('Two-handed,' being a peculiar differentia, is nugatory as a middle term, and may be cut out of both premises; whilst 'cooking' is a proprium peculiar to the species Man; so that these terms might be related in U., _All men are all cookers*; whence, by conversion, *All cookers are men_.)
+
+[3669] (5) To omit to distribute the middle term in one or the other premise, as--
+
+[3746] All verbal propositions are self-evident; All axioms are self-evident: .'. All axioms are verbal propositions.
+
+[3858] This is an illegitimate mood in Fig. II.; in which, to give any conclusion, one premise must be negative. It may serve as a formal illustration of Undistributed Middle; though, as both premises are verbal propositions, it is (materially) not syllogistic at all, but an error of classification; a confounding of co-ordinate species by assuming their identity because they have the generic attribute in common.
+
+[4268] (6) To simply convert an hypothetical proposition, as--
+
+[4325] If trade is free, it prospers; .'. If trade prospers, it is free.
+
+[4392] This is similar to the simple conversion of the categorical A.; since it takes for granted that the antecedent is co-extensive with the consequent, or (in other words) that the freedom of trade is the sole condition of, or (at least) inseparable from, its prosperity.
+
+[4661] The same assumption is made if, in an hypothetical syllogism, we try to ground an inference on the affirmation of the consequent or denial of the antecedent, as--
+
+[4825] If trade is free it prospers: It does prosper; .'. It is free. It is not free; .'. It does not prosper.
+
+[4930] Neither of these arguments is formally good; nor, of course, is either of them materially valid, if it be possible for trade to prosper in spite of protective tariffs.
+
+[5099] An important example of this fallacy is the prevalent notion, that if the conclusion of an argument is true the premises must be trustworthy; or, that if the premises are false the conclusion must be erroneous. For, plainly, that--
+
+[5332] If the premises are true, the conclusion is true, is a hypothetical proposition; and we argue justly--
+
+[5436] The premises are true; .'. The conclusion is true; or, The conclusion is false; .'. The premises are false (or one of them is).
+
+[5565] This is valid for every argument that is formally correct; but that we cannot trust the premises on the strength of the conclusion, nor reject the conclusion because the premises are absurd, the following example will show:
+
+[5790] All who square the circle are great mathematicians; Newton squared the circle: .'. Newton was a great mathematician.
+
+[5908] The conclusion is true; but the premises are intolerable.
+
+[5967] How the taking of Contraries for Contradictories may vitiate Disjunctive Syllogisms and Dilemmas has been sufficiently explained in the twelfth chapter.
+
+[6121] § 3. Formal Fallacies of Induction consist in supposing or inferring Causation without attempting to prove it, or in pretending to prove it without satisfying the Canons of observation and experiment: as--
+
+[6328] (1) To assign the Cause of anything that is not a concrete event: as, e.g., why two circles can touch only in one point. We should give the 'reason'; for this expression includes, besides evidence of causation, the principles of formal deduction, logical and mathematical.
+
+[6602] (2) To argue, as if on inductive grounds, concerning the cause of the Universe as a whole. This may be called the fallacy of transcendent inference: since the Canons are only applicable to instances of events that can be compared; they cannot deal with that which is in its nature unique.
+
+[6892] (3) To mistake co-existent phenomena for cause and effect: as when a man, wearing an amulet and escaping shipwreck, regards the amulet as the cause of his escape. To prove his point, he must either get again into exactly the same circumstances without his amulet, and be drowned--according to the method of Difference; or, shirking the only satisfactory test, and putting up with mere Agreement, he must show, (a) that all who are shipwrecked and escape wear amulets, and (b) that their cases agree in nothing else; and (c), by the Joint Method, that all who are shipwrecked without amulets are drowned. And even if his evidence, according to Agreement, seemed satisfactory at all these points, it would still be fallacious to trust to it as proof of direct causation; since we have seen that unaided observation is never sufficient for this: it is only by experiment in prepared circumstances that we can confidently trace sequence and the transfer of energy.
+
+[7854] There is the reverse error of mistaking causal connection for independent co-existence: as if any one regards it as merely a curious coincidence that great rivers generally flow past great towns. In this case, however, the evidence of connection does not depend merely upon direct Induction.
+
+[8147] (4) *Post hoc, ergo propter hoc*: to accept the mere sequence of phenomena, even though often repeated, as proving that the phenomena are cause and effect, or connected by causation. This is a very natural error: for although, the antecedents of a phenomenon being numerous, most of them cannot be its cause, yet it is among them that the cause must be sought. Indeed, if there is neither time nor opportunity for analysis, it may seem better to accept any antecedent as a cause (or, at least, as a sign) of an important event than to go without any guide. And, accordingly, the vast and complicated learning of omens, augury, horoscopy and prophetic dreams, relies upon this maxim; for whatever the origin of such superstitions, a single coincidence in their favour triumphantly confirms them. It is the besetting delusion of everybody who has wishes or prejudices; that is, of all of us at some time or other; for then we are ready to believe without evidence. The fallacy consists in judging off-hand, without any attempt, either by logic or by common sense, to eliminate the irrelevant antecedents; which may include all the most striking and specious.
+
+[9305] (5) To regard the Co-Effects (whether simultaneous or successive) of a common cause as standing in the direct relation of cause and effect. Probably no one supposes that the falling of the mercury in his thermometer causes the neighbouring lake to freeze. True, it is the antecedent, and (within a narrow range of experience) may be the invariable antecedent of the formation of ice; but, besides that the two events are so unequal, every one is aware that there is another antecedent, the fall of temperature, which causes both. To justify inductively our belief in causation, the instances compared must agree, or differ, in one circumstance only (besides the effect). The flowing tide is an antecedent of the ebbing tide; it is invariably so, and is equal to it; but it is not the cause of it: other circumstances are present; and the moon is the chief condition of both flow and ebb. In several instances, States that have grown outrageously luxurious have declined in power: that luxury caused their downfall may seem obvious, and capable of furnishing a moral lesson to the young. Hence other important circumstances are overlooked, such as the institution of slavery, the corruption and rapacity of officials and tax-gatherers, an army too powerful for discipline; any or all of which may be present, and sufficient to explain both the luxury and the ruin.
+
+[10670] (6) To mistake one condition of a phenomenon for the whole cause. To speak of an indispensable condition of any phenomenon as the cause of it, may be a mere conventional abbreviation; and in this way such a mode of expression is common not only in popular but also in scientific discussion. Thus we say that a temperature of 33° F. is a cause of the melting of ice; although that ice melts at 33° F., must further depend upon something in the nature of water; for every solid has its own melting-point. As long, then, as we remember that 'cause,' used in this sense, is only a convenient abbreviation, no harm is done; but, if we forget it, fallacy may result: as when a man says that the cause of a financial crisis was the raising of the rate of discount, neglecting the other conditions of the market; whereas, in some circumstances, a rise of the Bank-rate may increase public confidence and prevent a crisis.
+
+[11585] We have seen that the direct use of the Canons of Agreement and Difference may only enable us to say that a certain antecedent is a cause or an indispensable condition of the phenomenon under investigation. If, therefore, it is important to find the whole cause, we must either experiment directly upon the other conditions, or resort to the Method of Residues and deductive reasoning; nor must we be content, without showing (where such precision is possible) that the alleged cause and the given phenomenon are equal.
+
+[12106] (7) To mistake a single consequence of a given cause for the whole effect, is a corresponding error; and none so common. Nearly all the mistakes of private conduct and of legislation are due to it: To cure temporary lassitude by a stimulant, and so derange the liver; to establish a new industry by protective duties, and thereby impoverish the rest of the country; to gag the press, and so drive the discontented into conspiracy; to build an alms-house, and thereby attract paupers into the parish, raise the rates, and discourage industry.
+
+[12649] (8) To demand greater exactness in the estimate of causes or effects than a given subject admits of. In the more complex sciences, Biology, Psychology, Sociology, it is often impossible to be confident that all the conditions of a given phenomenon have been assigned, or that all its consequences have been traced. The causes of the origin of species and of the great French Revolution have been carefully investigated, and still we may doubt whether they have all been discovered, or whether their comparative importance has been rightly determined; but it would be very unreasonable to treat those things as miraculous and unintelligible. We read in the *Ethics*, that a properly cultivated mind knows what degree of precision is to be expected in each science. The greatest possible precision is always to be sought; but what is possible depends partly on the nature of the study and partly upon the state of scientific preparation.
+
+[13586] (9) To treat an agent or condition remote in time as an unconditional cause: for every moment of time gives an opportunity for new combinations of forces and, therefore, for modifications of the effect. Thus, although we often say that Napoleon's Russian expedition was the cause of his downfall, yet the effect was subject to numerous further conditions. Had the natives not burnt Moscow, had the winter been exceptionally mild, had the Prussians and Austrians not risen against him, the event might have been very different. It is rash to trace the liberties of modern Europe to the battle of Marathon. Indeed, our powers of perception are so unequal to the subtlety of nature, that even in experimental science there is time for molecular changes to occur between what we treat as a cause and the effect as we perceive it; and, in such cases, the strictly unconditional cause has not been discovered.
+
+[14491] (10) To neglect the negative conditions to which a cause is subject. When we say that water boils at 212° F., we mean "provided the pressure be the same as that of the atmosphere at about the sea-level"; for under a greater pressure water will not boil at that temperature, whilst under less pressure it boils at a lower temperature. In the usual statement of a law of causation, 'disturbing,' 'frustrating,' 'counteracting' circumstances (that is, negative conditions) are supposed to be absent; so that the strict statement of such a law, whether for a remote cause, or for an immediate cause (when only positive conditions are included), is that the agent or assemblage of conditions, *tends* to produce such an effect, other conditions being favourable, or in the absence of contrary forces.
+
+[15288] (11) It is needless to repeat what has already been said of other fallacies that beset inductive proof; such as the neglect of a possible plurality of causes where the effect has been vaguely conceived; the extension of empirical laws beyond adjacent cases; the chief errors to which the estimate of analogies and probabilities, or the application of the principles of classification are liable; and the reliance upon direct Induction where the aid of Deduction may be obtained, or upon observation where experiment may be employed. As to formal fallacies that may be avoided by adhering to the rules of logical method, this may suffice.
+
+[15927] § 4. There remain many ways in which arguments fall short of a tolerable standard of proof, though they cannot be exhibited as definite breaches of logical principles. Logicians, therefore, might be excused from discussing them; but out of the abundance of their pity for human infirmity they usually describe and label the chief classes of these 'extra-logical fallacies,' and exhibit a few examples.
+
+[16330] We may adopt Whately's remark, that a fallacy lies either (1) in the premises, or (2) in the conclusion, or (3) in the attempt to connect a conclusion with the premises.
+
+[16501] (1) Now the premises of a sound argument must either be valid deductions, or valid inductions, or particular observations, or axioms. In an unsound argument, then, whose premises are supported by either deduction or induction, the evidence may be reduced to logical rules; and its failure is therefore a 'logical fallacy' such as we have already discussed. It follows that an extra-logical fallacy of the premises must lie in what cannot be reduced to rules of evidence, that is, in bad observations (§ 5), or sham axioms (§ 6).
+
+[17031] (2) As to the conclusion, this can only be fallacious if some other conclusion has been substituted for that which was to have been proved (§ 7).
+
+[17178] (3) Fallacies in the connection between premises and conclusion, if all the propositions are distinctly and explicitly stated, become manifest upon applying the rules of Logic. Fallacies, therefore, which are not thus manifest, and so are extra-logical, must depend upon some sort of slurring, confusion, or ambiguity of thought or speech (§ 8).
+
+[17525] § 5. Amongst Fallacies of Observation, Mill distinguishes (1) those of Non-observation, where either instances of the presence or absence of the phenomenon under investigation, or else some of the circumstances constituting it or attending upon it, though important to the induction, are overlooked. These errors are implied in the Formal Fallacies of Induction already treated of in § 3 (paragraphs (3) to (7)).
+
+[17939] Mill's class (2) comprises fallacies of Malobservation. Malobservation may be due to obtuseness or slowness of perception; and it is one advantage of the physical sciences as means of education, that the training involved in studying them tends to cure these defects--at least, within their own range.
+
+[18242] But the occasion of error upon which Mill most insists, is our proneness to substitute a hasty inference for a just representation of the fact before us; as when a yachtsman, eager for marvels, sees a line of porpoises and takes them for the sea-serpent. Every one knows what it is to mistake a stranger for a friend, a leaf for a sparrow, one word for another. The wonder is that we are not oftener wrong; considering how small a part present sensation has in perception, and how much of every object observed is supplied by a sort of automatic judgment. You see something brown, which your perceptive mechanism classes with the appearance of a cow at such a distance; and instantly all the other properties of a cow are supplied from the resources of former experience: but on getting nearer, it turns out to be a log of wood. It is some protection against such errors to know that we are subject to them; and the Logician fulfils his duty in warning us accordingly. But the matter belongs essentially to Psychology; and whoever wishes to pursue it will find a thorough explanation in Prof. Sully's volume on *Illusions*.
+
+[19367] Another error is the accumulation of useless, irrelevant observations, from which no proof of the point at issue can be derived. It has been said that an important part of an inductive inquirer's equipment consists in knowing what to observe. The study of any science educates this faculty by showing us what observations have been effective in similar cases; but something depends upon genius. Observation is generally guided by hypotheses: he makes the right observations who can frame the right hypotheses; whilst another overlooks things, or sees them all awry, because he is confused and perverted by wishes, prejudices or other false preconceptions; and still another gropes about blindly, noting this and docketing that to no purpose, because he has no hypothesis, or one so vague and ill-conceived that it sheds no light upon his path.
+
+[20212] § 6. The second kind of extra-logical Fallacy lying in the premises, consists in offering as evidence some assertion entirely baseless or nugatory, but expressed in such a way as to seem like a general truth capable of subsuming the proposition in dispute: it is generally known as *petitio principii*, or begging the question. The question may be begged in three ways:
+
+[20583] (1) There are what Mill calls Fallacies *a priori*, mere assertions, pretending to be self-evident, and often sincerely accepted as such by the author and some infatuated disciples, but in which the cool spectator sees either no sense at all, or palpable falsity. These sham axioms are numerous; and probably every one is familiar with the following examples: That circular motion is the most perfect; That every body strives toward its natural place; That like cures like; That every bane has its antidote; That what is true of our conceptions is true of Nature; That pleasure is nothing but relief from pain; That the good, the beautiful and the true are the same thing; That, in trade, whatever is somewhere gained is somewhere lost; That only in agriculture does nature assist man; That a man may do what he will with his own; That some men are naturally born to rule and others to obey. Some of these doctrines are specious enough; whilst, as to others, how they could ever have been entertained arouses a wonder that can only be allayed by a lengthy historical and psychological disquisition.
+
+[21683] (2) Verbal propositions offered as proof of some matter of fact. These have, indeed, one attribute of axioms; they are self-evident to any one who knows the language; but as they only dissect the meaning of words, nothing but the meaning of words can be inferred from them. If anything further is arrived at, it must be by the help of real propositions. How common is such an argument as this: 'Lying is wrong, because it is vicious'--the implied major premise being that 'what is vicious is wrong.' All three propositions are verbal, and we merely learn from them that lying is *called* vicious and wrong; and to make that knowledge deterrent, it must be supplemented by a further premise, that 'whatever is called wrong ought to be avoided.' This is a real proposition; but it is much more difficult to prove it than 'that lying ought to be avoided.' Still, such arguments, though bad Logic, often have a rhetorical force: to call lying not only wrong but vicious, may be dissuasive by accumulating associations of shame and ignominy.
+
+[22721] Definitions, being the most important of verbal propositions (since they imply the possibility of as many other verbal propositions as there are defining attributes and combinations of them), need to be watched with especial care. If two disputants define the same word in different ways, with each of the different attributes included in their several definitions they may bring in a fresh set of real propositions as to the agency or normal connection of that attribute. Hence their conclusions about the things denoted by the word defined, diverge in all directions and to any extent. And it is generally felt that a man who is allowed to define his terms as he pleases, may prove anything to those who, through ignorance or inadvertence, grant that the things that those terms stand for have the attributes that figure in his definitions.
+
+[23565] (3) *Circulus in demonstrando*, the pretence of giving a reason for an assertion, whilst in fact only repeating the assertion itself--generally in other words. In such cases the original proposition is, perhaps, really regarded as self-evident, but by force of habit a man says 'because'; and then, after vainly fumbling in his empty pocket for the coin of reason, the habit of symbolic thinking in words only, without reference to the facts, comes to his rescue, and he ends with a paraphrase of the same assertion. Thus a man may try to prove the necessity of Causation: 'Every event must have a cause; because an event is a change of phenomena, and this implies a transformation of something pre-existing; which can only have been possible, if there were forces in operation capable of transforming it.' Or, again: 'We ought not to go to war, because it is wrong to shed blood.' But, plainly, if war did not imply bloodshed, the unlawfulness of this could be nothing against war. The more serious any matter is, the more important it becomes either to reason thoroughly about it, or to content ourselves with wholesome assertions. How many 'arguments' are superfluous!
+
+[24738] § 7. The Fallacy of surreptitious conclusion (*ignoratio elenchi*), the mistaking or obscuring of the proposition really at issue, whilst proving something else instead. This may be done by substituting a particular proposition for an universal, or an universal for a particular. Thus, he who attacks the practice of giving in charity must not be content to show that it has, in this or that case, degraded the recipient; who may have been exceptionally weak. Or, again, to dissuade another from giving alms in a particular case, it is not enough to show that the general tendency of almsgiving is injurious; for, by taking pains in a particular case, the general tendency may often be counteracted.
+
+[25439] Sometimes an argument establishing a wholly irrelevant conclusion is substituted for an *argumentum ad rem*. Macaulay complains of those apologists for Charles I. who try to defend him as a king, by urging that he was a good judge of paintings and indulgent to his wife.
+
+[25711] To this class of Fallacies belongs the *argumentum ad hominem*, which consists in showing not that a certain proposition is true, but that Critias ought to accept it in consistency with his other opinions. Thus: 'In every parish the cost of education ought to be paid out of the rates: you, at least, have said that there can be no sound economy, unless local expenses are defrayed from local funds.' But whether this is a fallacy depends, as Whately observes, upon whether it is urged as actually proving the point at issue, or merely as convicting the opponent of inconsistency. In the latter case, the argument is quite fair: whatever such a conclusion may be worth.
+
+[26382] Similarly with the *argumentum ad populum*: 'this measure is favourable to such or such a class; let them vote for it.' An appeal to private greed, however base, is not fallacious, as long as the interest of the class is not *fraudulently* substituted for the good of the nation. And much the same may be said for the *argumentum ad verecundiam*. When a question of morals is debated as a question of honour among thieves, there is no fallacy, if the moral issue is frankly repudiated. The argument from authority is often brought under this head: 'such is the opinion of Aristotle.' Although this does not establish the truth of any proposition, it may be fairly urged as a reason for not hastily adopting a contrary conclusion: that is, if the subject under discussion be one as to which Aristotle (or whoever the authority may be) had materials for forming a judgment.
+
+[27255] A negative use of this fallacy is very common. Some general doctrine, such as Positivism, Transcendentalism, Utilitarianism, or Darwinism, is held in common by a group of men; who, however, all judge independently, and therefore are likely to differ in details. An opponent exhibits their differences of opinion, and thereupon pretends to have refuted the theory they agree in supporting. This is an *argumentum ad scholam*, and pushes too far the demand for consistency. In fact it recoils upon the sophist; for there is no sense in quoting men against one another, unless both (or all) are acknowledged to speak with the authority of learning and judgment, and therefore the general doctrine which they hold in common is the more confirmed.
+
+[27999] This is an example of the paralogism of 'proving too much'; when a disputant is so eager to refute an opponent as to lay down, or imply, principles from which an easy inference destroys his own position. To appeal to a principle of greater sweep than the occasion requires may easily open the way to this pitfall: as if a man should urge that 'all men are liars,' as the premise of an argument designed to show that another's assertion is less credible than his own.
+
+[28467] A common form of *ignoratio elenchi* is that which Whately called the 'fallacy of objections': namely, to lay stress upon all the considerations against any doctrine or proposal, without any attempt to weigh them against the considerations in its favour; amongst which should be reckoned all the considerations that tell against the alternative doctrines or proposals. Incontestable demonstration can rarely be expected even in science, outside of the Mathematics; and in practical affairs, as Butler says, 'probability is the very guide of life'; so that every conclusion depends upon the balance of evidence, and to allow weight to only a part of it is an evasion of the right issue.
+
+[29154] § 8. Fallacies in the connection of premises and conclusion, that cannot be detected by reducing the arguments to syllogistic form, must depend upon some juggling with language to disguise their incoherence. They may be generally described as Fallacies of Ambiguity, whether they turn upon the use of the same word in different senses, or upon ellipsis. Thus it may be argued that all works written in a classical language are classical, and that, therefore, the history of Philosophy by Diogenes Lærtius, being written in Greek, is a classic. Such ambiguities are sometimes serious enough; sometimes are little better than jokes. For jokes, as Whately observes, are often fallacies; and considered as a propædeutic to the art of sophistry, punning deserves the ignominy that has overtaken it.
+
+[29949] Fallacies of ellipsis usually go by learned names, as; (1) _a dicto secundum quid ad dictum simpliciter_. It has been argued that since, according to Ricardo, the value of goods depends solely upon the quantity of labour necessary to produce them, the labourers who are employed upon (say) cotton cloth ought to receive as wages the whole price derived from its sale, leaving nothing for interest upon capital. Ricardo, however, explained that by 'the quantity of labour necessary to produce goods' he meant not only what is immediately applied to them, but also the labour bestowed upon the implements and buildings with which the immediate labour is assisted. Now these buildings and implements are capital, the labour which produced them was paid for, and it was far enough from Ricardo's mind to suppose that the capital which assists present labour upon (say) cotton cloth has no claim to remuneration out of the price of it. In this argument, then, the word labour in the premise is used *secundum quid*, that is, with the suppressed qualification of including past as well as present labour; but in the conclusion labour is used *simpliciter* to mean present labour only.
+
+[31129] (2) *A dicto secundum quid ad dictum secundum alterum quid*. It may be urged that, since the tax on tea is uniform, therefore all consumers contribute equally to the revenue for their enjoyment of it. But written out fairly this argument runs thus: Since tea is taxed uniformly _4d. per lb.*, all consumers pay equally for their enjoyment of it *whatever quantity they use_. These qualifications introduced, nobody can be deceived.
+
+[31562] (3) *A dicto simpliciter ad dictum secundum quid*, also called _fallacia accidentis_. Thus: To take interest upon a loan is perfectly just, therefore, I do right to exact it from my own father in distress. The popular answer to this sort of blunder is that 'circumstances alter cases.' We commit this error in supposing that what is true of the average is likely to be true of each case; as if one should say: 'The offices are ready to insure my house [with thousands of others] against fire at a rate per annum which will leave them heavy losers unless it lasts a hundred years; so, as we are told not to take long views of life, I shall not insure.'
+
+[32215] The Fallacy of Division and Composition consists in suggesting, or assuming, that what is true of things severally denoted by a term is true of them taken together. That every man is mortal is generally admitted, but we cannot infer that, therefore, the human race will become extinct. That the remote prospects of the race are tragic may be plausibly argued, but not from that premise.
+
+[32603] Changing the Premises is a fallacy usually placed in this division; although, instead of disguising different meanings under similar words, it generally consists in using words or phrases ostensibly differing, as if they were equivalent: those addressed being expected to renounce their right to reduce the argument to strict forms of proof, as needless pedantry in dealing with an author so palpably straightforward. If an orator says--'Napoleon conquered Europe; in other words, he murdered five millions of his fellow creatures'--and is allowed to go on, he may infer from the latter of these propositions many things which the former of them would hardly have covered. This is a sort of hyperbole, and there is a corresponding meiosis, as: 'Mill *admits* that the Syllogism is useful'; when, in fact, that is Mill's *contention*. It may be supposed that, if a man be fool enough to be imposed upon by such transparent colours, it serves him right; but this harsh judgment will not be urged by any one who knows and considers the weaker brethren.
+
+[33654] § 9. The above classification of Fallacies is a rearrangement of the plans adopted by Whately and Mill. But Fallacies resemble other spontaneous natural growths in not submitting to precise and definite classification. The same blunders, looked at from different points of view, may seem to belong to different groups. Thus, the example given above to illustrate *fallacia accidentis*, 'that, since it is just to take interest, it is right to exact it from one's own father,' may also be regarded as *petitio principii*, if we consider the unconditional statement of the premise--'to take interest upon a loan is perfectly just'; for, surely, this is only conditionally true. Or, again, the first example given of simple ambiguity--'that whatever is written in a classical language is classical, etc.,' may, if we attend merely to the major premise, be treated as a bad generalisation, an undue extension of an inference, founded upon a simple enumeration of the first few Greek and Latin works that one happened to remember.
+
+[34681] It must also be acknowledged that genuine wild fallacies, roaming the jungle of controversy, are not so easily detected or evaded as specimens seem to be when exhibited in a Logician's collection; where one surveys them without fear, like a child at a menagerie. To assume the succinct mode of statement that is most convenient for refutation, is not the natural habit of these things. But to give reality to his account of fallacies an author needs a large space, that he may quote no inconsiderable part of literature ancient and modern.
+
+[35222] As to the means of avoiding fallacies, a general increase of sincerity and candour amongst mankind may be freely recommended. With more honesty there would be fewer bad arguments; but there is such a thing as well-meaning incapacity that gets unaffectedly fogged in converting A., and regards the refractoriness of O., as more than flesh and blood can endure. Mere indulgence in figurative language, again, is a besetting snare. "One of the fathers, in great severity called poesy _vinum dæmonum_," says Bacon: himself too fanciful for a philosopher. Surely, to use a simile for the discovery of truth is like studying beauty in the bowl of a spoon.
+
+[35873] The study of the natural sciences trains and confirms the mind in a habit of good reasoning, which is the surest preservative against paralogism, as long as the terms in use are, like those of science, well defined; and where they are ill defined, so that it is necessary to guard against ambiguity, a thorough training in politics or metaphysics may be useful. Logic seems to me to serve, in some measure, both these purposes. The conduct of business, or experience, a sufficient time being granted, is indeed the best teacher, but also the most austere and expensive. In the seventeenth century some of the greatest philosophers wrote *de intellectus emendatione*; and if their successors have given over this very practical inquiry, the cause of its abandonment is not success and satiety but despair. Perhaps the right mind is not to be made by instruction, but can only be bred: a slow, haphazard process; and meanwhile the rogue of a sophist may count on a steady supply of dupes to amuse the tedium of many an age.
+
+[36896] FINIS.
+
+[36904] QUESTIONS
+
+[36915] _The following questions are chiefly taken from public examination papers: Civil Service* [S], *Oxford* [O], *Cambridge* [C], *London_ [L].
+
+[37056] I. TERMS, ETC.
+
+[37072] 1. What is a Term? Explain and illustrate the chief divisions of Terms. What is meant by the Connotation of a Term? Illustrate. [S]
+
+[37205] 2. "The connotation and denotation of terms vary inversely." Examine this assertion, explaining carefully the limits within which it is true, if at all. [S]
+
+[37363] 3. Exemplify the false reasoning arising from the confusion of Contrary and Contradictory Terms. [S]
+
+[37465] 4. Discuss the claims of the doctrine of Terms to be included in a Logical System. Distinguish between a General and an Abstract Term. [S]
+
+[37605] 5. Explain and illustrate what is meant by the Denotation and Connotation of a Term. What terms have both, and what have one only? [S]
+
+[37741] 6. Distinguish between Abstract and Concrete Names. To which of these classes belong (a) adjectives, (b) names of states of consciousness? Are any abstract names connotative? [S]
+
+[37921] 7. Distinguish between (a) Proper and Singular Terms, (b) Negative and Privative, (c) Absolute and Relative. Illustrate.
+
+[38043] 8. What connection is there between the Connotation and the Relativity of Names?
+
+[38125] 9. Examine the logical relations between the following pairs of terms: (a) happy and happiness; (b) happy and unhappy; (c) 'the juryman' and 'the jury'; (d) parent and offspring.
+
+[38305] Explain the technical words used in your answer. [C]
+
+[38359] 10. Distinguish between *name*; *part of speech*; *term*: and illustrate by reference to the following--use, useful, usefully. [C]
+
+[38491] 11. Describe the nature of *Collective* terms; examine in particular any difficulties in distinguishing between these and general or abstract terms. [C]
+
+[38645] 12. Distinguish between *positive*, *negative*, and *privative* names. Of what kind are the following, and why--parallel, alien, idle, unhappy? What ambiguity is there in the use of such a term as "not-white"? [C]
+
+[38860] II. PROPOSITIONS AND IMMEDIATE INFERENCE.
+
+[38903] 13. What is meant by (1) the Conversion, and (2) the Contra-position of a proposition? Apply these processes, as far as admissible, to the following:--
+
+[39056] (a) All invertebrates have cold blood.
+
+[39096] (b) Some cold-blooded animals are not invertebrates.
+
+[39150] (c) No wingless birds are songsters.
+
+[39188] (d) Some winged birds are not songsters.
+
+[39230] What can you infer from (a) and (b) jointly, and what from (c) and (d) jointly? [S]
+
+[39315] 14. "The author actually supposes that, because Professor Fawcett denies that all wealth is money, he denies that all money is wealth." Analyse the differences of opinion implied in the above passage. [S]
+
+[39521] 15. Take any universal affirmative proposition; convert it by obversion (contraposition); attach the negative particle to the predicate, and again convert. Interpret the result exactly, and say whether it is or is not equivalent to the original proposition. [S]
+
+[39784] 16. What information about the term "solid body" can we derive from the proposition, "No bodies which are not solids are crystals"? [S]
+
+[39921] 17. Discuss the proposal to treat all propositions as affirmative.
+
+[39989] 18. Convert the proposition "A is probably B." What information does the proposition give us concerning B? [S]
+
+[40101] 19. Show in how many ways you can deny the following assertions: All cathedral towns are all cities; Canterbury is the Metropolitan see. [S]
+
+[40243] 20. Explain the nature of a *hypothetical* (or conditional) proposition. What do you consider the radical difference between it and a categorical? [S]
+
+[40395] 21. What is the function of the *copula*? In what different manners has it been treated? [S]
+
+[40489] 22. Convert "A killed C unjustly"; "All Knowledge is probably useful"; "The exception proves the rule"; "Birds of a feather flock together." [S]
+
+[40635] 23. What is modality? How are modals treated by (a) formal logic and (b) by the theory of induction? [S]
+
+[40741] 24. What is the subject of an impersonal proposition? Give reasons for your answer. [S]
+
+[40830] 25. Is the categorical proposition sufficiently described as referring a thing or things to a class? [S]
+
+[40936] 26. Enumerate the cases in which the truth or falsity of one proposition may be formally inferred from the truth or falsity of another. Illustrate these cases, and give to each its technical name. [S]
+
+[41138] 27. Illustrate the relation of Immediate Inferences to the Laws of Thought.
+
+[41215] 28. Explain what is meant by (a) Symbolic Logic; (b) the Logic of Relatives. Describe some method of representing propositions by means of diagrams; and indicate how far any particular theory of the import of propositions is involved in such representation. [S]
+
+[41478] 29. Explain the exact nature of the relation between two *Contradictory* propositions; and define Conversion by Contraposition, determining what kind of propositions admit of such conversion.
+
+[41671] Give the contradictory and the contrapositive of each of the following propositions:--
+
+[41759] (a) All equilateral triangles are equiangular;
+
+[41807] (b) No vertebrate animal has jaws opening sideways;
+
+[41860] (c) Wherever A and B are both present, either C or D is also present. [S]
+
+[41935] 30. Define Obversion and Inversion, and apply these processes also to the above three propositions.
+
+[42036] 31. Propositions can be understood either in extension or in intension. Explain this, and discuss the relative value of the two interpretations. [S]
+
+[42186] 32. Distinguish between real and verbal propositions; and explain the importance of the distinction.
+
+[42288] 33. Illustrate the process called 'change of Relation.'
+
+[42345] III. SYLLOGISM AND MEDIATE INFERENCE.
+
+[42384] 34. What is a Syllogism? Find, without reference to the mnemonic verses, in what different ways it is possible to prove syllogistically the conclusion *No S is P*; and show the equivalence between these different ways. [S]
+
+[42608] 35. From what points of view can the syllogism be regarded
+
+[42668] (1) as being, (2) as not being, a *petitio principii*? [S]
+
+[42728] 36. What are the figures of syllogism? For what kind of arguments are they severally adapted? [S]
+
+[42827] 37. What is meant by Mood and Figure? How can the validity of a Mood be tested? Should there be four Figures or three? [S]
+
+[42951] 38. Construct syllogisms in Camenes, Datisi and Baroco, and reduce them to the corresponding moods of the first figure.
+
+[43072] 39. Explain the meaning of "ostensive" and "indirect" Reduction. Show that any Mood of the second Figure may be reduced in either way.
+
+[43208] 40. Show that A cannot be proved except in the First Figure. Express the following reasoning in as many syllogistic figures as you can: Some theorists cannot be trusted, for they are unwise. [S]
+
+[43404] 41. Discuss the possibility of reducing the argument *a fortiori* to the syllogistic form. [S]
+
+[43500] 42. Can a false conclusion be reached through true premises, or a true conclusion through false premises? Give reasons for your answer. [S]
+
+[43641] 43. Can we under any circumstances infer a relation between X and Z from the premises--
+
+[43730] Some Y's are X's Some Y's are Z's? [S]
+
+[43770] 44. Take an apparent syllogism subject to the fallacy of negative premises, and inquire whether you can correct the reasoning by converting one or both of the premises into the affirmative form. [S]
+
+[43970] 45. Enumerate the faults to which a syllogism is liable, giving instances of each. [S]
+
+[44058] 46. State any Enthymeme, and expand it into (1) a Syllogism, (2) an Epicheirema, (3) a Sorites; and give in each case the technical name of the Mood or Order that results.
+
+[44231] 47. State any Disjunctive Syllogism, and change it (1) into a Hypothetical, (2) into a Categorical; and discuss the loss or gain, in cogency or significance involved in this process.
+
+[44415] 48. Can the Syllogism be treated as merely a consequence of the "Laws of Thought"? If not, why not; and what else does it imply?
+
+[44545] 49. Prove that with three given propositions (of the forms A., E., I., O.) it is never possible to construct more than one valid syllogism. [C]
+
+[44690] 50. Distinguish between a Constructive and a Destructive Hypothetical Syllogism; and show how one may be reduced to the other. [C]
+
+[44822] IV. INDUCTION, ETC.
+
+[44843] 51. What constitutes a Valid Induction? Distinguish it from a legitimate hypothesis. [S]
+
+[44933] 52. Is it possible to form true universal propositions about facts if we have not actually observed all the individuals designated by the subject of the proposition? If so, how? [S]
+
+[45116] 53. "Perfect induction is demonstrative and syllogistic; imperfect induction is neither." Explain the difference between perfect and imperfect induction, and examine the truth of this assertion. [S]
+
+[45316] 54. Why is it that one should not regard night as the cause, nor even as a universal condition of day? Explain "cause" and "condition." [S]
+
+[45457] 55. What do you understand by an experiment? Can you say how many experiments are required to establish (1) a fact, (2) a law of nature?
+
+[45595] 56. How would you define *antecedent*, *cause*, *effect*, *consequent*? [S]
+
+[45672] 57. England is the richest country in the world, and has a gold currency. Russia and India, in proportion to population, are poor countries and have little or no gold currency. How far are such kind of facts logically sufficient to prove that a gold currency is the cause of a nation's wealth? [S]
+
+[45971] 58. A man having been shot through the heart immediately falls dead. Investigate the logical value of such a fact as proving that all men shot through the heart will fall dead. [S]
+
+[46153] 59. Explain the process of induction called the Method of Difference, and give some new instances of its application. How is it related to the Method of Concomitant Variations? What is the Major Premise implied in all these methods? [S]
+
+[46391] 59A. Examine the position, that the Canons of Experiment are useless, because the work of preparing the experiments must have been done before the canons can be applied.
+
+[46562] 60. Explain the logical cogency of experiments in the search for physical causes. [S]
+
+[46649] 61. If the effects of A B C D are fully expressed by a b c d, and those of B C D by b c d, what inductive inference can be drawn and on what principle? State the canon according to which it is drawn. [S]
+
+[46854] 62. Compare the advantage of observation and experiment as means of gaining data for Reasoning. [S]
+
+[46955] 63. Compare the cogency of different Inductive Methods, showing the kind of evidence each requires, and the principle on which it is based. [S]
+
+[47100] 64. Compare the Canons of Agreement and Difference (1) as to the difficulty of finding or preparing actual Instances for them, and (2) as to their conclusiveness.
+
+[47264] 65. Describe what is meant by residual phenomena, and estimate their value in inductive science. [S]
+
+[47366] 66. What is the argument from Analogy? How does it differ from (a) Induction, (b) metaphorical argument? [S]
+
+[47476] 67. What are the various senses in which the word Analogy has been used? Distinguish, giving instances, between good and bad analogies. [S]
+
+[47617] 68. How do you distinguish between what Mill calls the Geometrical, Physical, and Historical Methods?
+
+[47720] 68A. The Comparative Method is appealed to where direct evidence is wanting. Explain this.
+
+[47812] 69. What is meant by a doctrine being unverifiable? If a conclusion reached by deduction does not agree with the facts, where must we look for error?
+
+[47963] 70. There are certain cases in which failure of verification is fatal to a theory, and other cases in which it is of comparatively little cogency. How would you distinguish between these classes of cases? [S]
+
+[48173] 71. Taking the "evolution," or any other proposed hypothesis, how should one proceed (a) to show whether it satisfies the conditions of a legitimate hypothesis sufficiently to entitle it to investigation, and (b) to test it with a view to its acceptance or rejection as a truth of science? [S]
+
+[48468] 72. What do you mean by saying that "a phenomenon has been satisfactorily explained"?
+
+[48555] 73. Explain and illustrate the Historical Method of Sociological inquiry. [S]
+
+[48634] 74. What is the relation of the theory of Probability to Logic? [S]
+
+[48703] 75. Explain and discuss the doctrine that Induction is based upon the Theory of Probability. [S]
+
+[48801] 75A. What are the logical grounds of the Law of Error?
+
+[48857] 76. Explain the nature and use of Classification, the means to, and tests of, its successful performance. [S]
+
+[48968] 77. What is Definition and what is its use? Mention various difficulties that occur in the process, and show how they are to be met. [S]
+
+[49106] 78. Propose rules for a good Division and a good Definition, and exemplify the breach of them. [S]
+
+[49206] 79. Examine the validity of the idea of Real Kinds. [O]
+
+[49263] 80. What kind of words are indefinable, and why? When do we define by negation and by example? [S]
+
+[49363] 81. Distinguish between the province and aims of classification and (logical) division. Illustrate. [S]
+
+[49468] 82. What is an *infima species* or *species specialissima*? Compare the use of the terms *genus* and *species* in Logic with that which is common in speaking of animals or plants. [S]
+
+[49653] 83. How far does the formation of Definitions and Classifications constitute the end of Science? [S]
+
+[49755] 84. Examine the methodological relations between Definition, Classification and Nomenclature. [S]
+
+[49854] 85. Give instances of "Differentia," "Property," "Inseparable Accident"; and examine, with reference to your instances, how far it is possible to distinguish them. [S]
+
+[50023] V. MISCELLANEOUS.
+
+[50042] 86. "People can reason without the help of Logic." Why is this not a sufficient objection to the study? In your answer show distinctly why Logic should be studied. [S]
+
+[50211] 87. What is the meaning of the assertion that Logic is concerned with the form, and not with the matter, of thought? [S]
+
+[50333] 88. "Neither by deductive nor inductive reasoning can we add a tittle to our implicit knowledge." (Jevons.) Explain and criticise. [S]
+
+[50469] 89. What is the logical foundation of the indirect method or _reductio ad absurdum_? Is it applicable to non-mathematical subjects? [S]
+
+[50606] 90. On what grounds do we believe in the reality of an historical event? [S]
+
+[50684] 91. "Facts are familiar theories." Explain and discuss this. [O]
+
+[50750] 92. Wherein lies the difficulty of proving a negative? [O]
+
+[50810] 93. Can any limits be assigned to the possible unification of the sciences? [O]
+
+[50891] 94. Are the results of inductive inference necessarily certain? [O]
+
+[50960] 95. The method of deductive science is hypothetical. Explain and discuss. [O]
+
+[51039] 96. "The uniformity of Nature can never be more than a working hypothesis." Explain and criticise.
+
+[51139] 97. "Without speculation there is no good and original observation." Why? [O]
+
+[51218] 98. Can the provinces of induction and deduction be kept separate? [O]
+
+[51290] 99. How far is the relation of logical dependence identical with that of causation? [O]
+
+[51379] 99A. Discuss the position that the forms of Logic are meaningless apart from their application.
+
+[51476] 100. State in syllogistic form (mood and figure) the following arguments:--
+
+[51553] (a) As polygamy is in many countries legal, we may infer the variability of the moral standard.
+
+[51650] (b) If gold is wealth, to export it diminishes the national resources.
+
+[51722] (c) If all good people are happy, unhappiness is an indication of vice.
+
+[51795] (d) One may be sure of the benefits of inuring young children to cold, from the strength exhibited by all men and women thus treated in infancy.
+
+[51941] (e) Where there is no law, there is no injustice.
+
+[51992] (f) "Dissimulation is but a faint kind of policy or wisdom; for it asketh a strong wit and a strong heart to know when to tell the truth, and to do it; therefore it is the weaker sort of politicians that are the greatest dissemblers." (Bacon.)
+
+[52237] (g) Money being a barren product, it is contrary to nature to make it reproduce itself. Usury, therefore, is unnatural, and, being unnatural, is unjustifiable.
+
+[52398] (h) The study of mathematics is essential to a complete course of education, because it induces a habit of close and regular reasoning. [S]
+
+[52539] 101. Explain and illustrate the following terms:--Subalternans, _Vera Causa*, Plurality of Causes, Law of Nature, Empirical Law, *Summum Genus*, Predicament, *Arbor Porphyriana_, Axiom, Universe of discourse (*suppositio*), Antinomy, Dilemma, Realism, Dichotomy, etc.
+
+[52808] 102. Is there any distinction and, if so, what, between a complete Description and an Explanation? [C]
+
+[52912] 103. On what principles have fallacies been classified? To what extent do you think a satisfactory classification of Fallacies possible? [C]
+
+[53054] 104. Examine how far conceptions of Persistence and of Invariable Concomitance of Properties are involved in the methodological application of the conception of Cause.
+
+[53223] 104A. Inquire whether the two following propositions can be reconciled with one another: (a) The same conjunction of antecedents is invariably followed by the same consequent; (b) We never find the same concurrence of phenomena a second time. [C]
+
+[53471] 105. Using the term Logic in a wide sense, so as to include Methodology, inquire how far a Logic of Observation is possible, and show in what it will consist. [C]
+
+[53635] 106. What is Proof?
+
+[53656] Explain and discuss the following dicta:--(a) _Qui nimium probat, nihil probat_: (b) A bad proof is worse than no proof; (c) The exception proves the rule; (d) Negatives cannot be proved. [C]
+
+[53849] 107. Examine how far the rules of immediate and syllogistic inference are modified by differences of interpretation of the categorical proposition in respect of the existence of the subject. [S]
+
+[54045] 108. "An effect is but the sum of all the partial causes, the concurrence of which constitutes its existence." "The cause of an event is its invariable and unconditional antecedent." Explain and compare these two theories of causation. Does either alone exhaust the scientific conception of cause? [S]
+
+[54348] 109. Under what logical conditions are statistical inferences authorised, and what is the nature of their conclusions? [S]
+
+[54472] 110. Distinguish between Psychology, Metaphysics, and Logic; and discuss briefly their mutual relations. [S]
+
+[54582] 111. All processes of inference in which the ultimate premises are particular cases are equally induction.
+
+[54690] Induction is an inverse deduction.
+
+[54726] Explain and contrast these two theories of the relation of induction to deduction. [S]
+
+[54814] 112. What are the Fallacies specially incident to Induction?--or to the application of the theory of Probabilities? [S]
+
+[54935] 113. What is meant by the *personal error* (or *personal equation*) in observation? Discuss its importance in different branches of knowledge. [S]
+
+[55083] 114. Define and illustrate:--Paralogism, *ignoratio elenchi*, _fallacia accidentis*, *argumentum ad verecundiam_, illicit process, undistributed middle, etc.
+
+[55242] 115. State the three fundamental laws of thought, explain their meaning, and consider how far they are independent of each other? [L]
+
+[55377] 116. Enumerate the "Heads of Predicables" and define their meaning. Discuss their logical importance. [L]
+
+[55484] 117. Upon what grounds has it been asserted that the conclusion of a syllogism is drawn, not from, but according to, the major premise? Are they valid? [L]
+
+[55641] 118. "Experiment is always preferable to observation." Why is this? Explain from the example of any science how observation and experiment supplement each other. [L]
+
+[55808] 119. What is a hypothesis? Distinguish between a working hypothesis and an established hypothesis, so as to bring out the conditions on which the latter depends. [L]
+
+[55975] 120. Explain how good scientific nomenclature and terminology are connected with the purposes of good classification. [L]
+
+[56098] _Printed in Great Britain by Hazell, Watson & Viney, Ld., London and Aylesbury for Simpkin, Marshall, Hamilton, Kent & Co. Ltd._
+
+[56228] The following corrections were made to the original text:
+
+[56287] Page 40: "inedequate" changed to "inadequate" Page 42: "classily" changed to "classify" Page 90: "alledging" changed to "alleging" Page 128: missing comma added: "Camenes, Dimaris" Page 141: "evalued" changed to "evaluated" Page 147: "tellens" changed to "tollens": "and the Modus tollens" Page 170: "impredictable" changed to "unpredictable" Page 210: missing word 'a' added: "Sesostris conquered a great" Page 307: "either" changed to "neither" Page 315: "inductions" changed to "induction" Page 401: "quality" changed to "quantity" Page 401: "propoedeutic" changed to "propædeutic"]

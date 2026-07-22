@@ -1,0 +1,41 @@
+WORK: Poetics  (slug: aristotle-poetics-6c4430)
+
+CHAPTER: 04
+
+
+
+[0] Speaking generally, poetry seems to owe its origin to two particular causes, both natural.
+
+[92] From childhood men have an instinct for representation, and in this respect, differs from the other animals that he is far more imitative and learns his first lessons by representing things. And then there is the enjoyment people always get from representations.
+
+[356] What happens in actual experience proves this, for we enjoy looking at accurate likenesses of things which are themselves painful to see, obscene beasts, for instance, and corpses.
+
+[538] The reason is this: Learning things gives great pleasure not only to philosophers but also in the same way to all other men, though they share this pleasure only to a small degree.
+
+[720] The reason why we enjoy seeing likenesses is that, as we look, we learn and infer what each is, for instance, that is so and so.
+
+[850] If we have never happened to see the original, our pleasure is not due to the representation as such but to the technique or the color or some other such cause.
+
+[1012] We have, then, a natural instinct for representation and for tune and rhythm —for the metres are obviously sections of rhythms —and starting with these instincts men very gradually developed them until they produced poetry out of their improvisations.
+
+[1265] Poetry then split into two kinds according to the poet’s nature. For the more serious poets represented fine doings and the doings of fine men, while those of a less exalted nature represented the actions of inferior men, at first writing satire just as the others at first wrote hymns and eulogies.
+
+[1566] Before Homer we cannot indeed name any such poem, though there were probably many satirical poets, but starting from Homer, there is, for instance, his Margites and other similar poems. For these the iambic metre was fittingly introduced and that is why it is still called iambic, because it was the metre in which they lampooned each other.
+
+[1909] Of the ancients some wrote heroic verse and some iambic.
+
+[1967] And just as Homer was a supreme poet in the serious style, since he alone made his representations not only good but also dramatic, so, too, he was the first to mark out the main lines of comedy, since he made his drama not out of personal satire but out of the laughable as such. His Margites indeed provides an analogy: as are the Iliad and Odyssey to our tragedies, so is the Margites to our comedies.
+
+[2373] When tragedy and comedy came to light, poets were drawn by their natural bent towards one or the other. Some became writers of comedies instead of lampoons, the others produced tragedies instead of epics; the reason being that the former is in each case a higher kind of art and has greater value.
+
+[2672] To consider whether tragedy is fully developed by now in all its various species or not, and to criticize it both in itself and in relation to the stage, that is another question.
+
+[2853] At any rate it originated in improvisation—both tragedy itself and comedy. The one came from the prelude to the dithyramb and the other from the prelude to the phallic songs which still survive as institutions in many cities. Tragedy then gradually evolved as men developed each element that came to light and after going through many changes, it stopped when it had found its own natural form.
+
+[3249] Thus it was Aeschylus who first raised the number of the actors from one to two. He also curtailed the chorus and gave the dialogue the leading part. Three actors and scene-painting Sophocles introduced.
+
+[3454] Then as to magnitude. Being a development of the Satyr play, it was quite late before tragedy rose from short plots and comic diction to its full dignity, and that the iambic metre was used instead of the trochaic tetrameter.
+
+[3681] At first they used the tetrameter because its poetry suited the Satyrs and was better for dancing, but when dialogue was introduced, Nature herself discovered the proper metre. The iambic is indeed the most conversational of the metres, and the proof is that in talking to each other we most often use iambic lines but very rarely hexameters and only when we rise above the ordinary pitch of conversation.
+
+[4088] Then there is the number of acts. The further embellishments and the story of their introduction one by one we may take as told, for it would probably be a long task to go through them in detail.

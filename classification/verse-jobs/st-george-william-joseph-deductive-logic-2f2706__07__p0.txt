@@ -1,0 +1,87 @@
+WORK: Deductive Logic  (slug: st-george-william-joseph-deductive-logic-2f2706)
+
+CHAPTER: 07
+
+
+
+[0] _Of the Determination of the Moods that are valid in the Four Figures._
+
+[73] § 621. By applying the special rules just given we shall be able to determine how many of the eleven legitimate moods are valid in the four figures.
+
+[223] $622. These eleven legitimate moods were found to be
+
+[277] AAA. AAI. AEE. AEO. AII. AOO. EAE. EAO. EIO. IAI. OAO.
+
+[333] FIGURE 1.
+
+[344] § 623. The rule that the major premiss must be universal excludes the last two moods, IAI, OAO. The rule that the minor premiss must be affirmative excludes three more, namely, AEE, AEO, AOO.
+
+[537] Thus we are left with six moods which are valid in the first figure, namely,
+
+[615] AAA. EAE. AII. EIO. AAI. EAO.
+
+[646] FIGURE II.
+
+[658] § 624. The rule that one premiss must be negative excludes four moods, namely, AAA, AAI, AII, IAI. The rule that the major must be universal excludes OAO. Thus we are left with six moods which are valid in the second figure, namely,
+
+[892] EAE. AEE. EIO. AOO. EAO. AEO.
+
+[923] FIGURE III.
+
+[936] § 625. The rule that the conclusion must be particular confines us to eight moods, two of which, namely AEE and AOO, are excluded by the rule that the minor premiss must be affirmative.
+
+[1123] Thus we are left with six moods which are valid in the third figure, namely,
+
+[1201] AAI. IAI. AII. EAO. OAO. EIO.
+
+[1232] FIGURE IV.
+
+[1244] § 626. The first of the eleven moods, AAA, is excluded by the rule that the conclusion cannot be a universal affirmative.
+
+[1367] Two more moods, namely AOO and OAO, are excluded by the rule that neither of the premisses can be a particular negative.
+
+[1489] AII violates the rule that when the major premiss is affirmative, the minor must be universal.
+
+[1585] EAE violates the rule that, when the minor premiss is affirmative, the conclusion must be particular. Thus we are left with six moods which are valid in the fourth figure, namely,
+
+[1766] AAI. AEE. IAI. EAO. EIO. AEO.
+
+[1797] § 627. Thus the 256 possible forms of syllogism have been reduced to two dozen legitimate combinations of mood and figure, six moods being valid in each of the four figures.
+
+[1972] FIGURE I. AAA. EAE. AII. EIO. (AAI. EAO.)
+
+[2015] FIGURE II. EAE. AEE. EIO. AGO. (EAO. AEO.)
+
+[2059] FIGURE III. AAI. IAI. AII. EAO. OAO. EIO.
+
+[2102] FIGURE IV. AAI. AEE. IAI. EAO. EIO. (AEO.)
+
+[2146] § 628. The five moods enclosed in brackets, though valid, are useless. For the conclusion drawn is less than is warranted by the premisses. These are called Subaltern Moods, because their conclusions might be inferred by subalternation from the universal conclusions which can justly be drawn from the same premisses. Thus AAI is subaltern to AAA, EAO to EAE, and so on with the rest.
+
+[2532] § 629. The remaining 19 combinations of mood and figure, which are loosely called 'moods,' though in strictness they should be called 'figured moods,' are generally spoken of under the names supplied by the following mnemonics--
+
+[2762] Barbara, Celarent, Darii, Ferioque prioris; Cesare, Camestres, Festino, Baroko secundæ; Tertia Darapti, Disamis, Datisi, Felapton, Bokardo, Ferison habet; Quarta insuper addit Bramantip, Camenes, Dimaris, Fesapo, Fresison: Quinque Subalterni, totidem Generalibus orti, Nomen habent nullum, nee, si bene colligis, usum.
+
+[3082] § 630. The vowels in these lines indicate the letters of the mood. All the special rules of the four figures can be gathered from an inspection of them. The following points should be specially noted.
+
+[3284] The first figure proves any kind of conclusion, and is the only one which can prove A.
+
+[3372] The second figure proves only negatives.
+
+[3414] The third figure proves only particulars.
+
+[3457] The fourth figure proves any conclusion except A.
+
+[3508] § 631. The first figure is called the Perfect, and the rest the Imperfect figures. The claim of the first to be regarded as the perfect figure may be rested on these grounds--
+
+[3685] 1. It alone conforms directly to the Dictum de Omni et Nullo.
+
+[3748] 2. It suffices to prove every kind of conclusion, and is the only figure in which a universal affirmative proposition can be established.
+
+[3887] 3. It is only in a mood of this figure that the major, middle and minor terms are to be found standing in their relative order of extension.
+
+[4029] § 632. The reason why a universal affirmative, which is of course infinitely the most important form of proposition, can only be proved in the first figure may be seen as follows.
+
+[4210] *Proof that A can only be established in figure I.*
+
+[4263] An A conclusion necessitates both premisses being A propositions (by Rule 7). But the minor term is distributed in the conclusion, as being the subject of an A proposition, and must therefore be distributed in the minor premiss, in order to which it must be the subject. Therefore the middle term must be the predicate and is consequently undistributed. In order therefore that the middle term may be distributed, it must be subject in the major premiss, since that also is an A proposition. But when the middle term is subject in the major and predicate in the minor premiss, we have what is called the first figure.

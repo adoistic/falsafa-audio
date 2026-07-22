@@ -1,0 +1,871 @@
+WORK: Capital and Interest: A Critical History of Economical Theory  (slug: eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f)
+
+CHAPTER: 33-conclusion
+
+
+
+[0] Our attention has been too long fixed on individual theories. Let us, in conclusion, consider the subject as a whole. We have seen the rise of a motley array of interest theories. We have considered them all carefully and tested them thoroughly. No one of them contains the whole truth. Are they on that account quite fruitless? Taken all together, do they form nothing but a chaos of contradiction and error, that leaves us no nearer the truth than when we started? Is it not rather the case that, through the tangle of contradictory theories, there runs a line of development which, if it has not itself led to the truth, has at least pointed the way in which truth is to be found? And how runs the line of this development?
+
+[728] I cannot better introduce the answer to this last question than by asking my readers once more to put clearly before their minds the substance of our problem. What really is the problem of interest?
+
+[928] The problem is to discover and state the causes which guide into the hands of the capitalists a portion of the stream of goods annually flowing out of the national production. There can be no question then that the interest problem is a problem of distribution.
+
+[1191] But in what part of the stream is it that the current branches off into different arms? On this point the historical development of theory has brought to light three essentially distinct views, and these views have led to three as distinct fundamental conceptions of the whole problem.
+
+[1478] Let us keep for a moment to the figure of the stream: it will serve very well to illustrate the subject. The source represents the production of goods; the mouth the ultimate division into incomes whereby human needs are satisfied; the course of the stream represents that stage between source and ultimate division where goods pass from hand to hand in economic transactions, and receive their value by human estimation.
+
+[1901] Now the three views are the following. One view has it that the capitalist's share is already separated out from the first. Three distinct sources—nature, labour, and capital—each in virtue of its inherent productive power, bring forth a definite quantity of goods, with a definite quantity of value, and just the same amount of value as has flowed from each source is discharged into the income of those persons who own the source. It is not so much one stream as three streams, that flow together for a long time in the same bed. But their waters do not mingle, and at the mouth they divide again in the same proportion as when they came out of the separate sources. This view transfers the whole explanation to the source of wealth; it treats the problem of interest as a problem of production. It is the view of the Naïve Productivity theories.
+
+[2751] The second view is directly opposed to the first. It finds the division first and exclusively in the discharge. There is only one source, labour. Out of it pours the whole stream of wealth, one and undivided. Even the course of the stream is undivided; in the value of goods there is nothing to prepare the way for a division of them among different participants, for all value is measured simply by labour. It is just at the mouth, just where the stream of wealth is about to pour out, and should pour out into the income of the workers who produce it, that, from each side, the owners of land and the owners of capital thrust out a dam into the stream, and forcibly divert a part of the current into their own property. This is the view of the socialist Exploitation theory. It denies interest any previous history in the earlier stages of the career of wealth. It sees in it simply the result of an inorganic, accidental, and violent taking. It treats the problem as purely one of distribution or division in the most offensive sense of the word.
+
+[3802] The third view lies midway between the two. According to it there are two, perhaps even three springs in the source out of which flows the undivided stream of wealth. But in its course this stream comes under the influences that create value, and under these influences it immediately begins to branch asunder again. That is to say, in their calculation of use values (and of exchange values based on these) men put a value on the importance they attach to various goods and classes of goods, taking into consideration the amount and intensity of their needs on the one hand, and the quantity of means available to satisfy them on the other, and thus come to make division between goods and goods; they raise one kind and lower another. Thus emerge complicated differences of level, complicated tensions and attractions, under the influence of which the stream of goods is gradually forced asunder into three branches, of which each has its particular mouth. The one mouth discharges into the income of the owners of the land; the second into that of the workers; the third into that of the capitalists. But these three branches are neither identical with the two or three springs, nor do they even correspond with them in force. What decides the force of each branch at its mouth is not the strength of each spring at its source, but the amount which the formation of values has forced from the united stream into each of the three branches.
+
+[5246] This then is the view in which all the remaining theories of interest agree. They find the final division already suggested in the stage of the formation of values, and therefore they consider it their duty to carry back their theory into this sphere. They supplement and widen out the distribution problem of interest into a problem of value.
+
+[5591] Which of these three fundamental conceptions is the right one? To any moderate and candid observer the answer cannot remain doubtful.
+
+[5726] It certainly is not the first view. Not only is capital not an original source of wealth,—since it is at all times the fruit of nature and labour,—but, as we have sufficiently proved, there is no power whatever in a factor of production to turn out its physical products with a definite value attached to them. In the production of goods neither value in general, nor surplus value in particular, nor interest on capital comes ready-made into the world. The problem of interest is not a simple problem of production.
+
+[6244] But neither can the second conception be the correct one. The facts are against it. It is not for the first time in the distribution of goods, but before that, in the formation of value, that a foreign element intrudes itself by the side of labour. An oak tree a hundred years old, which during its long growth has only required the attention of a single day's labour, has a hundred times higher value than the chair which another day's labour has made out of a pair of boards. In this case the oak trunk, the product of one day's labour, does not at once become a hundred times more valuable than the chair which costs one day's labour. But day by day, year by year, the growing value of the oak diverges from the value of the chair. And as it is with the value of the oak, so is it with the value of all those products the production of which costs, not only labour, but time.
+
+[7124] Now it is the same quiet and stubborn working forces as, step by step, separated the value of the oak from that of the chair, that have at the same time produced interest on capital. These forces, effective long before goods come to division, have marked out the future limiting line between wage of labour and interest on capital. For labour can be paid on no other principle than "like wages for like work." But if the value of goods produced by similar labour becomes dissimilar through the action of these forces, the similar level of wages cannot everywhere be maintained and coincide with the dissimilar rise in the value of goods. It is only the value of goods not thus favoured that falls in level, and is appropriated by the general rate of wages which it determines. All goods that are favoured rise above this level in proportion as they have been favoured by the formation of value, and could not be appropriated by the general rate of wages. When then the final division comes, after all the workers have received like wages for like work, these favoured goods must of themselves leave something over which the capitalist can and may appropriate. They leave this something over, not because at the last moment the capitalist, by his sudden snatch at the spoil, artificially forces down the level of wages under the level of the value of goods, but because, long previously, the tendencies of the formation of value had raised the value of those goods which cost labour and time above the value of those other goods which cost only labour producing its result at once;—the value of which latter labour, as it must be sufficient to satisfy the labour of its production, forms at the same time the standard for the general rate of wages.
+
+[8873] So speak the facts. The conclusions which they force us to draw are clear. The problem of interest is a problem of distribution. But the distribution has a previous history, and must be explained by that previous history. The sums of wealth do not start away from each other on a sudden; the diverging lines which they follow were quietly and gradually cut out in previous stages of their career. Whoever wishes really to understand the distribution, and truly to explain it, must go back to the origin of the quiet but distinct grooving of these lines of division, and this will lead him to the sphere of value. This is where the principal work is to be done in the explanation of interest. Whoever treats the problem as a simple problem of production breaks off his explanation before he has come to the principal point. Whoever treats it as a problem of distribution, and distribution only, begins it after the principal point is passed. It is only the economist who undertakes to clear up those remarkable rises and falls of value, where the rises are surplus value, who can hope, in explaining them, to explain interest in a really scientific way. The interest problem in its last resort is a problem of value.
+
+[10090] If we keep this in view we shall easily find the order of merit into which these various groups of theories fall, and we shall ascertain where runs the upward line of the development.
+
+[10275] Two theories have entirely mistaken the character of the interest problem; together—the one forming the counterpart of the other—they constitute the lowest step in the development. These are the Naïve Productivity theory and the socialist Exploitation theory. It may seem strange to mention these two in the same breath. How widely the two diverge in the results at which they arrive! How much superior the adherents of the Exploitation theory consider their arguments to the naïve assumptions of the Productivity theorists! How proudly they proclaim their own advanced critical attitude! The association, however, is justified. First, the two theories agree in what they do not do. Neither of them touches on the distinctive problem. Neither of them wastes words in explaining those peculiar waves which are thrown up by the value of goods, and out of which surplus value comes. The Productivity theory contents itself with saying, in regard to these waves of value, that they have been produced. The Exploitation theory, almost more culpably, does not even notice them; for it they do not exist; for it, however the facts of the economical world may run contrary, the level of the value of goods agrees simply with the level of the labour expended on them.
+
+[11535] But not only negations, but positive ideas bind these two theories more closely together than could well be believed. They are in truth fruit of one and the same bough; children of one and the same naïve assumption that value grows out of production like the blade out of the field.
+
+[11819] This assumption has an important history of its own in economic literature. In constantly changing shapes it has, for a hundred and thirty years, ruled our science, and by forcing the explanation of the fundamental phenomenon in a wrong direction has hindered its progress. First it appears in the physiocrat doctrine that land creates all surplus of value by its own fruitfulness. Adam Smith took the strength away from the assumption. Ricardo entirely uprooted it. But, before the first phenomenal form of it had quite disappeared, Say introduced it for a second time into the science in a new and extended form. Instead of the one productive power of the physiocrats appear three productive powers, which produce values and surplus values exactly in the same way as formerly the physiocrats had produced the produit net. Under this form the assumption held the science under its ban for ten long decades. At length the spell was broken, for the most part through the passionate but praiseworthy criticism of the socialist theorists. But still its tough vitality asserted itself. Giving up the form, not the substance, it managed to save itself under a new disguise, and by a strange freak of fortune found its new home in the writings of those who had most bitterly opposed it, the Socialists. The value-creating powers were gone; the value-creating power of labour remained, and with it the old fatal weakness that, instead of the subtle syntheses of the formation of value which should be the work and the pride of our science to unravel, there was nothing left but a stout assumption, or, so far as an assumption would not pass, a still more stout denial.
+
+[13482] Thus the naïve theory of the Productivity of capital and the emancipated theory of the socialists are twin systems. So far as the latter aspires to be a critical theory, well and good; it is really so; but it is also obviously a naïve doctrine. It criticises one naïve extreme only to fall into an opposite extreme that is no less naïve. It is nothing else than the long-delayed counterpart of the Naïve Productivity theory.
+
+[13908] In comparison with it the remaining theories of interest may take credit to themselves for standing a step higher. They seek for the solution of the interest problem on the ground where the solution is really to be found, the ground of value. The respective merits of these theories, however, are different.
+
+[14217] Those which seek to explain interest by the external machinery of the theory of costs have to carry a heavy handicap in the assumption that value grows out of production. Their explanation always leaves something over to explain. Just as certain as is the fact that the fundamental forces which set in motion all economical efforts of men are their interests, egoistic or altruistic, so certain is it that no explanation of the economical phenomena can be satisfactory where the threads of explanation do not reach back unbroken to these fundamental and undoubted forces. This is why the cost theories fail. In thinking that they find the principle of value,—of that guide and universal intermediate motive of human economical affairs,—not in a relation to human welfare, but in a dry fact of the external history of the manufacture of goods, in the technical conditions of their production, they follow the thread of explanation into a cul-de-sac, from which it is impossible to find a way to the psychological interest-motive to which every satisfactory explanation must go back. This condemnation applies to the majority of the interest theories we have been considering, however different the individual theories may have been.
+
+[15450] Lastly, one step higher in rank stand those theories which have quite cut themselves adrift from the old superstition that the value of goods comes from their past instead of from their future. These theories know what they wish to explain, and in what direction the explanation is to be sought. If they have, notwithstanding, not discovered the entire truth, it is rather the result of accident; while their predecessors, cut off from the right way of its seeking by a wall of assumption, sought it in a wrong direction, and so sought it in vain. The higher step of the development is indicated in certain individual formulations of the Abstinence theory, but principally in the later Use theories; and here it is the theory of Menger which, to my mind, appears the highest point of the development up till now. And that not because his positive solution is the most complete, but because his statement of the problem is the most complete—two things, of which, as is often the case, the second may perhaps be more important and more difficult than the first.
+
+[16511] On the foundation thus laid I shall try to find for the vexed problem a solution which invents nothing and assumes nothing, but simply and truly attempts to deduce the phenomena of the formation of interest from the simplest natural and psychological principles of our science.
+
+[16790] I may just mention the element which seems to me to involve the whole truth. It is the influence of Time on human valuation of goods. To expand this proposition must be the task of the second and positive part of my work.
+
+[17013] This consideration of itself suggests the indefiniteness of what is usually called Undertaker's Profit. In the Limited Liability Company this "wage of intellect" is measured and paid, but the varying dividend shows that it by no means exhausts this "profit." The solution probably is that the attempt to assess undertaker's wage on any principle is hopeless in present circumstances. It is a "glorious risk," depending, among other things, on adroitness, foresight, opportunity, and exploitation of labour—four factors scarcely reducible to figures. But with this line of thought, interesting and important as it is, we have nothing to do here.
+
+[17659] See the striking passage on pp. 134, 135. [Book II, Chapter II. pars. II.II.50-56.—Econlib Ed.]
+
+[17756] [Book III, Chapter IX. pars. III.IX.10-16.—Econlib Ed.]
+
+[17813] Quarterly Journal of Economics, April 1889.
+
+[17858] Many German economists use the word Kapitalrente as well as Kapitalzins. Sanders defines Rente as "Einkünfte die man als Nutzung voll Grundstücken, Kapitalien, and Rechten bezieht." So Littré gives Rente as "Revenu annuel." The word occurs in Chaucer as equivalent of income:—
+
+[18136] "For catel (chattels) hadden they ynough and rent."—Canterbury Tales, Prologue, l. 375. In English we still retain the word Rent instead of interest in a few cases outside of its special application to land.—W. S.
+
+[18351] Thus Hermann in his Staatswirthschaftliche Untersuchungen, p. 211, defines capital as "Vermögen, das seine Nutzung, wie ein immer neues Gut, fortdauernd dem Bedürfniss darbietet, ohne an seinem Tauschwerth abzunehmen."
+
+[18571] A promise now fulfilled by the publication of the Positive Theorie des Kapitales, Innsbruck, 1889.—W. S.
+
+[18677] Kapitalzins. The word "Interest" in English does not require any addition.—W. S.
+
+[18759] "Es heisst Mieth-oder Pachtzins, wenn das überlassene Kapital aus dauerbaren Gütern bestand. Es heisst Zinsen oder Interessen, wenn das Kapital aus verbrauchlichen oder vertretbaren Gütern bestand." I have translated the passage to suit our English usage of the words. The adjective "vertretbar" (for which the legal "fungible" is the only equivalent) indicates that the thing lent is not itself given back, but another of the same kind. Grain and money are the typical fungibles.—W. S.
+
+[19247] I think it advisable to translate Unternehmer and Unternehmung throughout by Undertaker and Undertaking. Rowland Hill, when he adapted Greensleaves to a psalm, said he did not see why the devil should have all the good tunes. Neither, in my opinion, should our science any longer deny itself these useful words, introduced by Adam Smith himself, simply because they are usually confined with us to one special branch of industry.—W. S.
+
+[19684] On the whole question see Pierstorff, Die Lehre vom Unternehmergewinn Berlin, 1875.
+
+[19769] Of course only so far as it is net interest.
+
+[19815] From the abundant literature that treats of interest and usury in ancient times, may be specially mentioned the following:—
+
+[19940] Böhmer, Jus Ecclesiasticum Protestantium, Halle, 1736, vol. v. tit. 19.
+
+[20013] Rizy, Ueber Zinstaxen and Wuchergesetze, Vienna, 1859.
+
+[20069] Wiskemann, Darstellung der in Deutschland zur Zeit der Reformation herrschenden national-ökonomischen Ansichten (Prize Essays of the Fürstliche Jablonowski'sche Gesellschaft, vol. x. Leipzig, 1861).
+
+[20269] Laspeyres, Geschichte der volkwirthschaftlichen Ansichten der Niederländer (vol. xi. of same Prize Essays, Leipzig, 1863).
+
+[20393] Neumann, Geschichte des Wuchers in Deutschland, Halle, 1865.
+
+[20455] Funk, Zins und Wucher, Tübingen, 1868.
+
+[20495] Knies, Der Kredit, part i., Berlin, 1876, p. 328, etc.
+
+[20551] Above all, the works of Endemann on the canon doctrine of economics, Die national-ökonomischen Grundsätze der kanonistischen Lehre, Jena, 1863, and his Studien in der romanisch-kanonistischen Wirthschafts-und Rechtslehre, vol. i. Berlin, 1874;vol. ii. 1883.
+
+[20810] E.g. the prohibition of interest by the Mosaic Code, which, however, only forbade lending at interest between Jews, not lending by Jews to strangers, Exodus xxii. 25;Leviticus xxv. 35-37;Deuteronomy xxiii. 19, 20. In Rome, after the Twelve Tables had permitted an Undarum Foenus, the taking of interest between Roman citizens was entirely forbidden by the Lex Genucia, B.C. 322. Later, by the Lex Sempronia and the Lex Gabinia, the prohibition was extended to Socii and to those doing business with provincials. See also Knies, Der Kredit, part i. p. 328, etc., and the writers quoted there.
+
+[21403] I may append some of the passages oftenest referred to. Plato in the Laws, p. 742, says: "No one shall deposit money with another whom he does not trust as a friend, nor shall he lend money upon interest." Aristotle, Nichomachean Ethics, iv. 1: "Such are all they who ply illiberal trades; as those, for instance, who keep houses of ill-fame, and all persons of that class; and usurers who lend out small sums at exorbitant rates: for all these take from improper sources, and take more than they ought." Cicero, De Officiis, ii. at end: "Ex quo genere comparationis illud est Catonis senis:a quo cum quaereretur, quid maxime in re familiari expediret, respondit, bene pascere. Quid secundum?Satis bene pascere. Quid tertium?Male pascere. Quid quantum?Arare.... Et, cum ille, qui quaesierat, dixisset, quid foenerari?Tum Cato, quid hominem, inquit, occidere?"Cato, De Re Rustica:"Majores nostri sic habuerunt et ita in legibus posuerunt, furem dupli condemnare, foeneratorem quadrupli. Quanto pejorem civem existimarunt foeneratorem quam furem, hinc licet existimari." Plautus, Mostellaria, Act iii. scene 1:"Videturne obsecro hercle idoneus, Danista qui sit? genus quod improbissimum est.... Nullum edepol hodie genus est hominum tetrius, nec minus bono cum jure quam Danisticum." Seneca, De Beneficiis, vii. 10:"Quid enim ista sunt, quid foenus et calendarium et usura, nisi humanae cupiditatis extra naturam quaesita nomina?... quid sunt istae tabellae, quid computationes, et venale tempus et sanguinolentae centesimae?voluntaria mala ex constitutione nostra pendentia, in quibus nihil est, quod subici oculis, quod teneri manu possit, inanis avaritiae somnia."
+
+[23070] See also Knies, Der Kredit, i. p. 330, etc.
+
+[23115] Luke vi. 35. On the true sense of this passage see Knies as before, p. 333, etc.
+
+[23197] On the spread of the prohibition of interest see Endemann, National-ökonomische Grundsätze, p. 8, etc.; Studien in der romanisch-kanonistischen Wirthschafts-und Rechtslehre, p. 10, etc.
+
+[23384] See below.
+
+[23396] See Endemann, Studien, pp. 11-13, 15, etc.
+
+[23440] To give the reader some idea of the tone which the fathers of the Church adopted in dealing with the subject I append some of their most quoted passages. Lactantius, book vi. Divin. Inst. chap. xviii. says of a just man: "Pecuniae, si quam crediderit, non accipiet usuram:ut et beneficium sit incolume quod succurat necessitati, et abstineat se prorsus alieno in hoc enim genere officii debet suo esse contentus, quam oporteat alias ne proprio quidem parcere, ut bonum faciat. Plus autem accipere, quam dederit, injustum est. Quod qui facit, insidiatur quodam modo, ut ex alterius necessitate praedetur." Ambrosius, De Bono Mortis, chap. xii.:"Si quis usuram acciperit, rapinam facit, vita non vivit." The same De Tobia, chap. iii.:"Talia sunt vestra, divites!beneficia. Minus datis, et plus exigitis. Talis humanitas, ut spolietis etiam dum subvenitis. Foecundus vobis etiam pauper est ad quaestum. Usurarius est egenus, cogentibus nobis, habet quod reddat:quod impendat non habet." So also chap. xiv.:"Ideo audiant quid leg dicat:Neque usuram, inquit, escarum accipies, neque omnium rerum." Chrysostom on Matthew xvii. Homily 56: "Noli mihi dicere, quaeso, quid gaudet et gratiam habet, quod sibi foenore pecuniam colloces: id enim crudelitate tua coactus fecit." Augustine on Psalm cxxviii.:"Audent etiam foeneratores dicere, non habeo aliud unde vivam. Hoc mihi et latro diceret, deprehensus in fauce: hoc et effractor diceret... et leno... et maleficus." The same (quoted in the Decret. Grat. chap. i. Causa xiv. quaest. 3): "Si plus quam dedisti expectas accipere foeneratores, et in hoc improbandus, non laudandus."
+
+[25064] Molinaeus, in a work that appeared in 1546, mentions a writer who had shortly before collected no less than twenty-five arguments against interest (Tract. Contract. No. 528).
+
+[25240] See Endemann, Grundsätze, pp. 12, 18.
+
+[25279] Commentaria perpetua in singulos textus quinque librorum Decretalium Gregorii IX. v. chap. iii.;De Usuris, v. chap. xix. No. 7.
+
+[25408] Variorum Resolutionum, iii. chap. i. No. 5.
+
+[25453] Summa totius Theologiae, ii. chap. ii. quaest. 78, art. 1. Similarly Covarruvias: "Accipere lucrum aliqod pro usu ipsius rei, et demum rem ipsam, iniquum est et prava commutatio, cum id quod non est pretio vendatur... aut enim creditor capit lucrum istud pro sorte, ergo bis capit ejus aestimationem, vel capit injustum sortis valorem. Si pro usu rei, is non potent seorsum a sorte aestimari, et sic bis sors ipsa venditur."
+
+[25879] Lib. i. Nov. Declar. Jus. Civ. chap. xiv. quoted in Böhmer's Jus Eccles. Prot. Halle, 1736, p. 340.
+
+[25980] Thomas Aquinas, De Usuris, i. chap. iv.
+
+[26021] Secundo (usura est prohibita) ex fame, nam laborantes rustici praedia colentes libentius ponerent pecuniam ad usuras, quam in laboratione, cum sit tutius lucrum, et sic non curarent homines seminare seu metere." See Endemann, National-ökonomische Grundsätze, p. 20.
+
+[26288] Endemann, Studien, i. p. 361.
+
+[26319] De Usuris, ii. chap. iv. qu. 1.
+
+[26352] Clem. c. un. de Usuris, 5. 5.
+
+[26383] See Endemann, Grundsätze, pp. 9, 21.
+
+[26421] The opinion very commonly held that the Jews were generally exempted from the Church's prohibition of interest is pronounced erroneous by the late and very complete work of Endemann (Studien, ii. p. 383, etc.)
+
+[26632] Endemann, Studien, ii. pp. 243, 366.
+
+[26670] Wiskemann, Darstellung der in Deutschland zur Zeit der Reformation herrschenden national-ökonomischen Ansichten (Prize Essays of the Jablonowski'sche Society, vol. x. p. 71).
+
+[26846] Wiskemann, p. 54. Neumann, Geschichte des Wuchers, p. 480, etc.
+
+[26911] Wiskemann, p. 65.
+
+[26930] Ep. 383, in the collection of his letters and answers, Hanover, 1597.
+
+[27001] "Ac primum nullo testimonio Scripturae mihi constat usuras omnino damnatas esse. Illa enim Christi sententia quae maxime obvia et aperta haberi solet: Mutuum dato nihil inde sperantes, male huc deterta est.... Lex vero Mosis politica cum sit, non tenemur illa ultra quam aequitas ferat atque humanitas. Nostra conjunctio hodie per omnia non respondet...."
+
+[27358] Previous to this, in the same year, was published the Extricatio Labyrinthi de eo quod Interest, in which the question of interesse was freely handled, but no definite side taken on the interest question.—See Endemann, Studien, i. p. 63.
+
+[27597] Tractatus, No. 10.
+
+[27617] "Ea taxatio" (the fixing of a maximum rate which was attached to the principle of the permission of interest in Justinian's Code) "nunquam in se fuit iniqua. Sed ut tempore suo summa et absoluta, ita processu temporis propter abusum hominum nimis in quibusdam dissoluta et vaga inventa est, et omnino super foenore negociativo forma juris civilis incommoda et perniciosa debitoribus apparuit. Unde merito abrogata fuit, et alia tutior et commodior forma inventa, videlicet per abalienationem sortis, servata debitori libera facultate luendi. Et haec forma nova, ut mitior et civilior, ita minus habet de ratione foenoris, propter alienationem sortis, quam forma juris civilis. Est tamen foenus large sumptum, et vera species negociationis foenoratoriae...." (No. 536)
+
+[28386] Endemann, Studien, i. p. 64, etc. Endemann, however, underrates the influence that Molinaeus had on the later development. See below.
+
+[28521] In his notes on Aristotle's Politics; see Roscher, Geschichte der National-Oekonomik in Deutschland, p. 54.
+
+[28630] Roscher, Ibid. p. 188.
+
+[28654] Besold resumed the discussion later, in an enlarged and improved form, as he says, in another work, Vitae et Mortis Consideratio Politica (1623), in which it occupies the fifth chapter of the first book. I had only this latter work at my disposal, and the quotations in the text are taken from it.
+
+[28953] There is a long quotation even in the first chapter of the first book (p. 6). In the fifth chapter the quotations are numerous.
+
+[29082] I think Roscher (Geschichte der National-Oekonomik, p. 201) does Besold too much honour when, in comparing him with Salmasius and Hugo Grotius, he gives him the honourable position of a forerunner on whom Salmasius has scarcely improved, and to whom Grotius is even inferior. Instead of Besold, who drew at second hand, Roscher should have named Molinaeus. Besold is not more original than Salmasius, and certainly less adroit and ingenious.
+
+[29525] Sermones Fideles, cap. xxxix. (1597)
+
+[29563] See Grotius, De Jure Pacis ac Belli, book ii. chap. xii. p. 22.
+
+[29628] De Jure Pacis ac Belli, book ii. cap. xii. pp. 20, 21.
+
+[29684] Thus it is not possible to regard Grotius as a pioneer of the new theory. This view, held among others by Neumann, Geschichte des Wuchers in Deutschland, p. 499, and by Laspeyres, Geschichte, pp. 10 and 257, is anthoritatively corrected by Endemann, Studien, I. p. 66, etc.
+
+[29959] The list of writing in which our extremely prolific author expatiates on the subject of interest is by no means exhausted by the works mentioned in the text. There is, e.g. a Disquisitio de Mutuo, qua probatur non esse alienationem, of the year 1645, whose author signs with the initials S. D. B., a signature which points, as does the whole style of writing, to Salmasius (Dijonicus Burgundus). There is besides in the same year an anonymous writing, also undoubtedly traceable to Salmasius, Confutatio Diatribae de Mutuo tribus disputationibus ventilatae, auctore et preside Jo. Jacobo Vissembachio, etc. Those named in the text, however, were the first to break ground.
+
+[30633] "Quae res facit ex commodato locatum, eadem praestat, ut pro mutuo sit foenus, nempe merces. Qui eam in commodato probant, cur in mutuo improbent, nescio, nec ullam hujus diversitatis rationem video. Locatio aedium, vestis animalis, servi, agri, operae, operis, licita erit; non erit foeneratio quae proprie locatio est pecuniae, tritici, hordei, vini, et aliarum hujusmodi specierum frugumque tam arentium quam humidarum?"
+
+[31058] To prove the relation in which Salmasius stands to Molinaeus, it may not be superfluous, considering the explicit statement of Endemann (Studien, i. p. 65) that Salmasius does not quote Molinaeus, to establish the fact that such quotations do exist in considerable number. The list of authors appended to the works of Salmasius shows three quotations from Molinaeus for the book De Usuris, twelve for the De Modo Usurarum, and one for the De Foenore Trapezitico. These quotations are principally taken from Molinaeus's chief work on the subject, the Contractus Contractuum et Usurarum. One of them (De Usuris, p. 21) refers directly to a passage which stands in the middle of the most pertinent of his writings (Tractatus, No. 529. Nos. 528, etc., contain the statement and refutation of the arguments of the ancient philosophy and of the canonists against interest). There can, therefore, be no doubt that Salmasius accurately knew the writings of Molinaeus, and it is just as much beyond doubt—as indeed his substantial agreement would lead us to suspect—that he has drawn from them. In the Confutatio Diatribae mentioned above (p. 36) it is said in one place (p. 290) that Salmasius at the time when, under the pseudonym of Alexis a Massalia, he wrote the Diatriba de Mutuo, was not acquainted with the similar writings of Molinaeus in his Tractatus de Usuris. But this expression must only relate to his ignorance of those quite special passages in which Molinaeus denies the nature of the loan as an alienation, or else, if what I have said be true, it is simple incorrect. [Note from Econlib Editor: Original reads "simple incorrect," not "simply incorrect."]
+
+[32725] Salmasius begins with the argument of the improper double claim for one commodity. His opponents had contended that whatever was taken over and above the principal sum lent could only be taken either for the use of a thing which was already consumed—that is for nothing at all—or for the principal sum itself, in which case the same thing was sold twice. To this replies Salmasius: "Quae ridicula sunt, et nullo negotio difflari possunt. Non enim pro sorte usura exigitur, sed pro usu sortis. Usus autem ille non est nihilum, nec pro nihilo datur. Quod haberet rationem, si alicui pecunism mutuam darem, ea lege ut statim in flumen eam projiceret aut alio modo perderet sibi non profuturam. Sed qui pecuniam ab alio mutuam desiderat, ad necessarios sibi usus illam expetit. Aut enim aedes inde comparat, quas ipse habitet, ne in conducto diutius maneat, vel quas alii cum fructu et compendio locet: aut fundum ex ea pecunia emit salubri pretio, unde fructus et reditus magnos percipiat: aut servum, ex cujus operis locatis multum quaestus faciat: aut ut denique alias merces praestinet, quas vili emptas pluris vendat" (p. 195).
+
+[33855] And after showing that one who lends money to an undertaking is not under any obligation to inquire whether it is usefully employed by the borrower, any more than the hirer of a house need make similar inquiry, he continues: "Hoc non est sortem bis vendere, nec pro nihilo aliquid percipere. An pro nihilo computandum, quod tu dum meis nummis uteris, sive ad ea quae tuae postulant necessitates, sive ad tua compendia, ego interim his careo cum meo interdum damno et jactura? Et cum mutuum non in sola sit pecunia numerata, sed etiam in aliis rebus quae pendere et mensura continentur, ut in frugibus humidis vel aridis, an, qui indigenti mutuum vinum aut triticum dederit, quod usurae nomine pro usu eorum censequetur, pro nihilo id capere existimabitur? Qui fruges meas in egestate sua consumpserit, quas care emere ad victum coactus esset, aut qui eas aliis care vendiderit, praeter ipsam mensuram quam accepit, si aliquid vice mercedis propter usum admensus fuerit, an id injustum habebitur? Atqui poteram, si eas servassem, carius fortasse in foro vendere, et plus lucri ex illis venditis efficere, quam quantum possim percipere ex usuris quas mihi reddent" (p. 196, etc.) Particularly biting is his reply to the argument of the unfruitfulness of money: "Facilis responsio. Nihil non sterile est, quod tibi sterile esse volueris. Ut contra nihil non fructuosum, quod cultura exercere, ut fructum ferat, institueris. Nec de agrorum fertilitate regeram, qui non essent feraces nisi humana industria redderet tales.... Magis mirum de aëre, et hunc quaestuosum imperio factum. Qui
+
+[35438] imposuerunt vectigal singulis domibus Constantinopolitani imperatores, aërem sterilem esse pati non potuerunt. Sed haec minus cum foenore conveniunt. Nec mare hic sollicitandum, quod piscatoribus, urinatoribus, ac nautis ad quaestum patet, ceteris sterilitate occlusum est. Quid sterilius aegroto? Nec ferre se, nec movere interdum potest. Hunc tamen in redditu habet medicus. Una res est aegroto sterilior, nempe mortuus.... Hic tamen sterilis non est pollinctoribus, neque sardapilonibus, neque vespillonibus, neque fossariis. Immo nec praeficis olim, nec nunc sacerdotibus, qui eum ad sepulcrum cantando deducunt. Quae corpus alit corpore, etiamsi liberos non pariat, non tamen sibi infecunda est. Nec artem hic cogites; natura potius victum quaerit. Meretricem me dicere nemo non sentit.... De pecunia quod ajunt, nihil ex se producere natura, cur non idem de ceteris rebus, et frugibus omne genus, quae mutuo dantur, asserunt? Sed triticum duplici modo frugiferum est, et cum in terram jacitur, et cum in foenus locatur. Utrobique foenus est. Nam et terra id reddit cum foenore. Cur natura aedium, quas mercede pacta locavero, magis potest videri foecunda, quam nummorum quos foenore dedero? Si gratis eas commodavero, aeque ac si hos gratis mutuo dedero, tum steriles tam hi quam illae mihi evadent. Vis scire igitur, quae pecunia proprie sterilis sit dicenda, immo et dicta sit? Illa certe, quae foenore non erit occupata, quaeque nihil mihi pariet usuraram, quas et propterea Graeci
+
+[36930] nomine appellarunt" (p. 198). The third argument of his opponents, that the loan should not bear interest because the things lent are a property of the debtor, Salmasius finds "ridiculous": "At injustum est, ajunt, me tibi vendere quod tuum est, videlicet usum aeris tuae. Potens sane argumentum. Atqui non fit tuum, nisi hac lege, ut pro eo, quod accepisti utendum, certam mihi praestes mercedem, usurae nomine, absque qua frustra tuum id esse cuperes. Non igitur tibi, quod tuum est, vendo, sed, quod meum est, ea conditione ad te transfero, ut pro usu ejus, quamdiu te uti patiar, mihi, quod pactum inter nos est, persolvas."
+
+[37560] Laspeyres, p. 257.
+
+[37580] Very fully described by Laspeyres, p. 258, etc.
+
+[37629] Noodt is very much quoted as an authority in the learned literature of the eighteenth century; e.g. by Böhmer, Protest. Kirchenrecht, vol. v. p. 19 passim. Barbeyrac, the editor of several editions of Hugo Grotius, says that, on the matter of interest, there is an "opus absolutissimum et plenissimum summi jurisconsulti et non minus judicio quam eruditione insinis, Clariss. Noodtii" (De Jure Belli ac Pacis: edition of Amsterdam, 1720, p. 384).
+
+[38077] Laspeyres, p. 269.
+
+[38097] Neumann, Geschichte des Wuchers in Deutschland, p. 546, mentions permissions by local law of contract interest about the years 1520-30. Endemann, it is true (Studien, ii. pp. 316 and 365, etc.) would interpret these permissions as applying only to stipulated interesse, which, theoretically at least, was different from interest proper (usura). In any case the taking of interest had thus practically received toleration from the state.
+
+[38535] In the last Reichsabschied. On the disputed interpretation of the passages referred to, see Neumann, p. 559, etc.
+
+[38650] Roscher, Geschichte, p. 205.
+
+[38680] Ibid. p. 312, etc.
+
+[38700] Ibid. p. 338, etc.
+
+[38720] Second edition, 1758.
+
+[38743] Second edition, Vienna, 1771.
+
+[38774] Ibid. pp. 419, 425, etc.
+
+[38800] Ibid. p. 427.
+
+[38815] Ibid. p. 430.
+
+[38830] Ibid. p. 426, etc.
+
+[38850] Ibid. p. 432, etc.
+
+[38870] Fifth edition, p. 497.
+
+[38894] See Schanz, Englische Handelspolitik, Leipzig, 1881, vol. i. p. 552, etc.
+
+[38969] See above, p. 34. [Book I, Chapter II. pars. I.II.31.—Econlib Ed.]
+
+[39037] Tract against the high rate of usury, 1621.
+
+[39082] E.g. in "A Small Treatise against Usury," annexed to Child's Discourses, 1690, p. 229: "It is agreed by all the Divines that ever were, without exception of any; yea, and by the Usurers themselves, that biting Usury is unlawful: Now since it hath been proved that ten in the hundred doth bite the Landed men, doth bite the Poor, doth bite Trade, doth bite the King in his Customs, doth bite the Fruits of the Land, and most of all the Land itself: doth bite all works of Piety, of Vertue, and Glory to the State; no man can deny but ten in the hundred is absolutely unlawful, howsoever happily a lesser rate may be otherwise."
+
+[39710] In his introduction to Brief Observations concerning Trade, 1668.
+
+[39777] "New Discourse of Trade," 1690. See Roscher, p. 59, etc.
+
+[39835] Roscher, p. 89.
+
+[39852] I quote from the collected edition of Locke's works, London, 1777, vol. ii. p. 24. "Some Considerations," p. 36.
+
+[39966] In other places (e.g. p. 4) Locke calls interest a price for the "hire of money."
+
+[40049] Of Civil Government, vol. ii. chap. v. 40. See also Roscher, p. 95, etc.
+
+[40123] Inquiry into the Principles of Political Economy, 1767, vol ii. book iv. part i. chap. viii. p. 137.
+
+[40225] Inquiry into the Principles of Political Economy, 1767, vol. ii. book iv. part i. chap. iv. p. 117.
+
+[40326] "Of Interest," Essays, part. ii. chap. iv.[See Hume, Of Interest, par. II.IV.14.—Econlib Ed.]
+
+[40421] Ibid. passim.
+
+[40436] See the historical works of Vasco, L'Usura Libera (Scrittori Classici Italiani Parte Moderna, vol. xxxiv. p. 182, etc.; particularly pp. 195, 198, etc., 210, etc.)
+
+[40601] Galiani, Della Moneta (Scritt. Class. Ital. Parte Moderna, vol. iv. p. 240, etc.)
+
+[40684] Impiego del Danaro. Unfortunately I have not seen the book.
+
+[40745] Della Moneta, book v. chap. i.
+
+[40777] Lezioni di Economia Civile, 1769 (Scritt. Class. Ital. Parte Moderna, vol. ix. part ii. chap. xiii.)
+
+[40879] Elementi di Economia Pubblica, written 1769-71; first printed, l804, in the Section of the Scrittori, vols. xi. and xii., particularly part iv. chaps. vi. and vii.
+
+[41044] L'Usura Libera, vol. xxxiv. of above collection.
+
+[41094] Vasco, p. 209.
+
+[41110] De Republica, second edition, 1591, v. ii. p. 799, etc.
+
+[41167] E.g. IIde. Mémoire sur les Banques; Economistes Financiers du xviii. Siècle, Edition Daire, Paris, 1851, p. 571.
+
+[41281] Essai Politique sur le Commerce, ebenda p. 742.
+
+[41330] Esprit des Lois, xxii.
+
+[41354] The passage has been quoted by Rizy; by Turgot, Mémoire sur les Prêts d'Argent, 26; and also by Knies, Kredit, part i. p. 347. It runs thus: "It is a fair claim that the values given in the case of a contract which is not gratuitous should be equal on either side, and that no party should give more than he has received, or receive more than he has given. Everything, therefore, that the lender may demand from the borrower over and above the principal sum, he demands over and above what he has given; for, if he get repayment of the principal sum, he receives the exact equivalent of what he gave. For things that can be used without being destroyed a hire may certainly be demanded, because, this use being separable at any moment (in thought at least) from the things themselves, it can be priced; it has a price distinct from the thing. So that, if I have given a thing of this sort to any one for his use, I am able to demand the hire, which is the price of the use that I have allowed him in it beyond the restitution of the thing itself, the thing having never ceased to be my property.
+
+[42451] "It is not the same, however, with those objects that are known to lawyers as fungible goods—things that are consumed in the using. For since, in the using, these are necessarily destroyed, it is impossible in regard to them to imagine a use of the thing as distinct from the thing itself, and as having a price distinct from the thing itself. From this it follows that one cannot make over to another the using of a thing without making over to him wholly and entirely the thing itself, and transferring to him the property in it. If I lend you a sum of money for your use under the condition of paying me back as much again, then you receive from me simply that sum of money, and nothing more. The use that you will make of this sum of money is included in the right of property that you acquire in this sum. There is nothing that you have received outside of the sum of money. I have given you this sum, and nothing but this sum. I can therefore ask you to give me back nothing more than this amount lent, without being unjust; for justice would have it that only that should be claimed which was given."
+
+[43560] Amsterdam, 1764.
+
+[43578] P. 269, etc.
+
+[43592] Pp. 257-262.
+
+[43606] P. 267.
+
+[43615] P. 284.
+
+[43624] See particularly pp. 276, 290, 292, 298, etc.
+
+[43671] Written in 1769; published twenty years later, 1789. I quote from the collected edition of Turgot's work, Daire, Paris, 1844, vol. i. pp. 106-152.
+
+[43819] Funk, Zins und Wucher, Tübingen, 1868, p. 116. On the reception that this liberal decision of Rome, 18th August 1830, met from a portion of the French clergy, see Molinari, Cours d'Economie Politique, second edition, vol. i. p. 333.
+
+[44053] Wealth of Nations, book ii. chap. iv.
+
+[44092] E.g. Sonnenfels, Handlung, fifth edition, pp. 488, 497; Steuart, book iv. part i. p. 24; Hume, as above, p. 60. See above, pp. 42, 47. [Book I, Chapter II. pars. I.II.47-49, I.II.64-66.—Econlib Ed.]
+
+[44292] Some historians of theory, who are at the same time adherents of the Productivity theory (which we have to examine later), such as Roscher, Funk, and Endemann, are fond of ascribing to the writers of this period "presentiments" of the "productivity of capital," even "insight" into it; and of claiming them as forerunners of that theory. I think this is a misunderstanding. These writers do speak of the "fruitfulness" of money, and of all sorts of other things, but this expression with them serves rather to name the fact that certain things bring forth a profit than to explain it. They simply call everything "fruitful" that yields a profit or a "fruit," and it does not occur to them to give any formal theoretical explanation of the origin of these profits. This is very plain from the writings of Salmasius on the subject. When Salmasius calls air, disease, death, prostitution, "fruitful" (see note to p. 39 above), it is evidently only a strong way of putting the fact that the state which lays taxes on the air, the physician, the gravedigger, the prostitute, all draw a profit from the things just named. But it is just as evident that Salmasius did not in the least seriously think of deriving the sexton's fee from a productive power that resides in death. And the fruitfulness of money, which Salmasius wished to illustrate by comparing it with these, is not to be taken any more seriously.
+
+[45698] "Les intérêts des avances de l'établissement des cultivateurs doivent donc être compris dans leur reprises annuelles. Ils servent à faire face à ces grands accidents et à l'entretien journalier des richesses d'exploitation, qui demandent à être réparés sans cesse" (Analyse du Tableau Economique, Edition Daire, p. 62). See also the more detailed statement that precedes the passage quoted.
+
+[46090] L'Ordre Naturel, Edition Daire, p. 459.
+
+[46131] On his attitude towards loan interest see above, p. 53. As regards natural interest, he approves of interest as regards capital invested in agriculture (Philosophie Rurale, p. 83, and then p. 295) without going any deeper in explanation; but he speaks of what is gained in commerce and industry in hesitating terms, looking on it rather as a fruit of activity, de la profession, than of capital (p. 278).
+
+[46537] First published in 1776. I quote from Daire's collected edition of Turgot's works, Paris, 1844, vol. i.
+
+[46642] The outward want of form in Turgot's explanation of interest has led a usually exact investigator of his works to maintain that Turgot does not explain interest (Sivers, Turgots Stellung, etc., Hildebrand's Jahrbücher, vol. xxii. pp. 175, 183, etc.) This is a mistake. It is, however true, as we shall see, that his explanation does not go particularly deep.
+
+[47002] See the chapter on Henry George's Later Fructification theory.
+
+[47066] Usually the rent of land is somewhat less than interest on the price paid. But this circumstance, fully explained by Turgot (Réflexions, 84), has no influence at all on the principle, and may here be simply neglected.
+
+[47285] "If four bushels of wheat, the net product of an arpent of land, be worth six sheep, the arpent which produced them might have been given for a certain value—a greater value of course, but always easy to determine in the same manner as the price of all other commodities, i.e. first by discussion between the two contracting parties, and afterwards by the price current established by the competition of those who wish to exchange lands against cattle, and of those who wish to give cattle to get lands ( 57). It is evident, again, that this price, or this number of years' purchase, ought to vary according as there are more or less people who wish to sell or buy land, just as the price of all other commodities varies by reason of the different proportion between supply and demand" ( 58).
+
+[48079] "In exchanging the complete manufacture either for money, for labour, or for other goods, over and above what may be sufficient to pay the price of the materials and the wages of the workmen, something must be given for the profits of the undertaker of the work, who hazards his stock in the adventure.... He could have no interest to employ them unless he expected from the sale of their work something more than what was sufficient to replace his stock to him; and he could have no interest to employ a great stock rather than a small one unless his profits were to bear some proportion to the extent of his stock" (M'Culloch's edition of 1863, p. 22). The second passage runs: "And who would have no interest to employ him unless he was to share in the produce of his labour, or unless his stock was to be replaced to him with a profit" (p. 30).
+
+[48929] See also Pierstorff, Lehre vom Unternehmergewinn, Berlin, 1875, p. 6; and Platter, "Der Kapitalgewinn bei Adam Smith" (Hildebrand's Jahrbücher, vol. xxv. p. 317, etc.)
+
+[49098] Book ii. chap. i. p. 123, in M'Culloch's edition.
+
+[49149] When Platter in the essay above mentioned (p. 71) comes to the conclusion that, "if Smith's system be taken strictly, profit on capital appears unjustifiable," it could only be by laying all the weight on the one half of Smith's expressions, and leaving the other out of account as contradictory to his other principles.
+
+[49471] Book ii. chap. iii.
+
+[49492] Book i. chap. vi. The sentence was written primarily about landowners, but in the whole chapter interest on capital and rent of land are treated as parallel as against wages of labour.
+
+[49678] Handbuch der Staatswirthschaft, Berlin, 1796, particularly 8 and 23. Even his later Abhandlungen die Elemente des Nationalreichthums und die Staatswirthschaft betreffend (Göttingen, 1806) does not take an independent view of our subject.
+
+[49917] Ueber Nationalindustrie und Staatswirthschaft, 1800-1804 particularly pp. 82, 142.
+
+[50001] Staatswirthschaft, Auerswald's edition, 1808-11, particularly vol. i. pp. 24, 150; and the very naïve expressions, vol. iii. p. 126.
+
+[50135] Neue Grundlegung, Vienna, 1815, p. 221.
+
+[50176] Die National-Oekonomie, Ulm, 1823, p. 145. See also p. 164, where the causal connection is reversed and natural interest deduced from loan interest.
+
+[50326] Staatswissenschaften im Lichte unserer Zeit, part ii. Leipzig, 1823, p. 90. Here Pölitz only takes the trouble to show that profit, assumed as already existing, must fall to the owner of capital.
+
+[50523] Theorie des Handels, Göttingen, 1831.
+
+[50562] Handbuch der Staatswirthschaft, Berlin, 1808, 110 and 120. See also 129, where even contract "rents" are no better explained, but simply spoken of as facts. Schmalz's other writings are not more instructive.
+
+[50771] Die Oekonomie der menschlichen Gesellschaften und das Finanzwesen, Stuttgart, 1845, p. 19.
+
+[50863] Die National-Oekonomie, Leipzig, 1805-1808. I quote from a reprint published in Vienna, 1815.
+
+[50958] In Lotz's former work, the Revision der Grundbegriffe, 1811-14, there are some rather interesting remarks on our subject, although they are full of inconsistency; among others, an acute refutation of the productivity theories (vol. iii. p. 100, etc.), an explanation of interest as "an arbitrary addition to the necessary costs of production," and as a "tax which the selfishness of the capitalist forces from the consumer" (p. 338). This tax is found, not necessary indeed, but "very fair." At p. 339 and at p. 323 Lotz considers it a direct cheating of the capitalist by the labourer if the former does not receive in interest as much as "he may be justified in claiming as the effect of those tools used up by the worker on his activity and on its gross return." It is very striking that in the second last of the passages quoted Lotz puts interest to the account of the consumer, and in the last of them to the account of the labourer; he thus exactly repeats Adam Smith's indecision on the same point.
+
+[51966] Grundsätze der National-Oekonomie, Halle, 1805; third edition, Halle, 1825. I quote from the latter.
+
+[52068] 211, 711, 765, particularly marked in sect; 769.
+
+[52118] Grundsätze der ökonomisch-politischen oder Kameralwissenschaften, second edition, Tübingen, 1820.
+
+[52217] Die Lehre von der Volkswirthschaft, Halle, 1843.
+
+[52267] Volkswirthschaftslehre, vol. i. 222. Similarly, but more generally, vol. i. 138.
+
+[52349] London, 1817, third edition, 1821. I quote from M'Culloch's edition. John Murray, 1886.
+
+[52438] The most complete of these runs thus: "For no one accumulates but with a view to make his accumulation productive, and it is only when so employed that it operates on profits. Without a motive there could be no accumulation, and consequently such a state of prices" (as show no profit to the capitalist) "could never take place. The farmer and manufacturer can no more live without profit than the labourer without wages. Their motive for accumulation will diminish with every diminution of profit, and will cease altogether when their profits are so low as not to afford them an adequate compensation for their trouble, and the risk which they must necessarily encounter in employing their capital productively" (chap. vi. p. 68; similarly p. 67; chap. xxi. p. 175, and other places).
+
+[53225] Ricardo puts the same causal relation very strongly in chap. i. 4, when he gives the height of the "value of labour" as a secondary cause of the value of goods, in addition to the quantity of labour expended in the production,—having in his eye the influence exerted on the value of goods by the capitalist's claims to profit. The height of profit is to him only a dependent, secondary cause, in place of which he prefers to put the final cause of the whole relation, and this final cause he finds in the varying height of wages.
+
+[53756] Chap. vi, p. 67 and passim.
+
+[53785] Chap. vi, towards the end, p. 70.
+
+[53820] The careful reader will easily convince himself that the result remains the same, if we vary the form of the question, and look at the value instead of the amount of the product and wages. In that case, indeed, the value of the return remains fixed (see p. 90 [Book I, Chapter V. pars. I.V.29-31.—Econlib Ed.]), while wages are an elastic quantity, and the proposition expressed in the text, changed only in expression, not in reality, will run thus: cultivation must call a halt at that point where the wages of labour, increased by the increasing costs of cultivation, leaves over to the capitalist from the value of the product no more than enough to satisfy his claims on profit.
+
+[54505] Chap. i. 1.
+
+[54518] Chap. i. 4, 5.
+
+[54534] So also Bernhardi, Kritik der Gründe, etc., 1849, p. 310, etc.
+
+[54598] An Essay on the Production of Wealth, London, 1821.
+
+[54651] Principles of Political Economy, first edition, Edinburgh, 1825; fifth edition 1864.
+
+[54737] Pp. 61, 205, 289 of first edition; fifth edition, pp. 6, 276.
+
+[54800] "The cost of producing commodities is, as will be afterwards shown, identical with the quantity of labour required to produce them and bring them to market" (first edition, p. 250). Almost in the same words in fifth edition, p. 250: "The cost or real value of commodities is, as already seen, determined by the quantity of labour," etc.
+
+[55138] "But it is quite obvious that if any commodity were brought to market and exchanged for a greater amount, either of other commodities or of money, than was required to defray the cost of its production, including in that cost the common and average rate of net profit at the time," etc. (first edition, p. 249; fifth edition, p. 250).
+
+[55474] First edition, p. 298; fifth edition, p. 283.
+
+[55521] First edition, p. 313.
+
+[55545] Pp. 313-315.
+
+[55559] It would to some extent modify this judgment of M'Culloch if we could assume that, in the above argument, he has used the word Labour in that vague and confused sense in which he uses it later (note 1 to his edition of Adam Smith, Edinburgh, 1863, p. 435) as meaning "every kind of activity,"—not only that exerted by men, but that of animals, machines, and natural powers. Of course by such a watering down of its fundamental conception his theory of value would be stripped of every peculiar characteristic, and reduced to an idle play upon words; but at least he might be spared the reproach of logical nonsense. However, he cannot be allowed the benefit even of this small modification. For M'Culloch expresses himself too often, and too decidedly, to the effect that interest is to be traced to the human labour employed in the production of capital. Thus, e.g. in note 1 on p. 22 of his edition of Adam Smith, where he explains interest to be the wage of that labour which has been originally expended in the formation of capital, and where obviously the "labour" of the machine itself cannot possibly be understood; and, particularly, in the passage (Principles, fifth edition, pp. 292-294) where, in regard to the illustration of the wine, he expressly declares that its surplus value is not produced by the powers of nature as these work gratuitously.
+
+[56921] First edition, p. 221, in note; and similarly fifth edition, p. 240, at end.
+
+[56999] First edition, p. 319; second edition, p. 354; fifth edition, pp. 294, 295.
+
+[57076] Elements of Political Economy, London, 1858; Principles of Economical Philosophy, second edition, London, 1872.
+
+[57189] Elements, pp. 76, 77, 81, 202, 226, etc.
+
+[57231] Ibid. p. 62.
+
+[57245] Ibid. p. 216.
+
+[57260] Economical Philosophy, i. p. 638.
+
+[57295] Elements, p. 145.
+
+[57314] Economical Philosophy, i. p. 634; ii. p. 62.
+
+[57360] Elements, pp. 66, 69.
+
+[57383] Principles of Economical Philosophy, ii. p. 66.
+
+[57432] Abrégé Elémentaire des Principes de l'Economie Politique, Paris, 1796.
+
+[57504] Principes d'Economie Politique, Paris, 1801.
+
+[57550] "The earth has only been cultivated because its product was able, not only to compensate the annual labour of cultivation, but also to recompense the advances of labour which its first and original cultivation cost. This superfluity it is which forms the rent of land" (p. 5).
+
+[57828] Grundlagen der National-Oekonomie, tenth edition, 189.
+
+[57884] It would be very easy to extend the above list. Thus physical productivity might be shown to contain two varieties. The first,—the only one considered in the text,—is where the capitalist process of production on the whole (that is, the preparatory production of the capital itself, and the production by the aid of the capital when made) has led to the production of more goods. But it may also happen that the first phase of the total process, the formation of capital, shows so large a deficit that the total capitalist production ends by showing no surplus; while, all the same, the second phase taken by itself, the production by aid of the capital, produces a surplus in goods. Suppose, e.g. that the boat and net which last 100 days had required 2000 days for their production, then the fisher would receive for the use of boat and net which have cost in all 2100 days of labour, only 100 × 30 = 3000 fish, while with the hand alone he could have caught in the same time 2100 × 30 = 6300 fish. On the other hand, if we look at the second phase by itself, then the capital, now in existence, of course shows itself "productive"; with its help in 300 days the fisher catches 3000 fish; without its help, only 300. If, on that account, we speak, even in this case, of a productive surplus result, and of a productive power of capital—as, in fact, we usually do—it is not without justification; only the expression has quite a different and a much weaker meaning. Further, with the recognition of the productive power of capital is often bound up the additional meaning, that capital is an independent productive power; not only the proximate cause of a productive effect, traceable in the last resort to the labour which produced the capital, but an element entirely independent of labour.... I have intentionally not gone into these varieties in the text, as I do not wish to burden the reader with distinctions of which, in the meantime at least, I do not intend to make any use.
+
+[59871] Whether the shares allotted, in practical economic life, to the individual factors in production exactly correspond to the quota which each of them has produced in the total production, is a much disputed question that I cannot prejudge meantime. I have, on that account, chosen to use in the text modes of expression that do not commit me to any view. Moreover it is to be noted that the phenomenon of surplus value takes place, not only between individual shares in the return as thus allotted, and the sources of return that correspond to them, but also, on the whole, between the goods brought forward and the goods that bring them forward. The totality of the means of production employed in making a product—labour, capital, and use of land—has, as a rule, a smaller exchange value than the product has when finished—a circumstance that makes it difficult to trace the phenomenon of "surplus value" to mere relations of allotment inside the return.
+
+[60827] On the putting of the problem see my Rechte und Verhaltnisse, Innsbruck, 1881, p. 107, etc.
+
+[60920] Published 1803. I quote from the seventh edition, Paris. Guillaumin and Co., 1861.
+
+[61004] Paris, 1828-29.
+
+[61021] Cours, i. p. 234, etc.
+
+[61045] Traité, p. 68, etc.
+
+[61066] Book i. iii. p. 67.
+
+[61087] Book i. chap. x.
+
+[61105] Traité, pp. 72, 343, etc.
+
+[61132] Cours, iv. p. 64.
+
+[61151] In this illustration, besides the expenditure for labour and use of land, I do not introduce any separate expenditure for substance of capital consumed, because, according to Say, that entirely resolves itself into expenditure for elementary productive services.
+
+[61415] Book ii. chap. viii. 2, p. 395, note 1.
+
+[61456] Book i. chap. iv. at end.
+
+[61483] Book ii. chap. i. p. 315, etc.
+
+[61515] Traité, p. 395.
+
+[61532] Neue Untersuchung der National-Oekonomie, Stuttgart and Tübingen, 1835.
+
+[61605] National-Oekonomie oder Volkswirthschaft, 1838.
+
+[61654] Grundlagen der National-Oekonomie, tenth edition, Stuttgart, 1873.
+
+[61722] I venture to pass over a goodly number of German writers who since Roscher's time have simply repeated the doctrine of the productive power of capital, without adding anything to it. Of these Friedrich Kleinwächter may be mentioned as one who has worked at the doctrine, if not with much more success, at least with greater thoroughness and care. See "Beitrag zum Lehre vom Kapital" (Hildebrand's Jahrbücher, vol. ix. 1867, pp. 310-326, 369-421) and his contribution to Schönberg's Handbuch. In the same category may be put Schulze-Delitzsch. For his views, which, like Roscher's, are somewhat eclectic, and not free from contradictions, see his Kapitel zu einem Deutschen Arbeiterkatechismus, Leipzig, 1863, p. 24.
+
+[62439] In the German edition of 1884 there are three pages of criticism on Kleinwächter, which, by desire of Professor Böhm-Bawerk, I here omit.—W.S.
+
+[62583] Principî della Economia Sociale, Naples, 1840.
+
+[62631] This view is widely accepted even outside the ranks of the Socialists proper. See, e.g. Pierstorff, Lehre vom Unternehmergewinn, p. 22.
+
+[62768] I purposely disclaim at this point any inquiry whether the physical productivity of capital thus conceded is an originating power in capital, or whether the productive results attained by the help of capital should not rather be put to the account of those productive powers through which capital itself originates; particularly to the account of the labour which made the capital. I do this to avoid diverting the discussion from that sphere where alone, in my opinion, the interest problem can be adequately solved,—that of the theory of value.
+
+[63316] See also on this point my Rechte und Verhältnisse, p. 104, etc.; and particularly pp. 107-109.
+
+[63412] I use the unsatisfactory word Indirect for the German Motivirte (reasoned or motivated). The place taken by philosophy in German culture allows the use of many philosophical terms in general literature that we could not employ in English without pedantry. Our political economy, as we are often told, must use the language of the market and the shop.—W.S.
+
+[63769] An Inquiry into the Nature and Origin of Public Wealth, Edinburgh, 1804.
+
+[63843] "By what means capital or stock contributes towards wealth is not so apparent. What is the nature of the profit of stock, and how does it originate? are questions the answers to which do not immediately suggest themselves. They are indeed questions that have seldom been discussed by those who have treated on political economy, and important as they are, they seem nowhere to have received a satisfactory solution" (p. 155). I may here note that Lauderdale, like Adam Smith and Ricardo, does not distinguish between interest proper and undertaker's profit, but groups both under the name of profit.
+
+[64444] Compounds like Kapitalstücke and Kapitalgüter I usually translate "Real Capital."—W.S.
+
+[64532] Lauderdale with great patience and thoroughness applies his theory to all possible employments of capital. He distinguishes five classes of such employment—building and obtaining machinery, home trade, foreign trade, agriculture, and "conducting circulation." The illustration quoted in the text is from the first of these five divisions. I have chosen it because it most clearly illustrates the way in which Lauderdale puts before himself the connection of profit with the labour-replacing power of capital.
+
+[65042] Principles of Political Economy, London, 1820, third edition; Pickering, 1836.
+
+[65122] Principles, p. 84, and many other places; Definitions in Political Economy Nos. 40, 41.
+
+[65211] A note which may be found in Ricardo's Principles at the end of 6, chap. i. (p. 30 of 1871 edition), has sometimes given the impression that Ricardo had by that time stated the above proposition explicitly. This, however, is not the case. He only suggested the idea to Malthus, who put it into words. See Wollenborg, Intorno al costo relativo di Produzione, Bologna, 1882, p. 26.
+
+[65592] Lehre vom Unternehmergewinn, p. 24.
+
+[65629] "...the latter case shows at once how much profits depend upon the prices of commodities, and upon the cause which determines these prices, namely, the supply compared with the demand" (p. 334).
+
+[65825] I think I may pass over Malthus's wearisome and unfruitful controversy against Ricardo's interest theory. It offers many weak points. Those who wish to read an accurate judgment on it will find it in Pierstorff, p. 23.
+
+[66045] An Inquiry into the Natural Grounds of Right to Vendible Property or Wealth. Edinburgh, 1829.
+
+[66140] His chief work is the Principles of Social Science, 1858.
+
+[66199] E.g. iii. p. 119: "The proportion of the capitalist (profit or interest, as the following lines show) declines because of the great economy of labour." P. 149: "Decrease of the costs of reproduction and reduction of the rate of interest consequent on that," etc.
+
+[66463] Der isolirte Staat, second edition, Rostock, 1842-63. The page numbers quoted in the text refer to the first division of the second part (1850).
+
+[66609] "But how can the object lent be kept and returned in equally good condition and equal in value? This, I admit, does not hold in the case of individual objects, but it certainly does in the totality of objects lent within a nation. If, e.g. any one hires out one hundred buildings for one hundred years, under the condition that the hirer annually erects a new building, the hundred buildings do retain equal value in spite of the annual wear and tear. In this inquiry we must necessarily direct our attention to the whole, and if here only two persons are represented as dealing with one another, it is simply a picture by which we may make clear the movement that goes on simultaneously over the whole nation" (note by Thünen).
+
+[67339] To avoid misunderstandings I should emphasise that Thünen assumes the surplus production of the capital last applied to be the standard for the whole amount of capital.
+
+[67509] Not to burden the statement in the text by more difficulties than I am compelled to bring before the reader, I shall put a few considerations supplementary to the above criticism as a note. Thünen makes two essays which, possibly, may be interpreted as attempts to justify the above assumption, and thus to give a real explanation of interest. The first essay is the remark he very often makes (pp. 111, 149), that capital obtains its highest rent when a certain amount of it has been laid out, and that rent sinks when that limit is overstepped; so that capitalist producers have no interest in pushing their production beyond this point. It is possible to read this proposition as explanatory of the fact that the supply of capital can never be so great as to press down the net interest to zero. But this consideration of the totality of profits made by capitalists has no deciding influence, perhaps no influence at all on the action of individual capitalists; it cannot, therefore, prevent the further growth of capital. Every one ascribes, and rightly ascribes, to the increase of capital formed by his own individual saving, an infinitely small effect on the height of the general interest rate. On the other hand, every one knows that this individual saving has a very notable effect in increasing the income that he individually gets in the shape of interest. For this reason every one who has the inclination, and who has the chance, will save, undisturbed by any such considerations; just as every landowner improves his land and betters his methods of cultivation, even when he knows, as a matter of theory, that if all owners were to do the same it would necessarily be followed, if the state of population remain unchanged, by a fall in the price of products and, notwithstanding reduced costs, by a fall in rent.
+
+[69338] The second attempt might be found in Thünen's note quoted above on p. 166, at that place where he speaks of the renewal of the capital by the borrower. There Thünen points out that "in this inquiry we must necessarily direct our attention to the whole." It is conceivable that this warning might be taken as an attempt to prove that the phenomenon supposed in the text, where the user of capital renews it by his own labour, and beyond that obtains a surplus product, maintains its validity in all economic circumstances, provided the people as a whole be substituted for the individual. That is to say, even if the single individual cannot by his own personal labour renew the capital consumed by him, it will hold, as regards the whole people, that by the use of capital men are able to obtain a surplus product, and besides, with a portion of the saved labour, to replace the capital consumed. In this line of thought, then, we might see a support of the objection I made in the text, where I pronounced Thünen's hypothesis to be applicable only to the simplest cases, and to be inadmissible in complicated ones. I do not think that this warning—to look at the whole—was meant by Thünen in the sense I have just indicated. But if it was, it does not take anything from the force of my objection. For in questions of distribution—and the question of interest is a question of distribution—it is not right in every circumstance to look at the whole. From the fact that society, as a whole, is able by the help of capital to renew this capital itself, and over and above that, to produce more products, it does not follow at all that there should be interest on capital. For this plus in products might just as well accrue to the labourers as surplus wage (they being certainly as indispensable to the obtaining of it as the capital) as to the capitalist in the shape of interest. The fact is that interest, as surplus value of individual return over individual expenditure of capital, depends on the individual always obtaining particular forms of capital at a price which is less than the value of the surplus product obtained by means of them. But the consideration of society as a whole will not by itself guarantee this to the individual; at any rate it is not self-evident that it will do so. If it were so surely there would not be so many theories over a self-evident thing!
+
+[71722] Die allgemeine Wirthschaftslehre oder National-Oekonomie, Berlin, 1852.
+
+[71795] Kritik der Lehre vom Arbeitslohn, 1861. Grundsätze der Volkswirthschaftslehre, 1864. Vorlesungen über Volkswirthschaft, 1878. In the German edition Professor Böhm-Bawerk has devoted several pages to statement and criticism of these two writers; but in the present edition he wishes me to omit them as of little importance.—W.S.
+
+[72124] "Zur Kritik der Lehre Marx' vom Kapitale" and "Kritik der Lehre vom Arbeitslohn," vols. xvi. and xvii. of above.
+
+[72238] See Knies, Kredit, part ii. pp. 34, 37.
+
+[72279] Many readers may wonder why a writer who shows himself so very decidedly opposed to the Productivity theory, does not at all avail himself of the abundant and powerful support given by the socialist criticism; in other words, why I do not dismiss the theory with the argument that capital itself is the product of labour, and thus its productivity, whatever else it be, is not an originating power. The reason simply is that I attribute to this argument only a secondary importance in the theoretical explanation of interest. The state of the case seems to me to be as follows. No one will question that capital, once made, manifests a certain productive erect A steam-engine, e.g. is in any case the cause of a certain productive result. The primary theoretic question suggested by this state of matters now is, Is that productive capacity of capital—of capital made and ready—the quite sufficient cause of interest? If this question were answered in the affirmative, then of course, in the second place, would come the question whether the productive power of capital is an independent power of capital, or whether it is only derived from the labour which has produced the capital; in other words, whether (manual) labour, through the medium of capital, should not be considered the true cause of interest. But having answered the first question in the negative, I have no occasion to enter on the secondary question, whether the productive power of capital is an originating power or not. Besides, in a later chapter I shall have the opportunity of taking a position on the latter question.
+
+[73874] The hesitating way in which many of the Use theorists have expressed themselves is to blame in great part for the fact that, up till now, so little attention has been paid to the independent existence of these theories. Their representatives were usually classed with the adherents of the Productivity theories proper, and it was considered that the former had been confuted when only the latter had been. From what I have said above it will be seen that this is quite erroneous. The two groups of theories rest on essentially distinct principles.
+
+[74423] See above, p. 120. [Book II, Chapter II pars. 1-4.—Econlib Ed.]
+
+[74488] See my Rechte und Verhaltnisse, p. 57. More exactly also below.
+
+[74553] It will be well to remember that the word Hire (Miethzins in German) is properly used of the lending of a durable article where the sum paid monthly or yearly includes wear and tear. If we pay 20s. a month for the hire of a piano, it is understood that the piano suffers so much by our use, and that the 20s. covers that deterioration. We are not expected to repair the damage done to the piano, nor to pay an extra sum for repairing it. That is to say, the 20s. per month is a gross interest, which includes the replacement of the capital. If in three years the music-seller gets £36 in hires for an ordinary piano, it is evident that this is far more than interest. The true interest (net interest) is found by deducting the capital value of the piano. Say that that value was £30, and that in three years' time the piano is worn out; then £6 is the interest obtained by the music-seller over a period of three years on a capital sum of £30. But this distinction, evident at a first glance in a concrete example, has been overlooked, as we see, by more than one economist.—W. S.
+
+[75635] Cours d'Economie Politique, vol. i. Paris, 1823.
+
+[75685] These last words are a quotation from Say.
+
+[75729] Even in discussing the question of the rate of interest this perversion of the relation of natural and loan interest reappears. On p. 285 Storch makes interest determined by the proportion between the supply of the capitalists having capitals to lend, and of the undertakers wishing to hire these capitals. And on p. 286 he says that the rate of the income of those persons who themselves employ their productive powers adapts itself to that rate which is determined by the demand and supply of loaned productive powers.
+
+[76251] Oeffentliche Credit. I quote from the second edition, 1829.
+
+[76312] See, e.g. pp. 19, 20.
+
+[76335] "On the one hand, the necessity and the usefulness of capital for the business of production in its most multifarious forms, and on the other, the hardship of the privations to which we owe its accumulation; these lie at the root of the exchange value of the services rendered by capital. They get their compensation in a share of the value of the products, to the production of which they have cooperated" (p. 19).
+
+[76752] "The services of capital and of industry necessarily have an exchange value; the former because capitals are only got through more or less painful privations or exertions, and people can be induced to undergo such only by getting an adequate share..." (p. 22)
+
+[77013] Kassel, 1850-57.
+
+[77031] i. sect. ii p. 246, etc., and many other places.
+
+[77081] ii. p. 214, and other places.
+
+[77112] ii. p. 255.
+
+[77125] ii. pp. 633, 660.
+
+[77144] See first edition, p. 270, in the note.
+
+[77185] "Ihr Gebrauch während dessen sie fortbestehen, wird ihr Nutzung gennant," etc.
+
+[77265] P. 111. Hermann of course does not always remain quite faithful to the conception here given. In this passage he calls the goods which form the basis of a durable use capital; but later on he is fond of representing capital as something different from the goods—as it were something hovering over them. Thus, e.g. when he says on p. 605: "Above all we must distinguish the object in which a capital exhibits itself from the capital itself. Capital is the basis of a durable use which has definite exchange value; it continues to exist undiminished so long as the use retains this value, and here it is all the same whether the goods which form the capital are useful simply as capital or in other ways—that is, generally speaking, it is all the same in what form the capital exhibits itself." If the question be put, What then is capital, if it is not the substance of the goods in which it "exhibits" itself? it might be difficult enough to give a straightforward answer, and one that would not be simply playing with words.
+
+[78292] Hermann evidently considers the exchange value of uses too self-evident to need any formal explanation from him. Even the extremely scanty explanation mentioned above is usually given only indirectly, although at the same time quite plainly; thus when on p. 507 he says: "For the use of land the corn producer can obtain no compensation in price, so long as it is offered to any one in any quantity as a free gift."
+
+[78709] Pp. 312, etc., 412, etc.
+
+[78735] P. 286, etc.
+
+[78749] See below, p. 204. [Book III, Chapter II, pars. III.II.50-51.—Econlib Ed.]
+
+[78825] See above, p. 125. [Book II, Chapter II, pars. II.II.20-22.—Econlib Ed.]
+
+[78899] See also p. 560: "The uses of capital are therefore a ground of the determination of prices."
+
+[78994] Under capital Hermann includes land.
+
+[79032] E.g. Roscher, 183. Roesler, who accepts Hermann's results, although he ascribes them to somewhat different causes, is the only exception.
+
+[79171] A note which occurs here in the German edition is omitted by the author's instructions.—W. S.
+
+[79266] P. 541; p. 212 of first edition.
+
+[79300] Versuch einer Kritik der Gründe die für grosses und kleines Grundeigenthum angeführt werden, St. Petersburg, 1849.
+
+[79416] E.g. p. 236, etc.
+
+[79435] P. 306, etc.
+
+[79449] Volkswirtschaftslehre, Stuttgart, 1868; particularly pp. 121, 137, 333. 445, etc.
+
+[79532] Pp. 122, 432.
+
+[79547] Schönberg's Handbuch, i. pp. 437, 484, etc.
+
+[79592] Third edition, Tübingen, 1873.
+
+[79624] Ges. System, third edition, i. p. 266; ii. p. 458, etc.
+
+[79681] Second edition, Tübingen, 1881.
+
+[79714] Knies, Geld und Kredit, ii. part ii. p. 35. See also Nasse's Rezension in vol. xxxv of the Jahrbücher für National-Oekonomie und Statistik, 1880, p. 94.
+
+[79868] Zeitschrift für die gesammte Staatswissenschaft, vol. xv. p. 559.
+
+[79935] See above, p. 49.
+
+[79954] Der Kredit, part i. p. 11.
+
+[79982] Ibid. ii. p. 38. I may perhaps express the conjecture that the respected author was led to the above polemic by the contents of a work which I had written in his economical Seminar a few years before, and in which I had laid down the views contested.
+
+[80234] Das Geld, Berlin, 1873. Der Kredit, part i. 1876; part ii. 1879.
+
+[80300] Das Geld, pp. 61, 71, etc. I shall return to the details of this inquiry later on, when criticising the Use theory as a whole.
+
+[80428] See above, p. 196.
+
+[80448] Kredit, part ii. p. 33, and other places.
+
+[80491] Vienna, 1871.
+
+[80506] See above, pp. 139, 199.
+
+[80532] I regret that I must deny myself the pleasure of introducing in this place more than the barest outlines of Menger's value theory. Holding as I do that his theory is among the most valuable and most certain acquisitions of modern economics, I feel that it cannot be at all adequately appreciated from any such sketch. In my next volume I shall have the opportunity of going more thoroughly into the subject. Meanwhile, for more exact information on the propositions which I have given in very condensed form in the text, I must refer to Menger's own unusually luminous and convincing statement in the Grundsätze, particularly p. 77 onward.
+
+[81173] Pp. 133-138.
+
+[81187] Mataja in his Unternehmergewinn (Vienna, 1884) is in substantial agreement with Menger. This valuable work, unfortunately, reached me too late to allow me to make any thorough use of it.
+
+[81375] To guard against a misunderstanding which I should very much deprecate, let me say in so many words that I have no intention of denying the existence of "uses of capital" in general. What I must deny is the existence of that special something which our theorists point to as the "use" of capital, and which they endow with a variety of attributes that, in my opinion, go against the nature of things. But this is anticipating.
+
+[81803] Geld, p. 61: "Nutzung = the Gebrauch of a good lasting over a period of time, and limitable by moments of time."
+
+[81917] See my Rechte und Verhältnisse vom Standpunkte der volkwirthschaftlichen Güterlehre, Innsbruck, 1881, p. 51.
+
+[82027] I take the liberty in the next chapter of repeating, partly in the same words, the argument of my Rechte und Verhältnisse, which was written some time ago with a view to the present work.
+
+[82216] I may remind the reader that, according to the scientific conception of energy—energy being that quality the possession of which confers upon a body the power of doing work—it may exist either as available or unavailable energy; that is, the body may possess energy of which a use can be made, or it may possess energy of which no use can be made. Thus the storage of energy in certain material bodies in an unavailable form, and the change of this unavailable into available energy, by means of which work is done that has a direct influence on the satisfaction of human wants, is just the physical conception applied to economics.—W. S.
+
+[82856] Schäffle, in particular, in the third volume of his Bau und Leben, very beautifully puts the same point of view. Schäffle, I may say, forms an honourable exception among economists as regards this objectionable habit of not taking any trouble with the principles that regulate the working of goods.
+
+[83156] I have already introduced this term Nutzleistung in my Rechte und Verhältnisse; before that I used it in a work written in 1876 but not printed. It is employed by Knies several times in the second portion of his Kredit, but unfortunately in the same ambiguous sense in which on other occasions he uses the word Nutzung.
+
+[83477] NOTE BY TRANSLATOR.
+
+[83498] After much deliberation Material Service is the nearest rendering I can give to the word Nutzleistung, introduced by Professor Böhm-Bawerk. Every translator finds the difficulty of rendering scientific terms from one language into another, but this difficulty is greater in political economy, where we are bound to use words "understanded of the people." The word Nutzleistung is one of these happy combinations which, as compounded of two familiar words, do not strike a German as peculiar or clumsy, and are yet strict enough to satisfy scientific requirements. But our language does not admit of many such combinations—the literal translation "use rendering" at once shows the impossibility in the present case—and in a translation one does not feel justified in coining a new word. In rendering the word thus it becomes necessary to eliminate a note that follows in the German edition, where Professor Böhm-Bawerk congratulates himself on having escaped Say's services productifs, which might be objected to on the ground that "only a person, not a thing, can render services." The prefix "material" seems to me fairly to meet this objection, as the total expression now implies a service—a forthputting of natural power in the service of man—rendered by a material object.—W. S.
+
+[84783] After this clause, in the German edition, come the words: "Und andererseits scheint mir der Name Nutzleistung in der That ausserordentlich prägnant zu sein: es sind im eigenstlichen Wortsinn nützliche Kräfteleistungen, die von den Sachgütern ausgehen."—W. S.
+
+[85043] It is unfortunate that in English economics we have devoted so little attention to this most elementary conception, on which Menger, in particular, has bestowed so much pains. The poverty of our scientific nomenclature shows this defect very markedly: the word "commodity" is really the only singular equivalent we have for the familiar and suggestive word "goods," although I personally have not scrupled to translate the German Gut by the English "good." There is, indeed, reason for Mr. Ruskin's sarcasm that our most famous treatise on Wealth does not even define the meaning of the word "wealth."—W. S.
+
+[85652] Even the so-called non-perishable goods are perishable, however gradually they perish.
+
+[85740] Not of the loan; see below.
+
+[85769] See also my Rechte und Verhältnisse, p. 70, etc.
+
+[85819] In my Rechte und Verhältnisse, p. 60, where, in particular, I have stated the character of the material services as primary elements of our economic transactions, and have deduced the value of goods from the value of the material services.
+
+[86060] This idea, though put somewhat differently, is explicitly recognised by Knies, Der Kredit, part ii. pp. 34, 77, 78. He expressly calls the selling price of a house the price of the permanent use of a house in opposition to the hire price, which is the price of the temporary uses of the same good. See also his Geld, p. 86. Schäffle too (Bau und Leben, second edition, iii.) describes goods as "stores of useful energies" (p. 258).
+
+[86493] For more exact statement, see my Rechte und Verhältnisse, p. 64.
+
+[86559] A hair-splitting critic might perhaps point out that the possession of good machines assists the maker to secure, say, a good credit, a good name, good custom, etc. The careful reader will have no difficulty in answering such objections. To the same category belongs the "use through exchange".
+
+[86855] Staatswirthschaftliche Untersuchungen, second edition, p. 109.
+
+[86919] P. 110, etc. See the quotation above, p. 194. [Book III, Chapter II, par. III.II.23.—Econlib Ed.]
+
+[87018] To prove the appropriateness of this analogy we need only picture to ourselves the graduation of transition from the durable goods,—such as land, precious stones,—down through always less durable goods,—as tools, furniture, clothes, linen, tapers, paper collars and so on,—till we come to the entirely perishable goods—matches, food, drink, etc.
+
+[87365] Geld, p. 59, etc.
+
+[87384] It is as well to put it in so many words that, in this polemic on the conception of Use, I am in opposition, not only to the Use theorists properly so called, but to almost the entire literature of political economy. The conception of the Use of capital which I dispute is that commonly accepted since the day of Salmasius. Even writers who explain the origin of interest by quite different theories—e.g. Roscher, by the Productivity theory; or Senior, by the Abstinence theory; or Courcelle-Seneuil or Wagner, by the Labour theory—always conceive of loan interest as a remuneration for a transferred Use or Usage of capital, and occasionally they conceive even of natural interest as a result of the same use or usage. The only distinction between them and the Use theorists properly so called is this, that the former employ these expressions naïvely, using terms that have become popular, and do not trouble themselves as to the premises and conclusions of the Use conception,—which sometimes entirely contradict the rest of their interest theory; while the Use theorists build their distinctive theory on the conclusions of that conception. The almost universal acceptance of the error I am opposing may further justify my prolixity.
+
+[88623] Grundlagen, tenth edition, p. 401, etc.
+
+[88664] The common German word is vertretbar, which might be loosely translated here by "representative" or "replaceable." But the word "fungible" is perhaps worth adopting in English economics.—W. S.
+
+[88858] See L. 31, Dig. loc. 19, 2, and L. 25, 1, Dig. dep. 16, 3.
+
+[88918] Goldschmidt, Handbuch des Handelsrechtes, second edition, Stuttgart, 1883, vol. ii. part. i. p. 26 in the note.
+
+[89031] Ulpian, it is well known, in Dig. vii. 5, L. 1, De usufructu earum rerum quae usu consumuntur vel minuntur, quotes a decree of the Senate which established the bequeathing of a usufruct in perishable goods. On this Gaius remarks: "Quo senatus consulto non id effectum est, ut pecuniae usufructus proprie esset; nec enim naturalis ratio auctoritate senatus commutari potuit; sed, remedio introducto, caepit quasi usufructus haberi." I do not agree with Knies (Geld, p. 75) that Gaius took exception simply to the formal flaw that there could only be a regular usufruct in goods belonging to another person, while the legatee holds the perishable goods left him as his own property, res suae. The appeal to the naturalis ratio could hardly have been made in order to rehabilitate a defective formal definition of usufruct; it is infinitely more probable that it was made on behalf of a truth of nature that was seriously violated by the decree.
+
+[89975] The germs of this view, which I consider the only correct one, are to be found in Galiani (see above, p. 49 [Book I, Chapter II, par. I.II.70-72.—Econlib Ed.]), in Turgot (see above, p. 56 [Book I, Chapter II, par. I.II.92-94.—Econlib Ed.]), and latterly in Knies, who, however, has since expressly withdrawn it as erroneous.
+
+[90302] Grundsätze, p. 132, etc.
+
+[90328] Ibid. p. 132, etc.
+
+[90348] See my Rechte und Verhältnisse, particularly p. 124. See also the acute remarks of H. Dietzel in the tract Der Ausgangspunkt der Sozialwirthscaftslehre und ihr Grundbegriff (Tübinger Zeitschrift für die gesammte Staatswissenschaft, Jahrgang, 39), p. 78, etc. On the other hand, I cannot agree with Dietzel in some further criticisms that he makes on Menger on p. 52, etc. He has two objections to Menger's fundamental definition of economical goods as "those goods the available quantity of which is less than human need." First, he says, in trade generally we must recognise "the tendency to assimilate need and available quantity," on account of which "in every normal case" a number of the most important economical objects must fall out of the circle of economical goods. And second, he says, Menger's definition of his conception is not definite enough, and leaves room for all sort of things that have not the character of economical goods, such, for instance, as useful "technical knowledge." I consider that both objections are based on a misunderstanding. As a matter of fact trade can never quite assimilate the available quantity of economical goods to the need for them; it can of course meet the demand that has power to pay, but never the need. However commerce may flood a market with exchangeable goods, while it will very soon succeed in supplying the amount that people can buy, it will never supply all they wish to possess for the purpose of supplying their wants to the saturation point—that point where the last and most insignificant wish is gratified. As to the second objection, Menger's definition seems to me to mark out the circle of economic goods both correctly and sufficiently. We must not overlook the fact that what determines the conception of the "good" has a share in determining the conception of the "economical good." Things like qualities, skill, rights, relations, cannot, I admit, be economical goods, even if they are only to be had in insufficient quantity; but that is because they are not true goods—that is to say, they are not really effectual means of satisfying human wants, and at best can only be called so by a metaphor. But where we have true goods, such of them as are insufficient in quantity are at the same time economical goods. If, therefore, Menger, in some individual cases, does come into collision with truth—as I maintain he does in regard to the economical good "disposal"—it is not because he has made a mistake in defining the attribute "economical," but only because he has occasionally treated the conception of the "good" a little too loosely.
+
+[92965] If we put the illustration a little differently it may show more forcibly that the value of the disposal is contained in the value of the good. Suppose that A first lends B a thing for twenty years without interest—presents him therefore with the good called "disposal for twenty years," and then, a couple of days after the loan contract is concluded, presents him with the thing itself. Here he has in two actions given away the twenty years' disposal and the thing itself. If the "disposal" were a thing of independent value in addition to the thing itself, the total value of the gift would obviously be greater than the value of the thing itself, which just as obviously is not the case.
+
+[93659] Extracted from the Encyclopaedia Metropolitana, London, 1836. I quote from the fifth edition, London, 1863.
+
+[93768] See above, p. 97 [Book I, Chapter V, par. I.V.52.—Econlib Ed.], and below, book vii.
+
+[93854] Ever since Hodgskin's writings (1825). See below, book vi.
+
+[93914] See above, p. 71. [Book I, Chapter IV, par. I.IV.4-6.—Econlib Ed.]
+
+[93982] See above, p. 192. [Book III, Chapter II, par. III.II.13-16—Econlib Ed.]
+
+[94056] Principles of Political Economy, London, 1833.
+
+[94104] Kapital und Arbeit, Berlin, 1864, p. 110.
+
+[94147] Even in that minority of cases where the sacrifice of labour is measured in pain of labour, the time element of postponement of gratification cannot form a second and independent sacrifice. For the pain of labour only enters into the valuation, as we have seen, when the pain in question is greater than any kind of use which can be got out of the labour, inclusive of all the attractions of the moment that may happen to be in it; and when, consequently, the choice can only reasonably be thought of as lying between the concrete future uses, towards which the labour would actually be directed, and entire cessation from labour. Since there is here no question of any other kind of earlier enjoyment of goods, such an enjoyment cannot of course be, in any way, an element in the valuation of sacrifice.
+
+[94953] Some Leading Principles of Political Economy, 1874, chap. iii.
+
+[95017] Précis de la Science Economique, Paris, 1862; particularly vol. i. pp. 161, 402, etc.
+
+[95104] Intorno al costo Relativo di Produzione, etc., Bologna, 1882.
+
+[95167] System der Staatsanleihen, Heidelberg, 1855, p. 48: "The lender of capital bases his claim on compensation for the using of the capital transferred by him, first, on the fact that he has given up the chance of giving value to his own labour power by embodying it in the object; and second, that he has refrained from consuming it, or its value, at once, in immediate enjoyment. This is the ground on which interest on capital rests; the subject, however, has no further concern for us in this place."
+
+[95669] Harmonies Economiques (vol. vi of complete works), third edition, Paris, 1855, p. 210. See also the pages immediately preceding, 207-209, and generally the whole of Chapter VII. [In English translation: Economic Harmonies, .—Econlib Ed.]
+
+[95908] "Si l'on penètre le fond des choses, on trouve qu'en ce cas le cédant se prive en faveur du cessionaire ou d'une satisfaction immédiate qu'il récule de plusieurs années, ou d'un instrument de travail qui aurait augmenté ses forces, fait concourir les agents naturels, et augmenté, a son profit, le rapport des satisfactions aux efforts" (vii. p. 209). "Il ajourne la possibilité d'une production.... Je l'emploierai pendant dix ans sous une forme productive" (xv. p. 445). So often in the tract Capital et Rente, e.g. p. 44. James, who has made a plane, and has now lent it to William for a year, makes this the ground for his claim of interest: "I expected some advantage from it, more work done and better paid, an improvement in my lot. I cannot lend you all that for nothing."
+
+[96690] Thus Bastiat in Capital et Rente, p. 40, assumes that the borrowed sack of corn puts the borrower in a position to produce a valeur superieure. On p. 43 he calls the reader's attention, in italics, to the fact that the "principle that is to solve the interest problem" is the power that resides in the tool to increase the productivity of labour. Again he says, on p. 46, "Nous pouvons conclure qu'il est dans la nature du capital de produire un intérêt." On p. 54, "L'outil met l'emprunteur à même de faire des profits." Indeed it is the aim of the brochure, as we gather from the introduction to it, to defend the "productivity of capital" against the attacks of the socialists.
+
+[97372] See, e.g. Rodbertus, Zur Beleuchtung, i. p. 116, etc.; Pierstorff, p. 202.
+
+[97448] P. 214.
+
+[97457] P. 216.
+
+[97466] "... et je défie qu'on puisse imaginer une telle répartition en dehors du mécanisme de l'intérêt" (p. 217).
+
+[97575] "Réconnaissons donc que le mécanisme social naturel est assez ingénieuz pour que nous puissions nous dispenser de lui substituer un mécanisme artificiel" (p. 216, at end).
+
+[97748] P. 223.
+
+[97757] Elements of Political Economy, third edition, London, 1826. I was not able, unfortunately, to get sight of the first edition of 1821.
+
+[97892] The author (as is evident from a parallel passage on p. 100) means annuities which replace the original value of the machine in ten years, and at the same time pay interest at the rate fixed by the condition of the market.
+
+[98116] See above, p. 97. The doubtful honour of priority in this theory belongs to James Mill.
+
+[98205] Traité théorique et pratique d'Economie Politique, i. Paris, 1858.
+
+[98273] Précis du Cours d'Economie Politique, second edition, Paris, 1881, 1882.
+
+[98347] ii. p. 189; also i. p. 236.
+
+[98376] See above, p. 286. [Book IV, Chapter II, par. IV.II.38.—Econlib Ed.]
+
+[98446] Traité d'Economie Politique, eighth edition, Paris, 1880. P. 522: "Le loyer rémunère et provoque les efforts ou le travail d'épargne et de conservation."
+
+[98601] The name they themselves use is the "Social Political-School of National Economy."
+
+[98685] Zur Erklärung und Abhülfe der heutigen Kreditnoth des Grundbesitzes, second edition, 1876, ii. p. 273, etc.
+
+[98794] This follows from the tone of the passage, which suggests a simile and a comparison rather than a strict explanation; from its position in a note; from the fact of Rodbertus having another and a different theory; finally, from an explicit explanation which he makes in stating this other theory, that interest in the present day has not the character of (indirect) salary, but that of an immediate share in the national product (Zur Beleuchtung, p. 75).
+
+[99249] ii. p. 458.
+
+[99262] ii. p. 459, etc.
+
+[99280] See above, p. 206. [Book III, Chapter II, par. III.II.57.—Econlib Ed.]
+
+[99352] "Thus I cannot, in any case, agree with the absolute condemnation of capital and of profit as 'pure appropriation of surplus value'; it is a function of cardinal importance which private capital, whatever be its motives, now performs when it assists what Rodbertus called 'business left to itself,' " (second edition, iii. p. 386). "Historically then even capitalism may be fully warranted and profit justified. To remove the latter without having found a better organisation of production would be senseless." "We may therefore practically condemn profit as appropriation of 'surplus value' only if we are able to replace the economic service of private capital by a public organisation positively established, more complete, and less greedy of surplus value" (Mehrwerth schluckende), iii p. 422.
+
+[100151] See above, p. 207. [Book III, Chapter II, par. III.II.57-59.—Econlib Ed.]
+
+[100226] Allgemeine oder theoretische Volkwirthschaftslehre, part i. Grundlegung, second edition. Leipzig and Heidelberg, 1879, pp. 40, 594.
+
+[100359] Bau und Leben, iii. p. 451.
+
+[100388] It is much to be regretted that of Wagner's theoretical political economy the part which specially deals with the theory of interest has not yet appeared. It may be that this distinguished thinker would have given such explanations as make my present polemic,—which I have been careful to make hypothetical,—superfluous.
+
+[100710] As appendix to this chapter I should like, shortly, to refer to J.G. Hoffmann. He also interprets interest as wage for certain labours. "Even those rents," he says, meaning rents from capital, "are only a wage for labour, and indeed for labour of great public benefit; for with the obtaining of this wage is bound up, essentially and peculiarly, the duty of free activity in the public welfare, in science and skill, in everything that lightens, ennobles, and adorns human life" (Ueber die wahre Natur und Bestimmung der Renten aus Boden—und Kapitaleigenthum, Sammlung der kleiner Schriften staatswirthschaftlichen Inhalts, Berlin, 1843, p. 566). As regards Hoffmann, even more than as regards the Katheder Socialists, we are justified in doubting whether the words quoted were meant as a theoretic explanation of interest. If they were so, his theory is unquestionably more inadequate than all the other Labour theories; if they were not, it lies outside my task to question their justification.
+
+[101708] Civil Government, book ii. chap. v. 40: "Nor is it so strange, as perhaps before consideration it may appear, that the property of labour should be able to overbalance the community of land; for it is labour indeed that put the difference of value on everything; and let any one consider what the difference is between an acre of land planted with tobacco or sugar, sown with wheat or barley, and an acre of the same land lying in common without any husbandry upon it, and he will find that the improvement of labour makes the far greater part of the value. I think it will be but a very modest computation to say that of the products of the earth useful to the life of man nine-tenths are the effect of labour, nay, if we will rightly estimate things as they come to our use, and cast up the several expenses about them, what in them is purely owing to nature, and what to labour, we shall find that in most of them ninety-nine hundredths are wholly to be put on the account of labour."
+
+[102697] Considerations of the Consequences of the Lowering of Interest, 1691, p. 24. See above, p. 45. [Book I, Chapter II, par. I.II.57-59.—Econlib Ed.]
+
+[102844] See above, p. 46. [Book I, Chapter II, par. I.II.60-63.—Econlib Ed.]
+
+[102914] Handlungswissenschaft, second edition, p. 430.
+
+[102962] Geldumlauf, book iii. p. 26.
+
+[102992] I may give a few characteristic passages: "All the benefits attributed to capital arise from coexisting and skilled labour." After stating that, by the help of tools and machines, more products and better products can be created than without them, he adds the following consideration: "But the question then occurs, What produces instruments and machines, and in what degree do they aid production independent of the labourer, so that the owners of them are entitled to by far the greater part of the whole produce of the country? Are they or are they not the product of labour? Do they or do they not constitute an efficient means of production separate from labour? Are they or are they not so much inert, decaying, or dead matter of no utility whatever, possessing no productive power whatever, but as they are guided, directed, and applied by skilful hands?" (p. 14)
+
+[103864] The numerous writers with socialistic tendencies mentioned by Held in the second book of his Zur sozialen Geschichte Englands (Leipzig, 1881) have little direct concern with the theory of interest.
+
+[104063] First edition, 1819. Second edition, Paris, 1827. I quote from the latter.
+
+[104139] A proposition, however, which Adam Smith himself did not always very consistently adhere to. Besides labour he not seldom mentions land and capital as sources of goods.
+
+[104309] In these words one may find a very condensed statement of James Mill's labour theory (see above, p. 298). [Book V, Chapter I, par. V.I.5-8.—Econlib Ed.]
+
+[104463] See Proudhon's numerous writings passim, particularly Qu'est ce que la propriété? (1840: in the Paris edition of 1849, p. 162), Philosophie de la Misère (pp. 62, 287 of the German translation), Defence before the Assizes at Besançon on 3d February 1842 (collected edition, Paris, 1868, ii.)
+
+[104755] Among his numerous writings, the one in which he expresses his opinions on the interest problem most fully, and which most brilliantly displays his agitator genius, is Herr Bastiat-Schulze von Delitzsch, der ökonomische Julian, oder Kapital und Arbeit (Berlin, 1864). The principal passages are these: Labour is "source and factor of all values" (pp. 83, 122, 147). The labourer does not receive the whole value, but only the market price of labour considered as a commodity, this price being equal to its costs of production, that is, to bare subsistence (p. 186, etc.) All surplus falls to capital (p. 194). Interest is therefore a deduction from the return of the labourer (p. 125, and very scathingly p. 97). Against the doctrine of the Productivity of capital (p. 21, etc.) Against the Abstinence theory (p. 82, etc., and particularly p. 110, etc.) See also Lassalle's other writings.
+
+[105646] Die Lehre vom Einkommen in dessen Gesammtzweigen, 1869. I quote from the second edition of 1878.
+
+[105744] Ibid., pp. 109, etc., 122, etc. See also p. 271. etc.
+
+[105799] Kursus der National-und Sozialökonomie, Berlin, 1873, p. 183. A little further on (p. 185), evidently borrowing from Proudhon's Droit d'Aubaine, he explains interest as a "toll" imposed in return for the giving over of economic power, the rate of interest representing the rate at which the toll is levied.
+
+[106107] See below, book vii.
+
+[106129] Der Kredit, part ii, Berlin, 1879, p. 7.
+
+[106171] A tolerably complete list of the writings of Dr. Karl Rodbertus-Jagetzow is to be found in Kozak's Rodbertus' sozialökonomische Ansichten, Jena, 1882, p. 7, etc. I have made use by preference of the second and third Social Lettersto Von Kirchmann in the (somewhat altered) copy published by Rodbertus in 1875, under the name of Zur Beleuchtung der sozialen Frage; also of the tract Zur Erklärung und Abhilfe der heutigen Kreditnoth des Grundbesitzes; and of the fourth Social Letter to Von Kirchmann (Berlin, 1884), published under Rodbertus's bequest by Adolf Wagner and Kozak under the name Das Kapital. A few years ago Rodbertus's interest theory was subjected to an extremely close and conscientious criticism by Knies (Der Kredit, part ii. Berlin, 1879, p. 47, etc.), with which in its most important points I fully agree. I feel myself, however, bound to take up the task of criticism independently, my theoretic point of view being so different from that of Knies that I cannot help looking at many things in an essentially different light.
+
+[107220] Zur Beleuchtung der sozialen Frage, pp. 68, 69.
+
+[107269] Soziale Frage, p. 71.
+
+[107292] Erklärung und Abhilfe, ii. p. 160 note.
+
+[107333] Soziale Frage, p. 56; Erklärung, p. 112.
+
+[107375] Soziale Frage, pp. 87 90; Erklärung, p. 111; Kapital, p. 116.
+
+[107438] Soziale Frage, p. 146; Erklärung, ii. p. 109, etc.
+
+[107490] Soziale Frage, p. 32.
+
+[107513] Ibid. p. 74, etc.
+
+[107532] Soziale Frage, p. 33; similarly and more in detail, pp. 77-94.
+
+[107596] Ibid. p. 115, and other places.
+
+[107629] Ibid. p. 150; Kapital, p. 202.
+
+[107661] Soziale Frage, pp. 115, 148, etc. See also the criticism of Bastiat, pp. 115-119.
+
+[107744] Ibid. p. 123, etc.
+
+[107764] Soziale Frage, p. 106.
+
+[107788] Ibid. p. 107; similarly pp. 113, 147. Erklärung, i. p. 123.
+
+[107849] Soziale Frage, p. 148.
+
+[107873] This illustration is not given by Rodbertus; I only add it to put the difficult line of argument more clearly.
+
+[107985] Soziale Frage, p. 94, etc.; particularly pp. 109-111. Erklärung, i. p. 123.
+
+[108062] It may be advisable, in the interest of the English reader, to put this theory of land-rent in a different way.
+
+[108175] According to Rodbertus, all rent is a deduction from product, and an exploitation of the labour that produces the product. Both land-rent then and capital-rent (profit) must be accounted for by this deduction, and only by this deduction. Now rent cannot emerge at all unless the necessary resources are provided. The owners give these resources; the labourer works with them; the owner takes his rent from the product, and, naturally enough, calculates it as a percentage on the amount of the resources he provides. In reality, however, rent does not depend on the amount and duration of these resources, but on the amount of labour employed and exploited.
+
+[108833] But resources are of two kinds, land and capital. In manufacturing the resources consist of capital alone. The profit exploited from the manufacturing labourers is calculated as a rate on the capital, and comes to be ascribed to the capital. Under the competitive system profits tend to an equality over the whole field, and accordingly we should expect the landowner to get simply the same rent for the resources he lends (land) as the capitalist gets for the resources he lends (capital). But as a fact the landowner gets more; in fact, sufficient to pay another rent, which is properly called land-rent. How is this?
+
+[109454] The reason is that in manufacture there are two outlays of capital, one for wages and one for raw materials. But there is only one field of exploitation, wages. There is, then, in manufacturing a portion of capital employed which yields no profit, and the profit that is made in the total manufacture, being calculated on this portion plus the portion employed in paying wages, the rate of profit is lower than it would be otherwise.
+
+[109889] Now in agriculture there is indeed only one source of rent or profit, labour, but there is no outlay for raw materials. The profit thus in agriculture is calculated on a smaller capital, and so must leave, over and above the ordinary manufacturing rate of profit, a surplus which is land-rent.—W. S.
+
+[110190] Erklärung, ii. p. 303.
+
+[110214] Erklärung, p. 273, etc. In the posthumous tract on "Capital" Rodbertus expresses himself more severely on the subject of private property in capital, and would have it redeemed, if not abolished (p. 116, etc.)
+
+[110425] Soziale Frage, p. 69.
+
+[110448] Kredit, part second, p. 60, etc.
+
+[110482] Erklärung und Abhilfe, ii. p. 160; similarly Soziale Frage, p. 69.

@@ -1,0 +1,843 @@
+WORK: Logic, Inductive and Deductive  (slug: william-minto-logic-inductive-and-deductive-ffa6fd)
+
+CHAPTER: 04
+
+
+
+[0] THE INTERDEPENDENCE OF PROPOSITIONS.--MEDIATE INFERENCE. --SYLLOGISM.
+
+[71] CHAPTER I.
+
+[83] THE SYLLOGISM.
+
+[99] We have already defined mediate inference as the derivation of a conclusion from more than one proposition. The type or form of a mediate inference fully expressed consists of three propositions so related that one of them is involved or implied in the other two.
+
+[364] Distraction is exhausting. Modern life is full of distraction [.'.] Modern life is exhausting.
+
+[460] We say nothing of the truth of these propositions. I purposely choose questionable ones. But do they hang together? If you admit the first two, are you bound in consistency to admit the third? Is the truth of the conclusion a necessary consequence of the truth of the premisses? If so, it is a valid mediate inference from them.
+
+[790] When one of the two premisses is more general than the conclusion, the argument is said to be Deductive. You lead down from the more general to the less general. The general proposition is called the Major Premiss, or Grounding Proposition, or Sumption: the other premiss the Minor, or Applying Proposition, or Subsumption.
+
+[1115] Undue haste makes waste. This is a case of undue hasting. [.'.] It is a case of undue wasting.
+
+[1211] We may, and constantly do, apply principles and draw conclusions in this way without making any formal analysis of the propositions. Indeed we reason mediately and deductively whenever we make any application of previous knowledge, although the process is not expressed in propositions at all and is performed so rapidly that we are not conscious of the steps.
+
+[1573] For example, I enter a room, see a book, open it and begin to read. I want to make a note of something: I look round, see a paper case, open it, take a sheet of paper and a pen, dip the pen in the ink and proceed to write. In the course of all this, I act upon certain inferences which might be drawn out in the form of Syllogisms. First, in virtue of previous knowledge I recognise what lies before me as a book. The process by which I reach the conclusion, though it passes in a flash, might be analysed and expressed in propositions.
+
+[2111] Whatever presents certain outward appearances, contains readable print. This presents such appearances. [.'.]It contains readable print. So with the paper case, and the pen, and the ink. I infer from peculiar appearances that what I see contains paper, that the liquid will make a black mark on the white sheet, and so forth.
+
+[2438] We are constantly in daily life subsuming particulars under known universals in this way. "Whatever has certain visible properties, has certain other properties: this has the visible ones: therefore, it has the others" is a form of reasoning constantly latent in our minds.
+
+[2713] The Syllogism may be regarded as the explicit expression of this type of deductive reasoning; that is, as the analysis and formal expression of this every-day process of applying known universals to particular cases. Thus viewed it is simply the analysis of a mental process, as a psychological fact; the analysis of the procedure of all men when they reason from signs; the analysis of the kind of assumptions they make when they apply knowledge to particular cases. The assumptions may be warranted, or they may not: but as a matter of fact the individual who makes the confident inference has such assumptions and subsumptions latent in his mind.
+
+[3364] But practically viewed, that is *logically* viewed, if you regard Logic as a practical science, the Syllogism is a contrivance to assist the correct performance of reasoning together or syllogising in difficult cases. It applies not to mental processes but to results of such expressed in words, that is, to propositions. Where the Syllogism comes in as a useful form is when certain propositions are delivered to you *ab extra* as containing a certain conclusion; and the connexion is not apparent. These propositions are analysed and thrown into a form in which it is at once apparent whether the alleged connexion exists. This form is the Syllogism: it is, in effect, an analysis of given arguments.
+
+[4068] It was as a practical engine or organon that it was invented by Aristotle, an organon for the syllogising of admissions in Dialectic. The germ of the invention was the analysis of propositions into terms. The syllogism was conceived by Aristotle as a reasoning together of terms. His prime discovery was that whenever two propositions necessarily contain or imply a conclusion, they have a common term, that is, only three terms between them: that the other two terms which differ in each are the terms of the conclusion; and that the relation asserted in the conclusion between its two terms is a necessary consequence of their relations with the third term as declared in the premisses.
+
+[4758] Such was Aristotle's conception of the Syllogism and such it has remained in Logic. It is still, strictly speaking, a syllogism of terms: of propositions only secondarily and after they have been analysed. The conclusion is conceived analytically as a relation between two terms. In how many ways may this relation be established through a third term? The various moods and figures of the Syllogism give the answer to that question.
+
+[5192] The use of the very abstract word "relation" makes the problem appear much more difficult than it really is. The great charm of Aristotle's Syllogism is its simplicity. The assertion of the conclusion is reduced to its simplest possible kind, a relation of inclusion or exclusion, contained or not contained. To show that the one term is or is not contained in the other we have only to find a third which contains the one and is contained or not contained in the other.
+
+[5664] The practical difficulties, of course, consist in the reduction of the conclusions and arguments of common speech to definite terms thus simply related. Once they are so reduced, their independence or the opposite is obvious. Therein lies the virtue of the Syllogism.
+
+[5933] Before proceeding to show in how many ways two terms may be Syllogised through a third, we must have technical names for the elements.
+
+[6069] The third term is called the MIDDLE (M) ([Greek: to meson]): the other two the Extremes ([Greek: akra]).
+
+[6175] The EXTREMES are the Subject (S) and the Predicate (P) of the conclusion.
+
+[6250] In an affirmative proposition (the normal form) S is contained in P: hence P is called the MAJOR term ([Greek: to meixon]), and S the MINOR ([Greek: to elatton]), being respectively larger and smaller in extension. All difficulty about the names disappears if we remember that in bestowing them we start from the conclusion. That was the problem ([Greek: problema]) or thesis in dialectic, the question in dispute.
+
+[6666] The two Premisses, or propositions giving the relations between the two Extremes and the Middle, are named on an equally simple ground.
+
+[6803] One of them gives the relation between the Minor Term, S, and the Middle, M. S, All or Some, is or is not in M. This is called the Minor Premiss.
+
+[6950] The other gives the relation between the Major Term and the Middle. M, All or Some, is or is not in P. This is called the Major Premiss.
+
+[7088] ) and the Minor the last ([Greek: to eschaton]), probably because that was their order in the conclusion when stated in his most usual form, "P is predicated of S," or "P belongs to S".]
+
+[7276] CHAPTER II.
+
+[7289] FIGURES AND MOODS OF THE SYLLOGISM.
+
+[7326] I.--The First Figure.
+
+[7349] The forms (technically called MOODS, *i.e.*, modes) of the First Figure are founded on the simplest relations with the Middle that will yield or that necessarily involve the disputed relation between the Extremes.
+
+[7564] The simplest type is stated by Aristotle as follows: "When three terms are so related that the last (the Minor) is wholly in the Middle, and the Middle wholly either in or not in the first (the Major) there must be a perfect syllogism of the Extremes".
+
+[7818] When the Minor is partly in the Middle, the Syllogism holds equally good. Thus there are four possible ways in which two terms ([Greek: oroi], plane enclosures) may be connected or disconnected through a third. They are usually represented by circles as being the neatest of figures, but any enclosing outline answers the purpose, and the rougher and more irregular it is the more truly will it represent the extension of a word.
+
+[8249] Conclusion A. All M is in P. All S is in M. All S is in P.
+
+[8309] Conclusion E. No M is in P. All S is in M. No S is in P.
+
+[8367] Conclusion I. All M is in P. Some S is in M. Some S is in P.
+
+[8429] Conclusion O. No M is in P. Some S is in M. Some S is not in P.
+
+[8494] These four forms constitute what are known as the moods of the First Figure of the Syllogism. Seeing that all propositions may be reduced to one or other of the four forms, A, E, I, or O, we have in these premisses abstract types of every possible valid argument from general principles. It is all the same whatever be the matter of the proposition. Whether the subject of debate is mathematical, physical, social or political, once premisses in these forms are conceded, the conclusion follows irresistibly, *ex vi formae, ex necessitate formae*. If an argument can be analysed into these forms, and you admit its propositions, you are bound in consistency to admit the conclusion--unless you are prepared to deny that if one thing is in another and that other in a third, the first is in the third, or if one thing is in another and that other wholly outside a third, the first is also outside the third.
+
+[9402] This is called the AXIOM OF SYLLOGISM. The most common form of it in Logic is that known as the *Dictum*, or *Regula de Omni et Nullo:* "Whatever is predicated of All or None of a term, is predicated of whatever is contained in that term". It has been expressed with many little variations, and there has been a good deal of discussion as to the best way of expressing it, the relativity of the word best being often left out of sight. *Best* for what purpose? Practically that form is the best which best commands general assent, and for this purpose there is little to choose between various ways of expressing it. To make it easy and obvious it is perhaps best to have two separate forms, one for affirmative conclusions and one for negative. Thus: "Whatever is affirmed of all M, is affirmed of whatever is contained in M: and whatever is denied of all M, is denied of whatever is contained in M". The only advantage of including the two forms in one expression, is compendious neatness. "A part of a part is a part of the whole," is a neat form, it being understood that an individual or a species is part of a genus. "What is said of a whole, is said of every one of its parts," is really a sufficient statement of the principle: the whole being the Middle Term, and the Minor being a part of it, the Major is predicable of the Minor affirmatively or negatively if it is predicable similarly of the Middle.
+
+[10816] This Axiom, as the name imports, is indemonstrable. As Aristotle pointed out in the case of the Axiom of Contradiction, it can be vindicated, if challenged, only by reducing the challenger to a practical absurdity. You can no more deny it than you can deny that if a leaf is in a book and the book is in your pocket, the leaf is in your pocket. If you say that you have a sovereign in your purse and your purse is in your pocket, and yet that the sovereign is not in your pocket: will you give me what is in your pocket for the value of the purse?
+
+[11365] II.--THE MINOR FIGURES OF THE SYLLOGISM, AND THEIR REDUCTION TO THE FIRST.
+
+[11441] The word Figure ([Greek: schema]) applies to the form or figure of the premisses, that is, the order of the terms in the statement of the premisses, when the Major Premiss is put first, and the Minor second.
+
+[11650] In the First Figure the order is
+
+[11684] M P S M
+
+[11693] But there are three other possible orders or figures, namely:--
+
+[11758] Fig. ii. Fig. iii. Fig. iv. PM MP PM SM MS MS.
+
+[11806] It results from the doctrines of Conversion that valid arguments may be stated in these forms, inasmuch as a proposition in one order of terms may be equivalent to a proposition in another. Thus No M is in P is convertible with No P is in M: consequently the argument
+
+[12075] No P is in M All S is in M,
+
+[12104] in the Second Figure is as much valid as when it is stated in the First--
+
+[12179] No M is in P All S is in M.
+
+[12208] Similarly, since All M is in S is convertible into Some S is in M, the following arguments are equally valid:--
+
+[12321] Fig. iii. Fig. i. All M is in P All M is in P = All M is in S Some S is in M.
+
+[12400] Using both the above Converses in place of their Convertends, we have--
+
+[12473] Fig. iv. Fig. i. No P is in M No M is in P = All M is in S Some S is in M.
+
+[12549] It can be demonstrated (we shall see presently how) that altogether there are possible four valid forms or moods of the Second Figure, six of the Third, and five of the Fourth. An ingenious Mnemonic of these various moods and their reduction to the First Figure by the transposition of terms and premisses has come down from the thirteenth century. The first line names the moods of the First, Normal, or Standard Figure.
+
+[12972] BA*rb*A*r*A, CE*l*A*r*E*nt*, DA*r*II, FE*r*IO*que* prioris; CE*s*A*r*E, CA*m*E*str*E*s*, FE*st*I*n*O, BA*r*O*k*O, secundae; Tertia DA*r*A*pt*I, DI*s*A*m*I*s*, DA*t*I*s*I, FE*l*A*pt*O*n*, BO*k*A*rd*O, FE*r*I*s*O*que*, habet; quarta insuper addit, B*r*A*m*A*nt*IP, CA*m*E*n*E*s*, DI*m*A*r*I*s*, FE*s*A*p*O, F*r*E*s*I*s*O*n*.
+
+[13296] The vowels in the names of the Moods indicate the propositions of the Syllogism in the four forms, A E I O. To write out any Mood at length you have only to remember the Figure, and transcribe the propositions in the order of Major Premiss, Minor Premiss, and Conclusion. Thus, the Second Figure being
+
+[13599] PM SM
+
+[13606] FE*st*I*n*O is written--
+
+[13632] No P is in M. Some S is in M. Some S is not in P.
+
+[13683] The Fourth Figure being
+
+[13708] PM MS
+
+[13715] DI*m*A*r*I*s* is
+
+[13733] Some P is in M. All M is in S. Some S is in P.
+
+[13781] The initial letter in a Minor Mood indicates that Mood of the First to which it may be reduced. Thus Festino is reduced to Ferio, and Dimaris to Darii. In the cases of Baroko and Bokardo, B indicates that you may employ Barbara to bring any impugner to confusion, as shall be afterwards explained.
+
+[14080] The letters *s*, *m*, and *p* are also significant. Placed after a vowel, *s* indicates that the proposition has to be simply converted. Thus, FE*st*I*n*O:--
+
+[14239] No P is in M. Some S is in M. Some S is not in P.
+
+[14290] Simply convert the Major Premiss, and you get FE*r*IO, of the First.
+
+[14360] No M is in P. Some S is in M. Some S is not in P.
+
+[14411] *m* (*muta*, or *move*) indicates that the premisses have to be transposed. Thus, in CA*m*E*str*E*s*, you have to transpose the premisses, as well as simply convert the Minor Premiss before reaching the figure of CE*l*A*r*E*nt*.
+
+[14641] All P is in M No M is in S = No S is in M All P is in M.
+
+[14699] From this it follows in CE*l*A*r*E*nt* that No P is in S, and this simply converted yields No S is in P.
+
+[14805] A simple transposition of the premisses in DI*m*A*r*I*s* of the Fourth
+
+[14877] Some P is in M All M is in S
+
+[14907] yields the premisses of DA*r*II
+
+[14940] All M is in S Some P is in M,
+
+[14971] but the conclusion Some P is in S has to be simply converted.
+
+[15034] Placed after a vowel, *p* indicates that the proposition has to be converted *per accidens*. Thus in FE*l*A*pt*O*n* of the Third (MP, MS)
+
+[15173] No M is in P All M is in S Some S is not in P
+
+[15220] you have to substitute for All M is in S its converse by limitation to get the premisses of FE*r*IO.
+
+[15322] Two of the Minor Moods, Baroko of the Second Figure, and Bokardo of the Third, cannot be reduced to the First Figure by the ordinary processes of Conversion and Transposition. It is for dealing with these intractable moods that Contraposition is required. Thus in BA*r*O*k*O of the Second (PM, SM)
+
+[15621] All P is in M. Some S is not in M.
+
+[15657] Substitute for the Major Premiss its Converse by Contraposition, and for the Minor its Formal Obverse or Permutation, and you have FE*r*IO of the First, with not-M as the Middle.
+
+[15837] No not-M is in P. Some S is in not-M, Some S is not in P.
+
+[15896] The processes might be indicated by the Mnemonic FA*cs*O*c*O, with *c* indicating the contraposition of the predicate term or Formal Obversion.
+
+[16041] The reduction of BO*k*A*rd*O,
+
+[16072] Some M is not in P All M is in S Some S is not in P,
+
+[16126] is somewhat more intricate. It may be indicated by DO*cs*A*m*O*sc*. You substitute for the Major Premiss its Converse by Contraposition, transpose the Premisses and you have DA*r*II.
+
+[16310] All M is in S. Some not-P is in M. Some not-P is in S.
+
+[16366] Convert now the conclusion by Contraposition, and you have Some S is not in P.
+
+[16446] The author of the Mnemonic apparently did not recognise Contraposition, though it was admitted by Boethius; and, it being impossible without this to demonstrate the validity of Baroko and Bokardo by showing them to be equivalent with valid moods of the First Figure, he provided for their demonstration by the special process known as *Reductio ad absurdum*. B indicates that Barbara is the medium.
+
+[16846] The rationale of the process is this. It is an imaginary opponent that you reduce to an absurdity or self-contradiction. You show that it is impossible with consistency to admit the premisses and at the same time deny the conclusion. For, let this be done; let it be admitted as in BA*r*O*k*O that,
+
+[17146] All P is in M Some S is not in M,
+
+[17181] but denied that Some S is not in P. The denial of a proposition implies the admission of its Contradictory. If it is not true that Some S is not in P, it must be true that All S is in P. Take this along with the admission that All P is in M, and you have a syllogism in BA*rb*A*r*A,
+
+[17465] All P is in M All S is in P,
+
+[17495] yielding the conclusion All S is in M. If then the original conclusion is denied, it follows that All S is in M. But this contradicts the Minor Premiss, which has been admitted to be true. It is thus shown that an opponent cannot admit the premisses and deny the conclusion without contradicting himself.
+
+[17801] The same process may be applied to Bokardo.
+
+[17846] Some M is not in P. All M is in S. Some S is not in P.
+
+[17902] Deny the conclusion, and you must admit that All S is in P. Syllogised in Barbara with All M is in S, this yields the conclusion that All M is in P, the contradictory of the Major Premiss.
+
+[18092] The beginner may be reminded that the argument *ad absurdum* is not necessarily confined to Baroko and Bokardo. It is applied to them simply because they are not reducible by the ordinary processes to the First Figure. It might be applied with equal effect to other Moods, DI*m*A*r*I*s*, *e.g.*, of the Third.
+
+[18403] Some M is in P. All M is in S. Some S is in P.
+
+[18451] Let Some S is in P be denied, and No S is in P must be admitted. But if No S is in P and All M is in S, it follows (in Celarent) that No M is in P, which an opponent cannot hold consistently with his admission that Some M is in P.
+
+[18683] The beginner sometimes asks: What is the use of reducing the Minor Figures to the First? The reason is that it is only when the relations between the terms are stated in the First Figure that it is at once apparent whether or not the argument is valid under the Axiom or *Dictum de Omni*. It is then undeniably evident that if the Dictum holds the argument holds. And if the Moods of the First Figure hold, their equivalents in the other Figures must hold too.
+
+[19145] Aristotle recognised only two of the Minor Figures, the Second and Third, and thus had in all only fourteen valid moods.
+
+[19267] The recognition of the Fourth Figure is attributed by Averroes to Galen. Averroes himself rejects it on the ground that no arguments expressed naturally, that is, in accordance with common usage, fall into that form. This is a sufficient reason for not spending time upon it, if Logic is conceived as a science that has a bearing upon the actual practice of discussion or discursive thought. And this was probably the reason why Aristotle passed it over.
+
+[19723] If however the Syllogism of Terms is to be completed as an abstract doctrine, the Fourth Figure must be noticed as one of the forms of premisses that contain the required relation between the extremes. There is a valid syllogism between the extremes when the relations of the three terms are as stated in certain premisses of the Fourth Figure.
+
+[20069] III.--THE SORITES.
+
+[20089] A chain of Syllogisms is called a Sorites. Thus:--
+
+[20141] A Minor Premiss can thus be carried through a series of Universal Propositions each serving in turn as a Major to yield a conclusion which can be syllogised with the next. Obviously a Sorites may contain one particular premiss, provided it is the first; and one universal negative premiss, provided it is the last. A particular or a negative at any other point in the chain is an insuperable bar.
+
+[20539] CHAPTER III.
+
+[20553] THE DEMONSTRATION OF THE SYLLOGISTIC MOODS.--THE CANONS OF THE SYLLOGISM.
+
+[20628] How do we know that the nineteen moods are the only possible forms of valid syllogism?
+
+[20716] Aristotle treated this as being self-evident upon trial and simple inspection of all possible forms in each of his three Figures.
+
+[20847] Granted the parity between predication and position in or out of a limited enclosure (term, [Greek: horos]), it is a matter of the simplest possible reasoning. You have three such terms or enclosures, S, P and M; and you are given the relative positions of two of them to the third as a clue to their relative positions to one another. Is S in or out of P, and is it wholly in or wholly out or partly in or partly out? You know how each of them lies toward the third: when can you tell from this how S lies towards P?
+
+[21366] We have seen that when M is wholly in or out of P, and S wholly or partly in M, S is wholly or partly in or out of P.
+
+[21485] Try any other given positions in the First Figure, and you find that you cannot tell from them how S lies relatively to P. Unless the Major Premiss is Universal, that is, unless M lies wholly in or out of P, you can draw no conclusion, whatever the Minor Premiss may give. Given, *e.g.*, All S is in M, it may be that All S is in P, or that No S is in P, or that Some S is in P, or that Some S is not in P.
+
+[21893] Again, unless the Minor Premiss is affirmative, no matter what the Major Premiss may be, you can draw no conclusion. For if the Minor Premiss is negative, all that you know is that All S or Some S lies somewhere outside M; and however M may be situated relatively to P, that knowledge cannot help towards knowing how S lies relatively to P. All S may be P, or none of it, or part of it. Given all M is in P; the All S (or Some S) which we know to be outside of M may lie anywhere in P or out of it.
+
+[22393] Similarly, in the Second Figure, trial and simple inspection of all possible conditions shows that there can be no conclusion unless the Major Premiss is universal, and one of the premisses negative.
+
+[22594] Another and more common way of eliminating the invalid forms, elaborated in the Middle Ages, is to formulate principles applicable irrespective of Figure, and to rule out of each Figure the moods that do not conform to them. These regulative principles are known as The Canons of the Syllogism.
+
+[22890] *Canon I.* In every syllogism there should be three, and not more than three, terms, and the terms must be used throughout in the same sense.
+
+[23033] It sometimes happens, owing to the ambiguity of words, that there seem to be three terms when there are really four. An instance of this is seen in the sophism:--
+
+[23197] He who is most hungry eats most. He who eats least is most hungry. [.'.] He who eats least eats most.
+
+[23300] This Canon, however, though it points to a real danger of error in the application of the syllogism to actual propositions, is superfluous in the consideration of purely formal implication, it being a primary assumption that terms are univocal, and remain constant through any process of inference.
+
+[23600] Under this Canon, Mark Duncan says (*Inst. Log.*, iv. 3, 2), is comprehended another commonly expressed in this form: There should be nothing in the conclusion that was not in the premisses: inasmuch as if there were anything in the conclusion that was in neither of the premisses, there would be four terms in the syllogism.
+
+[23927] The rule that in every syllogism there must be three, and only three, propositions, sometimes given as a separate Canon, is only a corollary from Canon I.
+
+[24083] *Canon II.* The Middle Term must be distributed once at least in the Premisses.
+
+[24164] The Middle Term must either be wholly in, or wholly out of, one or other of the Extremes before it can be the means of establishing a connexion between them. If you know only that it is partly in both, you cannot know from that how they lie relatively to one another: and similarly if you know only that it is partly outside both.
+
+[24496] The Canon of Distributed Middle is a sort of counter-relative supplement to the *Dictum de Omni*. Whatever is predicable of a whole distributively is predicable of all its several parts. If in neither premiss there is a predication about the whole, there is no case for the application of the axiom.
+
+[24797] *Canon III.* No term should be distributed in the conclusion that was not distributed in the premisses.
+
+[24902] If an assertion is not made about the whole of a term in the premisses, it cannot be made about the whole of that term in the conclusion without going beyond what has been given.
+
+[25082] The breach of this rule in the case of the Major term is technically known as the Illicit Process of the Major: in the case of the Minor term, Illicit Process of the Minor.
+
+[25256] Great use is made of this canon in cutting off invalid moods. It must be remembered that the Predicate term is "distributed" or taken universally in O (Some S is not in P) as well as in E (No S is in P); and that P is never distributed in affirmative propositions.
+
+[25522] *Canon IV.* No conclusion can be drawn from two negative premisses.
+
+[25591] Two negative premisses are really tantamount to a declaration that there is no connexion whatever between the Major and Minor (as quantified in the premisses) and the term common to both premisses; in short, that this is not a Middle term--that the condition of a valid Syllogism does not exist.
+
+[25888] There is an apparent exception to this when the real Middle in an argument is a contrapositive term, not-M. Thus:--
+
+[26005] Nobody who is not thirsty is suffering from fever. This person is not thirsty. [.'.] He is not suffering from fever.
+
+[26123] But in such cases it is really the absence of a quality or rather the presence of an opposite quality on which we reason; and the Minor Premiss is really Affirmative of the form S is in not-M.
+
+[26317] *Canon V.* If one premiss is negative, the conclusion must be negative.
+
+[26390] If one premiss is negative, one of the Extremes must be excluded in whole or in part from the Middle term. The other must therefore (under Canon IV.) declare some coincidence between the Middle term and the other extreme; and the conclusion can only affirm exclusion in whole or in part from the area of this coincidence.
+
+[26713] *Canon VI.* No conclusion can be drawn from two particular premisses.
+
+[26784] This is evident upon a comparison of terms in all possible positions, but it can be more easily demonstrated with the help of the preceding canons. The premisses cannot both be particular and yield a conclusion without breaking one or other of those canons.
+
+[27043] Suppose both are affirmative, II, the Middle is not distributed in either premiss.
+
+[27127] Suppose one affirmative and the other negative, IO, or OI. Then, whatever the Figure may be, that is, whatever the order of the terms, only one term can be distributed, namely, the predicate of O. This (Canon II.) must be the Middle. But in that case there must be Illicit Process of the Major (Canon III.), for one of the premisses being negative, the conclusion is negative (Canon V.), and P its predicate is distributed. Briefly, in a negative mood, both Major and Middle must be distributed, and if both premisses are particular this cannot be.
+
+[27677] *Canon VII.* If one Premiss is particular the conclusion is particular.
+
+[27750] This canon is sometimes combined with what we have given as Canon V., in a single rule: "The conclusion follows the weaker premiss".
+
+[27884] It can most compendiously be demonstrated with the help of the preceding canons.
+
+[27966] Suppose both premisses affirmative, then, if one is particular, only one term can be distributed in the premisses, namely, the subject of the Universal affirmative premiss. By Canon II., this must be the Middle, and the Minor, being undistributed in the Premisses, cannot be distributed in the conclusion. That is, the conclusion cannot be Universal--must be particular.
+
+[28338] Suppose one Premiss negative, the other affirmative. One premiss being negative, the conclusion must be negative, and P must be distributed in the conclusion. Before, then, the conclusion can be universal, all three terms, S, M, and P, must, by Canons II. and III., be distributed in the premisses. But whatever the Figure of the premisses, only two terms can be distributed. For if one of the Premisses be O, the other must be A, and if one of them is E, the other must be I. Hence the conclusion must be particular, otherwise there will be illicit process of the Minor, or of the Major, or of the Middle.
+
+[28946] The argument may be more briefly put as follows:
+
+[28996] In an affirmative mood, with one premiss particular, only one term can be distributed in the premisses, and this cannot be the Minor without leaving the Middle undistributed. In a negative mood, with one premiss particular, only two terms can be distributed, and the Minor cannot be one of them without leaving either the Middle or the Major undistributed.
+
+[29354] Armed with these canons, we can quickly determine, given any combination of three propositions in one of the Figures, whether it is or is not a valid Syllogism.
+
+[29516] Observe that though these canons hold for all the Figures, the Figure must be known, in all combinations containing A or O, before we can settle a question of validity by Canons II. and III., because the distribution of terms in A and O depends on their order in predication.
+
+[29793] Take AEE. In Fig. I.--
+
+[29817] All M is in P No S is in M No S is in P--
+
+[29860] the conclusion is invalid as involving an illicit process of the Major. P is distributed in the conclusion and not in the premisses.
+
+[29994] In Fig. II. AEE--
+
+[30013] All P is in M No S is in M No S is in P--
+
+[30056] the conclusion is valid (Camestres).
+
+[30094] In Fig. III. AEE--
+
+[30114] All M is in P No M is in S No S is in P--
+
+[30157] the conclusion is invalid, there being illicit process of the Major.
+
+[30227] In Fig. IV. AEE is valid (Camenes).
+
+[30264] Take EIO. A little reflection shows that this combination is valid in all the Figures if in any, the distribution of the terms in both cases not being affected by their order in predication. Both E and I are simply convertible. That the combination is valid is quickly seen if we remember that in negative moods both Major and Middle must be distributed, and that this is done by E.
+
+[30648] EIE is invalid, because you cannot have a universal conclusion with one premiss particular.
+
+[30741] AII is valid in Fig. I. or Fig. III., and invalid in Figs. II. and IV., because M is the subject of A in I. and III. and predicate in II. and IV.
+
+[30888] OAO is valid only in Fig. III., because only in that Figure would this combination of premisses distribute both M and P.
+
+[31010] Simple exercises of this kind may be multiplied till all possible combinations are exhausted, and it is seen that only the recognised moods stand the test.
+
+[31167] If a more systematic way of demonstrating the valid moods is desired, the simplest method is to deduce from the Canons special rules for each Figure. Aristotle arrived at these special rules by simple inspection, but it is easier to deduce them.
+
+[31414] I. In the First Figure, the Major Premiss must be Universal, and the Minor Premiss affirmative.
+
+[31511] To make this evident by the Canons, we bear in mind the Scheme or Figure--
+
+[31587] and try the alternatives of Affirmative Moods and Negative Moods. Obviously in an affirmative mood the Middle is undistributed unless the Major Premiss is Universal. In a negative mood, (1) If the Major Premiss is O, the Minor must be affirmative, and M is undistributed; (2) if the Major Premiss is I, M may be distributed by a negative Minor Premiss, but in that case there would be an illicit process of the Major--P being distributed in the conclusion (Canon V.) and not in the Premisses. Thus the Major Premiss can neither be O nor I, and must therefore be either A or E, *i.e.*, must be Universal.
+
+[32192] That the Minor must be affirmative is evident, for if it were negative, the conclusion must be negative (Canon V.) and the Major Premiss must be affirmative (Canon IV.), and this would involve illicit process of the Major, P being distributed in the conclusion and not in the Premisses.
+
+[32480] These two special rules leave only four possible valid forms in the First Figure. There are sixteen possible combinations of premisses, each of the four types of proposition being combinable with itself and with each of the others.
+
+[32713] AA EA IA OA AE EE IE OE AI EI II OI AO EO IO OO
+
+[32762] Special Rule I. wipes out the columns on the right with the particular major premisses; and AE, EE, AO, and EO are rejected by Special Rule II., leaving BA*rb*A*r*A, CE*l*A*r*E*nt*, DA*r*II and FE*r*IO.
+
+[32966] II. In the Second Figure, only Negative Moods are possible, and the Major Premiss must be universal.
+
+[33068] Only Negative moods are possible, for unless one premiss is negative, M being the predicate term in both--
+
+[33176] is undistributed.
+
+[33195] Only negative moods being possible, there will be illicit process of the Major unless the Major Premiss is universal, P being its subject term.
+
+[33340] These special rules reject AA and AI, and the two columns on the right.
+
+[33413] To get rid of EE and EO, we must call in the general Canon IV.; which leaves us with EA, AE, EI, and AO--CE*s*A*r*E, CA*m*E*str*E*s*, FE*st*I*n*O BA*r*O*k*O.
+
+[33572] III. In the Third Figure, the Minor Premiss must be affirmative.
+
+[33638] Otherwise, the conclusion would be negative, and the Major Premiss affirmative, and there would be illicit process of the Major, P being the predicate term in the Major Premiss.
+
+[33817] M in P M in S.
+
+[33833] This cuts off AE, EE, IE, OE, AO, EO, IO, OO,--the second and fourth rows in the above list.
+
+[33927] II and OI are inadmissible by Canon VI.; which leaves AA, IA, AI, EA, OA, EI--DA*r*A*pt*I, DI*s*A*m*I*s*, DA*t*I*s*I, FE*l*A*pt*O*n*, BO*k*A*rd*O, FE*r*I*s*O--three affirmative moods and three negative.
+
+[34131] IV. The Fourth Figure is fenced by three special rules. (1) In negative moods, the Major Premiss is universal. (2) If the Minor is negative, both premisses are universal. (3) If the Major is affirmative, the Minor is universal.
+
+[34360] (1) Otherwise, the Figure being
+
+[34393] P in M M in S,
+
+[34409] there would be illicit process of the Major.
+
+[34455] (2) The Major must be universal by special rule (1), and if the Minor were not also universal, the Middle would be undisturbed.
+
+[34584] (3) Otherwise M would be undistributed.
+
+[34625] Rule (1) cuts off the right-hand column, OA, OE, OI, and OO; also IE and IO.
+
+[34703] Rule (2) cuts off AO, EO.
+
+[34730] Rule (3) cuts off AI, II.
+
+[34757] EE goes by general Canon IV.; and we are left with AA, AE, IA, EA, EI--B*r*A*m*A*nt*I*p*, CA*m*E*n*E*s*, DI*m*A*r*I*s*, FE*s*A*p*O, F*r*E*s*I*s*O*n*.
+
+[34908] CHAPTER IV.
+
+[34921] THE ANALYSIS OF ARGUMENTS INTO SYLLOGISTIC FORMS.
+
+[34972] Turning given arguments into syllogistic form is apt to seem as trivial and useless as it is easy and mechanical. In most cases the necessity of the conclusion is as apparent in the plain speech form as in the artificial logical form. The justification of such exercises is that they give familiarity with the instrument, serving at the same time as simple exercises in ratiocination: what further uses may be made of the instrument once it is mastered, we shall consider as we proceed.
+
+[35460] I.--FIRST FIGURE.
+
+[35479] Given the following argument to be put into Syllogistic form: "No war is long popular: for every war increases taxation; and the popularity of anything that touches the pocket is short-lived".
+
+[35673] The simplest method is to begin with the conclusion--"No war is long popular"--No S is P--then to examine the argument to see whether it yields premisses of the necessary form. Keeping the form in mind, Celarent of Fig. I.--
+
+[35899] No M is P All S is M No S is P-- we see at once that "Every war increases taxation" is of the form All S is M. Does the other sentence yield the Major Premiss No M is P, when M represents the increasing of taxation, *i.e.*, a class bounded by that attribute? We see that the last sentence of the argument is equivalent to saying that "Nothing that increases taxation is long popular"; and this with the Minor yields the conclusion in Celarent.
+
+[36344] Nothing that increases taxation is long popular. Every war increases taxation. No war is long popular.
+
+[36448] Observe, now, what in effect we have done in thus reducing the argument to the First Figure. In effect, a general principle being alleged as justifying a certain conclusion, we have put that principle into such a form that it has the same predicate with the conclusion. All that we have then to do in order to inspect the validity of the argument is to see whether the subject of the conclusion is contained in the subject of the general principle. Is war one of the things that increase taxation? Is it one of that class? If so, then it cannot long be popular, long popularity being an attribute that cannot be affirmed of any of that class.
+
+[37092] Reducing to the first figure, then, amounts simply to making the predication of the proposition alleged as ground uniform with the conclusion based upon it. The minor premiss or applying proposition amounts to saying that the subject of the conclusion is contained in the subject of the general principle. Is the subject of the conclusion contained in the subject of the general principle when the two have identical predicates? If so, the argument falls at once under the *Dictum de Omni et Nullo*.
+
+[37593] Two things may be noted concerning an argument thus simplified.
+
+[37658] 1. It is not necessary, in order to bring an argument under the *dictum de omni*, to reduce the predicate to the form of an extensive term. In whatever form, abstract or concrete, the predication is made of the middle term, it is applicable in the same form to that which is contained in the middle term.
+
+[37964] 2. The quantity of the Minor Term does not require special attention, inasmuch as the argument does not turn upon it. In whatever quantity it is contained in the Middle, in that quantity is the predicate of the Middle predicable of it.
+
+[38201] These two points being borne in mind, the attention may be concentrated on the Middle Term and its relations with the extremes.
+
+[38330] That the predicate may be left unanalysed without affecting the simplicity of the argument or in any way obscuring the exhibition of its turning-point, has an important bearing on the reduction of Modals. The modality may be treated as part of the predicate without in any way obscuring what it is the design of the syllogism to make clear. We have only to bear in mind that however the predicate may be qualified in the premisses, the same qualification must be transferred to the conclusion. Otherwise we should have the fallacy of Four Terms, *quaternio terminorum*.
+
+[38901] To raise the question: What is the proper form for a Modal of Possibility, A or I? is to clear up in an important respect our conceptions of the Universal proposition, "Victories may be gained by accident". Should this be expressed as A or I? Is the predicate applicable to All victories or only to Some? Obviously the meaning is that of any victory it may be true that it was gained by accident, and if we treat the "mode" as part of the predicate term "things that may be gained by accident," the form of the proposition is All S is in P.
+
+[39443] But, it may be asked, does not the proposition that victories may be gained by accident rest, as a matter of fact, on the belief that some victories have been gained in this way? And is not, therefore, the proper form of proposition Some S is P?
+
+[39690] This, however, is a misunderstanding. What we are concerned with is the formal analysis of propositions as given. And Some victories have been gained by accident is not the formal analysis of Victories may be gained by accident. The two propositions do not give the same meaning in different forms: the meaning as well as the form is different. The one is a statement of a matter of fact: the other of an inference founded on it. The full significance of the Modal proper may be stated thus: In view of the fact that some victories have been gained by accident, we are entitled to say of any victory, in the absence of certain knowledge, that it may be one of them.
+
+[40357] A general proposition, in short, is a proposition about a genus, taken universally.
+
+[40442] II.--SECOND FIGURE.
+
+[40463] For testing arguments from general principles, the First Figure is the simplest and best form of analysis.
+
+[40571] But there is one common class of arguments that fall naturally, as ordinarily expressed, into the Second Figure, namely, negative conclusions from the absence of distinctive signs or symptoms, or necessary conditions.
+
+[40790] Thirst, for example, is one of the symptoms of fever: if a patient is not thirsty, you can conclude at once that his illness is not fever, and the argument, fully expressed, is in the Second Figure.
+
+[40990] All fever-stricken patients are thirsty. This patient is not thirsty. [.'.] He is not fever-stricken.
+
+[41093] Arguments of this type are extremely common.
+
+[41139] Armed with the general principle that ill-doers are ill-dreaders, we argue from a man's being unsuspicious that he is not guilty. The negative diagnosis of the physician, as when he argues from the absence of sore throat or the absence of a white speck in the throat that the case before him is not one of scarlatina or diphtheria, follows this type: and from its utility in making such arguments explicit, the Second Figure may be called the Figure of Negative Diagnosis.
+
+[41613] It is to be observed, however, that the character of the argument is best disclosed when the Major Premiss is expressed by its Converse by Contraposition. It is really from the absence of a symptom that the physician concludes; as, for example: "No patient that has not a sore throat is suffering from scarlatina". And the argument thus expressed is in the First Figure. Thus the reduction of Baroko to the First Figure by contraposition of the Middle is vindicated as a really useful process. The real Middle is a contrapositive term, and the form corresponds more closely to the reasoning when the argument is put in the First Figure.
+
+[42251] The truth is that if the positive term or sign or necessary condition is prominent as the basis of the argument, there is considerable risk of fallacy. Sore throat being one of the symptoms of scarlatina, the physician is apt on finding this symptom present to jump to a positive conclusion. This is equivalent technically to drawing a positive conclusion from premisses of the Second Figure.
+
+[42645] All scarlatina patients have sore throat. This patient has sore throat.
+
+[42718] A positive conclusion is technically known as a Non-Sequitur (Doesn't follow). So with arguments from the presence of a necessary condition which is only one of many. Given that it is impossible to pass without working at the subject, or that it is impossible to be a good marksman without having a steady hand, we are apt to argue that given also the presence of this condition, a conclusion is implicated. But really the premisses given are only two affirmatives of the Second Figure.
+
+[43206] "It is impossible to pass without working at the subject."
+
+[43266] This, put into the form No not-M is P, is to say that "None who have not worked can pass". This is equivalent, as the converse by contraposition, with--
+
+[43420] All capable of passing have worked at the subject.
+
+[43472] But though Q has worked at the subject, it does not follow that he is capable of passing. Technically the middle is undistributed. On the other hand, if he has not worked at the subject, it follows that he is not capable of passing. We can draw a conclusion at once from the absence of the necessary condition, though none can be drawn from its presence alone.
+
+[43834] THIRD FIGURE.
+
+[43849] Arguments are sometimes advanced in the form of the Third Figure. For instance: Killing is not always murder: for tyrannicide is not murder, and yet it is undoubtedly killing. Or again: Unpleasant things are sometimes salutary: for afflictions are sometimes so, and no affliction can be called pleasant.
+
+[44154] These arguments, when analysed into terms, are, respectively, Felapton and Disamis.
+
+[44239] No tyrannicide is murder; All tyrannicide is killing; Some killing is not murder.
+
+[44322] Some afflictions are salutary things; All afflictions are unpleasant things; Some unpleasant things are salutary things.
+
+[44444] The syllogistic form cannot in such cases pretend to be a simplification of the argument. The argument would be equally unmistakable if advanced in this form: Some S is not P, for example, M. Some killing is not murder, *e.g.,* tyrannicide. Some unpleasant things are salutary, *e.g.,* some afflictions.
+
+[44749] There is really no "deduction" in the third figure, no leading down from general to particular. The middle term is only an example of the minor. It is the syllogism of Contradictory Examples.
+
+[44942] In actual debate examples are produced to disprove a universal assertion, affirmative or negative. Suppose it is maintained that every wise man has a keen sense of humour. You doubt this: you produce an instance of the opposite, say Milton. The force of your contradictory instance is not increased by exhibiting the argument in syllogistic form: the point is not made clearer.
+
+[45321] The Third Figure was perhaps of some use in Yes and No Dialectic. When you had to get everything essential to your conclusion definitely admitted, it was useful to know that the production of an example to refute a generality involved the admission of two propositions. You must extract from your opponent both that Milton was a wise man, and that Milton had not a keen sense of humour, before you could drive him from the position that all wise men possess that quality.
+
+[45794] *Examples for Analysis.*
+
+[45820] Scarlet flowers have no fragrance: this flower has no fragrance: does it follow that this flower is of a scarlet colour?
+
+[45942] Interest in the subject is an indispensable condition of learning easily; Z is interested in the subject: he is bound, therefore, to learn easily.
+
+[46090] It is impossible to be a good shot without having a steady hand: John has a steady hand: he is capable, therefore, of becoming a good shot.
+
+[46231] Some victories have been won by accident; for example, Maiwand.
+
+[46296] Intemperance is more disgraceful than cowardice, because people have more opportunities of acquiring control of their bodily appetites.
+
+[46433] "Some men are not fools, yet all men are fallible." What follows?
+
+[46500] "Some men allow that their memory is not good: every man believes in his own judgment." What is the conclusion, and in what Figure and Mood may the argument be expressed?
+
+[46672] "An honest man's the noblest work of God: Z is an honest man": therefore, he is--what?
+
+[46760] Examine the logical connexion between the following "exclamation" and "answer": "But I hear some one exclaiming that wickedness is not easily concealed. To which I answer, Nothing great is easy."
+
+[46957] "If the attention is actively aroused, sleep becomes impossible: hence the sleeplessness of anxiety, for anxiety is a strained attention upon an impending disaster."
+
+[47124] "To follow truth can never be a subject of regret: free inquiry does lead a man to regret the days of his childish faith; therefore it is not following truth."--*J. H. Newman.*
+
+[47302] He would not take the crown: Therefore 'tis certain he was not ambitious.
+
+[47377] As he was valiant, I honour him; as he was ambitious, I slew him.
+
+[47444] The Utopians learned the language of the Greeks with more readiness because they were originally of the same race with them.
+
+[47570] Nothing which is cruel can be expedient, for cruelty is most revolting to the nature of man.
+
+[47664] "The fifth century saw the foundation of the Frank dominion in Gaul, and the first establishment of the German races in Britain. The former was effected in a single long reign, by the energy of one great ruling tribe, which had already modified its traditional usages, and now, by the adoption of the language and religion of the conquered, prepared the way for a permanent amalgamation with them." In the second of the above sentences a general proposition is assumed. Show in syllogistic form how the last proposition in the sentence depends upon it.
+
+[48218] "I do not mean to contend that active benevolence may not hinder a man's advancement in the world: for advancement greatly depends upon a reputation for excellence in some one thing of which the world perceives that it has present need: and an obvious attention to other things, though perhaps not incompatible with the excellence itself, may easily prevent a person from obtaining a reputation for it." Pick out the propositions here given as interdependent. Examine whether the principle alleged is sufficiently general to necessitate a conclusion. In what form would it be so?
+
+[48799] CHAPTER V.
+
+[48811] ENTHYMEMES.
+
+[48824] There is a certain variety in the use of the word Enthymeme among logicians. In the narrowest sense, it is a valid formal syllogism, with one premiss suppressed. In the widest sense it is simply an argument, valid or invalid, formal in expression or informal, with only one premiss put forward or hinted at, the other being held in the mind ([Greek: en thymo]). This last is the Aristotelian sense.
+
+[49224] It is only among formal logicians of the straitest sect that the narrowest sense prevails. Hamilton divides Enthymemes into three classes according as it is the Major Premiss, the Minor Premiss, or the Conclusion that is suppressed. Thus, a full syllogism being:--
+
+[49490] All liars are cowards: Caius is a liar: [.'.] Caius is a coward:--
+
+[49558] this may be enthymematically expressed in three ways.
+
+[49613] I. Enthymeme of the First Order (*Major understood*).
+
+[49668] Caius is a coward; for Caius is a liar.
+
+[49709] II. Enthymeme of the Second Order (*Minor understood*).
+
+[49766] Caius is a coward; for all liars are cowards.
+
+[49813] III. Enthymeme of the Third Order (*Conclusion understood*).
+
+[49875] All liars are cowards, and Caius is a liar.
+
+[49920] The Third Order is a contribution of Hamilton's own. It is superfluous, inasmuch as the conclusion is never suppressed except as a rhetorical figure of speech. Hamilton confines the word Enthymeme to valid arguments, in pursuance of his view that Pure Logic has no concern with invalid arguments.
+
+[50218] Aristotle used Enthymeme in the wider sense of an elliptically expressed argument. There has been some doubt as to the meaning of his definition, but that disappears on consideration of his examples. He defines an Enthymeme (Prior Analyt., ii. 27) as "a syllogism from probabilities or signs" ([Greek: syllogismos ex eikoton e semeion]). The word syllogism in this connexion is a little puzzling. But it is plain from the examples he gives that he meant here by syllogism not even a correct reasoning, much less a reasoning in the explicit form of three terms and three propositions. He used syllogism, in fact, in the same loose sense in which we use the words reasoning and argument, applying without distinction of good and bad.
+
+[50951] The sign, he says, is taken in three ways, in as many ways as there are Syllogistic Figures.
+
+[51045] (1) A sign interpreted in the First Figure is conclusive. Thus: "This person has been drowned, for he has froth in the trachea". Taken in the First Figure with "All who have froth in the trachea have been drowned" as a major premiss, this argument is valid. The sign is conclusive.
+
+[51328] (2) "This patient is fever-stricken, for he is thirsty." Assumed that "All fever-stricken patients are thirsty," this is an argument in the Second Figure, but it is not a valid argument. Thirst is a sign or symptom of fever, but not a conclusive sign, because it is indicative of other ailments also. Yet the argument has a certain probability.
+
+[51674] (3) "Wise men are earnest ([Greek: spoudaioi]), for Pittacus is earnest." Here the suppressed premiss is that "Pittacus is wise". Fully expressed, the argument is in the Third Figure:--
+
+[51861] Pittacus is earnest. Pittacus is wise. [.'.] Wise men are earnest.
+
+[51929] Here again the argument is inconclusive and yet it has a certain probability. The coincidence of wisdom with earnestness in one notable example lends a certain air of probability to the general statement.
+
+[52135] Such are Aristotle's examples or strict parallels to them. The examples illustrate also what he says in his *Rhetoric* as to the advantages of enthymemes. For purposes of persuasion enthymemes are better than explicit syllogisms, because any inconclusiveness there may be in the argument is more likely to pass undetected. As we shall see, one main use of the Syllogism is to force tacit assumptions into light and so make their true connexion or want of connexion apparent. In Logic enthymemes are recognised only to be shown up: the elliptical expression is a cover for fallacy, which it is the business of the logician to strip off.
+
+[52772] In Aristotle's examples one of the premisses is expressed. But often the arguments of common speech are even less explicit than this. A general principle is vaguely hinted at: a subject is referred to a class the attributes of which are assumed to be definitely known. Thus:--
+
+[53050] He was too ambitious to be scrupulous in his choice of means.
+
+[53113] He was too impulsive not to have made many blunders.
+
+[53167] Each of these sentences contains a conclusion and an enthymematic argument in support of it. The hearer is understood to have in his mind a definite idea of the degree of ambition at which a man ceases to be scrupulous, or the degree of impulsiveness that is incompatible with accuracy.
+
+[53455] One form of enthymeme is so common in modern rhetoric as to deserve a distinctive name. It may be called the ENTHYMEME OF THE ABSTRACTLY DENOMINATED PRINCIPLE. A conclusion is declared to be at variance with the principles of Political Economy, or contrary to the doctrine of Evolution, or inconsistent with Heredity, or a violation of the sacred principle of Freedom of Contract. It is assumed that the hearer is familiar with the principles referred to. As a safeguard against fallacy, it may be well to make the principle explicit in a proposition uniform with the conclusion.
+
+[54036] CHAPTER VI.
+
+[54049] THE UTILITY OF THE SYLLOGISM.
+
+[54080] The main use of the Syllogism is in dealing with incompletely expressed or elliptical arguments from general principals. This may be called Enthymematic argument, understanding by Enthymeme an argument with only one premiss put forward or hinted at, the other being held in the mind. In order to test whether such reasoning is sound or unsound, it is of advantage to make the argument explicit in Syllogistic form.
+
+[54496] There have been heaps and mazes of discussion about the use of the Syllogism, much of it being profitable as a warning against the neglect of Formal Logic. Again and again it has been demonstrated that the Syllogism is useless for certain purposes, and from this it has been concluded that the Syllogism is of no use at all.
+
+[54822] The inventor of the Syllogism had a definite practical purpose, to get at the simplest, most convincing, undeniable and irresistible way of putting admitted or self-evident propositions so that their implication should be apparent. His ambition was to furnish a method for the Yes and No Dialectician, and the expounder of science from self-evident principles. A question being put up for discussion, it was an advantage to analyse it, and formulate the necessary premisses: you could then better direct your interrogations or guard your answers. The analysis is similarly useful when you want to construct an argument from self-evident principles.
+
+[55472] All that the Syllogism could show was the consistency of the premisses with the conclusion. The conclusion could not go beyond the premisses, because the questioner could not go beyond the admissions of the respondent. There is indeed an advance, but not an advance upon the two premisses taken together. There is an advance upon any one of them, and this advance is made with the help of the other. Both must be admitted: a respondent may admit one without being committed to the conclusion. Let him admit both and he cannot without self-contradiction deny the conclusion. That is all.
+
+[56060] Dialectic of the Yes and No kind is no longer practised. Does any analogous use for the Syllogism remain? Is there a place for it as a safeguard against error in modern debate? As a matter of fact it is probably more useful now than it was for its original purpose, inasmuch as modern discussion, aiming at literary grace and spurning exact formality as smacking of scholasticism and pedantry, is much more flabby and confused. In the old dialectic play there was generally a clear question proposed. The interrogative form forced this much on the disputants. The modern debater of the unpedantic, unscholastic school is not so fettered, and may often be seen galloping wildly about without any game in sight or scent, his maxim being to--
+
+[56801] Spur boldly on, and dash through thick and thin, Through sense and nonsense, never out nor in.
+
+[56897] Now the syllogistic analysis may often be of some use in helping us to keep a clear head in the face of a confused argument. There is a brilliant defence of the syllogism as an analysis of arguments in the *Westminster Review* for January, 1828. The article was a notice of Whately's Logic: it was written by J. S. Mill. For some reason it has never been reprinted, but it puts the utility of the Syllogism on clearer ground than Mill afterwards sought for it.
+
+[57359] Can a fallacy in argument be detected at once? Is common-sense sufficient? Common-sense would require some inspection. How would it proceed? Does common-sense inspect the argument in a lump or piecemeal? All at once or step by step? It analyses. How? First, it separates out the propositions which contribute to the conclusion from those which do not, the essential from the irrelevant. Then it states explicitly all that may have been assumed tacitly. Finally, it enumerates the propositions in order.
+
+[57863] Some such procedure as this would be adopted by common-sense in analysing an argument. But when common-sense has done this, it has exhibited the argument in a series of syllogisms.
+
+[58045] Such is Mill's early defence of the Syllogism. It is weak only in one point, in failing to represent how common-sense would arrive at the peculiar syllogistic form. It is the peculiar form of logical analysis that is the distinction of the syllogism. When you have disentangled the relevant propositions you have not necessarily put them in this form. The arguments given in text-books to be cast into syllogistic form, consist only as a rule of relevant propositions, but they are not yet formal syllogisms. But common-sense had only one other step to make to reach the distinctive form. It had only to ask after analysing the argument, Is there any form of statement specially suitable for exhibiting the connexion between a conclusion and the general principle on which it is alleged to depend? Ask yourself the question, and you will soon see that there would be an obvious advantage in making the conclusion and the general principle uniform, in stating them with the same predicate. But when you do this, as I have already shown (p. 197) you state the argument in the First Figure of the Syllogism.
+
+[59151] It must, however, be admitted that it is chiefly for exhibiting, or forcing into light, tacit or lurking assumptions that the Syllogistic form is of use. Unless identity of meaning is disguised or distorted by puzzling difference of language, there is no special illuminative virtue in the Syllogism. The argument in a Euclidean demonstration would not be made clearer by being cast into formal Syllogisms.
+
+[59559] Again, when the subject matter is simple, the Syllogistic form is not really required for protection against error. In such enthymemes as the following for example:--
+
+[59727] She must be clever: she is so uncompromisingly ugly. Romeo must be in love: for is he not seventeen?
+
+[59829] it is plain to the average intelligence without any knowledge of Syllogism that the argument takes for granted a general proposition and what the general proposition is.
+
+[60000] Another thing is plain to the average intelligence, perhaps plainer than to a proficient in the use of the Syllogism. Clearly we cannot infer with certainty that a woman is clever because she is ugly, unless it is the case that all ugly women are clever. But a Syllogiser, seeing that no certain conclusion can be drawn except upon this condition, is apt to dismiss the argument as altogether worthless. This may be specified as an error incident to the practice of the Syllogism, that it inclines us to look for necessarily conclusive premisses, and to deny all weight to anything short of this. Now in ordinary life it is comparatively seldom that such premisses can be found. We are obliged to proceed on maxims that are not of universal scope, and which lend only a more or less strong colour of probability to cases that can be brought under them. "A little learning is a dangerous thing;" "Haste makes waste;" "Slowness of speech is a sign of depth of thought;" "Vivacity is a sign of shallowness:" such are the "endoxes" or commonplaces of popular knowledge that men bring to bear in daily life. They are not true for all cases, but some of them are true for most or for a good many, and they may be applied with a certain probability though they are not rigidly conclusive. The plain man's danger is that he apply them unthinkingly as universals: the formal logician's danger is that, seeing them to be inapplicable as universals, he dismisses them as being void of all argumentative force.
+
+[61500] It helps to fix the limits of Formal Logic to remember that it lies outside its bounds to determine the degree of probability attaching to the application of approximate truths, such as are the staple of arguments in ordinary affairs. Formal Logic, we may repeat, is not concerned with degrees of truth or falsehood, probability or improbability. It merely shows the interdependency of certain arguments, the consistency of conclusion with premisses.
+
+[61952] This, however, is a function that might easily be underrated. Its value is more indirect than direct. In showing what is required for a certain conclusion, it puts us on the road to a more exact estimate of the premisses alleged, a sounder judgment of their worth. Well begun is half done: in undertaking the examination of any argument from authority, a formal syllogism is a good beginning.
+
+[62346] CHAPTER VII.
+
+[62360] CONDITIONAL ARGUMENTS.--HYPOTHETICAL SYLLOGISM, DISJUNCTIVE SYLLOGISM, AND DILEMMA.
+
+[62445] The justification of including these forms of argument in Logic is simply that they are sometimes used in debate, and that confusion may arise unless the precise meaning of the premisses employed is understood. Aristotle did not include them as now given in his exposition of the Syllogism, probably because they have no connexion with the mode of reasoning together to which he appropriated the title. The fallacies connected with them are of such a simple kind that to discuss as a question of method the precise place they should occupy in a logical treatise is a waste of ingenuity.
+
+[63033] I.--HYPOTHETICAL SYLLOGISMS.
+
+[63063] If A is B, C is D | C is not D } MODUS [.'.]A is not B | TOLLENS.
+
+[63130] A so-called Hypothetical Syllogism is thus seen to be a Syllogism in which the major premiss is a HYPOTHETICAL PROPOSITION, that is to say, a complex proposition in which two propositions are given as so related that the truth of one follows necessarily from the truth of the other.
+
+[63414] Two propositions so related are technically called the ANTECEDENT or Reason, and the CONSEQUENT.
+
+[63512] The meaning and implication of the form, If A is B, C is D, is expressed in what is known as the LAW OF REASON AND CONSEQUENT:--
+
+[63642] "_When two propositions are related as Reason and Consequent, the truth of the Consequent follows from the truth of the Antecedent, and the falsehood of the Antecedent, from the falsehood of the Consequent_".
+
+[63852] If A is B, C is D, implies that If C is not D, A is not B. If this subject is educative, it quickens the wits; if it does not quicken the wits, it is not educative.
+
+[64018] Admitted, then, that the law of Reason and Consequent holds between two propositions--that If A is B, C is D: admitted also the Antecedent, the truth of the Consequent follows. This is the MODUS PONENS or Positive Mode, where you reach a conclusion by obtaining the admission of the Antecedent. Admit the Antecedent and the truth of the Consequent follows.
+
+[64376] With the same Major Premiss, you may also, under the Law of Reason and Consequent reach a conclusion by obtaining the denial of the Consequent. This is the MODUS TOLLENS or Negative Mode. Deny the Consequent and one is bound to deny the Antecedent.
+
+[64626] But to guard against the fallacy technically known as FALLACIA CONSEQUENTIS, we must observe what the relation of Reason and Consequent does not imply. The truth of the Consequent does not involve the truth of the Antecedent, and the falsehood of the Antecedent does not involve the falsehood of the Consequent.
+
+[64939] "If the harbour is frozen, the ships cannot come in." If the harbour is not frozen, it does not follow that the ships can come in: they may be excluded by other causes. And so, though they cannot come in, it does not follow that the harbour is frozen.
+
+[65192] QUESTIONS CONNECTED WITH HYPOTHETICAL SYLLOGISMS.
+
+[65243] (1) *Are they properly called Syllogisms?* This is purely a question of Method and Definition. If we want a separate technical name for forms of argument in which two terms are reasoned together by means of a third, the Hypothetical Syllogism, not being in such a form, is not properly so called. The fact is that for the purposes of the Hypothetical Argument, we do not require an analysis into terms at all: it is superfluous: we are concerned only with the affirmation or denial of the constituent propositions as wholes.
+
+[65769] But if we extend the word Syllogism to cover all arguments in which two propositions necessarily involve a third, the Hypothetical Argument is on this understanding properly enough called a Syllogism.
+
+[65971] (2) _Is the inference in the Hypothetical Syllogism Mediate or Immediate?_
+
+[66047] To answer this question we have to consider whether the Conclusion can be drawn from either of the two premisses without the help of the other. If it is possible immediately, it must be educible directly either from the Major Premiss or from the Minor.
+
+[66301] (*a*) Some logicians argue as if the Conclusion were immediately possible from the Major Premiss. The Minor Premiss and the Conclusion, they urge, are simply equivalent to the Major Premiss. But this is a misunderstanding. "If A is B, C is D," is not equivalent to "A is B, *therefore* C is D". "If the harbour is frozen, the ships cannot come in" is not to say that "the harbour is frozen, and therefore," etc. The Major Premiss merely affirms the existence of the relation of Reason and Consequent between the two propositions. But we cannot thereupon assert the Conclusion unless the Minor Premiss is also conceded; that is, the inference of the Conclusion is Mediate, as being from two premisses and not from one alone.
+
+[67026] (*b*) Similarly with Hamilton's contention that the Conclusion is inferrible immediately from the Minor Premiss, inasmuch as the Consequent is involved in the Reason. True, the Consequent is involved in the Reason: but we cannot infer from "A is B" to "C is D," unless it is conceded that the relation of Reason and Consequent holds between them; that is, unless the Major Premiss is conceded as well as the Minor.
+
+[67442] (3) *Can Hypothetical Syllogism be reduced to the Categorical Form?*
+
+[67512] To oppose Hypothetical Syllogisms to Categorical is misleading, unless we take note of the precise difference between them. It is only in the form of the Major Premiss that they differ: Minor Premiss and Conclusion are categorical in both. And the meaning of a Hypothetical Major Premiss (unless it is a mere arbitrary convention between two disputants, to the effect that the Consequent will be admitted if the Antecedent is proved, or that the Antecedent will be relinquished if the Consequent is disproved), can always be put in the form of a general proposition, from which, with the Minor Premiss as applying proposition, a conclusion identical with the original can be drawn in regular Categorical form.
+
+[68223] Thus:--
+
+[68232] If the harbour is frozen, the ships cannot come in. The harbour is frozen. [.'.] The ships cannot come in.
+
+[68340] This is a Hypothetical Syllogism, *Modus Ponens*. Express the Hypothetical Major in the form of the general proposition which it implies, and you reach a conclusion (in *Barbara*) which is only grammatically different from the original.
+
+[68578] All frozen harbours exclude ships. The harbour is frozen. [.'.] It excludes ships.
+
+[68662] Again, take an example of the *Modus Tollens*--
+
+[68711] If rain has fallen, the streets are wet. The streets are not wet. [.'.] Rain has not fallen.
+
+[68805] This is reducible, by formulating the underlying proposition, to *Camestres* or *Baroko* of the Second Figure.
+
+[68917] All streets rained upon are wet. The streets are not wet. [.'.] They are not streets rained upon.
+
+[69016] Hypothetical Syllogisms are thus reducible, by merely grammatical change, or by the statement of self-evident implications, to the Categorical form. And, similarly, any Categorical Syllogism may be reduced to the Hypothetical form. Thus:--
+
+[69257] All men are mortal. Socrates is a man. [.'.] Socrates is mortal.
+
+[69323] This argument is not different, except in the expression of the Major and the Conclusion, from the following:--
+
+[69436] If Socrates is a man, death will overtake him. Socrates is a man. [.'.] Death will overtake him.
+
+[69534] The advantage of the Hypothetical form in argument is that it is simpler. It was much used in Mediaeval Disputation, and is still more popular than the Categorical Syllogism. Perhaps the prominence given to Hypothetical Syllogisms as syllogisms in Post-Renaissance text-books is due to the use of them in the formal disputations of graduands in the Universities. It was the custom for the Disputant to expound his argument in this form:--
+
+[69974] If so and so is the case, such and such follows. So and so is the case. [.'.] Such and such follows.
+
+[70076] To which the Respondent would reply: _Accipio antecedentem, nego consequentiam_, and argue accordingly. Petrus Hispanus does not give the Hypothetical Syllogism as a Syllogism: he merely explains the true law of Reason and Consequent in connexion with the Fallacia Consequentis in the section on Fallacies. (_Summulae. Tractatus Sextus._)
+
+[70416] II.--DISJUNCTIVE SYLLOGISMS.
+
+[70446] A Disjunctive Syllogism is a syllogism in which the Major Premiss is a DISJUNCTIVE PROPOSITION, *i.e.*, one in which two propositions are declared to be mutually incompatible. It is of the form Either A is B, or C is D.
+
+[70667] If the disjunction between the alternatives is really complete, the form implies four hypothetical propositions:--
+
+[70783] Suppose then that an antagonist has granted you a Disjunctive Proposition, you can, using this as a Major Premiss, extract from him four different Conclusions, if you can get him also to admit the requisite Minors. The Mode of two of these is technically called MODUS PONENDO TOLLENS, the mode that denies the one alternative by granting the other--A is B, *therefore* C is not D; C is D, *therefore* A is not B. The other Mode is also twice open, the MODUS TOLLENDO PONENS--A is not B, *therefore* C is D; C is not D, *therefore* A is B.
+
+[71323] Fallacy is sometimes committed through the Disjunctive form owing to the fact that in common speech there is a tendency to use it in place of a mere hypothetical, when there are not really two incompatible alternatives. Thus it may be said "Either the witness is perjured, or the prisoner is guilty," when the meaning merely is that if the witness is not perjured the prisoner is guilty. But really there is not a valid disjunction and a correct use of the disjunctive form, unless four hypotheticals are implied, that is, unless the concession of either involves the denial of the other, and the denial of either the concession of the other. Now the prisoner may be guilty and yet the witness be perjured; so that two of the four hypotheticals, namely--
+
+[72079] If the witness is perjured, the prisoner is not guilty, If the prisoner is guilty, the witness is not perjured--
+
+[72193] do not necessarily hold. If, then, we would guard against fallacy, we must always make sure before assenting to a disjunctive proposition that there is really a complete disjunction or mutual incompatibility between the alternatives.
+
+[72428] III.--THE DILEMMA.
+
+[72448] A Dilemma is a combination of Hypothetical and Disjunctive propositions.
+
+[72522] The word has passed into common speech, and its ordinary use is a clue to the logical structure. We are said to be in a dilemma when we have only two courses open to us and both of them are attended by unpleasant consequences. In argument we are in this position when we are shut into a choice between two admissions, and either admission leads to a conclusion which we do not like. The statement of the alternatives as the consequences hypothetically of certain conditions is the major premiss of the dilemma: once we admit that the relations of Antecedent and Consequent are as stated, we are in a trap, if trap it is: we are on the horns of the dilemma, ready to be tossed from one to the other.
+
+[73222] For example:--
+
+[73238] If A is B, A is C, and if A is not B, A is D. But A either is or is not B. Therefore, A either is C or is D.
+
+[73348] If A acted of his own motive, he is a knave; if A did not act of his own motive, he is a catspaw. But A either acted of his own motive or he did not. Thereupon A is either a knave or a catspaw.
+
+[73543] This is an example of the *Constructive* Dilemma, the form of it corresponding to the common use of the word as a choice between equally unpleasant alternatives. The standard example is the dilemma in which the custodians of the Alexandrian Library are said to have been put by the Caliph Omar in 640 A.D.
+
+[73850] If your books are in conformity with the Koran, they are superfluous; if they are at variance with it, they are pernicious. But they must either be in conformity with the Koran or at variance with it. Therefore they are either superfluous or pernicious.
+
+[74105] Where caution has to be exercised is in accepting the clauses of the Major. We must make sure that the asserted relations of Reason and Consequent really hold. It is there that fallacy is apt to creep in and hide its head. The Alexandrian Librarians were rash in accepting the first clause of the conqueror's Major: it does not follow that the books are superfluous unless the doctrines of the Koran are not merely sound but contain all that is worth knowing. The propounder of the dilemma covertly assumes this. It is in the facility that it affords for what is technically known as *Petitio Principii* that the Dilemma is a useful instrument for the Sophist. We shall illustrate it further under that head.
+
+[74815] What is known as the *Destructive* Dilemma is of a somewhat different form. It proceeds upon the denial of the Consequent as involving the denial of the Antecedent. In the Major you obtain the admission that if a certain thing holds, it must be followed by one or other of two consequences. You then prove by way of Minor that neither of the alternatives is true. The conclusion is that the antecedent is false.
+
+[75228] We had an example of this in discussing whether the inference in the Hypothetical Syllogism is Immediate. Our argument was in this form:--
+
+[75368] If the inference is immediate, it must be drawn either from the Major alone or from the Minor alone. But it cannot be drawn from the Major alone, neither can it be drawn from the Minor alone. Therefore, it is not immediate.
+
+[75593] In this form of Dilemma, which is often serviceable for clearness of exposition, we must as in the other make sure of the truth of the Major: we must take care that the alternatives are really the only two open. Otherwise the imposing form of the argument is a convenient mask for sophistry. Zeno's famous dilemma, directed to prove that motion is impossible, covers a *petitio principii*.
+
+[75984] If a body moves, it must move either where it is or where it is not. But a body cannot move where it is: neither can it move where it is not. Conclusion, it cannot move at all, *i.e.*, Motion is impossible.
+
+[76192] The conclusion is irresistible if we admit the Major, because the Major covertly assumes the point to be proved. In truth, *if* a body moves, it moves neither where it is nor where it is not, but from where it is to where it is not. Motion consists in change of place: the Major assumes that the place is unchanged, that is, that there is no motion.
+
+[76543] CHAPTER VIII.
+
+[76558] FALLACIES IN DEDUCTIVE ARGUMENT.--PETITIO PRINCIPII AND IGNORATIO ELENCHI.
+
+[76634] The traditional treatment of Fallacies in Logic follows Aristotle's special treatise [Greek: Peri sophistikon elenchon]--Concerning Sophistical Refutations--Pretended Disproofs--Argumentative Tricks.
+
+[76835] Regarding Logic as in the main a protection against Fallacies, I have been going on the plan of taking each fallacy in connexion with its special safeguard, and in accordance with that plan propose to deal here with the two great types of fallacy in deductive argument. Both of them were recognised and named by Aristotle: but before explaining them it is worth while to indicate Aristotle's plan as a whole. Some of his Argumentative Tricks were really peculiar to Yes-and-No Dialectic in its most sportive forms: but his leading types, both Inductive and Deductive, are permanent, and his plan as a whole has historical interest. Young readers would miss them from Logic: they appeal to the average argumentative boy.
+
+[77556] He divides Fallacies broadly into Verbal Fallacies ([Greek: para ten lexin], *in dictione*), and Non-Verbal Fallacies ([Greek: exo tes lexeos], *extra dictionem*).
+
+[77721] The first class are mere Verbal Quibbles, and hardly deserve serious treatment, still less minute subdivision. The world was young when time was spent upon them. Aristotle names six varieties, but they all turn on ambiguity of word or structure, and some of them, being dependent on Greek syntax, cannot easily be paralleled in another tongue.
+
+[78066] (1) Ambiguity of word ([Greek: homonymia]). As if one were to argue: "All cold can be expelled by heat: John's illness is a cold: therefore it can be expelled by heat". Or: "Some afflictions are cheering, for afflictions are sometimes light, and light is always cheering". The serious confusion of ambiguous words is met by Definition, as explained at length in pt. ii. c i.
+
+[78442] (2) *Ambiguity of structure* ([Greek: amphibolia]).
+
+[78495] "What he was beaten with was what I saw him beaten with: what I saw him beaten with was my eye: therefore, what he was beaten with was my eye."
+
+[78640] "How do you do?" "Do? Do what?" "I mean, how do you feel?" "How do I feel? With my fingers, of course; but I can see very well." "No, no; I mean, how do you find yourself?" "Then why did you not say so? I never exactly noticed, but I will tell you next time I lose myself."
+
+[78915] (3) *Illicit conjunction* ([Greek: synthesis]).
+
+[78964] Socrates is good. Socrates is a musician. Therefore Socrates is a good musician.
+
+[79046] (4) *Illicit disjunction* ([Greek: diairesis]).
+
+[79095] Socrates is a good musician. Therefore he is a good man.
+
+[79153] (5) *Ambiguity of pronunciation* ([Greek: prosodia], _fallacia accentus_).
+
+[79229] Analogies to words that differ only in accent, such as [Greek: ou-with accents {psili and persipomeni}] and [Greek: ou-with accents {psili and oxia}], may be found in differences of pronunciation. "Hair very thick, sir," said a barber to a customer, whose hair was bushy, but beginning to turn grey. "Yes, I daresay. But I would rather have it thick than thin." "Ah, too thick to-day, sir." "But I don't want to dye it." "Excuse me, sir, I mean the hair of the hatmosphere, t-o-d-a-y, to-day."
+
+[79724] "He said, saddle me the ass. And they saddled *him*."
+
+[79779] (6) *Ambiguity of inflexion* ([Greek: schema tes lexeos], _Figura dictionis_).
+
+[79859] This is not easy to make intelligible in English. The idea is that a termination may be ambiguously interpreted, a neuter participle, *e.g.*, taken for an active. Thus: "George is ailing". "Doing what, did you say? Ailing? What is he ailing? Ginger-aleing?"
+
+[80118] Non-Verbal Fallacies, or Fallacies in thought, are a more important division. Aristotle distinguishes seven.
+
+[80228] Of these, three are comparatively unimportant and trifling. One of them, known to the Schoolmen as *Fallacia Plurium Interrogationum*, was peculiar to Interrogative disputation. It is the trick of putting more than one question as one, so that a simple Yes commits the respondent to something implied. "Have you left off beating your father?" If you answer Yes, that implies that you have been in the habit of beating him. "Has the practice of excessive drinking ceased in your part of the country?" Such questions were unfair when the Respondent could answer only Yes or No. The modern disputant who demands a plain answer Yes or No, is sometimes guilty of this trick.
+
+[80899] Two others, the fallacies known as _A dicto simpliciter ad dictum secundum quid*, and *A dicto secundum quid ad dictum simpliciter_, are as common in modern dialectic as they were in ancient. The trick, conscious or unconscious, consists in getting assent to a statement with a qualification and proceeding to argue as if it had been conceded without qualification, and *vice versa*. For example, it being admitted that culture is good, a disputant goes on to argue as if the admission applied to some sort of culture in special, scientific, aesthetic, philosophical or moral. The fallacy was also known as *Fallacia Accidentis*. Proving that the Syllogism is useless for a certain purpose, and then claiming to have proved that it is useless for any purpose is another example. Getting a limited admission and then extending it indefinitely is perhaps the more common of the two forms. It is common enough to deserve a shorter name.
+
+[81834] The *Fallacia Consequentis*, or *Non-Sequitur*, which consists specially in ignoring the possibility of a plurality of causes, has already been partly explained in connexion with the Hypothetical Syllogism, and will be explained further in the Logic of Induction.
+
+[82099] *Post hoc ergo proper hoc* is a purely Inductive Fallacy, and will be explained in connexion with the Experimental Methods.
+
+[82224] There remain the two typical Deductive Fallacies, PETITIO PRINCIPII (Surreptitious Assumption) and IGNORATIO ELENCHI (Irrelevant Argument) about which we must speak more at length.
+
+[82406] The phrase of which Petitio Principii or Begging the Question is a translation--[Greek: to en arche aiteisthai]--was applied by Aristotle to an argumentative trick in debate by Question and Answer. The trick consisted in taking for granted a proposition necessary to the refutation without having obtained the admission of it. Another expression for the same thing--[Greek: to en arche lambanein]--taking the principle for granted--is more descriptive.
+
+[82860] Generally speaking, Aristotle says, Begging the Question consists in not demonstrating the theorem. It would be in accordance with this general description to extend the name to all cases of tacitly or covertly, unwittingly to oneself or to one's opponent, assuming any premiss necessary to the conclusion. It is the fallacy of Surreptitious Assumption, and all cases of Enthymematic or Elliptical argument, where the unexpressed links in the chain of argument are not fully understood, are examples of it. By contrast, the articulate and explicit Syllogism is an *Expositio Principii*. The only remedy for covert assumptions is to force them into the light.
+
+[83520] *Ignoratio Elenchi*, ignoring the refutation ([Greek: tou elenchou agnoia]), is simply arguing beside the point, distracting the attention by irrelevant considerations. It often succeeds by proving some other conclusion which is not the one in dispute, but has a superficial resemblance to it, or is more or less remotely connected with it.
+
+[83862] It is easier to explain what these fallacies consist in than to illustrate them convincingly. It is chiefly in long arguments that the mischief is done. "A Fallacy," says Whately, "which when stated barely in a few sentences would not deceive a child, may deceive half the world if diluted in a quarto volume." Very rarely is a series of propositions put before us in regular form and order, all bearing on a definite point. A certain conclusion is in dispute, not very definitely formulated perhaps, and a mixed host of considerations are tumbled out before us. If we were perfectly clear-headed persons, capable of protracted concentration of attention, incapable of bewilderment, always on the alert, never in a hurry, never over-excited, absolutely without prejudice, we should keep our attention fixed upon two things while listening to an argument, the point to be proved, and the necessary premisses. We should hold the point clearly in our minds, and watch indefatigably for the corroborating propositions. But none of us being capable of this, all of us being subject to bewilderment by a rapid whirl of statements, and all of us biased more or less for or against a conclusion, the sophist has facilities for doing two things--taking for granted that he has stated the required premisses (*petitio principii*), and proving to perfect demonstration something which is not the point in dispute, but which we are willing to mistake for it (_ignoratio elenchi_).
+
+[85332] It is chiefly in the heat of argument that either Petitio or Ignoratio succeeds. When a fallacy continues to perplex us in cold blood, it must have in its favour either some deeply-rooted prejudice or some peculiar intricacy in the language used, or some abstruseness in the matter. If we are not familiar with the matter of the argument, and have but a vague hold of the words employed, we are, of course, much more easily imposed upon.
+
+[85771] The famous Sophisms of antiquity show the fascination exercised over us by proving something, no matter how irrelevant. If certain steps in an argument are sound, we seem to be fascinated by them so that we cannot apply our minds to the error, just as our senses are fascinated by an expert juggler. We have seen how plausibly Zeno's argument against the possibility of motion hides a Petitio: the Fatalist Dilemma is another example of the same sort.
+
+[86224] If it is fated that you die, you will die whether you call in a doctor or not, and if it is fated that you will recover, you will recover whether you call in a doctor or not. But it must be fated either that you die or that you recover. *Therefore*, you will either die or recover whether you call in a doctor or not.
+
+[86543] Here it is tacitly assumed in the Major Premiss that the calling in of a doctor cannot be a link in the fated chain of events. In the statement of both the alternative conditions, it is assumed that Fate does not act through doctors, and the conclusion is merely a repetition of this assumption, a verbal proposition after an imposing show of argument. "If Fate does not act through doctors, you will die whether you call in a doctor or not."
+
+[86987] The fallacy in this case is probably aided by our veneration for the grand abstraction of Fate and the awful idea of Death, which absorbs our attention and takes it away from the artful *Petitio*.
+
+[87185] The Sophism of Achilles and the Tortoise is the most triumphant of examples of *Ignoratio Elenchi*.
+
+[87286] The point that the Sophism undertakes to prove is that Achilles can never overtake a Tortoise once it has a certain start: what it really proves, and proves indisputably, is that he cannot overtake the Tortoise within a certain space or time.
+
+[87530] For simplicity of exposition, let us assume that the Tortoise has 100 yards start and that Achilles runs ten times as fast. Then, clearly, Achilles will not come up with it at the end of 100 yards, for while he has run 100, the Tortoise has run 10; nor at the end of 110, for then the Tortoise has run 1 more; nor at the end of 111, for then the Tortoise has run 1/10 more; nor at the end of 111--1/10, for then the Tortoise has gained 1/100 more. So while Achilles runs this 1/100, the Tortoise runs 1/1000; while he runs the 1/1000, it runs 1/10000. Thus it would seem that the Tortoise must always keep ahead: he can never overtake it.
+
+[88170] But the conclusion is only a confusion of ideas: all that is really proved is that Achilles will not overtake the Tortoise while running
+
+[88308] That is, that he will not overtake it till he has completed the sum of this series, 111-1/9 yards. To prove this is an *ignoratio elenchi*; what the Sophist undertakes to prove is that Achilles will never overtake it, and he really proves that Achilles passes it between the 111th and 112th yards.
+
+[88607] The exposure of this sophism is an example also of the value of a technical term. All attempts to expose it without using the term *Ignoratio Elenchi* or something equivalent to it, succeed only in bewildering the student. It is customary to say that the root of the fallacy lies in assuming that the sum of an infinite series is equal to infinity. This profound error may be implied: but if any assumption so hard to understand were really required, the fallacy would have little force with the generality.
+
+[89116] It has often been argued that the Syllogism involves a _petitio principii_, because the Major Premiss contains the Conclusion, and would not be true unless the Conclusion were true. But this is really an *Ignoratio Elenchi*. The fact adduced, that the Major Premiss contains the Conclusion, is indisputable; but this does not prove the Syllogism guilty of Petitio. *Petitio principii* is an argumentative trick, a conscious or unconscious act of deception, a covert assumption, and the Syllogism, so far from favouring this, is an *expositio principii*, an explicit statement of premisses such that, if they are true, the conclusion is true. The Syllogism merely shows the interdependence of premisses and conclusion; its only tacit assumption is the *Dictum de Omni*.
+
+[89886] If, indeed, an opponent challenges the truth of the conclusion, and you adduce premisses necessarily containing it as a refutation, that is an *ignoratio elenchi* unless your opponent admits those premisses. If he admits them and denies the conclusion, you convict him of inconsistency, but you do not prove the truth of the conclusion. Suppose a man to take up the position: "I am not mortal, for I have procured the *elixir vitae*". You do not disprove this by saying, "All men are mortal, and you are a man". In denying that he is mortal, he denies that all men are mortal. Whatever is sufficient evidence that he is not mortal, is sufficient evidence that all men are not mortal. Perhaps it might be said that in arguing, "All men are mortal, and you are a man," it is not so much *ignoratio elenchi* as _petitio principii_ that you commit. But be it always remembered that you may commit both fallacies at once. You may both argue beside the point and beg the question in the course of one and the same argument.
+
+[90905] CHAPTER IX.
+
+[90918] FORMAL OR ARISTOTELIAN INDUCTION.--INDUCTIVE ARGUMENT.
+
+[90974] The distinction commonly drawn between Deduction and Induction is that Deduction is reasoning from general to particular, and Induction reasoning from particular to general.
+
+[91149] But it is really only as modes of argumentation that the two processes can be thus clearly and fixedly opposed. The word Induction is used in a much wider sense when it is the title of a treatise on the Methods of Scientific Investigation. It is then used to cover all the processes employed in man's search into the system of reality; and in this search deduction is employed as well as induction in the narrow sense.
+
+[91569] We may call Induction in the narrow sense Formal Induction or Inductive Argument, or we may simply call it Aristotelian Induction inasmuch as it was the steps of Inductive argument that Aristotle formulated, and for which he determined the conditions of validity.
+
+[91834] Let us contrast it with Deductive argument. In this the questioner's procedure is to procure the admission of a general proposition with a view to forcing the admission of a particular conclusion which is in dispute. In Inductive argument, on the other hand, it is a general proposition that is in dispute, and the procedure is to obtain the admission of particular cases with a view to forcing the admission of this general proposition.
+
+[92273] Let the question be whether All horned animals ruminate. You engage to make an opponent admit this. How do you proceed? You ask him whether he admits it about the various species. Does the ox ruminate? The sheep? The goat? And so on. The bringing in of the various particulars is the induction ([Greek: epagoge]).
+
+[92588] When is this inductive argument complete? When is the opponent bound to admit that all horned animals ruminate? Obviously, when he has admitted it about every one. He must admit that he has admitted it about every one, in other words, that the particulars enumerated constitute the whole, before he can be held bound in consistency to admit it about the whole.
+
+[92950] The condition of the validity of this argument is ultimately the same with that of Deductive argument, the identity for purposes of predication of a generic whole with the sum of its constituent parts. The Axiom of Inductive Argument is, _What is predicated of every one of the parts is predicable of the whole._ This is the simple converse of the Axiom of Deductive argument, the *Dictum de Omni*, "What is predicated of the whole is predicable about every one of the parts". The Axiom is simply convertible because for purposes of predication generic whole and specific or individual parts taken all together are identical.
+
+[93577] Practically in inductive argument an opponent is worsted when he cannot produce an instance to the contrary. Suppose he admits the predicate in question to be true of this, that and the other, but denies that this, that and the other constitute the whole class in question, he is defeated in common judgement if he cannot instance a member of the class about which the predicate does not hold. Hence this mode of induction became technically known as _Inductio per enumerationem simplicem ubi non reperitur instantia contradictoria_. When this phrase is applied to a generalisation of fact, Nature or Experience is put figuratively in the position of a Respondent unable to contradict the inquirer.
+
+[94277] Such in plain language is the whole doctrine of Inductive Argument. Aristotle's Inductive Syllogism is, in effect, an expression of this simple doctrine tortuously in terms of the Deductive Syllogism. The great master was so enamoured of his prime invention that he desired to impress its form upon everything: otherwise, there was no reason for expressing the process of Induction syllogistically. Here is his description of the Inductive Syllogism:--
+
+[94731] "Induction, then, and the Inductive Syllogism, consists in syllogising one extreme with the middle through the other extreme. For example, if B is middle to A and C, to prove through C that A belongs to B."
+
+[94939] This may be interpreted as follows: Suppose a general proposition is in dispute, and that you wish to make it good by obtaining severally the admission of all the particulars that it sums up. The type of a general proposition in Syllogistic terminology is the Major Premiss, All M is P. What is the type of the particulars that it sums up? Obviously, the Conclusion, S is P. This particular is contained in the Major Premiss, All M is P; its truth is accepted as contained in the truth of All M is P. S is one of the parts of the generic whole M; one of the individuals or species contained in the class M. If you wish, then, to establish P of All M by Induction, you must establish P of all the parts, species, or individuals contained in M, that is, of all possible S*s:* you must make good that this, that and the other S is P, and also that this, that and the other S constitute the whole of M. You are then entitled to conclude that All M is P: you have syllogised one Extreme with the Middle through the other Extreme. The formal statement of these premisses and conclusion is the Inductive Syllogism.
+
+[96048] This, that and the other S is P, *Major*. This, that and the other S is all M, *Minor*. [.'.] All M is P, *Conclusion*. This, that and the other magnet (*i.e.*, magnets individually) attract iron. This, that and the other magnet (*i.e.*, the individuals separately admitted) are all magnets. [.'.] All magnets attract iron.
+
+[96373] This, that and the other S being simply convertible with All M, you have only to make this conversion and you have a syllogism in Barbara where this, that and the other S figures as the Middle Term.
+
+[96573] The practical value of this tortuous expression is not obvious. Mediaeval logicians shortened it into what was known as the Inductive Enthymeme: "This, that and the other, therefore all," an obvious conclusion when this, that and the other constitute all. It is merely an evidence of the great master's intoxication with his grand invention. It is a proof also that Aristotle really looked at Induction from the point of view of Interrogative Dialectic. His question was, When is a Respondent bound to admit a general conclusion? And his answer was, When he has admitted a certain number of particulars, and cannot deny that those particulars constitute the whole whose predicate is in dispute. He was not concerned primarily with the analysis of the steps of an inquirer generalising from Nature.

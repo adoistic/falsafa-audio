@@ -1,0 +1,703 @@
+WORK: The Purchasing Power of Money  (slug: irving-fisher-the-purchasing-power-of-money-542875)
+
+CHAPTER: 55-appendix-to-the-second-edition-on-standardizing-th
+
+
+
+[0] THE plan for stabilizing the price level (and therefore the purchasing power of money) sketched in Chapter XIII (pages 340-346) in relation to the gold exchange standard has been more fully and more popularly explained since this book was written. (See, e.g., Report of International Congress Chambers of Commerce, September 26, 1912; Independent, January 2, 1913; New York Times, December 22, 1912; British Economic Journal, December, 1912. The most complete statement is that in The Quarterly Journal of Economics, February, 1913.)
+
+[535] The writer also hopes soon to publish a book devoted to this particular subject.
+
+[617] The following is an extract from an address in Boston before the American Economic Association, December, 1912, printed in the American Economic Review Supplement, March, 1913:—
+
+[796] Briefly stated, the plan is to introduce the multiple standard, in which the unit is a "composite ton" or "composite package" of many staple commodities, not of course by using such a package in any physical way but by employing instead its gold bullion equivalent. In essence it would simply vary the weight of gold in the dollar or rather behind the dollar. The aim is to compensate for losses in the purchasing power of each grain of gold by adding the necessary number of grains of gold to the dollar.
+
+[1303] Both on the basis of theory and of facts, we may accept as sound the principle that the lighter the gold dollar the less its purchasing power and the more magnified the scale of prices; and that the heavier the dollar the greater its purchasing power and the more contracted the scale of prices. Evidently if we can find some way to increase the weight of the dollar just fast enough to compensate for the loss in the purchasing power of each grain of gold, we shall have a fully "compensated dollar," that is, a dollar which has constantly restored to it any purchasing power it may lose by gold depreciation.
+
+[1915] We now have a dollar of fixed weight (25.8 grains), but varying purchasing power. Under the plan proposed, we should have a dollar of fixed purchasing power, but varying weight.
+
+[2094] But how is it possible to have a dollar of varying weight without the annoyance of a constant recoinage of gold coin? Moreover, if this can be done, how can we know at any time what weight the dollar ought to have without leaving this to the tender mercies of some political official? Here are two very vital questions.
+
+[2415] As a preparation for answering these two questions, it will be a little easier to explain the principle of the proposal if for a moment we assume that there are no actual gold coins in circulation, but only gold certificates. This supposition is, in fact, not very far from the truth in the United States; for, outside of California, there is very little actual gold coin in circulation. We have instead nearly a billion dollars of gold certificates in circulation, representing gold in the Treasury of the United States. We are supposing for the moment that gold circulates in no other way. Under these circumstances it is evident that the ultimate gold dollar is out of sight in the Treasury of the United States in bars of gold bullion. Every 25.8 grains of this gold bullion is a virtual dollar behind a dollar of gold certificates outstanding. A gold bar (of standard bullion) weighing 25,800 grains virtually contains 1000 gold dollars.
+
+[3359] The gold miner takes such bars of standard gold to the mint and deposits them without waiting for their coinage, receiving gold certificates in return, one dollar of gold certificates for each 25.8 grains of standard gold which he deposits. On the other hand, holders of gold certificates may at any time receive gold bullion in return, when they desire this for export, or for use in the arts of jewelry, dentistry, gilding, etc., receiving 25.8 grains of gold for each dollar of gold certificates. Thus the government on demand gives or takes money at the rate of 25.8 grains of bullion per dollar; the virtual, though invisible, dollar being this 25.8 grains of gold bullion, nine-tenths fine.
+
+[4057] The proposal here made is to change the weight of the dollar as an offset to changes in value. If there are no gold coins, it is very easy to do this. For example, if there should be a decrease of 1 per cent in the value, that is, purchasing power of gold, then the weight of gold bullion which constitutes the virtual dollar would be declared 1 per cent greater, becoming 26.058 instead of 25.8. If there should be an increase in the purchasing power of gold, the weight of the virtual dollar would be reduced accordingly. Whenever the gold miner took gold to the mint, he would receive a gold certificate not necessarily at the rate of one dollar for each 25.8 grains of standard gold, but for a larger or smaller amount as the case might be, the amount always being that amount which would possess the same purchasing power. Similarly the holder of gold certificates who wishes them redeemed in bullion for export or for the arts, would not always get exactly 25.8 grains for each dollar of certificates, but a larger or smaller sum, as the case might be. Thus the government would be receiving gold from the miner and giving it out to the jeweler just as at present, but in varying weights per dollar, instead of at the arbitrarily fixed weight of 25.8 grains. The weight of gold per dollar in which, at any particular time, gold certificates were redeemable would constitute the virtual and only gold dollar. Under these circumstances it is clear that it would be entirely feasible to change up and down the weight of the gold dollar (that is, the amount of gold bullion interconvertible with a dollar of gold certificates), and without any recoinage or other interference with the outward appearance of the currency in our pockets.
+
+[5796] We should familiarize ourselves with another way of stating all this. Instead of saying that the government receives gold bullion at the mint and uses this for redeeming gold certificates, we may, if we prefer, say that the government buys and sells gold. It buys gold from the miner, paying for it in gold certificates; it sells gold to the jeweler, who redeems these certificates. At present, the price at which gold is bought and sold by the government is $18.60 an ounce (for standard gold nine-tenths fine). This is easily figured out from the weight of the gold dollar; for 25.8 grains of gold being our present dollar, each ounce (or 480 grains) of gold bullion contains 480/25.8 or 18.60 virtual dollars. To say, then, that we now have a fixed weight in our gold dollar, 25.8 grains, is the same thing as to say that we have a fixed government price for gold, $18.60 per ounce. To raise the weight of the gold dollar 1 per cent, or from 25.8 grains to 26.058 grains, is the same thing as to lower the government price of gold from $18.60 to $18.42 per ounce.
+
+[6864] We come now to the second question: How would it be possible to know the proper adjustments to be made in the weight of the virtual dollar—the gold bullion inter convertible with each dollar of gold certificates—without putting a dangerous power of discretion in the hands of government officials? In other words, how can the adjustment in the weight of the virtual dollar be made automatic? The answer is: By means of statistics called "index numbers of prices." Such statistics are to-day published by the London Economist, the United States Bureau of Labor, the Canadian Department of Labour, and several commercial agencies, such as Bradstreet. The index number of the Bureau of Labor is based on the wholesale prices of 257 commodities, and shows from year to year the extent to which prices on the whole advance or fall,—the average movement of all the 257 prices.
+
+[7736] There are various systems of index numbers, but they practically all agree remarkably well with each other. When once a system of index numbers is decided upon, their numerical calculation becomes a purely clerical matter. A statistical bureau (as for instance the present Bureau of Labor or an international statistical office) would compile and publish these statistics periodically and the actual prices on which they were based. If at any time the official index number showed that the price level had risen 1 per cent above par, this would be the signal for an increase of 1 per cent in the virtual dollar.
+
+[8349] The plan, then, is: first, to provide for the calculation of an official index number of prices; second, to adjust correspondingly the official weight of the virtual dollar at which the government shall issue gold certificates to miners or redeem them for jewelers, in other words, to adjust the official prices of gold at which the government stands ready to buy or sell at the option of the public.
+
+[8751] This, then, is the plan in brief—a plan virtually to mark up or down the weight of the dollar (that is, to mark down or up the price of gold bullion) in exact proportion to the deviations above or below par of the index number of prices.
+
+[8990] A few additional details essential to the working of the plan may now be briefly mentioned. You are still waiting to see how actual gold coin could be used in such a system. To be continually recoining the gold in circulation would, of course, be quite impracticable. But this would be unnecessary. Existing gold coin would remain unchanged at 25.8 grains per dollar, and new gold coins would be given the same weight. Gold coins would simply become what silver dollars now are, token coins. Or, better, they would be, like the gold certificates, mere warehouse receipts, or, as it were, "brass checks" for gold bullion on deposit in the Treasury. Otherwise expressed, gold coins would be merely gold certificates printed on gold instead of on paper. They would be used exactly as gold certificates are used—namely, issuable to the gold miner in return for his bullion, and redeemable for those who wished bullion for export or in the arts.
+
+[9932] The excess of bullion over the weight of the coined dollar itself would be analogous to what has generally been called "seigniorage"; so that in a sense, the plan may be described as a plan to restore the ancient custom of seigniorage on gold coin. Thus, if the virtual dollar were at any time 35.8 grains, the excess of ten grains above the weight of the coin dollar, 25.8 grains, would be "seigniorage." The gold miner, in return for every 35.8 grains of standard gold bullion taken to the mint, would receive, at his option, a gold certificate on paper, or a gold certificate on gold (that is, a dollar gold coin)—the latter containing, just as at present, 25.8 grains. Any holder of gold coin, old or new, and any holder of gold certificates could receive from the government gold bullion at the official rate declared from time to time. He would thus be receiving a larger quantity of gold bullion than the amount of bullion in the gold dollar. The gold coin would then, like all our other coins, be worth more as coin than as bullion, and its value would be determined just as the value of a gold certificate or any other paper money is to-day determined, by the ultimate bullion with which it would be interconvertible, this bullion being of greater weight than the weight of the dollar itself.
+
+[11235] The only real complication which would be introduced by allowing gold coin to remain at its present weight and fineness would be to limit the operation of the system when prices tended to fall below the par or starting point at which the system began. The weight of the virtual gold dollar could never be reduced below the weight of the coin dollar; for, if this were done, the seigniorage would become a minus quantity and all the gold coin would be immediately melted into bullion, being worth more melted than coined. One proviso, therefore, in the system would be that the weight of the virtual dollar should never be less than 25.8 grains and that therefore the government price of gold should never be more than $18.60 per ounce. Perhaps, in view of the present dissatisfaction with high prices, many people would not object to this limitation which permits prices to fall below the present level, but does not permit them to rise further. Yet it is a poor rule that will not work both ways. Consequently, while I personally look forward to an upward tendency of prices in the future, the possibility of a downward movement should be provided for. For this purpose, gold coin could, if desired, be recalled at the outset and recoined in lighter weight, just as the Philippine peso was recalled and reduced in weight when the recent rise in the price of silver threatened to lead to melting the silver pesos. But I do not advocate crossing the bridge until we come to it. It would be sufficient to provide in advance for crossing it in case we should ever come to it. This could be done in one of two ways. It could be provided that, if ever the price level should, in the future, sink more than, say 10 per cent below the original par or price level from which the system started, all gold coins should then be withdrawn from circulation and gold certificates employed instead. In this way we should be rid of any complication from the use of gold coin, and would be at liberty forever after to adjust the weight of the virtual dollar downward as well as upward. Or, if preferred, it could be arranged that when prices should sink more than the suggested limit of 10 per cent below the original level, we should then recoin and reduce our gold coins. This would merely mean that the gold on which we print our gold certificates would be reduced in weight. It would not, of course, reduce the value of the gold coin any more than the reduction in the weight of the Philippine peso which was made for a similar contingency—or, to take an example nearer home, the reduction of 10 per cent in the weight of our subsidiary silver coins half a century ago—had any tendency to reduce the value of these coins.
+
+[13945] If the latter plan were chosen, the amount of reduction in the gold coin should be enough to provide a comfortable margin for any similar emergencies in the future. Any subsequent recoinages would thus be deferred a long time and similar provision for them could be made. Personally I should prefer the former method, eliminating gold coins altogether.
+
+[14299] Another essential detail is a proviso to avoid speculation in gold disastrous to the government. This would be accomplished by means of a slight government charge, say 1 per cent, for minting. This charge, which existed in former days, is called brassage. It would mean that the price at any particular date at which the government bought gold would be slightly less than the price at which it sold it. Without such a margin to protect the government, it is evident that when the government raised its price, say from $18 to $18.10 an ounce, speculators might, in anticipation of this rise, buy all the gold in the government vaults at $18 in order to sell it back to the government immediately after the change in price, at $18.10, thus profiting ten cents per ounce at the expense of the government.
+
+[15102] Similarly, a fall in price, say from $18.10 to $18 per ounce, would encourage the opposite form of speculation. Holders of bullion would then rush it to the government to sell it at the present rate of $18.10, and immediately after the change in price, buy it back at $18, thus profiting again ten cents per ounce at the expense of the government. If, however, the government were protected by a brassage charge of 1 per cent and if it were provided that no single shift in the government pair of prices, whether they were both moved up or both moved down, should exceed the "brassage" or margin between them, it is clear that no such speculation could occur, for there would be a greater loss from the payments of brassage to the government than any speculative gain possible from the change in price.
+
+[15906] Other details relate to the provisions for establishing and maintaining a gold reserve at the outset where no such reserve existed in the first place. In the United States we could utilize the 50,000,000 ounces of gold already in the Treasury for the very purpose of redeeming the $900,000,000 of gold certificates outstanding.
+
+[16235] We have standardized every other unit in commerce except the most important and universal unit of all, the unit of purchasing power. What business man would consent for a moment to make a contract in terms of yards of cloth or tons of coal, and leave the size of the yard or the ton to chance? Once the yard was the girth of a man. In order to make it constant, we have standardized it. We have standardized even our new units of electricity, the ohm, the kilowatt, the ampere, and the volt. But the dollar is still left to the chances of gold mining. At first we could not standardize units of electricity because we had no adequate instruments for measuring those elusive magnitudes. But as soon as such measuring devices were invented, these units were standardized. We have hitherto had a similar excuse for not standardizing the dollar as a unit of purchasing power, and so a standard for deferred payments; we had no instrument for measuring it or device for putting the results in practice. With the development of index numbers, however, and the device of adjusting the seigniorage according to those index numbers, we now have at hand all the materials for scientifically standardizing the dollar and for realizing the long-coveted ideal of a "multiple standard" of value. In this way it is within the power of society, when it chooses, to create a standard monetary yardstick, a stable dollar.
+
+[17640] [1] The above figures may be inserted by the reader in the tables on pages 280, 284, 285, 290, 292, 293, 304. The methods of deriving the figures are in general the same as those explained in the Appendix to Chapter XII. The antecedent figures on which the above table depends may be inserted by the reader as follows:
+
+[17960] M. On page 432 add (to the bottom of columns 1-8 incl.) in the table the following: 1910, 3.42, 3.42, .32, 1.41, 3.3%, 1.46, 1.64.
+
+[18092] M'. It is not necessary to complete the table on page 435, as the Comptroller's Report for 1910 (p. 54) gives for the first time deposits subject to check (7.82 billions). To this 7.82, however, three corrections are needed: (1) subtract .29 for "savings accounts" improperly included (estimated for me by the Comptroller's Office at half of the figure in note a, lower table, p. 54, Comptr. Rpt.); (2) subtract .54 as "exchanges for clearing house" (= 5/4 times those for national banks); (3) add .25 as the Comptroller's Office estimate, for me, of unreported deposits subject to check. By applying these corrections we obtain 7.24.
+
+[18728] V. I have simply taken 21 as a safe approximate estimate on the basis of the previous statistics of V (p. 478) and its assumed relation to V'.
+
+[18872] M'V'. Add to columns 1-7 of table on page 448 the following: 1910, 97.3, 66.4, 429.3, .89 (by extrapolation, an unsafe guide), 382, 52.8.
+
+[19011] P. This is obtained (on the principles of the table on page 487) from the index number 131.6 of wholesale prices for 1910 (kindly supplied in advance of publication by the Bureau of Labor) and the average price 96.2 of stocks as given by the Commercial and Financial Chronicle, both being compared with the respective figures for 1909, viz. 126.5 and 97.5. They are combined by "weighting" the wholesale prices 10 and the stock prices 1 and reducing the results so that the average for 1909 shall be 100.
+
+[19517] T. This is obtained: (a) by continuing columns 1-5 of the table on page 479 by inserting: 1910, 160, 113, 162, 154; (the extension of column 2 for 1910 is made by means of somewhat more complete data than those enumerated on pages 480-482); (b) by combining the result, 154, obtained for column 5 with the figures for railway cars handled. These were 19.8 millions for 1909 and 22.3 for 1910. Column 5 being weighted 10 and the car figures 1, we get as indices of trade: for 1909, 1718, and for 1910, 1763, showing an increase of 2.6%, which, applied to the (corrected) estimate of the absolute trade of 1909, viz. 387 billions, gives 397 as the absolute trade in 1910.
+
+[20188] (The opportunity is here taken to correct an inadvertence on pp. 480 ff. It should have been there stated that, of the 44 categories mentioned, some are alternative and not independent items, viz. those having the same names and differing only in the number of cities; also that the dates given do not imply that the items opposite are in all cases used for all the intervening time, but only for such periods as the items were actually available.)
+
+[20638] It is noticeable that the changes in business in 1910 as compared with 1909 are somewhat irregular; the sales of stocks have declined; exports and imports (both of them) have declined about 10%.
+
+[20834] [1] This chapter is mainly a condensation of Chapters I and II of the author's Nature of Capital and Income, New York (Macmillan), 1906.
+
+[20972] [2] If we wish to include only slaves as wealth and not free men, we shall have to amend our definition of wealth so as to read: Wealth consists of material objects owned by human beings and external to the owner. For the purpose of this book it makes no practical difference whether this narrower meaning or the broader one be employed.
+
+[21311] [3] Cf. Menger, Handwörterbuch der Staatswissenschaften, Jena (Fischer), Vol. IV, 1900, Article, "Geld," pp. 69-71.
+
+[21428] [1] For discussions on the definition of money, see A. Piatt Andrew, "what ought to be called Money" in Quarterly Journal of Economics, Vol. XIII; Jevons, Money and the Mechanism of Exchange, London (Kegan Paul) and New York (Appleton), 1896; Palgrave, Dictionary of Political Economy; Walker, Money, and other treatises and textbooks.
+
+[21765] [2] Sumner, Folkways, Boston (Ginn), 1907, p. 147.
+
+[21817] [3] Ibid., p. 150.
+
+[21837] [4] Sumner, Folkways, p. 148.
+
+[21868] [5] Ibid.
+
+[21879] [6] See Jevons, Money and the Mechanism of Exchange, p. 245.
+
+[21941] [7] See Francis Walker, Money, Trade, and Industry, New York (Holt), 1879, Chapter I.
+
+[22028] [8] See Jevons, Money and the Mechanism of Exchange, Chapter V.
+
+[22093] [9] This theory, though often crudely formulated, has been accepted by Locke, Hume, Adam Smith, Ricardo, Mill, Walker, Marshall, Hadley, Fetter, Kemmerer and most writers on the subject. The Roman Julius Paulus, about 200 A.D., stated his belief that the value of money depends on its quantity. See Zuckerkandl, Theorie des Preises; Kemmerer, Money and Credit Instruments in their Relation to General Prices, New York (Holt), 1909. It is true that many writers still oppose the quantity theory. See especially, Laughlin, Principles of Money, New York (Scribner), 1903.
+
+[22663] [10] See Scott, "It has been a most fruitful source of false doctrines regarding monetary matters, and is constantly and successfully employed in defense of harmful legislation and as a means of preventing needed monetary reforms." Money and Banking, New York, 1903, p. 68.
+
+[22938] [11] This does not mean, of course, that their simple arithmetical average is exactly doubled. For definition of an average or "mean" in general, see § 1 of Appendix to (this) Chapter II.
+
+[23127] [12] For discussion of the concept of velocity of circulation, see §§ 2, 4, 5 of Appendix to (this) Chapter II.
+
+[23240] [13] This is an average weighted according to the quantities purchased on various occasions throughout the period and country considered. See § 3 of Appendix to (this) Chapter II.
+
+[23421] [14] An algebraic statement of the equation of exchange was made by Simon Newcomb in his able but little appreciated Principles of Political Economy, New York (Harper), 1885, p. 346. It is also expressed by Edgeworth, "Report on Monetary Standard." Report of the British Association for the Advancement of Science, 1887, p. 293, and by President Hadley, Economics, New York (Putnam), 1896, p. 197. See also Irving Fisher, "The Rôle of Capital in Economic Theory," Economic Journal, December, 1899, pp. 515-521, and E. W. Kemmerer, Money and Credit Instruments in their Relation to General Prices, New York (Holt), 1907, p. 13. While thus only recently given mathematical expression, the quantity theory has long been understood as a relationship among the several factors: amount of money, rapidity of circulation, and amount of trade. See Mill, Principles of Political Economy, Book III, Chapter VIII, § 3. Ricardo probably deserves chief credit for launching the theory.
+
+[24395] [15] For the relations subsisting between these magnitudes (as relating to the whole community and the whole year), and the corresponding elementary magnitudes relating to each individual and each moment, see § 4 of the Appendix to (this) Chapter II.
+
+[24647] [16] See § 6 of Appendix to (this) Chapter II.
+
+[24695] [17] For the nature of the average here involved and for the averages involved in the other two following cases, see § 7 of Appendix to (this) Chapter II.
+
+[24851] [18] Cf. J. S. Mill, Principles of Political Economy, Book III, Chapter VIII, § 2. Ricardo in his reply to Bosanquet uses an illustration similar in principle though slightly different in form. See Works, 2d ed., London (Murray), 1852, p. 346.
+
+[25096] [19] Works, 2d ed., London (Murray), 1852, pp. 346 and 347 (reply to Bosanquet, Chapter VI); see also pp. 213 and 214.
+
+[25216] [20] Cf. G. F. Knapp, Staatliche Theorie des Geldes, Leipzig, 1905; L. von Bortkiewicz, "Die geld theoretischen und die währungspolitischen Consequenzen des 'Nominalismus,'" Jahrbuch für Gesetzgebung, Verwaltung und Volkswirtschaft, October, 1906; Bertrand Nogaro, "L'expérience bimétalliste du XIX siècle et la théorie générale de la monnaie," Revue d'Économie politique, 1908.
+
+[25596] [1] See Dunbar's Theory and History of Banking, 2d ed., edited by O. M. W. Sprague, New York and London (G. P. Putnam's Sons), 1901, pp. 113-116.
+
+[25743] [2] In the ultimate analysis, and outside of its function of insuring credit, a bank is really an intermediary between borrowers and lenders. It is by virtue of bringing borrowers and ultimate lenders together and providing the former with a supply of loans which would not otherwise exist, that a bank simultaneously tends to lower the rate of interest and increase the supply of credit currency. See paper by Harry G. Brown, in the Quarterly Journal of Economics, August, 1910, on "Commercial Banking and the Rate of Interest."
+
+[26274] [3] See Irving Fisher, The Nature of Capital and Income, Chapter V.
+
+[26343] [4] Cf. Ricardo, Works, 2d ed., London (Murray), 1852, p. 217 (Principles of Political Economy and Taxation, Chapter XXVII).
+
+[26469] [5] Victor Morawetz, The Banking and Currency Problem in the United States, New York (The North American Review Publishing Co.), 1909, pp. 36 and 37. Also Kemmerer, Money and Prices, 1909, p. 80.
+
+[26666] [6] Ibid.
+
+[26677] [7] "Digest of State Banking Statutes," in Reports of the National Monetary Commission, 61st Congress, 2d Session Senate Document, No. 353.
+
+[26818] [8] See Horace White, Money and Banking
+
+[26859] [9] The equation of exchange is also stated by Kemmerer, Money and Credit Instruments in their Relation to General Prices, so as to include bank credit, although in a somewhat different way. That credit acts on prices in the same manner as money is by no means a newly established principle. See, for example, Mill, Principles of Political Economy, Book III, Chapter XII, §§ 1, 2.
+
+[27241] [10] The mathematical analysis of E', M', and V' in terms of "arrays" of e"s, m"s, and v"s, etc., is precisely parallel to that of E, M, and V, given in the Appendix to Chapter II. See also §§ 1 and 2 of Appendix to (this) Chapter III.
+
+[27478] [11] An almost opposite view is that of Laughlin that normal credit cannot affect prices because it is not an offer of standard money and cannot affect the value of the standard which alone determines general prices. See the Principles of Money, New York (Scribner), 1903, p. 97. Both views are inconsistent with that upheld in this book.
+
+[27818] [12] This fact is apparently overlooked by Laughlin when he argues that there is not "any reason for limiting the amount of the deposit currency, or the assumption of an absolute scarcity of specie reserves." See Principles of Money, p. 127.
+
+[28061] [13] The convenient expression "deposit currency" is used by Laughlin, The Principles of Money, p. 118.
+
+[28166] [14] See Kinley's "Credit Instruments," Report of the National Monetary Commission, Senate Document, 399, 61st Congress, 2d Session, 1910, p. 188.
+
+[28314] [1] For a fuller statement, see Irving Fisher, The Rate of Interest, New York (Macmillan), 1907, Chapters V, XIV.
+
+[28429] [1] Rate of Interest, Chapter XIV.
+
+[28465] [1] Rate of Interest, loc. cit.
+
+[28498] [1] See J. Pease Norton, Statistical Studies in the New York Money Market (Macmillan), 1902, chart at end.
+
+[28606] [1] See article by Knut Wicksell in the Jahrbücher für National-ökonomie, 1897 (Band 68), pp. 228-243, entitled "Der Bankzins als Regulator der Warenpreise." This article, while not dealing directly with credit cycles as related to panics, points out the connection between the rate of interest on bank loans and changes in the level of prices due to the resulting expansion and contraction of such loans.
+
+[29013] [1] See Kinley, Money, New York (Macmillan), 1904, p. 223.
+
+[29073] [1] See Wicksell, op. cit.
+
+[29101] [1] For statistical proof, see Pierre des Essars, Journal de la Société de Statistique de Paris, April 1895, p. 143. The figures relate only to velocity of bank deposits. No corresponding figures for velocity of circulation of money exist. Pierre des Essars has shown that in European banks V' reaches a maximum in crisis years almost without fail. The same I find true in this country as shown by the ratio of clearings to deposits in New York, Boston, and Philadelphia.
+
+[29574] [1] A part of the theory of crises here presented is similarly explained in a paper by Harry G. Brown, Yale Review, August, 1910, entitled "Typical Commercial Crises versus a Money Panic."
+
+[29764] [1] Irving Fisher, Rate of Interest, pp. 325, 326.
+
+[29816] [1] This is the definition of a crisis given by Juglar and the history of crises which he gives in detail corresponds to the description. See Juglar, Des Crises Commerciales et de leur retour periodique en France en Angleterre et aux Etats-Unis. 2d ed., Paris (Guillaumin), 1889, pp. 4 and 5. See also translation of part dealing with the United States, by De Courcey W. Thom, A Brief History of Panics in the United States, New York (Putnam), 1893, pp. 7-10.
+
+[30277] [1] For a mathematical treatment of this analogy, see Pareto, Cours d'économie politique, Lausanne, 1897, pp. 282-284.
+
+[30397] [1] Such would seem to be the explanation of the panic of 1907. Cf. Irving Fisher, Rate of Interest, p. 336.
+
+[30507] [1] Marshall, Principles of Economics, 5th ed., London (Macmillan), 1907, Vol. I, p. 594.
+
+[30598] [1] Cf. Jevons, Money and the Mechanism of Exchange, New York (Appleton), 1896, p. 336.
+
+[30687] [2] Cf. Harrison H. Brace, Gold Production and Future Prices, New York (Bankers' Publishing Co.), 1910, p. 122.
+
+[30800] [3] This indirect effect on the price level must not be confused with the direct effect sometimes claimed. See § 1 of Appendix to (this) Chapter V.
+
+[30949] [4] Compare Adolphe Landry, "La Rapidité de la Circulation Monétaire," Extrait de La Revue d'Économie politique, Février, 1905.
+
+[31078] [5] Compare Landry, ibid.
+
+[31105] [6] This is pointed out by Kinley, Money, New York (Macmillan), 1904, p. 156.
+
+[31184] [7] These figures are the medians of those of Pierre des Essars for European banks (Journal de la Société de Statistique de Paris, April, 1895) supplemented by data secured by me from a few American banks.
+
+[31391] [8] Cf. Jevons, Money and the Mechanism of Exchange, New York (Appleton), 1896, p. 336; also Kinley, Money, New York (Macmillan), 1904, pp. 156 and 157.
+
+[31545] [9] Andrew, "Credit and the Value of Money." Reprint from Papers and Proceedings of the Seventeenth Annual Meeting American Economic Association, December, 1904, p. 10.
+
+[31715] [1] For mathematical statement, see § 1 of Appendix to (this) Chapter VI.
+
+[31790] [2] Cf. De Launay, The World's Gold, New York (Putnam), 1908, pp. 179-183.
+
+[31866] [3] Cf. Mill, Principles of Political Economy, Book III, Chapter IX, § 2.
+
+[31941] [4] The theory here presented, that the value of gold bullion and the cost of production of gold affect prices by way of the quantity of money, is the one which economists have generally held. A different view is represented by Laughlin, who says, "the quantity of money used as the actual media of exchange no more determines price than the entries of deeds and conveyances in the county records determine the prices of the land whose sale is stated in the papers recorded," and that "price is an exchange relation between goods and the standard money commodity, whether that money commodity be used as a medium of exchange or not." See The Principles of Money, New York (Scribner), 1903, pp. 317 and 318.
+
+[32649] [1] Henry Dunning Macleod, The History of Economics, New York (Putnam), 1896, pp. 37 and 38.
+
+[32743] [2] P. 477.
+
+[32756] [3] Macleod, The History of Economics, pp. 38 and 39.
+
+[32811] [4] 893-898, Frere's translation.
+
+[32846] [5] Sometimes custom is less strict than law. For instance, in California worn gold coin below the mint limit of tolerance continues to circulate. It is called "bank gold."
+
+[33020] [6] Irving Fisher, "The Mechanics of Bimetallism," (British) Economic Journal, September, 1894, pp. 527-536.
+
+[33130] [7] In its present application it is somewhat like a symbolism suggested by Jevons in his Money and the Mechanism of Exchange, New York (Appleton), 1896, p. 140.
+
+[33293] [8] The possibility of government's fixing any ratio between gold and silver to which the market ratio will conform has been so bitterly disputed that in addition to the positive argument contained in the text, a negative criticism of what are believed to be the chief fallacies underlying these disputes is inserted in § 1 of the Appendix to (this) Chapter VII.
+
+[33657] [9] Of course a unit of water represents gold and silver at their coining weights. If the bimetallic ratio is 16 to 1, the cisterns must be so constructed that a cubic inch of water shall represent an ounce of gold or 16 ounces of silver and that the number of inches separating the surfaces of liquid from OO shall represent the marginal utility of an ounce of gold and of 16 ounces of silver, respectively.
+
+[34067] [10] But it does not necessarily lie between the level of the currency under gold monometallism and its level under silver monometallism.
+
+[34206] [11] See § 2 of Appendix to (this) Chapter VII.
+
+[34255] [12] As long as the premium lasts, the cheaper metal will doubtless circulate somewhat faster, and the dearer somewhat more slowly, than when there is no premium. This may, if desired, be represented by conceiving the thickness of the currency reservoir to decrease on the one side of f and increase on the other, making one metal "go farther" (cover more area in the diagram) than normally, and hasten the motion of f to the equilibrium point. Sluggishness (increase of thickness), of which "hoarding" is the chief application, is referred to below.
+
+[34807] [13] To represent the steadying effect on a single fluctuation, we observe that under bimetallism the three reservoirs act as one. Therefore, compared with monometallism, the fluctuations are diminished in the inverse ratio of the liquid surfaces over which the fluctuations spread. Thus, if the combined breadths of the two left reservoirs at water level are two thirds of the combined breadths of the three, an influx of gold which, if distributed only over the two reservoirs, would make a layer an inch in depth, would, over the three, have a depth of two thirds of an inch. Likewise the right reservoir being one third the aggregate width, an inch fluctuation of silver, when merely merchandise, would be reduced to one third of an inch, when connection is maintained with the money reservoir. The breadths of the reservoir, which here play the important rôle, are the rate of increase of commodity relative to decrease of marginal utility. The law of inverse breadth applies with exactness only to static, or short-time readjustments.
+
+[35849] [14] Cf. Leonard Darwin, Bimetallism, London (Murray), 1897, 341 pp.; Bertrand Nogaro, "L'expérience bimétalliste," Revue d'êconomie politique, 1908.
+
+[36000] [15] In the mechanical interpretation, since the law would now be inoperative, the film would no longer yield to pressure from the right, and an appreciable difference of level on its two sides would ensue. Such a mechanism would illustrate the concurrent circulation of two metals at independent valuations, but experience shows that such a condition is too full of inconveniences to be maintained long. The silver will be progressively tabooed, that is, its velocity of circulation will gradually decrease. This, as we have seen, may be figured by supposing the currency reservoir (on the right of the film only) to be thickened, thus bringing the film to the right. If the silver is completely tabooed, the film will be completely to the right, and there will be gold monometallism. The monetary result of such discrimination against silver is thus the appreciation of gold.
+
+[36879] [16] Cf. Charles A. Conant, "The Gold Exchange Standard," Economic Journal, June, 1909, pp. 190-200.
+
+[36981] [17] W. A. Shaw, The History of the Currency, 3d ed., London (Clement Wilson), 1899, pp. 183.
+
+[37076] [18] Ibid., p. 184.
+
+[37097] [19] W. A. Shaw, The History of the Currency, 3d ed., London (Clement Wilson), 1899, pp. 183 and 184.
+
+[37200] [20] Cf. J. F. Johnson, Money and Currency, Boston (Ginn) 1905, p.227.
+
+[37272] [21] Although France did not entirely suspend the coinage of the silver five-franc pieces until 1876, yet limitation began with 1874. See W. A. Shaw, The History of the Currency, pp. 194, 196.
+
+[37466] [22] These figures are compiled from data given in W. A. Shaw, The History of the Currency, p. 159, and Reports of the Director of the Mint.
+
+[37608] [23] For a brief history and discussion of the Indian experience, see E. W. Kemmerer, Money and Credit Instruments in their Relation to Prices, pp. 36-39.
+
+[37764] [24] See Charles A. Conant, "The Gold Exchange Standard in the Light of Experience," Economic Journal, June, 1909, pp. 190-200; Hanna, Conant, and Jenks, Report on the Introduction of the Gold Exchange Standard into China, the Philippine Islands, Panama, and other Silver-using Countries and on the Stability of Exchange, Washington (Government Printing Office), 1904; Kemmerer, "Establishment of the Gold Exchange Standard in the Philippines," Quarterly Journal of Economics, August, 1905, pp. 600-605.
+
+[38269] [25] The History of Bimetallism in the United States, New York (D. Appleton and Company), 1901, 4th ed., p. 29.
+
+[38382] [26] See especially Wesley Clair Mitchell, History of the Greenbacks, Chicago (The University of Chicago Press), 1903; also his Gold, Prices, and Wages under the Greenback Standard, Berkeley, California (University of California Press), 1908.
+
+[38626] [27] Seager, in his Introduction to Economics, 3d ed., New York (Holt), 1908, p. 317, urges that the government should attempt gradually to dispose of this silver and substitute an equal value of gold.
+
+[38829] [28] The Aldrich-Vreeland Act of 1908 has not changed this situation. However helpful it may be in mitigating the evils of crises, it does not give elasticity of the currency in ordinary times.
+
+[39024] [1] Cf. Albert Aupetit, Essai sur la théorie générale de la monnaie, Paris (Guillaumin), 1901.
+
+[39120] [2] Cf. Hildebrand, Theorie des Geldes, Chapter XI, who, though seemingly unconscious of its bearing on the velocity of circulation, calls attention to the difference between two communities having the same expenditures, but one having a uniform trade and the other a trade "bunched" in certain seasons—say the crop seasons.
+
+[39446] [3] This is very far from asserting as Laughlin does that "The limit to the increase in legitimate credit operations is always expansible with the increase in the actual movement of goods"; see the Principles of Money, New York (Scribner), 1903, p. 82. We have seen, in Chapter IV, that deposit currency is proportional to the amount of money; a change in trade may indirectly, i.e. by changing the habits of the community, influence the proportion, but, except for transition periods, it cannot influence it directly.
+
+[39966] [4] See § 1 of Appendix to (this) Chapter VIII.
+
+[40015] [5] "Mathematical Theory of Banking,", Journal of the Royal Statistical Society, March, 1888.
+
+[40110] [6] "Statistical inquiry into the influence of credit upon the level of prices," University Studies (University of Nebraska), January, 1907, pp. 41-83.
+
+[40263] [7] Cf. Irving Fisher, "Mathematical Investigations in the Theory and Value of Prices," Transactions of the Connecticut Academy of Arts and Sciences, Vol. IX, 1892, p. 62.
+
+[40436] [8] Recent Economic Changes, New York (Appleton), 1890, Chapter IV.
+
+[40505] [9] For further discussion, see § 2 of Appendix to (this) Chapter VIII.
+
+[40578] [10] For further discussion, see § 2 of Appendix to (this) Chapter VIII.
+
+[40652] [1] Cf. Jevons's admirable "Classification of Incomes according as they suffer from Depreciation," Investigations in Currency and Finance, London (Macmillan), 1884, p. 80, and after. See also The Gold Supply and Prosperity, edited by Byron W. Holt, New York (The Moody Corporation), 1907, especially the Conclusion or Summary by the editor, beginning on page 193.
+
+[41017] [2] See article by Walter S. Logan on the "Duty of Gold," in The Gold Supply and Prosperity, edited by Byron W. Holt, New York (The Moody Corporation), 1907, p. 106. See also Ricardo, "Essay on the High Price of Bullion," Works, 2d ed., London (Murray), 1852, p. 287.
+
+[41286] [3] Supra, Chapter IV, § 1.
+
+[41315] [4] See article by Robert Goodbody, "More Gold means Higher 'Time' Money and Lower Bond Prices," in The Gold Supply and Prosperity, edited by Byron W. Holt, New York (The Moody Corporation) 1907, p. 163 and after.
+
+[41530] [5] See Irving Fisher, "Mathematical Investigations in the Theory of Value and Prices," Transactions of the Connecticut Academy of Arts and Sciences, 1892, p. 66 and after.
+
+[41704] [6] From figures showing yield of forest of white pine in New Hampshire, New Hampshire Forestry Commission Report, 1905-1906, p. 246. See F. R. Fairchild, "Taxation of Timberland," Report of the National Conservation Commission, 60th Congress, 2d Session, Senate Document 676, vol. II, p. 624.
+
+[41999] [7] Cf. Jevons, Theory of Political Economy, London (Macmillan), 1888, pp. 155-156.
+
+[42084] [1] See Appendix to (this) Chapter X, §§ 1-8, where 44 types of index numbers are compared.
+
+[42177] [2] For discussions of different ways that have been proposed, see Walsh, The Measurement of General Exchange Value, New York and London (Macmillan), 1901; Edgeworth, "Report on Best Methods of Ascertaining and Measuring Variations in the Value of the Monetary Standard"; Report of the British Association for the Advancement of Science for 1887, pp. 247-301; ditto for 1888, pp. 181-209; ditto for 1889, pp. 133-164. Nitti, La misura delle variazioni di valore della moneta, Turin, 624 pp.; also the Appendix to (this) Chapter X.
+
+[42709] [3] Cf. Mill, Political Economy, Book III, Chapter XV; Sidgwick, Principles of Political Economy, Book I, Chapter II; "Report of Committee on Value of Monetary Standard," Report of the British Association for the Advancement of Science, 1887; Wesley C. Mitchell, Gold, Prices, and Wages under the Greenback Standard, Berkeley, 1908 (University of California Press), p. 19; and Appendix to (this) Chapter X.
+
+[43117] [4] See Appendix to (this) Chapter X for a table and discussion of forty-four sample types of index numbers.
+
+[43227] [5] It is formula 11 of the large table in the Appendix to (this) Chapter X.
+
+[43305] [6] See Appendix to Chapter II and the Appendix to (this) Chapter X, §§ 5, 6, 7.
+
+[43387] [7] See Appendix to (this) Chapter X, § 5, test 7.
+
+[43439] [8] See Report (to Parliament) of an Enquiry by the Board of Trade into Working Class Rents, Housing and Retail Prices, London (Darling), 1908, 1909.
+
+[43590] [9] This has been suggested by Nicholson, Journal of the Royal Statistical Society, March, 1887.
+
+[43688] [10] Giffen, in his Growth of Capital, London (Bell 8 Sons), 1899, pp. 50-54, makes correction for price changes although without attempting to construct a special index number for capital.
+
+[43879] [11] An early attempt to construct a series of index numbers expressing the general change in prices was made by Sir George Shuckburgh Evelyn, Bart., F.R.S. and A.S. in 1798 in an article entitled "An Account of Some Endeavors to Ascertain a Standard of Weight and Measure," in the Philosophical Transactions of the Royal Society of London, Vol. LXXXVIII, pp. 133-182, inclusive.
+
+[44260] Bishop William Fleetwood in 1707 in Chronicon Preciosum, an Account of English Money, the Price of Corn and Other Commodities for the Last Six Hundred Years, raises and discusses the question whether the holder of a fellowship founded between 1440 and 1460 and open only to persons having an estate of less value than £5 a year may rightly swear that he has less than that, if he has £6, the value of money, however, having meanwhile greatly depreciated.
+
+[44716] The idea of using an index number or tabular standard of money value was later put forth by Joseph Lowe, The Present State of England in regard to Agriculture and Finance, London, 1822 (see pp. 261-291, Appendix, pp. 89-101), and afterwards by G. Poulett Scrope, Principles of Political Economy...applied to the Present State of Britain, London, 1833, pp. 405-408, although, as we have seen, the idea of an index number itself antedated them. See Correa Moylan Walsh, The Measurement of General Exchange Value, New York and London (Macmillan), 1901; Bibliography, p. 555.
+
+[45289] [1] Cf. Irving Fisher, "Appreciation and Interest," Part 3, Publications of the American Economic Association, 1896.
+
+[45407] [1] Rate of Interest, Chapter XIV.
+
+[45443] [1]Appreciation and Interest, Part 3, § 4.
+
+[45487] [1] It has been argued that an ideal standard ought to be such as to keep constant not objective, but subjective, prices, so that a debt would be repaid in a given amount of "labor" or "utility." But, aside from the practical difficulties of measuring such subjective magnitudes—which are insuperable and therefore render their discussion purely academic—there are even more serious theoretical objections because of the fact that the standard would increase with some persons and decrease with others as they grow poorer or richer and that these changes are anticipated in making loan contracts—in fact, are the instigating causes of such contracts. See § 4 infra and Irving Fisher, "Appreciation and Interest," Chapter XII, § 2, Publications of the American Economic Association, 1896.
+
+[46276] [1] Cf. Kinley, Money, New York (Macmillan), 1904, p. 267.
+
+[46336] [1] The argument of the remainder of this section is substantially the same as that in a paper by Harry G. Brown, in the Quarterly Journal of Economics, August, 1909, entitled, "A Problem in Deferred Payments and the Tabular Standard."
+
+[46573] [1] Cf. Kemmerer, Quarterly Journal of Economics, August, 1909.
+
+[46638] [1] For a discussion of the effect of a change in the rate of interest on prices, see Irving Fisher, Nature of Capital and Income, New York (Macmillan), 1906, p. 227, and Rate of Interest New York (Macmillan), 1907, pp. 226 and 227.
+
+[46872] [1] Rate of Interest, pp. 121-125.
+
+[46908] [1] The same conclusion as to the best standard for deferred payments is reached by Professor H. S. Foxwell by a somewhat different line of reasoning. See remarks of Professor F. Y. Edgeworth (as Secretary of the Committee on Variations of the Monetary Standard). Report of the British Association for the Advancement of Science, for 1889, pp. 134-139.
+
+[47262] [1] Cf. Edgeworth, in Palgrave's Dictionary of Political Economy, "Index Numbers."
+
+[47346] [1] See, for example, paper by Professor J. B. Clark, "The Gold Standard in Recent Theory," Political Science Quarterly, September, 1895. Compare with this "The Standard of Deferred Payments," by Professor Edward A. Ross, Annals of the American Academy of Political and Social Science, November, 1892; Lucius S. Merriam, "The Theory of Final Utility in its Relation to Money and the Standard of Deferred Payments," ibid., January, 1893; Professor Frank Fetter, "The Exploitation of Theories of Value in the Discussion of the Standard of Deferred Payments," ibid., May, 1895.
+
+[47922] [1] Cf. Charles A. Conant, The Principles of Money and Banking, Vol. II, Chapter VII.
+
+[48009] [1] Rate of Interest, pp. 95-98 and 304-306. This position is taken by Correa Moylan Walsh, The Fundamental Problem in Monetary Science, New York (Macmillan), 1903, p. 345, footnote.
+
+[48193] [1] Rate of Interest, Chapter XIV.
+
+[48229] [1] This is really the same conclusion as that reached by Walsh, The Fundamental Problem in Monetary Science, in which, after a thorough and critical review of the literature of the subject, the author concludes that the kind of stability desirable in the standard of deferred payment is "stability of exchange value."
+
+[48549] [1] At any rate the impression is strong that real estate is more "active" in New York than in most other cities, because of the rapid change in the character of sites on account of the narrowness of Manhattan Island and the consequent acceleration of growth in one direction (northward) and that, in general, cities have more trade in real estate than the country, not only absolutely, but relalively to other trade.
+
+[48968] [1] Money and Prices, 2d ed., New York (Holt), 1909, p. 138.
+
+[49030] [1] Ibid., p. 138.
+
+[49050] [1] Credit Instruments, 1910, 61st Congress, 2d Session, Senate Document 399, pp. 69, 73, 134, 136, would indicate that wholesale trade requires something like twice as much exchange work as retail trade.
+
+[49256] [1] The studies of the Bureau of Labor in retail prices seem to show a general sympathy in movement between retail or wholesale prices, as indeed might be expected.
+
+[49422] [1] See, in Report of National Monetary Commission on Credit Instruments, the figures of aggregate sums deposited in banks by wholesale merchants and others. While these do not afford an exact comparison, they aid in making a rough guess.
+
+[49662] [1] See Report of the Committee in Report of the British Association for the Advancement of Science, for 1888, p. 186.
+
+[49782] [1] See Appendix to (this) Chapter X, § 8.
+
+[49826] [1] This diagram shows the changes in price level according to the separate estimates of D'Avenel, Hanauer, and Leber as given in Aupetit's Essai sur la théorie générale de la monnaie, Paris (Guillaumin), 1901, p. 245.
+
+[50046] [2] These figures are found by supplementing those of D'Avenel, Hanauer, and Leber by those of Jevons and Sauerbeck in the 19th century. Without such supplementing the rise is still more, being tenfold in a thousand years and four to six times since 1200-1500.
+
+[50308] [3] These and the following figures are from "The World's Production of Gold and Silver from 1493-1905," J. D. Magee, Journal of Political Economy, January, 1910, p. 50 ff. Mr. Magee's figures to 1885 are based on Soetbeer's, and since that date, on the Reports of the Director of the United States Mint. For Soetbeer's figures, see Adolf Soetbeer, Edelmetall-Produktion und Werthverhaltniss zwischen Gold und Silber seit der Entdeckung Amerika's bis zur Gegenwart, Gotha (Justus Perthes), 1879, p. 107. These figures and others to follow are given also in the same author's Materialien and are quoted, and their significance discussed, in L. L. Price, Money and its Relation to Prices, London (Sonnenschein), 1900, New York (Scribner's), p. 82 ff.
+
+[51058] [4] Essays in Political Economy, 2d ed., No. 19.
+
+[51108] [5] William Jacob, F.R.S., An Historical Inquiry into the Production and Consumption of the Precious Metals, 2 vols., London (Murray) 1831; Vol. II, p. 63. See also Price, Money and its Relation to Prices, p. 78.
+
+[51322] [6] The estimates of the product and stock are those of Jacob and Soetbeer (op. cit.) and Del Mar, History of the Precious Metals, New York (Cambridge Encyclopaedia Co.), 1902, p. 449. The price levels (except that for 1900) are the averages of those of Vicomte D'Avenel, Histoire Économique de la Propriété des Salaires et des Denrées, Vol. I, pp. 27 and 32, Leber and Hanauer (see A. Aupetit, Essai sur la théorie générale de la monnaie, Paris (Guillaumin), 1901, p. 245), the three estimates being each reduced to 100 per cent for the last quarter of the eighteenth century, or rather 1770-1790. The figure for each century year is taken as the average of the figures given by the three authorities for the preceding and succeeding quarter century. The figure for 1900 is given as 125 as a compromise between widely conflicting results. Leber, Hanauer, and D'Avenel agree fairly well and D'Avenel (writing in 1890 to 1894) finds (p. 32) the "present" price level in France to be double what it was for 1776-1790, which would make the required figure 200. The figures for England, however, of Jevons for 1782 to 1818, Investigations in Currency and Finance, London (Macmillan), 1884, p. 144, combined with those of Sauerbeck from 1818 to the present, Course of Average Prices in England, London (King), 1908, indicate an actual fall of prices, the figure for 1900 being on the above basis from 75 to 80. The English figures are so much more complete than the continental figures of D'Avenel, Leber, and Hanauer, that they are given more weight, and 125 seems a fair rough average for Europe. But the wide discrepancies between the various figures make this, or any other figure which might be chosen, extremely uncertain.
+
+[53047] [7] The figures are taken from various numbers of the Journal of the Royal Statistical Society. For many years Sauerbeck has published yearly his index number in the March issue of this journal.
+
+[53243] [8] History of the Precious Metals, p. 449. The data given by Del Mar are based on the estimates of King, Humbolt, Jacob, Tooke, Newmarch, McCulloch, and himself. The dates correspond approximately with the ends of the periods of price movements as above given. The following figures summarize those of Del Mar as to stock (expressed in billions of dollars):—
+
+[53604] [1] Cf. Albert Aupetit,' Essai sur la théorie générale de la monnaie, Paris (Guillaumin), 1901, pp. 271-285.
+
+[53714] [1] See Mulhall, Dictionary of Statistics, article on "Banks."
+
+[53778] [1] Jevons, Investigations in Currency and Finance, London (Macmillan), 1884, p. 144.
+
+[53865] [1] See Magee, "World's Production of Gold and Silver," Journal of Political Economy, January, 1910, pp. 54, 56.
+
+[53979] [1] See Harrison H. Brace, Gold Production and Future Prices, New York (Bankers' Publishing Go.) 1910, pp. 16 and 17.
+
+[54098] [1] Price, Money and its Relation to Prices, p. 112.
+
+[54152] [1] This rise is found by adding to Jevons's table, which ends in 1865, a fictitious figure (86) for 1873, calculated to be in the ratio to the 1865 figure (78), which Sauerbeck's figure for 1873 (111) bears to his figure for 1865 (101).
+
+[54391] [1] It is not that the left-hand side of the equation did not increase, but that it did not increase so fast as trade; therefore prices fell. Laughlin seems to think he is overthrowing Mill's position that credit acts like money on prices (an increase of credit raising prices, other things equal), by appealing to the fact of an enormous growth of deposit currency in this period which had not raised prices nor prevented their fall. But if trade increased even faster (and Laughlin himself asserts an increase of trade, though he denies that it is a satisfactory answer), then a fall of prices was not opposed to, but entirely consistent with, Mill's theory. See Laughlin, The Principles of Money, New York (Scribner), 1903, pp. 319 and 320.
+
+[55136] [1] F. J. Atkinson, "Silver Prices in India," Journal of the Royal Statistical Society, March, 1897, p. 92. The figures for 1893, 1894, 1895, and 1896 were lowered by the closure of the Indian mint to silver in 1893.
+
+[55354] [1] The figures from 1873 to 1893 are from Japanese Monetary Reports, 1895, translated for me by Mr. Sakata of Yale University. The figures for 1894, 1895, 1896 were also from official Japanese sources provided by Japanese students.
+
+[55588] [1] From the Japanese Report mentioned in the above note.
+
+[55647] [1] The figures for prices in India are, of course, too meager and local to be of as great value as the corresponding index numbers for Europe and America. Cf. figures cited by J. Barr Robertson's article (1903), Report of Commission on International Exchange, 58th Congress, 2d Session, H. R. Document 144, Washington, 1903, pp. 357-378.
+
+[55987] [1] We may remark in passing that this divergence between the two sets of prices is somewhat more than the divergence between gold and silver themselves.
+
+[56142] [1] See Muhleman, Monetary Systems of the World, New York (Nicoll), 1897, p. 177.
+
+[56225] [1] See Muhleman, ibid.
+
+[56250] [1] See J. B. Robertson, "Variations in Indian Price Levels since 1861 expressed in Index Numbers," Department of Commerce and Industry (Government of India).
+
+[56410] [1] See Report of the Select Committee on Wages and Prices of Commodities, Senate Report 912, 61st Congress, 2d Session, 1910.
+
+[56538] [1] L. de Launay, The World's Gold, English translation, New York (Putnam), 1908, p. 227.
+
+[56629] [1] Cf. Jevons, Investigations in Currency and Finance, London (Macmillan), 1884, pp. 64, 65, 66; also Harrison H. Brace, Gold Production and Future Prices, New York (Bankers' Publishing Co.), 1910, p. 113.
+
+[56837] [1] See Ricardo, Essay on the "High Price of Bullion," Works, 2d ed., London (Murray), 1852, p. 278.
+
+[56939] [1] See Francis A. Walker, Money, New York (Holt), 1878, p. 199. Cf. Joseph French Johnson, Money and Currency, Boston (Ginn), 1906, p. 269.
+
+[57081] [1] Cf. the mention of this influence on depreciation in the Bullion Report, III.
+
+[57164] [1] For the following facts, see Andrew D. White, Paper Money Inflation in France, Economic Tracts, No. VII, No. 3 of Series, 1882.
+
+[57297] [1] Investigations in Currency and Finance, London (Macmillan), 1884, p. 144.
+
+[57376] [1] See W. G. Sumner, History of American Currency, New York (Holt), 1874, Chapter III.
+
+[57465] [1] Pennsylvania seems to have been an exception.
+
+[57516] [1] W. G. Sumner, History of American Currency, Chapter I.
+
+[57576] [1] Ibid.
+
+[57587] [1] Rowland Hazard, Sundry prices taken from Ye Account Book of Thomas Hazard, son of Robt. Wakefield, R.I. (Times Print), 1892.
+
+[57717] [1] See Albert S. Bolles, Financial History of the United States, Vol. I, from 1774 to 1789, New York (Appleton), 1879, p. 135.
+
+[57846] [1] Ibid., pp. 137 and 138.
+
+[57875] [1] Ibid., p. 141.
+
+[57895] [1] Ibid., Chapter IX.
+
+[57919] [1] Davis Rich Dewey, Financial History of the United States, New York (Longmans), 3d ed., § 29.
+
+[58017] [1] For a brief account of the greenbacks, see Dewey, Financial History of the United States, Chapter XII. The most complete account is found in Wesley Clair Mitchell, A History of the Greenbacks, Chicago (University of Chicago Press), 1903.
+
+[58260] [1] Aldrich Senate Report on Wholesale Prices and Wages, 52d Congress, 2d Session, table 24, p. 93.
+
+[58361] [1] Wesley C. Mitchell, History of the Greenbacks, Chicago (University of Chicago Press), 1903, p. 179.
+
+[58466] [1] The great reduction in 1862, for instance, is due to the assumption that practically all gold was withdrawn from circulation except in California. A more reasonable assumption would seem to be that it was only partially withdrawn. Much of it may have been hoarded in coin form preparatory to export or melting. If so, it probably circulated to some extent. "Hoarding" means a longer retention in the same hands, but not necessarily failure to be exchanged at all. Gold was a valuable form of bank "reserve", at this time. While not paid out in meeting demand obligations, it was a very quick asset and could be quickly realized upon.
+
+[59105] [1] J. C. Schwab, Confederate States of America, 1861-1865, New York (Scribner), 1901, p. 165.
+
+[59201] [1] Ibid., pp. 167-169.
+
+[59226] [1] J. C. Schwab, Confederate States of America, 1861-1865, New York (Scribner), 1901, table on p. 167.
+
+[59331] [1] J. C. Schwab, ibid., p. 179.
+
+[59365] [1] Cf. Wesley Clair Mitchell, History of the Greenbacks, pp. 208 and 210. Also Francis A. Walker, Political Economy, 3d ed., New York (Holt), 1888, p. 164.
+
+[59523] [1] Clément Juglar, Des Crises Commerciales et de leur Retour Périodique en France, en Angleterre et aux États-Unis, 2 ed., Paris (Guillaumin), 1889, pp. 4 and 5. See also translation of same dealing with United States, by De Courcy W. Thom, A Brief History of Panics in the United States, New York (Putnam), 1893, pp. 7-10. Juglar is mistaken in adding that interest rates fail during rising prices. The facts show that they rise, though not sufficiently to check the excessive lending. See Irving Fisher, The Rate of Interest, Chapter XIV.
+
+[60066] [1] Juglar, ibid., p. 14.
+
+[60093] [1] Juglar, ibid., charts at end; Thom's translation, p. 19, brings the table to 1891.
+
+[60181] [1] See Thom, tables following p. 18.
+
+[60220] [1] History of Banking in the United States, Vol. I of History of Banking in all Nations, New York (Journal of Commerce), 1896, p. 456. The figures are taken from 37th Congress, 3d Session, 5 Ex., 210.
+
+[60423] [1] Lauck, Causes of the Panic of 1893, Boston (Houghton, Mifflin), 1907, p. 118. O. M. W. Sprague, in "History of Crises under the National Banking System," National Monetary Commission Report, Senate Document 538 (61st Congress, 2d Session), points out that in the runs on banks there was no special demand for gold, and is inclined to think that the influence of the currency expansion has been exaggerated.
+
+[60835] [1] For a statistical comparison of this with typical crises, see article by Harry G. Brown, "Typical Commercial Crises versus a Money Panic," Yale Review, August, 1910.
+
+[61006] [1] Juglar, op. cit., tables following p. 339 and charts at end. Juglar calls the crisis of 1873 in France political rather than commercial. The statistics of circulation and deposits and their velocity of circulation (as shown by Pierre des Essars), however, reach a maximum in 1873 and recede immediately after.
+
+[61321] [1] Juglar, op. cit., tables following p. 291.
+
+[61369] [1] "La vitesse de la circulation," Journal de la Société de Statistique de Paris, April, 1895, p. 148. From 1810 to 1892 in France, taking the thirteen crisis years and the twelve years of "liquidation," Des Essars finds that, without exception, the velocity of circulation of deposits at the bank of France is a maximum in the crisis years and a minimum in the years of liquidation.
+
+[61755] [1] The detailed figures will be seen in the Appendix to the next chapter (Chapter XII).
+
+[61845] [1] Minnie Throop England, "Statistical Inquiry into the Influence of Credit upon the Level of Prices," University Studies (University of Nebraska), 1907.
+
+[62001] [1] Money and Credit Instruments in their Relation to General Prices, New York (Holt), 1909, Book II.
+
+[62104] [2] For the details of Professor Kemmerer's calculations the reader is referred to his book. A very brief summary and criticism are given in § 1 of the Appendix to (this) Chapter XII.
+
+[62289] [3] See e.g. Miss S. M. Hardy, "The Quantity of Money and Prices, 1860-1891. An Inductive Study." Journal of Political Economy, Vol. 3, pp. 145-168.
+
+[62439] [4] "Quantity Theory as tested by Kemmerer," Quarterly Journal of Economics, February, 1908, p. 287.
+
+[62541] [5] Kemmerer, op. cit., p. 149.
+
+[62574] [6] For details as to the construction of the table, see § 2 of Appendix to (this) Chapter XII.
+
+[62671] [8] For details see § 3 of Appendix to (this) Chapter XII.
+
+[62731] [9] Cf. Kemmerer, op. cit., p.114.
+
+[62767] [10] This multiplication gives $143,000,000,000, which figure is used by Professor Kemmerer (op. cit., pp. 110-111).
+
+[62885] [11] The method of reaching this result is described in § 4 of Appendix to (this) Chapter XII.
+
+[62981] [12] See § 4 of Appendix to (this) Chapter XII.
+
+[63030] [13] See e.g. the remarks on these clearings in Financial Review for 1910, p. 33, and in Babson's Business Barometers (Wellesley Hills, Mass.), 1910, p. 188.
+
+[63189] [14] See § 5 of Appendix to (this) Chapter XII.
+
+[63238] [16] Money and the Mechanism of Exchange (London), p. 336.
+
+[63298] [17] For a fuller account of the method of estimating the velocity of circulation of money and its statistical application, see § 6 of the Appendix to (this) Chapter XII, which consists, with revisions and additions, of an article of mine published in December, 1909, in the Journal of the Royal Statistical Society on "A New Method of estimating the Velocity of Circulation of Money." The additions incorporated in the Appendix (§§ 7, 8) include the statistical details of the calculations for the United States.
+
+[63813] [18] For details as to the figures in this table, see § 7 of Appendix to (this) Chapter XII.
+
+[63907] [20] For the exact method (necessarily laborious) of constructing this table see § 9 of the Appendix to (this) Chapter XII.
+
+[64032] [21] For the method of constructing this table see § 10 of Appendix to (this) Chapter XII.
+
+[64124] [22] The intermediate curve will be explained later.
+
+[64178] [23] "Quantity Theory as tested by Kemmerer," Quarterly Journal of Economics, 1907-1908, p. 287.
+
+[64276] [24] E.g. Persons finds a coefficient of .98 for the correlation between Kemmerer's figures for bank reserves and money in circulation inclusive of bank reserves, although the two magnitudes do not show any very great agreement between fluctuations in successive years, but only a general agreement in the fact that both ascend rapidly. The coefficient for Professor Kemmerer's figures for P will be much higher, if instead of taking the period beginning with 1879, which includes many years in which prices do not greatly change, we take the period beginning at the same time as my own figures begin, viz. 1896. The correlation coefficient for Kemmerer's figures 1896-1908 is 83 per cent, which is far higher than that obtained by Persons for the period beginning in 1879.
+
+[65051] [25] For instance, no one would deny that the length and breadth of nuts are highly correlated. The coefficient of their correlation is 57 per cent. The height of a man and the breadth of his face are correlated to the extent of 35 per cent.
+
+[65294] [26] Incidentally we may here compare the relative degree of correlation of Professor Kemmerer's figures and of my own. For this purpose we take the period 1896-1908, which is the longest period common to both investigations. For these years the coefficient for my figures is 54 per cent (or .54 ± .11) as against 37 per cent (or .37 ± .14) for Kemmerer's. These are by the method of year-to-year ratios. By the method of raw figures my correlation is 95 per cent and Kemmerer's, 83 per cent.
+
+[65788] [27] By the (misleading) direct comparison between M and P the coefficient of correlation for 1896-1909 is 97 per cent.
+
+[65909] [28] For the method of adjustment, see § 11 of Appendix to (this) Chapter XII.
+
+[65989] [29] See § 1 of Appendix to Chapter III, where this magnitude (relative deposits) is treated and represented by the letter k.
+
+[66116] [30] The calculations needed are obvious and simple. They consist of substituting, for all the factors but one in the right side of the equation, the statistics already obtained for 1909, and for that one factor remaining, the figure for 1896. This one factor remaining is, for the first hypothesis, M; for the second, M'/M; for the third, V; the fourth, V'; and the fifth T.
+
+[66493] [31] Beyond 1909 only American figures are available. Those in the Bulletin of the United States Bureau of Labor show an uninterrupted rise in prices from January, 1909, to March, 1910. Between these dates the index numbers for wholesale prices rose from 124.0 to 133.8. For a good English-American comparison, see Report of the (Mass.) Commission on the Cost of Living. Boston, 1910, pp. 26, 56.
+
+[66891] [32] But, although we cannot justly convict the tariff of raising our price level in recent years, it is of course true that a reduction in the tariff would tend powerfully to reduce that level; for, as we have seen, a tariff wall acts like a dam in keeping up the high level accumulated by the original imposition of duties.
+
+[67218] [33] For discussion of these figures, see § 12 of the Appendix to (this) Chapter XII, where comparison is made with Professor Kinley's results.
+
+[67363] [34] See e.g. Cannon on Clearing Houses among the Reports of the Monetary Commission, 1910.
+
+[67456] [1] Man and the Earth, New York (Duffield), 1906, p. 62.
+
+[67514] [2] See Jevons, Investigations in Currency and Finance, London (Macmillan), 1884, pp. 331-333.
+
+[67610] [3] Cf. F. Y. Edgeworth, "Thoughts on Monetary Reform," (British) Economic Journal, September, 1895, p. 449.
+
+[67720] [4] The variabilities of gold and silver production have been calculated by one of my students, Mr. Morgan Porter. He finds the following mean percentage variations from the mean productions for each period named:—
+
+[67936] [1] See F. Y. Edgeworth, "Thoughts on Monetary Reform," (British) Economic Journal, September, 1895, p. 448.
+
+[68046] [1] "Monnaie d'or avec billon d'argent régulateur," Revue de droit international, December, 1884; reprinted in Études d'Économie politique appliquée, Lausanne (Rouge), 1898, pp. 3-19.
+
+[68231] [1] For the effect of the legal prohibition of exportation see Kemmerer, Money and Credit Instruments in their Relation to General Prices, 2d Edition, New York (Holt), 1909, p. 39 n. Cf. Kemmerer, "The Establishment of the Gold Exchange Standard in the Philippines," in the Quarterly Journal of Economics. Vol. XIX, 600-605 (August, 1905); Second Annual Report of the Chief of the Division of Currency, etc., 14, 15, 21-28; and "A Gold Standard for the Straits," II, in the Political Science Quarterly. Vol. XXI, p. 665-677 (December, 1906).
+
+[68774] [1] See Report of the British Association for the Advancement of Science, 1890, p. 488, containing a draft of a proposed Act of Parliament for this purpose.
+
+[68932] [1] Present State of England in regard to Agriculture, Trade, and Finance. London, 1622.
+
+[69022] [1] Principles of Political Economy, London, 1833, p. 406.
+
+[69082] [1] Investigations in Currency and Finance, London (Macmillan), 1884, p. 122; also Money and the Mechanism of Exchange, London, (Kegan, Paul), 1893, Ch. XXV.
+
+[69241] [1] Cf. Francis Walker, Money, New York (Holt), 1891, pp. 157-163.
+
+[69309] [1] See Joseph French Johnson, Money and Currency, Boston (Ginn), 1906, p. 175.
+
+[69390] [1] See Edgeworth, Reports of the British Association for the Advancement of Science for 1888, p. 182.
+
+[69494] [1] See Jevons, Money and the Mechanism of Exchange, London (Kegan Paul), 1893, p. 333.
+
+[69583] [1] See J. Allen Smith, "The Multiple Money Standard," Annals of the American Academy of Political and Social Science. March, 1896.
+
+[69716] [1] Proposals for an Economical and Secure Currency, 2d Edition, London (Murray), 1816, p. 26.
+
+[69812] [1] See L.V. Mises, "The foreign exchange policy of the Austro-Hungarian Bank," Economic Journal, June, 1909, p. 201.
+
+[69931] [1] A recent popular pamphlet by A.C. Lake, Currency Reform the Paramount issue, Memphis (28 N. Front St.), Tenn., proposes to stop the free coinage of gold. As I write, other evidences of the spread beyond academic circles of the idea that gold is an unstable standard come to hand. The rapid rise in the cost of living has of course thrust the subject on the attention of the magazine and newspaper press. Mr. Edison, in a recent interview, predicts the further downfall of gold, through the discovery,—sure to be made sooner or later—of cheap methods of extracting immense quantities of gold from some Southern clays. He asks the pertinent question: "Is it not absurd to have, as our standard of values, a substance, the only real use of which is to gild picture frames and fill teeth?" Mr. Carnegie, in his last gift of ten millions of dollars to the Carnegie Institution of Washington, stipulates that a certain part of the income shall be set aside as a sinking fund against "the diminishing purchasing power of money." This is significant as one of the first cases in which a business man has taken cognizance, in a practical way, of the instability of gold.
+
+[71098] [1] For discussion of certain statistical averages, see Dr. Franz 8Zcaron;i8zcaron;ek, Die Statistischen Mittelwerte, Leipzig (Duncker 8 Humblot), 1908, in which (p. 2) will be found further references.
+
+[71302] [1] For mathematical statement, see § 5 of this Appendix.
+
+[71361] [1] In § 4 of this Appendix.
+
+[71391] [1] See A. Piatt Andrew, "Credit and the Value of Money," Proceedings Seventeenth Annual Meeting, American Economic Association, December, 1904.
+
+[71537] [1] Andrew, loc. cit.
+
+[71560] [1] Ibid, p. 10.
+
+[71578] [1] Chapter V, § 4.
+
+[71599] [1] Substitutes merely in the sense of Gresham's Law that the cheaper will be substituted for the dearer. It does not deny that the metals are differently preferred for different monetary uses. We cannot compare gold and silver to independent commodities as "copper and wheat," or "beef and shoes," but only to some other pair of substitutes, or quasi substitutes, such as iron and steel, cotton and wool, oats and maize, molasses and sorghum, cane and beet-root sugar, India and Dakota wheat.
+
+[72094] [1] The mathematical necessity of this result can be seen from the formulæ in the Appendix to Chapter X, where the right side of the equation of exchange is transformed into the product of two factors, the volume of trade (T) and the price level (P). If their product remains the same, an increase in the volume of trade, however small, must cause a decrease in the price level.
+
+[72474] [1] See Irving Fisher, "Mathematical Investigations in the Theory of Value and Prices," Transactions of the Connecticut Academy of Arts and Sciences, 1892, p. 51.
+
+[72638] [1] See Giffen, Growth of Capital, London (George Bell and Sons), 1889, pp. 50-54, where allowance is made for changes in the price level. Index numbers of the Economist, of Sauerbeck, and of Soetbeer are cited. Professor J. S. Nicholson has advocated such a capital-standard in the Journal of the Royal Statistical Association, March, 1887, pp. 152 ff. This method is discussed by Edgeworth, Report of the British Association, 1887, p. 276.
+
+[73081] [1] See Walsh, Measurement of General Exchange Value, New York (Macmillan), 1901, pp. 534, 553.
+
+[73178] [1] Bradstreet's Journal from 1895.
+
+[73215] [1] Walsh, op. cit., pp. 81 and 82.
+
+[73252] [1] See M. W. Drobisch, "Ueber Mittelgrössen and die Anwendbarkeit derselben auf die Berechnung des Steigens und Sinkens des Geldwerthes" (Berichte über die Verhandlungen der Königlich sächsischen Gesellschaft der Wissenschaften zu Leipsig; Mathematisch-physische Classe, Band XXIII, 1871, pp. 25-48). Also "8Uuml;eber die Berechnung der Veränderungen der Waarenpreise und des Geldwerthes" (Jahrbücher für National-oekonomie und Statistik, 1871, Band XVI, pp. 143-156); and "Ueber einige Einwürfe gegen die in diesen Jahrbüchern veroffentlichte neue Methode, die Veränderungen der Waarenpreise und des Geldwerthes zu berechnen" (ibid., 1871, Band XVI, pp. 416-427). See also Walsh, op. cit., pp. 97-99, where the method is explained.
+
+[73987] [1] See Edgeworth, Report of the British Association for the Advancement of Science, 1889, p. 152. Sir Rawson-Rawson's suggestion, as developed by Edgeworth, was to divide the value of exports (or imports) by the tonnage of exports (or imports) and consider the result as an index number of prices of exports (or imports). The suggestion was made not for any theoretical virtues, but because of the practical ease of computation. Edgeworth compares the results of Rawson's rough and ready method with the more exact method of Giffen by actual figures for 1886 compared with 1885, and finds substantial agreement.
+
+[74601] [1] For a statement of the history of this formula from Carli to the present, see Walsh, op. cit., p. 534.
+
+[74709] [1] See Jevons, Investigations in Currency and Finance, London (Macmillan), 1884; Edgeworth, Reports British Association, 1887, 8, 9; Walsh, op. cit., pp. 229 ff.
+
+[74873] [1] See Edgeworth, Reports British Association, 1887, 8, 9, esp. 1888, pp. 206 ff.
+
+[74957] [1] Walsh, op. cit., p. 548.
+
+[74987] [1] For Formulæ 11 and 12 there exists a large literature. See Walsh, op. cit., esp. pp. 191 ff., and pp. 539 ff.
+
+[75102] [1] For references to literature concerning this and many others among the remaining formulæ of the table (col. 13-44), see Walsh, op. cit.
+
+[75243] [1] Beiträge zur Statistik der Preise, Frankfurt-a.-M, 1885 (p. 11 and pp. 37-42 for the method). The method is explained in Walsh, Measurement of General Exchange-Value, pp. 386-388.
+
+[75428] [1] Report on Wholesale Prices, Senate Report 1394, 2d Session, 52d Congress, 1893.
+
+[75513] [1] Report of the British Association for the Advancement of Science for 1887, pp. 288-292 and for 1888, pp. 197-198, 200, 202, 203, 206. Edgeworth shows in the case specified by him that an "error" in the weights only makes an "error" one twentieth as great in the resultant index number, while an "error" in the prices themselves makes an "error" in the resultant index number one fourth or fifth as great.
+
+[75923] [1] It might seem that the simple tests of determinateness would be fulfilled by any formula whatever, but such is not the case. (If it were, the total "score" given in the last column opposite test 4 would be 44 instead of 31.) Thus the simple geometrical average (formula 7) will not conform to test 3 of determinateness as to prices. The simple geometrical average for "n" commodities is
+
+[76315] Evidently if p1 becomes 0, the value of the entire expression becomes 0. If, therefore, we should depend on the geometric mean for ascertaining price levels, the temporary plethora of any commodity, to the extent of making its price vanish for a single moment, would cause the index number representing the entire price level for that moment to fall to 0. A form of average which in an extreme case is so absurd will approach absurdity before the extreme is reached. Thus the geometrical average is unduly affected by prices which are low, even if not actually zero.
+
+[76883] [1] It might seem that every index number would conform to this unit-shifting test. It is true of 40 formulæ out of the 44. Yet the index number which is perhaps the simplest of all, Bradstreet's, fails to conform.
+
+[77099] It is evident that if there is a change in the unit of any one commodity, such as that whose prices are p1, and p0, both the numerator and denominator will be affected, but not in the same proportion, except when it happens that
+
+[77329] Consequently, the index number is dependent upon the unit of measurement. Such an index number is entirely arbitrary, and by sufficient manipulation of the units of measurement could be made to favor any particular commodity. The larger the unit of any particular commodity employed, the higher the price for it which enters into the formula, and the more that commodity tends to affect the result.
+
+[77729] Bradstreet uses 96 commodities in common use, all of which are measured by the pound. The result is that silver, for instance, dominates over iron, entering at several dollars a pound instead of a few cents. If radium, which recently cost $8,000,000 an ounce, were included, it would absolutely dominate the group, and we would reach the absurd result that since radium has fallen to hundreds of thousands instead of millions of dollars an ounce, the general price level must have fallen several fold in spite of the general impression of rising prices! An index number of this kind is fitly called by Walsh one of accidental or haphazard weighting.
+
+[78380] [1] That this test is the most difficult one to meet is shown by the fact that the total "score" as given in the last column opposite test 7 is the lowest in that column, being only 12 out of a possible 44; the next most difficult test to meet is test 5 (or 6), opposite which the total "score" is 13½.
+
+[78684] The easiest test to meet is test 8, opposite which the total is 40 out of 44; the next easiest is test 3 (and 4) with 31 out of 44.
+
+[78817] [1] "Modes of constructing Index Numbers," Quarterly Journal of Economics, August, 1907, pp. 613-631.
+
+[78920] [1] See Edgeworth, "First Report on Monetary Standard," Report of the British Association for the Advancement of Science, 1887, pp. 284-855.
+
+[79062] [1] Edgeworth, ibid., pp. 284-286. From the standpoint, however, of the relation of prices to the currency, a large upward variation should count more than a small downward variation; for it requires more currency. In fact, as we have already seen, the arithmetical average complained of is precisely the average needed to fit into the equation of exchange. See § 6 of Appendix to Chapter II and § 7 of this Appendix. As to the asymmetry of price dispersion, see Mitchell, Gold, Prices, and Wages under the Greenback Standard Berkeley (University of California Press), 1908, and reviews of same by Edgeworth, Journal of the Royal Economic Society, December, 1908, pp. 578-582; and H. G. Brown, Yale Review, May, 1909, pp. 99-101.
+
+[79793] [1] Edgeworth, Report, etc., 1887, p. 291, and "On the Choice of Means," Philosophical Magazine, September, 1887; see also Report of the British Association for the Advancement of Science, 1889, pp. 156-161, and Journal of the Royal Statistical Society, June, 1888.
+
+[80060] [1] Ibid., p. 191.
+
+[80080] [1] See Report of the British Association for the Advancement of Science, 1888, pp. 208-211. Edgeworth compares various means for 21 articles in 1885 and 1873, one being that recommended by the committee of which he was a member, and above referred to in the text of Chapter X, §5.
+
+[80363] [1] Gold, Prices, and Wages under the Greenback Standard, Publications of the University of California. Mitchell's use of deciles, however, is of small value, as he employs a common base, 1860, so that his figures for each subsequent year give the dispersion of that year relatively to 1860. There is practically no use in knowing the dispersion of prices in 1909 or 1910 as compared with 1860, and this knowledge throws no light on whether prices change uniformly or disperse widely from 1909 to 1910. What is needed is a knowledge of price dispersion from year to year, and this can readily be indicated by drawing three radiating lines from 1909 to 1910, the central one to show the movement of the median, and the other two to show the movements of the two neighboring quartiles.
+
+[81148] [1] See Report of the Director of the Mint, 1907,p. 87.
+
+[81205] [1] See Senate Document, 225, 61st Congress, 2d Session, Special Report from Banks of the United States, April 28, 1909, p. 261; also Report of Comptroller of the Currency, 1909, p. 835. The figures are exclusive of Hawaii, Porto Rico, and the Philippines, although the sum thus excluded is scarcely appreciable.
+
+[81519] [1] See Financial Review (the Annual of the Commercial and Financial Chronicle), 1906, p. 26 and 1910, p. 33.
+
+[81630] [1] Convincing proof that the clearings on July 2 exceeded those on July 1 is afforded by the fact that whereas the New York state clearings for July 1, 1896, were $140,000,000, as given in the Comptroller's Report for 1896 (p. 494), the New York City clearings alone on July 2 were $157,000,000.
+
+[81928] For New York City the clearings, as Mr. Gilpin of the New York clearing house has informed me, were far larger on July 2, 1896, than on July 1, the two figures being 157 and 138 millions respectively.
+
+[82130] [1] Kinley, The Use of Credit Instruments in Payments in the United States, National Monetary Commission, 61st Congress, 2d Session, Doc. No. 399, 1910.
+
+[82284] [1] The term "depositors," as here used, does not, of course, include savings bank depositors. A savings bank is not a true bank of deposit, providing circulating credit.
+
+[82456] [1] That is, all transfers within the community considered. If it is desired to include as part of a community's circulation the sums exported or imported in foreign trade, these may most conveniently be added at the end. But even if they be included, they will be of trifling significance, partly because foreign trade is usually very small compared with domestic, and partly because money is so little used in foreign trade, especially if we exclude bullion from the category of money.
+
+[82945] [1] See "Note on Professor Fisher's Formula for Estimated Velocity of Circulation of Money." Publications American Statistical Association, March, 1910. The calculation are based on data taken from Professor Kinley's valuable monograph on "Credit Instruments," 61st Congress, 2d Session, Doc. No. 399 in Reports of National Monetary Commission.
+
+[83291] [1] Professor Kinley gives 18.3. The difference is due to the fact that Professor Kinley, while estimating the daily deposits as 62.9 millions, calls this in round numbers 60 millions. It seems preferable to use the estimate as it stands and make any allowances for errors at the end rather than the beginning. Professor Kinley also takes 305 settling days for the year, this being the number used by Professor Kemmerer for 1896. But Mr. Gilpin of the New York clearing house tells me that the clearing house business days, though 305 in 1896, were 303 in 1909. I have therefore used 303 as the number of settling days in 1909. The product 62.9 millions, times 303, is 19.1 billions.
+
+[83976] [1] Bulletin of the Bureau of Labor, No. 77, July, 1908, p. 7.
+
+[84040] [1] Ibid., p. 7.
+
+[84058] [1] Publications of the American Statistical Association, March, 1910.
+
+[84130] [1] It may avoid some confusion to remind the reader that we are dealing with sums of money expended for goods, not with individual coins. Many coins remain "in circulation" a long time without returning to bank, because used "in change." But money used in change enters as a subtractive term in monetary expenditures. When $10 are given for an $8 purchase, and $2 are received back in change, $12 have changed hands, but only $8 of monetary circulation against goods have been effected.
+
+[84619] [1] See Statistical Abstract of United States, 1908, p. 523.
+
+[84681] [1] See Money and Credit Instruments, New York (Holt), 1909, p. 139.
+
+[84751] [1] His original estimate for a safe minimum was 80 per cent. But in the Journal of Political Economy, Vol. V, p. 172, and in "Money," p. 44, and pp. 108, 14, he takes 75 per cent as safer.
+
+[84942] [1] If we take Kinley's original "safe minimum" for checks of 80 per cent, and consequently the "safe maximum" for cash as 20 per cent, we shall obtain in the above table 14 per cent, instead of the figure 16½, which would make the last two columns agree absolutely.

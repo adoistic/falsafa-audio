@@ -1,0 +1,13 @@
+WORK: The History of Bimetallism in the United States  (slug: j-laurence-laughlin-the-history-of-bimetallism-in-th-84d4cc)
+
+CHAPTER: 23-g-method-of-computing-the-ratio-from-the-london-pr
+
+
+
+[0] Rule.—Divide the number 943 by the number of pence at which silver is quoted.
+
+[79] In Great Britain 1869 sovereigns are to be struck out of 40 pounds troy of gold, 11/12 fine; and one ounce would be coined into 1869/(40×12) sovereigns, or £3 17s. 10½d., or 934½d., 11/12 fine. The ounce of pure gold, therefore, is worth 934½d. × 12/11.
+
+[334] If an ounce of silver of British standard, 37/40 fine, is quoted at x pence, an ounce of pure silver would be worth x × 40/37 pence.
+
+[468] The ratio of the value of an ounce of pure gold to an ounce of pure silver would be, therefore,

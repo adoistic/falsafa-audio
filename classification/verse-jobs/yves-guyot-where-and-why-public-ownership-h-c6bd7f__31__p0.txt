@@ -1,0 +1,107 @@
+WORK: Where and Why Public Ownership Has Failed  (slug: yves-guyot-where-and-why-public-ownership-h-c6bd7f)
+
+CHAPTER: 31
+
+
+
+[0] 1. The partisans of socializing and of municipalizing all sorts of public services never tire of the old refrain that state and municipalities manage enterprises for the good of the service, and not for profit, and that, therefore, we ought to get them at a lower cost. We ought to. Here we have a priori reasoning. The trouble is that such reasoning is constantly contradicted by the facts.
+
+[393] 2. Some years ago the net profit on the National Printing Office of France apparently represented nearly normal interest on the capital invested. However, an investigation gave M. Colson an opportunity of declaring that this result was only obtained by an “exorbitant” increase in the prices demanded. In proof of his statement M. Colson gave the following significant example:
+
+[772] The Paul Dupont Company had arranged to furnish the Navy with forms and designs at the same cost as the National Printing Office, less the expenses of composition, correction and holding of forms. The National Printing Office maintained that the Dupont Company was working at a loss in order to ruin the credit of the government establishment. An inspector of finances (inspecteur des finances) declared, officially, that this assertion was false, and that the Dupont Company both could and did make a profit on the business, despite the reduction granted to the Navy.
+
+[1342] 3. On December 13, 1911, the Assistant Secretary of the United States Navy, Mr. Watt, told a committee of the House of Representatives that the battleship Florida, constructed by the government, cost per ton (hull and engines only), 1,374 francs 50 ($265.28); while the Utah, constructed by a private company, cost 904 francs ($174.47). In 1910 Congress authorized the construction of two battleships, the cost of which it limited to 30,000,000 francs ($5,700,000). The private company did its work according to contract, at a cost of 500,000 francs less than the original estimates; the navy yard required additional appropriations until the actual cost reached over 35,000,000 francs ($6,650,000).
+
+[2043] I read in the Army and Navy Journal, January 28, 1911:
+
+[2099] “The Committee on Naval Affairs recommends, also, that Congress give to Secretary Meyer the power to construct in a private shipyard the battleship New York, the building of which was authorized during the last session; the secretary having shown that it will cost the government at least eight millions and a half more to construct the New York in the Brooklyn Navy Yard by reason of the eight-hour law.”
+
+[2506] It is only in France that the Navy constructs more ships than it hands over to private companies for construction, as the following table shows (1911):
+
+[2659] 4. In the cities of Portsmouth and Southsea there are two piers: The one is private property, the other the property of the city. The first is a success; the second a “white elephant.”
+
+[2845] Faithful Begg, one of the best-known authorities on business conditions in England, declared before the London Chamber of Commerce, on the 18th day of May, 1911: “The National Telephone Company operates on 58 per cent. of its gross revenue, while the Postoffice operates on 74 per cent. The Postoffice earns 3.5 per cent. on the capital invested, and the National Telephone Company is earning 8.9 per cent.”
+
+[3254] 5. On the Western (state) railway of France, from 1904 to 1908, claims for loss, damage, and delay amounted to 1,566 francs per 100,000 francs of gross receipts. From 1909 to 1911 this proportion reached 3,043 francs. On the old state system the proportion was 1,426. Since 1909 this sum has increased to 2,055 francs, which proves that the Department of State Railways, while extending its lines, has not improved them. On the Est, Midi, Nord, and Paris-Lyon-Mediterranée—all privately owned lines—the average is 1,175 francs. Thus the claims on the Western are 157 per cent. higher, and on the two other state systems 75 per cent. higher than on the private lines.
+
+[3922] I might add that the Western has fallen back on the plea of “circumstances over which we have no control,” floods, strikes, etc., a subterfuge to which the private companies have not found it necessary to have recourse.
+
+[4143] 6. A German engineer, Wilhelm Majerczik, has published a comparative study of the results accomplished respectively by municipal and private electrical enterprises in Germany.
+
+[4320] We borrow the following facts from the analysis of his study published in the Revue Économique Internationale, of July 15, 1912. The figures were taken from the latest available statistics.
+
+[4511] In his survey Herr Majerczik has passed over the Berlin and Hamburg plants, operated by private companies, as their prosperity so far exceeds the average that his comparisons would have been unduly affected by them. Moreover, his study bears only upon electrical plants supplying localities with a population of at least 100,000 inhabitants. These installations number fifty-six, and are subdivided as follows:
+
+[4923] (The information given relates only to fourteen of the private plants in question, data as to the fifteenth not being attainable.)
+
+[5055] The situation of the private plants is actually less favorable to development than that of the public plants. Yet, out of thirty-eight municipal undertakings, twenty supply only a single locality. The extent of territory supplied by private enterprises is double that of municipal enterprises.
+
+[5350] The municipal enterprises are the older; for, in the beginning, such undertakings were considered the special prerogative of local governments.
+
+[5495] The superiority of the equipment of private enterprises is demonstrated by the fact that the average productive capacity of municipal plants is scarcely three-fourths that of private plants.
+
+[5687] The fewer boilers of the private plants are of a more economical type than those of public plants, and the prime movers are more powerful (Nos. 5 to 10).
+
+[5842] In comparing light and power circuits we have 55.3 kw. per 1,000 inhabitants for 33 public plants, and 79 kw. for 11 private plants. If traction be added we have 65.9 kw. for the first, 80.9 kw. for the second. Municipal plants furnish power for traction to a greater extent than private plants, because the great municipal undertakings control all the important tramway systems.
+
+[6223] Private enterprises are operated more economically than municipal undertakings.
+
+[6304] They can produce greater power per heat unit because they employ boilers and engines of greater unit capacity and the agent of supply is better; that is to say, with a given apparatus, they are called upon to produce more. Their losses are greater, because they operate as central stations at long distances. Private central stations furnish 30 per cent. more energy for private lighting, and 60 per cent. more for public lighting per inhabitant. They also sell much more energy for power.
+
+[6795] The financial results are as follows:
+
+[6834] The installation costs, on the average, are 1,160 marks per kw., for municipal plants, and 1,240 marks for private plants. The private plants operating at long distances have a more expensive system of high tension lines and transforming stations. Nevertheless, they can furnish 1 kwh. 28 per mark of cost of installation, while municipal plants can only furnish 1 kwh. 12. They also content themselves with lower rates.
+
+[7256] The following table gives the difference in rates between municipal and private plants:
+
+[7345] For light the average rate charged by private companies is 14 per cent. less than that of municipal plants; for power, 20 per cent. Even for traction there is a difference of about 8.3 per cent. in favor of private plants.
+
+[7569] The superiority of private plants is shown above all in the matter of expenditures.
+
+[7654] The expenses for fuel, oil and maintenance are less for private plants, because these plants are better equipped and better managed. Yet the labor expenses are higher. The miscellaneous expenses are also higher, because private plants are subject to local taxation from which municipal plants are exempt. If taxes were taken into consideration the gross difference between expenditures and receipts, which is 13.2 per cent. for municipal and 9.5 per cent. for private plants, would be materially modified. The differences would be reversed if private plants did not have lower rates.
+
+[8239] H. Marchand, in a summary of the work of Herr Majerczik, concludes that, from every point of view, public ownership and operation of the generating forces of electricity can only be carried on at a disadvantage.
+
+[8452] 7. In the Journal des Débats and in the Économiste Français Arthur Raffalovich has asserted that public ownership and operation in Germany has been by no means so successful as enthusiastic partisans of government ownership in France and elsewhere have tried to make us believe. Several municipal enterprises have recently been liquidated and a number of electrical plants and tramways sold outright.
+
+[8854] Recent reports of the Burgomasters of Strassburg and Rheydt affirm that the operation of great industries by municipal authority is encountering numerous difficulties; that it is lacking in flexibility; that it is exceedingly hard to find competent managers; that the influences brought to bear are frequently far from disinterested, and often conflicting; that the majority of the municipal councillors have no comprehension of industrial or commercial business; that real profits are rare. In 1908, out of 36 municipal tramways, only 9 were operating without loss, while 11 were requiring rather heavy appropriations.
+
+[9475] The burgomasters charge that cities which are supplying directly their own gas, electricity, and tramways are being delivered over without let or hindrance to the ringleaders of the various labor associations.
+
+[9686] In Germany to-day there is a very marked evolution in the direction of private management, the city retaining the ownership of the enterprise, but leasing the operation to a corporation. Cologne has contracted with a private company to supply the extra electricity needed, and the city has also promised not to enlarge its electrical plants.
+
+[10029] 8. In his report on the municipal budget of Paris, for 1912, M. Dausset acknowledges the superiority of private enterprise over public administration in the following terms:
+
+[10204] “It may as well be confessed that a special mechanical equipment or a skilled staff is only to be obtained by applying to a private company.”
+
+[10347] The business man keeps in touch with the latest developments and spares no efforts to select his markets under the best possible conditions. Public management, “even in those rare cases where it ventures to take the initiative and point out to the council the necessary improvements and repairs, is obliged to wait several months, if not several years, to obtain the money or the indispensable authority.”
+
+[10754] The same conditions prevail in the case of street cleaning. The City of Paris is unable, with its limited annual resources, scarcely sufficient for current expenses, to bring about a rapid renewal of out-of-date equipment. The contractor, on the contrary, has at his disposal for such a purpose capital that he can pay off at his leisure, and which permits him, moreover, to offer attractive terms. Finally, being careful to reduce the cost of maintenance to a minimum, the contractor enters only after careful consideration into initial expenditures. His chief reliance is in a firstclass equipment.
+
+[11356] M. Dausset continues:
+
+[11379] “The contract system is equally well suited to the paving and asphalting of the streets, and their maintenance.
+
+[11492] “Here again everything depends upon the quality of the material employed and on the process and the care in manufacture, as well as on the way the work is performed. Taking into account the importance of the streets and the traffic they will be called upon to bear, the contractor would know how to make the necessary distinctions and would not hesitate, for example, to increase by a centimeter the thickness of the asphalt bed demanded by the specifications, if the street were much frequented, in order to escape expensive repairs in the near future, and to lessen thus the annual cost of maintenance.
+
+[12098] “In the same way, in the case of construction and maintenance of cobbled roads, the government, ill equipped and lacking the flexibility indispensable for performing such work rapidly and economically by profiting by the experience of each day, has every interest in leaving such work to private industry, while reserving for itself the equally important and delicate task of control.”
+
+[12485] In his investigation of the efficiency of municipal work Benjamin Welton also shows the superiority of the business man over the public official.
+
+[12632] “The problem that he has to solve is simple, and he considers it as a whole. He is not hampered by all sorts of restrictions. He seeks the most competent men, discharges the incapable, and is able to give bonuses for increase of production. His rule is to compare expenditures and results. He does not hesitate to make necessary expenses which will be economy in the long run. He organizes his units in such a manner that they give the maximum income. Above all, it is impossible to falsify his reports because they are verified by the party with whom he is under contract.”
+
+[13208] 9. The Socialists would have us believe that from the moment a government or a municipality engages in the nationalization or the municipalization of public utilities it perseveres in the undertaking.
+
+[13410] Yet we have seen that such undertakings have been abandoned in Great Britain and Germany, while, as for New Zealand, Mr. Scholefield, in 1909, and Messrs. Le Rossignol and Stewart, in 1912, are united in the conviction that:
+
+[13636] “Of late years the whole tendency has been to leave more and more to private enterprise. It is a swing of the pendulum. Ten years ago the government would not have dared to suggest allowing private companies to develop the great assets latent in the energy of the rivers of New Zealand. To-day it is the avowed policy of the state to encourage private enterprise in this direction. It is highly improbable now that New Zealand will make any further pronounced advance toward State Socialism until a new temper succeeds to the present mood of conservative Liberalism.”
+
+[14205] The New Zealanders are not theorists, but a certain number are sufficiently shrewd to perceive that, when a loss is resulting from a state enterprise, it affects the whole nation. In other words, that the government in pursuing such a policy is forcing some individuals to help to bear the financial burdens of others.
+
+[14525] 10. J. C. B. Perry, in a letter to the Manchester City News, of March 4, 1911, said:
+
+[14611] “If gas were being furnished by a private company it would have to have a high illuminating power. We cannot force the gas committee to give it, and it does not give it. If the tramways belonged to a company they would not be permitted to monopolize the streets in the center of the city to the detriment of all other species of transportation. Our market committee is losing on its refrigerating plants, while a competing company is a commercial success and is giving ‘cheap food’.”
+
+[15096] When political or administrative bodies, whether states or municipalities, operate, they are regulating themselves. This is a sufficient reason in itself for the suppression of all public trading operations, because it is necessary that there be a distinct separation between the forces of operation and regulation.
+
+[15413] Industrial operation is inherently adapted to private enterprise. Industrial control is the corresponding function of states and municipalities.

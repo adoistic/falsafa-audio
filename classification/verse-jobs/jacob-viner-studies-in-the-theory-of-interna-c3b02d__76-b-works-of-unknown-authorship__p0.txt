@@ -1,0 +1,977 @@
+WORK: Studies in the Theory of International Trade  (slug: jacob-viner-studies-in-the-theory-of-interna-c3b02d)
+
+CHAPTER: 76-b-works-of-unknown-authorship
+
+
+
+[0] A. Dubois, Précis de l'histoire des doctrines économiques, 1903, and Br. Suviranta, Theory of the balance of trade in England, 1923, were helpful, although I cannot accept many of the latter writer's interpretations and appraisals. Except for a few special studies to which reference is made at appropriate points no other secondary studies were of much help to me. E. Lipson, Economic history of England (3 vols., 1929–1931, and especially vol. III [1931], Ch. IV, “The mercantile system”), appeared after this study had been published in its original form. It contains a great mass of valuable material and relates the doctrines to the historical conditions much more completely and authoritatively than I could do. Lipson in the main presents a defense of the mercantilist doctrines against their modern critics, although more moderately than is usual for economic historians. To me most of his defense appears insubstantial, or unsubstantiated by the evidence, or irrelevant, and I have not felt obliged to modify my appraisal because of what he has written. It seems to me especially that he relies too strongly on citations from a few contemporary critics of the prevailing views, such as Davenant, Barbon and North, and from writers after 1690, as evidence of what was prevailing doctrine from say 1550 to 1750. E. Heckscher has recently published in Swedish a two-volume account of the mercantilist doctrines on the Continent as well as in England (Merkantilismen, Stockholm, 1931, 2 vols.) whose English translation (Mercantilism, 1935, 2 vols.) became available too late to permit of my profiting extensively from it in the revision of my original study. It is a work of the highest quality on both the historical and the theoretical sides, and I am happy to find that where we are dealing with the same topics there is no substantial conflict of interpretation or appraisal. I have reviewed Heckscher's book in The economic history review, VI (1935), 99–101.
+
+[1971] Cf. Oncken, article on Quesnay, Handwörterbuch der Staatswissenschaft, 2d ed., 1901, VI, 280.
+
+[2066] If Adam Smith intended the name to be used as a contrast to the physiocratic system, he had considerable justification. Just as the physiocrats claimed that agriculture alone (or extractive industry alone) was productive, so many of the English mercantilists claimed that foreign trade was the only source of wealth, and many of them, while not taking so extreme a position, arranged activities in the order of their contribution to the wealth of the country with foreign trade in the first rank.
+
+[2564] In his Introduction to his reprint of Thomas Wilson, A discourse upon usury [1572], 1925, pp. 60–86; 134–69. Cf. also E.R.A. Seligman, article on the Bullionists, Encyclopaedia of social sciences, III (1930), 60–64.
+
+[2781] Cf. also Jacob Viner, article, “Balance of trade,” Encyclopaedia of the social sciences, II (1930), 399–406; F. W. Fetter, “The term ‘favorable balance of trade,’” Quarterly journal of economics, XLIX (1935), 621–30.
+
+[2999] Bland, Brown, and Tawney, English economic history, select documents, 1914, pp. 219–20. The concept here clearly implied of a national balance (“the land spends too much in merchandise”) and the emphasis on increase, and not merely on prevention of reduction, of England's stock of money, support the contention made above that there has been exaggeration of the differences in doctrine between the so-called “bullionist” and “mercantilist” periods. Other officials, Aylesbury and Cranten, at the same time offered the same explanation of the loss of bullion. For Aylesbury, see ibid., p. 222. For Cranten, see the original source, Rotuli parliamentorum [1381], III (1767), 127: “Quant a primr article: Ne soit pluis despendu deinz le Roialme des Marchandies estranges en value q les Marchandies de la cresceance du Roialme issant hors de mesme le Roialme ne sont en value.”
+
+[3875] [Clement Armstrong?] “A treatise concerning the staple and the commodities of this realme” [ms. ca. 1530], first printed in Reinhold Pauli, Drei volkswirthschaftliche Denkschriften ans der Zeit Heinricks VIII von England, 1878, p. 32. Cf. also “Clement Armestrong's sermons and declaracions agaynst popish ceremonies” [ms. ca. 1530], ibid., pp. 46–47; “How to reforme the realme in settyng them to worke and to restore tillage” [ms. ca. 1535], ibid., pp. 60 ff., 76.
+
+[4343] “Polices to reduce this realme of Englande unto a prosperous wealthe and estate” [ms., 1549], Tawney and Power, Tudor economic documents, III (1924), 318, 321. This collection will henceforth be cited as T.E.D.
+
+[4555] “Considerations for the restraynte of transportinge gould out of the realme” [reign of Elizabeth], printed in Georg Schanz, Englische Handelspolitik gegen Ende des Mittelalters, 1881, II, 649.
+
+[4749] [John Hales] A discourse of the common weal of this realm of England [written, ca. 1550, first printed, 1581], Elizabeth Lamond ed., 1893, pp. 62–63.
+
+[4900] “A discourse of corporations” [ca. 1587], T.E.D., III, 267. For additional statements of the balance-of-trade doctrine during the sixteenth century, see: William Cholmeley, “The request and suite of a true-hearted Englishman” [ms., 1553], The Camden miscellany, II (1853), 11–12; “Memorandum prepared for the royal commission on the exchanges” [1564], ibid., III, 353; “Memorandum by Cecil on the export trade in cloth and wool” [1564?], ibid., II, 451; “D'Ewes' journal” (for 1593) [1693], ibid., II, 242; “An apologie of the cittie of London,” in John Stow, A survey of London, C. L. Kingsford ed., 1908, II, 210.
+
+[5517] I owe some of the following references to the excellent account by W.H. Price, “The origin of the phrase ‘balance of trade,’” Quarterly journal of economics, XX (1905), 157 ff.
+
+[5695] Astrid Friis, Alderman Cockayne's project and the cloth trade, 1927, p. 207, and W. H. Price, loc. cit. There were no value statistics of imports and exports at that time, but the customs rates on all goods were 5 per cent of the official values of the goods. The balance was computed, therefore, by multiplying the customs revenues by twenty.
+
+[6040] Works, 1852, II, 385. (The essay was written in 1616, but first published in 1661.)
+
+[6125] “Polices to reduce this realme” [1549], T.E.D., III, 324.
+
+[6184] “Considerations for the restraynte of transportinge goulde” [time of Elizabeth], Schanz, op. cit., II, 649.
+
+[6293] “Memorandum prepared for the royal commission on the exchanges” [1564], T.E.D., III, 353.
+
+[6384] Gerard Malynes, A treatise of the canker of England's commonwealth [1601], T.E.D., III, 386.
+
+[6478] Sir Robert Cotton, “The manner and meanes” [1609], in Cottoni Posthuma, 1672, p. 196.
+
+[6565] “Memorandum by Cecil on the export trade in cloth and wool,” T.E.D., II, 45.
+
+[6643] “Apologie of the cittie of London” [1598], in Stow, A survey of London, Kingsford ed., 1908, II, 210.
+
+[6746] The circle of commerce, 1623, p. 117. Misselden cites from an alleged manuscript an attempt made during the reign of Edward III to estimate the English balance of trade.—Ibid., p. 118.
+
+[6932] The center of the circle of commerce, 1623, pp. 68–69.
+
+[6988] Ibid., pp. 58–59.
+
+[7007] An inquiry into the principles of political economy, 1767, II, 422: “when one nation is growing richer, others must be growing poorer; this is an example of a favorable balance of trade.” Cf. also ibid., II. 425–26. Steuart also used the terms “passive” and “active” for import and export surpluses, respectively. (Ibid., II, 207.)
+
+[7340] John Cary, An essay on the state of England in relation to its trade, 1695, pp. 131–32; ibid., An essay on the coyn and credit of England, 1696, p. 20.
+
+[7493] [John Pollexfen] A discourse of trade, coyn, and paper credit, 1697, p. 40.
+
+[7570] Sir Humphrey Mackworth, A proposal for payment of the publick debts, 2d ed., ca. 1720, p. 9.
+
+[7664] F. W. Fetter nevertheless considers it an anachronism to attribute the use of the terms “favorable” or “unfavorable” to the mercantilists. “The term ‘favorable balance of trade,’” Quarterly journal of economics, XLIX (1935), 629.
+
+[7895] “Primitive political economy of England” [1847], in Literary remains, Whewell ed., 1859, p. 295.
+
+[7993] The argument was made by many who were not personally interested in the fortunes of the East India Company, and was accepted, in theory, by the critics of the company. The following citations are only to spokesmen for the company: Thomas Mun, A discourse of trade, from England unto the East Indies [1621], Facsimile Text Society reprint, 1930, pp. 9 ff.; ibid., England's treasure by forraign trade [first published 1664, written about 1630], Ashley ed., 1895, pp. 19 ff.; [Sir Thomas Papillon] A treatise concerning the East-India trade being a most profitable trade to the kingdom [1677], 1696 reprint, pp. 12 ff.; [Sir Josiah Child] A treatise wherein is demonstrated that the East-India trade is the most national of all foreign trades, 1681, pp. 6 ff.; [Child] A discourse about trade, 1690, p. 142; Charles Davenant, An essay on the East-India trade [1696], in Works, Charles Whitworth ed., I, 97; Some considerations on the nature and importance of the East-India trade, 1728, pp. 30 ff. As representative instances of the acceptance of the argument by critics of the company who denied, however, that the company could meet the test even if indirect effects were taken into consideration, there may be cited: [William Petyt?] Britannia languens [1680], McCulloch ed., Early English tracts on commerce, 1856, pp. 342 ff.; [John Pollexfen] England and East-India inconsistent in their manufactures, 1697, p. 52.
+
+[9413] Cf. Charles Davenant, Discourses on publick revenues [1698], in Works, I, 388: “It is hard to trace all the circuits of trade, to find its hidden recesses, to discover its original springs and motions, and to shew what mutual dependence all traffics have one upon the other. And yet, whoever will categorically pronounce that we get or lose by any business, must know all this, and besides, have a very deep insight into many other things.” Cf. Sir Leslie Stephen, History of English thought in the eighteenth century, 3d ed., 1902, II, 294, with reference to Davenant's position: “Merchants easily assumed their own balances to be a sufficient test of the national prosperity, but when the theories thus framed were applied to limit their own dealings and to prevent them from importing the most advantageous articles of commerce, they naturally found more or less ingenious modes of meeting the awkward inference. It was better, they admitted, to import gold than silk; but by some dexterous manipulation it must be shown that the importation of silk would enable them to get more gold.”
+
+[10504] Cf. Nicholas Barbon, A discourse concerning coining the new money lighter, 1696, p. 36: “And yet there is nothing so difficult, as to find out the balance of trade in any nation; or to know whether there ever was, or can be such a thing as the making up the balance of trade betwixt one nation and another; or to prove, if it could be found out, that there is anything got or lost by the balance.” Ibid., p. 40: “But if there could be an account taken of the balance of trade, I can't see where the advantage of it could be. For the reason that's given for it, that the overplus is paid in bullion, and the nation grows so much the richer, because the balance is made up in bullion, is altogether a mistake: for gold and silver are but commodities; and one sort of commodity is as good as another, so it be of the same value.”
+
+[11332] Cf., for example, C. F. Bastable, The theory of international trade, 4th ed., 1903, p. 73; Paul Leroy-Beaulieu, Traité théorique et pratique déconomie politique, 2d ed., 1896, IV, 175.
+
+[11518] Bland, Brown, and Tawney, English economic history, pp. 221, 222.
+
+[11585] [Clement Armstrong] “How to reform the realme” [ca. 1535], Pauli ed., op. cit., p. 67.
+
+[11673] The circle of commerce, 1623, p. 124.
+
+[11712] The center of the circle of commerce, 1623, p. 59.
+
+[11764] Henry Robinson, England's safety; in trades encrease, 1641, pp. 50 ff.
+
+[11836] Englands treasure by forraign trade [1664], Ashley ed., 1895, p. II, and chap. xx.
+
+[11920] A discourse about trade, 1690, pp. 138, 140.
+
+[11966] Dr. Hugh Chamberlain, A collection of some papers writ upon several occasions, 1696, pp. 2–3.
+
+[12061] A discourse of trade, coyn, and paper credits, 1697, p. 40. Pollexfen also spoke of “debts and credits” in connection with international transactions of all sorts.—Ibid., pp. 4, 10.
+
+[12244] A. J. [Alexander Justice] A general treatise of monies and exchanges, 1707, p. 74.
+
+[12328] [Joseph Harris] An essay upon money and coins, part I (1757), 119.
+
+[12396] An inquiry into the principles of political æconomy, 1767, II, 316.
+
+[12465] Ibid., II, 453, note.
+
+[12488] [Arthur Young] Political essays concerning the present state of the British Empire, 1772, p. 534.
+
+[12587] Wealth of nations [1776], Cannan ed., I, 440.
+
+[12634] Cf. A. Oncken,Geschichte der Nationalökonomie, 1902, pp. 154 ff.; William Cunningham, “Adam Smith und die Mercantilisten,” Zeitschrift für die gesammte Staatswissenschaft, XL (1884), 44 ff.
+
+[12825] An amusing conflict of interpretation pervades the apologetic literature. Some defend the balance-of-trade theory against its modern critics on the ground that the mercantilists knew that the favorable balance brought in money, and that when they spoke of wealth, treasure, or riches being increased as the result of a favorable balance, they meant money by these terms. Others defend the mercantilists against the charge of overemphasis on money, claiming that what they wanted was an increase of real wealth, or capital, and not merely of money. How a favorable balance of trade can constitute an increase in the total amount of capital or wealth within a country if money and capital or wealth are not the same thing they do not explain. These two lines of defense of mercantilist doctrine are, of course, mutually contradictory, and reflect the persistence into modern times of the confusion from which the original mercantilists suffered.
+
+[13770] [Jocelyn] An essay on money & bullion, 1718, p. 15.
+
+[13823] Steuart is the only mercantilist I have found who even cites the desirability of investment abroad as one of the reasons for desiring a favorable balance, and he does so only incidentally and obscurely.—Principles of political æconomy, 1767, II, 425–26: “... a balance may be extremely favorable without augmenting the mass of the precious metals ... by constituting all other nations debtors to it, ...”
+
+[14229] These arguments must be carefully distinguished from the milder forms, as, for example, that foreign trade will be more profitable if it produces an export surplus than if it does not, or that foreign trade is the best source of wealth. What is said above does not necessarily apply to the milder forms, which are open, however, to other objections. See infra, pp. 22 ff.
+
+[14602] Malynes, A treatise of the canker [1601], T.E.D., III, 387.
+
+[14663] E Misselden, The circle of commerce, 1623, p. 117.
+
+[14715] Mun, England's treasure [1664], Ashley ed., p. 7.
+
+[14766] Samuel Fortrey, Englands interest and improvement [1663], Hollander ed., 1907, p. 29
+
+[14852] Roger Coke, A discourse of trade, 1670, pp. 4, 6.
+
+[14903] Carew Reynel, The true English interest, 1679, p. 10.
+
+[14958] [John Pollexfen] England and East-India inconsistent in their manufactures, 1697, pp. 18–19. A vindication of some assertions relating to coin and trade, 1699, undoubtedly also the work of Pollexfen, is an elaborate defense of Pollexfen's argument cited above against Davenant's attack on it in his Discourse of Publick Revenues [1698]. Pollexfen's argument is also effectively criticized in [Gardner] Some reflections on a pamphlet, intituled, England and East India inconsistent in their manufactures, 1696, pp. 6–7. (This tract, in spite of the date (1696) on its title page, cannot have been written before 1697.)
+
+[15577] The British merchant [1713/4], 3d ed., 1748, I, 28.
+
+[15630] Joshua Gee, The trade and navigation of Great-Britain considered [1729], 1767 ed., p. 205.
+
+[15722] W. Horsley, A treatise on maritime affairs, 1744, p. 37.
+
+[15780] [Matthew Decker] An essay on the causes of the decline of the foreign trade [1744], 1756, pp. 1–2.
+
+[15880] Utopia [1516], A. W. Reed ed., 1929, p. 78.
+
+[15925] Roger Bieston, The bayte and snayre of fortune [ca. 1550], 1894 reprint, p. 21.
+
+[16006] Mun, A discourse of trade from England [1621], 1930 reprint, p. 49.
+
+[16075] Papillon, A treatise concerning the East India trade [1677], 1696 reprint, p. 4.
+
+[16157] Barbon, A discourse concerning coining the new money lighter, 1696, p. 2.
+
+[16232] Davenant, Discourses on the publick revenues [1698], Works, I, 381.
+
+[16301] [Jocelyn] An essay on money & bullion, 1718, p. 11.
+
+[16354] [Robert Wallace] A view of the internal policy of Great Britain, 1764, p. 2. Similar definitions of wealth are to be found in: Gardner, Some reflections, 1696, pp. 6–7; Petty, Political Arithmetick [1690],The economic writings of Sir William Petty, C. H. Hull ed., 1899, I, 259; ibid., The political anatomy of Ireland [1691], Economic writings, I, 192; Bernard Mandeville, Fable of the bees [1714], F.B. Kaye ed., 1924, I, 197, 301. (See also Mandeville's own index, ibid., I, 376, under “Nations: What the wealth of all nations consists in”); Berkeley, The querist [1735–37], in Works, Fraser ed., 1871, III, 357, 402; John Bellers, An essay for imploying the poor to profit, 1723, p. 6; [Robert Wallace] Characteristics of the present political state of Great Britain, 1758, pp. 113 ff.
+
+[17145] E.g., Lewes Roberts, The treasure of traffike [1641], McCulloch ed., A select collection of early English tracts on commerce, pp. 60–65; John Cary, An essay on the state of England in relation to its trade, 1695, p. 10; Erasmus Philips, An appeal to common sense, 1720, p. 18; ibid., The state of the nation, 1725, p. 37; John London, Some considerations on the importance of the woollen manufactures, 1740, preface: “It requires no deep knowledge in trade to comprehend, that the riches of a nation must arise from the labor of its inhabitants in working up such goods as it can vend to other nations for specie.”
+
+[17761] E.g., Thomas Manley, Usury at six per cent. examined, 1669, p. 8; [William Petyt] Britannia languens [1680], McCulloch ed., Early English tracts on commerce, pp. 455–56.
+
+[17932] Utopia [2d ed., 1556], A.W. Reed ed., 1929, p.44.
+
+[17983] “How to reform the realme” [ca. 1535], in Pauli, Drei volkswirthschaftliche Denkschriften, p. 61.
+
+[18082] England's treasure by forraign trade [1664], Ashley ed., chaps. xvii, xviii.
+
+[18160] [John Hales] A discourse of the common weal [1581], Elizabeth Lamond ed., p. 113; Petty, A treatise of taxes [1662], Economic writings, I, 36; [Henry Lloyd] An essay on the theory of money, 1771, p. 14 (where it is condemned as hoarding and therefore injurious to industry and trade).
+
+[18446] John Houghton, A collection of letters, 1681–83, II, 115.
+
+[18505] Henry Home, Lord Kames, Sketches of the history of man, 1774, I, 82 ff.
+
+[18578] Such is explicitly the argument in “Polices to reduce this realme” [1549],T.E.D., III, 324; [J.Briscoe] A discourse of money, 1696, pp. 27–29; and Henry Home, loc cit.
+
+[18747] As representative passages, the following may be cited
+
+[18803] ... it is his [the king of Spain's] Indian gold that endangereth and disturbeth all the nations of Europe; it purchaseth intelligence, creepeth into counsels, and setteth bound loyalty at liberty in the greatest monarchies of Europe—Sir Walter Raleigh, A Voyage for the discovery of Guiana [1596], in Works, 1751, II, 149
+
+[19126] [Restriction of the export of bullion] concerns the safety and well-being of the army, the keeping of treasure within the nation, for they and the army are like a ship at sea, which must be well-provided with anchors and cables, and victuals; money is to them all this, nay, everything—Thomas Violet, Mysteries and secrets of trade and mint-affairs, 1653, p. 35
+
+[19489] ... since the wealth of the Indies came to be discovered and dispersed more and more, wars are managed by much treasure and little fighting, and therefore with little hazard to the richer nation—William Petyt, Britannia languens [1680], in McCulloch ed., Early English tracts on commerce, p 293.
+
+[19786] For, since the introduction of the new artillery of powder guns, &c., and the discovery of the wealth of the Indies, &c, war is become rather an expense of money than men, and success attends those that can most and longest spend money: whence it is that princes' armies in Europe are become more proportionable to their purses than to the number of their people, so that it uncontrollably follows that a foreign trade managed to the best advantage will make our nation so strong and rich, that we may command the trade of the world, the riches of it, and consequently the world itself ... —James Whiston. A discourse of the decay of trade, 1693, pp. 2–3.
+
+[20443] Observations upon the United Provinces of the Netherlands [1668], Works, 1754, I, 131.
+
+[20531] Political Arithmetick [1690], Economic writings, I, 254. The etymological affinity of “superlucration,” which means, of course, saving, to the piling-up of money, has bearing on the argument which I make here that for many of the mercantilists that was what saving meant. The etymological relationships between the terms connected with saving and those signifying money are much closer in French than in English. See Charles Rist, “Quelques définitions de l'épargne,” Revue d'économie politique, XXXV (1921), 734 ff.
+
+[21049] [Thomas Sheridan] A discourse on the rise and power of parliaments [1677], reprint by Saxe Bannister, in Some revelations in Irish history, 1870, pp. 182–83.
+
+[21208] Richard Lawrence, The interest of Ireland in its trade and wealth stated, 1682, Part I, p. 28.
+
+[21304] Davenant, “An essay on the East-India trade” [1696], Works, I, 102.
+
+[21373] The libelle of Englyshe polyce [ms. 1436] Sir George Warner ed., 1926, p. 21. “Waffore” =predatory wasp; “minceth our commodity” =diminishes our resources. This passage is cited here as apparently an instance of the identification of thrift with the accumulation of the precious metals.
+
+[21661] Thomas Houghton, The alteration of the coyn, with a feasible method to do it, 1695, pp. 5, 15.
+
+[21757] Petty, Political arithmetick [1690], in Economic writings, I, 259–60. In a recently published Petty manuscript, accumulation of gold, silver, and precious stones is stated to be the best mode of saving, because they are durable and are not dependent on time and place for their value, but are “morally speaking perpetual and universal wealth.” —The Petty papers, Marquis of Lansdowne ed., 1927, I, 214.
+
+[22161] Hugh Chamberlain, A collection of some papers, 1696, p. 9. The store of wealth and the circulation functions of money are here brought into combination. Chamberlain remarked that money was more than tenfold as important as other commodities, presumably of the same exchange value. (Ibid.)
+
+[22451] Joseph Harris, An essay upon money and coins, Part I (1757), 99.
+
+[22517] An inquiry concerning the trade, commerce, and policy of Jamaica, 1759, pp. 2–3.
+
+[22599] [Pollexfen] England and East-India inconsistent in their manufactures, 1697, p. 49.
+
+[22684] Ibid., p. 7.
+
+[22698] [William Hay] Remarks on the laws relating to the poor [1735], 2d (?) ed., 1751, pp. 20, 21.
+
+[22792] Thomas Starkey, England in the reign of King Henry the Eighth [ins. ca. 1538], Early English Text Society print, 1871, pp. 80, 81. Cf. also “Memorandum ... on the exchanges” [1564], T.E.D., III 353; “Memorandum by Cecil on the export trade in cloth and wool” [1564?], T.E.D., II, 45.
+
+[23077] See infra, p. 89.
+
+[23096] John Gilbert, a mint official, in 1625, quoted by W. A. Shaw, Select tracts ... illustrative of English monetary history, 1896, p. 7.
+
+[23231] [William Paterson] A brief account of the intended Bank of England [1694], reprinted in Saxe Bannister, The writings of William Paterson, 2d ed., 1859, III, 85.
+
+[23393] John Locke, Some considerations [1691], in Works, 1823 ed., V. 9–10.
+
+[23463] For additional statements to the same effect, see: Interest of money mistaken, 1668, pp. 14, 18; John Asgill, on Several assertions proved [1696], Hollander ed., 1906, pp. 29 ff.; [J. Briscoe] A discourse of money, 1696, p. 21; James Hodges, The present state of England, as to coin and publick charges, 1697, p. 18; William Wood, A survey of trade, 1718, p. 335; A letter to the ... Commissioners of Trade and Plantations, wherein the grand concern of trade is asserted, 1747, pp. 76, 86.
+
+[23954] [Hales] A discourse of the common weal [1581], Elizabeth Lamond ed., p. 63.
+
+[24031] Thomas Mun, England's treasure by forraign trade [1664], Ashley ed., pp. 7–8. For additional instances of the use of this analogy, see “Considerations for the restraynte of transportinge gould out of the realme” [ms. reign of Elizabeth], in Schanz, op. cit., II, 649; “Debate in House of Commons on subsidies” [1593], T.E.D., II, 242; Misselden, Free trade, 2d ed., 1622, pp. 12–13; ibid., The circle of commerce, 1623, p. 130; Samuel Lamb, Seasonal observations [1659], in Somer's tracts, 2d ed., VI, 465; Temple, Observations upon the United Provinces [1668], in Works, I, 130; Locke, Some considerations [1691], in Works, V, 19 ff., 72; Davenant, An essay upon ways and means [1695], in Works, I, 13; [S. Clement] A discourse of the general notions of money, trade and exchanges, 1695, p. 11; Pollexfen, A discourse of trade, coyn, and paper credit, 1697, pp. 80 ff.; Steuart, Principles of political œconomy, 1767, I, 421.
+
+[24959] Papillon, A treatise concerning the East India trade [1677], 1696 ed., p. 4.
+
+[25037] A discourse of trade [1690], Hollander ed., p. 11. Cf. also, by the same author, A discourse concerning coining the new money lighter, 1696, pp. 47–48.
+
+[25190] The fable of the bees [1714], Kaye ed., I, 182.
+
+[25239] Political discourses [1752], in Essays, moral, political, and literary, 1875 ed., I, 337.
+
+[25330] See infra, pp. 40 ff.
+
+[25353] “Polices to reduce this realme of Englande” [1549], T.E.D., III, 315.
+
+[25424] Decay of Trade. A treatise against the abating of interest, 1641, p. 9. For further references to high prices as an evil, see “How to reforme the realme” [ca. 1535], in Pauli, op. cit., p. 64; Henry Brinklow, The complaynt of Roderyck Mors [ms. ca. 1542], Early English Text Society, 1874, pp. 49–50; Thomas Wilson, A discourse upon usury [1572], Tawney ed., pp. 258, 284, 312, 356; Thomas Milles, The customers replie, 1604, p. 13; Malynes, The center of the circle of commerce, 1623, preface; Mun, England's treasure by forraign trade [1664], Ashley ed., p. 24; A. V[ickaris], An essay for regulating of the coyn, 1696, pp. 23–24; An essay towards carrying on the present war against France [ca. 1697], in The Harleian miscellany, X (1810), 380; Vanderlint, Money answers all things[1734], Hollander ed., 1914, pp. 16, 95; Steuart, Principles of political œconomy, 1767, I, 423.
+
+[26306] Rice Vaughan, in A discourse of coin and coinage, 1675, pp. 68 ff. and chap. xi, concedes that prices had risen in England, but wants more money nevertheless, because the quantity of money had not increased in as great a proportion as prices and the rise in prices had therefore caused scarcity of money. Vanderlint (op. cit., pp. 15 ff.), who complained about scarcity of money, spoke of an increase in the supply of money or a lowering of prices as alternative remedies.
+
+[26780] E.g., Malynes, A treatise of the canker, [1601], T.E.D., III, 389; Locke, Some considerations [1691], Works, 10th ed., V. 50; Thomas Houghton, The alteration of the coyn, 1695, p. 44.
+
+[26965] Fortrey, Englands interest and improvement [1663], Hollander ed., 1907, p. 29: “... for what the price of any thing is amongst our selves, whether dear or cheap it matters not; for as we pay, so we receive, and the country is nothing damnified by it; but the art is when we deal with strangers, to sell dear and to buy cheap; and this will increase our wealth.”
+
+[27328] E.g., Robinson, Englands safety; in trades encrease, 1641, pp. 55–56; Samuel Lamb, Seasonal observations [1659], in Somer's tracts, 2d ed., VI, 464; [John Browne] An essay on trade in general, 1728, p. 31; [Mildmay] The laws and policy of England relating to trade, 1765, p. 62.
+
+[27608] [Petyt] Britannia languens [1680], McCulloch ed., pp. 283, 290; Thomas Houghton, The alteration of the coyn, 1695, p. 43; Browne, An essay on trade in general, 1728, p. 18; Robert Wallace, Characteristics of the present political state of Great Britain, 1758, p. 35; Arthur Young, Political Arithmetic, 1774, pp. 55 ff.
+
+[27929] Free trade, 1622, pp. 106–07. Misselden advocated that landlords and creditors should be protected from loss by a provision that contracts made before the raising of the currency should be paid at the value of the money current when the contracts were made. (Ibid.) Thomas Manley (Usury at six per cent., 1669, p. 67) borrows some of the above, without acknowledgment. Heckscher (Mercantilism, 1935, II, 224 ff.) finds a much wider prevalence of the desire for higher prices among the English mercantilists than I have found. The specific evidence which he presents is not sufficient to convince me that I am wrong, but does weaken my conviction that I am right.
+
+[28593] “By the means of which measures [i.e., the reduction, by “concoction” of all commodities which are not immediately consumed, to money], all commodities, moveable and immoveable, are made to accompany a man, to all places of his resort, within and without the place of his ordinary residence; and the same passeth from man to man, within the commonwealth; and goes round about, nourishing (as it passeth) every part thereof; in so much as this concoction is as it were the sanguification of the commonwealth; for natural blood is in like manner made of the fruits of the earth; and circulating, nourisheth by the way, every member of the body of man.” —Thomas Hobbes, Leviathan [1651], Everyman's Library ed., p. 133.
+
+[29311] “And as money is the sinew of war, so doth it appear to be the life of trade, all commodities being valued by it, and in both as useful in the body politic as blood in the veins of the body natural, dispersing itself, and giving life and motion to every part thereof....” (Samuel Lamb, Seasonal Observations [1659], in Somer's tracts, 2d ed., VI, 463.)
+
+[29665] Cf. also Bernardo Davanzati, A discourse upon coins [1588], translated by John Toland, 1696, pp. 18–19; Omnia comesta a bello, 1667, p. II; R. Haines, England's weal and prosperity proposed, 1681, p. 12; Taxes no charge, 1690, p. 11; Berkeley, The querist [1735–37], in Works, Fraser ed., 1871, III, 395.
+
+[29971] Cf. Sir Thomas More, Utopia [1516], A. W. Reed ed., 1929, p. 44.
+
+[30037] The key of wealth, 1650.
+
+[30063] Money and trade considered [1705], 1750.
+
+[30105] Cf. Berkeley, The querist, Works, III, 395: “Whether the public is not more benefited by a shilling that circulates than a pound that lies dead?”; John Smith, Chronicon rusticum-commerciale, or memoirs of wool, 1747, I, 414: “And money itself is not properly riches, i.e., it is not serviceable to a community, but as it is circulated.”
+
+[30443] Key of wealth, pp. 1–20.
+
+[30469] Ibid., p. 7. Potter later makes his proposition even stronger: increase money and “both trading and riches will increase amongst them, much more than proportionable to such increase of money, and that without increasing the price of commodity, as I shall prove in place convenient” (ibid., p. 10, incorrectly paged 6). This, he explains, is due to the fact that when men have little money they tend to keep it, but when they have much, they make it “revolve” much more rapidly (ibid., p. 11).
+
+[30963] Money and trade considered [1705], 1750, pp. 20 ff.
+
+[31016] William Potter, Key of wealth, p. 69.
+
+[31055] Englands interest or the great benefit to trade by banks or offices of credit, 1682, pp. 1–2.
+
+[31150] Several objections sometimes made against the office of credit, fully answered, ca. 1682, p. 9.
+
+[31247] [William Paterson] A brief account of the intended bank of England [1694], Bannister ed., The writings of William Paterson, III, 85.
+
+[31381] Robert Wallace, Characteristics of the present political state of Great Britain, 1758, p. 37. Wallace, however, relapses at times into concern about the state of the national stock of bullion.
+
+[31575] E.g., Samuel Lamb, Seasonal observations [1659], Somers' tracts, 2d ed., VI, 455; Edward Forde, Experimented proposals [1666], in The Harlsion miscellany, VII, 343; M. Lewis, Proposals to the King and Parliament, or a large model of a bank, 1678, p. 20; Richard Lawrence, The interest of Ireland, 1682, Part II, p. 11; An essay towards carrying on the present war against France [ca. 1697], in The Harleian miscellany, X, 380; Proposals for restoring credit: for making the Bank of England more useful and profitable, 1721, p. 17; Robert Wallace, Characteristics of the present political state of Great Britain, 1758, p. 30. See also pp. 44–45, infra, with respect to the views of Potter and Law.
+
+[32273] A number of writers, however, disapproved of paper money, on the ground that it made the balance of trade unfavorable and drove metallic money out of the country; e.g., Vanderlint, Money answers all things [1734], Hollander ed., p. 15; Patrick Murray (Lord Elibank), Essays, I. on the public debt, II. On paper-money, banking, &c., III. on frugality, 1755, pp. 20–25; and surprisingly enough, David Hume, Political discourses [1752], in Essays, moral, political, and literary, 1875 ed., I, 311, 377 ff.
+
+[32777] See also the discussion of the theory of the “self-regulating mechanism,” pp. 74 ff., infra.
+
+[32871] J.W. Angell, The theory of international prices, 1926, pp. 13, 15, 18, etc., denies specifically to Malynes and Mun, and generally to all the English mercantilists before Locke (1691) possession of any form of the quantity theory. A. E. Monroe, Monetory theory before Adam Smith, 1923, gives the same impression. For purposes of the theory of international trade, differences in the mode of formulation of the quantity theory have as a rule little qualitative significance, but as is shown in the text, several variants of the quantity theory were presented by English writers prior to Locke.
+
+[33465] Malynes, A treatise of the canker [1601], T.E.D., III, 387.
+
+[33526] Malynes, The center of the circle of commerce, 1623, p. 14.
+
+[33587] Mun, England's treasure [1664—written about 1630], Ashley ed., p. 28. See also p. 24.
+
+[33674] Sir Robert Cotton, “A speech touching the alteration of coyne” [1626], in Cottoni posthuma, 1672, p. 303.
+
+[33781] Henry Robinson, Englands safety; in trades encrease, 1641, p. 60. If interpreted literally, this appears to be the quantity theory reversed, but the context shows it is not intended to be so interpreted.
+
+[33986] Decay of trade, 1641, p. 2. See also, A discourse ... for the enlargement and freedome of trade, 1645, p. 23. For the period after 1650 the following may be cited, in addition to the writers discussed in the text: Ralph Maddison, Great Britains remembrancer [1640], 1655, p. 7; [William Paterson] A brief account of the intended Bank of England [1694], in Bannister ed., Writings of William Paterson, III, 85; John Briscoe, A discourse of money, 1696, pp. 47–58:
+
+[34450] Vanderlint, Money answers all things [1734], Hollander ed., pp. 13, 44; [Erasmus Philips] The state of the nation in respect to her commerce, 1725, pp. 40 ff. After Hume (1752) the quantity theory was a commonplace.
+
+[34667] Cf. however, Angell, op. cit., p. 211: “In England no effort was ever made to reconcile the two conflicting doctrines.”
+
+[34788] Neither Dubois, Précis de l'histoire des doctrines économiques, 1903, I, 258 ff., who of all the commentators on mercantilism deals most acutely with the difficulties created for the doctrine by the development of the quantity theory of money, nor Angell (op. cit.) who follows Dubois, mentions Potter. Dubois attaches great importance in this connection to Law and Verri, who were anticipated on the points relevant here by Potter.
+
+[35222] Supra, pp. 37–38.
+
+[35241] Key of wealth, 1650, p. 13.
+
+[35270] Ibid., p. 13. Cf. also p. 15.
+
+[35301] Ibid., pp. 17–20
+
+[35319] Several assertions proved [1696] Hollander ed., p. 20. This is, of course, an unusually clear instance of the confusion between loanable capital and money.
+
+[35476] Money and trade considered [1705] (Glasgow, 1750), pp. 141–42. Cf. also, Englands interest or the great benefit to trade by banks, 1682, p. 7: if a bank were established, “All sorts of wares will be afforded at cheaper rates, without prejudice to those that make and sell them, because trading will be greater and quicker.”
+
+[35801] John Law, op. cit., pp. 166–73, 221. This argument is an anticipation of the doctrine of the nineteenth-century “banking school,” which applied it, however, only to convertible, and denied its applicability to inconvertible paper money.
+
+[36039] Ibid., pp. 142–43. Law's reasoning is reproduced at length and largely verbatim, without any acknowledgment, by Sir Humphrey Mackworth, A proposal for payment of the publick debts, 2d ed. (ca. 1720), pp. 9–16. The quantity theory is also attacked, in an obscure and ineffective way, by B.I.M.D. [William Temple of Trowbridge], A vindication of commerce and the arts [1758], McCulloch ed., Select collection of scarce and valuable tracts on commerce, 1859, pp. 517 ff.
+
+[36508] The present state of England, 1697, pp. 27 ff., 122 ff., 230 ff., 333.
+
+[36580] Key of wealth, p. 12.
+
+[36603] Ibid., pp. 68 ff.
+
+[36622] Money and trade considered [1705], 1750, p. 217.
+
+[36672] Ibid., pp. 23–24. Sir Humphrey Mackworth plagiarized Law here as else where.—A proposal for payment of the publick debts, ca. 1720, p. 9.
+
+[36811] Cf. A discourse of the nature, use and advantages of trade, 1693, p. 20:
+
+[36885] It may likewise be considered, whether the advancement of trade is not greatly prevented by the unaccountable humor of having so much plate in every family, which if turned into coin would infinitely promote the general trade, but while it remains in plate is of no more public benefit than if it were buried in the bowels of the earth, while so many other manufactures are neglected that would otherwise be employed to supply the use and ornament of plate.
+
+[37344] Rice Vaughan, A discourse of coin and coinage, 1675, p. 66.
+
+[37405] Omnia comesta a bello, 1667, p. 10.
+
+[37442] Et á dracone: Or, some reflections upon a discourse called Omnia á belo comesta, 1668, pp. 5 ff. Cf. Taxes no charge, 1690, pp. 13 ff.
+
+[37578] Thomas Manley, Usury at six per cent, examined, 1669, p. 53. Manley borrowed the analogy from Francis Bacon: “Money is like muck, not good except it be spread.” —“Of seditions and troubles” [1625], in works, 1852, I, 23. But the context shows that Bacon meant more equal distribution of wealth and not monetary circulation.
+
+[37903] Taxes no charge, 1690, p. 17.
+
+[37934] Some considerations [1691], Works, 1623 ed., V, 12.
+
+[37987] Political arithmetick [1690], Economic writings, I, 243.
+
+[38045] A collection of some papers, 1696, p. 4.
+
+[38087] Supra, p. 44.
+
+[38102] The circumstances of Scotland consider'd, 1705, p. 25.
+
+[38158] The vindication and advancement of our national constitution and credit, 1710, p. 84.
+
+[38245] Malachy Postlethwayt, Great-Britain's true system, 1757, pp. 337–42.
+
+[38315] A discourse about trade, 1690, author's preface. Cf. also: Reasons offer'd against the continuance of the Bank, 1707; A short view of the apparent dangers and mischiefs from the Bank of England. 1707, p. 12; Some queries, humbly offer'd ... relating to the Bank of England, 1707, p. 1; An enquiry into the melancholy circumstances of Great Britain (n.d., ca. 1730), p.36.
+
+[38688] The universal dictionary of trade and commerce, 4th ed. 1774, Art. “Banking.” What some of the critics of the Bank really had in mind was the danger that a great bank controlling a substantial proportion of the available loan funds would be able to exercise a monopolistic control over credit, to charge excessive interest rates, and to discriminate between borrowers. Cf. Remarks upon the Bank of England, with regard more especially to our trade and government, 1705; A short view of the apparent dangers, 1707, pp. 10 ff.
+
+[39214] England's treasure [1664], Ashley ed., p.28.
+
+[39260] Free trade, 2d ed., 1622, p. 11.
+
+[39294] “Policies to reduce this realme” [1549],T.E.D., III, 323–24.
+
+[39356] J. Briscoe, A discourse of money, 1696, pp. 27–29. Cf. also Henry Robinson, Englands safety; in trades encrease, 1641, p. 9.
+
+[39482] A collection of letters, 1681–83, II, 115.
+
+[39526] The political anatomy of Ireland [1691], Economic writings, I, 193.
+
+[39595] The circumstances of Scotland consider'd, 1705, p.9.
+
+[39649] Money answers all things [1734], Hollander ed., pp. 94 ff.
+
+[39709] Joseph Harris, An essay upon money and coins, Part I (1757), 89.
+
+[39775] Ibid., pp. 99–100.
+
+[39795] Political discourses [1752], in Essays, moral, political, and literary, 1875, I, 340.
+
+[39882] Sketches of the history of man, 1774, I, 82. See also Postlethwayt, Great-Britain's true system, 1757, p. 357.
+
+[39994] E.g. [Starkey], England in the reign of King Henry the Eighth [ca. 1538], 1871 reprint, p. 94; “How the comen people may be set to worke” [ca. 1530], Pauli ed., Drei volkswirthschaftliche Denkschriften, p. 56; “How to reforme the realme” [ca. 1535], ibid., p. 76; “Polices to reduce this realme of England” [1549], T.E.D., III, 333; [John Hales] A discourse of the common weal [1581], Elizabeth Lamond ed., pp. 63 ff.; Malynes, Treatise of the canker [1601], T.E.D., III, 399; Misselden, The circle of commerce, 1623, p. 35. Mun is one of the few early writers who dealt with trade matters extensively who makes no use of the employment argument. Reliance upon Mun as adequately representative of the earlier literature may have been responsible for the conclusion that the argument first appeared in the later period.
+
+[40814] Petty, Treatise of taxes [1662], in Economic writings, Hull ed., I, 60; [Sheridan] A discourse on the rise and power of parliaments [1677], Bannister ed., p. 200; Taxes no charge, 1690, p. 16.
+
+[41008] Nicholas Barbon, A discourse of trade [1690], Hollander reprint, pp. 23, 37; ibid., A discourse concerning coining the new money lighter, 1696, pp. 50–51.
+
+[41164] Josiah Tucker, A brief essay on the advantages and disadvantages which respectively attend France and Great Britain, with regard to trade [3d ed. 1753], McCulloch ed., Select collection of ... tracts on commerce, p. 315. This passage first appeared in the third edition. See also Tucker, Reflections on the expediency of a law for the naturalization of foreign protestants, 1751, Part II, p. 21.
+
+[41561] [Joseph Harris] An essay upon money and coins, Part I (1757), 89. See also p. 24.
+
+[41644] Sir James Steuart, Principles of political economy, 1767, II, 336. (Italics in original text.)
+
+[41740] Arthur Young, Political essays concerning the present state of the British Empire, 1772, p. 538.
+
+[41838] Ibid., p. 533. Although they both stress employment, this “balance-of-labor” argument differs from the earlier argument that an excess of the value of exports over the value of imports results in an inflow of bullion, which increases trade and therefore employment. (Cf. Malynes, Treatise of the canker [1601], T.E.D., III, 399: “the more ready money ... that our merchants should make their return by, ... the more employment would they make upon our home commodities, advancing the price thereof, which price would augment the quantity by setting more people on work; ...”) In the balance-of-labor doctrine it is the direct effect of the exports on employment which is stressed, and not the indirect effect consequent upon the inflow or outflow of specie.
+
+[42597] “The mercantilist concept of ‘art’ and ‘ingenious labour,’” Economic History, II (1931), 251–52. The sentence placed here in brackets is a footnote in the original text.
+
+[42768] E. S. Furniss, The position of the laborer in a system of nationalism, 1920; T. E. Gregory, “The economics of employment in England, 1660–1713,” Economica, I (1921), 37–51.
+
+[42942] An inquiry into the principles of political economy, 1767, I, 502. Cf. ibid.,: “It is therefore a principle, to encourage competition universally until it has had the effect to reduce people of industry to the physical-necessary, and to prevent it ever from bringing them lower. ...”
+
+[43227] Cf. the citations in Lujo Brentano, Hours and wages in relation to production (translated from the German), 1894, pp. 2–5, to which many additions should be made.
+
+[43391] An enquiry into the melancholy circumstances of Great Britain, ca. 1730, pp. 19–20.
+
+[43476] Political discourses [1752], in Essays, moral, political and literary, 1875 ed., I, 297.
+
+[43566] [Robert Wallace] Characteristics of the present political state of Great Britain, 1758, p. 46.
+
+[43662] Bland, Brown, and Tawney, English economic history, select documents, 1914, p. 222.
+
+[43747] “Polices to reduce this realme of England” [1549], T.E.D., III, 321: “The only means to cause much bullion to be brought out of other realms unto the king's mints is to provide that a great quantity of our wares may be carried yearly into beyond the seas and less quantity of their wares be brought hither again. ...”
+
+[44066] “Memorandum on the reasons moving Queen Elizabeth to reform the coinage” [1559], T.E.D., II, 195. Cf. also [John Hales] A discourse of the common weal [1581], Elizabeth Lamond, ed., p. 79.
+
+[44256] Pauli, Drei volkswirthschaftliche Denkschriften, pp. 12, 32, 56, 64, 66, 71, 76.
+
+[44338] A discourse of the common weal, pp. 66, 87–88.
+
+[44386] A treatise of the canker [1601], T.E.D., III, 398 ff.; The center of the circle of commerce, 1623, pp. 70 ff., 121 ff.
+
+[44506] The customers replie, 1604, passim.
+
+[44543] Great Britains remembrancer [1640], 1655, pp. 16 ff.
+
+[44597] Certain proposals in order to the peoples freedome, 1652, p. 14.
+
+[44663] Sir Thomas Rowe, The cause of the decay of coin and trade in this land [1641], Harleian miscellany, 1809 ed., IV, 457.
+
+[44783] A discourse of trade, from England unto the East-Indies [1621], 1930 reprint, p. 54.
+
+[44869] In England's treasure by forraign trade, chaps. VIII–XIV, Mun presents a detailed and able criticism of the whole gamut of bullionist devices, including the Statutes of Employment.
+
+[45051] Op. cit. p. 458.
+
+[45069] An humble declaration ... touching the transportation of gold and silver, 1643, p. 27 (advocates revival of 14 Ed. III, c. 21, requiring exporters to bring into England a proportion of their receipts in gold); A true discoverie to the commons of England, how they have been cheated of almost all the gold and silver coin of this nation [1651], 1653 reprint, p. 83 (advocates revival of 3 Hy. VII, c. 8, one of the Statutes of Employment proper, applying to merchant-strangers and requiring them to employ the money they receive through the sale of foreign goods in the purchase of English merchandise). Cf. the article on Violet in Palgrave's Dictionary of political economy.
+
+[45746] E.g., Violet, An humble declaration ..., 1643, pp. 30 ff.; ibid., A true discoverie ..., 1653, passim; ibid., Mysteries and secrets ..., 1653, pp. 35. 39, etc.; Et & dracone, 1668, p. 4; [Petyt] Britannia Languens [1680], in McCulloch ed., Early English tracts on commerce, pp. 307 ff.; Hodges, The present state of England, as to coin and publick charges, 1697, p. 105; [Pollexfen] England and East-India inconsistent in their manufactures, 1697, p. 48.
+
+[46202] Principles of political œconomy 1767, II, 329: “But when the balance turns against them in the regular course of business, not from a temporary cause, then he [i.e., ‘the statesman’] may lay restraints upon the exportation of specie, as a concomitant restriction, together with others, in order to diminish the general mass of importations, and thereby to set the balance even.” Cf. also [George Blewitt] An enquiry whether a general practice of virtue tends to the wealth or poverty of a people? 1725, p. 60.
+
+[46713] Cf. Thomas Violet, Mysteries and secrets, 1653, pp. 8–9: “But there are governments which are for the private advantage of a few men, procuring prohibition of importation of several commodities but only by particular men, and exportation of our native commodities, but only by particular men, and only for some ports, and at some seasons of the year.” Violet is not objecting here to the restrictions, but to the special exemptions therefrom.
+
+[47157] E.g., Petty, Treatise of taxes [1662], Economic Writings, Hull ed., I, 60. Petty recommended that the duties be high enough to make foreign finished commodities dearer than competing domestic commodities, and if the imports much exceeded the exports he would support absolute prohibitions.
+
+[47448] E.g., “Polices to reduce this realme of Englande” [1549], T.E.D., III, 332; Fortrey, Englands interest and improvement [1663], Hollander ed., p. 28; [Sheridan] A discourse on the rise and power of parliaments [1677], Bannister ed., pp. 210–11; Barbon, A discourse of trade [1690], Hollander ed., p. 37; Arthur Dobbs, An essay on the trade and improvement of Ireland, 1729, p. 30.
+
+[47829] See infra, p. 69.
+
+[47848] Principles of political œconomy, 1767, I, 338.
+
+[47896] E.g., Robinson, Englands safety; in trades encrease, 1641, p. 9; Barbon, A discourse of trade [1690], Hollander ed., p. 37.
+
+[48021] [Hales] A discourse of the common weal [1581], Elizabeth Lamond ed., p. 67; anon., The present state of Ireland consider'd, 1730, p. 29 (the reference here is to Ireland, however, and not England).
+
+[48220] [David Bindon] A letter from a merchant who has left off trade, 1738, p. 47. Mildmay, in another connection, claimed that countries carried out their obligations under most-favored-nation treaties only when it suited their convenience. (The laws and policy of England, 1765, p. 78.)
+
+[48504] “On the neglect of trade and manufactures,” Scots magazine, II. (1740), 476. Cf. also [Simon Clement] The interest of England, as it stands with relation to the trade of Ireland, considered, 1698, pp. 13–14: “And though this caution [i.e., the danger of foreign retaliation] hath been often urged in discourses of trade, yet I never knew one instance of any nations being piqued at another to such a degree as to break off their commerce; though I have known several instances of such occasions given. Some prevailing regard, either to the benefit of the customs, the profit of the merchants, or the like, is always had; so that governments seem to be steered by this principle, that if they cannot vend in trade as much as they would, they will yet continue to sell what they can, and acquiesce with the shopkeeper's rule, that custom is no inheritance; if they lose one chapman, they get another. ...”
+
+[49409] E.g., The British merchant [1713], 3d ed., 1748, II, 3.
+
+[49466] E.g., Joseph Massie, Ways and means for raising the extraordinary supplies, 1757, p. 27 (cited from Br. Suviranta, Theory of the balance of trade in England, 1923, p. 30, note 1).
+
+[49647] The export of wool was first prohibited in 1647. Other commodities whose export was prohibited were fuller's earth, pipe clay, hides, lead, and knitting machinery.
+
+[49812] Instructions for travellers, 1757, pp. 38–39.
+
+[49859] Cf., Reasons for a limited exportation of wool, 1677, p. 4; Davenant, An essay on the East-India trade, [1697], Works, I, 98 ff.; and John Smith, Chronicon rusticum-commerciale, 1747, passim.
+
+[50052] A discourse on the rise and power of parliaments [1677], Bannister ed., pp. 198–99.
+
+[50137] Treatise of taxes [1662], Economic Writings, Hull ed., I, 59. Cf. also similarly moderate views with respect to leather, but a much more extreme attitude with respect to the export of wool, John Cary, An essay on the state of England, in relation to its trade, 1695, pp. 21, 37–40.
+
+[50420] New essays, 1702, p. 9.
+
+[50445] Sketches of the history of man, 1774, I, 494 ff.
+
+[50495] Ibid., I, 493. Home apparently failed to see that increased production for export would not, of itself, lead to lower English prices.
+
+[50630] “Memorandum by Cecil on the export trade in cloth and wool” [1564?], T.E.D., II, 45 ff.
+
+[50719] The ancient trades decayed, repaired again, 1678, pp. 26–27.
+
+[50781] The linen and woollen manufactory discoursed ... [1691], in John Smith, Chronicon rusticum-commerciale, I, 383–88.
+
+[50897] A brief state of the question between the printed and painted callicoes, and the woollen and silk manufacture, 2d ed. 1719, introduction, p. 4. This pamphlet was directed against the calico industry. In answer to it, Asgill replied that neither silks nor calicoes were “staple commodities,” that calicoes competed with silks rather than with woolens, and that there was therefore as strong a case for restriction of the silk as of the calico industry.—Asgill, A brief answer to a brief state of the question, 1719.
+
+[51413] [Daniel Defoe] An humble proposal to the people of England [1729], The novels and miscellaneous works, 1841 ed., XVIII, 50.
+
+[51538] [Arthur Young] The farmer's letters to the people of England, 2d ed., 1768, p. 42.
+
+[51622] Cf. An act prohibiting the planting of tobacco in England, 1652: “Whereas divers great quantities of tobacco have been of late years and now are planted in divers parts of this nation, tending to the decay of husbandry and tillage, the prejudice and hindrance of the English Plantations abroad, and of the trading, commerce, navigation, and shipping of this nation. ... Be it enacted and ordained that no person or persons whatsoever ... plant, set, grow, make, or cure any tobacco in any field, place or places within this nation. ...”
+
+[52160] Mun, England's treasure by forraign trade [1668], Ashley ed., p. 16, advocated specially favorable customs treatment of the reexport trade. The establishment of free ports was specifically recommended by B. W., Free ports, 1652 (not available for examination); Maddison, Great Britains remembrancer [1640], 1655, pp. 37 ff.; Violet, Mysteries and secrets, 1653, pp. 22 ff.; [Sheridan] A discourse on the rise and power of parliaments [1677], Bannister ed., p. 214; [Petyt] Britannia languens [1680], McCulloch ed., Early English tracts on commerce, p. 359; Gee, The trade and navigation of Great Britain considered [1729], 1767, pp. 180 ff. Petty apparently opposed free ports, because they would facilitate evasion of duties on imports for consumption—A treatise of taxes [1662], in Economic Writings, Hull ed., I, 61. Some steps toward the establishment of a drawback and bonded-warehouse system were taken in the seventeenth century (e.g., 16 Car. I, cs. 25, 29, 31; 14 Car. II, cs. II, 25, 27) and further extensions were introduced in the eighteenth century, but England has never had any free ports.
+
+[53267] E.g. Mildmay, The laws and policy of England, 1765, p. 70.
+
+[53327] E.g. [Petyt], Britannia languens [1680], McCulloch ed., Early English tracts on commerce, pp. 317, 497; Davenant, Reports to the commissioners [1712/13], Works, V, 379; Dobbs, An essay on the trade and improvement of Ireland, 1729, Part II, pp. 30, 31: “Since all duties inwards, besides being disadvantageous to trade, are found to lie at last upon the consumer; and the landed interest, the rich and luxurious pay the greatest part; the prudentest and best method of raising taxes, and least expensive in trading countries that have many ports to guard, and of securing the payment of the duties, and preventing the frauds in running them clandestinely, would be to take off all port duties and place the taxes upon land, moveables and inland excises.... Where the intention is to discourage the importation of foreign goods prejudicial to the public, there to put high licenses and excises upon them in the retailers' or consumers' hands; and if they are entirely prohibited, then to lay the penalty upon the consumer or wherever found.” Cf. also John Collins, A plea for the bringing in of Irish cattel, 1680, p. 21, where the Dutch use of excises not levied until the goods were sold for consumption is credited with being “the prime cause of the greatness of the Dutch trade, wealth, and power at sea.”
+
+[54637] The mercantilists complained repeatedly against the duties laid on English exports for fiscal reasons, and Misselden, in 1623, cited the Dutch as a model to follow in this respect because in Holland “their own commodities [were] eased of charge, the foreign imposed.” —The circle of commerce, p. 135. Cf. also Robinson, Englands safety; in trades encrease, 1641, pp. 8–9; Violet, Mysteries and secrets, 1653, p. 14; Reynel, The true English interest, 1679, pp. 10–11; “No customs, or very small, should be paid for exportation of our own manufactures. It were better to advance the king's revenue any other way than by gaining custom on our own commodities, which hinders exportation, or to encourage foreign commodities that we can make here, to advance the customs”; Mildmay, The laws and policy of England, 1765, p. 73: “It must give us the utmost concern to find several duties at our ports imposed to satisfy rather the public exigency of our government, than to regulate the interest of our foreign commerce.”
+
+[55654] [Robert Walpole] A letter from a member of parliament to his friends in the country, concerning the duties on wine and tobacco, 1733, pp. 21 ff.
+
+[55800] On the history of the export bounties on corn, see D. G. Barnes, A history of the English corn laws, from 1660–1846, 1930. See also Jacob Viner's review of this book, Journal of political economy, XXXVIII (1930), 710–12.
+
+[56022] A collection of letters, 1681–83, II, 182.
+
+[56066] E.g., Gee, The trade and navigation of Great Britain considered [1729], 1767 ed., p. 245; [Charles Smith] Three tracts on the corn trade and corn laws, 2d ed., 1766, passim; [Mildmay] The laws and policy of England, 1765, pp. 56 ff.; [Arthur Young] The farmer's letters, 2d ed., 1768, pp. 44 ff., and Political arithmetic, 1774, pp. 29 ff. Cf. also The manufacturer's plea for the bounty on corn at exportation, 1754, p. 6: “It cannot, I think, be denied that the real proceeds of every quarter of corn, I mean so many at least as the exporter would be disabled from carrying to market without the aid of this bounty, add to the public at least the exceeds of this bounty.” Also, ibid., p. 8.
+
+[56760] Sketches of the history of man, 1774, I, 491 ff.
+
+[56810] Cf. Brewster, New essays on trade, 1702, p. 54; Dobbs, An essay on the trade and improvement of Ireland, 1729, Part II, p. 64; Decker, An essay on the causes of the decline of the foreign trade [1744], 1756, pp. 65 ff.; [Josiah Tucker] The causes of the dearness of provisions assigned, 1766, p. 24, and Considerations on the policy, commerce and circumstances of the kingdom, 1771, p. 124.
+
+[57202] Malachy Postlethwayt, The universal dictionary of trade and commerce, 4th ed., 1774, Art. “Corn,” gives a good statement of the arguments used on both sides.
+
+[57361] A discourse ... for the enlargement and freedome of trade, 1645, p. 22.
+
+[57434] Andrew Yarranton, England's improvement by sea and land [1677], as cited by Patrick Dove, “Account of Andrew Yarranton,” appended to his The elements of political science, 1854, pp. 450–51.
+
+[57625] William Wood, A survey of trade, 1718, pp. 224–25.
+
+[57677] Arthur Dobbs, An essay on the trade and improvement of Ireland, 1729, Part II, p. 65. See also ibid., pp. 62 ff.
+
+[57791] David Bindon, A letter from a merchant who has left off trade, 1738, p. 24.
+
+[57868] Ibid., p. 60.
+
+[57883] “On the neglect of trade and manufacture,” Scots magazine, II (1740), 477. The infant-industry argument is to be found also in Steuart, Principles of political æconomy, 1767, I, 302 ff., 381, and in Josiah Tucker, Instructions for travellers, 1757, p. 33. Adam Smith deals with the argument somewhat overcritically (Wealth of nations, Cannan ed., I, 422 ff.).
+
+[58244] The first use of the term “protection” in the modern sense that I have noticed is in Asgill's A brief answer to a brief state of the question, 1719, pp. 10 ff.
+
+[58405] A. N.,England's advocate, Europe's monitor, 1699, p. 20.
+
+[58463] On this section cf. Angell,The theory of international prices, 1926, chap. ii.
+
+[58543] In Richard Cantillon, Essai sur la nature du commerce en général, written ca. 1730, but not published until 1755, the self-regulating mechanism is clearly and ably expounded. See especially pp. 159–99 in the 1931 reprint, edited by Henry Higgs. Although material from Cantillon's manuscript had been used by French and English writers before its publication, I have found no evidence that any part of his exposition of the self-regulating mechanism appeared in print before 1752, or that Hume was influenced, directly or indirectly, by Cantillon.
+
+[59091] One very early instance may be quoted: “But I say confidently you need not fear this penury or scarceness of money; the intercourse of things being so established throughout the whole world, that there is a perpetual circulation of all that can be necessary to mankind. Thus your commodities will ever find out money.” —Sir Thomas More in the House of Commons, 1523, cited in White Kennet, A complete history of England, 1706, II, 55. Cf. also the quotation from John Houghton (1681), p. 49, supra.
+
+[59591] A treatise of the canker [1601], T.E.D., III, 392–93.
+
+[59646] A passage cited by Angell (Theory of international prices, p. 14) as quoted by Malynes in 1622 from an unidentified contemporary author, does appear to state with adequate clearness the dependence of specie movements on the relative value of money at home and abroad, and the dependence of the value of money on its quantity. But the quotation is from the unenlightened Edward Misselden (Free trade, 2d ed., 1622, p. 104) who by a low value of money means a high mint price of bullion rather than low purchasing power over commodities.
+
+[60183] Some considerations of the lowering of interest [1691], Works, 1823 ed., V, 49.
+
+[60264] In modern terminology, the “terms of trade” would be less favorable. Ibid., pp. 49–50.
+
+[60352] Angell (op. cit., pp. 19–20) gives a much more favorable interpretation of Locke, and credits him with “the first outline that I have discovered of a theory of international prices.” But he does so only by reading in effect “what will be” where Locke outlines what is desirable but will not necessarily be realized. He appears to find Locke inconsistent, because he did not think “that money, despite its distribution in a definite proportion to trade, keeps a uniform value throughout the world” and quotes, to reveal the inconsistency, a passage which shows clearly what I here contend, namely, that Locke did not believe that money is actually distributed in a definite proportion to trade: “Money ... is of most worth in that country where there is the least money in proportion to its trade.” —Locke, op. cit., p. 50, italics mine.
+
+[61190] Ibid., pp. 50–51. Locke explains both (1) the specie-import point (mint par minus insurance between Holland and England minus additional cost of shipment because of an assumed penalty on the exportation of bullion from Holland) and (2) the point at which an English merchant having funds in one country will decide to transfer them to another, which will be determined by the relative opportunities for profitable use in the two countries, the cost of transmission, and the risk connected with investment in a foreign country.
+
+[61718] Angell (op. cit., p. 21) finds the first clear statement of the specie-point mechanism in Clement (1696). The specie points must be clear to merchants as soon as they actually engage in bullion and exchange transactions, and Gresham gives an adequate statement of the specie-import point in 1558. Cf. J. W. Burgon, The life and times of Sir Thomas Gresham, 1839, I, 485. Cf. also Petty, Treatise of taxes [1662], Economic writings, Hull ed., I, 48: “As for the natural measures of exchange, I say, that in times of peace, the greatest exchange can be but the labor of carrying the money in specie, but where are hazards [and] emergent uses for money more in one place than another, etc., or opinions of these true or false, the exchange will be governed by them.” Cf. also, ibid., The political anatomy of Ireland [1691], in Economic writings, Hull ed., I, 185–86: “Exchange can never be naturally more than the land and water-carriage of money between the two kingdoms, and the insurance of the same upon the way, if the money be alike in both places.”
+
+[62773] Discourses upon trade [1691], Hollander ed., pp. 35–36.
+
+[62830] Cf. Angell (op. cit., p. 17) for a slightly more favorable interpretation.
+
+[62906] Heckscher regards this as too favorable an interpretation, on the ground that Pratt was referring to the cheapness of silver solely in terms of other coins, not of commodities in general. (Mercantilism, 1935, II, 251, note.)
+
+[63132] [Samuel Pratt] The regulating silver coin, made practicable and easie. 1696, p. 103. See also ibid., p. 104. Cf. also Hugh Chamberlain, A collection of some papers, 1696, p. 13: “when more can be got by our English commodities than by money, none will export money.”
+
+[63400] A survey of trade, 1718, pp. 335 ff.
+
+[63438] Isaac Gervaise, The system or theory of the trade of the world, 1720. Gervaise was of French Huguenot birth, and was taken by his parents to Ireland as a child, upon the revocation of the Edict of Nantes. He became an Anglican clergyman and a friend of Bishop Berkeley. Cf. A. C. Fraser, Life and letters of George Berkeley, D.D., 1871, 259, note.
+
+[63787] Op. cit., pp. 3–4. Cf. also pp. 24–25, where it is made clear that this is a correct interpretation of his reasoning.
+
+[63906] Ibid., p. 5.
+
+[63920] Ibid., pp. 7–8.
+
+[63937] Pp. 8–9, 12.
+
+[63951] Ibid., p. 13.
+
+[63966] Ibid., pp. 15–17.
+
+[63985] He also later (pp. 32–34) qualifies his conclusions with respect to the proportions in which specie can be distributed in the case where there is international lending or tribute.
+
+[64166] [Thomas Prior] Observations on coin in general, 1730, p. 13.
+
+[64228] Money answers all things [1734], Hollander ed., pp. 48–49.
+
+[64288] Ibid., pp. 93–95. See supra, p. 50.
+
+[64325] Political discourses [1752], in Essays, moral, political, and literary, 1875 ed., I, 330 ff.
+
+[64419] Ibid., p. 333, note.
+
+[64441] Ibid., I, 334–35.
+
+[64460] Ibid., I, 337 ff.; I, 311 ff. Cf., however, ibid., I, 339 ff.
+
+[64523] Ibid., I, 337. Adam Smith found fault with Hume for having “gone a little into the notion that public opulence consists in money,” presumably with these passages in mind.—Lectures on justice, police, revenue, and arms (given about 1763), Cannan ed., 1896, p. 197. To Hume's objection to paper money that it drove out bullion, Henry Lloyd replied that “money cannot go out of a kingdom without receiving an equivalent, which is either consumed at home, or resold with advantage.” An essay on the theory of money, 1771, p. 16.
+
+[65049] In this, as in some of his other economic essays, Hume was apparently replying to arguments in Montesquieu's L'esprit des lois which he could not accept. Hume had already stated the doctrine of the self-regulating mechanism in much the same terms in a letter to Montesquieu, April 10, 1749, cited in J. Y. T. Greig,The letters of David Hume, 1932, I, 136–37. In a letter of Nov. 1, 1750, to James Oswald, who had apparently already seen a manuscript of the essay and had raised objections against its thesis, Hume made a concession along the Potter-John Law lines: “I agree with you, that the increase of money, if not too sudden, naturally increases people and industry, and by that means may retain itself; but if it do not produce such an increase, nothing will retain it except hoarding.” (Ibid., I, 143.)
+
+[65860] Essays, I. on the public debt; II. on paper-money, banking, &c., 1755, p. 21.
+
+[65939] An essay upon money and coins, Part I (1757), 90–93. Harris does not mention Hume, but in his preface he states that the main part of his essay had been written many years before.
+
+[66120] Ibid., Part I, pp. 99, 100.
+
+[66149] [George Whatley] Principles of Trade, 2d ed., 1774, note, pp. 15–16. Benjamin Franklin helped in the preparation of this book, and the notes, which are generally superior to the text, have especially been attributed to him. See Jared Sparks, The works of Benjamin Franklin, 1840, X, 148.
+
+[66438] An interesting and able discussion of the effect on exchange rates and specie flows of the credit operations of banks is to be found in “Considerations relating to the late order of the two banks,” Scots magazine, XXIV (1762), 39–41, 89–94. Its general argument is that the existing adverse exchange on London was due to temporary circumstances and should be corrected by borrowing in London rather than by contraction of bank credit in Scotland.
+
+[66886] [Robert Wallace] Characteristics of the present political state of Great Britain, 1758, pp. 31–32.
+
+[66986] Principles of political æconomy, 1767, I, 405 ff., 515–16.
+
+[67046] Ibid., I. 422.
+
+[67062] Ibid., II, 115.
+
+[67079] Four tracts on political and commercial subjects, 2d ed., 1774, pp. 34 ff.
+
+[67155] In a letter of March 4, 1758, to Lord Kames:The letters of David Hume, J. Y. T. Greig ed., 1932, I, 143 ff.
+
+[67264] Wealth of nations [1776], Cannan ed., II, 277.
+
+[67312] Lectures on justice, police, revenue and arms [given about 1763], Cannan ed., 1896, p. 197.
+
+[67405] See supra, p. 75.
+
+[67424] Thomas Starkey, England in the reign of King Henry the Eighth [ca. 1538], 1871, pp. 88–90.
+
+[67516] T[homas] M[un], A discourse of trade, from England unto the East-Indies [1621], 1930 reprint, p. 46.
+
+[67618] Josiah Child, Discourse about trade, 1690, p. 152.
+
+[67670] Ibid., preface. See also North, Discourses upon trade [1691], Hollander ed., p. 36; Harris, An essay upon money and coins, Part I (1757), 93–94. Another writer, in 1710, said that explanation of the decline in trade as due to scarcity of money was “a vulgar error,” and that the real cause was not a decrease in its quantity but a decrease in its circulation owing to unfavorable prospects. (A vindication of the faults on both sides [1710] in Somers’ tracts, 2d ed., XIII (1815), 6–7.)
+
+[68158] North, op. cit., pp. 24 ff.
+
+[68187] Early English tracts on commerce [1701], McCulloch ed., p. 558.
+
+[68252] Barbon, A discourse of trade [1690], Hollander ed., p. 20; Joseph Massie, An essay on the governing causes of the natural rate of interest [1750], Hollander ed., 1912, passim; Hume, Political discourses [1752], in Essays moral, political, and literary, 1875, I, 320 ff. Cf. also Davenant, Discourses on publick revenues [1698], Works, II, 106.
+
+[68597] The following quotation illustrates an intermediate stage in the evolution of the theory of the formation of capital, where recognition of the possibility of accumulation through productive investment has come but without leading to the complete abandonment of the notion of saving as consisting of the piling-up of the precious metals:
+
+[68935] The primary design, and proper end of silver and gold, is treasure, and ‘tis from thence that they acquire their universal value and esteem, so that men will part with all other commodities in exchange for them, with this view, that besides that they will enable them to purchase whatsoever they stand in need of, what they can save to lay up will always be ready to serve their future occasions. ‘Tis true that men soon found out ways of improving and increasing their treasure by purchasing lands, lending at interest, and employing it in trade, but how oft soever these ways of cultivation are iterated, still the acquiring of treasure is proposed as the ultimate end. (A vindication of the faults on both sides.....[1710] in Somers’ Tracts, 2d ed., 1815, XIII, 5–6.)
+
+[69707] Locke had argued that it was only the existence of money which created any incentive for the accumulation of physical capital, since without the possibility of exchanging physical goods for something not perishable and which could be hoarded men would have no motive to acquire possession of land, cattle, etc., in greater amount than they could themselves consume its product. (Two treatises of civil government [1690], in Works, 1823 ed., V, 365–66.)
+
+[70161] Cf., on this section, E. A. J. Johnson, “Unemployment and consumption: the mercantilist view,” Quarterly journal of economics, XLVI (1932), 708–19.
+
+[70310] E.g. [Starkey], England in the reign of King Henry the Eighth [ca. 1538], 1878, p. 81; Potter, Key of wealth, 1650, p. 17: “To have a plentiful share of outward comforts, though dear, is an advantage above that of enjoying a less proportion thereof, though never so cheap, as much every whit as the end is more excellent than that means, which without such end serveth to no purpose at all”; Barbon, A discourse of trade [1690], Hollander ed., p. 22; Jocelyn, An essay on money & bullion, 1718, pp. 17–18: the East India Company, in return for bullion, brings in commodities “both to adorn and entertain our ladies. Are not these riches? ... The produce of the East-Indies enriches Europe ... more than all the bullion, which comes from the West”; Some considerations on the nature and importance of the East-India trade, 1728, p. 71: “Providence in its infinite goodness designed to make life as easy and as pleasurable to mankind as possible, and gave us reason to find out arts, and to make them subservient to our delight and happiness”; Lindsay, The interest of Scotland considered, 1733, p. 63; Vanderlint, Money answers all things [1734], Hollander ed., p. 134: “For trade terminates ultimately in the consumption of things, to which end alone trade is carried on.” Cf.Thomas Fuller, The holy state, and the profane state [1642], Nicholas ed., 1841, p. 109: “God is not so hard a Master, but that He alloweth His servants sauce (besides hunger) to eat with their meat.” Cf., however, Steuart, Principles of political œconomy, 1767, I, 25: “The duty and business of man is not to feed; he is fed in order to do his duty, and to become useful.”
+
+[71961] E.g., Houghton, Collection of letters, 1681–83, I, 52; Barbon, A discourse of trade [1690], Hollander ed., p. 32; Child, A discourse about trade, 1690, pp. 72 ff.; Taxes no charge, 1690, pp. 11 ff.; Vanderlint, Money answers all things [1734], Hollander ed., p. 29. Sir William Temple claimed that the argument that extravagance was advantageous was erroneous, even when the spending was confined to domestic goods, because it reduced the amount of goods available for export, and cited the frugality of the Dutch as a model for the English to follow.—Observations upon the United Provinces of the Netherlands [1668], Works, 1754, I, 132. But Davenant, Discourses on publick revenues [1698], Works, I, 390–91, and Mandeville, Fable of the bees [1714], Kaye ed., I, 186, later claimed that the Dutch were frugal through necessity rather than choice.
+
+[72811] North, Discourses upon trade [1691], Hollander ed., p. 27; Davenant, loc. cit.; Mandeville, loc. Cit.; Vanderlint, loc. cit.; “Impartial essay concerning the nature and use of specie and paper-credit in any country,” Scots magazine, XXIV (1762), 134; Harris, An essay upon money and coins, Part I (1757), 30: “The word luxury hath usually annexed to it a kind of opprobrious idea; but so far as it encourages the arts, whets the inventions of men, and finds employments for more of our own people, its influence is benign, and beneficial to the whole society.” Cf. also B-I-, M.D. [William Temple of Trowbridge], A vindication of commerce and the arts [1758], in McCulloch ed., Scarce and valuable tracts on commerce, 1859, pp. 551 ff. Arthur Young, Political arithmetic, 1774, pp. 46 ff., defends luxury, because it creates a market for agricultural goods.
+
+[73670] Perhaps also Jocelyn, who would lay “as few taxes and prohibitions as possibly can be upon any export or import in trade.” (An essay on money & bullion, 1718, p. 30.)
+
+[73838] [Clement Armstrong] A treatise concerning the staple [ca. 1530], in Pauli, op. cit., p. 42.
+
+[73931] John Hales, “On the unwisdom of a new imposition on cloth” [1559], T.E.D., II, 224.
+
+[74016] “Polices to reduce this realme ...” [1549], T.E.D., III, 317.
+
+[74079] Fleming, J., “The case of impositions” [1606], in Howell ed., A complete collection of state trials, II (1809), 390.
+
+[74197] Robert Keale, The trade's increase [1615], in Harleian miscellany, III (1809), 307.
+
+[74282] [Defoe?] An essay upon loans, 1710, p. 14.
+
+[74326] David Bindon, A letter from a merchant who has left off trade, 1738, p. 12.
+
+[74403] See pp. 51, 139, of this tract.
+
+[74436] Cf. the scathing indictment of the merchant by James I, in the course of an exposition of the duties of a monarch:
+
+[74552] The merchants think the whole commonweal ordained for making them up; and accounting it their lawful gain and trade, to enrich themselves upon the loss of all the rest of the people, they transport from us things necessary, bringing back sometimes unnecessary things, and at other times nothing at all. They buy for us the worst wares, and sell them at the dearest prices; and albeit the victuals fall or rise of their prices according to the abundance or scantiness thereof, yet the prices of their wares ever rise, but never fall, being as constant in that their evil custom as if it were a settled law for them. They are also the special cause of the corruption of the coin, transporting all our own, and bringing in foreign, upon what price they please to set on it....(Basilikon doron, in The workes of ... James, 1616, p. 163.)
+
+[75387] Englands interest and improvement [1663], Hollander ed., p. 13.
+
+[75452] North, Discourses upon trade [1691], Hollander ed., p. 12.
+
+[75512] Davenant, Discourses on publick revenues [1698], Works, I, 146.
+
+[75577] Pollexfen, A discourse of trade, coyn, and paper credit, 1697, p. 149.
+
+[75649] William Paterson, “A proposal to plant a colony in Darien” [ms. 1701], in Bannister ed., The writings of William Paterson, I, 133–34.
+
+[75784] [George Whatley] Principles of trade, 2d ed., 1774, p. 33, note.
+
+[75850] E.g., Lewes Roberts, Treasure of traffike [1641], McCulloch ed., Early English tracts on commerce, p. 58: “So when a country is properly seated for traffic, and the sovereign willing by foreign commerce to enrich his kingdom, the merchant's advice is questionless best able to propagate the same.”
+
+[76149] Cited by John Smith, Chronicon rusticum-commerciale, 1747, preface, I, v.
+
+[76224] Cited by McCulloch, A dictionary ... of commerce, American ed., 1845,I, 620, on the authority of Hamilton's New account of the East Indies, I, 232.
+
+[76373] As early as 1550, Sir John Mason had objected to an ordinance limiting the price of cheese and butter, on the ground that it was attempting the impossible: “Nature will have her course, etiam si furca expellatur; and never shall you drive her to consent that a penny-worth of new shall be sold for a farthing.” —T.E.D., II, 188.
+
+[76703] “Advice of His Majesty's Council of Trade, concerning the exportation of gold and silver ...” [1660], in McCulloch ed., Tracts on money, pp. 148–49. The argument is made here to support a recommendation that the exportation of bullion and foreign coin be permitted without restriction.
+
+[76990] Interest of money mistaken, 1668, p. 10.
+
+[77032] [Defoe] An essay upon loans, 1710, pp. 15–17. This is in answer to a threat that if the government did not revise its policy the moneyed interests would, on party grounds, refuse to lend to it.
+
+[77227] Davenant, Report to the commissioners for stating the publick accounts [1712], Works, V, 452.
+
+[77322] Lindsay, The interest of Scotland considered, 1733, preface, p. iii.
+
+[77392] Cf. Vanderlint, Money answers all things [1734], Hollander ed., p. 58:
+
+[77464] “... I am entirely for preventing the importation of all foreign commodities, as much as possible; but not by acts of parliament, which never can do any good to trade; but by raising such goods ourselves, so cheap as to make it impossible for other nations to find their account in bringing them to us....”
+
+[77772] Few traces are to be found in the literature of the period of the intermediate doctrine, which concedes that self-interest is a powerful force for good, and should not be reviled or crushed, but maintains that it is also capable of doing harm to the commonwealth, and therefore needs to be watched and regulated. It is perhaps implied in the arguments of some of the moderate mercantilists, and may be what Petty had in mind in the following passage: “We must consider in general, that as wiser physicians tamper not excessively with their patients, rather observing and complying with the motions of nature than contradicting it with vehement administrations of their own, so in politics and economics the same must be used, for Naturam expellas furcd licet usque recurrit.“(Treatise of taxes [1662], Economic writings, I, 60.) Tucker gives expression to it at one point, although elsewhere he expounds contradictory doctrine. In his Elements of commerce, 1755, he asserts that self-love is an important stimulus. “Consequently, the main point to be aimed at, is neither to extinguish nor enfeeble self-love, but to give it such a direction, that it may promote the public interest by pursuing its own” (p. 7). But the only clear and elaborate exposition of this intermediate position I have found is in [Nathaniel Forster] An enquiry into the causes of the present high price of provisions, 1767, pp. 17–22. The relevant passages are too long for quotation, but they deserve the attention of those interested in the history of the laissez-faire idea.
+
+[79326] The circle of commerce, 1623, p. 17.
+
+[79364] Discourses upon trade [1691], Hollander ed., p. 13. Cf. also ibid., p. 37: “... no people ever yet grew rich by policies; but it is peace, industry, and freedom that brings trade and wealth, and nothing else.”
+
+[79575] The humble answer of the Governor ... of the East-India Company [1692] in Somers' tracts, 2d ed., X, 622. Child is here objecting to a proposal, directed against himself, to limit the amount of stock in the company which could be held by any one person.
+
+[79830] An essay on the East-India trade [1697], Works, I, 98. Cf. also ibid., p. 104: “Wisdom is most commonly in the wrong, when it pretends to direct nature.”
+
+[79985] Fable of the bees, passim. Mandeville deliberately stated his conclusions in such manner as to make them offensive to moralists, but Smith accepted them in substance while finding a more palatable form for their expression.
+
+[80210] Instructions for travellers, 1757, pp. 31–32.
+
+[80257] Principles of trade, 2d ed., 1774, p. 10.
+
+[80300] Ibid., note, pp. 33–34. This note may have been a contribution by Benjamin Franklin. It mentions with approval the demand reputed to have been made of Colbert by the French merchants, “Laissez nons faire (Let us alone)” — perhaps the first appearance of the term in the English literature.
+
+[80591] Cf. Heinrich Dietzel, Weltwirtschaft and Volkswirthschaft, 1900, p. 6.
+
+[80663] [Cf. Clement Armstrong] A treatise concerning the staple [ca. 1530], in Pauli, op. cit., p. 25: “So as all special gift of rich commodities that God first gave unto the earth in every realm to one realm, that another hath not, to the intent, that every realm should be able to live of God's gift, one to be help to another to be an occasion one to live by another.” Cf. also R. H. Tawney, “Religious thought on social and economic questions in the sixteenth and seventeenth centuries,” Journal of political economy, XXXI (1923), 478.
+
+[81198] William Cholmeley, The request and suite of a true-hearted Englishman [ms. 1553], W. J. Thomas, editor, Camden miscellany, II (1853), 1.
+
+[81336] Ibid., p. 2.
+
+[81350] Edward Misselden, Free trade, 2d ed., 1622, pp. 25–26. Misselden cites from Aristotle and Seneca in this connection.
+
+[81468] The linen and woollen manufactory discoursed ... [1691], in John Smith, Chronicon rusticum-commerciale, I, 384:
+
+[81581] Divine Providence, that appoints to every nation and country a particular portion, seems to allot that to England, which was the first acceptable sacrifice to his Omnipotency, that of the flock.... Now to decline this, and set up another manufacture, looks like an extravagant mechanic, who by his improvidence hath lost his own art, and thinks to retrieve his misfortune by taking up that of another man's. This is condemned in particular persons, and to be feared in a community.
+
+[82064] A treatise of wool and cattel, 1677, p. 3.
+
+[82108] Daverant, An essay on the East-India trade [1697], in Works, I. 104.
+
+[82178] Harris, An essay upon money and coins, Part I (1757), 14. Cf. also Charles Molloy,A treatise of affairs maritime, and of commerce [1676], 9th ed., 1769, I, preface, p. iv.
+
+[82351] Sketches of the history of man, 1774, I, 81–82.
+
+[82400] John Houghton, England's great happiness [1677], in McCulloch ed., Early English tracts on commerce, p. 261. In his A collection of letters, 1681–83, I, 60, Houghton claims its authorship, quotes from it, adds to it, and argues along identical lines on a number of points. Houghton adheres to the monetary phases of the mercantilist doctrine, however, and elsewhere expounds doctrine inconsistent with free-trade reasoning.
+
+[82825] A discourse of trade, 1690, p. 35. Barbon proceeds, however, to argue that the production of the exports would not necessarily be displaced by the production of domestic goods, since the latter might not satisfy the buyers, who would consequently not spend their money. Barbon in any case was far from being a free trader. Mandeville, Fable of the bees [1714], Kaye ed., I, iii, also claimed that reducing imports involved a reduction of exports as well.
+
+[83281] Essay on the East-India trade [1697],works, I, 95.
+
+[83333] Ibid., I, 105–10. Cf. also, Gardner, Some reflections on a pamphlet, intituled, England and East India inconsistent in their manufactures, 1696, pp. 9 ff., for ideas closely resembling those of Davenant, and in part also those of the author of Considerations on the East-India trade.
+
+[83618] In McCulloch ed., Early English tracts on commerce, pp. 556–59, 578–85. (Citation from p. 583.) The original tract is extremely rare, and does not appear to have exerted any influence on contemporary writers. Halkett and Laing attribute its authorship to Dudley North, and they have been followed by a number of economists. This seems, however, clearly to be a mistake. North died in 1691, whereas this tract was not published until 1701. Chapter iii of the tract discusses the effects of the competition of the two companies then privileged to trade with India, which definitely locates its time of writing as not earlier than 1698.
+
+[84253] The system or theory of the trade of the world, 1720, pp. 22–23.
+
+[84319] The interest of Scotland considered, 1733, pp. 111–12. Cf. also for similar reasoning, Vanderlint, Money answers all things [1734], Hollander ed., pp. 96–98; anon., Reflections and considerations occasioned by the petition ... for taking off the drawback on foreign linens, &c., 1738, p. 26; Nicholas Magens, Farther explanations of some particular subjects, 1756, p.6.
+
+[84690] England's great happiness, 1677; Collection of letters, 1681–83.
+
+[84756] See supra, pp. 83–84, 98.
+
+[84783] But Decker, after advocating the removal of all restrictions on trade except the Navigation acts, in somewhat of an anticlimax, concedes that if duties were taken off some sort of regulation would be necessary for some goods, lest they interfere with home manufactures.—Serious considerations on the several high duties, 3d ed., 1744, p. 31. Massie pointed out the inconsistency between Decker's general argument for free trade and this concession to protection.—Joseph Massie, The proposal, commonly called Sir Matthew Decker's scheme, for one general tax upon houses, laid open, 1757, p. 3.
+
+[85377] A discourse of trade, 1670; A treatise wherein is demonstrated, that the Church and State of England, are in equal danger with the trade of it, 1671; Reflections upon the East-Indy and Royal African companies, 1695; A treatise concerning the regulation of the coyn of England, 1696.
+
+[85661] See, e.g., the eulogy of the merchant in Lillo's play, The London merchant, 2d ed., 1731, Act I, scene i, and Act III, scene i.
+
+[85790] Cf., e.g., John Smith, Advertisements for the inexperienced planters of New England [1631], in Works, Edward Arber ed., 1884, pp. 961–62; anon., A discourse concerning the East-India trade [ca. 1692], in Somers' tracts, 2d ed., X, 642: “The more goods are exported and imported, ... the nation in general will have the advantage, though the traders may not ...”; William Wood, A letter ... shewing the justice of a more equal and impartial assessment on land, 1717, p. 19; anon., Considerations occasioned by the bill for enabling the South-Sea Company to increase their capital stock, 1720, p. 14: “Whether upon the whole, if more of our own product and manufactures are exported, and of foreign commodities imported, more of our ships and seamen, our manufactures and people of all trades will not be employed; consequently, if the customs and excises will not be greatly advanced?”
+
+[86676] A spokesman for the agricultural interests objected that in this general glorification of trade the interests of the farmer were being overlooked, and that even petty domestic traders were including their own trades as entitled to the special consideration which was being claimed for “trade”: “The notion of encouraging trade has of late years prevailed very much, and very rightly where we speak of foreign trade; and the first promoters of the notion meant no others, but from thence we are descended to all trade, domestic as well as foreign, and the cry of it is so common, even amongst the vulgar, that I have heard my landlord, who keeps a petty ale-house in a country village, harangue it with great eloquence; and with a grave air complain, that trade was not sufficiently encouraged, when he meant the trade of ale-draping and smoking tobacco.” —Some thoughts on the interest of money in general (ca. 1720), pp.65–66.
+
+[87605] Mysteries and secrets, 1653, p. 24.
+
+[87642] Cf. Political discourses [1752], in Essays moral, political, and literary, 1875 ed., I, 343–44: “All taxes, however, upon foreign commodities, are not to be regarded as prejudicial or useless, but those only which are founded on the jealousy above-mentioned. A tax on German linen encourages home manufactures, and thereby multiplies our people and industry. A tax on brandy increases the sale of rum, and supports our southern colonies.”
+
+[88082] Cf. e.g., Lectures, p. 209: “If I purchase a thousand pounds' worth of French wines, and drink them all when they come home, the country is two thousand pounds poorer, because both the goods and money are gone; if I spend a thousand pounds' worth of goods at home upon myself the country is only deprived of one thousand pounds, as the money still remains; but in maintaining an army in a distant war it is the same thing whether we pay them in goods or money, because the consumption is the same at any rate.” For the history of a late American version of this fallacy, see F. W. Taussig, “Abraham Lincoln on the tariff; a myth,” in Free trade, the tariff and reciprocity, 1920, pp. 34–47. For an earlier English version, see Richard Haines, The prevention of poverty, 1674, p. 11.
+
+[88866] The only exceptions of any importance that I have noticed are [David Bindon] A letter from a merchant who has left off trade, 1738, pp. 31–32, where a number of presumably current arguments against restrictions on imports are stated and controverted, and Gee, The trade and navigation of Great Britain considered [1729], 1767 ed., pp. 183 ff.
+
+[89210] Cf. also, James Whiston, A discourse of the decay of trade, 1693, p. 3:
+
+[89283] Neither will the pursuing these proposals, augment the nation's wealth and power only, but that wealth and power will also preserve our trade and religion, they mutually working for the preservation of each other....
+
+[89501] A striking instance is the following passage from a tract which is clearly the product of a writer not familiar with, nor really interested in, commercial matters, but who sensed the need for an appeal to economic considerations if his plea for the continuance of the war with France then under way was to have weight with its readers: “To proceed now to the second head I proposed, namely, that this war has produced great and lasting advantages to the people over and above liberty, and a security of our properties. The advantages I propound to speak to shall be confined to the article of wealth, as being that which most generally affects; for to talk to the common people of the great honor our nation will gain by a happy issue of this war, is to speak to little purpose.” —The taxes not grievous and therefore not a reason for an unsafe peace, 1712, p. 15. The views of the mercantilists as to the efficacy of war as an instrument to procure economic advantages would be an interesting topic for investigation. It would be wrong to attribute to them without exception the view that trade wars, even if successfully prosecuted, promoted the national wealth, and some of them anticipated the modern argument that even a victorious war costs more than it returns in economic benefits. Others, however, looked upon trade wars as so essential to commercial prosperity that the Turkey Company tried to exclude a Quaker from its councils in 1759 as professing opinions hostile to the waging of such wars. See G. B. Hertz, The old colonial system, 1905, p. 10.
+
+[91063] Cf. Montesquieu, De l'esprit des lois [1748], Bk. xx, chap. vii: “D'autres nations ont fait céder des intérêts du commerce à des intérêts politiques: celle-ci [i.e., England] a toujours fait céder ses intérêts politiques aux intérêts de son commerce.” —Œuvres complètes, Paris, 1877, IV, 371.
+
+[91357] Cf. also Quesnay, “Remarques sur l'opinion de l'auteur de l'esprit des lois concernant les colonies” [Journal de l'agriculture, January, 1766], in Oncken ed., Œuvres de ... F. Quesnay, 1888, p. 429: “... en Angleterre ... où les lois du commerce maritime ne se prêtent point aux lois de la politique; où les intérêts de la glèbe et de l'Êtat sont subordonnés aux intérêts des négociants; où le commerce des productions de l'agriculture, la propriété du territoire et l'Êtat même ne sont regardés que comme des accessoires de la métropole, et la métropole comme formée de négociants.”
+
+[91942] Violet had himself been convicted of, and punished for, violation of the laws against the export of bullion, and one of his arguments in support of his reinstatement was that “an old deer-stealer is the best keeper of a park.” —A true discoverie to the commons of England [1651], 1653, p. 79.
+
+[92236] This interpretation of the literature of the period as consisting mainly of briefs for special interests is intended to apply to the writings of the moderate as well as of the extreme mercantilists. Child, infact, presents one of the most glaring instances of special pleading. See Sven Helander, “Sir Josiah Child,” Weltwirtschaftliches Archiv, XIX (1923), 233–49, and for closely similar exposure of Child by contemporaries, A discourse concerning the East-India trade [ca. 1692], in Somers' tracts, 2d ed., X, 634–47; The interest of England considered: in an essay upon wooll, 1694.
+
+[92824] Cf. the excellent account in Jehan Maintrieu, Le traité d'Utrecht et les polémiques du commerce anglois, 1909.
+
+[92936] By the Whigs, willingness to trade with France was accepted as proof of hostility to trade. Cf. the interesting pamphlet, Torism and trade can never agree (ca. 1713), which accused the Tories of having always been hostile to trade, and attacked Mercator as being anti-trade, because it supported open trade with France.
+
+[93257] “‘Merchants’ in the eighteenth century meant business men, and the term was as wide as ‘trade’ is even now; bankers and manufacturers were included in it.” L. B. Namier, The structure of politics at the accession of George III, 1929, I, 61, note.
+
+[93505] It is of interest that the French government, on sober second thought of the mercantilist variety, had also lost its seal for the treaty, and felt relieved when the English Parliament rejected it. See E. Levasseur, “Les traités de commerce entre la France et l'Angleterre sous l'ancien régime,” Revue d'économie politique, XV (1901), 971.
+
+[93845] The participants were distinguished as bullionists or anti-bullionists according as they accepted or rejected the appearance of a premium on bullion as a demonstration of depreciation of bank notes and mismanagement of the currency. There is, of course, no relationship between the “bullionists” of this period and the sixteenth century “bullionists” whose doctrines were examined in chap. I.
+
+[94239] N. S. Silberling, “Financial and monetary policy of Great Britain during the Napoleonic wars,” Quarterly journal of economics, XXXVIII (1924), 214–33; 397–439; ibid., “British prices and business cycles, 1779–1850,” Review of economic statistics, prel. vol. V, suppl. 2 (1923), 219–62; R. G. Hawtrey, Currency and credit, 3d ed., 1928, chap. xviii: J. H. Hollander, “The development of the theory of money from Adam Smith to David Ricardo,” Quarterly journal of economics, XXV (1911), 429–70; J. W. Angell, The theory of international prices, 1926, pp. 40–79, 477–503; E. Cannan, the paper pound of 1797–1821, 1919; H. S. Foxwell, preface to A. Andréadès, History of the Bank of England, 2d. ed., 1924.
+
+[94943] Walter Boyd, A Letter to ... Pitt, 1801; 2d ed., with additions, 1801. The edition of 1811, often referred to as the second edition, is merely a reprint of the first, and lacks the important additions made in the true second edition.
+
+[95178] Lord King, Thoughts on the effects of the Bank restrictions [1st ed., 1803], 2d ed., 1804.
+
+[95270] Henry Thornton, An enquiry into the nature and effects of the paper credit of Great Britain, 1802.
+
+[95370] John Wheatley, Remarks on currency and commerce, 1803.
+
+[95426] Francis Horner, review of Thornton, Edinburgh review, I (1802), 172–201; review of Lord King, ibid., II (1803), 402–21; review of Wheatley, ibid., III (1803), 231–52.
+
+[95594] Report ... from the Committee on the circulating paper, the specie, and the current coin of Ireland [1804], 1826 reprint.
+
+[95717] An essay on the principle of commercial exchanges, 1804.
+
+[95775] Observations upon the state of currency in Ireland, 1804.
+
+[95834] Thoughts on the alarming state of the circulation, 1805.
+
+[95892] Three letters to the Morning Chronicle, August-November, 1809, reprinted by Hollander as Three letters on the price of gold, 1903; High price of bullion, a proof of the depreciation of bank notes [1st ed., 1810], 4th ed. with appendix [1811], reprinted in J. R. McCulloch ed., The works of David Ricardo, 1852; Reply to Mr. Bosanquet's practical observations [1811], reprinted in Works; and three additional letters to the Morning Chronicle, September, 1810, reprinted by Hollander, in Minor papers on the currency question 1809–1823 by David Ricardo, 1932.
+
+[96451] “Depreciation of paper currency,” Edinburgh review, XVII (1811); “Review of the controversy respecting the high price of bullion,” ibid., XVIII (1811).
+
+[96604] An inquiry into the effects produced on the national currency ... by the Bank restriction bill, 3d ed., 1811.
+
+[96715] The question concerning the depreciation of our currency stated and examined, 1810.
+
+[96800] Substance of two speeches, 1811.
+
+[96834] Substance of speech ... on the report of the bullion committee, 1811.
+
+[96905] A letter ... in defence of the conduct of the directors, 1804.
+
+[96969] Practical observations on the report of the bullion committee, 2d ed., 1810.
+
+[97047] The principles of currency and exchanges, applied to the report, 2d ed., 1810.
+
+[97127] A review of the controversy respecting the high price of bullion, 1811.
+
+[97200] This is also the conclusion of Hollander: op. cit., Quarterly journal of economics, XXV (1911), 469.
+
+[97302] A good account is given by R. G. Hawtrey, Currency and credit, 3d ed., 1928, pp. 320–32.
+
+[97392] See table I, p. 144, infra.
+
+[97421] Report from the Committee of secrecy on the Bank of England charter, 1832, appendix No. 32, p. 41.
+
+[97521] Vincent Stuckey, a country banker, testified in 1819 that in his bank the deposits were about one-third in amount of the note issues, although this proportion fluctuated. (Report from the [Commons] Committee on the expediency of the Bank resuming cash payments, 1819, p. 245.) James Pennington, writing as late as 1861, stated that “The deposits with country bankers are generally converted into notes or coin, or into a bill upon London, before ultimate payment is accomplished.” (“Letter from Mr. Pennington on the London banking system,” in John Cazenove, Supplement to thoughts on a few subjects of political economy, 1861, p. 50, note.) Cf., however, the statement of another writer, for which I can find no independent confirmation:
+
+[98261] “A country bank was a kind of clearing-house, where, without any actual interchange of notes or money, the greater part of all payments between man and man was effectuated by mere transfers in the books of their bankers.... It was merely the smaller payments for wages and weekly bills which required notes.” Samuel Turner, Considerations upon the agriculture, commerce and manufactures of the British Empire, 1822, pp. 54–55.
+
+[98689] Sir Philip Francis, Reflections on the abundance of paper in circulation, 2d ed., 1810, p. 10. Cf. also, for a similar view, Mathias Attwood, A letter to Lord Archibald Hamilton, on alterations in the value of money, 1823, p. 8.
+
+[98919] Op. cit., Quarterly journal of economics, XXV, 436–37.
+
+[98975] Wealth of nations, Cannan ed., I, 402.
+
+[99015] Letter to Pitt, 2d ed., 1801, preface, p. xxxi. Ricardo, by exception, sometimes put it more strongly, and referred to the existence of a premium on bullion as not merely evidence, but as proof of the existence of depreciation and excess issue. Cf. the title of his tract, The high price of bullion, a proof of the depreciation of bank notes.
+
+[99359] This reasoning bears a superficial relationship to Cassel's so-called purchasing-power parity theory, but as will be explained subsequently (see pp. 382 ff., infra), Ricardo's stress on the particular prices of identical transportable commodities makes this part of his reasoning a truism if transportation costs and tariffs are abstracted from, whereas Cassel's doctrine, even if it be restricted, as Cassel does not restrict it, to internationally traded commodities only, instead of being a truism, is untrue. Cassel's doctrine, moreover, makes qualifications for the effect of foreign remittances which Wheatley and Ricardo expressly refused to make, and which they would have regarded—mistakenly—as fatal to their whole position if made.
+
+[100103] Francis Horner, however, did suggest that the relative prices in England and abroad could be used as a test of the existence of depreciation of the English currency. See his review of Thornton's Paper credit, Edinburgh review, I (1802), 201.
+
+[100346] Remarks on currency and commerce, 1803, chap. vi.
+
+[100397] As did also at least one anti-bullionist. Cf. The substance of a speech by Castlereagh in the House of Commons, July 15, 1811, 1811, p. 15: “With the exception of the precious metals, bank notes have the same powers of purchasing all other commodities, which they would have had at this day, if no necessity for shutting up the guineas in the Bank, or for sending gold abroad in unusual quantities, had ever occurred.... Such I wish to be understood ... is the sense, in which I deny that bank notes are now depreciated.”
+
+[100920] Most of the bullionists did not seriously concern themselves with the problem of how to measure the extent of depreciation but were content when they had demonstrated its existence. Cf. King, Thoughts on the effects of the Bank restrictions, 2d ed., 1804, p. 40, note: “nor will the most careful reference to the two tests of the price of bullion and the state of the exchanges enable us to ascertain in what precise degree a currency is depreciated: though the general fact of a depreciation may be proved beyond dispute.” (Italics in original.)
+
+[101468] Ricardo, it is true, maintained that the foreign exchanges could fall under the mint parities even under a fully convertible currency only if the currency was “redundant” (i.e., was in excess of what could circulate consistently with the maintenance of the exchanges at mint parity), but he apparently meant by “excess” of currency under inconvertibility only the extra excess over and above that “redundancy” which was possible under convertibility.
+
+[101920] Reply to Mr. Bosanquet's observations, Works, pp. 321–22.
+
+[101979] According to Mushet, a mint test of the weight of the gold coin still in circulation, made in 1807, showed on the average slightly under 1.5 per cent of underweight. (An inquiry into the effects produced on the national currency ... by the Bank restriction bill, 3d ed., 1811, p. 30.) Since the lighter coins would tend to remain longest in circulation, this would indicate that little allowance on this account would be called for prior to 1797.
+
+[102427] The Bullion Committee estimated the maximum premium on gold bullion over paper and coin which could prevail before 1797 at about 5½ per cent. Report, pp. 14–15.
+
+[102589] Cf. Wheatley, Remarks on currency and commerce, 1803, p. 187; Ricardo, High price of bullion, Works, p. 266, note.
+
+[102705] Cf. James Mill, Review of Thomas Smith's Essay on the theory of money and exchange, 1807, in Edinburgh review, XIII (1808), 54. But while James Mill was critical of the Restriction, at this stage he accepted many of the anti-bullionist arguments, and cannot be considered as an unqualified bullionist.
+
+[103008] Cf. the Bullion Report, pp. 63–64.
+
+[103044] Cf. Walter Hall, A view of our late and of our future currency, 1819, p. 70:
+
+[103122] It is now discovered, that the activity of the circulation multiplies its actual amount, and that it is a point of more importance to ascertain the velocity of the motion than the size of the wheel; but it is probable that this also depends, in some degree, on the nature of the currency, and that were specie again to form the medium here, a larger amount of it would be required for the same operations than of the paper which it replaced.
+
+[103565] “Financial and Monetary Policy of Great Britain,” Quarterly journal of economics, XXXVIII, 425, 436.
+
+[103667] Theory of international prices, pp. 45, 59, 60. Angell comments that “an understanding of this chain of reasoning is important because it provides the only satisfactory key to the contradictory pronouncements upon monetary theory of the later writers, even those of Ricardo.” (Ibid., p. 45.)
+
+[103960] Walter Boyd, A letter to Pitt, 1st ed., 1801, pp. 64–65. (Italics in original.)
+
+[104041] Report of the Lords Committee, 1797, pp. 72–73.
+
+[104090] Paper credit, 1802, pp. 65–67.
+
+[104122] Ibid., p. 65.
+
+[104137] King, Thoughts on the effects of the Bank Restrictions, 2d ed., 1804, pp. 5–6. King also conceded that no loss of confidence in the English currency had as yet occurred. Ibid., p. 24.
+
+[104322] George Woods, Observations on the present price of bullion, 1811, p. 46. (Cf. also p. 184, infra.) For other instances of similar recognition of the possible contribution of speculative factors, or “discredit,” to the discount on paper, see Henry Parnell, Observations upon the state of the currency in Ireland, 1804, p. 55; Bullion Report, 1810, pp. 22, 39; David Buchanan, Observations on the subjects treated of in Dr. Smith's ... The wealth of nations, 1814, p. 88: “The value of a paper currency will ... vary from its standard, by reason either of discredit or of excess. Where the security is defective, the value will fluctuate with the risk of ultimate loss, which may at length be such as entirely to stop its circulation....” These writers also refrained from making the positive charge that the paper currency was “discredited” in this sense. Cf. also Wheatley, Theory of money, I (1807), 97: “It is to the aggregate quantity of the currency of a country that we are to look, and not to the state and quality of its coin, for the real cause of the fluctuation in the market price of its money.”
+
+[105430] Reply to Mr. Bosanquet's observations, Works, p. 363.
+
+[105485] See infra, pp. 201–02.
+
+[105509] Reply to Mr. Bosanquet's observations, Works, pp. 349–50.
+
+[105568] Cf. Henry Boase, A letter ... in defence of the conduct of the directors, 1804, pp. 22–23; Substance of two speeches made by the Right Hon. N. Vansittart, 1811, p. 15; The Speech of Randle Jackson, Esq., ... respecting the report of the Bullion Committee, 1810, pp. 9 ff.
+
+[105841] Even non-exportable bullion commanded a premium over paper and there was open trade in underweight guineas, which could legally be melted down for internal use, at a premium over paper and even over full-weight guineas. See the evidence of S. T. Binns and of W. Merle, bullion merchants, before the Bullion Committee, Report, Minutes of evidence, pp. 18, 40.
+
+[106201] High price of bullion, Works, p. 280.
+
+[106240] Ibid., p. 265.
+
+[106256] Cf. Boase, A letter, 1804, pp. 22–23: “the rate of exchange is governed by the balance of exchange operations, and (great political convulsions apart) by no other principle whatever....”
+
+[106444] There was, therefore, substantial justification for the comment of William Blake, with reference to this doctrine of Wheatley and Ricardo, that “the opinions of these gentlemen are peculiar to themselves.” (Observations on the effects produced by the expenditure of government, 1823, p. 26.) Cf., however, the following from the Minutes of evidence of the Committee on the Irish circulation, 1804, p. 22, cited with apparent approval by Lauderdale (Thoughts on the alarming state of the circulation, 1805, p. 20, note):
+
+[106965] From August, 1801, to the present time, no remittances of consequence have ... been made to London in specie. Bank [of Ireland] notes, however, have never ceased, whether the specie was coming into Ireland or going out of it, whether the exchange was under par or above par, whether the balance of debt was favorable or unfavorable, to be depreciated; and the depreciation appears to have been higher when the balance of debt was more favorable, and lower when it was less so; and, upon the whole, it is evident, that the depreciation has not been influenced by the balance of debt.
+
+[107549] See infra, pp. 140–41.
+
+[107573] Cf. Remarks on currency and commerce, 1803, pp. 52–57; An essay on the theory of money and principles of commerce, I (1807), 64–71; II (1822), 134–35; Report on the reports of the Bank committees, 1819, pp. 20–21.
+
+[107788] Bullion Report, p. 45.
+
+[107812] Cf. Ricardo to Malthus, Jan. 24, 1817, in Letters of Ricardo to Malthus, 1887, p. 127.
+
+[107900] Reply to Mr. Bosanquet's practical observations, Works, p. 360.
+
+[107965] Ibid., Works, p. 364. He here concedes, with the Bullion Committee, that “a considerable time” may be necessary for the effects fully to show themselves, but remarks that “we should once have thought a year a considerable time, when speaking of a discount on bank notes.” Ibid., p. 363, note. (Italics in original.)
+
+[108282] High price of bullion, appendix to 4th ed., Works, p. 293.
+
+[108342] Cf. especially his testimony before the Parliamentary Committees of 1819:
+
+[108417] Q. Assuming that the balance of payments should be against this country, must the payment not necessarily be made either in specie or in bullion?
+
+[108564] A. (Ricardo) It appears to me, that the balance of payments is frequently the effect of the situation of our currency, and not the cause. (Report from the [Commons] Committee, 1819, p. 141. Italics mine.)
+
+[108770] Q. Can you therefore conclude, from the degree to which the exchange is at any moment against any country, that the whole percentage of that unfavorable exchange is owing to the amount of its circulating medium?
+
+[108983] A. (Ricardo) A part may be owing to other causes. (Report of [Lords] Committee on resumption of cash payments, 1819, p. 200.)
+
+[109110] Cf. Thornton, The paper credit of Great Britain, 1802, pp. 277–78:
+
+[109178] It thus appears, that “the coming and going of gold” does not (as Mr. Locke expresses it, ...) “depend wholly on the balance of trade.” It depends on the quantity of circulating medium issued; or it depends, as I will allow, on the balance of trade, if that balance is admitted to depend on the quantity of circulating medium issued.
+
+[109513] Silberling takes Hawtrey to task for characterizing the anti-bullionist position in this connection as erroneous. “Financial and monetary policy of Great Britain,” loc. cit., p. 434, note. His statement that the extraordinary remittances were a “hitherto virtually ignored element in Great Britain's balance of indebtedness during the period involved” (Ibid., p. 226) is without basis, since their significance was a matter of endless debate, then and later.
+
+[109973] “Depreciation of the currency,” Edinburgh review, XVII (1811), 360.
+
+[110042] See chap. vii, infra.
+
+[110065] Similar results were obtained by similar methods by an anonymous contemporary writer. From a chart presenting the foreign expenditures of the government, the amounts paid for imported grain, and the rates of the exchange on Hamburg, this writer derived the following conclusions:

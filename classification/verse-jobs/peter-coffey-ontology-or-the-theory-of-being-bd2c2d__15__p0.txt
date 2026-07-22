@@ -1,0 +1,653 @@
+WORK: Ontology, or the Theory of Being  (slug: peter-coffey-ontology-or-the-theory-of-being-bd2c2d)
+
+CHAPTER: 15
+
+
+
+[0] 106. TWO CONCEPTIONS OF EXPERIENCE, THE MECHANICAL AND THE TELEOLOGICAL.—We have seen that all change in the universe demands for its explanation certain real principles, *viz.* passive potentiality, actualization, and active power or efficiency; in other words that it points to material, formal and efficient causes. Do these principles suffice to explain the course of nature to the inquiring mind? Mechanists say, Yes; these principles explain it so far as it is capable of explanation. Teleologists say, No; these principles do not of themselves account for the universe of our experience: this universe reveals itself as a *cosmos*: hence it demands for its explanation real principles or causes of another sort, *final causes*, the existence of which implies purpose, plan or design, and therefore also intelligence.
+
+[825] The problem whether or not the universe manifests the existence and influence of final causes has been sometimes formulated in this striking fashion: Is it that birds have wings in order to fly, or is it merely that they fly because they have wings? Such a graphic statement of the problem is misleading, for it suggests that the alternatives are mutually exclusive, that we must vote either for final causes or for efficient causes. As a matter of fact we accept both. Efficient causes account for the course of nature; but they need to be determined by the influence of final causes. Moreover, the question how far this influence of final causes extends—*finality* (*finalitas*), as it is technically termed—is a secondary question; nor does the advocate of final causality in the universe undertake to decide its nature and scope in every instance and detail, any more than the physical scientist does to point out all the physical laws embodied in an individual natural event, or the biologist to say whether a doubtful specimen of matter is organic or inorganic, or whether a certain sort of living cell is animal or vegetable. The teleologist’s thesis, as against that of mechanism, is simply that _there are final causes in the universe, that the universe does really manifest the presence and influence of final causes_.(501)
+
+[2160] There are two ways, however, of conceiving this influence as permeating the universe. The conception of final causality in general is, as we shall see, the conception of acting *for an end*, from a *motive*, with a *purpose*, *plan* or *design* for the attainment of something. It implies arrangement, ordination, adaptation of means to ends (55). Now at least there *appears* to be, pervading the universe everywhere and directing its activities, such an adaptation. The admirable equilibrium of forces which secures the regular motions of the heavenly bodies; the exact mixture of gases which makes our atmosphere suitable for organic life; the distance and relative positions of the sun and the earth, which secure conditions favourable to organic life; the chemical transformations whereby inorganic elements and compounds go to form the living substance of plants and are thus prepared for assimilation as food by animal organisms; the wonderfully graded hierarchy of living species in the animate world, and the mutual interdependence of plants and animals; the endless variety of instincts which secure the preservation and well-being of living individuals and species; most notably the adaptability and adaptation of other mundane creatures to human uses by man himself,—innumerable facts such as these convince us that the things of the universe are _useful to one another_, that they are constituted and disposed in relation to one another *as if they had been deliberately chosen* to suit one another, to fit in harmoniously together in mutual co-ordination and subordination so that by their interaction and interdependence they work out a plan or design and *subserve as means to definite ends*. This suitability of things *relatively to one another*, this harmony of the nature and activity of each with the nature and activity of every other, we may designate as *extrinsic* finality. The Creator has willed so to arrange and dispose all creatures in conditions of space and time that such harmonious but purely extrinsic relations of mutual adaptation do _de facto_ obtain and continue to prevail between them under His guidance.
+
+[4307] But are these creatures themselves, in their own individual natures, equally indifferent to any definite mode of action, so that the orderly concurrence of their activities is due to an initial collocation and impulse divinely impressed upon them from without, and not to any purposive principle intrinsic to themselves individually? Descartes, Leibniz and certain supporters of the theory of atomic dynamism regarding the constitution of matter, while recognizing a relative and extrinsic finality in the universe in the sense explained, seem to regard the individual agencies of the universe as mere efficient causes, not of themselves endowed with any immanent, intrinsic directive principle of their activities, and so contributing by mere extrinsic arrangement to the order of the universe. Scholastic philosophers, on the contrary, following the thought of Aristotle,(502) consider that every agency in the universe is endowed with an *intrinsic principle of finality* which constantly directs its activities towards the realization of a perfection which is proper to it and which constitutes its intrinsic end (45-46). And while each thus tends to its own proper perfection by the natural play of its activities, each is so related to all others that they simultaneously realize the extrinsic purpose which consists in the order and harmony of the whole universe. Thus the extrinsic and relative finality whereby all conspire to constitute the universe a *cosmos* is secondary and posterior and subordinate to the deeper, intrinsic, immanent and absolute finality whereby each individual created nature moves by a tendency or law of its being towards the realization of a *good* which *perfects* it as its natural end.
+
+[6034] In order to understand the nature of this intrinsic and extrinsic finality in the universe, and to vindicate its existence against the philosophy of Mechanism, we must next analyse the concept, and investigate the influence, of what are called *final causes*.
+
+[6295] 107. THE CONCEPT OF FINAL CAUSE; ITS OBJECTIVE VALIDITY IN ALL NATURE. CLASSIFICATION OF FINAL CAUSES.—When we speak of the *end* of the year, or the *end* of a wall, we mean the extreme limit or ultimate point; and the term conveys no notion of a cause. Similarly, were a person to say “I have got to the *end* of my work,” we should understand him to mean simply that he had finished it. But when people act deliberately and as intelligent beings, they usually act for some *conscious purpose*, with some _object in view_, for the achievement or attainment of something; they continue to act until they have attained this object; when they have attained it they cease to act; its attainment synchronizes with the *end* of their action, taking this term in the sense just illustrated. Probably this is the reason why the term *end* has been extended from its original sense to signify the *object* for the attainment of which an intelligent agent acts. This object of conscious desire *induces* the agent to seek it; and because it thus influences the agent to act it verifies the notion of a *cause*: it is a *final cause*, an *end* in the causal sense. For instance, a young man wishes to become a medical doctor: the _art of healing* is the *end_ he wishes to secure. For this purpose he pursues a course of studies and passes certain examinations; these acts whereby he qualifies himself by obtaining a certain fund of knowledge and skill are *means* to the end intended by him. He need not desire these preparatory labours *for their own sake*; but he does desire them as _useful for his purpose*, as *means_ to his end: in so far as he wills them as means he wills them not for their own sake but because of the end, *propter finem*. He *apprehends* the end as a *good*; he *intends* its attainment; he *elects* or *selects* certain acts or lines of action as means suitable for this purpose. An end or final cause, therefore, may be defined as _something apprehended as a good, and which, because desired as such, influences the will to choose some action or line of action judged necessary or useful for the attainment of this good_. Hence Aristotle’s definition of end as τὸ οὖ ἕνεκα: id cujus gratia aliquid fit: _that for the sake of which an agent acts_.
+
+[8564] The end understood in this sense is a *motive* of action; not only would the action not take place without the agent’s intending the end, showing the latter to be a *conditio sine qua non*; but, more than this, the end as a good, apprehended and willed, *has a positive influence* on the ultimate effect or issue, so that it is really a *cause*.
+
+[8911] Man is conscious of this “finality,” or influence of final causes on his own deliberate actions. As an intelligent being he acts “for ends,” and orders or regulates his actions as means to those ends; so much so that when we see a man’s acts, his whole conduct, utterly unrelated to rational ends, wholly at variance and out of joint with the usual ends of intelligent human activity, we take it as an indication of loss of reason, insanity. Furthermore, man is free; he *chooses* the ends for which he acts; he acts *electivé propter fines*.
+
+[9455] But in the domain of animal life and activity is there any evidence of the influence of final causes? Most undoubtedly. Watch the movements of animals seeking their prey; observe the wide domain of animal instincts; study the elaborate and intricate lines of action whereby they protect and foster and preserve their lives, and rear their young and propagate their species: could there be clearer or more abundant evidence that in all this conduct they are *influenced* by objects which they *apprehend* and seek as *sensible goods*? Not that they can conceive in the abstract the _ratio bonitatis_ in these things, or freely choose them as good, for they are incapable of abstract thought and consequent free choice; but that these sensible objects, apprehended by them in the concrete, do really influence or move their sense appetites to desire and seek them; and the influence of an object on sense appetite springs from the goodness of this object (44, 45). They tend towards *apprehended* goods; they act _apprehensivé propter fines_.(503)
+
+[10502] Finally, even in the domains of unconscious agencies, of plant life and inorganic nature, we have evidence of the influence of final causes. For here too we witness innumerable varied, complex, ever-renewed activities, constantly issuing in results useful to, and good for, the agents which elicit them: operations which contribute to the *development* and *perfection* of the natures of these agents (46). Now if similar effects demand similar causes how can we refuse to recognize even in these activities of physical nature the influence of final causes? Whenever and wherever we find a great and complex variety of active powers, forces, energies, issuing invariably in effects which suit and develop and perfect the agents in question,—in a word, which are *good* for these agents,—whether the latter be conscious or unconscious, does not reason itself dictate to us that all such domains of action must be subject to the influence of final causes? Of course it would be mere unreflecting anthropomorphism to attribute to *unconscious* agencies a *conscious* subjection to the attracting and directing influence of such causes. But the recognition of such influence in this domain implies no naïve supposition of that sort. It does, however, imply this very reasonable view: that there must be some reason or ground in the nature or constitution of even an inanimate agent for its acting always in a uniform manner, conducive to its own development and perfection; that there must be in the nature of each and every one of the vast multitude of such agents which make up the whole physical universe a reason or ground for each co-operating constantly and harmoniously with all the others to secure and preserve that general order and regularity which enables us to pronounce the universe not a *chaos* but a *cosmos*. Now that ground or reason in things, whereby they act in such a manner—not indifferently, chaotically, capriciously, aimlessly, *unintelligibly*, but definitely, regularly, reliably, purposively, *intelligibly*—is a real principle of their natures, impressing on their natures a definite tendency, directive of their activities towards results which, as being suited to these natures, bear to these latter the relation of final causes. A directive principle need not itself be conscious; the inner directive principle of inanimate agents towards what is *good* for them, what *perfects* them, what is therefore in a true and real sense their end (45, 46), is not conscious. But in virtue of it they act as if they were conscious, nay intelligent, *i.e.* they act *executivé propter fines*.
+
+[13116] Of course the existence of this principle in inanimate agencies necessarily *implies* intelligence: this indeed is our very contention against the whole philosophy of mechanism, positivism and agnosticism. But is this intelligence really identical with the agencies of nature, so that all the phenomena of experience, which constitute the *cosmos* or universe, are but phases in the evolution of One Sole Reality which is continually manifesting itself under the distinct aspects of nature and mind? Or is this intelligence, though *virtually immanent* in the universe, really distinct from it—*really transcendent*,—a Supreme Intelligence which has created and continues to conserve this universe and govern all its activities? This is a distinct question: it is the question of Monism or Theism as an ultimate interpretation of human experience.
+
+[13965] We conclude then that what we call *finality*, or the influence of final causes, pervades the whole universe; that in the domain of conscious agents it is *conscious*, *instinctive* when it solicits *sense appetite*, *voluntary* when it solicits *intelligent will*; that in the domain of unconscious agencies it is not conscious but “*natural*” or “*physical*” soliciting the “*nature*” or “*appetitus naturalis*” of these agencies.
+
+[14399] Before inquiring into the nature of final causality we may indicate briefly the main divisions of final causes: some of these concern the domain of human activity and are of importance to Ethics rather than to Ontology.
+
+[14620] (*a*) We have already distinguished between *intrinsic* and *extrinsic* finality. An intrinsic final cause is an end or object which perfects the nature itself of the agent which tends towards it: nourishment, for instance, is an intrinsic end in relation to the living organism. An extrinsic final cause is not one towards which the nature of the agent immediately tends, but one which, intended by some other agent, is _de facto_ realized by the tendency of the former towards its own intrinsic end. Thus, the general order of the universe is an extrinsic end in relation to each individual agency in the universe: it is an end intended by the Creator and *de facto* realized by each individual agency acting in accordance with its own particular nature.
+
+[15378] (*b*) Very similar to this is the familiar distinction between the _finis operis* and the *finis operantis_. The former is the end necessarily and *de facto* realized by the act itself, by its very nature, independently of any other end the agent may have expressly intended to attain by means of it. The latter is the end expressly intended by the agent, and which may vary for one and the same kind of act. For instance, the _finis operis_ of an act of almsgiving is the actual aiding of the mendicant; the *finis operantis* may be charity, or self-denial, or vanity, or whatever other motive influences the giver.
+
+[15996] (*c*) Akin to those also is the distinction between an unconscious, or physical, or “natural” end, and a conscious, or mental, or “intentional” end. The former is that towards which the nature or “_appetitus naturalis_” of unconscious agencies tends; the latter is an end apprehended by a conscious agent.
+
+[16303] (*d*) An end may be either *ultimate* or *proximate* or *intermediate*. An ultimate end is one which is sought for its own sake, as contrasted with an intermediate end which is willed rather as a means to the former, and with a proximate end which is intended last and sought first as a means to realizing the others. It should be noted that proximate and intermediate ends, in so far as they are sought for the sake of some ulterior end, are not ends at all but rather means; only in so far as they present some good desirable for its own sake, are they properly ends, or final causes. Furthermore, an ultimate end may be such absolutely or relatively: absolutely if it cannot possibly be subordinated or referred to any ulterior or higher good; relatively if, though ultimate in a particular order as compared with means leading up to it, it is nevertheless capable of being subordinated to a higher good, though not actually referred to this latter by any explicit volition of the agent that seeks it.
+
+[17309] (*e*) We can regard the end for which an agent acts either *objectively*,—*finis* “*objectivus*,”—or *formally*,—*finis* “*formalis*”. The former is the objective good itself which the agent wishes to realize, possess or enjoy; the latter is the act whereby the agent formally secures, appropriates, unites himself with, this objective good. Thus, God Himself is the objective happiness (*beatitudo objectiva*) of man, while man’s actual possession of, or union with, God, by knowledge and love, is man’s formal happiness (*beatitudo formalis*).
+
+[17856] (*f*) We may distinguish also between the *real* end (*finis* “*qui*” or “*cujus*”, and the *personal* end (*finis* “*cui*”). The former is the good *which* the agent desires, the good for the sake of *which* “*cujus*” *gratia*) he acts. The latter is the subject or person *to whom* he wishes this good, or *for whom* he wishes to procure it. Thus, a labourer may work to earn *a sustenance* for *himself* or also for *his family*. The real and the personal end are never willed separately, but always as one concrete good.
+
+[18382] (*g*) The distinction between a *principal* end and an *accessory* end (motivum “*impulsivum*”) is obvious. The former can move to act of itself without the latter, but the latter strengthens the influence of the former. A really charitable person, while efficaciously moved to give alms by sympathy with the poor, may not be uninfluenced by vanity to let others know of his charity.
+
+[18767] (*h*) Finally we may note the theological distinction between the *natural* end, and the *supernatural* end, of man as a rational and moral agent. The former is the end *due* to man’s nature, the latter is an end which is gratuitous and undue to his nature. God might not have created the world or man, and in this sense even the natural end of man is a gratuitous gift of God; but granted that God did decree to create the world and man, an end corresponding to man’s nature and powers was due to him: the knowledge, service and love of God as known to man by the light of natural reason. But as a matter of fact God, in His actual providence, has decreed for man an incomparably higher and purely gratuitous end, an end revealed to man by God Himself, an end entirely undue not only to man but to any and every possible creature: the Beatific Vision of the Divine Essence for ever in heaven.
+
+[19662] 108. CAUSALITY OF THE FINAL CAUSE; RELATION OF THE LATTER TO EFFICIENT, FORMAL, AND MATERIAL CAUSES.—We can best analyse the influence of the final cause by studying this influence as exerted on conscious and intelligent agents. The final cause has a positive influence of some sort on the production, happening, actualization of effects. What is the nature of this influence? The final cause exerts its influence by being *a *_ good_, an apprehended good; it exerts this influence on the appetite of the agent, soliciting the latter to perform certain acts for the realization, attainment, possession, or enjoyment of this good. But it must not be conceived as the *efficient cause* of this movement of the appetite, nor may its influence be conceived as *action*. An efficient cause must actually exist in order to act; but when the final cause, as an apprehended good, exerts its influence on the appetite _it is not yet actual_: not until the agent, by his action, has realized the end and actually attained it, does the end, as a good, actually exist. We must distinguish between the end *as attained* and the end *as intended*, between the *finis in executione* and the *finis in intentione*. It is not the end as attained that is a final cause; as attained it is an effect pure and simple. It is the end as intended that is a final cause; and as intended it does not yet actually exist: hence its influence cannot be by way of *action*. Perhaps it is the *idea* or *cognition* of the intended end that exerts the peculiar influence of final cause? No; the *idea* or *cognition* of the end actually exists, no doubt, in the conscious agent, but this is only a condition, a *conditio sine qua non*, for the apprehended good, the final cause, to exert its influence: _nil volitum nisi praecognitum_. It is not the cognition of the good, however, that moves the agent to act, it is not the idea of the good that the agent desires or strives for, but the good itself. It is the good itself, the known good, that exerts the influence, and this influence consists in the *passive inclination* or *attraction* or *tendency* of the appetite towards the good: a tendency which necessarily results from the very presence of the good (not really or physically of course, but representatively, mentally, “*intentionally*,” by “*esse intentionale*”; cf. 4) in the agent’s consciousness, and which is formally the actualization of the causal power or influence of the final cause. “Just as the efficient cause influences by acting,” says St. Thomas,(504) “so the final cause influences by being yearned for and desired”.
+
+[22276] Looked at from the side of the agent that undergoes it, this influence is a *passive yielding*: this next becomes an *active* motion of appetite; and in the case of free will a deliberate act of intending the end, followed by acts of choosing means, and finally by acts commanding the executive faculties to employ these means.
+
+[22605] Looked at from the side of the final cause, the influence consists in an *attraction* of appetite towards union with itself as a good. The matter cannot be analysed much further; nor will imagination images help us here any more than in the case of efficient causality. It must be noted, however, that the influence of the final cause is the influence not of a reality as actual, or in its *esse actuale*, but of a reality as present to a perceiving mind, or in its *esse intentionale*. At the same time it would be a mistake to infer from this that the influence of the final cause is not *real*. It is sometimes described as “intentional” causality, “*causalitas intentionalis*”; but this must not be taken to mean that it is not real: for it is not the “*esse intentionale*” of the good, *i.e.* the cognition of the good, its presence in the mind or consciousness of the agent, that moves the latter’s appetite: it is the apprehended good, apprehended *as real*, as possible of actual attainment, that moves the agent to act. The influence may not be *physical* in the sense of being productive of, or interchangeable with, or measurable by, corporeal energy, or in terms of mechanical work; nor is it; but it is none the less real.
+
+[23842] But if the influence of a final cause really reaches to the effect of the agent’s actions only through the medium of the latter’s appetite, and therefore through a link of “intentional” causality, does it not at once follow that the attribution of final causality to the domain of unconscious and inorganic activities, can be at best merely metaphorical? The attribution to such agencies of an “*appetitus naturalis*” is intelligible indeed as a striking and perhaps not unpoetic metaphor. But to contend that it is anything more than a metaphor, to claim seriously that inanimate agencies are swayed and influenced by “ends,”—is not this really to substitute mysticism and mystery for rational speculation and analysis?
+
+[24564] Mechanists are wont to dismiss the doctrine of final causes in the physical universe with offhand charges of this kind. They are but too ready to attribute it to a mystical attitude of mind. Final causes, they say, are not discovered in inanimate nature by the cold, calculating, unemotional analysis to which reason submits its activities, but are read into it by minds which allow themselves to be prompted by the imagination and emotions to personify and anthropomorphize inanimate agencies. The accusation is as plausible as it is unjust. It is plausible because the attribution of final causes to inanimate nature, and of an “appetitus *naturalis*” to its agencies, *seems* to imply the recognition of conscious, mental, “intentional” influence in this domain. But it really implies nothing of the sort; and hence the injustice of the charge. What it does imply is the existence of a genuine *analogy* between the nature and natural activities of physical agencies on the one hand and the appetite and appetitive activities of conscious agencies on the other. The existence of this analogy is absolutely undeniable. The orderly, invariable and uniformly suitable character of physical activities, simply forces our reason to recognize in physical agencies *natures* which tend towards their development, and which by their activities attain to what is *good* for them, to what *perfects* them. In other words we have to recognize that each by its natural line of activity attains to results that are good and useful to it *just as if* it apprehended them as such and consciously tended towards them. The analogy is there; and the recognition of it, so far from being a “mystic” interpretation of facts, is an elementary logical exercise of our reasoning faculty. The scholastics emphasized their recognition of the analogy by calling the *nature* of an unconscious agent,—the principle of its active tendencies towards the realization of its own perfection—an “*appetitus naturalis*”: an expression into which no one familiar with scholastic terminology would venture to read any element of mysticism.(505)
+
+[26677] Every separate agency in nature has a uniform mode of activity; by following out this line of action each co-operates with all the others in maintaining the orderly course of nature. These are facts which call for explanation. They are not explained by the supposition of mechanists that these agencies are mere efficient causes: efficient causality does not account for order, it has got simply nothing to do with order or regularity. Consequently the last word of the mechanical philosophy on the fact of order in the universe is—Agnosticism. In opposition to this attitude we are far from contending that there is no mystery, or that all is clear either in regard to the fact of *change* or the fact of *regularity*. Just as we cannot explain everything in *efficient* causality, so neither can we explain everything in *final* causality. But we do contend that the element of order, development, evolution, even in the physical universe, can be partially explained by recognizing in its several agencies a *nature*, a principle of development, a passive inclination implanted in the very being of these agencies by the Intelligent Author of their being.
+
+[27836] In conscious agencies this inclination or tendency to actions conformable or *connatural* to their being is not always in act; it is aroused by conscious cognition, perception, or imagination of a *good*, and operates intermittently. In unconscious agencies it is congenital and constantly in act, *i.e.* as a tendency, not as actually operative: for its actual development due conditions of environment are required: the seed will not grow without a suitable soil, temperature, moisture, etc. In conscious agencies the tendency, considered entitatively or as a reality in them, is an *accidental form*; in unconscious agencies it is their _forma substantialis_, the formative substantial principle, which determines the specific type to which their nature belongs.(506)
+
+[28608] In all agencies the inclination or appetite or tendency to action arises from a form; an elicited appetite from an “intentional” form, a natural appetite from a “natural” form: _Omnis inclinatio seu appetitus consequitur formam; appetitus elicitus formam intentionalem, appetitus naturalis formam naturalem_. The scholastic view that final causality pervades all things is expressed in the aphorism, _Omne agens agit propter finem_: Every agency acts for an end.
+
+[29072] From our analysis of final causality it will be seen that the “end” becomes a cause by exercising its influence on the agent or efficient cause, and thus initiating the action of the latter. We have seen already that material and formal causes exercise their causality dependently on the efficient cause of the change or effect produced by the latter. We now see that the final cause, the end as *intended*, determines the action of the efficient cause; hence its causality holds the primacy as compared with that of the other causes: it is in this sense the cause of causes, *causa causarum*.(507) But while the end *as intended* is the starting point of the whole process, the end *as attained* is the ultimate term of the latter. Hence the scholastic aphorism: _Finis est primus in intentione et ultimus in executione_. And this is true where the process involves a series of acts attaining to means subordinate to an end: this latter is the first thing intended and the last attained.
+
+[30062] The final cause, the end as intended, is extrinsic to the effect. It is intrinsic to the efficient cause. It is a “*forma*” or determinative principle of the latter: a *forma intentionalis* in conscious agents, a *forma naturalis* in unconscious agents.
+
+[30317] 109. NATURE AND THE LAWS OF NATURE. CHARACTER AND GROUNDS OF THEIR NECESSITY AND UNIVERSALITY. SCIENTIFIC DETERMINISM AND PHILOSOPHIC FATALISM.—By the term *nature* we have seen that Aristotle and the scholastics meant the essence or substance of an agent regarded as inner principle of the latter’s normal activities, as determining the bent or inclination of these, and therefore as in a real sense their final cause. Hence Aristotle’s definition of *nature* as _a certain principle or cause of the motion and rest of the thing in which that principle is rooted fundamentally and essentially and not merely accidentally_.(508) The scholastics, recognizing that this *intentio naturae*, this subjection to finality, in *unconscious* agencies must be the work and the index of intelligence, in other words that this *analogical* finality in inanimate things must connote a *proper* finality, a properly purposive mode of action, in the author of these things, conceived this *nature* or *intentio naturae* as the impression of a divine art or plan upon the very being of all creatures by the Creator Himself. Hence St. Thomas’s profound and well-known description of *nature* as “_the principle of a divine art impressed upon things, in virtue of which they move towards determinate ends*”. Defining *art* as *the just conception of external works to be accomplished_,(509) he observes that nature is a sort of art: “as if a ship-builder were to endow his materials with the power of moving and adapting themselves so as to form or construct a ship”.(510) And elsewhere he remarks that nature differs from art only in this that the former is an intrinsic, the latter an extrinsic, principle of the work which is accomplished through its influence: so that if the art whereby a ship is constructed were intrinsic to the materials, the ship would be constructed by nature as it actually is by art.(511)
+
+[32219] Such, then, is the teleological conception of the nature of each individual agency in the universe. When we speak of “universal *nature*,” “external *nature*,” “physical *nature*,” “the course of *nature*,” “the laws of *nature*,” etc. we are using the term in a collective sense to signify the sum-total of all the agencies which constitute the whole physical universe; and furthermore in all such contexts we usually understand by *nature* the world of *corporeal* things as distinct from the domain of *mind* or *spirit*.
+
+[32745] The proof of this view,—that the agencies of the physical universe are not merely efficient causes, but that they act under the influence of ends; that they have definite lines of action which are natural to them, and whereby they realize their own individual development and the maintenance of the universe as a *cosmos*; that by doing so they reveal the influence of *intelligent purpose*,—the proof of this view lies, as we have seen, in the fact that their activities are regular, uniform, and mutually useful, or, in other words, that they are productive of *order* (110). Bearing this in mind let us inquire into the various meanings discernible in the very familiar expressions, “laws of nature,” “physical laws,” “natural laws”.(512)
+
+[33488] We may understand firstly by a law of nature this innate tendency we have been describing as impressed upon the very being of all created things by the Creator. It is in this sense we speak of a thing acting “naturally,” or “according to the *law* of its nature,” or “according to its nature,” when we see it acting according to what we conceive to be the end intended for it, acting in a manner conducive to the development of its own individuality, the preservation of its specific type or kind, and the fulfilment of its rôle in the general scheme of things. What this “natural” mode of action is for this particular kind of thing, we gather from our experience of the regular or normal activity of things of its kind. Thus, we say it is a *law* of oxygen and hydrogen to combine in definite proportions, under suitable conditions, to form water; a *law* of all particles of matter in the universe to tend to move towards one another with a definite acceleration; a *law* of living organisms to reproduce their kind. This usage comes nearest to the original meaning of the term *law*: a precept or command imposed on intelligent agents by a superior. For we conceive this natural tendency impressed on physical agencies by the Creator after the analogy of a precept or command. And we have good reason to do so: because *uniformity of conduct* in intelligent agents is the normal result of their obedience to a law imposed upon them; and we see in the activities of the physical universe an _all-pervading feature of regularity_.
+
+[35022] Secondly, we transfer the term *law* to *this result itself* of the natural tendency of the being, of the convergence of its activities towards its end. That is to say, we call *the uniform mode of action* of an agent a *law of nature*, a *natural* or *physical law*. This usage, which is common in the positive sciences, implies a less profound, a more superficial, but a perfectly legitimate mode of apprehending and studying the changes and phenomena of the physical universe.
+
+[35503] Thirdly, since the several agencies of the universe co-exist in time and space, since they constantly interact on one another, since for the exercise of the natural activities of each _certain extrinsic conditions of relationship with its environment_ must be fulfilled, an accurate knowledge and exact formulation of these relations are obviously requisite for a scientific and practical insight into the mode of activity of any natural agency. In fact the physical scientist may and does take for granted the natural tendency and the uniformity of action resulting therefrom, and confines himself to _discovering and formulating the relations between any given kind of action and the extrinsic conditions requisite for its exercise_. Such, for instance, would be any chemical “law” setting forth the measure, and the conditions of temperature, pressure, etc., in which certain chemical elements combine to form a certain chemical compound. To all such formulae scientists give the title of *physical laws*, or *laws of physical nature*. These formulae, descriptive of the manner in which a phenomenon takes place, setting forth with the greatest possible quantitative exactness the phenomenal factors(513) that enter into and precede and accompany it, are laws in a still more superficial and still less philosophical sense, but a sense which is most commonly—and justly—accepted in the positive or physical sciences.
+
+[36924] Before examining the feature and characteristic of _necessity and universality_ which enters into all these various conceptions of a “physical law” we have here to observe that it would make for clearness, and for a better understanding between physics and metaphysics, between science and philosophy, between the investigator who seeks by observation and experiment for the proximate phenomenal conditions and “physical” causes of phenomena, and the investigator who seeks for the ultimate real ground and explanation of these latter by speculative analysis of them, and by reasoning from the scientist’s discoveries about them,—if it were understood and agreed that investigation into the scope and significance and ultimate ground of this feature of stability in the laws of physical nature belongs to the philosopher rather than to the scientist. We have already called attention to the fact that the propriety of such an obviously reasonable and intelligible division of labour is almost universally admitted in theory both by scientists and by philosophers; though, unfortunately, it is not always remembered in practice (100).
+
+[38059] In theory the scientist assumes, and very properly assumes, that the agencies with which he deals are not capricious, unreliable, irregular, but stable, reliable, regular in their mode of action, that in similar sets of conditions and circumstances they will act uniformly. Without inquiring into the ultimate grounds of this assumption he premises that all his conclusions, all his inductive generalizations about the activity of these agencies, will hold good of these latter just in so far as they do act according to his general postulate as to their regularity. He then proceeds, by the inductive processes of hypothesis and experimental verification, to determine what agencies produce such or such an event, under what conditions they bring this about, what are all the phenomenal conditions, positive and negative, antecedent and concomitant, in the absence of any one of which this event will not happen, and in the presence of all of which it will happen. These are, in accordance with his assumption, *determining* causes of the event; the knowledge of them is from the speculative point of view extremely important, and from the practical standpoint of invention and applied science extremely useful. As a scientist he has no other knowledge in view: he aims at discovering the “how,” the *quomodo*, of natural phenomena,—how, for instance, under what conditions and in what measure, water is produced from oxygen and hydrogen. When he has discovered all these positive and negative conditions his *scientific* knowledge of the formation of water is complete.
+
+[39632] But there are other questions in regard to natural phenomena to which the experimental methods of the positive sciences can offer no reply. They can tell us nothing about the *wider* “how” which resolves itself into a “why.” They can give no information about the ultimate causes, origins, reasons, or essences, of those phenomena. As Pasteur and other equally illustrious scientists have proclaimed, experimental science is essentially positive, *i.e.* confined to the proximate phenomenal conditions and causes of things; it has nothing to say, nor has it any need or any right to say anything, about the ultimate nature, or first origin, or final destiny, of the things and events of the universe.
+
+[40334] Yet such questions arise, and clamour insistently for solution. *How* is it, or *why* is it, that natural phenomena are uniformly linked to certain other phenomenal antecedents or “physical” causes? Is it absolutely impossible, inconceivable, that this sequence should be found not to obtain in even a single individual instance? Why should there be such uniform “sequences” or “laws” at all? Are there exceptions, or can there be exceptions to these “laws of physical nature”? What is the character and what are the grounds of the *necessity* of these laws? Every living organism comes from a living cell—not from *any* living cell, but from *some particular kind* of living cell. But *why* are there such kinds of cells? Why are there living cells at all? Whence their first origin? Again, granted that there are different kinds or types of living cells, *why* should a particular kind of cell give rise, by division and evolution, to an organism of the same kind or type as the parent organisms? Why does it not *always* do so? Why are what biologists describe as “monsters” in the organic kingdom possible? And why, since they are possible, are they not as numerous as what are recognized as the normal types or kinds of living organisms?
+
+[41578] Now these are questions in regard to which not only every professing physical scientist and every professing metaphysician, but every thinking man, *must* take up some attitude or other. A refusal to consider them, on the plea that they are insoluble, is just as definite an attitude as any other; nor by assuming this attitude does any man, even though he be a specialist in some department of the positive or physical sciences, escape being a “metaphysician” or a “philosopher,” however much he may deprecate such titles; for he is taking up a reasoned attitude—we presume it is such, and not the outcome of mere prejudice—on ultimate questions. And this is philosophy; this is metaphysics. When, therefore, a physical scientist either avows or insinuates that *because* the methods of physical science, which are suitable for the discovery of the *proximate* causes of phenomena, can tell him nothing about *ultimate* questions concerning these phenomena, *therefore* there is nothing to be known about these questions, he is not only committing himself, *nolens volens*, to definite philosophical views, but he is doing a serious disservice to physical science itself by misconceiving and mis-stating its rightful scope and limits. He has just an equal right with any other man to utilize the established truths of physical science to help him in answering ultimate questions. Nay, he may even use the unverified hypotheses and systematic conceptions(514) of physical science for what they are worth in helping him to determine his general world-view. But his competence as a specialist in physical science does not confer upon him any *special* qualification for estimating the value of these truths and hypotheses as evidence in the domain of ultimate problems. Nor can he, because he is a scientist, or even because he may go so far as to assert the right of speaking in the name of “science,” claim for his particular interpretation the privilege of exemption from criticism; and this is true no matter what his interpretation may be—whether it be agnosticism, mechanism, teleologism, monism, or theism. These observations may appear elementary and obvious; but the insinuation of positivism and phenomenism, that whatever is not itself phenomenal and verifiable by the experimental methods of the physical sciences is in no wise knowable, and the insinuation of mechanists that their world-view is the only one compatible with the truths of science and therefore the only “scientific” philosophy, justify us in reiterating and emphasizing even such obvious methodological considerations. Bearing them in mind, let us now examine the uniformity and necessity of the laws of physical nature.
+
+[44278] Understanding by natural law the natural inclination or tendency of the creature to a definite line of activity, this law is of itself determining or necessitating. Moreover, it is absolutely inseparable from the essence of the creature. Granted that the creature exists, it has this tendency to exert and direct all its forces and energies in a definite, normal way, for the realization of its end. This *nisus naturae* is never absent; it is observable even where, as in the generation of “monsters” by living organisms, it partially fails to attain its end. A law of nature, taken in this sense, is absolutely necessary to, and inseparable from, the created agent; it admits of no exceptions; no agent can exist without it; for it is identical with the very being of the agent
+
+[45059] But the uniformity of action resulting from this natural tendency, the uniform series of normal operations whereby it realizes its end, is not absolutely necessary, inviolable, unexceptional. In the first place the Author of Nature can, for a higher or moral purpose, prevent any created agency supernaturally, miraculously, from actually exercising its active powers in accordance with its nature for the prosecution of its natural end. But apart altogether from this, abstracting from all special interference of the First Cause, and confining our attention to the natural order itself, we have to consider that for any physical agency to act in its natural or normal manner certain extrinsic conditions are always requisite: oxygen and hydrogen, for instance, will combine to produce water, but only under certain conditions of contact, pressure, temperature, etc. This general requirement arises from the fact already mentioned, that physical agencies co-exist in time and space and are constantly interacting. These extrinsic conditions are, of course, not expressly stated in the formulation of those uniformities and quantitative descriptions called “laws of nature” in the second and third interpretations of this expression as explained above. It is taken as understood that the law applies only if and when and where all such conditions are verified. The law, therefore, as stated categorically, does not express an absolutely necessary, universal, and unexceptional truth. It may admit of exceptions.
+
+[46572] In the next place, when we come to examine these exceptions to uniformity, these failures or frustrations of the normal or natural activities of physical agencies, we find it possible to distinguish roughly, with Aristotle, between two groups of such “uniformities” or “laws”. There are firstly those which, so far as our experience goes, seem to prevail *always* (ἀεὶ), unexceptionally; and secondly, those which seem to prevail *generally*, *for the most part* (ἐπὶ τὸ πολὺ), though not unexceptionally. The former would be the outcome of active powers, energies, forces, *de facto* present and prevalent always and everywhere in all physical agencies, and of such a character that the conditions requisite for their actual operation would be always verified. Such, for instance, would be the force of gravity in all ponderable matter; and hence the law of gravitation is regarded as all-pervading, universal, unexceptional. But there are other natural or normal effects which are the outcome of powers, forces, energies, not all-pervading, but restricted to special groups of agencies, dependent for their actual production on the presence of a great and complex variety of extrinsic conditions, and liable therefore to be impeded by the interfering action of numerous other natural agencies. Such, for instance, would be the natural powers and processes whereby living organisms propagate their kind. The law, therefore, which states it to be a uniformity of nature that living organisms reproduce offspring similar to themselves in kind, is a general law, admitting exceptions.
+
+[48156] Operations and effects which follow from the nature of their causes are called natural (καθ᾽ ἁυτό, καὶ μὴ κατὰ συμβεβηκός).(515) Some causes produce their natural effects *always* (τὰ ἐξ ἀνάνκης καὶ ἀεὶ γιγνομένα), others produce their natural effects *usually*, *as a general rule* (τὰ ὡς ἐπι πολὺ γιγνόμενα).(516) Operations and effects which are produced by the interfering influence of extrinsic agencies (τὸ βίαιον “violent,” as opposed to natural), and not in accordance with the nature of their principal cause, are called by Aristotle *accidental* (τὰ κατὰ συμβεβηκός, τὰ ἐνδεχόμενα γυγνέσθαι); and these, he remarks, people commonly describe as due to chance (καὶ ταῦτα πάντες φασὶν εἰναι ἀπο τύχης).(517)
+
+[48872] All are familiar with events or happenings described as “fortuitous,” “accidental,” “exceptional,” “unexpected,” with things happening by “chance,” by (good or bad) “luck” or “fortune”.(518) There are terms in all languages expressive of this experience—*casus*, *sors*, *fortuna*, τύχη, etc. The notion underlying all of them is that of something occurring unintentionally, *praeter intentionem agentis*. Whether chance effects result from the action of intelligent agents or from the operation of physical causes they are not “intended,”—by the deliberate purpose of the intelligent agent in the one case, or by the natural tendency, the *intentio naturae*, of the mere physical agency in the other. Such an effect, therefore, has not a *natural* cause; hence it is considered *exceptional*, and is always more or less unexpected. *Nature*, as Aristotle rightly observes,(519) never produces a chance effect. His meaning is, that whenever such an effect occurs it is not brought about in accordance with the natural tendency of any physical agency. It results from a collision or coincidence of two or more such agencies, each acting according to its nature. The hunter’s act of firing at a wild fowl is an intentional act. The boy’s act of coming into the thicket to gather wild flowers is an intentional act. The accidental shooting of the boy is the result of a coincidence of the two intentional acts. Similarly, each of all the various agencies which bring about the development of an embryo in the maternal womb has its own immediate and particular natural effect, and only mediately contributes to the general effect of bringing the embryo to maturity. As a rule these particular effects are favourable to the general effect. But sometimes the immediate ends do not subserve this ulterior purpose. The result is accidental, exceptional, a deviation from the normal type, an anomaly, a “monster” in the domain of living organisms.
+
+[50812] Aristotle’s analysis, correct so far, is incomplete. It assigns no ultimate explanation of the fact that there are such encounters of individual natural tendencies in the universe, such failures in the subordination of particular ends to wider ulterior ends. As a matter of fact these chance effects, although not “intended” by the natures of individual created agencies, are not wholly and entirely unintended. They are not wholly aimless. They enter into the general plan and scheme of things as known and willed by the Author of Nature. They are known to His Intelligence, and willed and ruled by His Providence. For Him there can be no such thing as chance. Effects that are accidental in relation to created causes, effects that run counter to the nature or _intentio naturae_ of these, are foreseen and willed by Him and made to subserve that wider and more general end which is the universal order of the world that He has actually willed to create. It is only in relation to the natures of individual agencies, and to the limited horizon of our finite intelligences, that such phenomena can present the aspect of fortuitous or chance occurrences.
+
+[51968] Before passing on to deal, in our concluding section, with the great fact of order, let us briefly compare with the foregoing explanation of nature and its laws the attempt of mechanists to explain these without recognizing in the physical universe any influence of final causes, or any indication of a purposive intelligence. We have ventured to describe their attitude as philosophic fatalism.(520) According to their view there is no ground for the distinction between phenomena that happen “naturally” and phenomena that happen “accidentally” or “by chance”. All alike happen by the same kind of general necessity: the generation of a “monster” is as “natural” as the generation of normal offspring; the former, when it occurs, is just as inevitably the outcome of the physical forces at work in the particular case as the latter is the outcome of the particular set of efficient causes which do actually produce the normal result: the only difference is that the former, occurring less frequently and as the result of a rarer and less known conjunction of “physical” causes than the latter, is not expected by us to occur, and is consequently regarded, when it does occur, as exceptional. Now it is quite true that what we call “chance” effects, or “exceptional” effects, result just as inevitably from the set of forces operative in their case, as normal effects result from the forces operative in theirs. But this leaves for explanation something which the mechanist cannot explain. He regards a physical law merely as a generalization, beyond experience, of some experienced uniformity; and he holds that all our physical laws are provisional in the sense that a wider and deeper knowledge of the actual conditions of interaction among the physical forces of the universe would enable us to eliminate exceptions—which are all apparent, not real—by restating our laws in such a comprehensive way as to include all such cases. We may, indeed, admit that our physical laws are open to revision and restatement in this sense, and are *de facto* often modified in this sense by the progress of science. But the important point is this, that the mechanist does not admit the existence, in physical agencies, of any law in the sense of a *natural inclination towards an end*, or in any sense in which it would imply intelligence, design, or purpose. On the contrary, claiming as he does that all physical phenomena are _reducible to mechanical motions of inert masses, atoms, or particles of matter in space_, he is obliged to regard all physical agencies as being, so far as their nature is concerned, wholly *indifferent* to any particular form of activity.(521) Committed to the indefensible view that all qualitative change is reducible to quantitative (11), and all material differences to differences in the location of material particles and in the velocity and direction of the spatial motion impressed upon each by others extrinsic to itself, he has left himself no factors wherewith to explain the actual order and course of the universe, other than the purely *indifferent* factors of essentially or naturally homogeneous particles of inert matter endowed with local motion. We emphasize this feature of indifference; for the conception of an inert particle of matter subject to mechanical motion impressed upon it from without, is the very type of an indifferent agency. What such an entity will do, whether or not it will move, with what velocity and in what direction it will move—in a word, its entire conduct, its rôle in the universe, the sum-total of its functions—nothing of all this is dependent on itself; everything depends on agencies extrinsic to it, and on its extrinsic time-and-space relations to these agencies; and these latter in turn are in the same condition as itself. Now is it conceivable that agencies of this kind, of themselves absolutely indifferent to any particular kind of effect, suitable or unsuitable, regular or irregular, orderly or disorderly, could actually produce and maintain the existing order of the universe? If they were themselves *produced by an All-Wise and All-Powerful Being*, and _definitely arranged* in spatial relations to one another, and *initial mechanical motion in definite directions and velocities_ impressed on the different parts of the system, there is no denying that Infinite Wisdom and Power could, by Divine concurrence even with such indifferent agencies, realize and maintain a *cosmos*, or *orderly* universe. Such _purely extrinsic finality_ (106) could, absolutely speaking, account for the existence of order, uniformity, regularity, system; though all the evidence furnished by the universe of our actual experience points to the existence of *intrinsic finality* also as understood by Aristotle and the scholastics. But the mechanist will not allow even extrinsic finality; he will not recognize in the actual universe of our experience any evidence of a Ruling Intelligence realizing a plan or design for an intelligent purpose; he denies the necessity of the inference from the data of human experience to the existence of a Guiding Intelligence. And what are his alternatives? He may choose one or other of two.
+
+[57173] He may restate in the more scientific and imposing terminology of modern mechanics the crude conception of the ancient Greek atomists: that the actual order of the universe is the absolutely inevitable and fatal outcome of a certain collocation of the moving masses of the physical universe, a collocation favourable to order, a collocation which _just happened to occur_ by some happy chance from the essentially aimless, purposeless, indifferent and *chaotic* motions of those material masses and particles. We say “chaotic,” for *chaos* is the absence of *cosmos*; and *order* is the fact that has got to be explained. In the concept of *indifferent, inert* atoms of matter moving through space there is emphatically no principle of order;(522) and hence the mechanist who will not admit the necessity of inferring an Intelligence to give these moving masses or atoms the collocation *favourable to order* is forced to “explain” this supposed collocation by attributing it to pure chance—the *concursus fortuitus atomorum* of the ancient Greeks. When, however, we reflect that the more numerous these atoms and the more varied and complex their motions, the smaller is the chance of a collocation favourable to order; that the atoms and motions are supposed actually to surpass any assignable number; that therefore the chance of any such favourable collocation occurring is indefinitely smaller than any measurable proportion,—we can draw our own conclusions about the value of such a speculation as a rational “explanation” of the existing *cosmos*. And this apart altogether from the consideration that the fact to be explained is not merely the *momentary* occurrence of an orderly collocation, but the *maintenance* of an orderly system of cosmic phenomena _throughout the lapse of all time_. No orderly finite system of mechanical motions arranged by human skill can preserve its orderly motions indefinitely without intelligent human supervision: the neglected machine will get out of order, run down, wear out, if left to itself; and we are asked to believe that the whole universe is one vast machine which not only goes on without intelligent supervision, but which actually made itself by chance!(523)
+
+[59390] Naturally such an “explanation” of the universe does not commend itself to any man of serious thought, whatever his difficulties may be against the argument from the fact of order in the universe to the existence of an Intelligent Designer. Add to this the consideration that the mechanist theory does not even claim to account for the first origin of the universe: it postulates the existence of matter in motion. In regard to this supreme problem of the *first origin* of the universe the attitude of the mechanist is avowedly *agnostic*; and in view of what we have just remarked about the “chance” theory as an “explanation” of the _existing order_ of the universe, it is no matter for surprise that most mechanists reject this theory and embrace the agnostic attitude in regard to this latter problem also. Whether the agnostic attitude they assume be negative or positive, *i.e.* whether they are content to say that they themselves at least fail to find any satisfactory rational explanation of the *origin* and *nature* of the *cosmos*, or contend further that no rational solution of these problems is within the reach of the human mind, their teaching is refuted in Natural Theology, where the theistic solution of these problems is set forth and vindicated.
+
+[60660] 110. THE ORDER OF THE UNIVERSE; A FACT AND ITS IMPLICATIONS.—The considerations so far submitted in this chapter, as pointing to the existence and influence of final causes in the universe, will be strengthened and completed by a brief analysis of *order* and its implications.
+
+[60939] We have seen already (55) that the apprehension of order in things implies the recognition of *some unifying principle in what is manifold*. What, in general, is the nature of this principle? It is the *point of view*, the *standpoint* from which the unifying arrangement or disposition of the manifold is carried out; in other words it is the *end*, *object*, or *purpose*, of the orderly arrangement. The arrangement, and the order resulting from it, will vary according to the end in view—whether, for instance, it be an arrangement of books in a library, of pictures in a gallery, of materials in an edifice, of parts in a machine. Hence St. Thomas’s definition of order as the due adaptation of means to ends: *recta ratio rerum ad finem*. When this adaptation is the work of human intelligence the order realized is *artificial*, when it is the work of nature the order realized is *natural*. Art is an extrinsic principle of order, nature implies indeed also an intelligent extrinsic principle of order, but is itself an intrinsic principle of order: the works of nature and those of art have this feature in common, that they manifest adaptation of means to ends.(524)
+
+[62117] The *subordination* of means to ends realizes an order which has for its unifying principle the influence of an *end*, a *final cause*. The group of *dynamic* relations thus revealed constitutes what is called *teleological* order, the order of *purpose* or *finality*. The realization or execution of such an order implies the simultaneous existence of *co-ordinated* parts or members in a system, a realized whole with complex, co-ordinated, orderly parts, the principle of unity in this system being the *form* of the whole. This realized, disposed, or constituted order, is called the *esthetic* order (55), the order of co-ordination, composition, constitution. In ultimate analysis, however, these two orders, the *teleological* and the *esthetic*, having as respective unifying principles the *final* cause and the *formal* cause, are not two really distinct orders, but rather two aspects of one and the same order: we have seen that in the things of nature the intrinsic end or final cause of each is identical with its *forma substantialis* or formal cause (108). But the final cause is naturally prior to the formal cause, and consequently the teleological order is more fundamental than the esthetic.
+
+[63331] St. Augustine’s definition of order as “the arrangement of a multiplicity of things, similar and dissimilar, according its proper place to each,”(525) reveals the *material* cause of order in the multiplicity of varied elements, the *formal* cause of order in the group of relations resulting from the arrangement or *dispositio*, and the *efficient* cause of order in the agent that disposes or arranges them. The *final* cause, though not directly mentioned, is implied in the fact that the place of each factor in the system is necessarily determined by the function it has to fulfil, the part it is suited by its nature to play, in contributing to the realization of the end or purpose of the arrangement.
+
+[64042] If, then, order is _the right arrangement or disposition of things according to their destination, or in the mutual relations demanded by their ends*, it necessarily follows that the very existence of *natural_ order in the universe implies that this universe is not a work of *chance* but a *purposive* work, just as the existence of *artificial* order in products of human art implies that these products are not the result of chance but of activity influenced by final causes.(526)
+
+[64528] It is in fact impossible to conceive order except as resulting from the influence of final causes. Right reason rejects as an utterly inadequate explanation of the natural order of the universe the fantastic and far-fetched supposition of a chance collocation of indifferent, undetermined and aimless physical agencies.(527) If we find in the actual physical universe difficulties against the view that this universe reveals the influence of final causes, such difficulties do not arise from the fact that there is order in the universe, but rather from the fact that with this order there seems to coexist some degree of disorder also. In so far forth as there is natural order there is *cogent* evidence of the influence of final causes. And so necessary is this inference that even one single authentic instance of natural order in an otherwise chaotic universe would oblige us to infer the existence and influence of a final cause to account for that solitary instance. We mean by an authentic instance one which evidences a real and sustained uniformity, regularity, mutual co-ordination and subordination of factors in the behaviour of any group of natural agencies; for we allow that transient momentary collocations and concurrences of *indifferent* agencies, acting aimlessly and without purpose as a matter of fact, might present to our minds, accustomed to seek for orderly and purposive phenomena, the deceptive appearance of order.
+
+[65974] Order, then, we take it, necessarily implies the existence and influence of final causes. This in turn, as we have already observed, implies with equal necessity the existence of *Intelligent Purpose*. If, then, there is natural order in the universe, there must exist an *Intelligent Will* to account for this natural order.
+
+[66301] Leaving the development of this line of argument to its proper place in Natural Theology, there remains the simple question of fact: Is the physical universe a *cosmos*? Does it reveal order—a natural order distinct from the artificial order realized by the human mind in the mechanical and fine arts, an order, therefore, realized not by the human mind but by some other mind, by the Divine Mind? The evidences of such order superabound. We have already referred to some of them (106), nor is there any need to labour the matter. Two points, however, in connexion with this universally recognized fact of order in the universe, call for a brief mention before we conclude. They are in the nature of difficulties against the ordinary, reasonable view of the matter, the view on which the theistic argument from order is based.
+
+[67129] In accordance with the Kantian theory of knowledge it is objected that the order which we apprehend, or think we apprehend, in the universe, is not *really in* the universe of our experience, but is as it were _projected into_ this universe by our own minds in the very process of cognition itself. It is therefore not real but only apparent, not noumenal but only phenomenal. It is simply a product of the categorizing, unifying, systematizing activity of our minds. It is a feature of the phenomenon or mental product, *i.e.* of the noumenal *datum* as _invested with a category of thought_. But whether or not it is a characteristic of the real universe itself man’s speculative reason is by its very constitution essentially incapable of ever discovering. The theory of knowledge on which this difficulty is based can be shown to be unsound and erroneous. For a criticism of the theory we must refer the reader to scholastic works on Epistemology. It may be observed, however, apart from the merits or demerits of the theory, that the experienced fact of order is by no means demolished or explained away by any questions that may be raised about the exact *location* of the fact, if we may so express it. Order is a fact, an undeniable, experienced fact; and it looms just as large, and cries out just as insistently for explanation, with whichever of the imposing adjectives “noumenal” or “phenomenal” a philosopher may choose to qualify it; nor do we diminish its reality by calling it phenomenal one whit more than we increase that reality by calling it noumenal.
+
+[68702] The other difficulty arises from the existence of *disorder* in the universe. Pessimists of the type of Schopenhauer or Nietzsche concentrate their attention so exclusively on the evidences of disorder, the failures of adaptation of means to ends, the defects and excesses, the prodigality and penury, the pain and suffering, which abound in physical nature—not to speak of moral evil,—that they become blind to all evidences of order, and proclaim all belief in order an illusion.
+
+[69185] The picture of
+
+[69201] Nature, red in tooth and claw With ravine(528)
+
+[69249] is, however, the product of a morbid and distraught imagination rather than a sane view of the facts. The undeniable existence of disorder, of physical evils, defects, failures, frustrations of natural tendency in the universe, does not obscure or conceal from the normal, unbiassed mind the equally undeniable evidences of a great and wide and generally prevailing order. Nor does it conceal from such a mind the fact that the existence of order in any measure or degree implies of necessity the existence of plan or design, and therefore of intelligent purpose also. Inferring from this fact of order the existence of a Supreme Intelligence, and inferring by other lines of reasoning from the data of experience the dependence of the universe on this Intelligence as Creator, Conserver and Ruler, the theist is confronted with the reality of moral and physical evil (52), *i.e.* of *disorder* in the universe. But he does not see in this disorder anything essentially incompatible with his established conclusion that the universe is a finite creation of Infinite Wisdom, and a free manifestation of the latter to man. If the actual universe is imperfect, he knows that God created it freely and might have created a more perfect or a less perfect one. Knowing that God is All-Powerful as He is All-Wise, he knows that the actual universe, though imperfect *absolutely*, is perfect *relatively*, in that it infallibly reveals the Divine Wisdom and Goodness exactly in the measure in which God has willed to reveal Himself in His works. Conscious on the one hand that his finite mind cannot trace in detail all the purposes of God in nature, or assign to all individual events their divinely appointed ends, he is confident on the other hand that the whole universe is intelligible only as the working out of a Divine plan, and not otherwise. To his mind as a theist these lines are a clearer expression of rationally grounded optimism than they were perhaps even to the poet who penned them:—
+
+[71245] I trust in nature for the stable laws Of beauty and utility. Spring shall plant And Autumn garner to the end of time. I trust in God—the right shall be the right And other than the wrong, while He endures; I trust in my own soul, that can perceive The outward and the inward, Nature’s good And God’s.(529)
+
+[71552] We have seen that the agencies which constitute the universal order have each its own inner principle of finality; that these agencies are not isolated but mutually related in such ways that the ends of each subserve an extrinsic and remoter end which is none other than this universal order whereby we recognize the world as a *cosmos*. The maintenance of this order is the *intrinsic* end of the universe as a whole: an end which is *immanent* in the universe, an end which is of course *a good*. But this universal order itself is *for an end*, an *extrinsic*, *transcendent* end, distinct from itself; and this end, too, must be *a good*. “The universe,” says St. Thomas,(530) “has the good of order and another distinct good.” The universal order, says Aristotle, has itself an end, a *good*, which is *one*, and to which all else is ordained: “πρὸς ἕν ἅπαντα συντέτακται”.(531) What can this Supreme Good be, this absolutely Ultimate End, this Transcendent Principle of all nature, and of all nature’s tendencies and activities? Whence comes this universal tendency of all nature, if not from the Being who is the One, Eternal, Immutable Prime Mover,(532) and whose moving influence is Love?(533) Such is the profound thought of Aristotle, a thought re-echoed so sublimely by the immortal poet of Christian philosophy in the closing line of the *Paradiso*:—
+
+[72917] L’amor che muove il Sole e l’altre stelle.
+
+[72961] The immediate factors of the universal order of nature, themselves devoid of intelligence, must therefore be the work of Intelligent Will. To arrange these factors as parts of one harmonious whole, as members of one orderly system, Supreme Wisdom must have conceived the plan and chosen the means to realize it. The manifestation of God’s glory by the realization of this plan, such is the ultimate transcendent end of the whole created universe. “The whole order of the universe,” writes St. Thomas, developing the thought of Aristotle,(534) “is for the Prime Mover thereof; this order has for its purpose the working out in an orderly universe of the plan conceived and willed by the Prime Mover. And hence the Prime Mover is the principle of this universal order.”
+
+[73730] The truths so briefly outlined in this closing chapter on the order and purpose of the universe have nowhere found more apt and lucid philosophical formulation than in the monumental writings of the Angel of the Christian Schools; nor perhaps have they ever elsewhere appeared in a more felicitous setting of poetic imagery than in these stanzas from the immortal epic of the Poet of the Christian Schools:—
+
+[74139] ... Le cose tutte quante Hann’ ordine tra lora; e questa è forma Che l’universo a Dio fa simigliante.
+
+[74242] Qui veggion l’alte creature l’orma Dell’eterno Valore, il quale è fine Al quale è fatta la toccata norma.
+
+[74349] Nell’ ordine ch’io dico sono accline Tutte nature per diverse sorti Più al Principio loro e men vicine;
+
+[74454] Onde si muovono a diversi porti Per lo gran mar dell’essere, e ciascuna Con instinto a lei dato che la porti.
+
+[74565] Questi ne porta il fuoco inver la Luna: Questi ne’ cuor mortali è permotore; Questi la terra in se stringe ed aduna.
+
+[74683] Nè pur le creature, che son fuore D’intelligenza, quest’ arco saetta Ma quelle ch’ hanno intelletto ed amore.
+
+[74794] La Providenza, che cotanto assetta, Del suo lume fa il ciel sempre quieto, Nel qual si volge quel ch’ha maggior fretta:
+
+[74915] Ed ora li, com’ a sito decreto, Cen porta la virtù di quella corda, Che ciò che scocca drizzo in segno lieto.(535)
+
+[75031] INDEX.
+
+[75039] Absolute, the, 47 *sq.*; and relative, 332 *sqq.*
+
+[75090] *Actio et passio*, *v.* causality, causes.
+
+[75134] *Actio intentionalis*, 378.
+
+[75163] Action, immanent and transitive, 73, 369, 391-2.
+
+[75213] Actual and potential, 52 *sqq.* and *passim*.
+
+[75260] Actuality, goodness and perfection, 173 *sqq.*
+
+[75308] *Aeveternitas*, *aevum*, 230.
+
+[75339] ANDRONICUS OF RHODES, 17.
+
+[75366] Anthropology, 19.
+
+[75385] Appetite, 167 *sqq.*
+
+[75407] Atomism, *v.* Mechanism.
+
+[75433] AVERROÏSM, 284.
+
+[75450] BAUMGARTEN, 192 *n.*
+
+[75472] Beauty, the Beautiful, 13, 14; analysis of, 192 *sqq.*; definitions of, 201 *sqq.*
+
+[75556] Being, concept analysed, 32 *sqq.*; real being and logical being, 10, 42 *sqq.*, 85, 140.
+
+[75647] — fundamental distinction in, 46 *sqq.*
+
+[75688] — metaphysical grades of, 123 *sqq.*
+
+[75726] — potential and actual, 51 *sqq.*
+
+[75761] Bilocation, 322.
+
+[75779] BONAVENTURE, ST., on distinction of soul and faculties, 247-8.
+
+[75843] BROWNING, 432.
+
+[75859] BRUNETIÈRE, 196.
+
+[75877] Categories, ultimate, analysis of, 208 *sqq.*; not adequately distinct as modes, 210-11, 350; but exhaustive, 211-12.
+
+[75996] *Causa exemplaris*, 362.
+
+[76022] *Causalitas* “*intentionalis*,” 413.
+
+[76060] Causality, efficient, as index of real distinction, 148; classification of efficient causes, 372 *sqq.*; instrumental, 373-6; objective validity of concept, 382 *sqq.*; origin of concept, 385 *sqq.*; analysis of, 366 *sqq.*, 388 *sqq.*; erroneous theories of, 392-6; and occasionalism, 396 *sqq.*, 400 *sqq.*
+
+[76370] — final (*v.* purpose), 361, 368; intrinsic and extrinsic finality, 404 *sqq.*, 426; all-pervading influence of, 409; divisions of, 409 *sqq.*; analysis of, 411*sqq.*; as implying intelligence, 409, 414-15, 426.
+
+[76583] CICERO, 1.
+
+[76595] *Cognitio* “*vulgaris*,” 2.
+
+[76624] Composition, logical and metaphysical, 34; essential and integral, 311, 314-16; as index of finiteness, 248.
+
+[76734] Conceptualism, 24, 125.
+
+[76759] Consciousness, and personality, 273, 277 *sqq.*; “subliminal,” 282 sqq.
+
+[76832] Constitutive or constructive factors in thought, 45, 74, 340, 355-6.
+
+[76902] Contingent and necessary Being, 47.
+
+[76939] Co-operation, in philosophical studies, 30.
+
+[76984] Correlatives, 388.
+
+[77004] *Corruptio et generatio*, 71, 186.
+
+[77040] Criteriology, *v.* Knowledge, theory of.
+
+[77082] DAVID OF DINANT, 125 *n.*
+
+[77109] Design, *v.* purpose and final cause.
+
+[77148] Disposition, *v.* habit.
+
+[77174] *Dispositiones ad formam*, 295 n.
+
+[77209] Disorder, fact of, 431-2.
+
+[77236] DOMET DE VORGES, 387 *n.*
+
+[77263] “Double law” in man, 176.
+
+[77290] “Double personality,” 282-4.
+
+[77320] DUPASQUIER, 99 *n.*
+
+[77341] Education, and habits, 298.
+
+[77370] Efficiency, concept of, *v.* cause (efficient).
+
+[77419] Ego, *v.* person.
+
+[77438] Energies, equivalence of, 395.
+
+[77470] *Ens rationis*, *v.* Being.
+
+[77499] Entitative habit, 292 *n.*
+
+[77527] Epistemology, *v.* Knowledge, theory of.
+
+[77569] Essence, analysis of, 75 *sqq.*; and nature and substance, 79, 258.
+
+[77638] Evil, analysis of, 182 *sqq.*
+
+[77669] Extension, *v.* quantity.
+
+[77696] Extrinsic denominations, 238, 239.
+
+[77732] Faculties, 298 *sqq.*; and substance, 300 *sqq.*
+
+[77782] Faith and reason, 5.
+
+[77804] Figure, or form, as indicative of nature, 292-3.
+
+[77854] *Finis*, finality, *v.* purpose and final causes.
+
+[77905] *Formae subsistentes*, 129.
+
+[77934] “Formal” unity, 156.
+
+[77956] *Formalitates*, 154.
+
+[77978] Formative principles, simplicity of, 317-18; plurality in the individual, 365 (*n.* 4).
+
+[78067] FRANCIS OF VITTORIA, 113 *n.*
+
+[78098] Free causes, 376-7; and occasionalism, 398.
+
+[78143] Freedom of thought, 6.
+
+[78167] *Generatio*, *v.* *corruptio*.
+
+[78199] Genuensis, 98 *n.*
+
+[78219] GEULINCX, 397.
+
+[78235] GIOBERTI, 94.
+
+[78250] Graceful, elegant, the, 199 *n.*
+
+[78284] GREGORY OF VALENTIA, 110 *n.*
+
+[78315] Habit, analysis of, 292 *sqq.*
+
+[78347] *Hypostasis*, 265.
+
+[78367] Hypostatic Union, 267-71.
+
+[78394] Immaterial, positively and negatively, 16.
+
+[78438] Immensity, Divine, 319.
+
+[78463] Impenetrability, 309, 322.
+
+[78491] *Incommutabilia vera*, 89 *n.*
+
+[78523] Indiscernibles, identity of, 135.
+
+[78558] Infinite and Finite, 47; and categories, 212.
+
+[78605] Infinite regress in causation, 373.
+
+[78642] Inherence, *v.* accident.
+
+[78669] “Intentional” causality, 413.
+
+[78700] JAMES, 30; on personal identity, 283-4.
+
+[78741] JOSEPH, on meanings of “cause,” 379-80.
+
+[78782] JOUFFROY, 275.
+
+[78798] Knowledge, relativity of, 335 *sqq.*
+
+[78836] —scientific, 2.
+
+[78853] *Lacensis, Philosophia*, 21.
+
+[78883] LACORDAIRE, 89 *n.*
+
+[78904] LIBERATORE, 99 *n.*
+
+[78925] *Materia prima*, Aristotle on, 71-2.
+
+[78963] Mathematical unity, 116, 119.
+
+[78994] Mathematics, philosophy of, 17, 25.
+
+[79031] Matter, and evil, 190.
+
+[79055] — divisibility of (*v.* individuation), 317; continuity of, 317-18.
+
+[79124] Measurement, relativity of, 325-7.
+
+[79160] Memory, and personality, 276-84.
+
+[79194] MERCIER, on division of metaphysics, 21; on scholasticism, 26-7; on characteristics of essences, 83, 93-4; on analogical concept of God, 97; on distinction, 107; on phenomenism, 213, 224 *n.*, 269 *n.*; on faculty and substance, 305 *n.*; on interaction, 391; on efficient cause, 393 *n.*; on occasionalism, 398 *n.*; on mechanism, 426 *n.*, 429 *n.*
+
+[79546] Metaphor, and analogy, 39.
+
+[79574] Metaphysics, division of, 15 *sqq.*; etymology of, 17, 18; scope of, 24, 25, 27; and physics, *v.* physics.
+
+[79683] Modal distinction, 150, 245 *sqq.*
+
+[79719] Monadology, of Leibniz, 227.
+
+[79749] Monophysites, 268.
+
+[79769] Monopsychism, 284.
+
+[79789] Morality and art, 205-6.
+
+[79815] Motion (*v.* change), and efficient causality, 392-6.
+
+[79870] Multitude, actually infinite, 321-2.
+
+[79908] Nature and substance, 257 *sqq.*; and person, 261 *sqq.*; analysis of notion of, 461 *sqq.*
+
+[80001] Necessary and Contingent Being, 47.
+
+[80038] Necessity of essences, 81 *sqq.*
+
+[80072] NEWMAN, on scope of philosophy, 22, 31; on causality, 377, 387.
+
+[80137] NIETZSCHE, 431.
+
+[80154] *Nisus naturae*, 421.
+
+[80177] Nominalism, 125.
+
+[80195] *Notas individuantes*, 124, 131.
+
+[80229] Occasion, and cause, 359.
+
+[80256] Panpsychism, 250.
+
+[80275] Pantheism, *v.* monism.
+
+[80300] Person, personality, 262 *sqq.*; definition of, 265, 270 *n.*; distinction from individual nature, 266 *sqq.*; false theories of, 276 *sqq.*; “subconscious,” 283-4.
+
+[80466] Phenomenism, and substance, 213 *sqq.*, 223; substantializes accidents, 215; substantializes consciousness, 281, 282-4; and causality, 382 *sqq.*, 398, 421.
+
+[80624] Philosophy, notion of, 2 *sqq.*; divisions of, 7 *sqq.*; and special sciences, 28-9.
+
+[80710] Place, analysis of, 318 *sqq.*
+
+[80742] Pleasure, sensible and esthetic, 196-7, 205-6.
+
+[80790] Possible, the, 52 *sqq.*, 82 *sqq.*; and intelligible, 97; and passive potentiality, 109.
+
+[80881] *Potentia obediantialis*, 372.
+
+[80913] Potential, *v.* actual.
+
+[80938] Power, operative, 55; and passive potentiality, 298 *sqq.*; as index of perfection, 202 *n.*; classification of, 305.
+
+[81057] *Praescisio objectiva et formalis*, 34, 146-7.
+
+[81105] Prime mover, necessity of, 65-7.
+
+[81139] Principle, notion of, 357-8.
+
+[81169] Providence, and chance, 424.
+
+[81199] PYTHAGORAS, 1.
+
+[81215] QUALITY, analysis of, 286 *sqq.*; divisions of, 288 *sqq.*; characteristics of, 305 *sqq.*; grades of intensity in, 307.
+
+[81337] Quantity, and individuation, 133; analysis of, 309 *sqq.*; and corporeal substance, 311 *sqq.*; internal and external, 309-10, 314.
+
+[81470] REINSTADLER, 106 *n.*
+
+[81493] RENOUVIER, 335.
+
+[81510] SCHIFFINI, 99 *n.*
+
+[81530] Scholasticism, 26, 30; on substance, 218 *sqq.*
+
+[81579] SCHOPENHAUER, 431.
+
+[81599] Science, *v.* knowledge.
+
+[81625] Sciences, special, 16, 27; at Louvain and Maynooth, 29 *n.*
+
+[81686] Self, consciousness of, 274 *sqq.* (*v.* person.)
+
+[81737] *Sensibilia propria et communia*, objectivity of, 70; *per se et per accidens*, 218, 260.
+
+[81828] Similarity, and identity, 137, 306; and distinction, 153.
+
+[81887] Simplicity, and quantity, 307 *n.*
+
+[81923] SOCRATES, 167.
+
+[81939] Solipsism, 86.
+
+[81955] Specialists, scientific, and metaphysics, 27-28.
+
+[82005] *Species expressa*, 46; *sensibilis*, 313.
+
+[82049] Spirits, individuation of, 129, 131.
+
+[82087] STORCHENAU, 98 *n.*
+
+[82108] Substance, category of, undeniable in thought, 209, 215, 220, 281, 282-4; reality of, 213 *sqq.*; cognoscibility of, 213 *sqq.*, 219 *sqq.*; plurality of, 221; distinction from accidents, 224 *sqq.*, 301-5; erroneous notions of, 225 *sqq.*; permanence of, 229, 277; divisions of, 252 *sqq.*; complete and incomplete, 254 *sqq.*; corporeal and spiritual, 253-4, 315-6; relation to space, 319.
+
+[82501] Substantial change, 71.
+
+[82526] SULLY-PRUDHOMME, 203 *n.*
+
+[82553] Supernatural theology, 5, 12, 13.
+
+[82588] *Suppositum, suppositalitas*, *v.* person, personality.
+
+[82645] Taste, esthetic, 197.
+
+[82668] Teleology, *v.* purpose and final cause.
+
+[82710] Theodicy, 21.
+
+[82725] Thought and imagery, 392-6.
+
+[82754] Time, analysis of, 322 *sqq.*; problems on, 328.
+
+[82804] Tradition, 31.
+
+[82820] Transcendental and generic notions, 35; attributes of being, 114 *sqq.*; relations, 345.
+
+[82910] Transubstantiation, 233.
+
+[82936] Truth, ontological, 158 *sqq.*
+
+[82968] Ubiquity, Divine, 319.
+
+[82992] Uniformity of Nature, 377; and law, 418; and inductive science, 419; degrees of, 422 *sqq.*
+
+[83085] Union, substantial and personal, 268.
+
+[83124] Universal and individual (*v.* individuation), 252-3.
+
+[83179] Univocal, *v.* analogical.
+
+[83207] Vacuum, and motion, 321.
+
+[83233] Variety, and beauty, 200.
+
+[83260] Vital change, 64-5.
+
+[83281] Voluntarism, 96-7.
+
+[83301] Weltanschauung, World-view, 4, 29, 30.
+
+[83341] WILLIAM OF OCKAM, 95.
+
+[83364] FOOTNOTES
+
+[83375] _ 2 Institutions Metaphysica, quas Roma, in Pontificia Universitate Gregoriana tradiderat_ P. JOANNES JOSEPHUS URRABURU, S.J. Volumen Secundum: *Ontologia* (Rome, 1891).
+
+[83546] 3 French version by SIERP, 4 vols. Paris, Gaume, 1868.
+
+[83602] * 4 Ontologie, ou Métaphysique Générale*, par D. MERCIER. Louvain, 3me édit., 1902.
+
+[83687] 5 Τὴν ὀνομαζομένην σοφίαν περὶ τὰ πρῶτα αἴτια καὶ τὰς ὑπολαμβάνουσι πάντες.—ARISTOTLE, *Metaph.*, I., 1. “Sapientia [philosophia] est scientia quae considerat primas et universales causas.”—ST. THOMAS, *In Metaph.*, I., I. 2.
+
+[83914] * 6 Cf.* DE WULF, *Scholasticism Old and New*, pp. 59-61, 191-4; *History of Medieval Philosophy*, pp. 311-13; also two articles in the *Irish Ecclesiastical Record* (March and May, 1906) on _Thoughts on Philosophy and Religion*, and an article in the *Irish Theological Quarterly* (October, 1910) on *Philosophy and Sectarianism in Belfast University_, by the present writer.
+
+[84292] * 7 Cf.* Encyclical *Aeterni Patris*, on Philosophical Studies, by Pope Leo XIII., August 4,1880.
+
+[84391] 8 Introduction, § 1.
+
+[84413] 9 As a brief general statement of the matter this is sufficiently accurate and will not be misunderstood. Of course the general standpoint of ultimate causes and reasons admits within itself some variety of aspects. Thus Epistemology and Psychology deal with human thought, but under different aspects; Psychology and Ethics deal with human volition, but under different aspects, etc.
+
+[84799] 10 “Theoreticus sive speculativis intellectus, in hoc proprie ab operativo sive practico distinguitur, quod speculativus habet pro fine veritatem quam considerat, practicus autem veritatem consideratam ordinat in operationem tamquam in finem; et ideo differunt ab invicem fine; finis speculativae est veritas, finis operativae sive practicae actio.”—ST. THOMAS, _In lib. Boetii de Trinitate_.
+
+[85193] 11 Here is St. Thomas’ exposition and justification of the doctrine in the text: “Sapientis est ordinare. Cujus ratio est, quia sapientia est potissima perfectio rationis, cujus proprium est cognoscere ordinem.... Ordo autem quadrupliciter ad rationem comparatatur. Est enim quidam ordo quem ratio non facit, sed solum considerat, sicut est ordo rerum naturalium. Alius autem est ordo, quem ratio considerando facit in proprio actu, puta cum ordinat conceptus suos ad invicem, et signa conceptuum, quae sunt voces significativae. Tertius autem est quem ratio considerando facit in operationibus voluntatis. Quartus autem est ordo quem ratio considerando facit in exterioribus rebus, quarum ipsa est causa, sicut in arca et domo. Et quia consideratio rationis per habitum perficitur, secundum hos diversos ordines quos proprie ratio considerat, sunt diversae scientiae. Nam ad *philosophiam naturalem* pertinet considerare ordinem rerum quem ratio humana considerat sed non facit; ita quod sub naturali philosophia comprehendamus *et metaphysicam*. Ordo autem quem ratio considerando facit in proprio actu, pertinet ad *rationalem philosophiam*, cujus est considerare ordinem partium orationis ad invicem et ordinem principiorum ad invicem et ad conclusiones. Ordo autem actionum voluntariarum pertinet ad considerationem *moralis philosophiae*. Ordo autem quem ratio considerando facit in rebus exterioribus constitutis per rationem humanam, pertinet ad *artes mechanicas*.”—*In X. Ethic. ad Nichom.*, i., lect. 1.
+
+[86709] * 12 Cf.* *Science of Logic*, i., Introduction, ch. ii. and iii.
+
+[86775] 13 ARISTOTLE and the scholastics distinguished between the domain of the practical (πρᾶσσω, πρᾶξις, *agere*, *agibilia*) and the operative or productive (ποιεῖν, ποίησις, *facere*, *factibilia*).
+
+[86972] 15 “Quædam igitur sunt *speculabilium* quæ dependent a materia secundum esse, quia non nisi in materia esse possunt, et hæc distinguuntur quia dependent quædam a materia secundum esse et intellectum, sicut illa in quorum definitione ponitur materia sensibilis: unde sine materia sensibili intelligi non possunt; ut in definitione hominis oportet accipere carnem et ossa: et de his est *physica* sive scientia naturalis. Quædam vero sunt quæ, quamvis dependeant a materia sensibili secundum esse, non tamen secundum intellectum, quia in eorum definitionibus non ponitur materia sensibilis, ut linea et numerus: et de his est *mathematica*. Quædam vero sunt speculabilia quæ non dependent a materia secundum esse, quia sine materia esse possunt: sive nunquam sint in materia, sicut Deus et angelus, sive in quibusdam sint in materia et in quibusdam non, ut substantia, qualitas, potentia et actus, unum et multa, etc., de quibus omnibus est *theologia*, id est scientia divina, quia præcipuum cognitorum in ea est Deus. Alio nomine dicitur *metaphysica*, id est, transphysica, quia post physicam dicenda occurrit nobis, quibus ex sensibilibus competit in insensibilia devenire. Dicitur etiam *philosophia prima*, in quantum scientiae aliæ ab ea principia sua accipientes eam sequuntur.”—ST. THOMAS, _In lib. Boetii de Trinitate_, q. 5, a. 1.
+
+[88313] 16 Ἐττιν ἐπιστήμη τις ἤ θεωοεῖ τὸ ὄν και τούτῳ ὑπάρχοντα καθ᾽ ἁυτό.—*Metaph.* III., I (ed. Didot).
+
+[88413] 19 When the term “science” is used nowadays in contradistinction to “philosophy,” it usually signifies the knowledge embodied in what are called the special, or positive, or inductive sciences—a knowledge which Aristotle would not regard as strictly or fully scientific.
+
+[88685] 20 Aristotle’s conception of the close relation between *Physics* (or the *Philosophy* of Nature) and those analytic studies which we nowadays describe as the physical sciences, bears witness to the close alliance which he conceived to exist between sense observation on the one hand and rational speculation on the other. This sane view of the continuity of human knowledge, a view to which the Schoolmen of the Middle Ages were ever faithful, was supplanted at the dawn of modern philosophy in the sixteenth and seventeenth centuries by the opposite view, which led to a divorce between physics and metaphysics, and to a series of misunderstandings which still prevail with equal detriment to science and philosophy alike.
+
+[89411] * 21 Cf.* DE WULF, *History of Medieval Philosophy*, pp. 28-9, 66; MERCIER, *Ontologie*, Introd., p. v., n.
+
+[89520] 22 “Dicitur metaphysica [scientia] id est, transphysica, quia post physicam dicenda occurrit nobis, quibus ex sensibilibus competit in insensibilia devenire.”—ST. THOMAS, *In Lib. Boetii de Trinitate*, q. 5, a. 1.
+
+[89735] 23 This is also the title of the social and ethnological study of the various races of men, their primitive habits, customs, institutions, etc.
+
+[89880] 24 Not entirely; for instance, what is perhaps the most comprehensive course of philosophy published in recent times, the _Philosophia Lacensis_ (11 vols., Herder, 1888-1900) apparently follows the arrangement of metaphysics outlined above. The fundamental questions on *knowing* and *being*, which usually constitute distinct departments under the respective titles of *Epistemology* and *Ontology*, are here treated under the comprehensive title of *Institutiones Logicales* (3 vols.). However, they are really metaphysical problems, problems of speculative philosophy, wherever they be treated; and the fact that the questions usually treated in Ontology are here treated in a volume apart (vol. iii. of the *Institutiones Logicales*: under the peculiar title of _Logica Realis_), and not in the volumes assigned to general metaphysics, shows the necessity and convenience of the more modern arrangement. General metaphysics are dealt with in 2 vols. of _Institutiones Philosophiae Naturalis* and 3 vols. of *Institutiones Psychologicae*; special metaphysics in the *Institutiones Theodicœae* (1 vol.); ethics in 2 vols. of *Institutiones Juris Naturae_.
+
+[91039] * 25 Cf.* TURNER, *History of Philosophy*, p. 525.
+
+[91091] 26 MERCIER, *Logique*, Introd., § 9.
+
+[91129] 30 CAJETAN, *In 2 Post Anal.*, ch. xiii.
+
+[91171] 33 p. 18—in which context will be found a masterly analysis and criticism of current prejudices and objections against systematic metaphysics.
+
+[91315] 35 ROYCE, *The Conception of God*, p. 207.
+
+[91359] 37 Encyclical, *Aeterni Patris*, on philosophical studies.
+
+[91419] * 39 Cf.* MERCIER, *Origines de la psychologie contemporaine*, ch. viii.; DE WULF, *Scholasticism Old and New* (*passim*).
+
+[91543] 41 EUCKEN, *Gesammelte Aufsaetze zur Philosophie und Lebensanschauung*, § 157 (Leipzig, 1903).
+
+[91639] * 42 Cf.* art. *Philosophy and the Sciences at Louvain*, in the _Irish Ecclesiastical Record_, May, 1905, reprinted as Appendix in DE WULF’S *Scholasticism Old and New*.
+
+[91810] 43 Hence the necessity of equipping the student of philosophy with a knowledge of the main conclusions and theories of the sciences that have an immediate bearing on philosophy: chemistry, physics, geology, astronomy, mechanics, the axioms and postulates of pure and applied mathematics, cellular biology, embryology, the physiology of the nervous system, botany and zoology, political economy, sociology and ethnology. Nowhere is the system of combining the scientific with the philosophical formation of mind more thoroughly carried out at the present time than in the curriculum of the Philosophical Institute at the University of Louvain. In the College of Maynooth not only is the study of philosophy completed by a fuller course of Christian Theology,—both disciplines thus combining to give the student all the essential elements of a complete _Philosophy of Life_ (ii.),—but it is preceded by an elementary training in the physical sciences and accompanied by courses on the history of scientific theories in chemistry, physics, physiology, and general biology.
+
+[92881] 44 “We may mention it in passing,” writes Mercier in his general introduction to philosophy (*Logique*, § 1, p. 6)—“it was this feeling of individual impotence in face of the task confronting the philosopher at the present day, that inspired the foundation of the Philosophical Institute at the University of Louvain”. He had previously outlined the project in his _Rapport sur les études philosophiques_ at the Congress of Mechlin in 1891. Here are a few brief extracts from that memorable document: “Since individual effort feels itself well nigh powerless in the presence of the field of observation which goes on widening day by day, association must make up for the insufficiency of the isolated worker; men of analysis and men of synthesis must come together and form, by their daily intercourse and united action, an atmosphere suited to the harmonious development of science and philosophy alike....” “Man has multiplied his power of vision; he enters the world of the infinitely small; he fixes his scrutinizing gaze upon regions where our most powerful telescopes discern no limits. Physics and Chemistry progress with giant strides in the study of the properties of matter and of the combinations of its elements. Geology and Astronomy reconstruct the history of the origin and formation of our planet. Biology and the natural sciences study the minute structure of living organisms, their distribution in space and succession in time; and Embryology explores their origin. The archæological, philological and social sciences reconstruct the past ages of our history and civilizations. What an inexhaustible mine is here to exploit, what regions to explore and materials to analyse and interpret; finally what pioneers we must engage in the work if we are to have a share in garnering those treasures!”
+
+[94696] 46 Lucerna pedibus meis verbum tuum, et lumen semitis meis.—Ps. cxviii., 105.
+
+[94775] 47 TENNYSON, *In Memoriam*.
+
+[94804] * 50 Cf.* SCOTUS, *Summa Theologica*, edit. by Montefortino (Rome, 1900), i., p. 106, *Ad tertium*.
+
+[94905] 53 Hence St. Thomas calls the things about which a generic or specific concept is predicated “analoga secundum esse et non secundum intentionem” (*In 1 Sent.*, Dist. xix., q. 5, a. 2, ad a am): we bring them under the same notion or “intentio” (*e.g.* “living being”), but the content of this notion is realized in the various things (*e.g.* in Socrates, this horse, that rose-tree, etc.) in varying and unequal degrees of perfection. Hence, too, this univocal relation of the genus to its subordinate subjects is sometimes (improperly) called “analogy of inequality”.
+
+[95475] 56 This, of course, is the proper sort of analogical predication: the predication based upon similarity of proportions or relations. Etymologically, analogy means equality of proportions (*Cf.* *Logic*, ii., p. 160). On the whole subject the student may consult with profit Cajetan’s *Opusculum de Nominum Analogia*, published as an appendix to vol. iv. of St. Thomas’ *Quæstiones Disputatæ* in De Maria’s edition (1883).
+
+[95898] * 64 Cf.* KLEUTGEN, *La philosophie scolastique* (“_Die Philosophie der Vorzeit_”). Fr. trans. by Sierp (Paris, 1868), vol. i., p. 66, § 35.
+
+[96040] 65 The logical copula, which expresses this relation and asserts the truth of the judgment, expresses, of course, a logical entity, an *ens rationis*. True judgments may be stated about logical entities as well as about realities. But since the former can be conceived only after the manner of the latter, the appropriateness of using the verb which expresses existence or reality, as the logical copula, will be at once apparent. *Cf.* *Logic*, i., p. 249, n. 1.
+
+[96505] 70 “Esse actum quondam nominat: non enim dicitur esse aliquid ex hoc, quod est in potentia, sed ex hoc, quod est in actu.”—ST. THOMAS, *Contra Gent.* i., c. xxii., 4.
+
+[96673] 71 Certain medieval philosophers had made the same mistake. St. Thomas points out their error frequently. *Cf.* *Contra Gentes*, i., c. xxvi: “Quia id, quod commune est, per additionem specificatur vel individuatur, æstimaverunt, divinum esse, cui nulla fit additio, non esse aliquid proprium, sed esse commune omnium: non considerantes, quod id, quod commune est, vel universale, sine additione esse non potest, sed sine additione consideratur. Non enim animal potest esse absque rationali vel irrationali differentia, quamvis sine his differentiis consideretur; licet enim cogitetur universale absque additione, non tamen absque receptibilitate additionis est. Nam si animali nulla differentia addi posset, genus non esset; et similiter est de omnibus aliis nominibus. Divinum autem esse est absque additione, non solum cogitatione, sed etiam in rerum natura; et non solum absque additione, sed absque receptibilitate additionis. Unde ex hoc ipso quod additionem non recipit, nec recipere potest, magis concludi potest quod Deus non sit esse commune, sed esse proprium. Etenim ex hoc ipso suum esse ab omnibus aliis distinguitur, quia nihil ei addi potest.”
+
+[97834] * 75 Cf.* LAMINNE, *Cause et Effet*—*Revue neo-scolastique*, February, 1914, p. 38.
+
+[97919] 76 St. Thomas uses what is for him strong language when he describes such a view as ridiculous: “Ridiculum est dicere quod ideo corpus non agat, quia accidens non transit de subjecto in subjectum; non enim hoc modo dicitur corpus calidum calefacere, quod idem numero calor, qui est in calefaciente corpore, transeat ad corpus calefactum; sed quia virtute caloris, qui est in calefaciente corpore, alius calor numero fit actu in corpore calefacto, qui prior erat in eo in potentia. Agens enim naturale non est traducens propriam formam in alterum subjectum, sed reducens subjectum quod patitur de potentia in actum.”—*Contra Gentes*, L. III., c. lxix.
+
+[98571] * 77 Cf.* ZIGLIARA, *Ontologia* (8), ix., *Quintum*. *Cf.* also ARISTOTLE, *Metaph.* v., ST. THOMAS, *In Metaph.*, v., § 14, and *Contra Gentes*, i., c. xvi., where he emphasizes the truth that potential being presupposes actual being: “Quamvis id quod quandoque est in potentia, quandoque in actu, prius sit tempore in potentia quam in actu, tamen simpliciter actus est prior potentia; quia potentia non educit se in actum, sed opportet quod educatur in actum per aliquid quod sit in actu. Omne igitur quod est aliquo modo in potentia, habet aliquid prius se”.
+
+[99134] 78 KLIMKE, *Der Monismus und seine philosophischen Grundlagen*, p. 185. *Cf.* *Irish Theological Quarterly*, vol. vii. (April, 1912), p. 157 *sqq.*, art. *Reflections on Some Forms of Monism*.
+
+[99328] 79 For relations of *potentia* and *actus*, *cf.* MERCIER, *Ontologie*, § 214.
+
+[99408] 81 Λεγώ δ᾽ ὕλην, ἢ καθ᾽ ἁυτὴν μήτε τὶ, μήτε ποσὸν, μήτε ποίον, μήτε ἄλλο μεδὲν λέγεται οἶς ὤρισται τὸ ὄν.—*Metaph.* vi., c. iii.
+
+[99538] 82 “Decepit antiquos philosophos hanc rationem inducentes, ignorantia formae substantialis. Non enim adhuc tantum profecerant ut intellectus eorum se elevaret ad aliquid quod est supra sensibilia: et ideo illas formas tantum consideraverunt, quæ sunt sensibilia propria vel communia. Hujusmodi autem manifestum est esse accidentia, ut album et nigrum, magnum et parvum, et hujusmodi. Forma autem substantialis non est sensibilis nisi per accidens, et ideo ad ejus cognitionem non bervenerunt, ut scirent ipsam materiam distinguere.”—*In Metaph.* vii., 2.
+
+[100094] 83 “Esse actum quemdam nominat: non enim dicitur esse aliquid, ex hoc quod est in potentia, sed ex hoc quod est in actu.”—ST. THOMAS, *Contra Gentes*, i., ch. xxii., 4.
+
+[100264] 84 The etymology of Aristotle’s description of the essence as τὸ τί ἦν εἶναι is not easy to explain. The expression τὸ εἶναι supposes a dative understood, *e.g.* τὸ ἀνθρώπῳ εἶναι, the being proper to man. To the question τὶ ἐστι τὸ ἀνθρώπῳ εἶναι; what is the being or essence proper to man? the answer is: that which gives the definition of man, that which explains what he is—τί ἦν. Is the imperfect, τὶ ἦν, an archaic form for the present, τὶ ἐστι; or is it a deliberate suggestion of the profound doctrine that the essence as ideal, or possible, is anterior to its actual, physical realization? Commentators are not agreed. *Cf.* MATTHIAS KAPPES, Aristoteles-Lexicon, p. 25 (Paderborn, 1894); MERCIER, *Ontologie*, p. 30 n.
+
+[100992] 85 Essentia est illud per quod res constituitur in proprio genere vel specie, et quod significamus per definitionem indicantem quid est res.—*De Ente et Essentia*, ch. i.
+
+[101164] 86 ARISTOTLE, *Metaph.*, v., 4; ST. THOMAS, *De Potentia Dei*, q. ix., art. 1.
+
+[101244] 87 Sometimes, however, the expression “metaphysical essence” is used to signify those objective concepts, and those only, _without which the thing cannot be conceived_, (or sometimes, even the one which is considered most fundamental among these), and therefore as not explicitly involving the concepts of properties which follow necessarily from the former; while the “physical essence” is understood to signify all those real elements _without which the thing cannot actually exist_, including, therefore, all such necessary properties. Taken in this sense the physical essence of man would include not merely soul and body, but also such properties as the capacity of speech, of laughter, of using tools, of cooking food, etc.
+
+[101975] 88 Et ex hoc patet ratio, writes St. Thomas, quare genus et species et differentia se habeant proportionaliter ad materiam, formam et compositum in natura, quamvis non sint idem cum illis; quia neque genus est materia, sed sumitur a materia ut significans totum; nec differentia est forma, sed sumitur a forma ut significans totum. Unde dicimus hominem esse *animal rationale*, et non _ex animali et rationali_; sicut dicimus eum esse ex corpore et anima. Ex corpore enim et anima dicitur esse homo, sicut ex duabus rebus quædam tertia res constituta, quæ neutra illarum est: homo enim nec est anima neque corpus; sed si homo aliquo modo ex animali et rationali dicatur esse, non erit sicut res tertia ex duabus rebus sed sicut intellectus [conceptus] tertius ex duobus intellectibus. Intellectus enim *animalis* est sine determinatione formae specialis naturam exprimens rei, ex eo quod est materiale respectu ultimae perfectionis. Intellectus autem hujus differentiae, *rationalis*, consistit in determinatione formae specialis: ex quibus duobus intellectibus constituitur intellectus speciei vel definitionis. Et ideo sicut res constituta ex aliquibus non recipit prædicationem earum rerum ex quibus constituitur; ita nec intellectus recipit prædicationem eorum intellectuum ex quibus constituitur; non enim dicimus, quod definitio sit genus vel differentia.—_De Ente et Essentia_, cap. iii.
+
+[103371] * 91 Cf.* MERCIER, *Ontologie*, pp. 42-3. How do we know that not only water (H2O) is a possible essence but also hydrogen di-oxide (H2O2)? Because the latter substance has been *actually formed* by chemists (*Cf.* ROSCOE, *Elementary Chemistry*, Lesson VI.). Is hydrogen tri-oxyde (H2O3) a possible substance? We may ask chemists,—and they may not be able to tell us with any certainty whether it is or not.
+
+[103781] 92 The actual existence of a thinking mind is of course a necessary condition, in the actual order, for the apprehension of objects in this abstract way. But such existence is no part of the apprehended object. That the human mind, which is itself finite, contingent, allied with matter, and dependent on the activity of corporeal sense organs for the objects of its knowledge, should nevertheless have the power to apprehend contingent realities apart from their contingent actual existence in time and space,—is a fact of the greatest significance as regards the nature of the mind itself. But if we try to prove the existence of God from a consideration of the nature and powers of the human mind, our argument proceeds from the actual, and is distinct from any argument based exclusively on the nature and properties of possible essences as such. St. Augustine’s argument assumes as a fact that the human mind represents to itself possible essences as having reality independently both of its own thought and of any actual existence of such essences (*Cf.* DE MUNNYNCK, *Praelectiones de Dei Existentia*, p. 23). But *is* this a fact? This is the really debatable point.
+
+[104957] 93 Among others Henry of GHENT († 1293; *Cf.* DE WULF, _History of Medieval Philosophy*, pp. 364-6; KLEUTGEN, *Philosophie der Vorzeit_, Dissert, vi., cap. ii., 2 §§ 581-5), Capreolus (1380-1444), certain Scotists, and certain theosophists of the thirteenth and fourteenth centuries, are credited with this peculiar view. For numerous references, *Cf.* URRABURU, *Ontologia*, Disp. iii., cap. ii., art. v. pp. 650-63.
+
+[105376] 95 Among others, BALMES (*Fundamental Philosophy*, bk. iv., ch. xxvi.), LEPIDI (*Ontologia*, quoted by DE MUNYNCK, _Praelectiones de Dei Existentia*, Louvain, 1904, p. 19); DE MUNYNCK (*ibid._, pp. 19-23, 46-7, 75); HICKEY (*Theologia Naturalis*, pp. 31-4); DRISCOLL (*God*, pp. 72 sqq.); LACORDAIRE (*God*, p. 21); KLEUTGEN, *Philosophie der Vorzeit*, Dissert. iv., § 476.
+
+[105751] 96 Truth is not the work of any human intelligence, says St. Augustine, nor can any one arrogate to himself the right to say “*my* truth,” or “*thy* truth,” but all must say simply “*the* truth”: “Quapropter, nullo modo negaveris esse incommutabilem veritatem, haec omnia, quae incommutabiliter vera sunt, continentem, quam non possis dicere vel tuam vel meam, vel cujuscumque hominis, sed omnibus incommutabilia vera cernentibus, tamquam miris modis secretum et publicum lumen, praesto esse ac se praebere communiter: omne autem quod communiter omnibus ratiocinantibus atque intelligentibus praesto est, ad ullius eorum proprie naturam pertinere quis dixerit?”—*De Libero Arbitrio*, lib. ii., ch. xii. *Cf.* his striking expression of the same thought in his Commentary, *Super Genesim ad Litteram*, lib. ii., cap. vii.: “We may conceive the heavens and the earth, that were created in six days, ceasing to exist; but can we conceive the number ‘six’ ceasing to be the sum of six units?”: “Facilius coelum et terra transire possunt, quae secundum numerum senarium fabricata sunt, quam effici possit ut senarius numerus suis partibus non compleatur” (*apud* MERCIER, *Ontologie*, pp. 35-6).
+
+[106943] * 97 Cf.* BALMES (*Fundamental Philosophy*, bk. iv., ch. xxvi.), who, analysing the truth of the proposition “Two circles of equal diameters are equal,” as an example of the necessary, eternal, immutable characteristics of possible essences, goes so far as to write (italics ours): “What would happen, if, withdrawing all bodies, all sensible representations, *and even all intelligences*, we should imagine absolute and universal nothing? We see the truth of the proposition even on this supposition: for it is impossible for us to hold it to be false. On every supposition, our understanding sees a connection which it cannot destroy: the condition once established, the result will infallibly follow.
+
+[107648] “An absolutely necessary connection, founded neither on us, nor on the external world, which exists before anything we can imagine, and subsists after we have annihilated all by an effort of our understanding, must be based upon something, it cannot have nothing for its origin: to say this would be to assert a necessary fact without a sufficient reason.
+
+[108005] “It is true that in the proposition now before us nothing real is affirmed, but if we reflect carefully we find even here the greatest difficulty for those who deny a real foundation to pure possibility. What is remarkable in this phenomenon, is precisely this, that our understanding feels itself forced to give its assent to a proposition which affirms an absolutely necessary connection *without any relation to an existing object*. It is conceivable that an intelligence affected by other beings may know their nature and relations; but it is not so easy of comprehension how it can discover their nature and relations in an absolutely necessary manner, when it abstracts all existence, when the ground upon which the eyes of the understanding are fixed, is the abyss of nothing.
+
+[108790] “We deceive ourselves when we imagine it possible to abstract all existence. Even when we suppose our mind to have lost sight of every thing, a very easy supposition, granting that we find in our consciousness the contingency of our being, the understanding still perceives a possible order, and imagines it to be all occupied with pure possibility, *independent of a being upon which it is based*. We repeat, that this is an illusion, which disappears so soon as we reflect upon it. In pure nothing, nothing is possible; there are no relations, no connections of any kind; in nothing there are no combinations, it is a ground upon which nothing can be pictured.
+
+[109454] “The objectivity of our ideas and the perception of necessary relations in a possible order, reveal _a communication of our understanding with a being on which is founded all possibility_. This possibility can be explained on no supposition except that which makes the communication consist in _the action of God giving to our mind faculties_ perceptive of the necessary relation of certain ideas, based upon necessary being, and representative of His infinite essence.”
+
+[109926] Balmes, therefore, does not mean that we could continue to see essences as possible were we to imagine withdrawn not merely finite minds but even the Divine Mind. In such an absurd hypothesis, nothing would appear true or false, possible or impossible. But he contends that even when we *try* to think away *all* minds, even the Divine Mind, we still see possible essences to be possible. And from this he argues that, since we have successfully thought away finite minds and the actuality of essences, while the possibility of these latter still persists, these must be grounded in the Mind of God, the Actual, Eternal, Necessary Being, where they have eternal ideal being.

@@ -1,0 +1,1013 @@
+WORK: Symbolic Logic  (slug: lewis-carroll-symbolic-logic-56bef5)
+
+CHAPTER: 10
+
+
+
+[0] *EXAMPLES.*
+
+[13] *Propositions of Relation, to be reduced to normal form.*
+
+[72] 1. I have been out for a walk.
+
+[104] 2. I am feeling better.
+
+[129] 3. No one has read the letter but John.
+
+[170] 4. Neither you nor I are old.
+
+[201] 5. No fat creatures run well.
+
+[232] 6. None but the brave deserve the fair.
+
+[273] 7. No one looks poetical unless he is pale.
+
+[318] 8. Some judges lose their tempers.
+
+[354] 9. I never neglect important business.
+
+[394] 10. What is difficult needs attention.
+
+[434] 11. What is unwholesome should be avoided.
+
+[478] 12. All the laws passed last week relate to excise.
+
+[531] 13. Logic puzzles me.
+
+[554] 14. There are no Jews in the house.
+
+[591] 15. Some dishes are unwholesome if not well-cooked.
+
+[644] 16. Unexciting books make one drowsy.
+
+[683] 17. When a man knows what he's about, he can detect a sharper.
+
+[747] 18. You and I know what we're about.
+
+[785] 19. Some bald people wear wigs.
+
+[818] 20. Those who are fully occupied never talk about their grievances.
+
+[887] 21. No riddles interest me if they can be solved.
+
+[938] _Pairs of Abstract Propositions, one in terms of x and m, and the other in terms of y and m, to be represented on the same Triliteral Diagram._
+
+[1083] 3. Some x' are m; No m are y.
+
+[1114] 22. No m are x; Some m are y.
+
+[1145] *Marked Triliteral Diagrams, to be interpreted in terms of x and y.*
+
+[1215] _Pairs of Abstract Propositions, proposed as Premisses: Conclusions to be found._
+
+[1298] 5. Some m are x'; No y are m.
+
+[1329] 22. Some x are m; All y are m.
+
+[1361] 23. All m are x; Some y are m.
+
+[1393] 31. All x are m; All y are m.
+
+[1424] _Pairs of Concrete Propositions, proposed as Premisses: Conclusions to be found._
+
+[1507] 1. I have been out for a walk; I am feeling better.
+
+[1560] 2. No one has read the letter but John; No one, who has *not* read it, knows what it is about.
+
+[1656] 3. Those who are not old like walking; You and I are young.
+
+[1717] 4. Your course is always honest; Your course is always the best policy.
+
+[1790] 5. No fat creatures run well; Some greyhounds run well.
+
+[1847] 6. Some, who deserve the fair, get their deserts; None but the brave deserve the fair.
+
+[1935] 7. Some Jews are rich; All Esquimaux are Gentiles.
+
+[1987] 8. Sugar-plums are sweet; Some sweet things are liked by children.
+
+[2055] 9. John is in the house; Everybody in the house is ill.
+
+[2112] 10. Umbrellas are useful on a journey; What is useless on a journey should be left behind.
+
+[2204] 11. Audible music causes vibration in the air; Inaudible music is not worth paying for.
+
+[2293] 12. Some holidays are rainy; Rainy days are tiresome.
+
+[2348] 13. No Frenchmen like plumpudding; All Englishmen like plumpudding.
+
+[2417] 14. No portrait of a lady, that makes her simper or scowl, is satisfactory; No photograph of a lady ever fails to make her simper or scowl.
+
+[2558] 15. All pale people are phlegmatic; No one looks poetical unless he is pale.
+
+[2636] 16. No old misers are cheerful; Some old misers are thin.
+
+[2695] 17. No one, who exercises self-control, fails to keep his temper; Some judges lose their tempers. pg102 18. All pigs are fat; Nothing that is fed on barley-water is fat.
+
+[2866] 19. All rabbits, that are not greedy, are black; No old rabbits are free from greediness.
+
+[2957] 20. Some pictures are not first attempts; No first attempts are really good.
+
+[3035] 21. I never neglect important business; Your business is unimportant.
+
+[3106] 22. Some lessons are difficult; What is difficult needs attention.
+
+[3174] 23. All clever people are popular; All obliging people are popular.
+
+[3243] 24. Thoughtless people do mischief; No thoughtful person forgets a promise.
+
+[3320] 25. Pigs cannot fly; Pigs are greedy.
+
+[3359] 26. All soldiers march well; Some babies are not soldiers.
+
+[3419] 27. No bride-cakes are wholesome; What is unwholesome should be avoided.
+
+[3493] 28. John is industrious; No industrious people are unhappy.
+
+[3554] 29. No philosophers are conceited; Some conceited persons are not gamblers.
+
+[3631] 30. Some excise laws are unjust; All the laws passed last week relate to excise.
+
+[3713] 31. No military men write poetry; None of my lodgers are civilians.
+
+[3782] 32. No medicine is nice; Senna is a medicine.
+
+[3829] 33. Some circulars are not read with pleasure; No begging-letters are read with pleasure.
+
+[3920] 34. All Britons are brave; No sailors are cowards.
+
+[3972] 35. Nothing intelligible ever puzzles *me*; Logic puzzles me.
+
+[4035] 36. Some pigs are wild; All pigs are fat. pg103 37. All wasps are unfriendly; All unfriendly creatures are unwelcome.
+
+[4154] 38. No old rabbits are greedy; All black rabbits are greedy.
+
+[4216] 39. Some eggs are hard-boiled; No eggs are uncrackable.
+
+[4273] 40. No antelope is ungraceful; Graceful creatures delight the eye.
+
+[4341] 41. All well-fed canaries sing loud; No canary is melancholy if it sings loud.
+
+[4421] 42. Some poetry is original; No original work is producible at will.
+
+[4491] 43. No country, that has been explored, is infested by dragons; Unexplored countries are fascinating.
+
+[4594] 44. No coals are white; No niggers are white.
+
+[4641] 45. No bridges are made of sugar; Some bridges are picturesque.
+
+[4706] 46. No children are patient; No impatient person can sit still.
+
+[4771] 47. No quadrupeds can whistle; Some cats are quadrupeds.
+
+[4829] 48. Bores are terrible; You are a bore.
+
+[4870] 49. Some oysters are silent; No silent creatures are amusing.
+
+[4933] 50. There are no Jews in the house; No Gentiles have beards a yard long.
+
+[5007] 51. Canaries, that do not sing loud, are unhappy; No well-fed canaries fail to sing loud.
+
+[5098] 52. All my sisters have colds; No one can sing who has a cold.
+
+[5162] 53. All that is made of gold is precious; Some caskets are precious.
+
+[5232] 54. Some buns are rich; All buns are nice.
+
+[5276] 55. All my cousins are unjust; All judges are just. pg104 56. Pain is wearisome; No pain is eagerly wished for.
+
+[5389] 57. All medicine is nasty; Senna is a medicine.
+
+[5438] 58. Some unkind remarks are annoying; No critical remarks are kind.
+
+[5507] 59. No tall men have woolly hair; Niggers have woolly hair.
+
+[5568] 60. All philosophers are logical; An illogical man is always obstinate.
+
+[5641] 61. John is industrious; All industrious people are happy.
+
+[5701] 62. These dishes are all well-cooked; Some dishes are unwholesome if not well-cooked.
+
+[5788] 63. No exciting books suit feverish patients; Unexciting books make one drowsy.
+
+[5869] 64. No pigs can fly; All pigs are greedy.
+
+[5912] 65. When a man knows what he's about, he can detect a sharper; You and I know what we're about.
+
+[6009] 66. Some dreams are terrible; No lambs are terrible.
+
+[6063] 67. No bald creature needs a hairbrush; No lizards have hair.
+
+[6126] 68. All battles are noisy; What makes no noise may escape notice.
+
+[6193] 69. All my cousins are unjust; No judges are unjust.
+
+[6247] 70. All eggs can be cracked; Some eggs are hard-boiled.
+
+[6304] 71. Prejudiced persons are untrustworthy; Some unprejudiced persons are disliked.
+
+[6387] 72. No dictatorial person is popular; She is dictatorial.
+
+[6446] 73. Some bald people wear wigs; All your children have hair.
+
+[6508] 74. No lobsters are unreasonable; No reasonable creatures expect impossibilities. pg105 75. No nightmare is pleasant; Unpleasant experiences are not eagerly desired.
+
+[6675] 76. No plumcakes are wholesome; Some wholesome things are nice.
+
+[6740] 77. Nothing that is nice need be shunned; Some kinds of jam are nice.
+
+[6811] 78. All ducks waddle; Nothing that waddles is graceful.
+
+[6868] 79. Sandwiches are satisfying; Nothing in this dish is unsatisfying.
+
+[6938] 80. No rich man begs in the street; Those who are not rich should keep accounts.
+
+[7020] 81. Spiders spin webs; Some creatures, that do not spin webs, are savage.
+
+[7095] 82. Some of these shops are not crowded; No crowded shops are comfortable.
+
+[7171] 83. Prudent travelers carry plenty of small change; Imprudent travelers lose their luggage.
+
+[7264] 84. Some geraniums are red; All these flowers are red.
+
+[7320] 85. None of my cousins are just; All judges are just.
+
+[7375] 86. No Jews are mad; All my lodgers are Jews.
+
+[7422] 87. Busy folk are not always talking about their grievances; Discontented folk are always talking about their grievances.
+
+[7545] 88. None of my cousins are just; No judges are unjust.
+
+[7601] 89. All teetotalers like sugar; No nightingale drinks wine.
+
+[7662] 90. No riddles interest me if they can be solved; All these riddles are insoluble.
+
+[7746] 91. All clear explanations are satisfactory; Some excuses are unsatisfactory.
+
+[7825] 92. All elderly ladies are talkative; All good-tempered ladies are talkative.
+
+[7904] 93. No kind deed is unlawful; What is lawful may be done without scruple. pg106 94. No babies are studious; No babies are good violinists.
+
+[8044] 95. All shillings are round; All these coins are round.
+
+[8101] 96. No honest men cheat; No dishonest men are trustworthy.
+
+[8161] 97. None of my boys are clever; None of my girls are greedy.
+
+[8223] 98. All jokes are meant to amuse; No Act of Parliament is a joke.
+
+[8290] 99. No eventful tour is ever forgotten; Uneventful tours are not worth writing a book about.
+
+[8384] 100. All my boys are disobedient; All my girls are discontented.
+
+[8450] 101. No unexpected pleasure annoys me; Your visit is an unexpected pleasure.
+
+[8528] _Trios of Abstract Propositions, proposed as Syllogisms: to be examined._
+
+[8603] 1. Some x are m; No m are y'. Some x are y.
+
+[8648] 3. Some x are m'; All y' are m. Some x are y.
+
+[8695] 4. All x are m; No y are m. All x are y'.
+
+[8738] 9. Some m are x'; No m are y. Some x' are y'.
+
+[8785] 11. All x are m'; Some y are m. Some y are x'.
+
+[8833] 19. Some m are x; All m are y. Some y are x'.
+
+[8880] 34. All x are m'; Some y are m'. Some y are x.
+
+[8928] 35. Some x are m; All m are y. Some x are y.
+
+[8974] 40. No m are x'; Some y are m. Some x are y.
+
+[9020] _Trios of Concrete Propositions, proposed as Syllogisms: to be examined._
+
+[9095] 1. No doctors are enthusiastic; You are enthusiastic. You are not a doctor.
+
+[9172] 2. Dictionaries are useful; Useful books are valuable. Dictionaries are valuable.
+
+[9255] 3. No misers are unselfish; None but misers save egg-shells. No unselfish people save egg-shells.
+
+[9354] 4. Some epicures are ungenerous; All my uncles are generous. My uncles are not epicures. pg108 5. Gold is heavy; Nothing but gold will silence him. Nothing light will silence him.
+
+[9535] 6. Some healthy people are fat; No unhealthy people are strong. Some fat people are not strong.
+
+[9632] 7. "I saw it in a newspaper." "All newspapers tell lies." It was a lie.
+
+[9705] 8. Some cravats are not artistic; I admire anything artistic. There are some cravats that I do not admire.
+
+[9813] 9. His songs never last an hour; A song, that lasts an hour, is tedious. His songs are never tedious.
+
+[9916] 10. Some candles give very little light; Candles are *meant* to give light. Some things, that are meant to give light, give very little.
+
+[10054] 11. All, who are anxious to learn, work hard; Some of these boys work hard. Some of these boys are anxious to learn.
+
+[10172] 12. All lions are fierce; Some lions do not drink coffee. Some creatures that drink coffee are not fierce.
+
+[10280] 13. No misers are generous; Some old men are ungenerous. Some old men are misers.
+
+[10363] 14. No fossil can be crossed in love; An oyster may be crossed in love. Oysters are not fossils.
+
+[10461] 15. All uneducated people are shallow; Students are all educated. No students are shallow.
+
+[10553] 16. All young lambs jump; No young animals are healthy, unless they jump. All young lambs are healthy.
+
+[10657] 17. Ill-managed business is unprofitable; Railways are never ill-managed. All railways are profitable.
+
+[10761] 18. No Professors are ignorant; All ignorant people are vain. No professors are vain. pg109 19. A prudent man shuns hyænas; No banker is imprudent. No banker fails to shun hyænas.
+
+[10942] 20. All wasps are unfriendly; No puppies are unfriendly. Puppies are not wasps.
+
+[11023] 21. No Jews are honest; Some Gentiles are rich. Some rich people are dishonest.
+
+[11104] 22. No idlers win fame; Some painters are not idle. Some painters win fame.
+
+[11181] 23. No monkeys are soldiers; All monkeys are mischievous. Some mischievous creatures are not soldiers.
+
+[11285] 24. All these bonbons are chocolate-creams; All these bonbons are delicious. Chocolate-creams are delicious.
+
+[11395] 25. No muffins are wholesome; All buns are unwholesome. Buns are not muffins.
+
+[11474] 26. Some unauthorised reports are false; All authorised reports are trustworthy. Some false reports are not trustworthy.
+
+[11596] 27. Some pillows are soft; No pokers are soft. Some pokers are not pillows.
+
+[11673] 28. Improbable stories are not easily believed; None of his stories are probable. None of his stories are easily believed.
+
+[11797] 29. No thieves are honest; Some dishonest people are found out. Some thieves are found out.
+
+[11890] 30. No muffins are wholesome; All puffy food is unwholesome. All muffins are puffy.
+
+[11975] 31. No birds, except peacocks, are proud of their tails; Some birds, that are proud of their tails, cannot sing. Some peacocks cannot sing.
+
+[12116] 32. Warmth relieves pain; Nothing, that does not relieve pain, is useful in toothache. Warmth is useful in toothache. pg110 33. No bankrupts are rich; Some merchants are not bankrupts. Some merchants are rich.
+
+[12327] 34. Bores are dreaded; No bore is ever begged to prolong his visit. No one, who is dreaded, is ever begged to prolong his visit.
+
+[12457] 35. All wise men walk on their feet; All unwise men walk on their hands. No man walks on both.
+
+[12553] 36. No wheelbarrows are comfortable; No uncomfortable vehicles are popular. No wheelbarrows are popular.
+
+[12659] 37. No frogs are poetical; Some ducks are unpoetical. Some ducks are not frogs.
+
+[12740] 38. No emperors are dentists; All dentists are dreaded by children. No emperors are dreaded by children.
+
+[12846] 39. Sugar is sweet; Salt is not sweet. Salt is not sugar.
+
+[12905] 40. Every eagle can fly; Some pigs cannot fly. Some pigs are not eagles.
+
+[12979] _Sets of Abstract Propositions, proposed as Premisses for Soriteses: Conclusions to be found._
+
+[13075] [N.B. At the end of this Section instructions are given for varying these Examples.]
+
+[13161] [N.B. In each Example, in Sections 8 and 9, it is possible to begin with *any* Premiss, at pleasure, and thus to get as many different Solutions (all of course yielding the *same* Complete Conclusion) as there are Premisses in the Example. Hence § 8 really contains 129 different Examples, and § 9 contains 273.]
+
+[13475] _Sets of Concrete Propositions, proposed as Premisses for Soriteses: Conclusions to be found._
+
+[13571] (1) Babies are illogical;
+
+[13598] (2) Nobody is despised who can manage a crocodile;
+
+[13650] (3) Illogical persons are despised.
+
+[13687] Univ. "persons"; a = able to manage a crocodile; b = babies; c = despised; d = logical.
+
+[13776] (1) My saucepans are the only things I have that are made of tin;
+
+[13843] (2) I find all *your* presents very useful;
+
+[13888] (3) None of my saucepans are of the slightest use.
+
+[13940] Univ. "things of mine"; a = made of tin; b = my saucepans; c = useful; d = your presents.
+
+[14031] (1) No potatoes of mine, that are new, have been boiled;
+
+[14089] (2) All my potatoes in this dish are fit to eat;
+
+[14139] (3) No unboiled potatoes of mine are fit to eat.
+
+[14189] Univ. "my potatoes"; a = boiled; b = eatable; c = in this dish; d = new.
+
+[14263] (1) There are no Jews in the kitchen;
+
+[14302] (2) No Gentiles say "shpoonj";
+
+[14334] (3) My servants are all in the kitchen.
+
+[14375] Univ. "persons"; a = in the kitchen; b = Jews; c = my servants; d = saying "shpoonj."
+
+[14462] (1) No ducks waltz;
+
+[14483] (2) No officers ever decline to waltz;
+
+[14523] (3) All my poultry are ducks.
+
+[14554] Univ. "creatures"; a = ducks; b = my poultry; c = officers; d = willing to waltz.
+
+[14637] (1) Every one who is sane can do Logic;
+
+[14678] (2) No lunatics are fit to serve on a jury;
+
+[14723] (3) None of *your* sons can do Logic.
+
+[14762] Univ. "persons"; a = able to do Logic; b = fit to serve on a jury; c = sane; d = your sons. pg113 =7.=
+
+[14866] (1) There are no pencils of mine in this box;
+
+[14913] (2) No sugar-plums of mine are cigars;
+
+[14953] (3) The whole of my property, that is not in this box, consists of cigars.
+
+[15029] Univ. "things of mine"; a = cigars; b = in this box; c = pencils; d = sugar-plums.
+
+[15113] (1) No experienced person is incompetent;
+
+[15156] (2) Jenkins is always blundering;
+
+[15191] (3) No competent person is always blundering.
+
+[15238] Univ. "persons"; a = always blundering; b = competent; c = experienced; d = Jenkins.
+
+[15324] (1) No terriers wander among the signs of the zodiac;
+
+[15379] (2) Nothing, that does not wander among the signs of the zodiac, is a comet;
+
+[15457] (3) Nothing but a terrier has a curly tail.
+
+[15502] Univ. "things"; a = comets; b = curly-tailed; c = terriers; d = wandering among the signs of the zodiac.
+
+[15608] (1) No one takes in the *Times*, unless he is well-educated;
+
+[15670] (2) No hedge-hogs can read;
+
+[15699] (3) Those who cannot read are not well-educated.
+
+[15749] Univ. "creatures"; a = able to read; b = hedge-hogs; c = taking in the Times; d = well-educated.
+
+[15847] (1) All puddings are nice;
+
+[15875] (2) This dish is a pudding;
+
+[15904] (3) No nice things are wholesome.
+
+[15939] Univ. "things"; a = nice; b = puddings; c = this dish; d = wholesome.
+
+[16010] (1) My gardener is well worth listening to on military subjects;
+
+[16076] (2) No one can remember the battle of Waterloo, unless he is very old;
+
+[16148] (3) Nobody is really worth listening to on military subjects, unless he can remember the battle of Waterloo.
+
+[16258] Univ. "persons"; a = able to remember the battle of Waterloo; b = my gardener; c = well worth listening to on military subjects; d = very old. pg114 =13.=
+
+[16414] (1) All humming-birds are richly coloured;
+
+[16458] (2) No large birds live on honey;
+
+[16493] (3) Birds that do not live on honey are dull in colour.
+
+[16550] Univ. "birds"; a = humming-birds; b = large; c = living on honey; d = richly coloured.
+
+[16638] (1) No Gentiles have hooked noses;
+
+[16674] (2) A man who is a good hand at a bargain always makes money;
+
+[16737] (3) No Jew is ever a bad hand at a bargain.
+
+[16782] Univ. "persons"; a = good hands at a bargain; b = hook-nosed; c = Jews; d = making money.
+
+[16873] (1) All ducks in this village, that are branded 'B,' belong to Mrs. Bond;
+
+[16948] (2) Ducks in this village never wear lace collars, unless they are branded 'B';
+
+[17029] (3) Mrs. Bond has no gray ducks in this village.
+
+[17079] Univ. "ducks in this village"; a = belonging to Mrs. Bond; b = branded 'B'; c = gray; d = wearing lace-collars.
+
+[17192] (1) All the old articles in this cupboard are cracked;
+
+[17248] (2) No jug in this cupboard is new;
+
+[17285] (3) Nothing in this cupboard, that is cracked, will hold water.
+
+[17350] Univ. "things in this cupboard"; a = able to hold water; b = cracked; c = jugs; d = old.
+
+[17440] (1) All unripe fruit is unwholesome;
+
+[17478] (2) All these apples are wholesome;
+
+[17515] (3) No fruit, grown in the shade, is ripe.
+
+[17559] Univ. "fruit"; a = grown in the shade; b = ripe; c = these apples; d = wholesome.
+
+[17642] (1) Puppies, that will not lie still, are always grateful for the loan of a skipping-rope;
+
+[17734] (2) A lame puppy would not say "thank you" if you offered to lend it a skipping-rope.
+
+[17821] (3) None but lame puppies ever care to do worsted-work.
+
+[17878] Univ. "puppies"; a = caring to do worsted-work; b = grateful for the loan of a skipping-rope; c = lame; d = willing to lie still. pg115 =19.=
+
+[18021] (1) No name in this list is unsuitable for the hero of a romance;
+
+[18088] (2) Names beginning with a vowel are always melodious;
+
+[18144] (3) No name is suitable for the hero of a romance, if it begins with a consonant.
+
+[18227] Univ. "names"; a = beginning with a vowel; b = in this list; c = melodious; d = suitable for the hero of a romance.
+
+[18344] (1) All members of the House of Commons have perfect self-command;
+
+[18412] (2) No M.P., who wears a coronet, should ride in a donkey-race;
+
+[18477] (3) All members of the House of Lords wear coronets.
+
+[18531] Univ. "M.P.'s"; a = belonging to the House of Commons; b = having perfect self-command; c = one who may ride in a donkey-race; d = wearing a coronet.
+
+[18682] (1) No goods in this shop, that have been bought and paid for, are still on sale;
+
+[18765] (2) None of the goods may be carried away, unless labeled "sold";
+
+[18832] (3) None of the goods are labeled "sold," unless they have been bought and paid for.
+
+[18918] Univ. "goods in this shop"; a = allowed to be carried away; b = bought and paid for; c = labeled "sold"; d = on sale.
+
+[19037] (1) No acrobatic feats, that are not announced in the bills of a circus, are ever attempted there;
+
+[19137] (2) No acrobatic feat is possible, if it involves turning a quadruple somersault;
+
+[19220] (3) No impossible acrobatic feat is ever announced in a circus bill.
+
+[19290] Univ. "acrobatic feats"; a = announced in the bills of a circus; b = attempted in a circus; c = involving the turning of a quadruple somersault; d = possible.
+
+[19450] (1) Nobody, who really appreciates Beethoven, fails to keep silence while the Moonlight-Sonata is being played;
+
+[19563] (2) Guinea-pigs are hopelessly ignorant of music;
+
+[19614] (3) No one, who is hopelessly ignorant of music, ever keeps silence while the Moonlight-Sonata is being played.
+
+[19727] Univ. "creatures"; a = guinea-pigs; b = hopelessly ignorant of music; c = keeping silence while the Moonlight-Sonata is being played; d = really appreciating Beethoven. pg116 =24.=
+
+[19909] (1) Coloured flowers are always scented;
+
+[19951] (2) I dislike flowers that are not grown in the open air;
+
+[20010] (3) No flowers grown in the open air are colourless.
+
+[20064] Univ. "flowers"; a = coloured; b = grown in the open air; c = liked by me; d = scented.
+
+[20153] (1) Showy talkers think too much of themselves;
+
+[20202] (2) No really well-informed people are bad company;
+
+[20255] (3) People who think too much of themselves are not good company.
+
+[20322] Univ. "persons"; a = good company; b = really well-informed; c = showy talkers; d = thinking too much of one's self.
+
+[20440] (1) No boys under 12 are admitted to this school as boarders;
+
+[20503] (2) All the industrious boys have red hair;
+
+[20548] (3) None of the day-boys learn Greek;
+
+[20587] (4) None but those under 12 are idle.
+
+[20626] Univ. "boys in this school"; a = boarders; b = industrious; c = learning Greek; d = red-haired; e = under 12.
+
+[20737] (1) The only articles of food, that my doctor allows me, are such as are not very rich;
+
+[20826] (2) Nothing that agrees with me is unsuitable for supper;
+
+[20885] (3) Wedding-cake is always very rich;
+
+[20924] (4) My doctor allows me all articles of food that are suitable for supper.
+
+[21000] Univ. "articles of food"; a = agreeing with me; b = allowed by my doctor; c = suitable for supper; d = very rich; e = wedding-cake.
+
+[21133] (1) No discussions in our Debating-Club are likely to rouse the British Lion, so long as they are checked when they become too noisy;
+
+[21268] (2) Discussions, unwisely conducted, endanger the peacefulness of our Debating-Club;
+
+[21354] (3) Discussions, that go on while Tomkins is in the Chair, are likely to rouse the British Lion;
+
+[21452] (4) Discussions in our Debating-Club, when wisely conducted, are always checked when they become too noisy.
+
+[21561] Univ. "discussions in our Debating-Club"; a = checked when too noisy; b = dangerous to the peacefulness of our Debating-Club; c = going on while Tomkins is in the chair; d = likely to rouse the British Lion; e = wisely conducted. pg117 =29.=
+
+[21804] (1) All my sons are slim;
+
+[21831] (2) No child of mine is healthy who takes no exercise;
+
+[21887] (3) All gluttons, who are children of mine, are fat;
+
+[21941] (4) No daughter of mine takes any exercise.
+
+[21986] Univ. "my children"; a = fat; b = gluttons; c = healthy; d = sons; e = taking exercise.
+
+[22075] (1) Things sold in the street are of no great value;
+
+[22129] (2) Nothing but rubbish can be had for a song;
+
+[22177] (3) Eggs of the Great Auk are very valuable;
+
+[22223] (4) It is only what is sold in the street that is really *rubbish*.
+
+[22292] Univ. "things"; a = able to be had for a song; b = eggs of the Great Auk; c = rubbish; d = sold in the street; e = very valuable.
+
+[22423] (1) No books sold here have gilt edges, except what are in the front shop;
+
+[22499] (2) All the *authorised* editions have red labels;
+
+[22551] (3) All the books with red labels are priced at 5s. and upwards;
+
+[22617] (4) None but *authorised* editions are ever placed in the front shop.
+
+[22688] Univ. "books sold here"; a = authorised editions; b = gilt-edged; c = having red labels; d = in the front shop; e = priced at 5s. and upwards.
+
+[22832] (1) Remedies for bleeding, which fail to check it, are a mockery;
+
+[22899] (2) Tincture of Calendula is not to be despised;
+
+[22949] (3) Remedies, which will check the bleeding when you cut your finger, are useful;
+
+[23032] (4) All mock remedies for bleeding are despicable.
+
+[23084] Univ. "remedies for bleeding"; a = able to check bleeding; b = despicable; c = mockeries; d = Tincture of Calendula; e = useful when you cut your finger.
+
+[23239] (1) None of the unnoticed things, met with at sea, are mermaids;
+
+[23305] (2) Things entered in the log, as met with at sea, are sure to be worth remembering;
+
+[23391] (3) I have never met with anything worth remembering, when on a voyage;
+
+[23464] (4) Things met with at sea, that are noticed, are sure to be recorded in the log;
+
+[23547] Univ. "things met with at sea"; a = entered in log; b = mermaids; c = met with by me; d = noticed; e = worth remembering. pg118 =34.=
+
+[23682] (1) The only books in this library, that I do *not* recommend for reading, are unhealthy in tone;
+
+[23781] (2) The bound books are all well-written;
+
+[23824] (3) All the romances are healthy in tone;
+
+[23867] (4) I do not recommend you to read any of the unbound books.
+
+[23929] Univ. "books in this library"; a = bound; b = healthy in tone; c = recommended by me; d = romances; e = well-written.
+
+[24048] (1) No birds, except ostriches, are 9 feet high;
+
+[24098] (2) There are no birds in this aviary that belong to any one but *me*;
+
+[24170] (3) No ostrich lives on mince-pies;
+
+[24207] (4) I have no birds less than 9 feet high.
+
+[24251] Univ. "birds"; a = in this aviary; b = living on mince-pies; c = my; d = 9 feet high; e = ostriches.
+
+[24353] (1) A plum-pudding, that is not really solid, is mere porridge;
+
+[24418] (2) Every plum-pudding, served at my table, has been boiled in a cloth;
+
+[24491] (3) A plum-pudding that is mere porridge is indistinguishable from soup;
+
+[24565] (4) No plum-puddings are really solid, except what are served at *my* table.
+
+[24643] Univ. "plum-puddings"; a = boiled in a cloth; b = distinguishable from soup; c = mere porridge; d = really solid; e = served at my table.
+
+[24782] (1) No interesting poems are unpopular among people of real taste;
+
+[24850] (2) No modern poetry is free from affectation;
+
+[24898] (3) All *your* poems are on the subject of soap-bubbles;
+
+[24956] (4) No affected poetry is popular among people of real taste;
+
+[25019] (5) No ancient poem is on the subject of soap-bubbles.
+
+[25075] Univ. "poems"; a = affected; b = ancient; c = interesting; d = on the subject of soap-bubbles; e = popular among people of real taste; h = written by you.
+
+[25231] (1) All the fruit at this Show, that fails to get a prize, is the property of the Committee;
+
+[25325] (2) None of my peaches have got prizes;
+
+[25366] (3) None of the fruit, sold off in the evening, is unripe;
+
+[25426] (4) None of the ripe fruit has been grown in a hot-house;
+
+[25485] (5) All fruit, that belongs to the Committee, is sold off in the evening.
+
+[25560] Univ. "fruit at this Show"; a = belonging to the Committee; b = getting prizes; c = grown in a hot-house; d = my peaches; e = ripe; h = sold off in the evening. pg119 =39.=
+
+[25734] (1) Promise-breakers are untrustworthy;
+
+[25775] (2) Wine-drinkers are very communicative;
+
+[25818] (3) A man who keeps his promises is honest;
+
+[25863] (4) No teetotalers are pawnbrokers;
+
+[25900] (5) One can always trust a very communicative person.
+
+[25955] Univ. "persons"; a = honest; b = pawnbrokers; c = promise-breakers; d = trustworthy; e = very communicative; h = wine-drinkers.
+
+[26084] (1) No kitten, that loves fish, is unteachable;
+
+[26133] (2) No kitten without a tail will play with a gorilla;
+
+[26189] (3) Kittens with whiskers always love fish;
+
+[26234] (4) No teachable kitten has green eyes;
+
+[26275] (5) No kittens have tails unless they have whiskers.
+
+[26329] Univ. "kittens"; a = green-eyed; b = loving fish; c = tailed; d = teachable; e = whiskered; h = willing to play with a gorilla.
+
+[26458] (1) All the Eton men in this College play cricket;
+
+[26510] (2) None but the Scholars dine at the higher table;
+
+[26563] (3) None of the cricketers row;
+
+[26596] (4) *My* friends in this College all come from Eton;
+
+[26650] (5) All the Scholars are rowing-men.
+
+[26688] Univ. "men in this College"; a = cricketers; b = dining at the higher table; c = Etonians; d = my friends; e = rowing-men; h = Scholars.
+
+[26826] (1) There is no box of mine here that I dare open;
+
+[26878] (2) My writing-desk is made of rose-wood;
+
+[26921] (3) All my boxes are painted, except what are here;
+
+[26974] (4) There is no box of mine that I dare not open, unless it is full of live scorpions;
+
+[27062] (5) All my rose-wood boxes are unpainted.
+
+[27105] Univ. "my boxes"; a = boxes that I dare open; b = full of live scorpions; c = here; d = made of rose-wood; e = painted; h = writing-desks.
+
+[27245] (1) Gentiles have no objection to pork;
+
+[27286] (2) Nobody who admires pigsties ever reads Hogg's poems;
+
+[27344] (3) No Mandarin knows Hebrew;
+
+[27375] (4) Every one, who does not object to pork, admires pigsties;
+
+[27438] (5) No Jew is ignorant of Hebrew.
+
+[27473] Univ. "persons"; a = admiring pigsties; b = Jews; c = knowing Hebrew; d = Mandarins; e = objecting to pork; h = reading Hogg's poems. pg120 =44.=
+
+[27620] (1) All writers, who understand human nature, are clever;
+
+[27679] (2) No one is a true poet unless he can stir the hearts of men;
+
+[27744] (3) Shakespeare wrote "Hamlet";
+
+[27777] (4) No writer, who does not understand human nature, can stir the hearts of men;
+
+[27859] (5) None but a true poet could have written "Hamlet.";
+
+[27915] Univ. "writers"; a = able to stir the hearts of men; b = clever; c = Shakespeare; d = true poets; e = understanding human nature; h = writer of 'Hamlet.'
+
+[28070] (1) I despise anything that cannot be used as a bridge;
+
+[28127] (2) Everything, that is worth writing an ode to, would be a welcome gift to me;
+
+[28208] (3) A rainbow will not bear the weight of a wheel-barrow;
+
+[28267] (4) Whatever can be used as a bridge will bear the weight of a wheel-barrow;
+
+[28345] (5) I would not take, as a gift, a thing that I despise.
+
+[28403] Univ. "things"; a = able to bear the weight of a wheel-barrow; b = acceptable to me; c = despised by me; d = rainbows; e = useful as a bridge; h = worth writing an ode to.
+
+[28576] (1) When I work a Logic-example without grumbling, you may be sure it is one that I can understand;
+
+[28677] (2) These Soriteses are not arranged in regular order, like the examples I am used to;
+
+[28765] (3) No easy example ever make my head ache;
+
+[28810] (4) I ca'n't understand examples that are not arranged in regular order, like those I am used to;
+
+[28909] (5) I never grumble at an example, unless it gives me a headache.
+
+[28976] Univ. "Logic-examples worked by me"; a = arranged in regular order, like the examples I am used to; b = easy; c = grumbled at by me; d = making my head ache; e = these Soriteses; h = understood by me.
+
+[29178] (1) Every idea of mine, that cannot be expressed as a Syllogism, is really ridiculous;
+
+[29266] (2) None of my ideas about Bath-buns are worth writing down;
+
+[29328] (3) No idea of mine, that fails to come true, can be expressed as a Syllogism;
+
+[29408] (4) I never have any really ridiculous idea, that I do not at once refer to my solicitor;
+
+[29499] (5) My dreams are all about Bath-buns;
+
+[29539] (6) I never refer any idea of mine to my solicitor, unless it is worth writing down.
+
+[29625] Univ. "my ideas"; a = able to be expressed as a Syllogism; b = about Bath-buns; c = coming true; d = dreams; e = really ridiculous h = referred to my solicitor; k = worth writing down. pg121 =48.=
+
+[29823] (1) None of the pictures here, except the battle-pieces, are valuable;
+
+[29895] (2) None of the unframed ones are varnished;
+
+[29941] (3) All the battle-pieces are painted in oils;
+
+[29989] (4) All those that have been sold are valuable;
+
+[30038] (5) All the English ones are varnished;
+
+[30079] (6) All those in frames have been sold.
+
+[30120] Univ. "the pictures here"; a = battle-pieces; b = English; c = framed; d = oil-paintings; e = sold; h = valuable; k = varnished.
+
+[30250] (1) Animals, that do not kick, are always unexcitable;
+
+[30306] (2) Donkeys have no horns;
+
+[30334] (3) A buffalo can always toss one over a gate;
+
+[30382] (4) No animals that kick are easy to swallow;
+
+[30429] (5) No hornless animal can toss one over a gate;
+
+[30479] (6) All animals are excitable, except buffaloes.
+
+[30529] Univ. "animals"; a = able to toss one over a gate; b = buffaloes; c = donkeys; d = easy to swallow; e = excitable; h = horned; k = kicking.
+
+[30670] (1) No one, who is going to a party, ever fails to brush his hair;
+
+[30738] (2) No one looks fascinating, if he is untidy;
+
+[30786] (3) Opium-eaters have no self-command;
+
+[30826] (4) Every one, who has brushed his hair, looks fascinating;
+
+[30887] (5) No one wears white kid gloves, unless he is going to a party;
+
+[30954] (6) A man is always untidy, if he has no self-command.
+
+[31010] Univ. "persons"; a = going to a party; b = having brushed one's hair; c = having self-command; d = looking fascinating; e = opium-eaters; h = tidy; k = wearing white kid gloves.
+
+[31189] (1) No husband, who is always giving his wife new dresses, can be a cross-grained man;
+
+[31277] (2) A methodical husband always comes home for his tea;
+
+[31334] (3) No one, who hangs up his hat on the gas-jet, can be a man that is kept in proper order by his wife;
+
+[31439] (4) A good husband is always giving his wife new dresses;
+
+[31498] (5) No husband can fail to be cross-grained, if his wife does not keep him in proper order;
+
+[31591] (6) An unmethodical husband always hangs up his hat on the gas-jet.
+
+[31660] Univ. "husbands"; a = always coming home for his tea; b = always giving his wife new dresses; c = cross-grained; d = good; e = hanging up his hat on the gas-jet; h = kept in proper order; k = methodical. pg122 =52.=
+
+[31877] (1) Everything, not absolutely ugly, may be kept in a drawing-room;
+
+[31946] (2) Nothing, that is encrusted with salt, is ever quite dry;
+
+[32008] (3) Nothing should be kept in a drawing-room, unless it is free from damp;
+
+[32084] (4) Bathing-machines are always kept near the sea;
+
+[32136] (5) Nothing, that is made of mother-of-pearl, can be absolutely ugly;
+
+[32207] (6) Whatever is kept near the sea gets encrusted with salt.
+
+[32268] Univ. "things"; a = absolutely ugly; b = bathing-machines; c = encrusted with salt; d = kept near the sea; e = made of mother-of-pearl; h = quite dry; k = things that may be kept in a drawing-room.
+
+[32467] (1) I call no day "unlucky," when Robinson is civil to me;
+
+[32527] (2) Wednesdays are always cloudy;
+
+[32562] (3) When people take umbrellas, the day never turns out fine;
+
+[32625] (4) The only days when Robinson is uncivil to me are Wednesdays;
+
+[32691] (5) Everybody takes his umbrella with him when it is raining;
+
+[32754] (6) My "lucky" days always turn out fine.
+
+[32797] Univ. "days"; a = called by me 'lucky'; b = cloudy; c = days when people take umbrellas; d = days when Robinson is civil to me; e = rainy; h = turning out fine; k = Wednesdays.
+
+[32975] (1) No shark ever doubts that it is well fitted out;
+
+[33029] (2) A fish, that cannot dance a minuet, is contemptible;
+
+[33087] (3) No fish is quite certain that it is well fitted out, unless it has three rows of teeth;
+
+[33180] (4) All fishes, except sharks, are kind to children;
+
+[33234] (5) No heavy fish can dance a minuet;
+
+[33273] (6) A fish with three rows of teeth is not to be despised.
+
+[33333] Univ. "fishes"; a = able to dance a minuet; b = certain that he is well fitted out; c = contemptible; d = having 3 rows of teeth; e = heavy; h = kind to children; k = sharks.
+
+[33509] (1) All the human race, except my footmen, have a certain amount of common-sense;
+
+[33592] (2) No one, who lives on barley-sugar, can be anything but a mere baby;
+
+[33665] (3) None but a hop-scotch player knows what real happiness is;
+
+[33729] (4) No mere baby has a grain of common sense;
+
+[33776] (5) No engine-driver ever plays hop-scotch;
+
+[33821] (6) No footman of mine is ignorant of what true happiness is.
+
+[33884] Univ. "human beings"; a = engine-drivers; b = having common sense; c = hop-scotch players; d = knowing what real happiness is; e = living on barley-sugar; h = mere babies; k = my footmen. pg123 =56.=
+
+[34085] (1) I trust every animal that belongs to me;
+
+[34131] (2) Dogs gnaw bones;
+
+[34153] (3) I admit no animals into my study, unless they will beg when told to do so;
+
+[34233] (4) All the animals in the yard are mine;
+
+[34276] (5) I admit every animal, that I trust, into my study;
+
+[34332] (6) The only animals, that are really willing to beg when told to do so, are dogs.
+
+[34416] Univ. "animals"; a = admitted to my study; b = animals that I trust; c = dogs; d = gnawing bones; e = in the yard; h = my; k = willing to beg when told.
+
+[34570] (1) Animals are always mortally offended if I fail to notice them;
+
+[34638] (2) The only animals that belong to *me* are in that field;
+
+[34699] (3) No animal can guess a conundrum, unless it has been properly trained in a Board-School;
+
+[34792] (4) None of the animals in that field are badgers;
+
+[34844] (5) When an animal is mortally offended, it always rushes about wildly and howls;
+
+[34927] (6) I never notice any animal, unless it belongs to me;
+
+[34984] (7) No animal, that has been properly trained in a Board-School, ever rushes about wildly and howls.
+
+[35086] Univ. "animals"; a = able to guess a conundrum; b = badgers; c = in that field; d = mortally offended; e = my; h = noticed by me; k = properly trained in a Board-School; l = rushing about wildly and howling.
+
+[35295] (1) I never put a cheque, received by me, on that file, unless I am anxious about it;
+
+[35382] (2) All the cheques received by me, that are not marked with a cross, are payable to bearer;
+
+[35476] (3) None of them are ever brought back to me, unless they have been dishonoured at the Bank;
+
+[35570] (4) All of them, that are marked with a cross, are for amounts of over £100;
+
+[35648] (5) All of them, that are not on that file, are marked "not negotiable";
+
+[35722] (6) No cheque of yours, received by me, has ever been dishonoured;
+
+[35790] (7) I am never anxious about a cheque, received by me, unless it should happen to be brought back to me;
+
+[35896] (8) None of the cheques received by me, that are marked "not negotiable," are for amounts of over £100.
+
+[36001] Univ. "cheques received by me"; a = brought back to me; b = cheques that I am anxious about; c = honoured; d = marked with a cross; e = marked 'not negotiable'; h = on that file; k = over £100; l = payable to bearer; m = your. pg124 =59.=
+
+[36241] (1) All the dated letters in this room are written on blue paper;
+
+[36308] (2) None of them are in black ink, except those that are written in the third person;
+
+[36395] (3) I have not filed any of them that I can read;
+
+[36446] (4) None of them, that are written on one sheet, are undated;
+
+[36509] (5) All of them, that are not crossed, are in black ink;
+
+[36567] (6) All of them, written by Brown, begin with "Dear Sir";
+
+[36626] (7) All of them, written on blue paper, are filed;
+
+[36678] (8) None of them, written on more than one sheet, are crossed;
+
+[36742] (9) None of them, that begin with "Dear Sir," are written in the third person.
+
+[36822] Univ. "letters in this room"; a = beginning with "Dear Sir"; b = crossed; c = dated; d = filed; e = in black ink; h = in third person; k = letters that I can read; l = on blue paper; m = on one sheet; n = written by Brown.
+
+[37046] (1) The only animals in this house are cats;
+
+[37092] (2) Every animal is suitable for a pet, that loves to gaze at the moon;
+
+[37165] (3) When I detest an animal, I avoid it;
+
+[37207] (4) No animals are carnivorous, unless they prowl at night;
+
+[37268] (5) No cats fails to kill mice;
+
+[37301] (6) No animals ever take to me, except what are in this house;
+
+[37365] (7) Kangaroos are not suitable for pets;
+
+[37407] (8) None but carnivora kill mice;
+
+[37442] (9) I detest animals that do not take to me;
+
+[37488] (10) Animals, that prowl at night, always love to gaze at the moon.
+
+[37557] Univ. "animals"; a = avoided by me; b = carnivora; c = cats; d = detested by me; e = in this house; h = kangaroos; k = killing mice; l = loving to gaze at the moon; m = prowling at night; n = suitable for pets; r = taking to me.

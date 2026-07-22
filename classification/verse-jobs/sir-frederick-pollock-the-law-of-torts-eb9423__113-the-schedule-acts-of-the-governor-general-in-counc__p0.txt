@@ -1,0 +1,1395 @@
+WORK: The Law of Torts  (slug: sir-frederick-pollock-the-law-of-torts-eb9423)
+
+CHAPTER: 113-the-schedule-acts-of-the-governor-general-in-counc
+
+
+
+[0] Measure of damages in general.71. A person who has been wronged is entitled to recover from the wrongdoer as damages such a sum as in the judgment of the Court will fairly compensate him for the harm or loss he has sustained.
+
+[227] Damages for injury to specific property.72. Where specific property has been wrongfully dealt with, the Court may award damages equivalent to the extent to which the value of that property is diminished, but is not bound to award as compensation the cost of replacing the property in its former condition.
+
+[534] A. wrongfully digs out and carries away a quantity of earth from Z.’s land. Z. must make compensation to A., but A. cannot claim to fix the damages by what would be the cost of replacing the earth dug out.
+
+[741] Aggravation or mitigation of damages.73. In awarding damages for wrongs the Court may have regard to the knowledge, intention, and conduct of either or both parties, and may increase or diminish the amount of its award accordingly.
+
+[974] 1. A. has defamed Z. A. may show in mitigation of damages that when he made the defamatory statement he believed on reasonable grounds that it was true.
+
+[1128] 2. A. has negligently pulled down a building on his own land to the damage of Z.’s adjacent land. Z. may show in aggravation of damages that A. wished to disturb Z. in his occupation and purposely caused the work to be done in a reckless manner.
+
+[1375] printed by c. f. roworth, great new street, fetter lane, e.c.
+
+[1438] Lord Blackburn is now (1895) the only survivor.
+
+[1487] Appendix A.
+
+[1500] The first, or almost the first, writer who has clearly called attention to it is Sir William Markby. See the chapter on Liability in his “Elements of Law.”
+
+[1657] Comm. iii. 118.
+
+[1674] In some cases the really effectual remedies were administered by the Court of Chancery, but only as auxiliary to the legal right, which it was often necessary to establish in an action at law before the Court of Chancery would interfere.
+
+[1913] Trespass to land may or may not be an exception, according to the view we take of the nature of the liabilities enforced by the possessory remedies of the Roman law. Some modern authorities, though not most, regard these as ex delicto.
+
+[2150] Per Cur. Entick v. Carrington, 19 St. Tr. 1066.
+
+[2199] See Hollins v. Fowler, L. R. 7 H. L. 757, 44 L. J. Q. B. 169.
+
+[2262] How far such a doctrine can be theoretically or historically justified is not an open question for English courts of justice, for it has been explicitly affirmed by the House of Lords: Rylands v. Fletcher (1868), L. R. 3 H. L. 330, 37 L. J. Ex. 161.
+
+[2513] Compare the statement of “duty towards my neighbour,” in the Church Catechism, probably from the hand of Goodrich, Bishop of Ely, who was a learned civilian: “To hurt nobody by word nor deed: To be true and just in all my dealing . . . .”
+
+[2753] Lord O’Hagan, L. R. 7 H. L. at p. 799.
+
+[2793] The writ of right (Glanvill, Bk. i. c. 6) runs thus: “Rex vicecomiti salutem: Praecipe A. quod sine dilatione reddat B. unam hidam terrae in villa illa, unde idem B. queritur quod praedictus A. ei deforceat: et nisi fecerit, summone eum,” &c. The writ of debt (Bk. x. c. 2) thus: “Rex vicecomiti salutem: Praecipe N. quod iuste et sine dilatione reddat R. centum marcas quas ei debet, ut dicit, et unde queritur quod ipse ei iniuste deforceat. Et nisi fecerit, summone eum,” &c. The writs of covenant and account, which were developed later, also contain the characteristic words iuste et sine dilatione.
+
+[3399] Blackstone, iii. 122; F. N. B. 92. The mark of this class of actions is the conclusion of the writ contra pacem. Writs of assize, including the assize of nuisance, did not so conclude, but show analogies of form to the writ of trespass in other respects. Actions on the case might be founded on other writs besides that of trespass, e.g., deceit, which contributed largely to the formation of the action of assumpsit. The writ of trespass itself is by no means one of the most ancient: see F. W. Maitland in Harv. Law Rev. iii. 217—219.
+
+[3937] Not retaliation. Early Germanic law shows no trace of retaliation in the strict sense. A passage in the introduction to Alfred’s laws, copied from the Book of Exodus, is no real exception.
+
+[4127] For the advantages of suing in case over the older forms of actions, see Blackstone, iii. 153, 155. The reason given at p. 152 for the wager of law (as to which see Co. Litt. 295 a) being allowed in debt and detinue is some one’s idle guess, due to mere ignorance of the earlier history.
+
+[4416] Except what may be implied from the technical rule that the word debet was proper only in an action for a sum of money between the original parties to the contract: F. N. B. 119; Blackstone, iii. 156.
+
+[4618] Bryant v. Herbert (1878), 3 C. P. Div. 389, 47 L. J. C. P. 670.
+
+[4683] In his edition of the Institutes, note to Bk. iv. tit. 1, p. 513, 2nd ed.
+
+[4758] Rylands v. Fletcher, L. R. 3 H. L. 330, 37 L. J. Ex. 161.
+
+[4817] Austin’s perverse and unintelligent criticism of this perfectly rational terminology has been treated with far more respect than it deserves. It is true, however, that the application of the term in the Institutes is not quite consistent or complete. See Mr. Moyle’s notes on I. iv. 5.
+
+[5104] L. R. 3 H. L. 330. See Ch. XII. below.
+
+[5144] In Gaius iii. 223, 224, the contrast between the ancient law of fixed penalties and the modern law of damages assessed by judicial authority is clearly shown. The student will remember that, as regards the stage of development attained, the law of Justinian, and often that of Gaius, is far more modern than the English law of the Year-Books. Perhaps the historical contrast holds only in Europe: see a note in L. Q. R. ix. 97, showing that among the Kachins on the Burmese frontier claims for unliquidated damages are not only known but freely assignable.
+
+[5702] The developed Roman law had either attained or was on the point of attaining a like generality of application, “Denique aliis pluribus modis admitti iniuriam manifestum est”: I. iv. 4, 1.
+
+[5891] Gully v. Smith (1883) 12 Q. B. D. 121, 53 L. J. M. C. 35.
+
+[5950] Atkinson v. Newcastle Waterworks Co. (1877) 2 Ex. Div. 441, 46 L. J. Ex. 775.
+
+[6029] Gorris v. Scott (1874) L. R. 9 Ex. 125, 43 L. J. Ex. 92; Ward v. Hobbs (1878) 4 App. Ca. 13, 23, 48 L. J. Q. B. 281.
+
+[6147] D. 50. 17, de div. reg. iuris antiqui, 132; cf. D. 9. 2, ad legem Aquiliam, 8. Both passages are from Gaius.
+
+[6257] Hammack v. White (1862) 11 C. B. N. S. 588, 31 L. J. C. P. 129; Holmes v. Mather (1875) L. R. 10 Ex. 261, 44 L. J. Ex. 176.
+
+[6382] For shortness’ sake I shall often use the word “act” alone as equivalent to “act or default.”
+
+[6477] Maxims of the Law, Reg. 1. It is remarkable that not one of the examples adduced by Bacon belongs to the law of torts, or raises a question of the measure of damages. There could be no stronger illustration of the extremely modern character of the whole subject as now understood.
+
+[6759] Hadley v. Baxendale (1854) 9 Ex. 341, 23 L. J. Ex. 179.
+
+[6816] Whether it is practically worth while to sue on a contract must, indeed, often turn on the measure of damages. But this need not concern us here.
+
+[6963] In criminal law there is some difficulty in the case of attempted personal offences. There is no doubt that if A. shoots and kills or wounds X., under the belief that the man he shoots at is Z., he is in no way excused by the mistake, and cannot be heard to say that he had no unlawful intention as to X.: R. v. Smith (1855) Dears. 559. But if he misses, it seems doubtful whether he can be said to have attempted to kill either X. or Z. Cf. R. v. Latimer (1886) 17 Q. B. D. 359, 55 L. J. M. C. 135. In Germany there is a whole literature of modern controversy on the subject. See Dr. R. Franz, “Vorstellung und Wille in der modernen Doluslehre,” Ztsch. für die gesamte Strafrechtswissenschaft, x. 169.
+
+[7667] Scott v. Shepherd, 2 W. Bl. 892; and in 1 Sm. L. C. No doubt was entertained of Shepherd’s liability; the only question being in what form of action he was liable. The inference of wrongful intention is in this case about as obvious as it can be; it was, however, not necessary, squib-throwing, as Nares J. pointed out, having been declared a nuisance by statute.
+
+[8032] Year-Book 17 Edw. IV. 1, translated in Blackburn on Sale, at p. 193 in 1st ed., 261 in 2nd ed. by Graham.
+
+[8139] “Normal, or likely or probable of occurrence in the ordinary course of things, would perhaps be the better expression”: Grove J. in Smith v. Green, 1 C. P. D. at p. 96. But what is normal or likely to a specialist may not be normal or likely to a plain man’s knowledge and experience.
+
+[8425] Thus Quain J. said (Sneesby v. L. & Y. Rail. Co., L. R. 9 Q. B. at p. 268): “In tort the defendant is liable for all the consequences of his illegal act, where they are not so remote as to have no direct connexion with the act, as by the lapse of time for instance.”
+
+[8693] “The doctrine of causation,” said Fry L. J., “involves much difficulty in philosophy as in law”: Seton v. Lafone (1887) 19 Q. B. Div. at p. 74, 56 L. J. Q. B. 415.
+
+[8858] 4 Denio, 464. The decision seems to be generally accepted as good law.
+
+[8930] Guille v. Swan (1822) 19 Johns. 381.
+
+[8968] Per Spencer C.J. It appeared that the defendant (plaintiff in error) had called for help; but this was treated as immaterial. The recent Scottish case of Scott’s Trustees v. Moss (1889), 17 Ct. of Sess. C. 4th S. 32, is hardly so strong, for there a parachute descent was not only contemplated but advertised as a public entertainment.
+
+[9305] (1867) L. R. 3 Q. B. 25, 37 L. J. Q. B. 57.
+
+[9350] Digest of the Criminal Law, Arts. 219, 220.
+
+[9395] Alderson B. in Blyth v. Birmingham Waterworks Co. (1856) 11 Ex. 781, 25 L. J. Ex. 212. This is not a complete definition, since a man is not liable for even wilful omission without some antecedent ground of duty. But of that hereafter.
+
+[9632] Per Pollock C. B. (1850) 5 Ex. at p. 248.
+
+[9675] 9 B. & S. 303 (1868); cp. Harris v. Mobbs (Denman J. 1878) 3 Ex. D. 268, which, perhaps, goes a step farther.
+
+[9786] L. R. 9 Ex. 157, 43 L. J. Ex. 105 (1874). Cp. Hayes v. Michigan Central Rail. Co. (1883) 111 U. S. 228.
+
+[9891] Amphlett B. at p. 162.
+
+[9915] L. R. 5 Ex. 204, 39 L. J. Ex. 163 (1870); in Ex. Ch. L. R. 7 Ex. 247 (1872). This comes near the case of letting loose a dangerous animal; a drifting vessel is in itself a dangerous thing. In The George and Richard, L. R. 3 A. & E. 466, a brig by negligent navigation ran into a bark, and disabled her; the bark was driven on shore; held that the owners of the brig were liable for injury ensuing from the wreck of the bark to persons on board her.
+
+[10365] 1 Q. B. 29, 10 L. J. Q. B. 73 (1841); cp. Clark v. Chambers, 3 Q. B. D. at p. 331.
+
+[10449] This case was relied on in Massachusetts in Powell v. Deveney (1849) 3 Cush. 300, where the defendant’s truck had, contrary to local regulations, been left out in the street for the night, the shafts being shored up and projecting into the road; a second truck was similarly placed on the opposite side of the road: the driver of a third truck, endeavouring with due caution, as it was found, to drive past through the narrowed fairway thus left, struck the shafts of the defendant’s truck, which whirled round and struck and injured the plaintiff, who was on the sidewalk. Held, the defendant was liable. If the case had been that the shafts of the truck remained on the sidewalk, and the plaintiff afterwards stumbled on them in the dark, it would be an almost exact parallel to Clark v. Chambers (3 Q. B. D. 327, 47 L. J. Q. B. 427; see below).
+
+[11298] Cox v. Burbidge (1863) 13 C. B. N. S. 430, 32 L. J. C. P. 89.
+
+[11361] Lee v. Riley (1865) 18 C. B. N. S. 722, 34 L. J. C. P. 212. Both decisions were unanimous, and two judges (Erle C. J. and Keating J.) took partin both. Cp. Ellis v. Loftus Iron Co., L. R. 10 C. P. 10, 44 L. J. C. P. 24.
+
+[11582] 3 App. Ca. 193, 47 L. J. C. P. 303 (1877). Cp. Cobb v. G. W. R. Co. ’93, 1 Q. B. 459, 62 L. J. Q. B. 335, 4 R. 283.
+
+[11699] Blyth v. Birmingham Waterworks Co. (1856) 11 Ex. 781, 25 L. J. Ex. 212. The question was not really of remoteness of damage, but whether there was any evidence of negligence at all; nevertheless the case is instructive for comparison with the others here cited. Cp. Mayne on Damages, Preface to the first edition.
+
+[12014] L. R. 7 C. P. 253, 41 L. J. C. P. 95 (1872).
+
+[12060] So the Court found, having power to draw inferences of fact.
+
+[12122] Grove J.
+
+[12132] Keating J.
+
+[12144] Bovill C. J.
+
+[12158] 3 Q. B. D. 327, 47 L. J. Q. B. 427 (1878).
+
+[12202] Cockburn C. J. and Manisty J. The point chiefly argued for the defendant seems to have been that the intervention of a third person’s act prevented him from being liable: a position which is clearly untenable (see Scott v. Shepherd); but the judgment is of wider scope.
+
+[12473] 3 Q. B. D. at p. 338.
+
+[12496] Compare the cases on slander collected in the notes to Vicars v. Wilcocks, 2 Sm. L. C. Compare also, as to consequential liability for disregard of statutory provisions, Gorris v. Scott (1874) L. R. 9 Ex. 125, 43 L. J. Ex. 92.
+
+[12724] P. 37, above.
+
+[12739] Victorian Railways Commissioners v. Coultas, 13 App. Ca. 222, 57 L. J. P. C. 69.
+
+[12821] It is by no means clear that such was the intention or effect. See the report, 12 V. L. R. 895. The physical injuries were substantial enough, for they included a miscarriage (ibid.). Whether that was really due to the fright was eminently a question of fact, and this was not disputed or discussed.
+
+[13122] This must be so unless we go back to the old Germanic method of a fixed scale of compensation. So, as regards the measure of damages when liability is not denied, the defendant has to take his chance of the person disabled being a workman, or a tradesman in a small way, or a physician with a large practice.
+
+[13432] Dig. Cr. Law, note to art. 221; Hist. Cr. Law, iii. 5.
+
+[13488] Cp. Mr. Beven’s criticism of this case, Principles of the Law of Negligence, 66—71. As he justly points out, it has never been questioned that an action may lie for damage done by an animal which has been frightened by the defendant’s negligent act: Manchester South Jn. R. Co. v. Fullarton (1863) 14 C. B. N. S. 54; Simkin v. L. & N. W. R. Co. (1888) 21 Q. B. Div. 453; 59 L. T. 797; Brown v. Eastern and Midlands R. Co. (1889) 22 Q. B. Div. 391; 58 L. J. Q. B. 212. The Exchequer Division in Ireland has refused to follow this doctrine of the Judicial Committee: Bell v. G. N. R. Co. (1890) 26 L. R. Ir. 428. So has the Supreme Court of New York in an almost identical case: Mitchell v. Rochester R. Co. (1893), see (New York) Univ. Law Rev. i. 10. And see Ames, Sel. Ca. on Torts, 15, 16.
+
+[14281] Ulpian, in D. 9, 2, ad leg. Aquil. 5, § 2. Quaerimus, si furiosus damnum dederit, an legis Aquiliae actio sit? Et Pegasus negavit: quae enim in eo culpa sit, cum suae mentis non sit? Et hoc est verissimum. . . . Quod si impubes id fecerit, Labeo ait, quia furti tenetur, teneri et Aquilia eum; et hoc puto verum, si sit iam iniuriae capax.
+
+[14622] 33 & 34 Vict. c. 23, ss. 8, 30. Can he sue for an injunction? Or for a dissolution of marriage or judicial separation?
+
+[14742] See De Wahl v. Braune (1856) 1 H. & N. 178, 25 L. J. Ex. 343 (alien enemy: the law must be the same of a convict).
+
+[14858] 8 T. R. 335, 4 R. R. 680, thus cited by Parke B., Fairhurst v. Liverpool Adelphi Loan Association (1854) 9 Ex. 422, 23 L. J. Ex. 163.
+
+[14993] Johnson v. Pie, 1 Sid. 258, &c. See the report fully cited by Knight Bruce, V.-C. (1847) in Stikeman v. Dawson, 1 De G. & Sm. at p. 113; cp. the remarks at p. 110.
+
+[15158] 14 C. B. N. S. 45, 32 L. J. C. P. 189 (1863).
+
+[15205] See per Willes J. If the bailment had been at will, the defendant’s act would have wholly determined the bailment, and under the old forms of pleading he would have been liable at the owner’s election in case or in trespass vi et armis. See Litt. s. 71.
+
+[15460] Lemprière v. Lange (1879) 12 Ch. D. 675; and see other cases in the writer’s “Principles of Contract,” p. 74, 6th ed.
+
+[15579] Fairhurst v. Liverpool Adelphi Loan Association (1854) 9 Ex. 422, 23 L. J. Ex. 163.
+
+[15664] 45 & 46 Vict. c. 75, s. 1. The right of action given by the statute applies to a cause of action which arose before it came into operation: Weldon v. Winslow (1884) 13 Q. B. Div. 784, 53 L. J. Q. B. 528. In such case the Statute of Limitation runs not from the committing of the wrong, but from the commencement of the Act: Lowe v. Fox (1885) 15 Q. B. Div. 667, 54 L. J. Q. B. 561.
+
+[16047] Beasley v. Roney, ’91, 1 Q. B. 509, 60 L. J. Q. B. 408.
+
+[16104] Sect. 12. A trespasser on the wife’s separate property cannot justify under the husband’s authority. Whether the husband himself could justify entering a house, his wife’s separate property, acquired as such before or since the Act, in which she is living apart, quaere: Weldon v. De Bathe (1884) 14 Q. B. Div. 339, 54 L. J. Q. B. 113.
+
+[16441] Phillips v. Barnet (1876) 1 Q. B. Div. 436, 45 L. J. Q. B. 277.
+
+[16506] Seroka v. Kattenburg (1886) 17 Q. B. Div. 177, 55 L. J. Q. B. 375.
+
+[16574] Sect. 13, which expressly provides for ante-nuptial liabilities, is rather against the existence of such a right.
+
+[16689] Johnson v. Pie, p. 50, supra (a dictum wider than the decision).
+
+[16755] Wright v. Leonard (1861) 11 C. B. N. S. 258, 30 L. J. C. P. 365, by Erle C. J. and Byles J., against Willes J. and Williams J. The judgment of Willes J. seems to me conclusive.
+
+[16933] Mayor of Manchester v. Williams, ’91, 1 Q. B. 94, 60 L. J. Q. B. 23.
+
+[17003] The difficulty felt in earlier times was one purely of process; not that a corporation was metaphysically incapable of doing wrong, but that it was not physically amenable to capias or exigent: 22 Ass. 100, pl. 67, and other authorities collected by Serjeant Manning in the notes to Maund v. Monmouthshire Canal Co., 4 M. & G. 452. But it was decided in the case just cited (1842) that trespass, as earlier in Yarborough v. Bank of England (1812) 16 East 6, 14 R. R. 272, that trover, would lie against a corporation aggregate. In Massachusetts a corporation has been held liable for the publication of a libel: Fogg v. Boston and Lowell R. Co. (1889) 148 Mass. 513. And see per Lord Bramwell, 11 App. Ca. at p. 254.
+
+[17721] Mersey Docks Trustees v. Gibbs (1864-6) L. R. 1 H. L. 93, 35 L. J. Ex. 225: see the very full and careful opinion of the judges delivered by Blackburn J., L. R. 1 H. L. pp. 102 sqq., in which the previous authorities are reviewed.
+
+[17953] Reg. v. Williams (appeal from New Zealand) 9 App. Ca. 418.
+
+[18013] L. R. 1 H. L. 107, 110.
+
+[18038] Bowen and Fry L.JJ., Finlay v. Chirney (1888) 20 Q. B. Div. 494, 502, 57 L. J. Q. B. 247: see this judgment on the history of the maxim generally.
+
+[18186] Bowker v. Evans (1885) 15 Q. B. Div. 565, 54 L. J. Q. B. 421.
+
+[18249] I. iv. 12, de perpetuis et temporalibus actionibus, 1. Another difference in favour of the Roman law is that death of a party after litis contestatio did not abate the action in any case. It has been conjectured that personalis in the English maxim is nothing but a misreading of poenalis.
+
+[18540] Newton C. J. in Year-Book 19 Hen. VI. 66, pl. 10 (ad 1440-41).
+
+[18604] 20 Q. B. Div. 503.
+
+[18624] Chamberlain v. Williamson, 2 M. & S. at p. 414, 15 R. R. at p. 297.
+
+[18693] Ticycross v. Grant (1878) 4 C. P. Div. 40, 48 L. J. C. P. 1.
+
+[18755] Cp. Bentham, Traités de Législation, vol. ii. pt. 2, c. 10.
+
+[18816] Osborn v. Gillett (1873) L. R. 8 Ex. 88, 42 L. J. Ex. 53, diss. Bramwell B.
+
+[18893] Under Lord Campbell’s Act (infra) they may have a right of suit for the benefit of certain persons, not the estate as such.
+
+[19018] E.g. Collen v. Wright, Ex. Ch. 8 E. & B. 647, 27 L. J. Q. B. 215 (agent’s implied warranty of authority—a doctrine introduced, by the way, for the very purpose of escaping the iniquitous effect of the maxim now in question, by getting a cause of action in contract which could be maintained against executors); Lumley v. Gye (1853) 2 E. & B. 216, 22 L. J. Q. B. 463, which we shall have to consider hereafter.
+
+[19429] L. R. 8 Ex. at p. 90, arg.
+
+[19457] The Roman lawyers, however, seem to have held a like view. “Liberum corpus nullam recipit aestimationem:” D. 9. 3, de his qui effud., 1, § 5; cf. h. t. 7, and D. 9. 1, si quadrupes, 3. See Grueber on the Lex Aquilia, p. 17. As to the law of Scotland, see L. Q. R. x. 182.
+
+[19730] Cp. Mr. Horace Smith’s remarks on this case (Smith on Negligence, 2nd ed. 256).
+
+[19811] See note to Pinchon’s case, 9 Co. Rep. 89 a, vol. v. p. 161 in ed. 1826.
+
+[19885] Twycross v. Grant (1878) 4 C. P. Div. 40, 45, 48 L. J. C. P. 1; Hatchard v. Mège (1887) 18 Q. B. D. 771, 56 L. J. Q. B. 397; Oakey v. Dalton (1887) 35 Ch. D. 700, 56 L. J. Ch. 823.
+
+[20067] Woodhouse v. Walker (1880) 5 Q. B. Div. 404, 49 L. J. Q. B. 609.
+
+[20133] Pulling v. G. E. R. Co. (1882) 9 Q. B. D. 110, 51 L. J. Q. B. 453; cp. Leggott v. G. N. R. Co. (1876) 1 Q. B. D. 599, 45 L. J. Q. B. 557; the earlier case of Bradshaw v. Lancashire and Yorkshire R. Co. (1875) L. R. 10 C. P. 189, 44 L. J. C. P. 148, is doubted, but distinguished as being on an action of contract.
+
+[20448] It appears to have been suggested by the law of Scotland, which already gave a remedy: see Campbell on Negligence, 20 (2nd edit.); and Blake v. Midland R. Co. (1852) 18 Q. B. 93, 21 L. J. Q. B. 233 (in argument for plaintiff).
+
+[20676] “Parent” includes father and mother, grandfather and grandmother, stepfather and stepmother. “Child” includes son and daughter, grandson and granddaughter, stepson and stepdaughter: sect. 5. It does not include illegitimate children: Dickinson v. N. E. R. Co. (1863) 2 H. & C. 735, 33 L. J. Ex. 91. There is no reason to doubt that it includes an unborn child. See The George and Richard (1871) L. R. 3 A. & E. 466, which, however, is not of judicial authority on this point, for a few months later (Smith v. Brown (1871) L. R. 6 Q. B. 729) the Court of Queen’s Bench held in prohibition that the Court of Admiralty had no jurisdiction to entertain claims under Lord Campbell’s Act; and after some doubt this opinion has been confirmed by the House of Lords: Seward v. The Vera Cruz (1884) 10 App. Ca. 59, overruling The Franconia (1877) 2 P. D. 163.
+
+[21528] Where a claim of this kind is satisfied by payment to executors without an action being brought, the Court will apportion the fund, in proceedings taken for that purpose in the Chancery Division, in like manner as a jury could have done: Bulmer v. Bulmer (1883) 25 Ch. D. 409.
+
+[21806] Also, by sect. 2, “money paid into Court may be paid in one sum, without regard to its division into shares” (marginal note).
+
+[21933] Erle C. J., Pym v. G. N. R. Co. (1863) Ex. Ch. 4 B. & S. at p. 406.
+
+[22002] Pollock C. B. in Franklin v. S. E. R. Co. (1858) 3 H. & N. at p. 213.
+
+[22073] Duckworth v. Johnson (1859) 4 H. & N. 653; 29 L. J. Ex. 25.
+
+[22134] Blake v. Midland R. Co. (1852) 18 Q. B. 93, 21 L. J. Q. B. 233. In Scotland it is otherwise: 1 Macq. 752, n.
+
+[22244] Franklin v. S. E. R. Co. (1858) 3 H. & N. 211.
+
+[22292] Hetherington v. N. E. R. Co. (1882), 9 Q. B. D. 160, 51 L. J. Q. B. 495.
+
+[22366] Dalton v. S. E. R. Co. (1858) 4 C. B. N. S. 296, 27 L. J. C. P. 227, closely following Franklin v. S. E. R. Co.
+
+[22479] Pym v. G. N. R. Co. (1863) 4 B. & S. 396, 32 L. J. Q. B. 377. The deceased had settled real estate on his eldest son, to whom other estates also passed as heir-at-law. As to the measure of damages where the deceased has insured his own life for the direct benefit of the plaintiff, see Grand Trunk R. of Canada v. Jennings (1888) 13 App. Ca. 800, 58 L. J. P. C. 1.
+
+[22845] 18 Q. B. at p. 110.
+
+[22866] Read v. G. E. R. Co. (1868) L. R. 3 Q. B. 555, 37 L. J. Q. B. 278.
+
+[22934] Cooley on Torts (Chicago, 1880) 262 sqq.; Shearman & Redfield on Negligence, ss. 293 sqq. In Arkansas the doctrine of actio personalis, &c. appears to have been wholly abrogated by statute: ib. s. 295.
+
+[23137] Hambly v. Trott, 1 Cowp. 375.
+
+[23168] The technical rule was that executors could not be sued in respect of an act of their testator in his lifetime in any form of action in which the plea was not guilty: Hambly v. Trott, 1 Cowp. 375.
+
+[23366] Phillips v. Homfray (1883) 24 Ch. Div. 439, 454, 52 L. J. Ch. 833. The authorities are fully examined in the judgment of Bowen and Cotton L.JJ. As to allowing interest in such cases, see Phillips v. Homfray, ’92, 1 Ch. 465, 61 L. J. Ch. 210, C. A.
+
+[23615] 3 & 4 Will. IV. c. 42, p. 60, above.
+
+[23653] Kirk v. Todd (1882) 21 Ch. Div. 484, 52 L. J. Ch. 224.
+
+[23709] Peek v. Gurney (1873) L. R. 6 H. L. at p. 392.
+
+[23757] 24 Ch. D. at p. 463.
+
+[23779] Cullen v. Thomson’s Trustees and Kerr, 4 Macq. 424, 432. “For the contract of agency or service cannot impose any obligation on the agent or servant to commit or assist in the committing of fraud,” or any other wrong.
+
+[23998] The distinction will be explained below.
+
+[24040] See Hyams v. Webster (1868) Ex. Ch. L. R. 4 Q. B. 138, 38 L. J. Q. B. 21.
+
+[24115] See Gray v. Pullen (1864) Ex. Ch. 5 B. & S. 970, 34 L. J. Q. B. 265.
+
+[24185] De Grey C. J. in Barker v. Braham (1773) 2 W. Bl. 866, Bigelow, L. C. 235.
+
+[24261] Ellis v. Sheffield Gas Consumers Co. (1853) 2 E. & B. 767, 23 L. J. Q. B. 42.
+
+[24340] Wilson v. Tumman (1843) 6 M. & G. 236; and Serjeant Manning’s note, ib. 239.
+
+[24418] Barwick v. English Joint Stock Bank (1867) Ex. Ch. L. R. 2 Ex. 259, 265, 36 L. J. Ex. 147. The point of the decision is that fraud is herein on the same footing as other wrongs: of which in due course.
+
+[24621] Joseph Brown Q.C. in evidence before Select Committee on Employers’ Liability, 1876, p. 38; Brett L.J., 1877, p. 114.
+
+[24740] Farwell v. Boston and Worcester Railroad Corporation (1842) 4 Met. 49, and Bigelow L. C. 688. The judgment is also reprinted in 3 Macq. 316. So, too, M. Sainctelette, a recent Continental writer on the subject, well says: “La responsabilité du fait d’autrui n’est pas une fiction inventée par la loi positive. C’est une exigence de l’ordre social:” De la Responsabilité et de la Garantie, p. 124. Paley (Mor. Phil. bk. 3, c. 11) found it difficult to refer the rule to any principle of natural justice.
+
+[25244] Barton’s Hill Coal Co. v. Reid (1858) 3 Macq. 266, 283.
+
+[25301] Tuberville v. Stampe (end of 17th century) 1 Ld. Raym. 264.
+
+[25362] Crompton J., Sadler v. Henlock (1855) 4 E. & B. 570, 578, 24 L. J. Q. B. 138, 141.
+
+[25446] Bramwell L. J., Emp. L. 1877, p. 58. An extra-judicial statement, but made on an occasion of importance by a great master of the common law.
+
+[25588] Willes J., Murray v. Currie (1870) L. R. 6 C. P. 24, 27, 40 L. J. C. P. 26.
+
+[25665] One comparatively early case, Bush v. Steinman, 1 B. & P. 404, disregards the rule; but that case has been repeatedly commented on with disapproval (see Reedie v. L. & N. W. R. Co. (1849), 4 Ex. 244, 20 L. J. Ex. 65), and is not now law. See the modern authorities well reviewed in Hillard v. Richardson (Sup. Court, Mass. 1855) 3 Gray 349; and in Bigelow L. C. Exactly the same distinction appears to be taken under the Code Napoléon in fixing the limits within which the very wide language of Art. 1384 is to be applied: Sainctelette, op. cit. 127.
+
+[26217] Pendlebury v. Greenhalgh (1875) 1 Q. B. Div. 36, 45 L. J. Q. B. 3, differing from the view of the same facts taken by the Court of Queen’s Bench in Taylor v. Greenhalgh (1874) L. R. 9 Q. B. 487, 43 L. J. Q. B. 168.
+
+[26433] Even if the driver was selected by himself: Quarman v. Burnett (1840) 6 M. & W. 499. So where a vessel is hired with its crew: Dalyell v. Tyrer (1858) 8 E. B. & E. 899, 28 L. J. Q. B. 52. So where a contractor finds horses and drivers to draw watering-carts for a municipal corporation, the driver of such a cart is not the servant of the corporation: Jones v. Corporation of Liverpool (1885) 14 Q. B. D. 890, 54 L. J. Q. B. 345; cp. Little v. Hackett (1886) 116 U.S. at pp. 371-3, 377.
+
+[26921] McLaughlin v. Pryor (1842) 4 M. & G. 48.
+
+[26963] Ib.; Burgess v. Gray (1845) 1 C. B. 578, 14 L. J. C. P. 184. It is difficult in either case to see proof of more than adoption or acquiescence. Cp. Jones v. Corporation of Liverpool (1885) 14 Q. B. D. at pp. 893-4, 54 L. J. Q. B. 345.
+
+[27199] Murray v. Currie (1870) L. R. 6 C. P. 24, 40 L. J. C. P. 26. In this case the man was actually paid by the owner’s agent and his wages deducted in account with the stevedore, which of course makes no difference in principle. Cp. Wild v. Waygood, ’92, 1 Q. B. 783, 61 L. J. Q. B. 391, C. A.
+
+[27490] Cameron v. Nystrom (J. C. from N. Z.), ’93, A. C. 308, 62 L. J. P. C. 85, 1 R. 362; cp. Union Steamship Co. v. Claridge, ’94, A. C. 185, 6 R. June, 39.
+
+[27643] Rourke v. White Moss Colliery Co. (1877) 2 C. P. Div. 205, 46 L. J. C. P. 283. See also Donovan v. Laing, ’93, 1 Q. B. 629, 4 R. 317, 63 L. J. Q. B. 25, C. A.
+
+[27803] Johnson v. Lindsay, ’91, A. C. 371, 65 L. T. 97.
+
+[27853] See Maude and Pollock, Merchant Shipping, i. 158, 4th ed.
+
+[27912] Merchant Shipping Act, 1854, s. 388; The Halley (1868) L. R. 2 P. C. at p. 201. And see Marsden on Collisions at Sea, 3rd ed. ch. 5. On the other hand there may be a statutory relation which does resemble that of master and servant for the purpose of creating a duty to the public: King v. London Improved Cab Co. (1889) 23 Q. B. Div. 281; Keen v. Henry, ’94, 1 Q. B. 292, 9 R. Feb. 164, C. A.
+
+[28307] 9 B. & C. 591 (1829).
+
+[28330] Maule J., Mitchell v. Crassweller (1853) 13 C. B. 237, 22 L. J. C. P. 100.
+
+[28406] Croft v. Alison (1821) 4 B. & A. 590.
+
+[28445] Parke B., Joel v. Morison (1834) 6 C. & P. 503: a nisi prius case, but often cited with approval; see Burns v. Poulsom (1873) L. R. 8 C. P. at p. 567, 42 L. J. C. P. 302.
+
+[28617] L. R. 3 C. P. 422 (1868).
+
+[28644] Byles J. at p. 425.
+
+[28665] (1869) L. R. 4 Q. B. 476, 38 L. J. Q. B. 223. Mitchell v. Crassweller, cited on p. 77, was a very similar case.
+
+[28778] Lush J. at p. 480. It was “an entirely new and independent journey, which had nothing at all to do with his employment:” Cockburn C. J. “Every step he drove was away from his duty:” Mellor J., ibid. But it could have made no difference if the accident had happened as he was coming back. See the next case.
+
+[29086] Rayner v. Mitchell (1877) 2 C. P. D. 357.
+
+[29129] Williams v. Jones (1865) Ex. Ch. 3 H. & C. 256, 602, 33 L. J. Ex. 297; diss. Mellor and Blackburn JJ.
+
+[29232] R. S. (now Mr. Justice) Wright, Emp. L. 1876, p. 47.
+
+[29286] Bayley v. Manchester, Sheffield, and Lincolnshire R. Co. (1872-3) L. R. 7 C. P. 415, 41 L. J. C. P. 278, in Ex. Ch. 8 C. P. 148, 42 L. J. C. P. 78.
+
+[29435] Per Willes J., Bayley v. Manchester, Sheffield, and Lincolnshire R. Co., L. R. 7 C. P. 415, 41 L. J. C. P. 278.
+
+[29548] 7 H. & N. 355, 30 L. J. Ex. 189, 327, Ex. Ch. (1861).
+
+[29603] Blackburn J., Moore v. Metrop. R. Co. (1872) L. R. 8 Q. B. 36, 39, 42 L. J. Q. B. 23.
+
+[29690] Ib., following Goff v. G. N. R. Co. (1861) 3 E. & E. 672, 30 L. J. Q. B. 148.
+
+[29769] Poulton v. L. & S. W. R. Co. (1867) L. R. 2 Q. B. 534, 36 L. J. Q. B. 294.
+
+[29845] Edwards v. L. & N. W. R. Co. (1870) L. R. 5 C. P. 445, 39 L. J. C. P. 241; cp. Allen v. L. & S. W. R. Co. (1870) L. R. 6 Q. B. 65, 40 L. J. Q. B. 55.
+
+[29996] Bank of New South Wales v. Owston (1879) (J. C.) 4 App. Ca. 270, 48 L. J. P. C. 25.
+
+[30081] Bolingbroke v. Swindon Local Board (1874) L. R. 9 C. P. 575, 43 L. J. C. P. 575.
+
+[30163] Abrahams v. Deakin, ’91, 1 Q. B. 516 (C. A.), 60 L. J. Q. B. 238.
+
+[30230] See per Blackburn J., 1 H. & C. 543.
+
+[30268] 1 H. & C. 526, 32 L. J. Ex. 34 (1862). This and Seymour v. Greenwood (above) overrule anything to the contrary in M‘Manus v. Crickett, 1 East, 106, 5 R. R. 518.
+
+[30430] Williams, Crompton, Willes, Byles, Blackburn JJ., diss. Wightman, J.
+
+[30500] Willes J. 1 H. & C. at p. 539.
+
+[30532] This particular difficulty is fallacious. It is in truth neither more nor less easy to think of a corporation as deceiving (or being deceived) than as having a consenting mind. In no case can a corporation be invested with either rights or duties except through natural persons who are its agents. Cp. British Mutual Banking Co. v. Charnwood Forest R. Co. (1887) 18 Q. B. Div. 714, 56 L. J. Q. B. 449.
+
+[30935] It makes no difference if the fraud includes a forgery: Shaw v. Port Philip Gold Mining Co. (1884) 13 Q. B. D. 103.
+
+[31052] (1867) L. R. 2 Ex. at p. 265.
+
+[31083] Mackay v. Commercial Bank of New Brunswick (1874) L. R. 5 P. C. 412, 43 L. J. P. C. 31; Swire v. Francis (1877) 3 App. Ca. 106, 47 L. J. P. C. 18.
+
+[31231] Addie v. Western Bank of Scotland (1867) L. R. 1 Sc. & D. 145, dicta at pp. 158, 166, 167.
+
+[31323] Houldsworth v. City of Glasgow Bank (1880) 5 App. Ca. 317.
+
+[31383] Ib., Lord Selborne at p. 326, Lord Hatherley at p. 331; Lord Blackburn’s language at p. 339 is more cautious, perhaps for the very reason that he was a party to the decision of Barwick v. English Joint Stock Bank. Shortly, the shareholder is in this dilemma: while he is a member of the company, he is damnified by the alleged deceit, if at all, solely in that he is liable as a shareholder to contribute to the company’s debts: this liability being of the essence of a shareholder’s position, claiming compensation from the company for it involves him in a new liability to contribute to that compensation itself, which is an absurd circuity. But if his liability as a shareholder has ceased, he is no longer damnified. Therefore restitution only (by rescission of his contract), not compensation, is the shareholder’s remedy as against the company: though the fraudulent agent remains personally liable.
+
+[32290] British Mutual Banking Co. v. Charnwood Forest R. Co. (1887) 18 Q. B. Div. 714, 56 L. J. Q. B. 449.
+
+[32391] L. R. 1 H. L. 93 (1864-6).
+
+[32419] Partnership Act, 1890, ss. 10—12. Cp. Blair v. Bromley, 2 Ph. 354, and Cleather v. Twisden (1883) 24 Ch. D. 731, with Harman v. Johnson, 2 E. & B. 61, 22 L. J. Q. B. 297.
+
+[32591] Ex parte Eyre, 1 Ph. 227. See more illustrations in my “Digest of the Law of Partnership,” 5th ed. pp. 43—46.
+
+[32702] I have discussed it in Appendix K. to “Principles of Contract,” 6th ed. p. 711. See now Maddison v. Alderson (1883) 8 App. Ca. at p. 473, 51 L. J. Q. B. 737.
+
+[32861] 3 M. & W. 1. All the case actually decided was that a master does not warrant to his servant the sufficiency and safety of a carriage in which he sends him out.
+
+[33023] Farwell v. Boston and Worcester Railroad Corporation, 4 Met. 49.
+
+[33089] Sir Francis Jeune in The Petrel, ’93, P. 320, 323, 1 R. 651, 653.
+
+[33156] See Wilson v. Merry (1868) L. R. 1 Sc. & D. 326.
+
+[33206] Erle C. J. in Tunney v. Midland R. Co. (1866) L. R. 1 C. P. at p. 296; Archibald J. used very similar language in Lovell v. Howell (1876) 1 C. P. D. at p. 167, 45 L. J. C. P. 387.
+
+[33387] Shaw C. J., Farwell v. Boston, &c. Corporation, 4 Met. 49. M. Sainctelette of Brussels, and M. Sauzet of Lyons, whom he quotes (op. cit. p. 140), differ from the current view among French-speaking lawyers, and agree with Shaw C. J. and our Courts, in referring the whole matter to the contract between the master and servant; but they arrive at the widely different result of holding the master bound, as an implied term of the contract, to insure the servant against all accidents in the course of the service, and not due to the servant’s own fault or vis major.
+
+[33953] Pollock C. B., Morgan v. Vale of Neath R. Co. (1865) Ex. Ch. L. R. 1 Q. B. 149, 155, 35 L. J. Q. B. 23.
+
+[34058] See last note.
+
+[34074] Thesiger L. J., Charles v. Taylor (1878) 3 C. P. Div. 492, 498.
+
+[34139] Feltham v. England (1866) L. R. 2 Q. B. 33, 36 L. J. Q. B. 14; Wilson v. Merry (1868) L. R. 1 Sc. & D. 326: see per Lord Cairns at p. 333, and per Lord Colonsay at p. 345. The French word collaborateur, which does not mean “fellow-workman” at all, was at one time absurdly introduced into these cases, it is believed by Lord Brougham, and occurs as late as Wilson v. Merry.
+
+[34514] Hedley v. Pinkney and Sons’ S. S. Co., ’92, 1 Q. B. 58, 61 L. J. Q. B. 179, C. A., affd. in H. L., ’94, A. C. 222, 6 R. Apr. 12.
+
+[34644] According to some decisions, which seem on principle doubtful, he is bound only not to furnish means or resources which are to his own knowledge defective: Gallagher v. Piper (1864) 16 C. B. N. S. 669, 33 L. J. C. P. 329. And more lately it has been decided in the Court of Appeal that where a servant seeks to hold his master liable for injury caused by the dangerous condition of a building where he is employed, he must allege distinctly both that the master knew of the danger and that he, the servant, was ignorant of it: Griffiths v. London and St. Katharine Docks Co. (1884) 13 Q. B. Div. 259, 53 L. J. Q. B. 504. Cp. Thomas v. Quartermaine (1887) 18 Q. B. Div. 685, 56 L. J. Q. B. 340.
+
+[35339] Lord Cairns, as above: to same effect Lord Wensleydale, Weems v. Mathieson (1861) 4 Macq. at p. 227: “All that the master is bound to do is to provide machinery fit and proper for the work, and to take care to have it superintended by himself or his workmen in a fit and proper manner.” In Skipp v. E. C. R. Co. (1853) 9 Ex. 223, 23 L. J. Ex. 23, it was said that this duty does not extend to having a sufficient number of servants for the work: sed qu. The decision was partly on the ground that the plaintiff was in fact well acquainted with the risk and had never made any complaint.
+
+[35927] Johnson v. Lindsay, ’91, A. C. 371, 65 L. T. 97, overruling Wiggett v. Fox, 11 Ex. 832, 25 L. J. Ex. 188. Cp. Cameron v. Nystrom (J. C.) ’93, A. C. 308, 62 L. J. P. C. 85, 1 R. 362, p. 75, above.
+
+[36124] Potter v. Faulkner (1861) Ex. Ch. 1 B. & S. 800, 31 L. J. Q. B. 30, approving Degg v. Midland R. Co. (1857) 1 H. & N. 773, 26 L. J. Ex. 174.
+
+[36266] Ashworth v. Stanwix (1861) 3 E. & E. 701, 30 L. J. Q. B. 183.
+
+[36329] They are well collected by Mr. Horace Smith (Law of Negligence, pp. 73—76, 2nd ed.).
+
+[36415] Further legislation has been expected and attempted, but hitherto (1894) without result.
+
+[36505] Essays in Jurisprudence and Ethics (1882) ch. 5. See for very full information and discussion on the whole matter the evidence taken by the Select Committees of the House of Commons in 1876 and 1877 (Parl. Papers, H. C. 1876, 372; 1877, 285). And see the final Report of the Labour Commission, 1894, Part II. Appendix V. (Memorandum on Evidence relating to Employers’ Liability).
+
+[36886] See Baltimore and Ohio R. R. Co. v. Baugh (1893) 149 U. S. 368.
+
+[36951] Cooley on Torts, 560; Shearman and Redfield, ss. 86, 88, 102. And see Chicago M. & S. R. Co. v. Ross (1884) 112 U. S. 377. Also a stricter view than ours is taken of a master’s duty to disclose to his servant any non-apparent risks of the employment which are within his own knowledge: Wheeler v. Mason Manufacturing Co. (1883) 135 Mass. 294.
+
+[37295] See Mr. McKinney’s Article in L. Q. R. vi. 189, April 1890, at p. 197.
+
+[37367] Parl. Papers, Commercial, No. 21, 1886.
+
+[37408] Justification seems to be the proper word when the harm suffered is inseparably incident to the performance of a legal duty or the exercise of a common right; excuse, when it is but an accident: but I do not know that the precise distinction is always possible to observe, or that anything turns on it.
+
+[37712] History of the Criminal Law, ii. 61.
+
+[37750] This includes a friendly alien living in “temporary allegiance” under the protection of English law: therefore an act of state in this sense cannot take place in England in time of peace.
+
+[37939] Secretary of State in Council of India v. Kamachee Boye Sahaba (1859) 13 Moo. P. C. 22, 75.
+
+[38032] See Doss v. Secretary of State for India in Council (1875) 19 Eq. 509, and the case last cited.
+
+[38129] (1847) 2 Ex. 167.
+
+[38148] Vol. ii. p. 64.
+
+[38165] Entick v. Carrington, 19 St. Tr. 1043.
+
+[38205] Hill v. Bigge (1841) 3 Moo. P. C. 465; dissenting from Lord Mansfield’s dictum in Mostyn v. Fabrigas, Cowp. 172, that “locally during his government no civil or criminal action will lie against him;” though it may be that he is privileged from personal arrest where arrest would, by the local law, be part of the ordinary process.
+
+[38537] Luby v. Wodehouse, 17 Ir. C. L. R. 618; Sullivan v. Spencer, Ir. R. 6 C. L. 173, following Tandy v. Westmoreland, 27 St. Tr. 1246. These cases go very far, for the Lord Lieutenant was not even called on to plead his privilege, but the Court stayed proceedings against him on motion. As to the effect of a local Act of indemnity, see Phillips v. Eyre (1870) Ex. Ch. L. R. 6 Q. B. 1.
+
+[38920] Musgrave v. Chung Teeong Toy, ’91, A. C. 272, 60 L. J. P. C. 28.
+
+[38986] Duke of Brunswick v. King of Hanover (1843-4) 6 Beav. 1, 57; affirmed in the House of Lords, 2 H. L. C. 1.
+
+[39094] What if cattle belonging to a foreign ambassador were distrained damage feasant? It would seem he could not get them back without submitting to the jurisdiction.
+
+[39257] The Parlement Belge (1880) 5 P. D. 197, 214.
+
+[39303] I have not met with a distinct statement of this qualification in existing authorities, but it is evidently assumed by them, and is necessary for the preservation of every state’s sovereign rights within its own jurisdiction. Plainly the command of a foreign government would be no answer to an action for trespass to land, or for the arrest of an alleged offender against a foreign law, within the body of an English county.
+
+[39730] Law of May 24, 1872. But the principle is ancient, and the old law is still cited on various points.
+
+[39832] Scott v. Stansfield (1868) L. R. 3 Ex. 220, 37 L. J. Ex. 155, which confirms and sums up the effect of many previous decisions. The authorities were lately reviewed and confirmed by the C. A., Anderson v. Gorrie (1894), not yet reported.
+
+[40071] 28 & 29 Vict. c. 36, s. 16.
+
+[40100] Willis v. Maclachlan (1876) 1 Ex. D. 376, 45 L. J. Q. B. 689.
+
+[40163] Houlden v. Smith (1850) 14 Q. B. 841, 19 L. J. Q. B. 170.
+
+[40222] Lowther v. Earl of Radnor (1806) 8 East 113, 118.
+
+[40273] Calder v. Halket (1839) 3 Moo. P. C. 28, 78.
+
+[40319] Kemp v. Neville (1861) 10 C. B. N. S. 523, 31 L. J. C. P. 158 (an action against the Vice-Chancellor of the University of Cambridge), and authorities there cited.
+
+[40483] Fray v. Blackburn (1862) 3 B. & S. 576.
+
+[40524] Scott v. Stansfield (1868) L. R. 3 Ex. 220, 37 L. J. Ex. 155.
+
+[40587] 31 Car. II. c. 2, s. 9.
+
+[40612] 13 Edw. I. (Stat. Westm. 2) c. 31, cf. Blackstone, iii. 372.
+
+[40674] This may be collected from such authorities as Dawkins v. Lord Rokeby (1875) L. R. 7 H. L. 744, 45 L. J. Q. B. 8; Daukins v. Prince Edward of Saxe Weimar (1876) 1 Q. B. D. 499, 45 L. J. Q. B. 567, which however go to some extent on the doctrine of “privileged communications,” a doctrine wider in one sense, and more special in another sense, than the rule now in question. Partly, also, they deal with acts of authority not of a judicial kind, which will be mentioned presently.
+
+[41155] Pappa v. Rose (1872) Ex. Ch. L. R. 7 C. P. 525, 41 L. J. C. P. 187 (broker authorized by sale note to decide on quality of goods); Tharsis Sulphur Co. v. Loftus (1872) L. R. 8 C. P. 1, 42 L. J. C. P. 6 (average adjuster nominated to ascertain proportion of loss as between ship and cargo); Stevenson v. Watson (1879) 4 C. P. D. 148, 48 L. J. C. P. 318 (architect nominated to certify what was due to contractor).
+
+[41569] Cooley on Torts, Ch. 14.
+
+[41595] The details of this subject belong to criminal law.
+
+[41648] Mayor of London v. Cox (1867) L. R. 2 H. L. at p. 269 (in opinion of judges, per Willes J.). The law seems to be understood in the same way in the United States. Cooley on Torts, 459—462.
+
+[41837] The case of The Marshalsea, 10 Co. Rep. 76 a; Clark v. Woods (1848) 2 Ex. 395, 17 L. J. M. C. 189.
+
+[41937] 24 Geo. II. c. 44, s. 6. (Action lies only if a demand in writing for perusal and copy of the warrant is refused or neglected for six days.)
+
+[42079] 56 & 57 Vict. c. 61. There are subsidiary but not unimportant provisions as to costs.
+
+[42166] See Glasspoole v. Young (1829) 9 B. & C. 696; Balme v. Hutton Ex. Ch. (1833) 9 Bing. 471; Dunston v. Paterson (1857) 2 C. B. N. S. 495, 26 L. J. C. P. 267; and other authorities collected in Fisher’s Digest, ed. Mews, sub tit. Sheriff.
+
+[42403] Johnstone v. Sutton (1786-7) Ex. Ch. 1 T. R. 510, 548; affirmed in H. L. ibid. 784, 1 Bro. P. C. 76, 1 R. R. 257. The Ex. Ch. thought the action did not lie, but the defendant was entitled to judgment even if it did. No reasons appear to have been given in the House of Lords.
+
+[42681] See per Willes J. in Keighly v. Bell (1866) 4 F. & F. at p. 790. In time of war the protection may perhaps be more extensive. As to criminal responsibility in such cases, cf. Stephen, Dig. Cr. Law, art. 202, Hist. Cr. Law, i. 200—206.
+
+[42917] Bradlaugh v. Gossett (1884) 12 Q. B. D. 271, 53 L. J. Q. B. 209. As to the limits of the privilege, see per Stephen J. at p. 283. As to the power of a colonial legislative assembly over its own members, see Barton v. Taylor (J. C. 1886) 11 App. Ca. 197, 55 L. J. P. C. 1.
+
+[43190] See Allbutt v. General Council, &c. (1889) 23 Q. B. Div. 400, 58 L. J. Q. B. 606; Leeson v. General Council, &c. (1889) 43 Ch. Div. 366, 59 L. J. Ch. 233; Partridge v. General Council, &c. (1890) 25 Q. B. Div. 90, 59 L. J. Q. B. 475.
+
+[43425] See Neate v. Denman (1874) 18 Eq. 127.
+
+[43465] Inderwick v. Snell (1850) 2 Mac. & G. 216 (removal of a director of a company); Dawkins v. Antrobus (1881) 17 Ch. Div. 615 (expulsion of a member from a club); cf. 13 Ch. D. 352; Partridge v. General Council, &c., note (q) last page, although no notice was given, the council honestly thinking they had no option. In the case of a club an injunction will be granted only in respect of the member’s right of property, therefore where the club is proprietary the only remedy is in damages: Baird v. Wells (1890) 44 Ch. D. 661, 59 L. J. Ch. 673. As to objections against a member of a “domestic tribunal” on the ground of interest, Allinson v. General Council, &c., ’94, 1 Q. B. 750, 9 R. (March) 205, C. A.
+
+[44171] Fisher v. Keane (1878) 11 Ch. D. 353, 49 L. J. Ch. 11 (a club case, no notice to the member); Labouchere v. Wharncliffe (1879) 13 Ch. D. 346 (the like, no sufficient inquiry or notice to the member, calling and proceedings of general meeting irregular); Dean v. Bennett (1870) 6 Ch. 489, 40 L. J. Ch. 452 (minister of Baptist chapel under deed of settlement, no sufficient notice of specific charges either to the minister or in calling special meeting).
+
+[44627] Blisset v. Daniel (1853) 10 Ha. 493; Wood v. Woad (1874) L. R. 9 Ex. 190, 43 L. J. Ex. 190. Without an express power in the articles a partner cannot be expelled at all.
+
+[44798] E. g. Dean v. Bennett, note (t) last page; Fisher v. Jackson, ’91, 2 Ch. 84, 60 L. J. Ch. 482 (power judicial); Hayman v. Governors of Rugby School (1874) 18 Eq. 28, 43 L. J. Ch. 834 (power absolute).
+
+[45000] Tozer v. Child (1857) Ex. Ch. 7 E. & B. 377, 26 L. J. Q. B. 151, explaining Ashby v. White, Ld. Raym. 938, and in 1 Sm. L. C.; and see the special report of Holt’s judgment published in 1837 and referred to in Tozer v. Child. There is some difference of opinion in America, see Cooley on Torts, 413, 414.
+
+[45306] 6 & 7 Vict. c. 18, s. 82. As to presiding officers under the Ballot Act, 1872, Pickering v. James (1873) L. R. 8 C. P. 489, 42 L. J. C. P. 217; Ackers v. Howard (1886) 16 Q. B. D. 739, 55 L. J. Q. B. 273.
+
+[45512] Blackstone, i. 452. See modern examples collected in Addison on Torts, 7th ed. p. 145. A schoolmaster’s delegated authority is not bounded by the walls of the school: Cleary v. Booth, ’93, 1 Q. B. 465, 62 L. J. M. C. 87, 5 R. 263.
+
+[45744] The ancient right of a husband to beat his wife moderately (F. N. B. 80 F. 239 A.) was discredited by Blackstone (i. 445) and is not recognized at this day; but as a husband and wife cannot in any case sue one another for assault in a civil court, this does not concern us. As to imprisonment of a wife by a husband, Reg. v. Jackson, ’91, 1 Q. B. 671, 60 L. J. Q. B. 346, C. A.
+
+[46123] Lord Stowell, The Agincourt (1824) 1 Hagg. 271, 274. This judgment is the classical authority on the subject. For further references see Maude and Pollock’s Merchant Shipping, 4th ed. i. 127.
+
+[46316] Cf. Gaius (D. 50, 17, de div. reg. 55): “Nullus videtur dolo facere, qui suo iure utitur.”
+
+[46408] Lord Blackburn, Geddis v. Proprietors of Bann Reservoir (1878) 3 App. Ca. at p. 455; Caledonian R. Co. v. Walker’s Trustees (1882) 7 App. Ca. at p. 293; Mersey Docks Trustees v. Gibbs (1864-6) L. R. 1 H. L. at p. 112.
+
+[46627] Hammersmith R. Co. v. Brand (1869) L. R. 4 H. L. 171, 38 L. J. Q. B. 265; A.-G. v. Metropolitan R. Co., ’94, 1 Q. B. 384, 9 R. Sept. 252, C.A.
+
+[46771] Hammersmith R. Co. v. Brand, last note, confirming and extending Rex v. Pease (1832) 4 B. & Ad. 30, where certain members and servants of the Stockton and Darlington Railway Company were indicted for a nuisance to persons using a high road near and parallel to the railway. Lord Bramwell must have forgotten this authority when he said in the Court of Appeal that Rex v. Pease was wrongly decided (5 Q. B. D. 601).
+
+[47187] Vaughan v. Taff Vale R. Co. (1860) Ex. Ch. 5 H. & N. 679, 29 L. J. Ex. 247. See below in Ch. XII. So of noise made by pumps in the authorized sinking of a shaft near a man’s land or house: Harrison v. Southwark and Vauxhall Water Co., ’91, 2 Ch. 409, 60 L. J. Ch. 630.
+
+[47457] Cracknell v. Corporation of Thetford (1869) L. R. 4 C. P. 629, 38 L. J. C. P. 353, decided partly on the ground that the corporation were not even entitled to enter on land which did not belong to them to remove weeds, &c., for any purposes beyond those of the navigation. A rather similar case, but decided the other way in the last resort on the construction of the particular statute there in question, is Geddis v. Proprietors of Bann Reservoir, 3 App. Ca. 430. Cracknell’s case seems just on the line; cp. Biscoe v. G. E. R. Co. below.
+
+[47999] Per Lord Truro, L. & N. W. R. Co. v. Bradley (1851) 3 Mac. & G. at p. 341.
+
+[48075] Biscoe v. G. E. R. Co. (1873) 16 Eq. 636.
+
+[48118] 6 App. Ca. 203.
+
+[48135] Metropolitan Asylum District v. Hill (1881) 6 App. Ca. 193; cp. Rapier v. London Tramways Co., ’93, 2 Ch. 588, 63 L. J. Ch. 36, 2 R. 448.
+
+[48274] Attorney-General v. Gaslight and Coke Co. (1877) 7 Ch. D. 217, 221, 47 L. J. Ch. 534.
+
+[48361] Rajmohun Bose v. East India R. Co. (High Court, Calcutta), 10 Ben. L. R. 241. Qu. whether this be consistent with the case next cited.
+
+[48497] London and Brighton R. Co. v. Truman (1885) 11 App. Ca. 45, 55 L. J. Ch. 354, reversing the decision of the Court of Appeal, 29 Ch. Div. 89.
+
+[48639] Gas Light and Coke Co. v. Vestry of St. Mary Abbott’s (1885) 15 Q. B. Div. 1, 54 L. J. Q. B. 414. The Court also relied, but only by way of confirmation, on certain special Acts dealing with the relations between the vestry and the company. See 15 Q. B. D. at p. 6.
+
+[48906] Bowen L. J., 29 Ch. D. at p. 108.
+
+[48941] See especially Lord Blackburn’s opinion in London and Brighton R. Co. v. Truman.
+
+[49023] P. 32, above.
+
+[49038] This, at any rate, is the view of modern juries; see Nichols v. Marsland (1875) L. R. 10 Ex. at p. 256, 46 L. J. Ex. 174; Holmes v. Mather, L. R. 10 Ex. at p. 262.
+
+[49203] Trespass for assault by striking the plaintiff with a stick thrown by the defendant. Plea, not guilty. The jury were directed that, in the absence of evidence for what purpose the defendant threw the stick, they might conclude it was for a proper purpose, and the striking the plaintiff was a mere accident for which the defendant was not answerable: Alderson v. Waistell (1844) 1 C. & K. 358 (before Rolfe B.). This, if it could be accepted, would prove more than is here contended for. But it is evidently a rough and ready summing-up given without reference to the books.
+
+[49779] Shaw C. J. would not concede even this in the leading Massachusetts case of Brown v. Kendall, 6 Cush. at p. 297.
+
+[49893] See on the whole of this matter Mr. Justice Holmes’s chapter on “Trespass and Negligence,” and Mr. Wigmore’s articles in Harv. Law Rev. vii. 315, 383, 441, where materials are fully collected.
+
+[50087] Heusler, Inst. des deutschen Privatrechts, ii. 263; Ll. Hen. Primi, c. 88 § 6. 90 § 11; see p. 129, below.
+
+[50195] “Inpunitus est qui sine culpa et dolo malo casu quodam damnum committit.” Gai. 3. 211. Paulus indeed says (D. 9. 2, ad legem Aquiliam, 45, § 4), “Si defendendi mei causa lapidem in adversarium misero, sed non eum sed praetereuntem percussero, tenebor lege Aquilia; illum enim solum qui vim infert ferire conceditur.” But various explanations of this are possible. Perhaps it shows what kind of cases are referred to by the otherwise unexplained dictum of Ulpian in the preceding fragment, “in lege Aquilia et levissima culpa venit.” Paulus himself says there is no iniuria if the master of a slave, meaning to strike the slave, accidentally strikes a free man: D. 47. 10, de iniuriis, 4. According to the current English theory of the 16th—18th centuries an action on the case would not lie on such facts, but trespass vi et armis would.
+
+[51034] 15 Wall. 524 (1872).
+
+[51056] The plaintiff’s proper remedy would have been against the consignor who despatched the explosive without informing the carriers of its nature. See Lyell v. Ganga Dai (1875) Indian Law Rep. 1 All. 60.
+
+[51257] 6 Cush. 292 (1850).
+
+[51278] The consequence was involuntary or rather unintended, though the act itself was voluntary; and it was also unavoidable, i. e. not preventable by reasonable diligence.
+
+[51446] Harvey v. Dunlap, Lalor 193, cited 15 Wall. 539; Morris v. Platt, 32 Conn. 75.
+
+[51526] Cooley on Torts, 80.
+
+[51548] 2 Keyes 169 (1865).
+
+[51569] It will be remembered that this was in the days of muzzle-loaders. A like accident, however, happened not many years ago at an Aldershot field day, fortunately without hurt to any one.
+
+[51755] Erle C. J. obiter, in Potter v. Faulkner, 1 B. & S. at p. 805, 31 L. J. Q. B. 30; Dixon v. Bell, 5 M. & S. 198.
+
+[51868] The reporter adds this significant note: “The Court did not pass upon the first branch of the case, discussed by the Chief Judge, as to the question of the general liability of the commanding officer.”
+
+[52071] 21 St. Tr. 1022 (ad 1783).
+
+[52099] Would an indictment ever lie for simple trespass? I know not of any authority that it would, though the action of trespass originally had, and retained in form down to modern times, a public and penal character.
+
+[52312] Maxims of the Law, Reg. 7, following the dictum of Rede J. in 21 Hen. VII. 28. We cite Bacon, not as a writer of authority, but as showing, like Erskine, the average legal mind of his time.
+
+[52503] O. W. Holmes 103.
+
+[52522] C. 88 § 6. “Si quis in ludo sagittandi vel alicuius exercitii iaculo vel huiusmodi casu aliquem occidat, reddat eum; legis enim est, qui inscienter peccat, scienter emendet.” C. 90 § 11 adds an English form of the maxim: “et qui brecht ungewealdes, bete gewealdes.”
+
+[52789] 6 Edw. IV. 7, pl. 18; O. W. Holmes 85; cf. 21 Hen VII. 27, pl. 5, a case of trespass to goods which does not really raise the question.
+
+[52926] Hob. 134, ad 1616.
+
+[52946] Dickeson v. Watson, Sir T. Jones 205, ad 1682. Lambert v. Bessey, T. Raym. 421, a case of false imprisonment in the same period, cites the foregoing authorities, and Raymond’s opinion certainly assumes the view that inevitable accident is no excuse even when the act is one of lawful self-defence. But then Raymond’s opinion is a dissenting one; s. c. nom. Bessey v. Olliott, T. Raym. 467; being given in the former place alone and without explanation, it has apparently been sometimes taken for the judgment of the Court. At most, therefore, his illustrations are evidence of the notions current at the time.
+
+[53557] Underwood v. Hewson, 1 Strange 596, ad 1723 (defendant was uncocking a gun, plaintiff looking on). It looks very like contributory negligence, or at any rate voluntary exposure to the risk, on the plaintiff’s part. But the law of negligence was then quite undeveloped.
+
+[53827] Scott v. Shepherd (1773) 2 W. Bl. 892, 3 Wils. 403.
+
+[53880] 3 East 593 (ad 1803), cp. Preface to 7 R. R. at p. vii.
+
+[53937] (1868) L. R. 3 H. L. at p. 341.
+
+[53970] Sometimes the case of James v. Campbell (1832) 5 C. & P. 372, is cited in this connexion. But not only is it a Nisi Prius case with nothing particular to recommend it, but it is irrelevant. The facts there alleged were that A. in a quarrel with B. struck C. Nothing shows that A. would have been justified or excused in striking B. And if the blow he intended was not lawful it was clearly no excuse that he struck the wrong man (p. 29 above, and see R. v. Latimer (1886) 17 Q. B. D. 359, 55 L. J. M. C. 135).
+
+[54481] Davis v. Saunders, 2 Chitty 639.
+
+[54515] Gibbons v. Pepper, 1 Lord Raym. 38.
+
+[54552] 1 Bing. 213 (1823). The argument for the defendant seems to have been very well reasoned.
+
+[54643] Hall v. Fearnley (1842) 3 Q. B. 919, 12 L. J. Q. B. 22. The line between this and Gibbons v. Pepper is rather fine.
+
+[54760] L. R, 10 Ex. 261, 44 L. J. Ex. 176 (1875).
+
+[54804] Bramwell B. at p. 267.
+
+[54828] L. R. 1 Ex. at pp. 286, 287. But see per Lord Halsbury in Smith v. Baker, ’91, A. C. 325, 337, 60 L. J. Q. B. 683.
+
+[54944] ’91, 1 Q. B. 86, 60 L. J. Q. B. 52. This was a shooting case (a pellet glanced from a bough and wounded the plaintiff’s eye). A point might have been made for the plaintiff, but apparently was not, on the “extra-hazardous” character of fire-arms.
+
+[55192] A.-G. v. Tomline (1880) 14 Ch. Div. 58, 49 L. J. Ch. 377, is a curious case, but does not make any real exception to this. It shows that (1) the Crown as owner of foreshore has duties for the protection of the land, though not enforceable duties; (2) those duties, where the Crown rights have become vested in a subject, are laid upon and may be enforced against that subject.
+
+[55570] Ulpian wrote (D. 9. 1, si quadrupes, 1, § 3): “Pauperies est damnum sine iniuria facientis datum, nec enim potest animal iniuria fecisse, quod sensu caret.” This is in a very special context, and is far from warranting the use of “damnum sine iniuria” as a common formula. Being, however, adopted in the Institutes, 4, 9, pr. (with the unidiomatic variant “iniuriam fecisse”), it probably became, through Azo, the origin of the phrase now current. In Gaius 3. 211 (on the lex Aquilia) we read “Iniuria autem occidere intellegitur cuius dolo aut culpa id acciderit, nec ulla alia lege damnum quod sine iniuria datur reprehenditur.” This shows that “damnum sine iniuria dare” was a correct if not a common phrase: though it could never have for Gaius or Ulpian the wide meaning of “harm [of any kind] which gives no cause of action.” “Damnum sine iniuria” standing alone as a kind of compound noun, according to the modern use, is hardly good Latin.
+
+[56519] Bracton says, fo. 221 a: “Si quis in fundo proprio construat aliquod molendinum, et sectam suam et aliorum vicinorum subtrahat vicino, facit vicino damnum et non iniuriam.” “Dampnum sine iniuria” occurs in 7 Ed. III. 65, pl. 67, “damnum absque iniuria” in 11 Hen. IV. 47, pl. 21 (see below).
+
+[56812] Hil. 11 Hen. IV. 47, pl. 21 (ad 1410-11). In the course of argument the opinion is thrown out that the education of children is a spiritual matter, and therefore the right of appointing a schoolmaster cannot be tried by a temporal court. The plaintiff tried to set up a quasi franchise as holding an ancient office in the gift of the Prior of Lantone, near Gloucester (sic: probably Llanthony is meant).
+
+[57217] 22 Hen. VI. 14, pl. 23 (ad 1443). The school case is cited.
+
+[57278] Mogul Steamship Co. v. McGregor (1889-91) 23 Q. B. Div. 598, affirmed in H. L., ’92, A. C. 25.
+
+[57374] Bowen L. J., 23 Q. B. Div. at p. 615.
+
+[57413] Fry L. J., ibid. at pp. 625, 626.
+
+[57448] Lord Hannen, s. c. in H. L. ’92, A. C. at p. 59.
+
+[57498] Per Cur., Ballacorkish Mining Co. v. Harrison (1873) L. R. 5 P. C. at p. 61, 43 L. J. P. C. 19.
+
+[57595] 12 M. & W. 324, 13 L. J. Ex. 289 (1843).
+
+[57637] 7 H. L. C. 349, 29 L. J. Ex. 81 (1859).
+
+[57678] Cp., as to the distinction between the “natural user” of land and the maintenance of artificial works, Hurdman v. N. E. R. Co. (1878) 3 C. P. Div. at p. 174, 47 L. J. C. P. 368; and further as to the limits of “natural user,” Ballard v. Tomlinson (1885) 29 Ch. Div. 115, 54 L. J. Ch. 454.
+
+[57968] Cooley on Torts 580.
+
+[57990] Rogers v. Rajendro Dutt, 8 Moo. I. A. 103.
+
+[58034] 8 Moo. I. A. at p. 134.
+
+[58059] See per Holt C. J. in Keeble v. Hiokeringill, 11 East at pp. 575, 576, 11 R. R. 274 n.
+
+[58147] It is very difficult to say what “malice,” as a term of art, really means in any one of its generally similar but not identical uses; but I think the gloss here given is sufficiently correct for the matter in hand. At all events, the intention of causing disadvantage to the plaintiff as a competitor in business by acts in themselves lawful, and done in the course of that business, does not make such acts wrongful: Mogul Steamship Co. v. McGregor (1889) 23 Q. B. Div. 598, H. L., ’92, A. C. 25, 61 L. J. Q. B. 295.
+
+[58666] 7 H. L. C. at p. 388. But see per Fry L. J., 23 Q. B. Div. at p. 625, on the hypothetical case of “competition used as a mere engine of malice.”
+
+[58812] See Sir W. Markby’s “Elements of Law,” s. 239.
+
+[58860] Corporation of Bradford v. Pickles, ’94, 3 Ch. 53 (North J)., where, although the plaintiff succeeded on the ground that the defendant had broken a statutory prohibition, the question of the defendant’s good faith was discussed and held immaterial, and the plaintiff lost half his costs. See at p. 71.
+
+[59163] D. 39, 3, de aqua, 1, § 12 (Ulpian).
+
+[59201] Bell’s Principles, 966 (referred to by Lord Wensleydale).
+
+[59260] See Burgess v. Burgess (1853) 3 D. M. G. 896, 22 L. J. Ch. 675, a classical case; Du Boulay v. Du Boulay (1869) L. R. 2 P. C. 430, 38 L. J. P. C. 35; Day v. Brownrigg (1878) 10 Ch. Div. 294, 48 L. J. Ch. 173; Street v. Union Bank, &c. (1885) 30 Ch. D. 156, 55 L. J. Ch. 31. Cp. Montgomery v. Thompson, ’91, A. C. 217, 60 L. J. Ch. 757.
+
+[59597] Jessel M. R., 10 Ch. Div. 304.
+
+[59629] Unless we said that leave points to specific consent to an act, licence to general assent to the consequences of acts consented to: but such a distinction seems too fanciful.
+
+[59805] See Addison on Torts, p. 384, 7th ed.; Cooley on Torts, 303, sqq.
+
+[59872] Cp. Stephen, Digest of the Criminal Law, art. 204.
+
+[59924] Commonwealth v. Collberg (1876) 119 Mass. 350, and 20 Am. Rep. 328, where authorities are collected. See also Reg. v. Coney (1882) 8 Q. B. D. 534, 538, 546, 549, 567, and next page.
+
+[60107] Coleridge J. in Reg. v. Lewis (1844) 1 C. & K. at p. 421, cp. Buller N. P. 16. The passage there and elsewhere cited from Comberbach, apart from the slender authority of that reporter, is only a dictum. Buller’s own authority is really better.
+
+[60352] Foster’s Crown Law, 260.
+
+[60378] Foster, l. c. “Motive” is hardly the correct word, but the meaning is plain enough.
+
+[60463] Cp. Pulton, De Pace Regis, 17 b. It might be a nice point whether the old English backswording (see “Tom Brown”) was lawful or not. And quaere of the old rules of Rugby football, which allowed deliberate kicking in some circumstances. Quaere, also, whether one monk might have lawfully licensed another to beat him by way of spiritual discipline. But anyhow he could not have sued, being civilly dead by his entering into religion.
+
+[60896] 8 Q. B. D. 534, 51 L. J. M. C. 66 (1882). For fuller collection and consideration of authorities, cp. Mr. Edward Manson’s note in L. Q. R. vi. 110.
+
+[61045] 8 Q. B. D. at p. 539. As to the limits of lawful boxing, see Reg. v. Orton (1878) 39 L. T. 293.
+
+[61142] 8 Q. B. D. at p. 549. Compare arts. 206, 208 of the learned judge’s “Digest of the Criminal Law.” The language of art. 208 follows the authorities, but I am not sure that it exactly hits the distinction.
+
+[61347] Notwithstanding the doubt expressed by Hawkins J., 8 Q. B. D. at pp. 553, 554.
+
+[61427] A rather curious illustration may be found in Davies v. Marshall (1861) 10 C. B. N. S. 697, 31 L. J. C. P. 61, where the so-called equitable plea and replication seems to have amounted to a common law plea of leave and licence and joinder of issue, or perhaps new assignment, thereon.
+
+[61713] Illust. to s. 80. On the point of actual consent, cf. ss. 87 and 88.
+
+[61783] 3 B. & Ald. 304 (1820); cp. and dist. the later case of Bird v. Holbrook (1828) 4 Bing. 628. The argument that since the defendant could not have justified shooting a trespasser with his own hand, even after warning, he could not justify shooting him with a spring-gun, is weighed and found wanting, though perhaps it ought to have prevailed.
+
+[62127] Per Bayley J. 3 B. & Ald. at p. 311, and Holroyd J. at p. 314.
+
+[62191] Edin. Rev. xxxv. 123, 410 (reprinted in Sydney Smith’s works). Setting spring-guns, except by night in a dwelling house for the protection thereof, was made a criminal offence by 7 & 8 Geo. IV. c. 18, now repealed and substantially re-enacted (24 & 25 Vict. c. 95, s. 1, and c. 100, s. 31).
+
+[62483] Holmes v. Mather (1875) L. R. 10 Ex. at p. 267; Rylands v. Fletcher (1866) L. R. 1 Ex. at p. 287.
+
+[62582] Woodley v. Metr. Dist. R. Co. (1877) 2 Ex. Div. 384, 46 L. J. Ex. 521; Mellish and Baggallay L. JJ. diss.
+
+[62689] Cp. Thomas v. Quartermaine (1887) 18 Q. B. Div. 685, 56 L. J. Q. B. 340, and Lord Herschell’s judgment in Membery v. G. W. R. Co. (1889) 14 App. Ca. 179, 190.
+
+[62849] Fry L. J. 18 Q. B. Div. at p. 701. And see Yarmouth v. France (1887) 19 Q. B. D. 647, 57 L. J. Q. B. 7.
+
+[62954] Membery v. G. W. R. Co. note (c), last page. Lord Bramwell’s extra-judicial remarks cannot be supported: see per Lord Herschell, 14 App. Ca. at pp. 192, 193; and Smith v. Baker, note (i), p. 155.
+
+[63151] Bowen L. J. in Thomas v. Quartermaine (1887) 18 Q. B. Div. 685, 694, 697, 56 L. J. Q. B. 340.
+
+[63246] 18 Q. B. Div. at p. 698.
+
+[63272] Bowen L. J. 18 Q. B. Div. at p. 695.
+
+[63310] Ibid. at p. 696; Lindley L.J. in Yarmouth v. France (1887) 19 Q. B. D. 647, 659, before judges of the C. A. sitting as a divisional Court.
+
+[63450] Yarmouth v. France, last note; Thrussell v. Handyside (1888) 20 Q. B. D. 359, 57 L. J. Q. B. 347; Smith v. Baker, ’91, A. C. 325, 60 L. J. Q. B. 683.
+
+[63601] ’91 A. C. 325.
+
+[63617] Lord Herschell, ’91 A. C. at pp. 360, 362.
+
+[63661] Lord Halsbury, ’91, A. C. at pp. 336—338.
+
+[63704] Walsh v. Whiteley (1888) 21 Q. B. Div. 371, 57 L. J. Q. B. 586.
+
+[63769] See Lord Morris’s remarks in Smith v. Baker, ’91, A. C. at p. 369. In Smith v. Baker itself, an appeal from a County Court, this point, not having been raised at the trial below, was not open on the appeal. It was nevertheless extra-judicially discussed, with considerable variety of opinion.
+
+[64063] Cornish v. Accident Insurance Co. (1889) 23 Q. B. Div. 453, 58 L. J. Q. B. 591.
+
+[64144] L. R. 10 Ex. at p. 267.
+
+[64169] Lord Halsbury, ’91, A. C. at p. 337.
+
+[64207] Smith v. Baker, ’91, A. C. 325, 60 L. J. Q. B. 683; Thrussell v. Handyside (1888) 20 Q. B. D. 359, 57 L. J. Q. B. 347.
+
+[64327] See Ges v. Metropolitan R. Co. (1873) Ex. Ch. L. R. 8 Q. B. 161, 42 L. J. Q. B. 105; Robson v. N. E. R. Co. (1875) L. R. 10 Q. B. at p. 274, 44 L. J. Q. B. 112; and per Bramwell L. J. (not referring to these authorities, and taking a somewhat different view), Lax v. Corporation of Darlington (1879) 5 Ex. D. at p. 35, 49 L. J. Ex. 105.
+
+[64665] Dyer, 36 b. Cp. the opinion of Best C. J. in Dewey v. White (1827), M. & M. 56 (damage inevitably done to plaintiff’s house in throwing down chimneys ruined by fire, which were in danger of falling into the highway: a verdict for the defendants was acquiesced in).
+
+[64931] Mouse’s case, 12 Co. Rep. 63, is only just worth citing as an illustration that no action lies.
+
+[65028] Kingsmill J. 21 Hen. VII. 27, pl. 5; cp. Dyer, ubi supra. In 8 Ed. IV. 23, pl. 41, it is thought doubtful whether the justification should be by common law or by special custom.
+
+[65207] Good will without real necessity would not do; there must be danger of total loss, and, it is said, without remedy for the owner against any person, per Rede C. J. 21 Hen. VII. 28, pl. 5; but if this be law, it must be limited to remedies against a trespasser, for it cannot be a trespass or a lawful act to save a man’s goods according as they are or are not insured. Cp. Y. B. 12 Hen. VIII. 2, where there is some curious discussion on the theory of trespass generally. A mere volunteer may not force his way into a house on fire already under the control of persons who are lawfully endeavouring to put down the fire, and are not manifestly insufficient for that purpose: Carter v. Thomas, ’93, 1 Q. B. 673, 5 R. 343 (judgment of Kennedy J.)
+
+[65953] Cf. the Indian Penal Code,) s. 92, and the powers given to the London Fire Brigade by 28 & 29 Vict. c. 90, s. 12, which seem rather to assume a pre-existing right at common law.
+
+[66132] See Kirk v. Gregory (1876) 1 Ex. D. 55, 59.
+
+[66177] This is the term adopted in the Indian Penal Code.
+
+[66229] Blackstone iii. 3; and see the opinion of all the justices of K. B., 21 Hen. VII. 39, pl. 50. There has been some doubt whether a master could justify on the ground of the defence of his servant. But the practice and the better opinion have always been otherwise. Before the Conquest it was understood that a lord might fight in defence of his men as well as they in his. Ll. Alf. c. 42, § 5.
+
+[66623] See Stephen, Digest of Criminal Law, art. 200. Most of the authority on this subject is in the early treatises on Pleas of the Crown.
+
+[66758] N. O. & N. E. R. R. Co. v. Jopes (1891) 142 U. S. 18.
+
+[66813] Aldrich v. Wright (1873) 53 N. H. 398, 16 Am. Rep. 339. The decision was that the penalty of a statute ordaining a close time for minks did not apply to a man who shot on his own land, in the close season, minks which he reasonably thought were in pursuit of his geese. Compare Taylor app. Newman resp. (1863) 4 B. & S. 89, 32 L. J. M. C. 186.
+
+[67158] 7 Taunt. 489, the case of dog-spears, where the Court was equally divided (1817); Jordin v. Crump (1841) 8 M. & W. 782, where the Court took the view of Gibbs C. J. in the last case, on the ground that setting dog-spears was not in itself illegal. Notice, however, was pleaded.
+
+[67437] Dicey, Law of the Constitution, 4th ed. 1893, appx. note (N), which see for fuller discussion.
+
+[67533] Dicey, op. cit. 426.
+
+[67555] 2 W. Bl. 892.
+
+[67570] Blackstone J. in his dissenting judgment, 2 W. Bl. at p. 895.
+
+[67633] D. 9. 2, ad 1. Aquil. 45, § 4; supra, p. 124.
+
+[67680] Whalley v. Lanc. and Yorkshire R. Co. (1884) 13 Q. B. Div. 131, 53 L. J. Q. B. 285, distinguishing the case of acts lawful in themselves which are done by way of precaution against an impending common danger.
+
+[67890] (1828) 4 Bing. 628. Cp. p. 151, above. The cause of action arose, and the trial took place, before the passing of the Act which made the setting of spring-guns unlawful.
+
+[68061] Barnes v. Ward (1850) 9 C. B. 392, 19 L. J. C. P. 195.
+
+[68117] P. 32, above.
+
+[68132] Sutton v. Town of Wauwatosa (Wisconsin, 1871) Bigelow L. C. 711, and notes thereto, pp. 721-2; S. C. in Jer. Smith’s Cases on Torts, ii. 115, see note, ib.; Cooley on Torts, 156. And see White v. Lang, 128 Mass. 598; Bucher v. Cheshire R. R. Co., 125 U. S. 555.
+
+[68395] Newcomb v. Boston Protective Depart. (1888), 146 Mass. 596, Jer. Smith, op. cit. ii. 123.
+
+[68486] Maule J., Fivaz v. Nicholls (1846) 2 C. B. 501, 512.
+
+[68540] Possession could be recovered, of course, in an action of ejectment. But this was an action of trespass in form only. In substance it took the place of the old real actions, and it is sometimes called a real action. Detinue was not only not a substantial exception, but hardly even a formal one, for the action was not really in tort.
+
+[68876] I do not think any of the powers of the superior courts of common law to issue specific commands (e.g. mandamus) were applicable to the redress of purely private wrongs, though they might be available for a private person wronged by a breach of public duty. Under the Common Law Procedure Acts the superior courts of common law had limited powers of granting injunctions and administering equitable relief. These were found of little importance in practice, and there is now no reason for dwelling on them.
+
+[69384] This is well noted in Cooley on Torts, 50.
+
+[69428] Cp. Blackstone, Bk. iii. c. 1.
+
+[69460] It is hardly needful to refer the reader for fuller illustration of the subject to so well known a work as “Mayne on Damages.”
+
+[69588] P. 27, above.
+
+[69603] The principle is familiar. See it stated, e.g. 5 Q. B. Div. 85.
+
+[69668] See Metropolitan R. Co. v. Wright (1886) 11 App. Ca. 152, 55 L. J. Q. B. 401.
+
+[69747] Phillips v. L. & S. W. R. Co. (1879) 5 Q. B. Div. 78, 49 L. J. Q. B. 233, where, on the facts shown, a verdict for 7000l. was set aside on the ground of the damages being insufficient.
+
+[69933] Falvey v. Stanford (1874) L. R. 10 Q. B. 54, 44 L. J. Q. B. 7.
+
+[69997] Maule J. 2 C. B. 499.
+
+[70020] Under the various statutes as to costs which were in force before the Judicature Acts, 40s. was, subject to a few exceptions, the least amount of damages which carried costs without a special certificate from the judge. Frequently juries asked before giving their verdict what was the least sum that would carry costs: the general practice of the judges was to refuse this information.
+
+[70407] Kelly v. Sherlock (1866) L. R. 1 Q. B. 686, 35 L. J. Q. B. 209, is a case of this kind where, notwithstanding that the libels sued for were very gross, the jury gave a farthing damages, and the Court, though not satisfied with the verdict, refused to disturb it.
+
+[70671] Harrison v. Duke of Rutland, ’93, 1 Q. B. 142, 62 L. J. Q. B. 117, 4 R. 155, C. A.
+
+[70755] By Maule J. (1846), in Beaumont v. Greathead, 2 C. B. 499. Under the present procedure costs are in the discretion of the Court; the costs of a cause tried by jury follow the event (without regard to amount of damages) unless the judge or the Court otherwise orders: Order LXV. r. 1, &c. The effect of the Judicature Acts and Rules of Court in abrogating the older statutes was settled in 1878 by Garnett v. Bradley, 3 App. Ca. 944, 48 L. J. Ex. 186. A sketch of the history of the subject is given in Lord Blackburn’s judgment, pp. 962 sqq.
+
+[71298] 2 Lord Raym. at p. 955.
+
+[71323] Backhouse v. Bonomi (1861) 9 H. L. C. 503, 34 L. J. Q. B. 181; Darley Main Colliery Co. v. Mitchell (1886) 11 App. Ca. 127, 55 L. J. Q. B. 529.
+
+[71468] Pontifex v. Bignold (1841) 3 Man. & G. 63, is sometimes quoted as if it were an authority that no actual damage is necessary to sustain an action of deceit. But careful examination will show that it is far from deciding this.
+
+[71695] See more in Ch. VII. below.
+
+[71724] A jury has been known to find a verdict for a greater sum than was claimed, and the judge to amend the statement of claim to enable himself to give judgment for that greater sum. But this is an extreme use of the power of the Court, justifiable only in an extraordinary case. “It will not do for Mr. Justice Kay, or for this Court, to exercise that unknown equity which is sometimes exercised by juries:” Cotton L. J., Dreyfus v. Peruvian Guano Co. (1889) 43 Ch. Div. 316, 327, 62 L. T. 518.
+
+[72217] Whitham v. Kershaw (1885-6) 16 Q. B. Div. 613, 54 L. T. 124; cp. Rust v. Victoria Graving Dock Co. (1887) 36 Ch. Div. 113, 56 L. T. 216; Chifferiel v. Watson (1888) 40 Ch. D. 45, 58 L. J. Ch. 137 (compensation under conditions of sale).
+
+[72455] See Mayne on Damages, 5th ed. c. 13.
+
+[72493] See the summing-up of Field J. in Phillips v. L. & S. W. R. Co. (1879) 5 Q. B. Div. 78, 49 L. J. Q. B. 233, which was in the main approved by the Court of Appeal.
+
+[72657] Huckle v. Money (1763) 2 Wils. 205, one of the branches of the great case of general warrants: the plaintiff was detained about six hours and civilly treated, “entertained with beef-steaks and beer,” but the jury was upheld in giving 300l. damages, because “it was a most daring public attack made upon the liberty of the subject.”
+
+[72990] Merest v. Harvey (1814) 5 Taunt. 442, 15 R. R. 548: the defendant was drunk, and passing by the plaintiff’s land on which the plaintiff was shooting, insisted, with oaths and threats, on joining in the sport; a verdict passed for 500l., the full amount claimed, and it was laid down that juries ought to be allowed to punish insult by exemplary damages.
+
+[73345] Tullidge v. Wade (1769) 3 Wils. 18: “Actions of this sort are brought for example’s sake.”
+
+[73437] See Forsdike v. Stone (1868) L. R. 3 C. P. 607, 37 L. J. C. P. 301, where a verdict for 1s. was not disturbed, though the imputation was a gross one; cp. Kelly v. Sherlock, p. 170, note (m), above.
+
+[73636] Per Denman C. J. in Ex. Ch., Rogers v. Spence, 13 M. & W. at p. 581, 15 L. J. Ex. 49.
+
+[73723] Emblen v. Myers (1860) 6 H. & N. 54, 30 L. J. Ex. 71.
+
+[73778] Wennhak v. Morgan (1888) 20 Q. B. D. 635, 57 L. J. Q. B. 241.
+
+[73841] Pollock C. B. 6 H. & N. 58, 30 L. J. Ex. 72. Cp. per Bowen L. J. in Whitham v. Kershaw (1886) 16 Q. B. Div. at p. 618.
+
+[73961] Bell v. Midland R. Co. (1861) 10 C. B. N. S. 287, 307, 30 L. J. C. P. 273, 281.
+
+[74042] See, e.g., Berry v. Da Costa (1866) L. R. 1 C. P. 331, 35 L. J. C. P. 191; and the last chapter of the present work, ad fin.
+
+[74168] Mayne on Damages, 119 (5th ed.).
+
+[74202] Brunsden v. Humphrey (1884) 14 Q. B. Div. 141, 53 L. J. Q. B. 476, by Brett M. R. and Bowen L. J., diss. Lord Coleridge C. J. Cp. per Lord Bramwell, 11 App. Ca. at p. 144.
+
+[74375] Liber homo suo nomine utilem Aquiliae habet actionem: directam enim non habet, quoniam dominus membrorum suorum nemo videtur: Ulpian, D. 9. 2, ad 1. Aquil. 13 pr.
+
+[74539] Judicature Act, 1873, s. 25, sub-s. 8. Per Jessel M. R., Beddow v. Beddow (1878) 9 Ch. D. 89, 93, 47 L. J. Ch. 588; Quartz Hill &c. Co. v. Beall (1882) 20 Ch. Div. at p. 507.
+
+[74715] Thorley’s Cattle Food Co. v. Massam (1880) 14 Ch. Div. 763; Thomas v. Williams, ib. 864.
+
+[74805] Quartz Hill Consolidated Gold Mining Co. v. Beall (1882) 20 Ch. Div. 501, 51 L. J. Ch. 874; Collard v. Marshall, ’92, 1 Ch. 571, 61 L. J. Ch. 268.
+
+[74953] Hermann Loog v. Bean (1884) 26 Ch. Div. 306, 53 L. J. Ch. 1128.
+
+[75018] Bonnard v. Perryman, ’91, 2 Ch. 269, 60 L. J. Ch. 617, C. A.
+
+[75080] Salomons v. Knight, ’91, 2 Ch. 294, 60 L. J. Ch. 743, C. A.
+
+[75141] In Mogul Steamship Co. v. M‘Gregor, Gow & Co. (1885) 15 Q. B. D. 476, 54 L. J. Q. B. 540, the Court refused to grant an interlocutory injunction to restrain a course of conduct alleged to amount to a conspiracy of rival shipowners to drive the plaintiffs’ ships out of the China trade. The decision of the case on the merits is dealt with elsewhere.
+
+[75492] Burrowes v. Lock (1805) 10 Ves. 470, 8 R. R. 33, 856; Slim v. Croucher (1860) 1 D. F. J. 518, 29 L. J. Ch. 273 (these cases are now cited only as historical illustration); Peek v. Gurney (1871-3) L. R. 13 Eq. 79, 6 H. L. 377, 43 L. J. Ch. 19. See under the head of Deceit, Ch. VIII. below.
+
+[75783] Jones v. Gooday (1841) 8 M. & W. 146, 10 L. J. Ex. 275; Wigsell v. School for Indigent Blind (1882) 8 Q. B. D. 357, 51 L. J. Q. B. 330; Whitham v. Kershaw (1885-6) 16 Q. B. Div. 613. In an action for inducing the plaintiff by false statements to take shares in a company, it is said that the measure of damages is the difference between the sum paid for the shares and their real value (the market value may, of course, have been fictitious) at the date of allotment: Peek v. Derry (1887) 37 Ch. Div. 591, 57 L. J. Ch. 347.
+
+[76308] Ross v. Rugge-Price (1876) 1 Ex. D. 269, 45 L. J. Ex. 777: but qu. whether this case can now be relied on; it was decided partly on the authority of Atkinson v. Newcastle Waterworks Co. (1871) L. R. 6 Ex. 404, afterwards reversed in the Court of Appeal (see below).
+
+[76575] Couch v. Steel (1854) 3 E. & B. 402, 23 L. J. Q. B. 121.
+
+[76633] Atkinson v. Newcastle Waterworks Co. (1877) 2 Ex. Div. 441, 46 L. J. Ex. 775. Cp. Stevens v. Jeacocke (1847) 11 Q. B. 731, 17 L. J. Q. B. 163, where it was held that the local Act regulating, under penalties, the pilchard fishery of St. Ives, Cornwall, did not create private rights enforceable by action; Vestry of St. Pancras v. Batterbury (1857) 2 C. B. N. S. 477, 26 L. J. C. P. 243, where a statutory provision for recovery by summary proceedings was held to exclude any right of action (here, however, no private damage was in question); and Vallance v. Falle (1884) 13 Q. B. D. 109, 53 L. J. Q. B. 459. See further, as to highways, Cowley v. Newmarket Local Board, ’92, A. C. 345, 67 L. T. 486; Thompson v. Mayor of Brighton, Oliver v. Local Board of Horsham, ’94, 1 Q. B. 332, 9 R. Feb. 173, C. A.
+
+[77440] Gorris v. Scott (1874) L. R. 9 Ex. 125, 43 L. J. Ex. 92.
+
+[77498] See per Pollock B., L. R. 9 Ex. at p. 131.
+
+[77542] Blamires v. Lanc. and Yorkshire R. Co. (1873) Ex. Ch. L. R. 8 Ex. 283, 42 L. J. Ex. 182.
+
+[77632] Page 67.
+
+[77642] Brinsmead v. Harrison (1872) Ex. Ch. L. R. 7 C. P. 547, 41 L. J. C. P. 190, finally settled the point. It was formerly doubtful whether judgment without satisfaction was a bar. And in the United States it seems to be generally held that it is not: Cooley on Torts, 138, and see L. R. 7 C. P. 549.
+
+[77940] Merryweather v. Nixan (1799) 8 T. R. 186, 16 R. R. 810, where the doctrine is too widely laid down.
+
+[78041] Adamson v. Jarvis (1827) 4 Bing. at p. 73. This qualification of the supposed rule in Merryweather v. Nixan is strongly confirmed by the dicta, especially Lord Herschell’s, in Palmer v. Wick and Pulteneytown Steam Shipping Co., ’94, A. C. 318, 324, 6 R. Aug. 39. The actual decision was that no such rule exists in Scotland.
+
+[78367] Betts v. Gibbins, 2 A. & E. 57.
+
+[78400] Adamson v. Jarvis (1827) 4 Bing. 66, 72. The ground of the action for indemnity may be either deceit or warranty: see at p. 73.
+
+[78529] Betts v. Gibbins (1834) 2 A. & E. 57. See too Collins v. Evans (1844) (Ex. Ch.) 5 Q. B. at p. 830, 13 L. J. Q. B. 180.
+
+[78649] I am not sure that authority covers this. But I do not think an agent could claim indemnity for acts which a reasonable man in his place would know to be beyond the lawful power of the principal. See Indian Contract Act, s. 223. The peculiar statutory liability created by the Directors’ Liability Act, 1890, is qualified by a right to recover contribution in all cases, see s. 5.
+
+[79031] It is settled that there is no rule to prevent the suing of a person who was not party or privy to the felony. Stolen goods, or their value, e. g. can be recovered from an innocent possessor who has not bought in market overt, whether the thief has been prosecuted or not: Marsh v. Keating (1834) 1 Bing. N. C. 198, 217; White v. Spettigue (1845) 13 M. & W. 603, 14 L. J. Ex. 99. In these cases indeed the cause of action is not the offence itself, but something else which is wrongful because an offence has been committed.
+
+[79557] 33 & 34 Vict. c. 23.
+
+[79579] See the judgment of Baggallay L. J. in Ex parte Ball (1879) 10 Ch. Div. at p. 673. For the difficulties see per Bramwell L. J., ib. at p. 671.
+
+[79723] Lush J., Wells v. Abrahams (1872) L. R. 7 Q. B. at p. 563.
+
+[79783] Blackburn J. ibid.
+
+[79803] Roope v. D’Avigdor (1883) 10 Q. B. D. 412, cp. Midland Insurance Co. v. Smith (1881) 6 Q. B. D. 561, 50 L. J. Q. B. 329.
+
+[79925] Wells v. Abrahams (1872) L. R. 7 Q. B. 554, 41 L. J. Q. B. 306, dissenting from Wellock v. Constantine (1863) 2 H. & C. 146, 32 L. J. Ex. 285, a very indecisive case, but the nearest approach to an authority for the enforcement of the supposed rule in a court of common law.
+
+[80201] Blackburn J., L. R. 7 Q. B. at p. 559. In a later Irish case, S. v. S. (1882) 16 Cox, 566, it was said that, in a proper case, the Court might stay the action of its own motion; and one member thought the case before them a proper one, but the majority did not.
+
+[80464] Ex parte Ball (1879) 10 Ch. D. 667, 48 L. J. Bk. 57.
+
+[80518] See the historical discussion in the judgment of Blackburn J. in Wells v. Abrahams, L. R. 7 Q. B. 560, sqq. And see per Maule J. in Ward v. Lloyd (1843) 7 Scott N. R. 499, 507, a case of alleged compounding of felony: “It would be a strong thing to say that every man is bound to prosecute all the felonies that come to his knowledge; and I do not know why it is the duty of the party who suffers by the felony to prosecute the felon, rather than that of any other person: on the contrary, it is a Christian duty to forgive one’s enemies; and I think he does a very humane and charitable and Christian-like thing in abstaining from prosecuting.”
+
+[81165] 1 Bing. N. C. 198, 217 (1834).
+
+[81197] 3 Mont. & A. 110 (1837).
+
+[81223] The Halley (1868) L. R. 2 P. C. 193, 204, 37 L. J. Adm. 33; The M. Moxham (1876) 1 P. Div. 107.
+
+[81320] Blad’s Case, Blad v. Bamfield (1673-4) in P. C. and Ch., 3 Swanst. 603-4, from Lord Nottingham’s MSS.; The M. Moxham 1 P. Div. 107.
+
+[81453] Ex. Ch. L. R. 6 Q. B. 1, 40 L. J. Q. B. 28 (1870).
+
+[81505] Scott v. Seymour (1862) Ex. Ch. 1 H. & C. 219, 32 L. J. Ex. 61.
+
+[81570] Ib. per Wightman and Willes JJ.
+
+[81603] Per Cur., The Halley, L. R. 2 P. C. at p. 202.
+
+[81651] British South Africa Co. v. Companhia de Moçambique, ’93, A. C. 602, 6 R. 1.
+
+[81729] 4 T. R. 503, 2 R. R. 448 (1792: no action here for trespass to land in Canada): approved in British South Africa Co. v. Companhia de Moçambique, last page.
+
+[81886] L. R. 2 P. C. 193, 37 L. J. Adm. 33 (1868).
+
+[81931] 3 Swanst. 603.
+
+[81947] 3 Swanst. 604.
+
+[81963] 2 Bing. N. C. 781 (1836).
+
+[81990] Bell C. C. 220, 29 L. J. M. C. 97 (1860).
+
+[82033] 2 Bing. N. C. 202.
+
+[82053] 5 East 124, 1 Smith, 351, 7 R. R. 663.
+
+[82093] Cooke’s Bankrupt Law, 487.
+
+[82121] See the text of the statutes, Appendix C.
+
+[82164] See Blake Odgers, Digest of Law of Libel, 2nd ed. 520.
+
+[82220] Plaintiffs imprisoned or being beyond the seas had the same right by the statute of James I., but this was abrogated by 19 & 20 Vict. c. 97 (the Mercantile Law Amendment Act, 1856), s. 10. The existing law as to defendants beyond seas is the result of 4 & 5 Anne, c. 3 [al. 16], s. 19, as explained by 19 & 20 Vict. c. 97, s. 12. As to the retrospective effect of s. 10, see Pardo v. Bingham (1869) 4 Ch. 735, 39 L. J. Ch. 170.
+
+[82649] See p. 52, above.
+
+[82668] Cp. Borrows v. Ellison (1871) L. R. 6 Ex. 128, 40 L. J. Ex. 131 (on the Real Property Limitation Act, 3 & 4 Wm. IV. c. 27); but the language of the two statutes might be distinguished.
+
+[82854] Backhouse v. Bonomi (1861) 9 H. L. C. 503, 34 L. J. Q. B. 181; Darley Main Colliery Co. v. Mitchell (1886) 11 App. Ca. 127, 55 L. J. Q. B. 529, affirming S.C. 14 Q. B. Div. 125. The same principle applies, of course, to special periods of limitation of actions against public bodies or officers: see Crumbie v. Wallsend Local Board, ’91, 1 Q. B. 503, 60 L. J. Q. B. 392.
+
+[83226] Miller v. Dell, ’91, 1 Q. B. 468, 60 L. J. Q. B. 404, C. A.
+
+[83287] 11 & 12 Vict. c. 44, s. 8.
+
+[83315] 24 Geo. II. c. 44, s. 8.
+
+[83341] Public Authorities Protection Act, 1893, 56 & 57 Vict. c. 61.
+
+[83404] See 9 Q. B. Div. 68, per Brett L. J.
+
+[83442] Gibbs v. Guild (1882) 9 Q. B. Div. 59, 51 L. J. Q. B. 313, which makes the equitable doctrine of general application without regard to the question whether before the Judicature Acts the Court of Chancery would or would not have had jurisdiction in the case.
+
+[83702] Weldon v. Neal (1887) 19 Q. B. Div. 394, 56 L. J. Q. B. 621.
+
+[83764] Holt C. J., Cole v. Turner (1705) 6 Mod. 149, and Bigelow L. C. 218.
+
+[83834] Blackst. Comm. iii. 120.
+
+[83860] R. v. Cotesworth, 6 Mod. 172.
+
+[83891] Pursell v. Horne (1838) 3 N. & P. 564 (throwing water at a person is assault; if the water falls on him as intended, it is battery also). But there is much older authority, see Reg. Brev. 108 b, a writ for throwing “quendam liquorem calidum” on the plaintiff: “casus erat huiusmodi praecedentis brevis: quaedam mulier proiecit super aliam mulierem ydromellum quod anglice dicitur worte quod erat nimis calidum.”
+
+[84304] One might expect “believes or causes,” &c.; but this would be an extension of the law. No assault is committed by presenting a gun at a man who cannot see it, any more than by forming an intention to shoot at him.
+
+[84519] Criminal Code (Indictable Offences) Bill, s. 203. Mr. Justice Stephen’s definition in his Digest (art. 241) is more elaborate; and the Indian Penal Code has an extremely minute definition of “using force to another” (s. 349). As Mr. Justice Stephen remarks, if legislators begin defining in this way it is hard to see what they can assume to be known.
+
+[84872] Bacon Abr. “Assault and Battery,” A; Hawkins P. C. i. 110.
+
+[84932] R. v. James (1844) 1 C. & K. 530, is apparently to the contrary. Tindal C. J. held that a man could not be convicted of an attempt to discharge a loaded fire-arm under a criminal statute, nor even of an assault, if the arm is (as by defective priming) not in a state capable of being discharged; but this opinion (also held by Lord Abinger, Blake v. Barnard, 9 C. & P. at p. 628) is against that of Parke B. in R. v. St. George (1840) 9 C. & P. 483, 493, which on this point would almost certainly be followed at this day. The case is overruled on another point, purely on the words of the statute, and not here material, in R. v. Duckworth, ’92, 2 Q. B. 83, 66 L. T. 302.
+
+[85606] Stephens v. Myers, 4 C. & P. 349; Bigelow L. C. 217. A large proportion of the authorities on this subject are Nisi Prius cases (cp. however Read v. Coker (1853) 13 C. B. 850, 22 L. J. C. P. 201): see the sub-titles of Assault under Criminal Law and Trespass in Fisher’s Digest. Some of the dicta, as might be expected, are in conflict.
+
+[85944] Tuberville v. Savage (1669) 1 Mod. 3.
+
+[85983] Holt C. J., Cole v. Turner, 6 Mod. 149.
+
+[86024] Steph. Dig. Cr. Law, art. 241, illustrations.
+
+[86071] Coward v. Baddeley (1859) 4 H. & N. 478, 28 L. J. Ex. 260.
+
+[86131] Innes v. Wylie (1843) 1 C. & K. 257. But it seems the other, if he is going where he has a right to go, is justified in pushing him aside, though not in striking or other violence outside the actual exercise of his right: see p. 160, above.
+
+[86373] The Circuiteers, by John Leycester Adolphus (the supposed speaker is Sir Gregory Lewin), L. Q. R. i. 232; Meade’s and Belt’s ca., 1 Lewin C. C. 184: “no words or singing are equivalent to an assault,” per Holroyd J. Cp. Hawkins P. C. i. 110. That it was formerly held otherwise, see 27 Ass. 134, pl. 11, 17 Ed. IV. 3, pl. 2, 36 Hen. VI. 20 b, pl. 8.
+
+[86724] Under the old system of pleading this was not a matter of special justification, but evidence under the general issue, an assault by consent being a contradiction in terms: Christopherson v. Bare (1848) 11 Q. B. 473, 17 L. J. Q. B. 109. But this has long ceased to be of any importance in England.
+
+[87023] P. 147, above.
+
+[87039] Hawkins, P. C. i. 484. The Roman law went even farther in encouraging contests “gloriae causa et virtutis,” D. 9. 2, ad. 1. Aquil. 7, § 4.
+
+[87179] Cases collected in Fisher’s Dig. ed. Mews, 2081-2. Similarly where consent is given to an un-reasonably dangerous operation or treatment by one who relies on the prisoner’s skill, it does not excuse him from the guilt of manslaughter if death ensues: Commonwealth v. Pierce, 138 Mass. 165, 180.
+
+[87475] Blackst. Comm. iii. 4.
+
+[87499] Reece v. Taylor, 4 N. & M. 470.
+
+[87532] See Stephen’s Digest of the Criminal Law, art. 200, and cp. Criminal Code Bill, ss. 55-57; and for full discussion Dicey, Law of the Constitution, 4th ed. appx. note iv. There are many modern American decisions, chiefly in the Southern and Western States. See Cooley on Torts, 165.
+
+[87815] Reed v. Nutt (1890) 24 Q. B. D. 669, 59 L. J. Q. B. 311.
+
+[87873] 24 & 25 Vict. c. 100, ss. 42—45. Masper v. Brown (1876) 1 C. P. D. 97, decides that the Act is not confined to suits strictly for the same cause of action, but extends to bar actions by a husband or master for consequential damage: the words of the Act are “same cause,” but they are equivalent to “same assault” in the earlier Act, 16 & 17 Vict. c. 30, s. 1, repealed by 24 & 25 Vict. c. 95.
+
+[88267] Blackst. Comm. iii. 127.
+
+[88293] Warner v. Riddiford, 4 C. B. N. S. 180; even if he is disabled by sickness from moving at all: the assumption of control is the main thing: Grainger v. Hill (1838) 4 Bing. N. C. 212.
+
+[88477] Bird v. Jones (1845) 7 Q. B. 742, 15 L. J. Q. B. 82, per Coleridge J.
+
+[88548] Williams J., ib. To the same effect Patteson J.: “Imprisonment is a total restraint of liberty of person.” Lord Denman C. J. dissented.
+
+[88685] Ch. IV. p. 97, above.
+
+[88708] Stephen, Dig. Crim. Proc. c. 12, 1 Hist. Cr. Law 193: and see Hogg v. Ward (1858) 3 H. & N. 417, 27 L. J. Ex. 443.
+
+[88824] This applies only to felony: “the law [i.e., common law] does not excuse constables for arresting persons on the reasonable belief that they have committed a misdemeanour:” see Griffin v. Coleman (1859) 4 H. & N. 265, 28 L. J. Ex. 134.
+
+[89061] Stephen, 1 Hist. Cr. Law, 197, 199. As to the common law powers of constables and others to arrest for preservation of the peace, which seem not free from doubt, see Timothy v. Simpson (1835) 1 C. M. & R. 757, Bigelow L. C. 257, per Parke B.
+
+[89304] Stephen, 1 Hist. Cr. Law, 200.
+
+[89336] Griffin v. Coleman, note (f) last page.
+
+[89377] Barker v. Braham (1773) 2 W. Bl. 866 (attorney suing out and procuring execution of void process).
+
+[89477] Pp. 72, 73, above.
+
+[89497] See Fitzjohn v. Mackinder (1881) Ex. Ch. 1861, 9 C. B. N. S. 505, 30 L. J. C. P. 257.
+
+[89584] Willes J., Austin v. Dowling (1870) L. R. 5 C. P. at p. 540; West v. Smallwood (1838) 3 M. & W. 418; Bigelow L. C. 237; nor does an action for malicious prosecution lie where the judicial officer has held on a true statement of the facts that there is reasonable cause: Hope v. Evered (1886) 17 Q. B. D. 338, 55 L. J. M. C. 146; Lea v. Charrington (1889) 23 Q. B. Div. 45, 272, 58 L. J. Q. B. 461.
+
+[89983] Grinham v. Willey (1859) 4 H. & N. 496, 28 L. J. Ex. 242.
+
+[90042] Austin v. Dowling (1870) L. R. 5 C. P. 534, 39 L. J. C. P. 260. As to the protection of parties issuing an execution in regular course, though the judgment is afterwards set aside on other grounds, see Smith v. Sydney (1870) L. R. 5 Q. B. 203, 39 L. J. Q. B. 144. One case often cited, Flewster v. Royle (1808, Lord Ellenborough) 1 Camp. 187, is of doubtful authority: see Gosden v. Elphick (1849) 4 Ex. 445, 19 L. J. Ex. 9; and Grinham v. Willey, last note.
+
+[90502] Lock v. Ashton (1848) 12 Q. B. 871, 18 L. J. Q. B. 76.
+
+[90558] Hailes v. Marks (1861) 7 H. & N. 56, 30 L. J. Ex. 389.
+
+[90614] Lister v. Perryman (1870) L. R. 4 H. L. 521, 535, per Lord Chelmsford. So per Lord Colonsay at p. 540.
+
+[90718] Lord Campbell in Broughton v. Jackson (1852) 18 Q. B. 378, 383, 21 L. J. Q. B. 266; Lord Hatherley, Lord Westbury, and Lord Colonsay (all familiar with procedure in which there was no jury at all) in Lister v. Perryman, L. R. 4 H. L. 531, 538, 539.
+
+[90968] Broughton v. Jackson (1852) 18 Q. B. 378, 21 L. J. Q. B. 266: the defendant must show “facts which would create a reasonable suspicion in the mind of a reasonable man,” per Lord Campbell C. J.
+
+[91162] Bramwell B., Perryman v. Lister (1868) L. R. 3 Ex. at p. 202, approved by Lord Hatherley, S. C. nom. Lister v. Perryman, L. R. 4 H. L. at p. 533.
+
+[91309] H. Stephen on Malicious Prosecution, ch. 7.
+
+[91354] Christian’s note on Blackstone iii. 142 is still not amiss, though the amendments of this century in the law of evidence have removed some of the grievances mentioned.
+
+[91523] F. N. B. 89 O, 90 H, 91 I; Blackst. Comm. iii. 139. The writ was de uxore abducta cum bonis viri sui, or an ordinary writ of trespass (F. N. B. 52 K); a case as late as the Restoration is mentioned in Bac. Abr. v. 328 (ed. 1832).
+
+[91754] Y. B. 19 Hen. VI. 45, pl. 94.
+
+[91785] Robert Marys’s case, 9 Co. Rep. 113a. It is held in Osborn v. Gillett (1873) L. R. 8 Ex. 88, 42 L. J. Ex. 53, that a master shall not have an action for a trespass whereby his servant is killed (diss. Bramwell B.). It is submitted that the decision is wrong, and Lord Bramwell’s dissenting judgment right. See pp. 57-59, above.
+
+[92114] Blackst. Comm. iii. 140.
+
+[92140] Coleridge J. in Lumley v. Gye (1853) 22 L. J. Q. B. at p. 478. Case would also lie, and the common form of declaration was for some time considered to be rather case than trespass: Macfadzen v. Olivant (1805) 6 East 387. See note (f) next page.
+
+[92386] 20 & 21 Vict. c. 85, ss. 33, 59.
+
+[92420] 23 Edw. III. (ad 1349): this statute, passed in consequence of the Black Death, marks a great crisis in the history of English agriculture and land tenure. As to its bearing on the matter in hand, see the dissenting judgment of Coleridge J. in Lumley v. Gye (1853) 2 E. & B. 216, 22 L. J. Q. B. 463, 480. The action was generally on the case, but it might be trespass: e. g., Tullidge v. Wade (1769) 3 Wils. 18, an action for seducing the plaintiff’s daughter, where the declaration was in trespass vi et armis. How this can be accounted for on principle I know not, short of regarding the servant as a quasi chattel: the difficulty was felt by Sir James Mansfield, Woodward v. Walton (1807) 2 B. & P. N. R. 476, 482. For a time it seemed the better opinion, however, that trespass was the only proper form: ibid., Ditcham v. Bond (1814) 2 M. & S. 436, see 14 R. R. 836 n. It was formally decided as late as 1839 (without giving any other reason than the constant practice) that trespass or case might be used at the pleader’s option: Chamberlain v. Hazelwood (1839) 5 M. & W. 515, 9 L. J. Ex. 87. The only conclusion which can or need at this day be drawn from such fluctuations is that the old system of pleading did not succeed in its professed object of maintaining clear logical distinctions between different causes of action.
+
+[93754] Hartley v. Cummings (1847) 5 C. B. 247, 17 L. J. C. P. 84.
+
+[93814] Blackst. Comm. iii. 139; Winsmore v. Greenbank (1745) Willes 577, Bigelow L. C. 328. It was objected that there was no precedent of any such action.
+
+[93964] Evans v. Walton (1867) L. R. 2 C. P. 615, 36 L. J. C. P. 307, where it was unsuccessfully contended that the action for seducing a daughter with loss of service as the consequence, and for enticing away a servant, were distinct species; and that to sustain an action for “enticing away” alone, a binding contract of service must be proved.
+
+[94305] Willes J., L. R. 2 C. P. 622.
+
+[94336] Speight v. Oliviera (1819) 2 Stark. 493, cited with approval by Montague Smith J., L. R. 2 C. P. 624.
+
+[94439] Harper v. Luffkin (1827) 7 B. & C. 387. This was long before courts of law did or could recognize any capacity of contracting in a married woman.
+
+[94586] Manley v. Field (1859) 7 C. B. N. S. 96, 29 L. J. C. P. 79.
+
+[94647] Dean v. Peel (1804) 5 East 45, 7 R. R. 653; even if by the master’s licence she gives occasional help in her parents’ work; Thompson v. Ross (1859) 5 H. & N. 16, 29 L. J. Ex. 1; Hedges v. Tagg (1872) L. R. 7 Ex. 283, 41 L. J. Ex. 169. In the United States it is generally held that actual service with a third person is no bar to the action, unless there is a binding contract which excludes the parents’ right of reclaiming the child’s services—i.e. that service either de facto or de jure will do: Martin v. Payne (Sup. Court N. Y. 1812), Bigelow L. C. 286, and notes.
+
+[95219] Bramwell B. in Thompson v. Ross, last note.
+
+[95264] Terry v. Hutchinson (1868) L. R. 3 Q. B. 599, 37 L. J. Q. B. 257.
+
+[95331] Littledale J. cited with approval by Blackburn J., L. R. 3 Q. B. 602.
+
+[95402] Rist v. Faux (1863) Ex. Ch. 4 B. & S. 409, 32 L. J. Q. B. 386.
+
+[95466] Grinnell v. Wells (1844) 7 M. & G. 1033, 14 L. J. C. P. 19; Eager v. Grimwood (1847) 1 Ex. 61, 16 L. J. Ex. 236, where the declaration was framed in trespass, it would seem purposely on the chance of the court holding that the per quod servitium amisit could be dispensed with.
+
+[95745] See Terry v. Hutchinson, note (q) last page.
+
+[95791] Irwin v. Dearman (1809) 11 East 23, 10 R. R. 423.
+
+[95842] Hall v. Hollander (1825) 4 B. & C. 660. But this case does not show that, if a jury chose to find that a very young child was capable of service, their verdict would be disturbed.
+
+[96023] Note to Grinnell v. Wells, 7 M. & G. 1044.
+
+[96067] Starkie’s note to Speight v. Oliviera (1819) 2 Stark. 496.
+
+[96127] 11 Hen. IV. fo. 1-2, pl. 2, per Huls J. (ad 1410).
+
+[96179] 22 Hen. VI. 31 (ad 1443).
+
+[96206] L. R. 2 C. P. 621-2.
+
+[96228] 22 Hen. VI. 32 b, per Cur. (Newton C. J.; Fulthorpe, Ascue or Ayscoghe, Portington JJ.); F. N. B. 168 F.
+
+[96334] If the tenancy were not at will, the departure would be a breach of contract; this introduces a new element of difficulty, never expressly faced by our courts before Lumley v. Gye, of which more elsewhere.
+
+[96541] F. N. B. 87 N.; and see the form of the writ there. It seems therefore that “picketing,” so soon as it exceeds the bounds of persuasion and becomes physical intimidation, is a trespass at common law against the employer.
+
+[96763] 14 Edw. IV. 7, pl. 13, a writ “quare tenentes suos verberavit per quod a tenura sua recesserunt”; 9 Hen. VII. 7, pl. 4, action for menacing plaintiff’s tenants at will “de vita et mutilatione membrorum, ita quod recesserunt de tenura”; Rastell, Entries 661, 662, similar forms of declaration; one (pl. 9) is for menacing the king’s tenants, so that “negotia sua palam incedere non audebant”; Garret v. Taylor, Cro. Jac. 567, action on the case for threatening the plaintiff’s workmen and customers, “to mayhem and vex them with suits if they bought any stones”; 21 Hen. VI. 26, pl. 9, “manassavit vulneravit et verberavit”: note that in this action the “vulneravit” is not justifiable and therefore must be traversed, otherwise under a plea of son assault demesne; 22 Ass. 102, pl. 76, is for actual beating, aggravated by carrying away timber of the plaintiff’s (merimentum = materiamen, see Du Cange, s. v. materia; in Anglo-French meresme). In ad 1200 an action is recorded against one John de Mewic for deforcing the plaintiff of land which she had already recovered against him by judgment, “so that no one dare till that land because of him, nor could she deal with it in any way because of him”: Select Civil Pleas, Selden Soc. 1890, ed. Baildon, vol. 1, pl. 7. Cp. Reg. Brev. (1595) 104a, “quando tenentes non audent morari super tenuris suis,” and Tarleton v. McGawley (1794) 1 Peake 270, 3 R. R. 689, action for deterring negroes on the coast of Africa from trading with plaintiff’s ship.
+
+[98263] Keeble v. Hickeringill (1705) 11 East 574n; 11 R. R. 272n. Cp. Select Civil Pleas, vol. I, pl. 106.
+
+[98364] 11 East 576; supra, p. 135.
+
+[98393] Mogul Steamship Co. v. McGregor, ’92, A. C. 25.
+
+[98442] 2 E. & B. 216, 22 L. J. Q. B. 463 (1853).
+
+[98485] Such as the definition of blasphemous libel, and the grounds on which it is punishable.
+
+[98574] Quære, whether defamatory matter recorded on a phonograph would be a libel or only a potential slander.
+
+[98679] Scandalum magnatum was, and in strictness of law still might be, an exception to this: Blake Odgers, Digest of the Law of Libel and Slander, 134—137. Mr. Odgers has not found any case after 1710. There is a curious 14th cent. case of scandalum magnatum in 30 Ass. 177, pl. 19, where the defendant only made matters worse by alleging that the plaintiff was excommunicated by the Pope.
+
+[99064] A Digest of the Law of Libel and Slander, &c. By W. Blake Odgers, London, 2nd ed. 1887.
+
+[99153] See Blake Odgers, pp. 2—4, and 6 Amer. Law Rev. 593. It seems odd that the law should presume damage to a man from printed matter in a newspaper which, it may be, none of his acquaintances are likely to read, and refuse to presume it from the direct oral communication of the same matter to the persons most likely to act upon it. Mr. Joseph R. Fisher, in Law Quart. Rev. x. 158, traces the distinction to “the adaptation by the Star Chamber of the later Roman law of libellus famosus.”
+
+[99641] The old abridgments, e.g. Rolle, sub tit. Action sur Case, Pur Parolls, abound in examples, many of them sufficiently grotesque. A select group of cases is reported by Coke, 4 Rep. 12 b—20 b.
+
+[99834] P. 28, above.
+
+[99849] Vicars v. Wilcocks (1806) 8 East 1, 9 R. R. 361.
+
+[99899] Lynch v. Knight (1861) 9 H. L. C. 577. See notes to Vicars v. Wilcocks, in 2 Sm. L. C.
+
+[99987] Maule J. ex relat. Bramwell L. J., 7 Q. B. D. 437.
+
+[100039] Parkins v. Scott (1862) 1 H. & C. 153, 31 L. J. Ex. 331 (wife repeated to her husband gross language used to herself, wherefore the husband was so much hurt that he left her).
+
+[100216] Blake Odgers 331. Riding v. Smith (1876) 1 Ex. D. 91, 45 L. J. Ex. 281, must be taken not to interfere with this distinction, see per C. A. in Ratcliffe v. Evans, ’92, 2 Q. B. 524, 534, 61 L. J. Q. B. 535.
+
+[100423] Roberts v. Roberts (1864) 5 B. & S. 384, 33 L. J. Q. B. 249.
+
+[100485] Lynch v. Knight, 9 H. L. C. 577.
+
+[100519] Davies v. Solomon (1871) L. R. 7 Q. B. 112, 41 L. J. Q. B. 10.
+
+[100583] Chamberlain v. Boyd (1883) 11 Q. B. Div. 407; per Bowen L. J. at p. 416, 52 L. J. Q. B. 277. The damage was also held too remote.
+
+[100714] Allsop v. Allsop (1860) 5 H. & N. 534, 29 L. J. Ex. 315.
+
+[100772] This is the true distinction: it matters not whether the offence be indictable or punishable by a court of summary jurisdiction: Webb v. Beavan (1883) 11 Q. B. D. 609, 52 L. J. Q. B. 544. In the United States the received opinion is that such words are actionable only “in case the charge, if true, will subject the party charged to an indictment for a crime involving moral turpitude, or subject him to an infamous punishment:” Brooker v. Coffin (1809) 5 Johns. 188, Bigelow L. C. 77, 80; later authorities ap. Cooley on Torts, 197.
+
+[101307] Jackson v. Adams (1835) 2 Bing. N. C. 402. The words were “who stole the parish bell-ropes, you scamping rascal?” If spoken while the plaintiff held the office, they would probably have been actionable, as tending to his prejudice therein.
+
+[101548] Mayor of Manchester v. Williams, ’91, 1 Q. B. 94, 60 L. J. Q. B. 23. As to defamation in the way of business, see p. 227, below.
+
+[101678] The technical reason was that charges of incontinence, heresy, &c., were “spiritual defamation,” and the matter determinable in the Ecclesiastical Court acting pro salute animae. See Davis v. Gardiner, 4 Co. Rep. 16 b; Palmer v. Thorpe, ib. 20 a.
+
+[101926] P. 197, above.
+
+[101942] Leyman v. Latimer (1878) 3 Ex. Div. 352, 47 L. J. Ex. 470. There are some curious analogies to these refinements in the Italian sixteenth-century books on the point of honour, such as Alciato’s.
+
+[102138] Leprosy and, it is said, the plague, were in the same category. Small-pox is not. See Blake Odgers 64.
+
+[102242] Carslake v. Mapledoram (1788) 2 T. R. 473, Bigelow L. C. 84, per Ashhurst J.
+
+[102320] Bloodworth v. Gray (1844) 7 M. & Gr. 334. The whole of the judgment runs thus: “This case falls within the principle of the old authorities.”
+
+[102463] Miller v. David (1874) L. R. 9 C. P. 118, 43 L. J. C. P. 84.
+
+[102525] Doyley v. Roberts (1837) 3 Bing. N. C. 835, and authorities there cited.
+
+[102599] Re Weare, ’93, 2 Q. B. 439.
+
+[102628] Alexander v. Jenkins, ’92, 1 Q. B. 797, 61 L. J. Q. B. 634, C. A.
+
+[102695] L. R. 2 Ex. at p. 330.
+
+[102719] Foulger v. Newcomb (1867) L. R. 2 Ex. 327, 36 L. J. Ex. 169.
+
+[102781] Blake Odgers 80; Shepheard v. Whitaker (1875) L. R. 10 C. P. 502.
+
+[102848] South Hetton Coal Co. v. N. E. News Association, ’94, 1 Q. B. 133, 9 R. Apr. 170 (this was a printed libel, but the principle seems equally applicable to spoken words).
+
+[103018] Per C. A., Ratcliffe v. Evans, ’92, 2 Q. B. 524, 527, 61 L. J. Q. B. 535.
+
+[103093] Ratcliffe v. Evans, last note; cp. Hartley v. Herring (1799) 8 T. R. 130, 4 R. R. 614; Riding v. Smith (1876) 1 Ex. D. 91, 45 L. J. Ex. 281, must be justified, if at all, as a case of this class: ’92, 2 Q. B. at p. 534.
+
+[103314] See Bigelow L. C. 117.
+
+[103338] Bayley J. in Bromage v. Prosser (1825) 4 B. & C. at p. 253, Bigelow L. C. 137: “Malice in common acceptation means ill-will against a person, but in its legal sense it means a wrongful act done intentionally without just cause or excuse:” so too Littledale J. in McPherson v. Daniels (1829) 10 B. & C. 272.
+
+[103646] Lord Blackburn in Capital and Counties Bank v. Henty (1882) 7 App. Ca. 787, 52 L. J. Q. B. 232.
+
+[103743] See Williamson v. Freer (1874) L. R. 9 C. P. 393, 43 L. J. C. P. 161.
+
+[103814] Printing is for this reason prima facie a publication, Baldwin v. Elphinston, 2 W. Bl. 1037. There are obvious exceptions, as if the text to be printed is Arabic or Chinese, or the message in cipher.
+
+[104015] Pullman v. Hill & Co., ’91, 1 Q. B. 524, 60 L. J. Q. B. 299, C. A. But if the occasion of the letter is privileged as regards the principal, the publication to the clerk in the usual course of office business is privileged too. Boxsius v. Goblet Frères, ’94, 1 Q. B. 842, 9 R. Mar. 211, C. A.
+
+[104309] Duke of Brunswick v. Harmer (1849) 14 Q. B. 185, 19 L. J. Q. B. 20.
+
+[104378] Blake Odgers 154.
+
+[104397] Emmens v. Pottle (1885) 16 Q. B. Div. 354, per Bowen L. J. at p. 358, 55 L. J. Q. B. 51. But it seems the vendor would be liable if he had reason to know that the publication contained, or was likely to contain, libellous matter.
+
+[104628] Tompson v. Dashwood (1883) 11 Q. B. D. 43, 52 L. J. Q. B. 425, was overruled by Hebditch v. MacIlwaine, ’94, 2 Q. B. 54, 9 R. July, 204, C. A. See pp. 252-3, below.
+
+[104794] Wenman v. Ash (1853) 13 C. B. 836, 22 L. J. C. P. 190, per Maule J. But communication by the defendant to his wife is not a publication: Wennhak v. Morgan (1888) 20 Q. B. D. 635, 57 L. J. Q. B. 241.
+
+[104994] Parkes v. Prescott (1869) L. R. 4 Ex. 169, 38 L. J. Ex. 105, Ex. Ch. Whether the particular publication is within the authority is a question of fact. All the Court decide is that verbal dictation or approval by the principal need not be shown.
+
+[105240] Gibson v. Evans (1889) 23 Q. B. D. 384, 58 L. J. Q. B. 612.
+
+[105301] Capital and Counties Bank v. Henty (1882) 7 App. Ca. 741, 52 L. J. Q. B. 232, where the law is elaborately discussed. For a shorter example of words held, upon consideration, not to be capable of such a meaning, see Mulligan v. Cole (1875) L. R. 10 Q. B. 549, 44 L. J. Q. B. 153; for one on the other side of the line, Hart v. Wall (1877) 2 C. P. D. 146, 46 L. J. C. P. 227.
+
+[105677] See 7 App. Ca. 748 (Lord Selborne).
+
+[105714] Blake Odgers 109—112.
+
+[105737] 7 App. Ca. 768, 782, 790, cf. p. 787.
+
+[105776] Lord Blackburn, 7 App. Ca. 776.
+
+[105809] Lord Selborne, 7 App. Ca. 744; Lord Blackburn, ib. 778; Lord Bramwell, ib. 792, “I think that the defamer is he who, of many inferences, chooses a defamatory one.”
+
+[105974] Australian Newspaper Co. v. Bennett, 6 R. Sept. 36, P. C.
+
+[106033] Purcell v. Sowler (1877) 2 C. P. Div. 215, 46 L. J. C. P. 308.
+
+[106097] Watkin v. Hall (1868) L. R. 3 Q. B. 396, 37 L. J. Q. B. 125.
+
+[106159] Littledale J., McPherson v. Daniels (1829) 10 B. & C. 263, 273, adopted by Blackburn J., L. R. 3 Q. B. 400. The latter part of the 4th Resolution reported in the Earl of Northampton’s case, 12 Co. Rep. 134, is not law. See per Parke J., 10 B. & C. at p. 275.
+
+[106419] See Parkins v. Scott (1862) 1 H. & C. 153, 31 L. J. Ex. 331, p. 223, above.
+
+[106496] See per Bowen L. J., Merivale v. Carson (1887) 20 Q. B. Div. at p. 282.
+
+[106569] Lord Esher M. R., 20 Q. B. Div. at p. 280.
+
+[106613] 3 B. & S. 769, 32 L. J. Q. B. 185 (1863).
+
+[106656] (1887) 20 Q. B. Div. 275, 58 L. T. 331. This must be taken to overrule whatever was said to the contrary in Henwood v. Harrison (1872) L. R. 7 C. P. 606, 626, 41 L. J. C. P. 206.
+
+[106836] Bowen L. J., 20 Q. B. Div. at p. 283.
+
+[106875] Blackburn J., Campbell v. Spottiswoode, 32 L. J. Q. B. at p. 202; cp. Bowen L. J., 20 Q. B. Div. at p. 284.
+
+[106984] See however Wason v. Walter (1868) L. R. 4 Q. B. at p. 96, 38 L. J. Q. B. 34, and Stevens v. Sampson (1879) 5 Ex. Div. 53, 49 L. J. Q. B. 120; and per Lord Esher M. R., 20 Q. B. Div. at p. 281.
+
+[107179] Lord Esher M. R., Merivale v. Carson, 20 Q. B. Div. 275, 281.
+
+[107242] On this ground the actual decision in Henwood v. Harrison, note (o), p. 236, may have been right; see however the dissenting judgment of Grove J.
+
+[107389] Including the conduct at a public meeting of persons who attend it as private citizens: Davis v. Duncan (1874) L. R. 9 C. P. 396, 43 L. J. C. P. 185. A clergyman is a public officer, or at any rate the conduct of public worship and whatever is incidental thereto is matter of public interest: Kelly v. Tinling (1865) L. R. 1 Q. B. 699, 35 L. J. Q. B. 940, cp. Kelly v. Sherlock (1866) L. R. 1 Q. B. at p. 689, 35 L. J. Q. B. 209.
+
+[107820] Purcell v. Sowler, 2 C. P. Div. 215, 46 L. J. C. P. 308.
+
+[107878] Merivale v. Carson (1887) 20 Q. B. Div. 275, 58 L. T. 331; Jenner v. A’Beckett (1871) L. R. 7 Q. B. 11, 41 L. J. Q. B. 14. Qu. whether the dissenting judgment of Lush J. was not right.
+
+[108064] Davis v. Shepstone (1886) J. C. 11 App. Ca. 187, 55 L. J. P. C. 51.
+
+[108133] Merivale v. Carson (1887) 20 Q. B. Div. 275, 58 L. T. 331.
+
+[108193] Compare the similar doctrine in trespass, which has peculiar consequences. But of this in its place.
+
+[108295] Littledale J., 10 B. & C. at p. 272.
+
+[108333] Fleming v. Dollar (1889) 23 Q. B. D. 388, 58 L. J. Q. B. 548.
+
+[108396] Alexander v. North Eastern R. Co. (1865) 6 B. & S. 340, 34 L. J. Q. B. 152.
+
+[108473] Leyman v. Latimer (1878) 3 Ex. Div. 352, 47 L. J. Ex. 470.
+
+[108533] Helsham v. Blackwood (1851) 11 C. B. 128, 20 L. J. C. P. 187, a very curious case.
+
+[108617] St. 4 Hen. VIII. c. 8 (Pro Ricardo Strode); Bill of Rights, 1 Wm. & M. sess. 2, c. 2, “That the freedome of speech and debates or proceedings in Parlyament ought not to be impeached or questioned in any court or place out of Parlyament.”
+
+[108856] Scott v. Stansfield (1868) L. R. 3 Ex. 220, 37 L. J. Ex. 155; the protection extends to judicial acts, see the chapter of General Exceptions above, pp. 104—106, and further illustrations ap. Blake Odgers 188.
+
+[109066] Munster v. Lamb (1883) 11 Q. B. Div. 588, where authorities are collected.
+
+[109142] Seaman v. Netherclift (1876) 2 C. P. Div. 53, 46 L. J. C. P. 128. But there is no privilege for those who procure other persons to give false and defamatory evidence: Rice v. Corlidge (1876) 121 Mass. 393, Ames, Sel. Ca. 616. For American views on the main question see Ames, op. cit. 438.
+
+[109433] Dawkins v. Lord Rokeby (1873-5) Ex. Ch. and H. L., L. R. 8 Q. B. 255, 7 H. L. 744, 45 L. J. Q. B. 8, see opinion of judges 7 H. L. at p. 752; Dawkins v. Prince Edward of Saxe Weimar (1876) 1 Q. B. D. 499, 45 L. J. Q. B. 567.
+
+[109659] Goffin v. Donnelly (1881) 6 Q. B. D. 307, 50 L. J. Q. B. 303. A licensing meeting of a County Council is not a Court for this purpose: Royal Aquarium Society v. Parkinson, ’92, 1 Q. B. 431, 61 L. J. Q. B. 409, C. A.
+
+[109876] Dawkins v. Lord Paulet (1869) L. R. 5 Q. B. 94, 39 L. J. Q. B. 53, see the dissenting judgment of Cockburn C. J., and the notes of Sir James Stephen, Dig. Cr. L. art. 276, and Mr. Blake Odgers, op. cit. 195. The reference of the Judicial Committee to the case in Hart v. Gumpach (1872) L. R. 4 P. C. 439, 464, 42 L. J. P. C. 25, is quite neutral. They declined to presume that such an “absolute privilege” existed by the law and customs of China as to official reports to the Chinese Government.
+
+[110373] The burden of proof is not on the defendant to show his good faith: Jenoure v. Delmege, ’91, A. C. 73, 60 L. J. P. C. 11, J. C. This, however, is or ought to be elementary.
+
+[110547] See per Lord Blackburn, 7 App. Ca. 787.
+
+[110588] See per Blackburn J. in Davies v. Snead (1870) L. R. 5 Q. B. at p. 611.
+
+[110661] Cases of this kind have been very troublesome. See Blake Odgers 217-21.
+
+[110734] See Coxhead v. Richards (1846) 2 C. B. 569, 15 L. J. C. P. 278, where the Court was equally divided, rather as to the reasonably apparent urgency of the particular occasion than on any definable principle.
+
+[110941] Somerville v. Hawkins (1850) 10 C. B. 583, 20 L. J. C. P. 133.
+
+[111005] Spill v. Maule (1869) Ex. Ch. L. R. 4 Ex. 232, 38 L. J. Ex. 138.
+
+[111071] Baker v. Carrick, ’94, 1 Q. B. 838, 9 R. Apr. 212, C. A.
+
+[111129] Laughton v. Bishop of Sodor and Man (1872) L. R. 4 P. C. 495, 42 L. J. P. C. 11.

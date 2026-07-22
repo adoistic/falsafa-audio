@@ -1,0 +1,1251 @@
+WORK: Public Finance  (slug: charles-francis-bastable-public-finance-1ff8b2)
+
+CHAPTER: 48-y-z
+
+
+
+[0] Printed in Great Britain by Richard Clay & Sons, Limited, Bungay, Suffolk,
+
+[76] For the various meanings of the term ‘Finance,’ see Roscher, § I, also Garnier, 1–3. The original idea is that of paying a fine (finare). Unfortunately, in England the word has been used with a wider meaning, as including all monetary and even industrial facts. Thus we have Jevons's Investigations in Currency and Finance, Mr. Patterson's Science of Finance, and Sir R. Giffen's Essays in Finance, all dealing mainly with those wider questions. An English writer is therefore compelled, in order to avoid misapprehension, to limit the word as in the text, when he is treating of what the Germans can without inconvenience call Finanzwissenschaft, or the French Science des Finances. In French there is a convenient distinction between the singular and plural, the former being used in the general sense, as in La haute finance, while the latter is reserved for ‘public finance.’ Prof. Adams has recently employed the term ‘Science of Finance’ to describe ‘an investigation of public expenditures and public revenues.’ Profs. Plehn and Daniels have followed in the titles of their manuals the example of this work.
+
+[1192] That is, with Continental writers. In England these topics are generally relegated to works on ‘Constitutional Law’ and ‘Parliamentary Usage.’ Recent American works on Public Finance give considerable space to ‘Financial Administration and the Budget.’ See Adams, Finance, 103–218; Daniels, 315–324, 344–373; Plehn, 325–353.
+
+[1518] Leroy-Beaulieu, i. 2, 3.
+
+[1544] Cf. the title to J. R. McCulloch's well-known work, Taxation and the Funding System. So strong is the disposition in England and America to limit the subject of finance to taxation, that in the American translation of Cossa's useful Scienza delle Finanze, the title is changed into Taxation: its Principles and Methods.
+
+[1865] The statement of Turgot's policy in his Letter to the King (ii. 165): Point de banqueroute, point d'augmentation d'impóts, point d'emprunts, is a striking example. Also cp. Gladstone's remark, ‘Good finance consists more in the spending than in the collecting of revenue,’ West, Recollections of Mr. Gladstone, ii. 309.
+
+[2186] The omission of public expenditure as a topic in ‘finance,’ in the case of English writers, was perhaps in part caused by neglect of the economic theory of the ‘Consumption of Wealth’ with which it would naturally be connected.
+
+[2415] E.g. Umpfenbach, 1–22; Roscher, § 5; Cohn, §§ 4–7; Wagner, i, 16–20.
+
+[2485] The works of J. S. Mill, Fawcett, and Shadwell may be given as examples.
+
+[2559] The treatises of Rau, Roscher, Wagner, and Cohn on Finance are all in name sections of works on ‘Political Economy.’ The collection of monographs on financial questions in the Schönberg Handbuch is another instance.
+
+[2776] Examination of the works referred to in the preceding note will support the statement in the text. The financial sections of the treatises there mentioned are in fact independent, and may be studied quite apart from the other sections.
+
+[3013] The determination of the comparative advantages of raising supplies by loans or by fresh taxation, the choice between different methods of levying taxes, and the need in certain cases of resorting to issues of inconvertible paper are instances.
+
+[3259] French financial history affords the best possible illustration. M. Stourm in his valuable work, Les Finances de l'ancien Régime et de la Révolution, has shown conclusively that the modern French system is developed from that existing before the Revolution. Stourm, passim, and especially ii. 501–2.
+
+[3560] On this subject see Wagner, iii. 199, and his article in Conrad's Jahrbücher, 1886, i. 197 sq.; Dunbar in Quarterly Journal of Economics, i. 1 sq.; Marshall, Principles of Economics, Bk. i. ch. 5; also J. N. Keynes, Method and Scope of Political Economy.
+
+[3816] Cairnes's Logical Method (2nd ed.), 60 sq. The varying use of the term ‘induction’ by logicians has helped to increase the confusion as to the real relation of the inductive and deductive methods. Cf. J. S. Mill, Logic, Bk. ii. ch. 4, § 5; and Bk. iii. ch. 2, which contains his controversy with Whewell on this point.
+
+[4136] For this loose use of experiment, cf. Jevons's ‘Experimental Legislation’ in Methods of Social Reform, 253 sq.; also Newmarch, Address to British Association (section F), 1861.
+
+[4314] It is interesting to notice that one of the earliest attempts to apply mathematical methods to social questions was in regard to the theory of taxation by Canard in his Principes d Économie Politique, Paris, 1802.
+
+[4529] See for good examples of the method, Cournot's inquiries in his Recherches Mathématiques; Auspitz und Lieben, Untersuchungen über die Theorie des Preises; M. Pantaleoni, Teoria della traslazione dei tributi; and Fleeming Jenkin, ‘The Incidence of Taxes,’ Collected Papers, ii. 107–121. Prof. Edgeworth's brilliant researches on ‘The Pure Theory of Taxation,’ Economic Journal, vii. 46–70, 226–228, 550–571, may be specially noticed.
+
+[4963] The parts of the Theodosian Code dealing with administration are our principal source of information as to the financial system of the later Roman Empire. See, for a lucid exposition of the mechanism of Roman finance, Humbert's Essai sur les Finances et la Comptabilité publique chez les Romains (Paris, 1886, 2 vols.). The standard work on Athenian finance is Boekh, Staatshaushaltung der Athener (3rd ed. by Fränkel, 1887). A considerable amount of information respecting the tax system of Egypt has been obtained, and much more may be expected, through recent investigations. See Wilcken, Griechische Ostraka aus Ægypten und Nubien.
+
+[5600] E.g. Tacitus, Ann. 13, 31; Pliny, Pan. 37.
+
+[5644] See De Coulanges, La Cité antique, Bk. iii. ch. 18, for a powerful statement of the classical ideas respecting the relations of the individual and the State.
+
+[5803] For the causes hindering the rise of economic science, see Ingram, Hist. of Pol. Economy, 7–9; for Roman ignorance of the principles of taxation, cf. Merivale, Romans under the Empire, viii. 356; and for the obstructive effects of the methods employed by the Empire, Guizot, Civilisation in France, Lect. 2; Clamageran, Histoire de l’ Impót en France, i. 89 sq.
+
+[6166] The Dialogus de Scaccario in Stubbs's Select Charters, 168–248, shows the processes of the English Exchequer. See also H. Hall, Antiquities of the Exchequer.
+
+[6325] For one example of mediæval city finance, see Schönberg, Finanzverhält nisse der Stadt Basel im 14. und 15. Jahrhundert. For some features of Florentine finance, see Seligman, Progressive Taxation, 22 sq., 70. The most remarkable Florentine writers were Palmieri, Guetti, and Guicciardini the historian.
+
+[6630] The fullest account of Bodin is in Baudrillart's Jean Bodin et son Temps (Paris. 1853). His views on taxation are described by Clamageran, ii. 314–330. For English readers, Hallam, Literature of Europe, Part ii. ch. 4, § 2, may be noticed as giving a convenient summary.
+
+[6902] Such was the work of Antoine Montcrétien, Traicté d’ Économie Politique (1615), a series of counsels addressed to Louis XIII.
+
+[7029] Wealth of Nations, 173.
+
+[7054] The most remarkable of these writers are Faust, Conring, and Klock. An attempt has been made by Stein (i. 125, and Finanzarchiv, i. 1 sq.) to prove that the last-named was ‘the true founder of the theory of taxation,’ but the bulk of his work seems not above the ordinary mercantile position, and his views on taxation are derived from Bodin. He has been further accused of copying from the earlier work of Faust. See also Roscher, Geschichte, 210 sq.
+
+[7507] For Justi, see Roscher, Geschichte, 444–465; for his Finance, 461–465; also Cohn, §§ 9, 71; Meyer, 16–17; Wagner, i. 35–6.
+
+[7631] Montesquieu, 108.
+
+[7650] See the texts of Vauban and Boisguillebert in Les Économistes Financiers du XVIIIme Siècle (ed. Daire). Also Ingram, 57–9. For Montesquieu, cp. Stein, i. 131–2.
+
+[7812] On these minor writers, see Ricca-Salerno, Le Dottrine Finanziarie in Inghilterra; also Vocke, Finanzarchiv, vii. 56.
+
+[7931] The most important parts of Steuart's Principles, so far as finance is concerned, are—Book iv. part 4 (Public Credit), and Book v. (Taxes). For a good, but too favourable account of Steuart's financial doctrines, see Hasbach, Untersuchungen über Adam Smith, Book ii. ch. 4, 1st section.
+
+[8219] See Physiocrates (ed. Daire), 128, or Oncken's Quesnay, 696, for the Second Problème. Of the Maximes, Nos. 5, 27, 28, 29, 30, relate to finance. For the latest views of Quesnay's position, see S. Bauer, ‘Zur Entstehung der Physiocratie’; Conrad's Jahrbücher, August 1890; and Quarterly Journal of Economics, v. 100 sq.; also Schelle, Du Pont de Nemours (Paris, 1888). The general doctrines of the Physiocrats are described for English readers by Mr. Higgs, The Physiocrats (1897); their theory of incidence is well explained in Prof. Seligman's Shifting and Incidence of Taxation (2nd ed. 1899), 95–112.
+
+[8824] See Œuvres de Turgot (ed. Daire); for finance more especially, i. 389–632; ii. 368–432, but financial questions are often noticed by him when treating of other matters. On his differences from Quesnay, see Schelle, 127 sq.
+
+[9048] For the influence of the Physiocrats on the financial system of the Revolution, see Stourm, i. 128–130, ii. 2–11; Schelle 319 sq.
+
+[9179] Cp. the judgment of Prof. Hasbach, Untersuchungen, 220–98.
+
+[9239] Cp. Book i. chap. 6 (22), with Book v. chap. 2, part 2 (347).
+
+[9302] Cohn, §§ 11–12; also his Grundlegung, §§ 74–79; Geffcken, in Schönberg, 22; Wagner, i. 40–1; also Ingram, 107–9.
+
+[9416] The contrast between the liberal policy pursued by the younger Pitt in the earlier years of his administration and his later measures is very marked. Examples belonging to our subject are the Commercial Treaty with France in 1786 and the consolidation of the Customs Laws.
+
+[9690] Ricardo, chaps. 8–18 inclusive. See Wagner, ii. 333, and Cohn, § 248, for recognition of his work in this respect. In another department of finance, R. Hamilton, by his work on The National Debt, developed and added to the arguments of Adam Smith, and was followed by Ricardo. Sir J. Sinclair's History of the Publïc Revenue (1785, 3rd ed. 1803) deserves mention for its careful treatment of facts and the acquaintance shown with foreign literature on the subject.
+
+[10156] Among those who may be mentioned are Harl, Krehl, Fulda, and more especially Jacob (Finanzwissenschaft, 1821) and Malchus (Finanzwissenschaft, 1830).
+
+[10307] See Roscher, Geschichte, 847 sq.
+
+[10341] For fuller examination of the German writers of this period, see Wagner, i. 44–5, ii. 7–9, 11–12; Meyer, §§ 6–9, 13, 17, 18, 19; Vocke, Abgaben, 10–33; Falck, Lehre von der Steuerüberwälzung, 104–144.
+
+[10543] Such as the already mentioned work of Schönberg, Finanzverhältnisse der Städt Basel (1879); Schmoller, Die Epochen der preussischen Finanzpolitik; Zeumer, Die deutschen Städtesteuern; Vocke, Geschichte der Steuern der brit Reiche.
+
+[10775] Schäffle, Gesammelte Aufsätze, i. 158–183, esp. 167 sq.; Schmoller, ‘Die Lehre vom Einkommen’ (Zeitschrift für Gesammte Staatswissenschaft, 1863).
+
+[10923] Especially i, 48–50, ii. 449.
+
+[10954] For further details see Cossa, Introduction to the Study of Political Economy, ch. 15; also his Scienza delle Finanze (Bibliographies); Ricca-Salerno, Storia delle dottrine finanziarie in Italia (2nd ed. 1896).
+
+[11166] The text-book of the Hungarian writer Béla Foldes appears to be an important one.
+
+[11249] Gladstone, Financial Statements, 1853, 1860–64; Goschen, Local Taxation (1872), may be referred to.
+
+[11350] Sherman's Speeches and Reports on Finance and Taxation may be referred to as a specimen of the work of American politicians of the better kind.
+
+[11495] E.g. by Mr. Spencer, Principles of Sociology, Part ii.
+
+[11551] See his Province of Jurisprudence Determined, and for earlier statements of the same truth, Hobbes, Leviathan, ch. 18; Bodin, De Republica, Bk. i. ch. 8.
+
+[11706] Political Economy, 543–4 (1st ed).
+
+[11742] ‘Each public department stands prepared to give the most confident reasons why it is absolutely necessary to keep up the scale of its expenditure to the exact point at which it now is.’ Parnell, Financial Reform, 100.
+
+[11961] The events of the closing years of the 19th century both in England and the United States abundantly illustrate this statement.
+
+[12090] I.e. allowing only necessary expenses for the individual, anything above being manifestly profit.
+
+[12189] Cp. the difficulties of the United States, in the years immediately preceding 1891, with their surplus revenue.
+
+[12302] Prof. Adams argues in favour of a deficit (Public Debts, 78–83); but the three reasons which he gives in support of his position are derived from a one-sided view of the financial experiences of the United States referred to in the preceding note. They are wholly inapplicable to other countries. The authority of Peel and Gladstone—so great on all practical matters of finance—may be quoted in support of the rule given in the text. ‘The training I received from Sir R. Peel was that the right and sound principle was to estimate Expenditure liberally, to estimate Revenue carefully, to make each year pay its own expenses, and to take care that your charge is not greater than your income.’ Buxton, Mr. Gladstone as Chancellor of the Exchequer, 157, and cp. the whole chapter.
+
+[13082] Marshall, Principles of Economics, i. 137.8 (3rd ed.).
+
+[13138] Roscher, § 109; Wagner, i. 9–16; Geffcken in Schönberg, 6.
+
+[13198] Principles, Bk. v. ch. 1, § 1. Cp. ch. 11, passim.
+
+[13250] See Appendix to ch. 8 for a fuller discussion of this point.
+
+[13312] Supra, Intr. chap. ii. for the effect on financial theory.
+
+[13372] Strictly true only of England, and in a much less degree of France.
+
+[13441] Wealth of Nations, 286.
+
+[13466] Ingram, History of Pol. Econ. ch. 5.
+
+[13504] See specially the latter's Theory of Legislation (’Principles of the Civil Code’).
+
+[13588] Principles, Bk. v. ch. 1, § 2.
+
+[13620] Principles, Bk. v. ch. 11, § 7.
+
+[13653] Liberté du Travail.
+
+[13674] Principles of Political Economy, Bk. iii. ch. 2. Elements of Politics, ch. 10.
+
+[13754] Theory of the State (Eng. Trans. 2nd. ed.), 320–1. Cp. also Wagner, i. 76, Cohn, §§ 34 sq.
+
+[13846] Voyage of the “Beagle,” 229–230.
+
+[13880] Cp. Cohn, Book i. chaps. 1, 2, for a general view of the financial aspects of social development. Also Vocke, Abgaben, &c. Part i.
+
+[14012] Principles, Bk. v. ch. 11, § 16.
+
+[14046] Wealth of Nations, 289, cp. 296.
+
+[14080] See tables at end of this chapter.
+
+[14116] This statement is amply confirmed by the growth of expenditure in the past ten years. But cf. the view of Adams, Finance, 56–7.
+
+[14245] See infra, Bk. i. ch. 8, § 1. Cp. Wagner, i. 417, sq. Roscher, § 119.
+
+[14316] In some cases Adam Smith saw clearly enough that division of labour was not always desirable. Cp. Wealth of Nations, 217 with 327.
+
+[14448] Bk. xiii. ch. 17.
+
+[14467] See Wagner, i. 427, for a full list.
+
+[14505] Cairnes, Political Essays, 199–255. On this point his judgment is for once supported by the agreement of Cliffe Leslie [Essays (1st ed.), 128–47], whose opinion is the more valuable, as it was formed after personal study of the Prussian system, and was in opposition to his earlier belief.
+
+[14796] Supra, ch. i. § 2.
+
+[14816] Geffcken in Schönberg, 53.
+
+[14844] Leslie, Essays (1st ed.), 143. See Wagner, i. 426, for a directly opposite view.
+
+[14926] This plan has been advocated by Sir C. Dilke, Problems of Greater Britain, 380.
+
+[15007] Though naval expenditure is usually much less than that required for military purposes, yet the English naval estimates for each of the five years, 1895–1900, exceeded those for the army, as the subjoined table shows. This was of course due to the peculiar situation of the British Empire, with its territories spread over the various regions of the globe. The South African War has for the time removed this anomaly, but the return of peace may recreate it.
+
+[15467] Giffen, Growth of Capital, 145. Cp. ‘Wie die produktive Technik des Jahrhunderts ihre Kehrseite hat in der Technik der Zerstörung, so wird die erstere tributär gemacht für die letztere, und je ergiebiger sie ist um so mehr muss sic abgeben..... Die hiermit gebotene Aussicht ist nicht erfreulich; sie ist aber auch nicht so trostlos, wie sie meist dargestellt wird,—unter der Voraussetzung nicht, das bei jeder betheiligten Nation der Fortschritt des Militärausgaben von der fortschreitenden Productivität der Volkswirthschaft begleitet ist wie bisher.’ Cohn, § 390. For the supposed stimulus to industry, see Sir F. Abel's presidential address to the British Association at Leeds, Report (1890), 25.
+
+[16169] Bk. ii. ch. 3, ‘The Industrial Domain.’
+
+[16210] Leslie, 140, who adds some striking instances.
+
+[16258] Cairnes, ut sup. 223.
+
+[16281] Leslie, 141.
+
+[16295] i. 416 sq.
+
+[16307] For an admirable statement of the evils of war see the essay on ‘The Evolution of Peace,’ in Lawrence, Essays on International Law, 234 sq.
+
+[16448] Giffen, Essays in Finance (1st Series), 1–55, gives an estimate of the cost of that war.
+
+[16538] See Note at end of Chapter.
+
+[16567] The exemption of private property at sea from capture is the most obvious and desirable reform in this direction.
+
+[16682] Farrer, State and Trade.
+
+[16708] Maine, Ancient Law, ch. 10; Early Institutions, chs. 9 and 10; Jenks, Law and Politics in the Middle Ages.
+
+[16816] Cp. Maine, Early Law and Custom, 185 n.
+
+[16857] If the fees were so large as to leave a surplus after paying salaries and other expenses, ‘Administration of Justice’ might have to appear in Book ii. as one of the departments of ‘State Industry.’
+
+[17056] The statement in the text does not exclude the levying of fees for various legal acts. This side of the question is considered infra, Bk. II. Ch. iv., and Bk. IV. Ch. viii. The most important field for levying legal fees is in connexion with Commercial Courts. Traders as a special class may not unfairly be required to defray the expenses of the tribunals that they use.
+
+[17429] Promotion on the Continent is said to be from the bench to the bar, a complete reversal of English ideas.
+
+[17536] Thus we find ‘Police of commerce,’ ‘Police of grains,’ and even the ‘Police State,’ for a system of paternal legislation. See Dictionary of Political Economy, Vol. III., Art. ‘Police,’ for a full account of the different uses of his term.
+
+[17776] See Du Cane, The Punishment and Prevention of Crime, chs. 1–3.
+
+[17840] For theories of punishment see Bentham, Theory of Legislation; also T. H. Green, Philosophical Works, ii. 486–511; Bosanquet, Philosophical Theory of the State, 275 sq.
+
+[18010] E.g., the restraints so forcibly criticised in Turgot's Éloge de Gournay could not exist now. Turgot, i. 266–270.
+
+[18125] Farrer, State and Trade, and Cunningham, Economics and Politics, both describe this movement, but with divergent sentiments.
+
+[18251] For the United States, see Bryce, American Commonwealth, ch. 91. For the English Colonies, Dilke, Problems of Greater Britain, 508.
+
+[18384] Farrer and Cunningham, as above. For vigorous protests against the tendency, see H. Spencer, State and Man; the recent work, A Plea for Liberty; and the publications of the Liberty and Property Defence League; also Léon Say, Socialisme d'État.
+
+[18629] For a statement of these causes, Goschen, ‘Laissez faire and Government Interference,’ Addresses, 59–84.
+
+[18735] Ricardo, Works (ed. McCulloch), 58–9; Malthus on Population (8th ed.), 428 sq.
+
+[18815] ‘Every society, upon arriving at a certain stage of civilisation, finds it positively necessary for its own sake ... to provide that no person ... shall perish for want of the bare necessaries of existence.’ Fowle, Poor Law (1st ed.), 10, who regards this as the ‘general principle’ and ‘cause’ of poor-law legislation.
+
+[19136] Sidgwick, ‘Economic Socialism,’ Fortnightly Review, Sept. 1886.
+
+[19201] Bk. I. ch. 3, § 6.
+
+[19221] Political Economy, 526.
+
+[19246] See J. E. T. Rogers, Economic Interpretation of History, 487.
+
+[19309] In an interesting article on ‘Old Age Pensions’ (Economic Review, iii. 475–85), Mr. Phelps shows the effective working of private charity in supplementing and modifying the rigour of the legal provision.
+
+[19514] Droit au Travail, quite different from the Droit du Travail.
+
+[19576] Mr. C. Booth's Endowment of Old Age contains the best statement of the case for old-age pensions. See especially chap. vi. for the financial aspects of the subject. Mr. Booth contemplates calmly the reimposition of the sugar duty, increased taxation on tea and ‘drink,’ 3d. additional on the income-tax, with ‘an adjustment of death duties in reserve.’ It may be fairly asked what resources would remain for use in case of the outbreak of war, with its inevitable pressure on the national earning power. The additional inquiries by the Commission on ‘The Aged Poor’ (1895) and the Departmental Committee on pension schemes, also the evidence taken by Mr. Chaplin's Committee, appear to establish the immense difficulties in the way of any general pension scheme. The effect on the British finances of the South African War proves the justice of the criticism made in this note on Mr. Booth's proposals.
+
+[20480] Addresses, 113 sq.
+
+[20500] The attitude of the Physiocrats on the subject of education is remarkable, and helps us to understand their general conception of state policy. It was not so much interference, as injurious interference that they opposed; but they felt that all state action had elements of evil in its disturbance of voluntary action, and in its expense. Turgot, ii. 502–551, Mémoire sur les Municipalités, said to be the composition of Du Pont de Nemours. Cp. Schelle, 362 sq.
+
+[20963] Wealth of Nations, 329–30. An argument also urged by Malthus, Essay On Population (8th ed.), 437 sq.
+
+[21065] Provision of this kind was made for Ireland in the Intermediate Education Act, 1878.
+
+[21151] Secondary education is likely to become an increasing charge on the State, owing to the general desire to ‘organise’ it and supply it to all who may desire to obtain it.
+
+[21322] ‘The improvements which in modern times have been made in several different branches of philosophy, have not the greater part of them been made in Universities.... The greater part of Universities have not been very forward to adopt those improvements after they were made, and several of those learned societies have chosen to remain ... the sanctuaries in which exploded systems and obsolete prejudices found shelter and protection after they had been hunted out of every other corner of the world.’ Wealth of Nations, 323.
+
+[21849] Cp. Cohn, § 150. The donations of Mr. Carnegie and such bequests as those of Mr. Rhodes are recent instances of this tendency.
+
+[21977] See his quotation from the latter (History of England, ch. 29), whom he describes as ‘by far the most illustrious philosopher and historian of the present age.’ Wealth of Nations, 331.
+
+[22163] ‘The revenue of every established church ... is a branch, it ought to be observed, of the general revenue of the State, which is thus diverted to a purpose very different from the defence of the State.’ Wealth of Nations, 341.
+
+[22391] ‘Congress shall make no law respecting an establishment of religion.’ First Amendment to U.S. Constitution. Some State constitutions contain a similar provision. Bryce, American Commonwealth (2nd ed.), ii. 570–1.
+
+[22605] Introduction, chap. 2.
+
+[22629] Wealth of Nations, Bk. v. ch. i. part 3, art. 1, 303 sq. Cp. Turgot's statement of Gournay's views in the ‘Éloge,’ i. 279.
+
+[22753] Bk. ii. ch. 3; Bk. iv. ch. 8.
+
+[22784] E.g. the Indian and Canadian Posts and most of the Continental state railways.
+
+[22864] Book iv. ch. 7.
+
+[22881] The fact that the Anglo-Indian Government has adopted a policy of nonintervention, so far as trade and commerce are concerned, is the more remarkable, since if ever there were a case where rulers might be supposed to be fitted by superior wisdom and insight to direct their subjects, this would be one. But cp. Bk. ii. ch. 3, § 3, for the treatment of industry.
+
+[23244] Wealth of Nations, 213.
+
+[23269] See Quarterly Journal of Economics, Oct. 1890, 44–69 (‘A Century of Patent Law,’ by Chauncey Smith), for the effects of the United States patent laws.
+
+[23421] On the economic effects of exhibitions, see Cherbuliez, Précis de la Science Économique, ii. 31–33; Droz, Essais Économiques, 454–7.
+
+[23555] This seems more properly to belong to the subject of the ‘public domain,’ as it usually gives a surplus. See Bk. ii. ch. 2, §§ 8, 9.
+
+[23689] The depression in agriculture has led to increased state assistance in most European countries. Denmark and Würtemberg are noticeable instances. The Irish ‘Department of Agriculture’ and ‘The Congested Districts Board’ are attempts of a similar kind.
+
+[23941] H. C. Adams, Public Debts, 317–342.
+
+[23978] Cp. Fawcett, Indian Finance. For a vigorous defence, see Strachey, The Finances and Public Works of India (1869–1881).
+
+[24098] For the position of the King's revenues, infra, Bk. ii. ch. 2. Cp. Roscher, §§ 9, 117; Wagner, i. 401 sq.
+
+[24205] A comparison of the cost of the English Monarchy and Parliament with that of the United States President and Congress shows that the latter is on the whole more expensive. This curious circumstance is the consequence of the non-payment of the members of the English Houses. Admirers of the American system would remark that British peers and M.P.'s obtain indirect rewards that are still less to the advantage of their country.
+
+[24634] Leroy-Beaulieu, i. 267 sq.; Wagner, iii. 432–4, 607–10.
+
+[24691] Supra, Bk. i. ch. 4, § 4.
+
+[24718] ‘Es ist vor allen Dingen der Reichthum historischer Veranlassungen und historischer Besonderheiten, welcher diese Verschiedenheiten erklärt.’ Cohn, § 115. Cp. Thorold Rogers, Economic Interpretation of History, ch. 22.
+
+[24938] Tocqueville, Ancien Régime, Livr. ii. ch. 2 (Eng. Trans. 40 sq.).
+
+[25005] The correspondence between Trajan and the younger Pliny instructively illustrates this dependence. See Bury, Student's Roman Empire, 440–2.
+
+[25146] For the division of expenditure between the state treasuries and the towns see Humbert, Essai sur les Finances, i. 209, 389–401, 411–417.
+
+[25285] Roscher, § 156; also his Ackerbau, §§ 5 sq.
+
+[25330] Local Taxation, 190.
+
+[25352] Finance Statistics of the American Commonwealths, 108.
+
+[25408] The prominence that the question of municipal trading has assumed is a good illustration.
+
+[25499] Rules limiting expenditure, and so raising a barrier against abuses, are in such cases very useful, and seem to be growing in favour both in the United Kingdom and the United States.
+
+[25683] The number of new towns that have sprung up in England, Germany, and above all in America, during the last fifty years, makes this point important.
+
+[25832] The Harbour and Dock Boards, very common in England, elected under special franchises and with power to levy tolls, are a good example.
+
+[25969] Every one knows that Parliament will do neither of the things mentioned in the text, but the limitations on its action are moral, not legal, and consist in the fear of exciting opposition on the part of the people, and in its own sentiments, i.e. they are external and internal. Cp. Dicey, Law of the Constitution, Lect. ii.
+
+[26295] ‘No new State shall be formed or erected within the jurisdiction of any other State, nor any State be formed by the junction of two or more States or parts of States, without the consent of the legislatures of the States concerned as well as of the Congress.’ Constitution of U.S., Art. iv. section 3. Cp. Art. 78 of the German Constitution for an analogous provision.
+
+[26665] See the instructive articles on ‘Local Government in Prussia,’ by Professor Goodnow, Pol. Science Quarterly, iv. 648–666, and v. 124–158; and the same writer's Administrative Law, Bk. iii. ch. 7.
+
+[26862] Bavaria and Würtemberg are the only States that keep an appearance of independence, but in war the allegiance of the Bavarian troops is due to the Emperor, and her contribution towards expenses is compulsory. In Switzerland, though part of the forces are cantonal, the first claim on their services belongs to the Federal Government, and the principal outlay is by it. In 1876 it was about six-sevenths of the whole.
+
+[27280] ‘It would not be a matter personally indifferent to the rest of the country if any part of it became a nest of robbers or a focus of demoralisation, owing to the maladministration of its police; or if, through the bad regulations of its gaol, the punishment which the courts of justice intended to inflict on the criminals confined therein (who might have come from, or committed their offences in, any other district) might be doubled in intensity, or lowered to practical immunity.’ J. S. Mill, Representative Government, 116.
+
+[27810] See Report of the Commission of 1832, 232–260.
+
+[27858] Local Government and Taxation, Cobden Club Essays (3rd Series, 1875), 143.
+
+[27934] Bk. i. ch. 1, § 2.
+
+[27954] Cp. Bk. iii. ch. 6, § 7.
+
+[27980] As in the case of municipal gas or water works; Bk. ii. ch. 3.
+
+[28044] Roscher classifies duties of local bodies as (a) State, (b) compulsory local, and (c) optional local. § 157. Cp. Wagner, i. 96 sq.
+
+[28176] Stein, i. 64, 76–81. Wagner, i. 79, includes the first, but not the second kind of Colonial finance. For the latest treatment on the subject, see Flora, Le Finanze degli Stati Composti.
+
+[28363] A good illustration is supplied by the Australian Colonies. Previous to 1901, Victoria and New South Wales were quite separate, and their financial systems could not be scientifically combined. Now they are parts of the Commonwealth of Australia, though it will be some time before the financial arrangements are duly adjusted. A confederation of the British Empire may afford another example on a grander scale.
+
+[28777] For the different uses, see Wagner, i. 135 sq; Cohn, §§ 157–9.
+
+[28841] The English budget estimate of expenditure for 1889–90 was £85,967,000; the expenditure for that year was £86,083,000; an error of less than one-seventh per cent. Supplementary estimates are, of course, excluded.
+
+[29055] The direct cost of the war of 1870–1 to France has been estimated at £234,000,000. Giffen, Essays in Finance (1st Series), 1–55. That of the American Civil War at £1,800,000,000. Wells in Cobden Club Essays (2nd Series), 488. Mr. Bolles gives £1,238,000,000 as actually paid out up to 1879. Financial History of U.S., 241 sq.
+
+[29382] ‘The amount of revenue raised in time of peace ought to be greater than the expenses for a peace establishment, and the overplus applied to the discharge of debts contracted in former wars.’ Hamilton, National Debt, 7; see Bk. v. ch. 7, § 4.
+
+[29625] Infra, Bk. vi. ch. 3.
+
+[29648] The theory of public debts and borrowing is treated in Bk. v. chs. 5, 8. In local finance we shall see that borrowing is in such cases the only course open, as otherwise the funds could not be obtained, owing to the restraints on local taxing powers.
+
+[29900] See on this point Bk. v. ch. 5. C. Dietzel appears to be the originator of the theory. He is followed by Stein and partly by Wagner.
+
+[30034] Wealth of Nations, Bk. ii. ch. 3.
+
+[30069] The term ‘productive’ has received such hard treatment, and is so closely connected with the idea of material wealth, that it seems, on the whole, better to use a more distinctive term.
+
+[30256] Bk. ii. ch. 3.
+
+[30272] Supra, Bk. i. ch. 6, § 1.
+
+[30299] Schaffle and Schmoller have both suggested that ‘net income’ is not the only source of public revenue. Cp. Bk. iii. ch. 2, §§ 6, 7.
+
+[30432] For Justi see Roscher, Geschichte, 463. See also Hock, 35. Leroy-Beaulieu, i. 127 sq., esp. 133.
+
+[30530] Such as those of Sir R. Giffen De Foville, and Pantaleoni, for England, France, and Italy respectively.
+
+[30635] Victorian Year Book, 1887–8, i. 203, where a table of comparative taxation is given. In India and Australasia the proportion of tax to non-tax revenue is almost the same (40 per cent.), and the rate per head in India for 1885–6 was 3s., while averaged over the Australasian Colonies it was £2 17s.
+
+[30934] Thus in framing the English budget for 1894 the principal points for consideration were: (1) the propriety of increasing the naval estimates beyond the amount required in the preceding year; and, should extra expenditure be decided on, (2) its legitimate amount, which was held to be £3,126,000 out of £95,458,000.
+
+[31250] During the Parliamentary Sessions 1880–2, out of 576 financial proposals, 556 were for increase of expenditure, only 20 for reduction.
+
+[31386] Budget Speech of 1860 in Financial Statements, 119.
+
+[31439] See Léon Say, Les Finances de la France, iii. 1–31, for an admirable statement and criticism of this movement.
+
+[31551] There are, however, items of expenses and receipt between the Empire and Prussia which reduce each amount in 1902–3 by 348 million marks.
+
+[31690] Roscher, § 110; Umpfenbach, 38.
+
+[31723] ii. 159.
+
+[31733] The estimated expenditure on the Prussian State Railways in 1902–3 is 883 million marks, besides the part of the total debt due to their purchase. The receipts, however, are estimated at 1,416 million marks.
+
+[31942] Supra, Bk. i. ch. 2.
+
+[31964] Neymark, Les Dettes Publiques, 89.
+
+[32000] The policy of expansion adopted by the United States since the war with Spain will almost certainly bring them under the influences that have affected the finances of European States.
+
+[32185] Leroy-Beaulieu, ii. 169 sq.
+
+[32214] The contrast between the doctrines of The Radical Programme (ch. 8, ‘Taxation and Finance’) and those of Cobden, Bright, and George Grote is very extreme.
+
+[32370] Hermann, Staatswirthschaftliche Untersuchungen (2nd ed.), 465, indicates this very clearly.
+
+[32463] C. Kingsley, Cheap Clothes and Nasty.
+
+[32502] On this point cp. Prof. Foxwell's article in Claims of Labour, 254. For further observation of state dealings with labour, see Bk. ii. ch. 3, § 20.
+
+[32651] The belief that the State should be a model employer is rapidly gaining ground, as the partial adoption of the eight-hour day and the acceptance of the Trade Union rate of wages show.
+
+[32836] Wells in Cobden Club Essays (2nd Series), 491. Cp. Adam Smith's remarks on the absorption of ‘more than a hundred thousand soldiers and seamen,’ disbanded at the close of the Seven Years’ War, in the ranks of industry. Wealth of Nations, 196.
+
+[33080] ‘The golden maxim of M. Say, “that the very best of all plans of finance is to spend little, and the best of all taxes is that which is the least in amount.’ Ricardo, Works, 145.
+
+[33260] See Introduction. ch. i. § 2.
+
+[33291] Plehn, Public Finance, Part i.
+
+[33323] Cohn, §§ 79–91; Plehn, 28–32.
+
+[33354] Prof. Nicholson puts this criticism most effectively. Principles, iii. 373.
+
+[33431] Even the annual pension grant of £1,200 for literary services has been the object of keen criticism, and in some cases the grants have been quite undeserved.
+
+[33590] Adams, Finance, Part i.
+
+[33615] Mill, Representative Government, ch. 2.
+
+[33656] For further criticism on this point see the reviews of Adams' work by Prof. Seligman (Pol. Science Quarterly, xiv. 134–5); and the present writer (Economic Journal, ix. 435).
+
+[33832] Principles of Pol. Economy, III. chs. 15, 16.
+
+[33879] Introduction, ch. i. § 2.
+
+[33906] Supra, Bk. i. ch. 8, § 4.
+
+[33933] Though each is simply the House of Commons sitting under a special name.
+
+[34007] Supra, Bk. i. ch. 1, § 7.
+
+[34034] Thus Blackstone (i. 281–337) gives twenty-one different rights as composing the ‘ordinary’ revenue of the King, from which enumeration taxes are excluded. Cibrario describes twenty-four heads of revenue in mediæval Italy. Economia Politica del medio aevo, Lib. iii. cap. 6. For the diverse Egyptian revenues, see Wilcken, Griechische Ostraka.
+
+[34378] Justi and Sonnenfels both speak of ‘accidental revenue’ (Zufällige Einkünfte), but they can hardly be credited with a theory of ‘fees’ as distinct from ‘taxes.’
+
+[34540] This is the course followed by Stein and Roscher; the former (i. 138 sq.) speaks of ‘economic’ income; the latter of ‘whole or half private economic State receipts.’ Bk. i. chs. 4, 5 (§§ 18–24).
+
+[34736] Umpfenbach, who substitutes the term ‘Fiscal prerogative rights’ (Varrechte) for ‘regalia,’ takes the former course: 78; Wagner, i. 487 sq., ii. 33, the latter. In recent discussion, ‘contributions’ (Beiträge) have been brought in as an additional section of revenue by some writers.
+
+[35021] This is the case with regard to Cohn (see e.g. § 107), who declines to discuss the question of state property, as being economic rather than financial.
+
+[35174] Cp. Wagner, i. 474–5. For the regalia, cp. Sax: ‘Die Regalien gehören der Wirthschaftsgeschichte und dem positiven öffentlichen Rechte an, die volkswirthschaftliche Theorie ... hat mit ihnen nichts zu schaffen.’—Staatswirthschaft, 480.
+
+[35411] § 18. This confusion is characteristic of the feudal system. Cp. ‘Among the many things which may be said about the system known to us as Feudalism, one of the least doubtful is that it mixed up or confounded property and sovereignty.’ Maine, Early Law and Custom, p. 148.
+
+[35685] See for further discussion of this point, Bk. ii. ch. 3, § 9 n.
+
+[35750] Bk. i. ch. 6, § 2.
+
+[35770] For the view of taxation as an occasional resource, Neumann, Progressive Einkommensteuer, 1, 2, and the references there given. Also Blackstone, Bk. i. ch. 8, and contrast Mr. Dicey's view. ‘We may therefore, putting the hereditary revenue out of our minds, direct our whole attention to what is oddly enough called the extraordinary, but is in reality the ordinary or Parliamentary revenue of the nation.’—Law of the Constitution (1st ed.) 316.
+
+[36217] Though the root-idea of the analysis can be traced back to the Physiocrats, yet Adam Smith originated its form and applications.
+
+[36347] The text-books of General Walker, Dr. Sidgwick, and Prof. Marshall are instances. The separation between capitalist and entrepreneur is made both by J. B. Say and Rau.
+
+[36516] ‘The Classification of Public Revenues,’ Quarterly Journal of Economics, April 1893, vii. 286–321, now forming ch. 9 in his Essays in Taxation, to which work the references are made.
+
+[36700] Cp. Seligman, Essays, 265–6, with Book ii. ch 1, § 3 supra.
+
+[36761] Principles of Science, 679–80.
+
+[36793] Darwin, Origin of Species, ch. 14.
+
+[36829] Professor Plehn has distorted this statement into the assertion that ‘Professor Bastable claims that the sole consideration in the choice of a classification in such subjects as “grammar, jurisprudence, legislation, and finance” is convenience for the immediate purpose in hand.’ Political Science Quarterly, xii. 84. Contrast with this supra Book ii. ch 1, § 3. ‘The merits of any particular classification depend partly on the end in view.’
+
+[37273] Professor Seligman's tabular arrangement, Essays, 302, would seem to give ‘fines and penalties’ even a higher rank. They result from the ‘penal power,’ and are opposed to special assessments, fees, and taxes, which are due to exercise of the taxing power; but this is comparatively unimportant.
+
+[37569] Essays, 268.
+
+[37583] Jurisprudence, i. 237.
+
+[37607] Professor Plehn tries to meet this objection by referring to the change of meaning in the terms ‘value, rent, wages’ made by economists. But his own explanation shows that there is no real parallelism in the two cases. ‘A word adopted from daily life by science must,’ he says, ‘be deprived of some of its “extension” for the purpose of giving it a perfectly clear “intension,”’ Political Science Quarterly, xii. 85. The term fee has not been treated in this way. Its ‘extension’ has been enormously increased, and, as a necessary consequence, its ‘intension’ has been reduced, and, judging from the somewhat dreary disputes on the matter, has lost, not gained, in clearness. It may be remarked that if ‘Gebuhr’ is to be translated into English, ‘due’ is the least inappropriate equivalent.
+
+[38399] Essays, 275.
+
+[38413] Cp. infra, Bk. ii. ch. 4, § 10.
+
+[38446] The few European instances are not prominent enough to attract attention.
+
+[38521] See the excellent study entitled Special Assessments, by the latter.
+
+[38591] This is Professor Seligman's expressed belief. Essays, 292.
+
+[38652] Seligman, Essays, 286.
+
+[38676] See on this point the following American cases: Matter of Church, 92 N.Y. 6; Allen v. Drew, 44 Vt. 174; N. Indian Railway Co. v. Conelly, 10 Ohio, 159.
+
+[38829] It is also possible, and actually happens, that taxation is by constitutional provisions confined to proportional charges.
+
+[38953] ‘Special assessments are paid once and for all.’—Seligman, Essays, 289. Cp. Rosewater, Special Assessments, 129.
+
+[39067] Ricardo's plan for paying off the National Debt may be given as an instance. See his Works, 545–6; and cp. Cannan, ‘Ricardo in Parliament, Economic Journal, iv. 421–3.
+
+[39236] On this point Prof. Plehn is a supporter of the view taken above, though he regards it as partly based on an entire misconception.
+
+[39368] Pol. Science Quarterly, xii. 82–92.
+
+[39405] In addition to the references given above, see Mr. Montague’s article in the Dict. of Pol. Economy, i. 303.
+
+[39514] Pol. Science Quarterly, 84.
+
+[39543] See Bk. ii. ch. 4, §§ 7–10.
+
+[39572] 39. Plehn, pt. ii. ch. 11.
+
+[39600] Cp. the statement ‘Provincialia prædia usucapionem non recipiunt.’ Caius, Institutes, ii 46.
+
+[39694] The distinction between the property of the ruler as a private person and that which accompanies his office is now of little interest. It was emphasised in the Roman Empire—res privatæ opposed to res fiscales—(Humbert, i. 187 sq.), and was of much importance in Germany in the case of mediatised princes, who naturally tried to stretch the private element as far as possible. In practice the same end is reached by different means in modern States, as in the cases of Baden and Würtemberg, noted by Roscher, § 9.
+
+[40208] The net receipts in the year 1900–1 were £500,000, or less than one-half per cent. of the total receipts. The revenues of the duchies of Lancaster and Cornwall should in strictness be added with a corresponding item of expenditure for the sovereign's support. Bk. i. ch. 6, § 5.
+
+[40488] Economic Interpretation of History, 417 sq.
+
+[40533] Say, Dictionnaire des Finances, s. v. ‘Budget Communal.’
+
+[40591] The most careful estimates place the amount of immovables disposed of during the revolutionary period at £220,000,000, i.e. £120,000,000 for Church and Crown lands, £100,000,000 for those of the émigrés. Stourm, ii. 461.
+
+[40813] The estimate for the Austrian domains and forests for 1891 was less than 500,000 florins (net revenue).
+
+[40918] For the position of the state serfs, see Wallace, Russia, 105, 473, 553.
+
+[40992] ‘It is also fruitless to discuss exactly what the Oriental institution of a Land Revenue is, whether a “land tax,” or rent, or what. ... Practically the discussion is a profitless war of words, and we may be content to speak of the “Land Revenue” as a thing per se.’ Baden Powell, Land Revenue in British India, 49.
+
+[41309] ‘It seems to me that the distinction between a tax and a rent is merely a matter of amount; and that if a land tax is so high as to absorb the rent it becomes in fact rent.’ Campbell in Cobden Club Essays (1st series), 130–1. Cp. Marshall, Principles (3rd ed.), 727 n.
+
+[41579] ‘Except for the period 1830 to 1840 the lands have been a drain upon our finances. At the end of the financial year 1882–3 the government was out of pocket. ... in the sum of more than $126,000,000.’ Hart, Essays on American Government, 241.
+
+[41822] The precise figures are—
+
+[41848] The proportion of land revenue to the total receipts in each of the last-mentioned colonies was as follows:—
+
+[41958] The idea of state ownership of land, based on an application of the economic theory of rent, first appeared in James Mill's Elements. He was probably led to it by his study of India. J. S. Mill, in the later years of his life, maintained a like opinion, which in later years has been urged with much enthusiasm by Henry George, and in Australia by Mr. Syme.
+
+[42317] Wealth of Nations, 347. Cp. the opinion of Burke, ‘A landed estate is certainly the very worst which the Crown can possess. All minute and dispersed possessions, ... which require a continued personal attendance, are of a nature more proper for private management than public administration.’ Speech on Economical Reform (1780), Works, ii. 79.
+
+[42662] The Australasian colonies, incorrectly as it seems, have placed sales of land among current receipts; a partial exception is found in Victoria, where a small sum is carried to the Railway Construction Account, Victorian Year-Book (1887–8), i. 140.
+
+[42911] The sale of fee-simple estates to European settlers is emphatically one of those exceptions that prove the rule.
+
+[43025] Roscher, § 11.
+
+[43041] Not even Wagner, cp. i. 540–1.
+
+[43073] An interesting description of estate management is given in Escott's England, ch. 3. The following passage bears out the view in the text: ‘The Crown and the Ecclesiastical Commissioners are at the present moment the most extensive land proprietors in England, having the management of properties with a rental of upwards of £400,000, situated in all parts of the United Kingdom. These are administered upon practically the same principles which obtain in the cases of the large landed nobility,’ 37. See also the evidence given to the Royal Commission on ‘Agricultural Depression,’ i. 1–19, 115–121.
+
+[43675] For the origin of the Emphyteusis, see Gaius, Institutes, iii. 145; cp. the Aforamento in Portugal described by Laveleye, Cobden Club Essays (1st series), 241.
+
+[43836] Thus the Emphyteuta had for his remedy the ulitis actio in rem closely analogous to the Vindicatio or owner's remedy.
+
+[43955] The transition to money payments is a mark of advance. This took place in England in the 12th century. See the Dialogue of the Exchequer, Book i, in ch. 7, Stubbs, Select Charters, 193–4.
+
+[44144] ‘Presque partout le paysan n'aime pas la forêt, dans le Midi il n'aime pas l'arbre; il n'a qu'une faible idée d'utilitéindirecte des choses. Les grandes et les moyennes propriétés, les parcs, auxquels s'attaque la frivolitédémocratique, rendent à ce point de vue de réels services à la communauté.’—Leroy-Beaulieu, État Moderne, 124. The cutting of trees by peasant purchasers in Ireland is a good illustration of this general tendency.
+
+[44582] Supra, Bk. i. ch. 6, § 3.
+
+[44609] Leroy-Beaulieu, i. 46–66, 91–2; Wagner, i. 571 sq.; Roscher, §§ 16, 17.
+
+[44682] Say, Dictionnaire des Finances, s. v. ‘Communes,’ 1120; see also s. v. ‘Alienation,’ 117–8.
+
+[44775] Roscher, Handel und Gewerbfleiss, § 180.
+
+[44817] On the nature of mining rents see Sorley, Mining Royalties; also Marshall, Principles, i. 491.
+
+[44913] Wagner, i. 609.
+
+[44930] Jevons, Coal Question, 354 sq. The ‘rings’ formed in the articles mentioned in the text illustrate the danger, but in all cases the originators have suffered heavily.
+
+[45098] See Bk. iv. ch. 6 for the salt tax.
+
+[45135] ‘On ne se fait pas une idée de tout ce que fabrique l'état en France; il fait des tapis (les Gobelins), des porcelaines (Sèvres), des cartes au Bureau d'état major, des gravures (au Louvre), de l'imprimerie (à l'Imprimerie Nationale): il fait des boîtes d'allumettes, des cigarettes, il élève des chevaux et des poulains dans ses haras; il fait du vin à l'école d'agriculture de Montpellier.’—Gide, L'École Nouvelle, 18.
+
+[45557] Wagner, i. 623.
+
+[45574] The Report of the Committee on ‘War Office Organisation’ (Cd. 580–581) brings out forcibly the difficulties of this question, and particularly those surrounding the system of audit and the estimation of the cost of production. See particularly the evidence of Mr. Harris (pp. 380–7).
+
+[45859] This defect in state industrial management is very forcibly exposed in Cobden's last speech in Parliament (July 22nd, 1864): ‘Throughout the inquiries before Parliamentary Committees upon our Government manufactories, you find yourself in a difficulty directly you try to make the gentlemen at the head of these establishments understand that they must pay interest for capital, rent for land, as well as allow for depreciation of machinery and plant.’ Speeches (popular ed.), 301–2. ‘The accounts rendered of this clothing department are most fallacious. I find that about £15,000 a year for fixed charges and interest of money have never been brought into the accounts at all, and that there is no allowance for rates and taxes,’ ib. 304. Cp. ‘Although the victualling and other offices that carry on manufactures produce accounts by way of showing that they make them cheaper than they can be got by contract, this does nothing towards supporting their case, because their accounts are all kept in so imperfect a manner that they cannot be relied on.’ Parnell, Financial Reform, 162–3.
+
+[46949] Hunter, Imperial Gazetteer of India, vi. 515–6.
+
+[46998] These cautions are particularly important as dealing with the very practical question of the proper limits of municipal trading.
+
+[47128] See Bk. iv. ch. 6; and, for particular forms, ‘Taxation through Monopoly,’ Economic Journal, i. 307–325.
+
+[47234] The nature and characteristics of these industries are discussed by Farrer, State and Trade, 68 sq.; also cp. H. C. Adams, Relation of the State to Industrial Action, and Science of Finance, 263–4.
+
+[47433] For the position of English municipalities, see the annual Reports of the Local Government Board. For the United States, The relation of modern municipalities to quasi-public works (American Economic Association, ii. No. 6); also Ely, Taxation in American States and Cities, 47 sq. For Germany, Wagner, ii. 160–4; Roschér, § 158. Also Leroy-Beaulieu, État Moderne, 228 sq.; Say, Dictionnaire d' Économie politique, s. v. ‘Eau dans les Villes.’ For an instructive comparison between Berlin and Paris, see Rowe, Gemeindefinanzen, ch. iv. In the last few years there has been a great development of municipal industries, specially in connexion with electric lighting, and very keen controversy as to the expediency of this movement. See the evidence taken by the Committee on ‘Municipal Trading.’
+
+[48228] See the articles on the subject by L. S. Rowe, Annals of American Academy, xi. 301–23; and W. S. Lewis, Quarterly Journal of Economics, xii. 209–24.
+
+[48378] In addition to the works given in the preceding notes, see James, The Modern Municipality and the Gas Supply; and Farrer, State and Trade, ch. 11.
+
+[48526] ‘Waterworks are generally owned by our municipalities, and gasworks rarely.’ Ely, 48.
+
+[48613] In 1891–2 Berlin obtained the following net profits:—
+
+[48668] Making 7,216,506 marks, or over £360,000. Rowe, pp. 87, 90. For 1897–8 the gasworks yielded about 5,000,000 marks.
+
+[48784] Leroy-Beaulieu, i. 110.
+
+[48809] The city of Berlin owed in 1892 nearly 75,000,000 marks (£3,750,000) on account of its gas and water works. Rowe, 191.
+
+[48929] See Bk. v. ch. 8, for an examination of local indebtedness.
+
+[48990] Cp. Cohn, § 458.
+
+[49008] Wealth of Nations, 344.
+
+[49033] Macaulay, History of England, ch. 3.
+
+[49071] The reform is described by one of the most sober of English statesmen as ‘a measure of undoubted social and general advantage, but extremely inconvenient in a financial sense.’ Northcote, Twenty Years of Financial Policy, 9. It was opposed at the time by J. R. McCulloch; see his Taxation and Funding, 327–32. For an examination of the use of the Post Office as an agent for taxation, see Bk. iv. ch. 8.
+
+[49476] These amounts do not include the telegraph service, or the payments for packets
+
+[49557] For the French Post before 1789, Vignes, Traitédes Impôts, i. 476 sq.; Clamageran, ii. 658; iii. 43, 232, 293, etc. For its later history, Leroy-Beaulieu, i. 645 sq.; De Parieu, iii. 287 sq.
+
+[49749] Wagner, ii. 142; Cohn, §§ 293–6, also Finanz-Archiv, x. 765–6.
+
+[49813] Another side of the Post Office, its dealings with money, belongs to ‘Banking,’ and will be considered under that head. Bk. ii. ch. 4, § 2.
+
+[49954] The Bern Convention of 1875, by which the uniform rate of 2½d. per ½ oz. was settled as the international postage charge for most civilised nations, and gradually extended to others, has been a great advance. India and the Australasian Colonies have since the opening of 1891 obtained the same rate with England.
+
+[50268] Adam Smith noticed these conditions: ‘The capital to be advanced is not very considerable. There is no mystery in the business. The returns are not only certain but immediate,’ 344; cp. the fuller account of Jevons, Methods of Social Reform, 277–80; also Wagner, i. 654–5.
+
+[50542] This combination of different elements in the postal revenue has led to a curious diversity in the classification made by financial writers. Adam Smith considers it under the head of ‘Funds which peculiarly belong to the sovereign. Leroy-Beaulieu (Bk. ii. ch. 12), De Parieu (iii. 285), and Cohn (§ 77) place it under Taxation. Roscher (§ 28) practically follows Adam Smith. Vocke (Finanzwissenschaft, 36) treats it as an ’economic monopoly.' Stein (ii 315 sq.) places it in the list of prerogative rights regalia); while Umpfenbach (§§ 61–3) and Wagner (ii. 141 sq.) regard the postal revenue as being derived from ‘fees’ (Gebühren). These differences are due to the attempt to reduce to simplicity what is in its nature complex, and are therefore necessarily failures. J. S. Mill (Bk. v. ch. 5, § 2) distinguishes, as in the text, between the industrial and tax elements. The question of the true nature of postal revenue is discussed at length in the Memoranda on Classification and Incidence. The prevailing view agreed with that given in the text, but the answers of Professors Sidgwick and Edgeworth suggest the necessity of considering the loss to the society in consequence of the state monopoly through the destruction of ‘consumer's rent.’ (see pp. 100 and 127). Sir R. Giffen and Mr. Cannan argue that the gross postal receipts should be regarded as taxation, but this is obviously incorrect. The former writes, ‘The postage of letters is a tax on letters—taxe des lettres it is called by French economists’ (p. 94). This, however, ignores the fact that taxe, as distinguished from ‘impôt,’ and like the Italian ‘tasse,’ is rather a ‘fee’ or ‘due’ than a ‘tax’ in the English sense. If the gross receipts of the Post Office are to be called taxation, it would follow that the purchase of the English railways by the State would transform railway rates and fares into taxation, and thus nearly double the tax revenue. See for a series of acute but over-subtle distinctions, Seligman, Essays, 295 sq.
+
+[52553] ‘The present mileage of submarine cables is 152,000 miles, of which 90 per cent. has been provided by private enterprise and 10 per cent. by the various governments.’ Times, July 21st, 1894.
+
+[52745] § 3, supra. A grave oversight was committed with regard to the English telegraph account, by which £800,000 was spent without sanction.
+
+[52882] Wealth of Nations, 303 sq.; cp. 379.
+
+[52920] According to Professor Cohn, the expenditure of the Prussian Government on waterways for the years 1880–90 shows an annual average of £1,835,000 against annual receipts of £100,000. He declares that ‘thus nearly the entire surplus of the railway administration is swallowed up by the waterways.’ Economic Journal, iv. 544.
+
+[53244] Much stress has been laid on the indirect benefits likely to result from the abolition or lowering of dues on waterways by encouraging industry. This claim really amounts to the advocacy of a bounty, and should be judged on that ground. Cp. Bk. i. ch. 6. For the economic and financial position of canals, see De Foville, La Transformation des Moyens de Transport, ch. 7.
+
+[53617] For a clear statement of the opposed methods see Cohn, § 437.
+
+[53680] For an admirable account of the variations of American and English railway policy see Hadley, Railroad Transportation, chs. 7 and 9.
+
+[53814] Tooke-Newmarch, History of Prices, v. 367–9.
+
+[53860] Say, Dictionnaire des Finances, 991, s. v. ‘Chemins de Fer’; Stourm, Le Budget, 257.
+
+[53946] For French railway policy see Hadley, ch. 10, and the articles ‘Chemins de Fer’ in Say, Dictionnaire des Finances and Dictionnaire d'Economie politique.
+
+[54100] For the history of German railway policy, see Wagner, i. 707–13; Hadley, 203–8.
+
+[54181] The surplus over working expenses, the interest on debt, and the net gain are as follows:—
+
+[54273] The zone tariff policy of Hungary has improved the net receipts, but it is perhaps too soon to say whether the improvement will be permanent.
+
+[54416] In addition to works already referred to, see Von Scheel in Schönberg, 94–104.
+
+[54496] See Mr. Acworth's instructive article, ‘Government Railways in a Democratic State.’ Economic Journal, ii. 629.
+
+[54608] Victorian Year-Book, 1893, ii. 475–7. The following table gives more accurate figures for each colony:—
+
+[54713] ‘Die anderen deutschen Staaten sind Preussen (sofern sie nicht vorangegangen) in der Richtung der Staatsbahnpolitik gefolgt, haben freilich nicht ebenso günstige finanzielle Ergebnisse aufzuweisen,’ § 439.
+
+[54920] This is specially true of undeveloped countries such as Australia and Russia.
+
+[54999] ‘If the State manages the railways just with the same degree of skill and success as the companies there would then be no gain or loss; if better, there would be gain accruing, not from good credit, but from good management; if worse, there would be certain loss. Thus, in theory, the use of the public credit proves to be a pure fallacy, and if it were not so there would be no reason why the Treasury should not proceed to invest money in many kinds of industrial enterprises besides railways and telegraphs.’ Methods of Social Reform, 371. The fact that the chance of loss is usually over-estimated is here neglected. Jevons would be right if the same income as formerly were to be secured to shareholders, but the suggestion is that only the market value of the shares should be given. It would, however, be very difficult to carry this out in practice. Railway shareholders would claim, and probably receive, compensation for their sacrifice of possible increase in future dividends.
+
+[55989] Ely, Taxation, 270.
+
+[56010] Methods of Social Reform, 359. His judgment is amply supported by the recent history of the Australasian railways.
+
+[56126] Victorian Year-Book, 1887–8, ii. 139.
+
+[56165] Cohn, §§ 440–1. See also his article, Economic Journal, ix. 93, sq., which shows that the claim for lower rates is being made in Prussia.
+
+[56304] That this is not an imaginary danger is proved by the fact that in July, 1890, there were ‘strikes’ at the municipal gasworks in Leeds, at the London Post Office, and in the Metropolitan Police, and also a ‘mutiny’ in the Guards!
+
+[56535] Bk. v. ch. 5, on the so-called ‘reproductive’ debt.
+
+[56588] The railways of the United Kingdom show the following results for the year 1900:—
+
+[56671] The gross public revenue for the year ending March 31st, 1901, was
+
+[56739] The inclusion of the railway accounts in the Budget would raise the receipts to nearly £220,000,000, and, assuming the shareholders to receive their present income, the total expenditure to over £270,000,000, and the public debt to about £1,880,000,000. If the now standard 2¾ per cent. stock were to be given, the capital would be proportionately increased, or severe loss inflicted on the shareholders who had invested in the assurance of being undisturbed. The establishment of a sinking fund, in the same proportion as that applied in normal times to the present debt, would necessitate increased taxation, unless state management proved very much more economical.
+
+[57409] Indian Finance, 17–25.
+
+[57433] Wealth of Nations, 344
+
+[57457] The Dutch policy in Java is too favourably described by A. R. Wallace, Malay Archipelago, chs. 7 and 17. See also Wagner, i. 626–7.
+
+[57590] The Imperial Bank of Germany appears as an annual contributor to the Budget, the amount for 1901 being 12,417,770 marks.
+
+[57712] Cp. Ricardo's ‘Plan for the Establishment of a National Bank,’ where the two branches of banking are carefully distinguished. Works, 503–12.
+
+[57854] For inconvertible issues as a form of loan see Bk. v. ch. 6, and for the relation of the Treasury to banks see Bk. vi, ch. 2.
+
+[57981] See Bk. ii. ch. 2, § 2.
+
+[58006] See Bk. iv. ch. i. § 9.
+
+[58031] See Dowell, History of Taxation, ii. 48 sq., and iii. 81–91, for the history of the tax. Movable property was exempted in 1833, and offices and pensions in 1875.
+
+[58194] Roscher, § 18. The whole chapter (Bk. i. ch. 4) is one of the best in his work.
+
+[58275] See Bk. ii. ch. 1, §§ 4, 5, and note at end.
+
+[58321] Bk. i. ch. 3, § 1.
+
+[58341] ‘Die absolute und relative Höhe des Gebührenertrages in verschiedenen Staaten mit einander zu vergleichen, ist darum bis jetzt nur höchst unvollkommen möglich, weil die Gebühren fast überall, jedoch mit sehr verschiedenem Grade, mit Verkehrssteuern verquickt sind.’ Roscher, § 23, n. 16. Cp. Wagner, ii. 69.
+
+[58650] Budget Speech, April 17th, 1890. The receipt for 1897–8 was £421,000.
+
+[58721] The amounts paid in 1889 were as follows:—
+
+[58765] Cohn, § 190, n∗.
+
+[58783] Cp. ‘Bei dem engen Zusammenhang von Rechts- und Verwaltungsgebühren mit Verkehrssteuern in der Praxis und bei der für beide vielfach gemeinsamen Erhebungsform im Stempel ist die bezügliche Einnahme daraus ebenso wie die Gesetzgebung darüber nicht wohl zu trennen. Die Gesetze betreffen meist beide Abgabearten in bunter Vermengung.’ Wagner, ii. 69.
+
+[59133] See note to Bk. ii. ch. 1 for further discussion of this point.
+
+[59198] Other but less satisfactory measures have been sometimes suggested. Instead of the cost of restoration the original cost of production or acquisition would, it is said, show the amount of public advantage obtained from the outlay. This method is certainly easier and more definite, but it overlooks the fact that mere cost, as such, does not determine value, and that all fixed forms of wealth change their values, generally in a downward direction, in the course of time. Land is the only part of the national possessions that is likely in the long run to increase in value. The measure of present exchange value is also inapplicable, as much of the property forming the public domain is not of a kind that is demanded by private purchasers.
+
+[59942] As pursued in Italy under the system of M. Cerboni.
+
+[59995] As pointed out by Mr. Devas—Pol. Economy, 585—there may be a financial gain by the inducement given to foreigners to settle in the country, e.g. Italy with its artistic treasures. Further, the earning powers of the inhabitants may be increased. This property is then indirectly productive.
+
+[60286] Leroy-Beaulieu, i. 28; Say, Dictionnaire d'Économie politique, i. 719; ib., Dictionnaire des Finances, i. 1482–85; Stein, ii. 144 sq.
+
+[60421] Umpfenbach, 78.
+
+[60438] The Local Government Act (1894) by the creation of parish councils and the powers given to the parish as a unit has considerably diminished the force of this contrast.
+
+[60607] Cp. the recent Swiss legislation on forests already mentioned (Bk. ii. ch. 2, § 10), and the surrender of public lands by American States to the Federal Government.
+
+[60773] The returns of local finance for Scotland and Ireland fail to distinguish between tax receipts and payments for gas and water. Nor are the English accounts as yet quite clearly separated. For earlier periods they are almost useless for the present purpose.
+
+[61031] The interest on the railway debt has also to be taken into account.
+
+[61100] This even includes the interest on the state railway debt, which should in strict accuracy be deducted.
+
+[61205] The contributions (Matricular-beiträge) of the States to the Empire and the assignments from the imperial revenue to the States further confuse the statistics. In 1889–90 the Prussian contribution was 114,000,000 marks, the assignment from the imperial revenue 170,000,000 marks, showing a net gain to the Prussian revenue of 56,000,000 marks (£2,800,000). For 1894–5 the contributions are estimated at 234,000,000 marks, the assignments at over 215,000,000 marks, or a net loss to Prussia of 18,700,000 marks. In 1902–3 the Prussian contribution is estimated at 347,912,000 marks, the assignments at 375,789,000 marks, i.e. a net gain to Prussia of 27,877,000 marks (£1,394,000).
+
+[61887] The German law fees (Rechtsgebühren) are so high as to really amount to a tax on litigation. For estimates of the proportion of taxation and industrial receipts cp. Von Scheel in Schönberg, 68–69.
+
+[62085] ‘The theory of the incidence of taxation has been generally treated as a branch of the application of economic science to the practical art of government. But really it is an integral part of the general theory of value.’ Marshall, 519 n.; cp. Edgeworth, Economic Journal, vii. 46.
+
+[62368] Sir E. W. Hamilton's definition, ‘A tax or rate is an obligatory contribution by persons in respect of, or incidental to, something which they possess or something which they do’ (Memoranda on Classification and Incidence, 33), seems to be a variant on the above, but hardly covers the case of a poll tax.
+
+[62675] See on this point the Memoranda on Classification and Incidence [C. 9528] issued by the Commission on ‘Local Taxation,’ especially pp. 85 (Courtney), 112 (Marshall), 160 (Cannan). The position in the text is fully supported by these authorities.
+
+[62922] De Parieu, i. 5; Roscher, § 33; Cossa (Am. Trans.), 50.
+
+[62979] In the later editions of his Scienza delle Finanze, Professor Cossa has altered this definition, omitting the last clause, which was intended to emphasise the ‘general’ nature of taxes (imposte) as opposed to ‘fees’ (tasse), regarded by him as special, not at all to assert the ‘benefits’ theory of taxation, which he rejects.
+
+[63307] Montesquieu, Liv. xiii. ch. 1; Stourm in Dictionnaire d' Économie politique, art. ‘Impôts,’ ii. 3; cp. Leroy-Beaulieu, i. 113.
+
+[63435] See Bk. i ch. 8, § 4 sq.
+
+[63461] The definition of the dictionary of the French Academy.
+
+[63518] Quoted from Cooley by Ely. Taxation, 4.
+
+[63559] ‘Taxes are simply one-sided transfers of economic goods or services demanded of the citizens, and occasionally of those who are not citizens, but who nevertheless are within the reach of the taxing power, by the constituted authorities of the land for meeting the expenses of government or for some other purpose, with the intention that a common burden shall be maintained by common contributions or sacrifices.’ Taxation, 6–7. Cp. the definition given by Wagner, ii. 210, which brings in the complication of a distinction between ‘pure financial’ and ‘politico-social’ taxation; also i. 499–500, where ‘taxes’ are marked off from ‘fees’ (Gebühren) by their ‘general’ character.
+
+[64240] There seems to be no foundation for Mr. Cannan's suggestion that the ‘rate’ is ‘apportioned,’ while the ‘tax’ is a ‘percentage’ charge (History of Local Rates, 4–5). The only plausibility that it possesses is due to the fact that in the United Kingdom rates are practically a single-tax.
+
+[64529] Cp. Roscher, § 33; Wagner, ii. 223.
+
+[64566] Professor Seligman (Political Science Quarterly, vii. 715) demurs to this use of the terms ‘subject’ and ‘object,’ but it is convenient to have a word to denote the ultimate bearer of the burden of taxation, and ‘subject’ seems to be the only one at hand for the purpose, while ‘object’ is employed by eighteenth century writers to denote the commodities placed under taxation; e.g. Hamilton, Report on Manufactures (ed. Taussig), 78; A. Young, Tour in Ireland (Bohn ed.), ii. 230.
+
+[65049] This mistake is somewhat like that committed by Blackstone in speaking of ‘the rights of things’ (Jus rerum).
+
+[65160] Cp. Roscher, § 33; Wagner, ii. 226–8; Schäffle, Steuerpolitik, 52–3, for the use of these terms in German finance. The use of ‘subject’ in the text differs from that of the above writers, as they apply it to the person legally responsible for payment.
+
+[65413] Principles, Bk. v. ch. 3, § 1.
+
+[65445] The questions here raised are further discussed in Bk. iii. ch. 4, ‘The Tax System, its Forms.’ See for a full treatment of the history of the terms a valuable article on ‘Direct and Indirect Taxes in Economic Literature,’ by Professor C. J. Bullock, Political Science Quarterly, xiii. 442–476. The use of the term ‘direct’ in the Constitution of the United States has given rise to much controversy, culminating in the decision of the Supreme Court on the income tax of 1894, pronouncing it invalid as being ‘direct.’
+
+[65965] These terms seem to be the least unsuitable equivalents of the French impôts de quotité and impôts de repartition. Professor Seligman prefers the American term ‘percentage’ to ‘rated,’ but where the units are of unequal value its use would be incorrect.
+
+[66220] The old English ‘tenths and fifteenths’ and the later ‘subsidies’ were apportioned, Dowell, i. 88. The recent change in the French house duty is an illustration of the tendency to abandon the system.
+
+[66421] Wealth of Nations, 347.
+
+[66446] It is noteworthy that Adam Smith makes this separation in his account of taxes on profit: ‘The revenue or profit arising from stock naturally divides itself into two parts, that which pays the interest and which belongs to the owner of the stock, and that surplus part which is over and above what is necessary for paying the interest,’ 357.
+
+[66789] Bk. v. ch. 3, § 1.
+
+[66809] See Introduction, ch. 1, § 8.
+
+[66840] Rau, i. § 292; Hoffmann, Lehre von den Steuern, 69; Cohn, § 332; Wagner, ii. 233 sq., 515.
+
+[66932] De Parieu, i. 12–14.
+
+[66954] Abgaben und Schulden, 15–17.
+
+[66984] Ib. 82 sq. Stein's classification of taxes into (1) direct, (2) indirect, and (3) income taxes—the first falling on capital, the second on labour, and the last on individual economic activity—is decidedly unsatisfactory; nor are his subdivisions better. Thus the direct taxes are divided by him into those on (a) produce, (b) acquisition, (c) commerce, but the land tax comes under (a) and the industry taxes under (b), though the latter are evidently produce taxes. Stein, ii. 495 sq., and iii. passim.
+
+[67489] The question of classification is discussed in the Memoranda on Classification and Incidence [C. 9528], but the only result reached is a negative one. The attempt to divide taxes into (a) those incidental to the ownership occupation, or transfer of property, and (b) those ‘not incidental to property,’ was thoroughly exposed, and was abandoned by the Commission.
+
+[67854] They are (1) Contribution foncière, (2) Contribution mobilière, (3) Contribution des portes et fenétres, (4) Patentes.
+
+[67974] Bastiat, Œuvres, v. 344 sq.; cp. Leroy-Beaulieu, i. 118.
+
+[68032] Leroy-Beaulieu, i. 125–6. See above. Bk. i. ch. 8, §§ 2, 3. Also Bk. v. ch. 5, for a discussion of the expediency of public borrowing for this object.
+
+[68184] Essays (ed. Green and Grose), i. 356. Prof. Seligman (Essays, 86 n.) is mistaken in supposing that the doctrine is here ‘ascribed’ to Hume, as any reader of the text can see.
+
+[68360] Taxation and Funding, 7 sq.
+
+[68389] Principles, Bk. i. ch. 7, § 6.
+
+[68421] Ib. Bk. v. ch. 3, § 3.
+
+[68445] For a good refutation of the idea that low wages make workmen active, see Wealth of Nations, 34. Arthur Young approved of high rents as promoting industry, Northern Tour, ii. 80–83; and Sir J. Caird deprecated under-letting, but wisely remarked that the opposite error of overletting is much more hurtful English Agriculture, 477.
+
+[68777] McCulloch, 151–2; Leroy-Beaulieu, i. 258–260.
+
+[68824] For further discussion on this point, see ch. 4 of the present Book, also Bk. iv. chs. 6, 7.
+
+[68918] Wealth of Nations, 348. The fourth of Adam Smith's ‘classical’ rules See Bk. iii. ch. 7.
+
+[69008] Wagner, ii. 467. In Jevons's phrase, ‘The maximisation of utility.’
+
+[69077] See on this Dowell, ii. 249, 261, who quotes Sydney Smith's humorous account.
+
+[69156] Works (ed. McCulloch), 87.
+
+[69184] ‘Tout impôt doit porter sur le revenu, et non sur le capital’ is the first of Sismondi's maxims. Nouveaux Principes, Liv. vi. ch. 2.
+
+[69318] Bk. v. ch. 2, § 7.
+
+[69338] See Marshall, Principles, Bk. ii. ch. 4, for a discussion of the diverse application of the term ‘capital.’ ‘There is, and from the nature of the case there must be, something artificial in every broad distinction between capital in general and other forms of wealth.’ Ib. ‘Preface’ to 3rd. ed., vi.
+
+[69639] See Bk. v. ch. 5, § 9, for further treatment of this point.
+
+[69700] Quesnay in Daire, Physiocrates, 83; Du Pont, ib. 351; Mercier de la Rivière, ib. 474. See also Quesnay's Œuvres (ed. Oncken), 332.
+
+[69832] The often-quoted passage of Turgot, ‘En tout genre de travail il doit arriver et il arrive en effet que le salaire de l'ouvrier se borne à ce qui lui est nécessaire pour lui procurer sa subsistance’ (i. 10), shows this.
+
+[70053] Turgot, i. 63.
+
+[70069] Works, 210.
+
+[70082] Principles, Bk. i, ch. 11, § 1.
+
+[70115] Bk. i. ch. 8, § 2.
+
+[70135] Cp. Bk. i. ch. 6, § 1, for the relation of state expenditure to industry and commerce.
+
+[70223] On the whole question cp. Wagner, ii. 315 sq.; Cohn, §§ 236 sq.; Roscher, § 35: Held, Einkommensteuer, 66 sq. For Hermann's theory of income see Staatswirthschaftliche Untersuchungen (2nd ed.), 582–598. Professor Marshall has developed Hermann's view, Principles of Economics, i. 139 sq.
+
+[70512] Giffen, Growth of Capital, 124–139.
+
+[70549] See on this point the Report and Minutes of Evidence of the Royal Commission on ‘Irish Financial Relations’ [C. 7720 and 8262]. Special reference may be made to the memorandum of Sir R. Giffen, C. 7720, ii. p. 166, and the note by Prof. Sidgwick, ib. 182–3.
+
+[70808] J. S. Mill, Principles, Bk. ii. ch. 1, § 1; cp. Marshall, Principles of Economics, Bk. vi. note to ch. 2; also see Nicholson (Principles, Bk. ii. ch. 1) for a vigorous criticism of Mill's view.
+
+[71003] Bk. iii. ch. 1, § 4.
+
+[71025] For a statement of this theory see Thiers, De la Propriété, 348, who compares taxation to an insurance premium.
+
+[71138] ‘sunt igitur ea vectigalia ... probanda quae in omnes ordines pro singulorum facultatibus exaequantur,’ Bodin, De Rep. Liv. vi. ch. 2. See Neumann, ‘Die Steuer nach Steuerfähigkeit,’ in Conrad's Jahrb. 1880, for a history of the doctrine. For earlier recognition of the doctrine in England see Cannan, History of Local Rates, 17–22, where the phrase juxta facultates is quoted from ‘Rhymer’ as having been used in 1345.
+
+[71559] Wealth of Nations, 347; cp. 342.
+
+[71593] Principles, Bk. v. ch. 2, § 2.
+
+[71625] This view has been specially developed by Professor Edgeworth. See his articles on ‘The Pure Theory of Taxation,’ Economic Journal, vii. 550–566; also x. 174–177, and the summary of his views in Memoranda on Classification and Incidence, 127–8.
+
+[71871] Professor Edgeworth speaks of ‘the enormous interposing chasms which deter practical wisdom from moving directly towards that ideal,’ Economic Journal, vii. 553. Professor Nicholson recognises that ‘the great merit of the faculty theory’ is that it is objective. Principles, iii. 275.
+
+[72157] Dîme Royale (ed. Daire), 48; cp. Meyer, Principien, § 2.
+
+[72215] Wealth of Nations, 347.
+
+[72240] ‘Nous l'avons adoptée et nous devons la défendre,’ is the expression of Leroy-Beaulieu, i. 139.
+
+[72337] See for a full exposition of this point of view Léon Say, Les Solutions democratiques de la Question des Impôts.
+
+[72451] Ib. i. 167.
+
+[72464] The literature of progressive taxation is an extensive and growing one. The most important work in English is Professor Seligman's Progressive Taxation in Theory and Practice, which gives a full account of the chief theories on the subject. Masè-Dari's L'Imposta Progressiva is the chief Italian work. Other writers deserving of mention are Neumann, Mazzolo, and Cohen-Stuart.
+
+[72842] Esprit des Lois, Liv. xiii. ch. 7.
+
+[72878] Garnier calls his system ‘progressional.’ See J. B. Say, Traité, Bk. iii. ch. 9; Garnier, Traité des Finances, 68.
+
+[72994] ‘This doctrine seems to me too disputable altogether, and, even if true at all, not true to a sufficient extent to be made the foundation of any rule of taxation.’ Mill, Principles, Bk. v. ch. 2, § 2. Cp. McCulloch, Taxation, 65; De Parieu, i. 38; Levasseur, Précis, 343; also Neumann, Progressive Einkommensteuer, 112.
+
+[73315] Sax, Staatswirthschaft, 503–513; Wieser, Natural Value (Eng. trans.), 236.
+
+[73391] The English assessed taxes might have been thus employed.
+
+[73450] Professor Seligman, Progressive Taxation, 212–215; West, The Inheritance Tax. See Bk. iv. ch. 9.
+
+[73548] Amongst specimens of this class the plan of the late F. W. Newman, by which the tax rate increased 1 per cent. with each additional £1,000 of income, may be mentioned. A common formula is that ‘the tax should triple as the income doubles, the starting point being selected according to the propounder's fancy. But there is evidently no limit to the varieties of arrangement.
+
+[73924] Impôts Démocratiques, i. 172. It may be suggested that the scale that would give the maximum revenue should be chosen, but this is (a) extremely difficult to determine, and (b) is not consistent with the aim of proportional sacrifice. It is besides quite possible that several different scales would satisfy the condition.
+
+[74248] The objection to progressive taxation on the ground of its arbitrary nature has been a leading point with French economists, e.g. Leroy-Beaulieu, i. 148, and was emphasised by the older English school, but is treated as of slight importance by most recent writers. Prof. Seligman declares that ‘all governmental actions which have to do with money relations of classes are necessarily more or less arbitrary.... a strict proportional tax.... is really more arbitrary.... than a moderately progressive tax. The ostensible “certainty” involves a really greater arbitrariness.’ Progressive Taxation, 194. Mr. Devas, while allowing the objection where the aim ‘is not to equalise sacrifice but to equalise property,’ regards it as inapplicable to ‘moderate graduation.’ Political Economy, 529. Prof. Nicholson holds that the ‘objection is purely formal. It is equally applicable to the relative proportion of direct and indirect taxes.’ Principles, iii. 278. In reply it may be remarked that though it is true that all action of a sovereign government is in a sense arbitrary, the adoption of a definite principle based on ‘simple and obvious’ grounds limits the capricious exercise of the power. Such a limiting principle exists in the case of proportional, but is absent in that of progressive, taxation. The distribution between direct and indirect taxation is regulated by reference to the effect on the different classes concerned, and, though unavoidably imperfect, ought to be directed by a general rule. But in any case the adoption of progression brings in an additional element of arbitrariness in the selection of the particular scale, which may be compared with the additional uncertainty in a double standard currency owing to the possible varieties of the ratio between the two metals. The appeal to the analogy of judicial decisions suggests the difference between the settled rule of ‘law’ and the fluctuating judgments of ‘equity.’ As Selden could truly say that ‘equity is a roguish thing,’ so can it be said that the policy of progressive taxation, particularly in a democratic society, is an uncertain thing.
+
+[76374] Prof. Nicholson, in questioning the force of this objection, seems to have misconceived its real bearing. ‘Though the personal method of declaration must be applied to the surplus, it will still be as effective as in other cases, and the chance of evasion may be allowed for.’ Principles, iii. 278. But the essential point is that the introduction of progression necessitates the adoption of the comparatively ineffective method of personal declaration for all income, and thereby increases the opportunity, as the higher rate stimulates the desire, for evasion, which no doubt must ‘be allowed for’ in estimating the yield of the tax, just as the encouragement to smuggling must be considered in the case of heavy duties on luxuries. The need for making this allowance is generally regarded as weighing against such duties, and similar reasoning in respect to progressive taxes seems warranted. The experience of Italy with its income tax gives support to the belief that reliance on declarations of income is unsatisfactory.
+
+[77402] This objection is regarded by some writers as applicable ‘to the whole system of taxation on property or income’ (Seligman, Progressive Taxation, 195), or to ‘all taxes on capital’ (Nicholson, Principles, iii. 278), and therefore ‘not applicable to progressive taxation as such’ (Seligman, loc. cit.). This view, however, does not take into account the extra pressure on the growth of accumulation that a progressive rate must cause. The case is similar to that of increasing fines for each repetition of an offence, the wrongdoing consisting in the saving or production of a given amount of wealth. As stated in the text, there may be some compensation in the effects of moderate progression, but this gives no support to Professor Seligman's courageous assertion that ‘If a moderate progressive tax is really more equitable than a strictly proportional tax, progression will be less of a fine on thrift and industry than proportion would be’ (loc. cit.). The usual arguments against progressive taxation are given in Lecky's Democracy and Liberty, ch. 3, in an old-fashioned form and with no consideration of recent theoretical discussion.
+
+[78545] Cp. Wealth of Nations, 375.
+
+[78574] As pointed out by Professor Seligman and Nicholson, the slight increase in return obtained by progressive taxation is not an objection to its use. It can at most be regarded as showing that its advantage must be looked for else where. ‘If it is conceded that the progressive tax is more equitable than the proportional tax, it is utterly immaterial whether it yields more revenue or not.’ Seligman, Progressive Taxation, 195. In deference to this criticism, the text of earlier editions has been altered. It is nevertheless true that as a great engine of fiscal reform progressive taxation is in Proudhon's words ‘un bilboquet, un joujou démocratique,’ which will not relieve the poorer taxpayers.
+
+[79273] See Wicksteed, Alphabet of Economic Science, for a clear statement of the general principle applied in the text. Signor M. Pantaleoni argues that the richer person (B) may even suffer more (1) if the additional wealth happens to be of special importance to him, or (2) if his sensibility be keener.
+
+[79573] Cp. Sax, ‘Die Progression ist keine vollständig regelmässige. Je nach der Beschaffenheit der einzelnen Bedürfnissgruppen kann sie bald geringer sein, vielleicht zum Stillstand gelangend, bald in raschen Sprüngen emporsteigen. Staatwirthschaft, 512.
+
+[79823] The progression à rebours of French economists.
+
+[79872] Neumann, Progressive Einkommensteuer, passim; Léon Say, Les Impôts Démocratiques, i. 203–258; ii. 225–264; Leroy-Beaulieu, i. 152–156, 160–168; Cohn, §§ 213, 214; Palgrave, ‘Progressive Taxation in Switzerland,’ Journal of the Statistical Society, ii. 225–267; Seligman, Progressive Taxation, Part I.
+
+[80174] See § 13; also ch. 6 of the present book, ‘Principles of Local Taxation.’
+
+[80249] Particular instances of progressive taxes will be considered in Bk. iv. chs. 4 and 9, ‘Taxes on Property and Income,’ and ‘Taxes on Successions.’
+
+[80396] I.e.
+
+[80402] Bk. iii. ch. 2, § 6.
+
+[80424] The effect of local rates and the shifting of taxation do in fact put some of the pressure on the very poor, but the statement in the text is true of the immediate effect of imperial taxation up to the recent changes by which sugar and imported corn have been put under taxation.
+
+[80705] Schmidt, Steuerfreiheit des Existenzminimums, 4, 5.
+
+[80758] The criterion of ‘necessaries’ varies according to the class concerned. ‘We may say that the income of any class in the ranks of industry is below its necessary level when any increase in their income would, in the course of time, produce a more than proportionate increase in their efficiency.’ Marshall, Principles of Economics (3rd ed.), i. 139.
+
+[81108] In Political Science Quarterly, iv. 64–5. Cp. ‘Der Staat ist für alle ein Bedürfniss, seine Existenz ist für die Gesammtheit nothwendiger als das Leben eines Einzelnen.’ Held, Einkommensteuer, 103.
+
+[81307] Mill's view on the subject, though his conclusion is the same as that in the text, appears to be inconsistent with his views on population and his criticism of allotments (Principles, Bk. ii. ch. 12, § 4). Would not taxation of the minimum tend to check population, and exemption tend to increase it?
+
+[81609] The doctrine of the exemption of the subsistence minimum received a new application in the discussions on Irish taxation. The error pointed out in the text was adopted by Mr. Sexton in his report, and countenanced by Sir R. Giffen. See The Final Report [C. 8262], 70–1. Cp. Book iii. ch. 2, § 8, and infra, § 15.
+
+[81923] See the reports and evidence of the Parliamentary Committees on the Income Tax 1852–53 and 1861, especially the evidence of Newmarch, Farr, and J. S. Mill.
+
+[82080] See the proposal of Mr. Blunden for a tax on the yield of property (i.e. in fact, a differential income tax). Economic Journal, vii. 607 sq.
+
+[82222] Bk. iv. ch. 4, ‘Taxes on Property and Income.’
+
+[82270] See Vocke, Abgaben, 471–2.
+
+[82298] I.e. a tax assessed on amount of property, but really paid out of income.
+
+[82373] All included in the German ‘Conjuncturgewinn.’ Cp. Professor Marshall's explanation of ‘Conjunctur,’ Principles of Economics, i. 656.
+
+[82508] Wealth of Nations, 356, 378.
+
+[82538] For a forcible statement of this view see George, Social Problems, 205–208.
+
+[82615] Wealth of Nations, 356.
+
+[82640] Cp. Sumner, Life of Jackson, 184–5; Marshall, Principles, 486–7.
+
+[82706] ‘Die Speculation ist nicht bloss, wie Lassalle behauptet, “ein Rathen auf die Wirkungen, welche die unwissbaren Umstände hervorbringen werden.” Sie ist mehr als das. Sie ist der Kampf der mit Kenntniss der wissbaren Umstände ausgerüsteten Intelligenz gegen die rohe Uebermacht des Zufalls.’ Cohn, § 343. On the important functions of speculation in the modern economic system see Hadley, Economics, ch. iv., and the fuller discussion in Emery, Speculation on the Stock and Produce Exchanges of the U.S.
+
+[83210] For state ownership of land see Bk. ii. ch. 2, § 4. On the Land Tax, see Bk. iv. ch. 1; and for taxation of ground rents ch. 6, § 5 of the present Book.
+
+[83364] See the Reports of the Commission on ‘Indian Expenditure’ [C. 8258. 9; Cd. 130. 131] especially iv. 90–127 (ch. 3 of Final Report) for an examination of the heads of outlay where joint contribution was suggested. The governing principle propounded was that of ‘common interest,’ which apparently means ‘common benefit.’
+
+[83685] Article 8.
+
+[83697] The Federalist (Letter 21) 123 (Lodge's edition).
+
+[83748] The financial weakness of the ‘Confederation’ was one great reason or the adoption of the present Constitution of the United States. ‘Finance was the great overwhelming trouble which laid bare the fatal vices of our political system, and it was on financial rocks that the rickety Confederation was dashing itself to pieces.’ H. C. Lodge, Alexander Hamilton, 39. The peculiar condition of the Austro-Hungarian Empire accounts for the retention of the present system.
+
+[84216] See infra, Bk. iii. ch. 6, § 3.
+
+[84249] The history of the United States, Switzerland, and Germany supplies instances. Hamilton admits the difficulty but seeks to extenuate it. ‘Imposts, excises, and, in general, all duties upon articles of consumption may be compared to a fluid which will, in time, find its level with the means of paying them.’ Federalist, 124. The whole paragraph is worth reading as an early example of the equal diffusion theory. Cp. Seligman, Incidence, 133–4.
+
+[84695] The provision in the United States’ Constitution respecting direct taxes was designed for this purpose. It has had the serious effect of preventing the establishment of an income tax.
+
+[84880] The Income tax reimposed in England in 1842 was not extended to Ireland till 1853. The Irish spirit duties were equalised only in 1858.
+
+[85017] See the Report of the Commission on Irish Financial Relations, especially the memoranda and evidence of Sir R. Giffen and Mr. M. O'Brien. For a more extreme view see Lough, England's Wealth, Ireland's Poverty.
+
+[85228] This was the position occupied by Mr. Gladstone, Sir S. Northcote and English finance ministers generally in dealing with this question.
+
+[85366] Bk. iii. ch. 1, § 3.
+
+[85388] Cp. the several estimates made for the ‘Financial Relations’ Commission. Also Sidgwick's ‘Note,’ ib. ii. 182; see in addition, Economic Journal, vi. 189–94, and Béla Foldes, Finanz-Archiv, xvii. 798–9.
+
+[85591] For scientific discussions of this question see Adams, Science of Finance, 449–64; Seligman, Essays, ch. 8. The great development of industrial companies in America, and the peculiar restrictions of the federal constitution have given the corporation tax prominence which it has not received elsewhere. The formation of international trusts and combines will probably increase its importance in European finance.
+
+[86005] Interstate taxation of companies in America and the income derived from colonial investments by residents in England may be referred to in illustration.
+
+[86159] The discussions on the Finance Act of 1894 respecting the levying of the estate duty on property simultaneously taxed in the Australian colonies supplies a good illustration.
+
+[86335] It should be noticed that the introduction of progression into the tax-system tends to increase the difficulties connected with double taxation, as in the case mentioned in the preceding note.
+
+[86529] See Bk. iii. ch. 6, §§ 3,4, and on the whole subject of ‘double taxation’ cp. Cohn, §§ 223–228, Roscher, § 63, Wagner, ii. 406 sq. Recent contributions to the subject are Seligman, Essays, 95–120; Walker, Double Taxation in the United States; Westlake, Economic Journal, ix, 365–374; Flora, Le Finanze degli Stati Composti; A. Garelli, Diritto Internazionale Tributario. Prof. Westlake's article is the first indication of study of the subject in England.
+
+[86986] See Wagner, i. 47, 500; ii. 381 sq. 455–459, for a statement of the ‘social’ view.
+
+[87070] Cp. Prof. Nicholson's judgment on ‘the social function of taxation.’ Principles, iii. 282–4.
+
+[87164] And yet this doctrine has a curious affinity to that of minimum sacrifice. See supra, § 4.
+
+[87256] Taxation and Funding, 18. Cp. ‘The problem which every Chancellor of the Exchequer professes to solve is not how to levy taxes in proportion to capacity to bear them, but how to get the money he requires with a minimum of suffering and discomfort to the nation.’ Cannan, Economic Review, vii. 111.
+
+[87555] This is, of course, not inconsistent with the doctrine that ‘economy’ is of even more importance than ‘equity,’ which is so vigorously expounded by Mr. Cannan (Economic Journal, 469–80). Cp. Bk. iii. ch. 7, §§ 5, 6.
+
+[87772] See Bk. iii. Ch. 2, §§ 6–7; ch. 3, §§ 11–12.
+
+[87818] A dictum credited to Sir G. C. Lewis.
+
+[87857] The need for drastic fiscal expedients was greater in mediæval times than it is now, and this explains much of the seeming harshness of the earlier regal policy.
+
+[88020] The war period (1793–1815) affords a good illustration of the disposition to impose fresh taxes, Dowell, ii. 208–245; cp. also the recent sugar, coal, and corn duties.
+
+[88189] Vauban, Dîme Royale, 50–98. A remarkable proposal was placed before the States-General of 1577 at Blois. Besides the duties whose repeal was advocated by Vauban, the salt tax and the customs on wine were to be removed, and a graduated duty on households, called taille égalée, was to be employed. Clamageran, ii. 217–219.
+
+[88512] It is doubtful whether this plan should not be really ascribed to Richardson. That was McCulloch's opinion. See Seligman, Incidence, 57 n 1; also Professor Gonner's article on ‘Decker’ in Palgrave's Dictionary of Political Economy.
+
+[88745] For Adam Smith's criticism see Wealth of Nations, 371. The idea of a general consumption tax was propounded by Revans, A Percentage Tax on Domestic Expenditure, and by Pfeiffer, Staatseinnahmen, ii. 538–554.
+
+[88954] Vanderlint's Money answers all Things appeared in 1734. See Ricca Salerno, Dottrine Finanziarie in Inghilterra, 23–26.
+
+[89074] See Turgot's advocacy of the single tax on land. He declares: “Cette proposition est contraire à l'opinion de ceux qui avaient conçu le système de la dime royale.... Ce système peut effectivement éblouir par sa simplicité, par la facilité du recouvrement, par l'apparence de la justice distributive.... Il pêche cependant par différents inconvénients,” i. 404.
+
+[89436] Mirabeau, Théorie de l'Impôt, 316; Turgot, ii. 114.
+
+[89489] An ingenious plan of this kind was proposed by the late W. N. Hancock. See his General Principles of Taxation as illustrating the advantages of a perfect Income Tax.
+
+[89656] Mill, Principles, Bk. v. ch. 2, § 3.
+
+[89694] Guyot, l'Impôt sur le Revenu, 222. See also Menier's various works, especially his L'Avenir Économique.
+
+[89799] Political Arithmetic. A statement quoted with approval by Sir G. Lewis Northcote, Financial Policy, 309. Mr. B. Holland has recently sought to revive it, Economic Journal, vii. 219–20. As shown in the text, it has no support either from theory or experience; see Economic Journal, vii. 420–22.
+
+[90094] Wealth of Nations, 381.
+
+[90119] For the English tariff, Dowell, ii. 249–261; Buxton, Finance and Politics, i. 18, 19. For the United States, Wells in Cobden Club Essays (2nd series), 479.
+
+[90276] Cp. Leroy-Beaulieu, i. 179–185.
+
+[90309] Cp. the well-known saying of Baron Louis, ‘Faites-moi de bonne politique et je vous ferai de bonnes finances.’
+
+[90421] Physiocraets, 474. The italics are in the original.
+
+[90474] See Bk. iii. ch. i. § 8.
+
+[90500] ‘The classification of taxes as direct and indirect, it may be as well to premise, has been objected to on the ground that it cannot be consistently applied.... But this objection applies only to the wording of the ordinary definition of direct and indirect taxes, and we may safely continue to employ the terms to denote the radical distinction intended; namely between taxes on the one hand levied either directly from the contributors themselves or from funds on the way to them, and taxes on the other hand on producers or dealers, in the intention that they shall recover them in the prices finally paid by consumers,’ Cliffe Leslie, in Cobden Club Essays (2nd series), 192.
+
+[91181] See for further discussion Prof. Bullock's article already referred to (Book iii. ch. i. 1, § 8). He supports the treatment in the text.
+
+[91319] See Dowell, Hist. of Taxation, Pref. xii.; Vocke, Abgaben, 1–16.
+
+[91385] Cp. Vocke's remarks, Abgaben, 624–5; also Finanzwissenschaft, 355.
+
+[91453] See Cliffe Leslie's forcible argument in Cobden Club Essays (2nd series), 252 sq.
+
+[91536] Ireland was not included till 1853, but the abatement limit was raised, which probably compensated for this addition, and since then there have been great extensions both of exemption and abatement.
+
+[91736] E.g. in Ireland Schedules A and B of the income tax, so far as land is concerned, are taken on a fixed valuation, and therefore cannot expand in the same way as in Great Britain. They may, however, decline, as the landowner has the option of paying on rent instead of on valuation.
+
+[92019] Gaudin, Mémoires, i. 217.
+
+[92046] Wealth of Nations, 348.
+
+[92071] Principles, Bk. v. ch. 6, § 1.
+
+[92103] The doctrine that indirect taxation is voluntary is accepted by Sidgwick. ‘It is urged that direct taxation, being inevitable, is a greater burden than an equal amount of taxation voluntarily incurred by purchasing commodities. And I think that this cannot be denied,’ Elements of Politics, 175. He applied it to the case of Irish taxation (Financial Relations Commission, ii. 182), and was followed by Mr. A. J. Balfour. Assuming, however, that a certain amount has to be raised by taxation, it follows that abstinence from the consumption of taxed commodities will make it necessary to tax fresh commodities, and when all have been taxed to use direct taxation, which might better have been employed at first. Taxation which checks consumption is unproductive and burdensome through privation to the people. Prof. Edgeworth ingeniously points out that under indirect taxation there will be ‘a loss of consumers’ rent, which does not occur when the amount is directly subtracted from income,’ and therefore regards taxes on commodities as ‘more burdensome than direct taxation,’ Economic Journal, vii. 568. Consideration of this matter shows the inaccuracy of estimating the weight of taxation by the yield of taxes. Thus the yield of the tea duty in Ireland for 1901–2 is only 25 per cent. more than that for 1899–1900, though the duty is 50 per cent. higher. In studying the effect of taxes the privative side of their action should never be overlooked.
+
+[93561] The increase of duties in 1840 by Baring is an instance; 5 per cent. extra all round did not give increased receipts, Dowell, ii. 313.
+
+[93697] ‘Financial Reform,’ in Cobden Club Essays (2nd series), 189???263; also reprinted separately.
+
+[93792] Leslie, ut supra, 204, 205, 207–8, 219, 225–231.
+
+[93842] The re-imposition of the sugar duty in 1901, though justified by the need of revenue, is open to the objection of hampering industry.
+
+[93977] Bk. i. ch. 4, ‘Administrative Supervision.’
+
+[94022] The last-named only through the legislative prohibition, slightly relaxed in the past few years.
+
+[94120] The great increase in the English death duties in 1894, and the recent changes in France, support this statement.
+
+[94235] See Bk. iii. ch. 6, § 3.
+
+[94261] On this difficult subject reference may be made to Professor Seligman's masterly study, The Shifting and Incidence of Taxation, the first edition of which appeared at the same time as the first edition of this work. It, especially in the second enlarged edition (1899), enters into special points both of history and of theory at much greater length than would be allowable in a general manual. The large amount of agreement between Professor Seligman's conclusions and those set forth in the text affords a gratifying confirmation of their correctness. Professor Edgeworth's series of articles on various aspects of incidence are highly important. See his ‘Theory of International Values,’ Economic Journal, iv. 435 sq.; ‘Pure theory of Taxation,’ ib. vii. 46 sq., 226 sq.; ‘Incidence of Urban Rates,’ ib. x. 183 sq., 340 sq., 487 sq. See also the collection of opinions in Memoranda on Classification and Incidence [C. 9528].
+
+[95190] See the sections on incidence in the several chapters of Bk. iv. (ch. 1, § 9, ch. 2, §§ 5, 13, ch. 4, § 11, ch. 6, § 16, ch. 7, § 7, ch. 8, §§ 2, 6, ch. 9, § 11).
+
+[95354] ‘Manifestly there can be no payment by the citizen unless there is a corresponding receipt by the Government.’ Adams, Finance, 388–9.
+
+[95489] ‘I have no doubt that it is desirable to eschew the use of the term “incidence” of taxation.’ Memoranda, 166.
+
+[95600] Tacitus notes the fact in the case of slaves: ‘Vectigal ... venalium mancipiorum remissum, specie magis quam vi, quia cum venditor pendere juberetur in partem pretii emptoribus accrescebat,’ Ann. xiii. 31.
+
+[95807] ‘Considerations on the Lowering of Interest,’ Misc. Works, 595.
+
+[95872] For a full account of the views of the earlier English writers on these questions, see Seligman, Incidence, 11–91 (Part i. Bk. 1).
+
+[96004] Bk. iii. ch. 4, § 2.
+
+[96026] See Turgot, i. 442–4, for an application of this argument to the case of Holland, which had been brought forward to refute the doctrine of Quesnay.
+
+[96175] For the physiocratic doctrine of incidence see Quesnay, Second Problème (ed. Daire), 127 sq.; Turgot, i. 392–444; Seligman, Incidence, 96–112.
+
+[96319] There can, however, be little doubt that Adam Smith was much influenced by the physiocratic teaching on this subject.
+
+[96438] Wealth of Nations, 357.
+
+[96463] See Wealth of Nations, Bk. v. ch. 2 pt. 2. For exposition and criticism of his views see Kaizl, Überwälzung, 3–8, and Falck, Steuerüberwälzung, 30–48.
+
+[96615] On Ricardo's doctrine of incidence see Falck, 48–70; Kaizl, 8–11.
+
+[96682] Nicholson, Introduction to Wealth of Nations, 9.
+
+[96732] On J. S. Mill's differences from Ricardo see Falck, 71–90. He points out that ‘Mill's doctrine of the operation of taxes differs but slightly and only on special points from that of Ricardo,’ 71.
+
+[96929] Cp. Professor Seligman's remarks on Ricardo, Incidence, 117–121.
+
+[96995] Essays (2nd edition), 384.
+
+[97023] Canard's Principles d Économie politique appeared in 1801. See Kaizl, 11–15, for a clear summary, and also Seligman, Incidence, 125–128. An early statement of the theory, limited to taxes on commodities, is that of Alexander Hamilton. ‘Imposts, excises, and in general all duties upon articles of consumption may be compared to a fluid which will in time find its level with the means of paying them.... In the course of time and things an equilibrium, as far as it is attainable in so complicated a subject, will be established everywhere.’ Federalist, 124. Cp. supra, Bk. iii. ch. 3, § 15.
+
+[97616] Stein, ii. 550–591. For the views of Thiers and Stein see Seligman, 129–132.
+
+[97694] Memoranda on Classification and Incidence, 51–2. (The quotation is from Mr. D. A. Wells.)
+
+[97785] lb. 99. It is quite in keeping with this school of thought that he should immediately add, ‘The case of old rates which tend to become a rent charge on the property affected is, however, a very special one,’ thus mixing up the ‘diffusion’ theory with the ‘capitalisation’ theory.
+
+[98066] Address on ‘Imperial and Local Burdens,’ Statistical Journal, lxiv. 566.
+
+[98140] Statistical Journal, lxiv. 559.
+
+[98173] This attitude is adopted in the ‘separate Report’ of Sir E. W. Hamilton and Sir G. Murray, in which the problem of incidence is characterised as ‘insoluble.’ ‘Incidence,’ it is added, ‘must in short be merely a matter of conjecture and speculation.’ Final Report on Local Taxation, 109 [Cd. 638]. Lord Avebury also approaches the same position, Statistical Journal, lxiv. 559. (It may be noticed that he misrepresents Prof. Nicholson's opinion. That writer's assertion, ‘that an answer is impossible,’ is limited to the incidence of import and export duties, it does not apply to ‘rates or taxes’ generally. See his Principles, iii. ch. 10.)
+
+[98816] A prominent representative of this attitude is Held, who declares: ‘Die Überwälzung ist gewiss kein reines Phantom, aber sie ist noch weniger im einzelnen Falle nachweislich.’ Einkommensteuer, 145–6.
+
+[99017] Lord Avebury remarks that ‘Prof. Bastable also condemns Canard's view.’ He quotes the statement in the text, and adds, ‘But unfortunately he gives no refutation either short or long.’ Statistical Journal, lxiv. 567. Considering that the remainder of the chapter is devoted to setting forth a theory of incidence which is quite inconsistent with Canard's theory, and which, if true, completely overthrows it, this desire for a ‘refutation’ appears rather unreasonable. The best refutation of an erroneous view is the exposition of the true one. As Prof. Seligman well says (in a passage not quoted by Lord Avebury), ‘The optimistic theory is so superficial that it scarcely deserves a refutation..... Our review of the eclectic theories as well as the whole positive and constructive part of the present monograph will show the shallowness of the doctrine. Were the theory true there would be no need for any investigation like the present.’ Incidence, 134. It is only necessary to add that none of the passages of this work quoted by Lord Avebury bears the meaning he appears to attribute to them. See § 9, infra, and Bk. iv. ch. 3, § 3.
+
+[100156] The terms in the text are the nearest equivalents of ‘Fortwälzung,’ ‘Rückwälzung,’ and ‘Weiterwälzung,’ which are used by German writers, but with various minute differences. The process called ‘Abwälzung’ by Hock and Wagner should not be regarded as belonging to the subject at all. See Hock, 96; Wagner, ii. 346–8.
+
+[100474] Cp. Seligman, Incidence, 148 sq.; also Jevons, Theory, 161 sq.
+
+[100538] For the economic theory of taxation of monopoly, see Marshall, Principles. (3rd ed.) Bk. v. ch. 13, § 4. Also the articles by Edgeworth already referred to, especially The Pure Theory of Taxation, No. ii. (Economic Journal, vii. 226–38). Cournot seems to have laid the foundation of the scientific analysis of monopolies in his Principes Mathématiques, chs. 5, 6.
+
+[100903] Cp. the more elaborate enumeration in Seligman, Incidence, 181, which applies to taxation in general rather than to the special form of taxation on commodities.
+
+[101065] ‘The theories of the values of labour and of the things made by it cannot be separated; they are parts of one great whole.’ Marshall, Principles, Preface, viii.
+
+[101227] See Ricardo, Principles, chs. 1–6; J. S. Mill, Principles, Bk. ii. Sidgwick, Principles, Bk. ii. chs. 6–9; Walker, Political Economy, pt. iv. Marshall, Economics of Industry (1st edition), Bk. ii. chs. 6–12; Principles of Economics, Bk. vi. chs. 4–11; Nicholson, Principles of Political Economy, Bk. ii.
+
+[101532] The increased produce that wisely expanded taxation provides is not a determinable quantity, otherwise it would perhaps be possible to regard it as the source of taxation, as the older theory of State services suggests.
+
+[101753] The facts that land may vary in productiveness either from fertility or situation, and that cultivation may be either extensive or intensive, make the statement more complex, but do not alter its essential nature.
+
+[101968] See Ricardo, Works, 104; Senior, Political Economy, 123; McCulloch, note 30 to Wealth of Nations.
+
+[102067] See Bk. iv. ch. 1.
+
+[102087] Ricardo, 102.
+
+[102102] Turgot, i, 63; Ricardo, 122.
+
+[102132] Wealth of Nations, 358.
+
+[102157] The effects of a rise or fall in the rate of interest are not quite simple. Speaking broadly, the tendency on balance is that a rise in interest encourages, and a fall checks, accumulation; but ‘the growth of material capital depends on a number of variables,’ Nicholson, Principles, i. 394, cp. 209–10. Cp. Marshall, Principles, 316–8. For an attempt to minimise the effect of the rate of interest on accumulation, see S. and B Webb, Industrial Democracy 610–627.
+
+[102623] ‘Either the labourers themselves or the public generally as consumers’ is Jevons's statement. Theory, 278.
+
+[102731] Prof. Marshall's conception of ‘quasi-rent’ is useful here. Principles of Economics (3rd ed.), 477–8. During the short period the capitalists bear taxation; in the long period the process of shifting is carried out.
+
+[102948] ‘It is laid down that taxes on the profits of all employments fall on capitalists only, and cannot be shifted on any other class. But there is in reality a perpetual migration along the borders between capital and labour, as there is also an intermediate class who individually may be regarded as capitalists or workmen.’ Leslie, Essays, 390–1.
+
+[103294] ‘Les taxes établies sur les salariés, ou sur leurs dépenses, sont done évidemment payées en entier por ceux qui payent leurs salaires.’ Quesnay, ‘second Problème’ in Œuvres (ed. Oncken), 706.
+
+[103487] ‘The recompense of ingenious artists and of men of liberal professions ... necessarily keeps a certain proportion to the emoluments of inferior trades.’ Wealth of Nations, 366; cp. Turgot, i. 444. The salaries of state officials are the only exception allowed by Adam Smith.
+
+[103763] See the passages already quoted.
+
+[103797] Lord Avebury (Statistical Journal, lxiv. 567) regards this statement as ‘an admission which amounts almost to a surrender’ of the hostile position taken above (§ 4) in regard to the theory of equal diffusion. He fails to perceive the difference between a complicated adjustment and an equal distribution, and has overlooked the explanation of ‘diffused incidence’ as being ‘where the process of shifting affects more than two parties,’ supra, § 5.
+
+[104246] The most elaborate attempts at statistical investigation of the shifting and incidence of a tax is the study of Laspeyres on the effects of the abolition of the Prussian ‘meal and meat’ tax. Finanz Archiv, xviii. 46–282. The results reached are quite in accordance with those obtained by the deductive method.
+
+[104557] In such governments as England or France the legislature can completely control the fiscal expedients of municipalities and other smaller territorial administrations. The powers of the American ‘state’ are limited (a) by the federal constitution, (b) by the state constitution. Cities are controlled by state legislation. Cp. Bryce, American Commonwealth. i. 498.
+
+[104922] See Bk. i. ch. 7, §§ 2 sq.
+
+[104950] This is true even of the American colonies in the period between the separation from England and the establishment of the present constitution.
+
+[105095] The great measures of legislation on local government are (1) The Poor Law Act, 1834; (2) The Corporation Reform Act, 1835; (3) The Local Government Act, 1888, creating County Councils; (4) The Local Government Act, 1894, establishing Parish and District Councils.
+
+[105361] Bk. i. ch. 7, §§ 6, 7, 8.
+
+[105388] The following is curious as coming from a strong supporter of free trade: ‘I should be inclined to suggest as a possible means of taxation ... a customs duty or octroi on the admission of articles of general consumption into a locality.’ Giffen in Memoranda, 98; see also Row-Fogo in Economic Journal, xi. 356–7
+
+[105701] Bk. iv. ch. 5, § 6.
+
+[105722] Local Taxation, 204.
+
+[105744] For further discussion of the property tax see Book iv. ch. 4, §§ 3, 4.
+
+[105817] Cp. Report of Town Holdings Committee (1891), Questions 176–180.
+
+[105883] See Bk. iv. ch. 2, § 5, for a discussion of the incidence of house taxes.
+
+[105958] The Final Report of the Royal Commission on Local Taxation recommends the transfer of ‘licenses’ to the local authorities.
+
+[106082] Bk. ii. ch. 5, § 3.
+
+[106103] Goschen, Local Taxation, 205: ‘It may happen that owing to events at present unforeseen, it will be impossible for the Imperial Exchequer to part with so important a source of revenue as the house tax.’ The Majority Report of the Local Taxation Commission approves of the surrender.
+
+[106387] See Bk. iii. ch. 5, §§ 5, 6, 7; Bk. iv. ch. 1, § 9; ch. 2, § 5.
+
+[106452] On the question of incidence see Goschen, Local Taxation, 163–168, and the fifth Report of the Committee on Town Holdings, No. 341 (1890), especially Questions 41–5, 88–101, 331 (Sidney Webb); 1804–32, 2024–26 (Munro); 1243–46 (Farrer); 2714–22 (Rogers). The Memoranda on Classification and Incidence, issued by the Local Taxation Commission, contain the latest views on this important matter, see also ‘The Incidence of Urban Rates,’ Edgeworth, Economic Journal, x. 172 sq.; 340 sq.; 487 sq.
+
+[106946] The distinction drawn in the text between expenditure for general purposes and that for the particular advantage of the locality has been well expressed in recent discussion by describing rates levied for the former as ‘onerous,’ those for the latter being ‘beneficial.’ The serviceable terms, which seem to have been first applied in this connexion by Sir G. H. Murray (Economic Journal, iii. 701), are employed in the Reports of the Royal Commission on Local Taxation and are best used with direct reference to expenditure. It should be added that the distinction between the two classes has been long recognised by scientific students; cp. e.g. ‘Da die Gemeindewirthschaft in so vielen Punkten eine Art von Mittelstellung zwischen Staats- und Privatwirthschaft einnimmt, so darf man auch bei ihren Steuern nicht vergessen dass zwar manche ihren Ausgaben nur decentraliserte Staatsleistungen betreffen,’ Roscher, 159. Cp. also Cohn, §§ 125–6, and 459.
+
+[107901] ‘It is one of the fairest and most unobjectionable of all taxes. No part of a person's expenditure is a better criterion of his means, or bears on the whole more nearly the same proportion to them.’ Mill, Principles, Bk. v. ch. 3, § 6. Supported by Engel's researches.
+
+[108171] See Rosewater, Special Assessments, 2–21, for instances.
+
+[108229] Rosewater, ib. chs. 2, 3. It may be added that the rapid growth of towns in America made this system almost necessary. Owners of property hardly felt aggrieved when they really got full value for the charge. Though they did not contract with the municipal authorities (as not seldom happens in Great Britain), there was in fact a quasi-contract, which saved trouble.
+
+[108597] For the provisions in various American towns see Rosewater, 64–65.
+
+[108665] Special assessments in the United States represent a capital sum; but as they can be collected by instalments this is really non-essential. Either a fixed rate extending over a number of years, sufficient to pay off the principal expense, funds for which could be obtained by borrowing (cp. Bk. v. ch. 8), or redeemable rent charges seem to be the best technical forms.
+
+[109036] See the history lucidly given in Sir E. W. Hamilton's ‘Memorandum’ (C. 9528), reproduced in Memoranda, 11–19; also Chapman, Local Government and State Aid, ch. 7. Each of these ‘grants in aid’ was clearly due to ‘the pressure brought to bear on the government’ by interested parties, as, indeed, Sir E. W. Hamilton's narrative shows. One important item is the cost of the Irish police, which exceeded £1,408,000 in 1895–6, and is still paid by the central government.
+
+[109505] These were (1) the license duties; (2) a proportion (one-half) of the probate duty; (3) 6d. per gallon on spirits and 3d. per barrel on beer, i.e. taxes on acts, property, and commodities. In 1894 a portion of the new estate duty equivalent to the previous probate duty was substituted for the latter.
+
+[109808] See Final Report of Commission on Local Taxation, ‘The principles on which Mr. Goschen's scheme was founded are in our opinion broad and sound.’ 17; cp.112. For a more unfavourable view see Farrer, Mr. Goschen's Finance, 80 sq.
+
+[110037] See the vigorous criticism by Hamilton and Murray in their separate Report, Local Taxation Commission, Final Report, 116–120; and Chapman, Local Government, ch. 8.
+
+[110202] It has been alleged that ‘ear-marking’ of certain sources of revenue for the local taxation account is a mere fiction, since, whatever funds may be assigned, it is necessary to impose fresh or retain existing taxation to meet the gap in the national revenue, and it is this fresh (or retained) taxation that goes to the aid of local finance. This is true, but it is equally true of the transfer of any form of taxation, owing to the fact that imperial and local finance are essentially connected. The revenue system is fluid, and the ultimate adjustment always operates on the ‘marginal’ expenditure and the ‘marginal’ revenue. See Bk. i, ch. 8, § 4.
+
+[110854] 75 per cent. of the coffee duty, 25 per cent. of the spirit duties, the excises on sugar and wine, and 40 per cent. of the postal receipts. See De Parieu, iv. 386 sq. for a full discussion.
+
+[111045] Particularly by the Lex Huene of 1885, repealed in 1893; see ‘Die Lex Huene.... und ihre Wirkungen.’ Finanz Archiv, x. 488–498.

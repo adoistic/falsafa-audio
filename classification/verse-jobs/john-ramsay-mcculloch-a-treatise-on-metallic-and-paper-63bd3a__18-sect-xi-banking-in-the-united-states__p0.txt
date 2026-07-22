@@ -1,0 +1,327 @@
+WORK: A Treatise on Metallic and Paper Money and Banks  (slug: john-ramsay-mcculloch-a-treatise-on-metallic-and-paper-63bd3a)
+
+CHAPTER: 18-sect-xi-banking-in-the-united-states
+
+
+
+[0] It has been the uniform practice of the different States of the Union to allow banks to be established for the issue of notes, payable in specie on demand. In cases where the liability of shareholders in banks was to be limited to the amount of their shares, they had, previously to 1838, to be established by Acts of the local legislatures. But, in general, these were easily obtained; and down to a comparatively late period, it may be said that banking was quite free; and that, practically, all individuals or associations might issue notes, provided they abided by the rules laid down for their guidance, and engaged to pay them when presented.
+
+[651] Under this system, the changes in the amount and value of the paper currency of the United States have been greater than in any other country; and it has produced an unprecedented amount of bankruptcy and ruin.
+
+[863] Between 1811 and 1820, about 195 banks, in different parts of the Union, became bankrupt; and it is said, in a report by the Secretary of the Treasury of the United States, dated 12th May 1820, that these failures, which mostly happened in 1814 and 1819, produced a state of distress so general and severe, that few examples of the like had then occurred.
+
+[1220] But bad as this instance was, it was nothing to that which took place subsequently to 1834. The accounts of the aggregate issues of the banks differ a little; but the following statement is believed to be very nearly accurate, viz,—
+
+[1454] Now observe, that this sudden and enormous increase took place under the obligation, which we are told is quite enough to prevent all abuse, of paying notes on demand. The result was, what most men of sense must have anticipated, viz., that a revulsion took place, and that every bank within the Union, without, it is believed, a single exception, stopped payment in 1837.
+
+[1828] In 1838 such of the banks as had been best managed, and had the largest capitals, resumed payment in specie. But in 1839 and 1840, a farther crash took place. And the bank-notes afloat, which, as has been seen, amounted to $149,185,890 in 1837, sunk to $83,734,000 in 1842, and to $58,563,000 in 1843. It is supposed that in this latter crash nearly 180 banks, including the Bank of the United States, were totally destroyed. And the loss occasioned, by the depreciation which it caused in the value of stocks of all kinds, and of all sorts of property, was quite enormous. And yet, vast as that loss was, it was really trifling, as a writer in the American Almanack has stated, compared with “the injury resulting to society from the upheaving it occasioned of the elements of social order, and the utter demoralization of men by the irresistible temptation to speculation which it afforded, ending in swindling to retain ill-gotten riches.”
+
+[2772] The evils of the American system have been aggravated by the lowness of the notes which most banks have issued. This brings them into the hands of retail traders, labourers, and others in the humbler walks of life, who always suffer severely by the failure of a bank.
+
+[3041] Since 1838 and 1842, various measures have been taken in nearly all the States, but principally in New York, to restrain the free action of the banks, and to prevent a repetition of the calamities referred to.
+
+[3252] In New York, for example, the banks have been divided into two great classes—the incorporated and the free banks. The former, which are incorporated by a State law, have to conform to certain regulations, and have to contribute a half per cent. annually upon their capital to a security fund, which is devoted to the payment of the notes of defaulting banks. But this is a most objectionable plan; for, in the first place, it does not prevent bankruptcies; and, in the second place, it compels the well-managed banks to contribute to a fund which goes to pay the debts of those that are mismanaged. It has consequently declined in favour, and is now rarely acted upon.
+
+[3922] In the other, or free banking system, all individuals or associations who choose to deposit securities (minimum amount $100,000) for their payment, are allowed to issue an equal amount of notes. And this is certainly by far the more efficient as well as the most popular of the two plans. But it is objectionable, because, 1st, A longer or shorter, but always a considerable, period necessarily elapses after a bank stops before its notes can be retired; and, 2d, Because the securities lodged for the notes are necessarily at all times of uncertain and fluctuating value; while, in periods of panic or general distrust, they become all but inconvertible. The Sub-secretary of the Treasury of the United States has animadverted as follows on this plan, in a letter dated 27th Nov. 1854:—
+
+[4711] “The policy of many of the State governments has of late years consisted in encouraging the issue of small notes, by sanctioning the establishment of what are popularly called ‘free banks,’ with deposits of stocks and mortgages for the ‘ultimate’ security of their issues. This ‘ultimate’ security is, it may be admitted, better than no security at all. The mischief is, that it is least available when most wanted. The very causes which prevent the banks from redeeming their issues promptly, cause a fall in the value of the stocks and mortgages on ‘the ultimate security’ of which their notes have been issued. The ‘ultimate security’ may avail something to the broker who buys them at a discount, and can hold them for months or years; but the labouring man who has notes of these ‘State security banks’ in his possession, finds, when they stop payment, that ‘the ultimate security’ for their redemption does not prevent his losing twenty-five cents, fifty cents, or even seventy-five cents in the dollar.
+
+[5722] In a circulating medium we want something more than ‘ultimate security.’ We want also ‘immediate’ security; we want security that is good to-day, and will be good to-morrow, and the next day, and for ever thereafter. This security is found in gold and silver, and in these only.”
+
+[6003] It appears from the Report of the Superintendent of Banking for the State of New York for 1856, that the securities he then held in trust amounted to $39,359,071, which were almost wholly lodged by banking associations and individual bankers.
+
+[6247] During the year the securities held in trust for the under-mentioned banks that had become insolvent in 1855 were disposed of. But the sums realised by their sale did not in any case suffice to pay the notes at par, while a period, varying from two to four years, would have to elapse before the affairs of the insolvent banks will be finally settled.
+
+[6600] This statement sets the defective nature of the security system, as administered in New York, in the clearest point of view. It might, no doubt, be improved by increasing the proportion of securities to notes. But, owing to the variety of securities that are taken (viz., all manner of bonds and mortgages, state, canal, and railway stocks, &c. &c.), and the uncertainty of their value, a great deal of risk is always incurred in accepting them, and they can never form a proper foundation on which to issue notes.
+
+[7116] But, however desirable, it would, we fear, be visionary to expect that local issues should be suppressed in America, or that her paper currency should be placed on a really sound foundation. But it may, nevertheless, be easily and greatly improved. And, perhaps, this would be best effected by suppressing low notes, or those for less than twenty dollars, and increasing the proportion of securities to issues. The rules on which so much stress is laid, in most parts of America, for making the issues of banks depend on the magnitude of their capitals, or the amount of specie in their vaults, are really of no use whatever. They may be and have been eluded and defeated in a thousand ways, and serve only to make the public look for protection to what is altogether impotent and worthless for any good purpose.
+
+[7930] The following table from Hunt’s Commercial Magazine for March 1857, gives an account of the number and condition of the banks of the United States, as officially reported, in certain years from 1834 to 1856.
+
+[8139] Since writing the above, another crash has taken place, and all the banks in the Union, from the Gulph of Mexico to the frontiers of Canada, have again stopped payments!
+
+[8310] This new crash affords, had that been necessary, a fresh and striking illustration of the truth of the principles we have endeavoured to establish in the course of this treatise; and it may be expected to awaken, if that be possible, the American people to a proper sense of the enormous abuses connected with their banking system; and the necessity of placing it on an entirely new foundation.
+
+[8706] The above account shows that there had been a rapid increase of discounts since 1851, and that increase was especially great in 1856, and went on augmenting down to August last (1857). On the 8th of that month, the discounts and advances by the New York banks, amounted to $122,077,252, the deposits in their possession being, at the same time, $94,436,417. This was the maximum of both. On the 24th of August, the Ohio Life and Trust Company, which carried on an extensive banking business in New York, stopped payments; and by so doing gave a severe shock to credit and confidence, which the suspension of two or three more banks turned into a panic. Notes being in a certain degree secured, the run upon the banks was principally for deposits. And to meet it they so reduced their discounts and advances, that on the 17th October, they amounted to only $97,245,826. This sudden and violent contraction necessarily occasioned the suspension of many of those mercantile houses that had depended on the banks for discounts. And it did this without stopping the drain for deposits, which had sunk on the 17th October to $52,894,623, being a decrease of $41,546,784 in about two months. The universal stoppage of the banks was a consequence of these proceedings.
+
+[9968] There seems to be no doubt that improvident advances on the part of the banks, and overtrading, were the main causes of the crisis. And it is important to observe that it is stated in the Bankers’ Magazine for November 1857 (p. 430), and other works of authority published in New York, that the improvidence referred to was, in part at least, occasioned by the too high interest allowed at New York on deposits on current accounts, or at call. This made the opulent bankers and capitalists in the Western States keep large balances at New York; and it tempted, and in some degree obliged, the bankers and money-dealers in the latter to make advances on questionable security, for the sake of the high interest payable on them. A system of this sort may be truly said to force capital into the hands of the least deserving, and to be a prolific source of wild speculation and overtrading. And whenever any serious check is given in any quarter of the Union to the process of inflation, the consequences are sure to be in the last degree disastrous: for, the greater number of the banks being very ill supplied with specie, they can resist no serious demand upon them either for payment of notes or deposits; and when one or a few stop, a panic is generated, which involves even the best managed banks in the common ruin.
+
+[11289] A tendency to panics is, in fact, one of the peculiarities of the American system. Owing to the liability of the partners in banks being limited, the depositors in them, and the holders of notes not issued upon securities, having nothing to trust to, make all imaginable haste, when their suspicions are awakened, to save themselves by withdrawing their deposits, and cashing their notes. And hence the rapidity with which panics spread throughout the Union: and, we may add, that the slowness with which they are disseminated in this country, arises from the contrary circumstances, from the confidence placed by the public in the unlimited obligation of the partners to make good all demands.
+
+[11985] In the city of New York, the action of the foreign exchanges compels the banks to have always on hand a very considerable amount of specie. But the reader will hardly believe with what a small stock of coin the banks in the country parts of that state, and generally throughout the Union, contrive to carry on their business. In illustration of this statement, we may mention, that in June last (1857), the fifty-six banks in the city of New York are reported in the official returns to have had $8,000,000 notes in circulation, with an aggregate amount of no less than $12,000,000 specie in their coffers. But at the same time that the city banks were in this situation, the circulation of the 255 country banks then existing in the state is returned at $24,000,000, and their specie at only $1,200,000, being only 1/20th part of their notes afloat. And as these returns give only average results, it follows that, while some of the banks would have more, others would have proportionally less specie than this medium rate.
+
+[13011] A notion, indeed, would appear to be gaining ground among the banks, in some parts of the States, that when they have given security for their issues, they have done quite enough, and that they may dispense with the troublesome obligation to pay them on demand. It appears, for example, that in the moral and religious state of Massachusetts, there were, on the 7th July 1856, no fewer than 135 banks (excluding those in Boston), which had $6,601,130 of deposits, and notes in circulation amounting to $13,106,068, while their specie on hand amounted to only $1,092,463, or about 1/13th part of the circulation. And in other parts of the Union the stock of bullion was still more scanty. Thus, in Illinois, on the 6th of July 1857, the State Bank, with notes afloat to the amount of $725,000, had, to meet all demands, $61,000 in specie in her coffers; while the Grayville Bank, with a circulation of $471,556, was provided with a supply of $18,951, in specie, and the Raleigh Bank, with a circulation amounting to $248,000, had a specie fund of no less than $1000! It may be supposed, perhaps, that this would be the minimum amount of specie, but no. For some banks (such as the Bank of the Commonwealth, with notes afloat to the extent of $84,915) were honest enough to admit that they had a considerable circulation without being encumbered with a single dollar!
+
+[14378] It is evident that a banking system of this sort has no better foundation than a house of cards. It is sure to fall to pieces at the first touch. The grand object of by far the greater number of the bankers is to get their notes into circulation; and as these are often issued for very small sums, cost nothing, and at the same time yield some 8, 10, or 12 per cent., or more, of interest, we need not wonder at the eagerness with which they pursue this object, or at their success, or the abuses to which it leads. The discount of bills at distant dates, and their renewal, make part of the system.
+
+[14979] The security system followed in New York, even were it generally adopted, affords no guarantee against these evils. Instead of preventing, it really tends to encourage over-issue, and it is impotent to insure a proper supply of bullion. All that it contemplates is the ultimate payment of the notes; but it does not prevent the bankruptcy of those by whom they are issued, and we have seen that it does not even accomplish that ultimate payment which it has exclusively in view. The whole system is rotten to the core; and unhappily, too, it is deeply injurious to all those with whom the Americans have any dealings, as well as to themselves.
+
+[15624] We are glad to be able to corroborate our views of these matters by the high authority of the President of the United States. Mr. Buchanan, in his message to Congress, delivered on the 8th December 1857, makes the following conclusive statement:—“The first duty which banks owe to the public is to keep in their vaults a sufficient amount of gold and silver to insure the convertibility of their notes into coin at all times and under all circumstances. No bank ought ever to be chartered without such restrictions on its business as to secure this result. All other restrictions are comparatively vain. This is the only true touchstone—the only efficient regulator of a paper currency—the only one which can guard the public against over-issues and bank suspensions. As a collateral and eventual security it is doubtless wise, and in all cases ought to be required, that banks shall hold an amount of United States’ or State securities equal to their notes in circulation. and pledged for their redemption. This, however, furnishes no adequate security against over-issues. On the contrary, it may be perverted to inflate the currency; indeed it is possible by this means to convert all the debts of the United States and State governments into bank-notes, without reference to the specie required to redeem them. However valuable these securities may be in themselves, they cannot be converted into gold and silver at the moment of pressure, as our experience teaches, in sufficient time to prevent bank suspensions and the depreciation of banknotes.”
+
+[17179] To show the worthlessness of the returns published by the American banks, we may state that they continue, down to the latest advices (December 1857), to represent the capital of the New York banks as quite unimpaired, and as large as it had been twelve months ago! But everybody knows that it is impossible such should be the case. A very large proportion, not less, perhaps, than from a third part to a half or more of the capital of the banks, must have been lost by the late bankruptcies in that city, and by the depreciation of the stocks held by the banks.
+
+[17743] It is truly stated by Mr. Buchanan, in the message now referred to, “that it is easy to account for our financial history for the last forty years. It has been a history of extravagant expansions in the business of the country, followed by ruinous contractions. At successive intervals the best and most enterprising men have been tempted to their ruin by excessive bank loans of mere paper credit, exciting them to extravagant importations of foreign goods, wild speculations, and ruinous and demoralizing stock gambling. When the crisis arrives, as arrive it must, the banks can extend no relief to the people. In a vain struggle to redeem their liabilities in specie, they are compelled to contract their loans and their issues; and at last, in the hour of distress, when their assistance is most needed, they and their debtors together sink into insolvency.”
+
+[18607] We have already seen that the real value of our exports to the United States in 1856 amounted to £21,476,000. But we have been too much in the habit of estimating our commercial prosperity by the magnitude of the exports, which is a most fallacious criterion. We have heard it stated by well-informed parties, and we believe the statement to be true, that but for the extreme inflation of the banking and credit system of the United States, the imports from England during last year would not have exceeded 15 or 16 millions; and that those from France and other countries would have been reduced in something like the same proportion. And, had such been the case, production here would not have been unnaturally stimulated, and a fair profit would have been obtained from our exports, whereas they will now entail a large and most serious loss.
+
+[19454] Besides the bankruptcy and ruin that periodically arise from such a system, it is at all times productive of the greatest inconvenience and trouble. Where there are so many separate and independent banks (about 1400), the sphere of the influence and circulation of each is necessarily circumscribed; and when notes get to any considerable distance from the place where they are issued, especially when they get into a different State, they circulate with difficulty, and generally at a discount. But this is not the only evil by which their circulation is attended. Banks are every now and then suspending payments, or getting into discredit. And lists are regularly published of such defaulting or suspected banks, and of the rates of discount at which their notes are current, without which no traveller can leave his house, and no shopkeeper can venture to transact any business. It is truly astonishing, seeing the extreme inconvenience resulting from such a state of things, that it should be tolerated even for a week. If the general government be not sufficiently strong to suppress local issues, and to substitute in their stead a national paper issued on deposits of bullion, the public may, if they choose, rid themselves of the evil, by refusing to accept payment otherwise than in coin. The banking interest is, however, so very powerful, and embraces so great a number of individuals, that we doubt whether, even with the co-operation of the general government, the time has yet arrived for anything effectual being done for the amendment of the system. But the longer it exists, the more intolerable will it become; and in the end, no doubt, it will be suppressed. It forms, at present, the most gigantic abuse by which an intelligent people ever permitted themselves to be disgraced and oppressed.
+
+[21268] (j. r. m.)
+
+[21280] Etymologists differ respecting the derivation of the word money. Some contend that it comes from monere (quia nota inscripta de valore admonet), because the stamp impressed on coined money indicates its weight and fineness—(Bouteroue, “Recherches sur les Monnoyes de France, p. 1); and others that it originates in the circumstance of silver being first coined at Rome in the temple of Juno Moneta.—Suidas, in voce Μονητα.
+
+[21704] Wealth of Nations, M‘Culloch’s ed., in one vol., p. 10.
+
+[21761] Storch, Traité d’Economie Politique, tom. iii. p. 16; Ulloa, Mémoires Philosophiques sur l’ Amerique, tom. ii. p. 100. Skins, hides, or pieces of leather marked with a stamp (corium forma publica percussum) are said to have been used as money by the Carthaginians and Spartans, (Seneca, De Beneficiis, lib. v. c. 14. Eckhel, Doctrina Numoram Veteram, i. Proleg., p. xx., etc). This statement, which is not a little obscure, has been very differently interpreted; some critics contending that it merely refers to such entire skins or hides as were bartered for other things, while others contend that it is meant to designate small bits of leather, marked with a stamp, and (like our bank-notes) substituted for and representing real money. It seems, perhaps, most probable that both interpretations may be true, that is, that entire skins and bits of leather, marked with stamps, may have been used sometimes in the one way and sometimes in the other. The stamp on the skin or hide might represent its weight, and that on the bit of leather its nominal value, or the money to be given for it to the holder.
+
+[22869] Iliad, lib. 6, lin. 235. Garnier contends, in a note to his translation of the Wealth of Nations (v. p. 18, ed. 1822), that by oxen, in the statement now referred to, Homer did not mean the animals so called, but coins impressed with the figure of an ox. But though the oldest Attio and some other ancient coins are marked with an ox, it does not follow that cattle were not used as money previously to their being issued. Indeed, the fair presumption is, that that circumstance was the cause of their figures being impressed on the coins.
+
+[23410] Morellet, Prospectus d’un Nouveau Dictionnaire de Commerce, p. 115.
+
+[23479] Storch, in loco citato.
+
+[23504] Wealth of Nations, p. 10.
+
+[23531] Dans les pays où le cuivre a trop de valeur pour pouvoir représénter celle des plus menues denrées, on est encore oblige lui substituer quelque autre matière plus commune. C’est cette circonstance qui a fait adopter aux Indiens l’usage des cauris en guise des petite monnoie. Cet usage pourroit parôitre etrange dans les pays aussi riches et d’une civilisation aussi ancienne que le Bengale et l’Indoustan: maise le cuivre y est si rare, et les vivres y sont a si bon marche, qu’une pièce de la valeur de 1 cop. et 1/4 [about a halfpenny English] peut y acheter une quantite des denrees suffisante pour la subsistence journalière d’un homme du peuple. On est donc oblige de deviser la plus petite monnoie de cuivre en plusieurs fractions; et comme une monnoie d’aussi peu de valeur couteroit plus à fabriquer qu’elle ne pourroit valoir, on la remplace par un coquillage dont la nature fait présque tous les fraix. Quelque mince que soit la valeur d’un cauris, elle suffit dans ces contrees fertiles pour acheter une pièce des bananes ou quelque autre fruit commun.”—Le Goux de Flaix, Essai sur l’Indoustan, tom. i. pp. 143-226, quoted by Storch, Economie Politique, tom. iii. p. 133.
+
+[24716] Smith, ubi supra; and Horrebow, Description de l’Islande, tom. ii. p. 90.
+
+[24791] Wealth of Nations, loc. cit.
+
+[24821] Polit. lib. i. cap. 9.
+
+[24845] Hist. Nat. lib. 33, cap. 3.
+
+[24874] Genesis, chap. xxiii. verse 16.
+
+[24907] Goguet, De l’Origine des Loix, &c., tom. i. p. 269.
+
+[24960] See Memorandum on the Silver Coinage of 1817, by the Master of the Mint, p. 378 of the Appendix to the Lords’ Report on the Resumption of Cash Payments by the Bank.
+
+[25126] Goguet, De l’Origine des Loix, &c., tom. i. p. 268, 4to. edit. See also Park’s Travels, vol. i. p. 464, 8vo. edit.
+
+[25242] The Roman jurists have given a brief, but clear and comprehensive, account of the circumstances which led to the use of coined money.—Origo emendi vendendique a permutationibus cæpit. Olim enim non ita erat nummus; neque aliud merx, aliud pretium vocabatur; sed unusquisque, secundum necessitatem temporum ac rerum, utilibus inutilia permutabat, quando plerumque evenit ut quod alteri superest alteri desit. Sed quia non semper, nec facile concurrebat, ut, cum tu haberes quod ego desiderarem, invicem haberem quod tu accipere velles, electa materia est, cujus publica ac perpetua æstimatio difficultatibus permutationum æqualitate quantitatis subveniret; eaque materia formâ, publicâ percussa, usum dominiumque, non tam ex substantiâ præbet quam ex quantitate; nec ultra merx utrumque, sed alterum pretium vocatur.—(Digest, lib. xviii. tit. i., De Contr. Empt. Leg. i.)
+
+[26114] Torrens On the Production of Wealth, p. 305.
+
+[26160] The following passage of Montesquieu has often been referred to in proof of the existence of an ideal standard:—“Les noirs de la côte d’Afrique ont un signe des valeurs sans monnoie; c’est un signe purement idéal fondé sur le degré d’estime qu’ils mettent dans leur esprit à chaque marchandise, à proportion du besoin qu’ils en ont; une certaine denrée, ou marchandise, vant trois macutes; une autre, six macutes; une autre, dix macutes; c’est comme s’ils disoient simplement trois, six, dix. Le prix se forme par la comparaison qu’ils font de toutes les marchandises entre elles: pour lors, il n’y a point de monnoie particulière, mais chaque portion de marchandise est monnoie de l’autre.”—Esprit des Loix, liv. xxii. cap. 8.
+
+[26889] But, instead of giving any support to the notion of an abstract standard, this passage might be confidently referred to in proof of its non-existence. Had Montesquieu said that the blacks determined the values or prices of commodities, by comparing them with the arbitrary term macute, the statement, though erroneous, would have been at least in point. But he says no such thing. On the contrary, he states distinctly that the relative values of commodities (marchandises) are ascertained by comparing them with each other (entre elles), and that it is merely the result of the comparison that is expressed in arbitrary terms.
+
+[27518] So much for the weight to be attached to this statement, supposing it to be well founded. The truth is, however, that the term macute is not really arbitrary, and employed only to mark an ascertained proportion, but that it has a reference to, and is in fact, the name of an intrinsically valuable commodity. “On a bien dit,” says l’Abbe Morellet, “que ce mot macute étoit une expression abstraite et générale de la valeur, et cela est vrai au sens où nous l’expliquerons plus bas; mais on n’a pas remarqué que cette abstraction a été consequente et posterieure à l’emploi du mot macute pour signifier une marchandise, une denrée réelle à laquelle on avoit longtems comparé toutes les autres.
+
+[28212] “Macute en plusieurs lieux de la côte d’Afrique, est encore le nom d’une certaine étoffe: ‘Chez les negres de la côte d’Angola,’ dit le voyageur Angelo, ‘les macutes sont des pièces de nattes d’une aune de long;’ Jobson dit aussi que les macutes sont une espèce d’étoffe.
+
+[28485] Les étoffes ont toujours été l’objet d’un besoin tres-pressant chez des peuples aussi barbares, depourvus de toute espèce d’industrie.—Les nattes en particulier leur sont de la plus grande nécessité. Elles sont divisées en morceaux peu considerables et d’une petite valeur; elles sont très-uniformes dans leurs parties, et les premières qu’on a faites auront pu être semblables les unes aux autres, et d’une bonté égale, sous la même dénomination; toutes ces qualités les ont rendu propres à devenir la mésure commune des valeurs.”—Prospectus d’un Nouveau Dictionnaire de Commerce, p. 121.
+
+[29076] The following extract from Park’s Travels gives an example of a similar kind:—“In the early intercourse of the Mandingoes with the Europeans, the article that attracted most notice was iron. Its utility in forming the instruments of war and husbandry made it preferable to all others; and iron soon became the measure (standard) by which the value of all other commodities was ascertained. Thus a certain quantity of goods, of whatever denomination, appearing to be equal to a bar of iron, constituted, in the trader’s phraseology, a bar of that particular merchandise. Twenty leaves of tobacco, for instance, were considered as a bar of tobacco; and a gallon of spirits (or rather half spirits and half water) as a bar of rum; a bar of one commodity being reckoned equal in value to a bar of another commodity. As, however, it must unavoidably happen that, according to the plenty or scarcity of goods at market, in proportion to the demand, the relative value would be subject to continual fluctuation, greater precision has been found necessary; and, at this time, the current value of a single bar of any kind is fixed by the whites at two shillings sterling. Thus, a slave, whose price is £15, is said to be worth 150 bars.”—Travels in the Interior of Africa, 8vo. edit., vol. i. p. 39.
+
+[30369] Farther Considerations concerning Raising the Value of Money. Locke’s Works, ii. 94. 4to. 1777.
+
+[30466] Ullos, Voyage de l’Amerique, i. 379, Amsterdam, 1752.
+
+[30521] Nouvelle Espagne, liv. ii. cap. 7, edit. 1825.
+
+[30569] Hume’s Essay on Money.
+
+[30593] Seignorage, strictly speaking, means only the clear revenue derived by the state from the coinage. But it is now commonly used to express every deduction made from the bullion brought to the mint to be coined, whether on account of duty to the state, or of the expense of coinage (properly brassage). We always use the phrase in its more enlarged sense.
+
+[30948] Le Blanc, Traité Historique des Monnoyes de France, p. 90, ed. Amst. 1692.
+
+[31024] Mr Tooke read a very able paper on seignorage before the Lords’ Committee of 1819, on the resumption of cash-payments. It is printed in the appendix to their report.
+
+[31191] Minutes of Evidence, p. 207.
+
+[31221] Chevalier De la Monnaie (p. 110). This work forms the third volume of Chevalier’s Cours d’Economie Politique.
+
+[31332] Storch, tom. vi. p. 74.
+
+[31357] Annals of the British Coinage, vol. i. p. 179, 4to edition.
+
+[31418] Those who wish for a farther elucidation of this subject, may refer to Mr Mushet’s evidence in the Appendix to the Lords’ Report “on the Expediency of the Banks resuming Cash-payments,” where it is discussed at great length, and in a very able manner.
+
+[31671] In the tables annexed to this article, the reader will find a detailed account of the amount of the seignorage and its fluctuations in different periods.
+
+[31826] Ruding’s Annals of the Coinage, vol. i. p. 185. When the right of seignorage was abolished, there was a pension, payable out of the profits derived from it, granted under the great seal, for twenty one years, to Dame Barbara Villiers, which the legislature ordered to be made good out of the coinage duties imposed by that act. (See Ruding, in loco citato, and Leake’s Historical Account of English Money, 2d edit., p. 356.)
+
+[32252] Le Blanc, p. 87.
+
+[32270] Necker, Administration des Finances, (tom. iii. p. 8).—Dr. Smith has stated (Wealth of Nations, p. 21), on the authority of the Dictionaire des Monnoies, of Abot de Bazinghen, that the seignorage on French silver coins, in 1775, amounted to about eight per cent. The error of Bazinghen has been pointed out by Garnier, in his translation of the Wealth of Nations.
+
+[32635] Chevalier De la Monnaie, p. 326.
+
+[32669] Previously to the recoinage of gold in 1774, the market price of gold exceeded its mint price by about 21/2 per cent. But this was not a consequence of gold or paper being in excess, but of the gold coins being worn to that extent. On the new coins being issued, the discrepancy between the mint and market price of gold disappeared.
+
+[33004] Rather an indigestible fact for those who contend that bank notes, being issued in proportion to the demand, have not been depreciated from excess.
+
+[33153] Liverpool On Coins, pp. 68-85.
+
+[33185] Being intended as an experiment, this act was limited to the 1st May 1776. But not being found to be productive of any inconvenience, it was prolonged by other temporary acts. It was, however, suffered accidentally to expire in 1783, and was not renewed till fifteen years after, in 1798. And yet, despite the extremely degraded state of the silver coin, very few instances occurred during this lengthened period of its being offered in payment of any considerable sum.
+
+[33656] Principles of Political Economy, p. 520.
+
+[33698] Say, i. p. 393.
+
+[33715] See Art. Precious Metals in this work.
+
+[33755] The carat is a bean, the fruit of an Abyssinian tree, called Kuara. This bean, from the time of its being gathered, varies very little in its weight, and seems to have been, in the earliest ages, a weight for gold in Africa. In India it is used as a weight for diamonds, &c. (Bruce’s Travels, vol. v. p. 66.)
+
+[34065] Liverpool On Coins, p. 27.
+
+[34093] For a further and complete exposition of this question, see Lord Overstone’s Queries annexed to the Report of the Commissioners on Decimal Coinage.
+
+[34242] For an account of the money of the Greeks, and of the ancients generally, the reader is referred to Raper’s Inquiry into the Value of the Ancient Greek and Roman Money, in the volume of Select Tracts on Money, reprinted for the Political Economy Club in 1856; Pinkerton On Medals; Hussey On Ancient Weights and Money; and to the various articles on the same subject in Smith’s Dictionary of Greek and Roman Antiquities.
+
+[34663] “Servius rex primus signavit æes. Antea rudi usos Romæ Remeus tradit. Signatum est nota pecudum unde et pecunia appellata. . . . . Argentum signatum est anno urbis DLXXXV. Q. Fabio Cos. quinque annos ante primum bellum Punicum. Et placuit denarius prox. libris æris, quinarius pro quinque, sertertium pro dipondio ac semisse. Libræ autem pondus æris imminutum bello Punico primo cum impensis resp. non sufficeret, constitutumque ut asses sextentario pondere ferirentur. Ita quinque partes factæ lucri, dissolutumque æs alienum. . . . . Postea, Annibale urgente, Q. Fabio Maximo Dictatore, asses unciales facti: placuitque denarium xvi. assibus permutari, quinarium octonis, sestertium quaternis. Ita resp. dimidium lucrata est. Mox lege Papyria semunciales asses facti.” Plinii, Hist. Nat., lib. xxxiij. cap. 3. Lugd. Bat. 1669.
+
+[35493] Decline and Fall, vol. iii. p. 89.
+
+[35529] This is, indeed, decisively proved by a passage in Celsus: “Sed et antea sciri volo in uncia pondus denariorum esse septem.”—Cels. lib. xv. cap. 17.
+
+[35679] Essay on Medals, vol. i. p. 162, edit. 1808.
+
+[35725] Greaves’ Works, i. 262. The weight of the denarius, as given by other authorities, may be seen in p. 135 of Hussey’s excellent Treatise on Ancient Weights and Money.
+
+[35892] Greaves, vol. i. p. 331. Gibbon’s Miscellaneous Works, vol. v. p. 71.
+
+[35963] Pliny Hist. Nat., lib. xxxiii. cap. 3, previously quoted.
+
+[36022] Bazinghen, Dictionnaire des Monnies, tom. ii. p. 64.
+
+[36076] Essay on Medals, vol. i. p. 183.
+
+[36110] Vitruvius, lib. iii. cap. 1.
+
+[36140] Writers on ancient coins, with the exception of Pinkerton, agree in supposing the sestertius to have been originally, and to have always continued to be, a silver coin. Pinkerton, however, has denied this opinion; and, on the authority of the following passage of Pliny, contends that the sestertius was, at the time when Pliny wrote, whatever it might have been before, a brass coin. “Summa gloria æris nunc in Marianum conversa, quod et Cordubense dicitur. Hoc a Liviano cadmiam maxime sorbet, et orichalci bonitatem imitatur in sestertiis, dupondiariisque, Cyprio suo assibus contentis.”—(Lib. xxxiv. cap. 2). That is, literally, “The greatest glory of brass is now due to the Marian, also called that of Cordova. This, after the Livian, absorbs the greatest quantity of lapis calaminaris, and imitates the goodness of orichalcum (yellow brass) in our sestertii and dupondiarii, the asses being contented with the Cyprian (brass).” [Pliny had previously observed that the Cyprian was the least valuable brass.] This passage is, we think, decisive in favour of Pinkerton’s hypothesis. But, in the absence of positive testimony, the small value of the sestertius might be relied on as a pretty sufficient proof that it could not be silver. When the denarius weighed 62 grains, the sestertius must have weighed 151/2, and been worth 21/8d.; but a coin of so small a size as to be scarcely equal to one-third part of one of our sixpences, would have been extremely apt to be lost, and could not have been struck by the rude methods used in the Roman mint with anything approaching to even tolerable precision. It is, therefore, more reasonable to suppose that it was of brass.
+
+[37817] Gibbon, vol. i. p. 209, edit. 1838.
+
+[37854] Paucton, Traité des Mésures, Poids, etc., p. 693.
+
+[37905] Le Blanc, p. 212.
+
+[37924] Ibid. Introduction, p. 20.
+
+[37952] The President Henault says, speaking of the reign of John, the successor of Philip of Valois (1350-1364)—“La variation des monnoies sous ce prince, est la preuvo la plus forte des malheurs de son regne; variation si subite que a grand peine etoit homme, qui en juste payement des monnoyes, de jour en jour se put connoitre (Rec. Des Ord.) c’etoit le genre d’impôt de ce tems la, et sans doute le plus fatal aû commerce; aussi le peuple obtint-il, comme une grace que il fût remplacé par les tailles et les aides.”—Ab. Chron., i. 310, ed. 1761.
+
+[38497] Ducange voce Monetagium Glossarium, iv. 1009.—Liverpool On Coins, p. 107.
+
+[38572] Peuchet, Statistique Elementaire de la France, p. 538.
+
+[38628] Snelling On Gold Coins, p. 34. Do. On Silver Coins, p. 31.
+
+[38688] Essay on Medals, vol. ii. p. 124.
+
+[38723] Preface to Anderson’s Diplomata, p. 176.
+
+[38765] Originally printed at Dublin in 1749, in 4to, and reprinted with some additions in 1810.
+
+[38855] Annals of the Coinage, Preface, vol. i. 11. The work of Mr Lindsay On Irish Coins (4to, Cork, 1839), may also be advantageously consulted.
+
+[38995] Liverpool On Coins.
+
+[39016] Lamp. “Vita Alex. Severi,” cap. 39. Perhaps Heliogabalus took the hint from Licinius, a freedman of Julius Cæsar, who, in his government of the Gauls under Augustus, divided the year into fourteen months instead of twelve, because the Gauls paid a certain monthly tribute.—Dion Cassius, lib. 72.
+
+[39313] Traité Historique des Monnoyes de France, p. 190.
+
+[39364] Introduction, p. 30.
+
+[39386] Folkes’s Table of English Coins, p. 34.
+
+[39427] Harris On Coins, part ii. p. 3.
+
+[39460] It is of course impossible to define such periods, in as much as that depends on the peculiar circumstances affecting the country at the time. Probably, however, were the standard reduced for some ten or twelve years, as great injustice would be done by raising it to its old level as by continuing to use it as reduced, or perhaps greater.
+
+[39802] Wealth of Nations, p. 423.
+
+[39830] Practically speaking, this is the fact; but a person paying away a bank note is liable to be called upon for repayment, should the bank fail before it was in the power of the party to whom it was paid, using ordinary diligence to present it. The responsibility seldom exceeds a couple of hours, and can hardly in any case exceed a couple of days. In practice it is never adverted to.
+
+[40215] Thornton on Paper Credit, p. 172.
+
+[40250] Ibid, p. 40.
+
+[40264] Report on the Extension of the Privilege of the Bank of France in 1840.
+
+[40337] On this, as on most other points, the late evidence of Lord Overstone is highly instructive.
+
+[40431] Quest. But, generally speaking, persons who have no capital, have very little opportunity of raising money have they? Ans. That certainly is not so. The whole principle of banking is to afford capital—to transfer it from the inactive accumulator to the active and energetic person who wants the capital. The banker is the go between, who receives deposits on the one side, and on the other applies those deposits, intrusting them, in the form of capital, to the hands of active, energetic persons, who, he thinks, will make a good use of it.
+
+[40974] Quest. Who have no security to give? Ans. Who have in many instances no security to give, except their character, and skill, and talent, of which the banker forms his judgment.
+
+[41152] Quest. To persons of character who have no other security to give? Ans. To persons of character who, in some cases, have no security to give; but who, in all cases, have no security to give equal to the amount advanced to them, except that best form of security, their character, their energy, and their prudence.—Min. of Evidence, p. 348.
+
+[41493] “Vulgus ad magnitudinem beneficiorum aderat; stultissimus quisque pecuniis mercabatur.”—Tacit. Hist., lib. iii. cap. 55.
+
+[41615] Boeckh’s Political Economy of Athens, i. 168, &c.; Voyage d’ Anacharse, cap. 55, passim; Smith’s Dictionary of Greek and Roman Antiquities, voce Argentarii, &c.
+
+[41777] Macpherson’s Annals of Commerce, vol. iv. p. 266.
+
+[41828] Comparative Estimate, p. 226, ed. 1812.
+
+[41869] On the 28th February 1826, the bullion in the bank amounted to only £2,459,510.
+
+[41950] Perhaps we may be allowed to observe, that we endeavoured to point out, in an article in the Scotsman, published in 1825, what would be the inevitable result of the bank allowing the drain of bullion to run its course, viz., that she would be drained of her last sovereign, and obliged to stop payments; and that she could not avert this result otherwise than by narrowing her issues, and raising the value of the currency. She did this at last, but she ought to have done it nearly twelve months sooner.
+
+[42456] In tracts published in 1837 and 1840, and in his evidence before a committee of the House of Commons in the latter year.
+
+[42578] It is right to state, that except in so far as he no doubt profited by the suggestion referred to, the measure adopted by Sir Robert Peel in 1844 and 1845 were entirely his own. And they will continue to be enduring monuments of the depth and clearness of his views, and of his administrative ability. This is a point in regard to which the evidence of Lord Overstone is quite decisive; and it is difficult to say, whether that evidence redounds more to his lordship’s credit, or to that of the illustrious statesman whose claims to the gratitude of the country as the founder of a sound system of currency, he has so generously and successfully vindicated. “I,” said Lord Overstone “had no connection, political or social, with Sir Robert Peel. I never exchanged one word upon the subject of this Act with Sir Robert Peel in my life, neither directly nor indirectly. I knew nothing whatever of the provisions of this Act until they were laid before the public, and I am happy to state that, because I believe that what little weight may attach to my unbiassed conviction of the high merits of this Act, and the service which it has rendered to the public, may be diminished by the impression that I have something of personal vanity in this matter. I have no feeling whatever of the kind. The Act is entirely, so far as I know, the act of Sir Robert Peel, and the immortal gratitude of the country is due to him for the service rendered to it by the passing of that Act. He has never been properly appreciated, but year by year the character of that statesman upon this subject will be appreciated. By the Act of 1819, Sir Robert Peel placed the monetary system of the country upon an honest foundation, and he was exposed to great obloquy for having so done. By the Act of 1844, he has obtained ample and sufficient security that that honest foundation of our monetary system shall be effectually and permanently maintained. And no description can be written on his statue so honourable as that he restored our money to its just value in 1819, and secured for us the means of maintaining that just value in 1844. Honour be to his name.”—(Min. of Evidence, p. 178, Committee of 1857.)
+
+[44765] Among the many charges which have been made against the Act of 1844, one of the most extraordinary, if not the most absurd is, that it doubles the intensity of all demands for bullion on the bank, or converts a demand for one million into a demand for two! A million of notes are got, it is said, from the banking reserve of the bank, and these being sent to the issue department, are exchanged for gold, so that the bank has sustained a loss of two millions. It is singular that so obvious a fallacy should have been put forward. The gold in the issue department does not belong to the bank, but to the note-holders, so that she sustains neither loss nor injury by its being withdrawn. In this case, and in all cases of the sort, the notes in circulation are reduced a million, and their equivalent in gold is exported.
+
+[45587] This condition applies only to banks in England and Wales. The issues of those in Scotland and Ireland are limited to the average amount of those in circulation during the twelve months ending the 1st of May 1845. See post.
+
+[45812] Letter of Mr. Hubbard to the governor of the bank, October 1856.
+
+[45878] Tract by the late Alexander Baring, Esq. (afterwards Lord Ashburton), on the Orders in Council, 1808.
+
+[45981] The Western Bank, and the City of Glasgow Bank, but especially the former.
+
+[46057] We subjoin a letter by the governor and deputy-governor of the bank, illustrative of the circumstances referred to:—
+
+[46175] We have the honour to acknowledge the receipt of your letter of the 27th inst., requesting ‘such an explanation with respect to the course which the directors of the Bank of England have pursued in regulating their issues of notes since the 12th inst. as they may be able to furnish for the information of Her Majesty’s Government.’
+
+[46509] In complying with this wish it may be well to allude to the position of the Bank of England accounts anterior to the receipt of the letter of the 12th.
+
+[46662] On the 24th of October the bullion in the issue department was £8,777,000; the reserve £4,079,000; the notes in the hands of the public, £19,766,000; the discount and advances, £10,262,000; and the deposits, £16,126,000; the rate of discount at the bank being eight per cent. for bills having not more than 95 days to run.
+
+[46986] In the following week a great shock of credit and a consequent demand on the Bank of England for discounts arose from the failure of the Liverpool Borough Bank, whose rediscounted bills were largely held by the bill-brokers and others in London. The effects of this and other failures, however, up to this time, had not occasioned any alarming pressure on the resources of the bank, or great disquietude in commercial affairs in London.
+
+[47424] On the 5th of November the reserve was £2,944,000, the bullion in the issue department £7,919,000, and the deposits £17,265,000. The rate of discount was advanced to 9 per cent., and on the 10th of November to 10 per cent.
+
+[47648] The Continental drain for gold had ceased, the American demand had become unimportant, and there was at that time little apprehension that the bank issues would be inadequate to meet the necessities of commerce within the legalized sphere of their circulation.
+
+[47910] Upon this state of things, however, supervened the failure of the Western Bank of Scotland and the City of Glasgow Bank, and a renewed discredit in Ireland, causing an increased action upon the English circulation by the abstraction in four weeks of upwards of two millions of gold to supply the wants of Scotland and Ireland; of which amounts more than one million was sent to Scotland and £280,000 to Ireland between the 5th and 12th of November.
+
+[48360] This drain was in its nature sudden and irresistible, and acted necessarily in diminution of the reserve, which on the 11th had decreased to £1,462,000, and the bullion to £6,666,000.
+
+[48545] The public became alarmed, large deposits accumulated in the Bank of England, money dealers having vast sums lent to them upon call were themselves obliged to resort to the Bank of England for increased supplies, and for some days nearly the whole of the requirements of commerce were thrown on the bank. Thus, on the 12th, it discounted and advanced to the amount of £2,373,000, which still left a reserve at night of £581,000.
+
+[48975] Such was the state of the Bank of England accounts on the 12th, the day of the publication of the letter from the Treasury. The demand for discounts and advances continued to increase till the 21st, when they reached their maximum of £21,616,000.
+
+[49223] The public have also required a much larger quantity of notes than usual at this season, the amount in their hands having risen on the 21st to £21,554,000.
+
+[49380] The Bank have, since the 12th, under the authority of the letter from the Treasury, issued £2,000,000 of notes in excess of the limits of the circulation prescribed by the Act of 1844, and have passed securities to the issue department to that amount.
+
+[49633] That, however, is not the measure of the amount actually parted with by the Bank, which has not exceeded £928,000, the remainder of the £2,000,000 having been retained as a reserve of notes in the banking department, which, at the same time, also held £407,020 in coin.
+
+[49904] We subjoin a statement of accounts from the 11th of November to the 28th inclusive, from which it will be apparent that the Bank continued to meet all the demands for discounts and advances, on approved securities, to remedy the commercial discredit and distress mentioned in your letter of the 12th inst., ‘as occasioned by the recent failure of certain joint-stock banks in England and Scotland, as well as of certain large mercantile firms chiefly connected with the American trade,’ and aggravated by the subsequent embarrassment of large joint-stock banks.
+
+[50467] In discounts and advances the sum supplied to the public between the 12th of November and 1st of December amounted in the aggregate to £12,645,000.
+
+[50616] We earnestly recommend those who may have any doubts in regard to this conclusion, to read and study the evidence of Lord Overstone before the Bank Acts Committee of 1857. It cannot fail to carry conviction to every one in the least familiar with such subjects, and is a most masterly and indeed triumphant vindication of the Act of 1844, and of sound monetary principles. It embraces, discusses, and exhausts the fundamental principles of paper money and banking. It were much to be wished that it were published separately.
+
+[51143] Of the opponents of the Act of 1844, the writers in the Economist are at once the most reasonable, ingenious, and able. Those, however, on whom their lucubrations may have made an impression, will probably be restored to the sound faith if they read over the pamphlet of Mr. Arbuthnot of the Treasury. He has shown the fallacy of many of the statements and conclusions of the writers referred to, as well as of others, and has set the practical working of the Act of 1844 in a clear light.
+
+[51634] On the Paper Credit of Great Britain, cap. 2.
+
+[51681] The management of the City of Glasgow Bank, though in many respects blameworthy, has been, as compared with that of the Western Bank, prudent and skilful. It has recommenced business; and it is to be hoped that its managers will profit by the lesson they have received.
+
+[51952] Observations on Paper-Money, &c., by Sir Henry Parnell, p. 171.
+
+[52017] The annuities on the forced loan of 1480, were to be suspended during periods of war.
+
+[52104] Cleirac, Du Negoce, de la Banque, &c.—(Bordeaux, 1656), pp. 112-117, a scarce and valuable volume.
+
+[52204] Storch, Cours d’Economie Politique, tom. iv. p. 102.
+
+[52258] The above statements are taken from a paper read by Lord Overstone to the late Committee on Banks.

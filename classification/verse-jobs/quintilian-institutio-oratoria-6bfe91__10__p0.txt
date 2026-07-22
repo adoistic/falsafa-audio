@@ -1,0 +1,639 @@
+WORK: Institutio Oratoria  (slug: quintilian-institutio-oratoria-6bfe91)
+
+CHAPTER: 10
+
+
+
+[0] In my last book I spoke of tropes. I now come to figures, called σχήματα in Greek, a topic which is naturally and closely connected with the preceding.
+
+[153] For many authors have considered figures identical with tropes, because whether it be that the latter derive their name from having a certain form or from the fact that they effect alterations in language (a view which has also led to their being styled motions), it must be admitted that both these features are found in figures as well. Their employment is also the same. For they add force and charm to our matter. There are some again who call tropes figures, Artorius Proculus among them.
+
+[648] Further the resemblance between the two is so close that it is not easy to distinguish between them. For although certain kinds differ, while retaining a general resemblance (since both involve a departure from the simple and straightforward method of expression coupled with a certain rhetorical excellence), on the other hand some are distinguished by the narrowest possible dividing line: for example, while irony belongs to figures of thought just as much as to tropes, periphrasis, hyperbaton and onomatopoea have been ranked by distinguished authors as figures of speech rather than tropes.
+
+[1246] It is therefore all the more necessary to point out the distinction between the two. The name of trope is applied to the transference of expressions from their natural and principal signification to another, with a view to the embellishment of style or, as the majority of grammarians define it, the transference of words and phrases from the place which is strictly theirs to another to which they do not properly belong. A figure, on the other hand, as is clear from the name itself, is the term employed when we give our language a conformation other than the obvious and ordinary.
+
+[1832] Therefore the substitution of one word for another is placed among tropes, as for example in the case of metaphor, metonymy, antonomasia, metalepsis, synecdochè, catachresis, allegory and, as a rule, hyperbole, which may, of course, be concerned either with words or things. Onomatopoea is the creation of a word and therefore involves substitution for the words which we should use but for such creation.
+
+[2239] Again although periphrasis often includes the actual word whose place it supplies, it still uses a number of words in place of one. The epithet as a rule involves an element of antonomasia and consequently becomes a trope on account of this affinity. Hyperbaton is a change of order and for this reason many exclude it from tropes. None the less it transfers a word or part of a word from its own place to another.
+
+[2655] None of these can be called figures. For a figure does not necessarily involve any alteration either of the order or the strict sense of words. As regards irony, I shall show elsewhere how in some of its forms it is a trope, in others a figure. For I admit that the name is common to both and am aware of the complicated and minute discussions to which it has given rise. They, however, have no bearing on my present task. For it makes no difference by which name either is called, so long as its stylistic value is apparent, since the meaning of things is not altered by a change of name. For just as men remain the same, even though they adopt a new name, so these artifices will produce exactly the same effect, whether they are styled tropes or figures, since their values lie not in their names, but in their effect. Similarly it makes no difference whether we call a basis conjectural or negative, or concerned with fact or substance, provided always that we know that the subject of enquiry is the same.
+
+[3667] It is best therefore in dealing with these topics to adopt the generally accepted terms and to understand the actual thing, by whatever name it is called. But we must note the fact that trope and figure are often combined in the expression of the same thought, since figures are introduced just as much by the metaphorical as by the literal use of words.
+
+[4023] There is, however, a considerable difference of opinion among authors as to the meaning of the name, the number of genera and the nature and number of the species into which figures may be divided. The first point for consideration is, therefore, what is meant by a figure. For the term is used in two senses. In the first it is applied to any form in which thought is expressed, just as it is to bodies which, whatever their composition, must have some shape.
+
+[4485] In the second and special sense, in which it is called a schema, it means a rational change in meaning or language from the ordinary and simple form, that is to say, a change analogous to that involved by sitting, lying down on something or looking back. Consequently when a student tends to continuous or at any rate excessive use of the same cases, tenses, rhythms or even feet, we are in the habit of instructing him to vary his figures with a view to the avoidance of monotony.
+
+[4968] In so doing we speak as if every kind of language possessed a figure: for example cursitare and lectitare are said to have the same figure, that is to say, they are identical in formation. Therefore in the first and common sense of the word everything is expressed by figures. If we are content with this view, there is good reason for the opinion expressed by Apollodorus (if we may trust the statement of Caecilius on this point) to the effect that he found the rules laid down in this connexion quite incomprehensible.
+
+[5491] If, on the other hand, the name is to be applied to certain attitudes, or I might say gestures of language, we must interpret schema in the sense of that which is poetically or rhetorically altered from the simple and obvious method of expression. It will then be true to distinguish between the style which is devoid of figures (or ἀσχημάτιστος) and that which is adorned with figures (or ἐσχηματισμένη,).
+
+[5899] But Zoilus narrowed down the definition, since he restricted the term schema to cases when the speaker pretends to say something other than that which he actually does say. 1 know that this view meets with common acceptance: it is, in fact, for this reason that we speak of figured controversial themes, of which I shall shortly speak. We shall then take a figure to mean a form of expression to which a new aspect is given by art.
+
+[6332] Some writers have held that there is only one kind of figure, although they differ as regards the reasons which lead them to adopt this view. For some of them, on the ground that a change of words causes a corresponding change in the sense, assert that all figures are concerned with words, while others hold that figures are concerned solely with the sense, on the ground that words are adapted to things. Both these views are obviously quibbling.
+
+[6782] For the same things are often put in different ways and the sense remains unaltered though the words are changed, while a figure of thought may include several figures of speech. For the former lies in the conception, the latter in the expression of our thought. The two are frequently combined, however, as in the following passage: Now, Dolabella, [I have no pity] either for you or for your children: for the device by which he turns from the judges to Dolabella is a figure of thought, while iam iam ( now) and liberum ( your children) are figures of speech.
+
+[7346] It is, however, to the best of my knowledge, generally agreed by the majority of authors that there are two classes of figure, namely figures of thought, that is of the mind, feeling or conceptions, since all these terms are used, and figures of speech, that is of words, diction, expression, language or style: the name by which they are known varies, but mere terminology is a matter of indifference. Cornelius Celsus, however, to figures of thought and speech would add those produced by glosses; but he has merely been led astray by an excessive passion for novelty. For who can suppose that so learned a man was ignorant of the fact that glosses and reflexions both come under the heading of thought? We may therefore conclude that, like language itself, figures are necessarily concerned with thought and with words.
+
+[8170] As, however, in the natural course of things we conceive ideas before we express them, I must take figures of thought first. Their utility is at once great and manifold, and is revealed with the utmost clearness in every product of oratory. For although it may seem that proof is infinitesimally affected by the figures employed, none the less those same figures lend credibility to our arguments and steal their way secretly into the minds of the judges.
+
+[8627] For just as in sword-play it is easy to see, parry, and ward off' direct blows and simple and straightforward thrusts, while side-strokes and feints are less easy to observe and the task of the skilful swordsman is to give the impression that his design is quite other than it actually is, even so the oratory in which there is no guile fights by sheer weight and impetus alone; on the other hand, the fighter who feints and varies his assault is able to attack flank or back as he will, to lure his opponent's weapons from their guard and to outwit him by a slight inclination of the body. Further, there is no more effective method of exciting the emotions than an apt use of figures. For if the expression of brow, eyes and hands has a powerful effect in stirring the passions, how much more effective must be the aspect of our style itself when composed to produce the result at which we aim? But, above all, figures serve to commend what we say to those that hear us, whether we seek to win approval for our character as pleaders, or to win favour for the cause which we plead, to relieve monotony by variation of our language, or to indicate our meaning in the safest or most seemly way.
+
+[9822] But before I proceed to demonstrate what figures best suit the different circumstances, I must point out that their number is far from being as great as some authorities make out. For I am not in the least disturbed by the various names which the Greeks more especially are so fond of inventing. First of all, then,
+
+[10139] I must repudiate the views of those who hold that there are as many types of figure as there are kinds of emotion, on the ground, not that emotions are not qualities of the mind, but that a figure, in its strict, not its general sense, is not simply the expression of anything you choose to select. Consequently the expression in words of anger, grief, pity, fear, confidence or contempt is not a figure, any more than persuasion, threats, entreaty or excuse.
+
+[10600] But superficial observers are deceived by the fact that they find figures in all passages dealing with such themes, and select examples of them from speeches; whereas in reality there is no department of oratory which does not admit such figures. But it is one thing to admit i>figure and another to be a figure; I am not going to be frightened out of repeating the term with some frequency in my attempt to make the facts clear. My opponents will, I know, direct my attention to special figures employed in expressing anger, in entreating for mercy, or appealing to pity, but it does not follow that expressions of anger, appeals to pity or entreaties for mercy are in themselves figures. Cicero, it is true, includes all ornaments of oratory under this head, and in so doing adopts, as it seems to me, a middle course. For he does not hold that all forms of expression are to be regarded as figures, nor, on the other hand, would he restrict the term merely to those expressions whose form varies from ordinary use. But he regards as figurative all those expressions which are especially striking and most effective in stirring the emotions of the audience. He sets forth this view in two of his works, and that my readers may have the opportunity of realising the judgment of so high an authority, I subjoin what he says verbatim.
+
+[11935] In the third book of the de Oratore we find the following words: As regards the composition of continuous speech, as soon as we have acquired the smoothness of structure and rhythm of which I have spoken, we must proceed to lend brilliance to our style by frequent embellishments both of thought and words. For great effect may be produced by dwelling on a single point, and by setting forth our facts in such a striking manner that they seem to be placed before the eyes as vividly as if they were taking place in our actual presence. This is especially effective in stating a case or for the purpose of illuminating and amplifying the facts in course of statement, with a view to making our audience regard the point which we amplify as being as important as speech can make it. On the other hand, as opposed to this procedure we may often give a rapid summary, suggest more than is actually said, may express ourselves tersely in short, clean-cut sentences and disparage, or, what is much the same, mock our opponent in a manner not inconsistent with the precepts given us by Caesar. Or we may employ digressions and then, after thus delighting our audience, make a neat and elegant return to our main theme. We may set forth in advance what we propose to say, mark off the topics already treated from those which are to follow, return to our point, repeat it and draw our formal conclusions. Again, with a view to augmenting or attenuating the force of some point, we may exaggerate and overstate the truth: we may ask questions, or, what is much the same, enquire of others and set forth our own opinion. There is also available the device of dissimulation, when we say one thing and mean another, the most effective of all means of stealing into the minds of men and a most attractive device, so long as we adopt a conversational rather than a controversial tone. Hesitation may be expressed between two alternatives, our statement may be distributed in groups or we may correct ourselves, either before or after we have said something or when we repel some allegation against ourselves. We may defend ourselves by anticipation to secure the success of some point which we propose to make or may transfer the blame for some action to another. We may confer with our audience, admitting them as it were into our deliberations, may describe the life and character of persons either with or without mention of their names, a device which is one of the greatest embellishments of oratory and specially adapted to conciliate the feelings, as also frequently to excite them. Again by the introduction of fictitious personages we may bring into play the most forcible form of exaggeration. We may describe the results likely to follow some action, introduce topics to lead our hearers astray, move them to mirth or anticipate the arguments of our opponent. Comparisons and examples may be introduced, both of them most effective methods; we may divide, interrupt, contrast, suppress, commend. Our language may be free or even unbridled with a view to heighten our effects, while anger, reproach, promises that we shall prove our case, entreaty, supplication, slight deviations from our proposed course (which must be distinguished from the longer digressions mentioned above), exculpation, conciliation, personal attacks, wishes and execrations are all of value. The above include practically all the devices of thought which may be employed for the adornment of our speech. As regards diction, this may either be employed like weapons for menace and attack, or handled merely for the purpose of display. For example, sometimes the repetition of words will produce an impression of force, at other times of grace. Again, slight changes and alterations may be made in words, the same word may be repeated sometimes at the beginning of a sentence and sometimes at the end, or the sentence may be made to open and close with the same phrase. One verb may be made to serve the purpose of a number of clauses, our words may be worked up to a climax, the same word may be repeated with a different meaning or reiterated at the opening of one sentence from the close of the preceding, while we may introduce words with similar terminations or in the same cases or balancing or resembling each other. Other effects may be obtained by the graduation or contrast of clauses, by the elegant inversion of words, by arguments drawn from opposites, asyndeton, paraleipsis, correction, exclamation, meiosis, the employment of a word in different cases, moods and tenses, the correspondence of subsequent particulars with others previously mentioned, the addition of a reason for what is advanced, the assignment of a reason for each distinct statement; again we may employ concession and another form of hesitation, introduction of the unexpected, distinction by heads, another form of correction, local distribution, rapid succession of clauses, interruption of clauses, imagery, answering our own questions, immutation, the appropriate distinction of one proposition from another, effective arrangement, reference, digression and circumscription. These (and there may be yet more like them) are the various devices for the embellishment of our style, either by the cast of our thought or the conformation of our language. Most of these statements are repeated by Cicero in the Orator, but not all, while his language is somewhat more precise, since after dealing with figures of speech and of thought he adds a third section, concerned, as he himself says, with the other excellences of style.
+
+[17516] And those other embellishments which are derived from the arrangement of words contribute greatly to the adornment of our style. They may be compared to what we term the decorations of the forum or a richly-ornamented stage, since they not only adorn, but stand out conspicuously in the midst of other ornaments. The principle governing the use of embellishments and decorations of style is the same: words may be repeated and reiterated or reproduced with some slight change. Sentences may repeatedly commence or end with the same word or may begin and end with the same phrase. The same word may be reiterated either at the beginning or at the conclusion, or may be repeated, but in a different sense. Words may have the same inflexion or termination or be placed in various antitheses, our language may rise by gradations to a climax, or a number of words may be placed together in asyndeton without connecting particles. Or we may omit something, while making clear the reason for such omission, or correct ourselves with apparent censure of our carelessness, may utter exclamations of admiration or grief, or introduce the same word repeatedly in different cases. The ornaments of thought are, however, more important. They are so frequently employed by Demosthenes that some critics have held that it is in them that the chief beauty of his style resides. And in truth there is hardly a topic in his speeches which is not distinguished by some artificial treatment of the thought, and it must be admitted that speaking involves the embellishment of all, or at any rate most of our thoughts with some form of ornament. As you, Brutus, have such an admirable knowledge of all these methods, it would be waste of time for me to cite all their names or to give illustrations. I shall therefore content myself merely with indicating this topic. Our ideal orator then will speak in such a manner that he will cast the same thought into a number of different forms, will dwell on one point and linger over the same idea. he will often attenuate some one point or deride his opponent, will diverge from his theme and give a bias to his thought, will set forth what he intends to say, after completing his argument will give a brief summary, will recall himself to the point which he has left, repeat what he has said, complete his proof by a formal conclusion, embarrass his opponent by asking questions or answer himself in reply to imaginary questions; will desire his words to be taken in a different sense from their literal meaning, will hesitate what argument or form of statement to prefer, will classify and divide, will deliberately omit and ignore some point, and defend himself by anticipation; will transfer the blame of some charge brought against him to his opponent, will often take his audience, and sometimes even his opponent into consultation, will describe the character and talk of particular persons, will put words into the mouths of inanimate objects, divert the minds of the audience from the point at issue, often move them to merriment or laughter, anticipate objections, introduce comparisons, cite precedents, assign and distribute different sentiments to different persons, silence interrupters, assert that there are certain things of which he prefers not to speak, warn his audience to be on their guard against certain things, or venture on a certain licence of speech. Again, he will wax angry, sometimes indulge in rebuke, entreaty or supplication, will clear away unfavourable impressions, swerve a little from his point, utter wishes or execrations, or address his audience in terms of familiar intimacy. There are also other virtues at which he should aim, such as brevity, if his theme demands it, while he will often set forth topics in such vivid language as almost to present them to the very eyes of his audience, or will exaggerate his subject beyond the bounds of possibility. His meaning will frequently be deeper than his words seem to indicate, his tone will often be cheerful, and he will often mimic life and character. In fact, as regards this department of oratory, of which I have given you the substance, lie must display eloquence in all its grandest forms.
+
+[21728] The student who desires to give a wider consideration to figures of thought and speech will, therefore, have a guide to follow, and 1 would not venture to assert that he could have a better. But I would ask him to read these passages of Cicero with reference to my own views on this subject. For I intend to speak only of those figures of thought which depart from the direct method of statement, and I note that a similar procedure has been adopted by a number of learned scholars.
+
+[22212] On the other hand, all those embellishments which differ in character from these are none the less virtues whose importance is such that without them all oratory will be little less than unintelligible. For how can the judge be adequately instructed unless lucidity characterise our performance of the following tasks: explanation, proposition, promise of proofs, definition, distinction, exposition of our own opinion, logical conclusion, defence by anticipation, introduction of comparisons or precedents, disposition and distribution, interruption, repression of those who interrupt us, antithesis, exculpation and personal attack?
+
+[22848] Again, what would eloquence do if deprived of the artifices of amplification and its opposite? of which the first requires the gift of signifying more than we say, that is emphasis, together with exaggeration and overstatement of the truth, while the latter requires the power to diminish and palliate. What scope is there for the stronger emotions if the orator is not allowed to give free rein to his speech, to flame out in anger, to reproach, to wish or execrate? Or for the milder emotions without the assistance of commendation, conciliation and humour?
+
+[23409] What pleasure can an orator hope to produce, or what impression even of the most moderate learning, unless he knows how to fix one point in the minds of the audience by repetition, and another by dwelling on it, how to digress from and return to his theme, to divert the blame from himself and transfer it to another, or to decide what points to omit and what to ignore as negligible? It is qualities such as these that give life and vigour to oratory; without them it lies torpid like a body lacking the breath to stir its limbs.
+
+[23941] But more than the mere possession of these qualities is required; they must be deployed, each in their proper place and with such variety that every sound may bewitch the hearer with all the charm of music. But these qualities are as a rule open and direct, manifesting themselves without disguise. They do, however, as I have said, admit of figures, as the instances to which I shall proceed will show.
+
+[24346] What is more common than to ask or enquire? For both terms are used indifferently, although the one seems to imply a desire for knowledge, and the other a desire to prove something. But whichever term we use, the thing which they represent admits a variety of figures. We will begin with those which serve to increase the force and cogency of proof to which I assign the first place.
+
+[24731] A simple question may be illustrated by the line:
+
+[24782] But who are ye and from what shores are come?
+
+[24829] On the other hand, a question involves a figure, whenever it is employed not to get information, but to emphasise our point, as in the following examples: What was that sword of yours doing, Tubero, that was drawn on the field of Pharsalus? and How long, Catiline, will you abuse our patience? and Do you not see that your plots are all laid bare? with the whole passage that follows.
+
+[25215] How much greater is the fire of his words as they stand than if he had said, You have abused our patience a long time, and Your plots are all laid bare. We may also ask what cannot be denied, as Was Gaius Fidiculanius Falcula, I ask you, brought to justice? Or we may put a question to which it is difficult to reply, as in the common forms, How is it possible?
+
+[25578] How can that be?
+
+[25596] Or we may ask a question with a view to throw odium on the person to whom it is addressed, as in the words placed by Seneca in the mouth of Medea:
+
+[25744] What lands dost bid me seek?
+
+[25774] Or our aim may be to excite pity, as is the case with the question asked by Sinon in Virgil:
+
+[25868] Alas, what lands, lie cried,
+
+[25898] What seas can now receive me?
+
+[25929] Or to embarrass our opponent and to deprive him of the power to feign ignorance of our meaning, as Asinius does in the following sentence: Do you hear? The will which we impugn is the work of a madman, not of one who lacked natural affection. In fact questions admit of infinite variety.
+
+[26218] They may serve our indignation, as in the line:
+
+[26267] Are any left
+
+[26281] That still adore Juno's divinity?
+
+[26316] Or they may still express wonder, as in:
+
+[26358] To what dost thou not drive the hearts of men,
+
+[26406] Accursed greed of gold?
+
+[26431] Again, at times they may express a sharp command, as in:
+
+[26489] Will they not rush to arms and follow forth
+
+[26534] From all the city?
+
+[26554] Or we may ask ourselves, as in the phrase of Terence, What, then, shall I do?
+
+[26633] A figure is also involved in a reply, when one question is asked and another is answered, because it suits the respondent's purpose better to do so, or because it aggravates the charge brought against the accused. For example, a witness for the prosecution was asked whether he had been cudgelled by the plaintiff, and replied, And what is more, I had done him no harm. Or the purpose may be to elude a charge, a very common form of reply. The advocate says, I ask if you killed the man? The accused replies, He was a robber. The advocate asks, Have you occupied the farm? The accused replies, It was my own.
+
+[27243] Again, the answer may be of such a kind as to make defence precede confession. For example, in the Eclogues of Virgil, when one shepherd asks:
+
+[27387] Did I not see you, villain, snare a goat
+
+[27429] Of Damon's?
+
+[27442] the other replies:
+
+[27462] I vanquished him in song, and should he not
+
+[27507] Pay me the prize, my due?
+
+[27534] Akin to this kind of answer is the dissimulatory reply, which is employed solely with the purpose of raising a laugh, and has therefore been treated in its appropriate place. If it were meant seriously, it would be tantamount to a confession. Further, there is the practice of putting the question and answering it oneself, which may have quite a pleasing effect. Take as an example the following passage from the pro Ligario, where Cicero says, Before whom do I say this? Before one who, although he was aware of these facts, yet restored me to my country even before he had seen me.
+
+[28120] A different form of fictitious question is to be found in the pro Caelio. Some one will say, 'Is this your moral discipline? Is this the training you would give young men?' with the whole passage that follows. Then comes his reply, Gentlemen, if there were any man with such vigour of mind, with such innate virtue and self-control, etc. A different method is to ask a question and not to wait for a reply, but to subjoin the reply at once yourself. For example, Had you no house? Yes, you had one. Had you money and to spare? No, you were in actual want. This is a figure which some call suggestion.
+
+[28722] Again, a question may involve comparison, as, for instance, Which of the two then could more easily assign a reason for his opinion? There are other forms of question as well, some concise, some developed at greater length, some dealing with one thing only, others with several. Anticipation, or, as the Greeks call it, πρόληψις, whereby we forestall objections, is of extraordinary value in pleading; it is frequently employed in all parts of a speech, but is especially useful in the exordium.
+
+[29219] However, it forms a genus in itself, and has several different species. One of these is the defence by anticipation, such as Cicero employs against Quintus Caecilius, where he points out that though previously he himself has always appeared for the defence, he is now undertaking a prosecution. Another is a form of confession, such as he introduces in his defence of Rabirius Postumus, where he admits that he himself regards his client as worthy of censure for lending money to the king. Another takes the form of prediction, as in the phrase, For I will say without any intention of aggravating the charge. Again, there is a form of self-correction, such as, I beg you to pardon me, if I have been carried too far. And, most frequent of all, there is preparation, whereby we state fully why we are going to do something or have done it.
+
+[30060] Anticipation may also be employed to establish the meaning or propriety of words, as in the following case, Although that was not a punishment, but merely a prevention of crime, while the same effect may be produced by qualification, as in the following sentence, Citizens, I say, if I may call them by that name.
+
+[30375] Again, hesitation may lend an impression of truth to our statements, when, for example, we pretend to be at a loss, where to begin or end, or to decide what especially requires to be said or not to be said at all. All speeches are full of such instances, but for the present one will be enough. As for myself, I know not where to turn. Shall I deny that there was a scandalous rumour that the jury had been bribed, etc.?
+
+[30797] This device may also be employed to cover the past; for we may equally pretend that we had felt hesitation on the subject. This figure is akin to that known as communication, when we actually take our opponents into consultation, as Domitius Afer does in his defence of Cloatilla. She is so agitated that she does not know what is permitted to a woman or what becomes a wife. It may be that chance has brought you into contact with the unhappy woman in her helpless plight. What counsel do you give her, you her brother, and you, her father's friends?
+
+[31350] Or we may admit the judges to our deliberations, a device which is frequently called into play. We may say, What do you advise? or, I ask you, or, What, then, should have been done? Cato, for example, says, Come now, if you had been in his place, what else would you have done? And in another passage, Imagine this to be a matter which concerns us all, and assume you have been placed in charge of the whole affair.
+
+[31767] Sometimes, however, in such forms of communication we may add something unexpected, a device which is in itself a figure, as Cicero does in the Verrines: What then? What think you? Perhaps you expect to hear of some theft or plunder. Then, after keeping the minds of the judges in suspense for a considerable time, he adds something much worse. This figure is termed suspension by Celsus. It has two forms.
+
+[32175] For we may adopt exactly the opposite procedure to that just mentioned, and after raising expectation of a sequel of the most serious nature, we may drop to something which is of a trivial character, and may even imply no offence at all. But since this does not necessarily involve any form of communication, some have given it the name of paradox or surprise.
+
+[32537] I do not agree with those who extend the name of figure to a statement that something has happened unexpectedly to the speaker himself, like the following passage from Pollio: Gentlemen, I never thought it would come to pass that, when Scaurus was the accused, I should have to entreat you not to allow influence to carry any weight on his behalf.
+
+[32886] The figure known as concession springs from practically the same source as communication; it occurs when we leave some things to the judgment of the jury, or even in some cases of our opponents, as when Calvus says to Vatinius, Summon all your assurance and assert that you have a better claim than Cato to be elected praetor.
+
+[33214] The figures best adapted for intensifying emotion consist chiefly in simulation. For we may feign that we are angry, glad, afraid, filled with wonder, grief or indignation, or that we wish something, and so on. Hence we get passages like the following: I am free, I breathe again, or, It is well, or, What madness is this? or, Alas! for these degenerate days! or, Woe is me; for though all my tears are shed my grief still clings to me deep-rooted in my heart, or,
+
+[33680] Gape now, wide earth.
+
+[33703] To this some give the name of exclamation, and include it among figures of speech. When, however, such exclamations are genuine, they do not come under the head of our present topic: it is only those which are simulated and artfully designed which can with any certainty be regarded as figures. The same is true of free speech, which Corificius calls licence, and the Greeks παῤῥησία. For what has less of the figure about it than true freedom? On the other hand, freedom of speech may frequently be made a cloak for flattery.
+
+[34231] For when Cicero in his defence for Ligarius says, After war had begun, Caesar, and was well on its way to a conclusion, I deliberately, of my own free will and under no compulsion, joined the forces of your opponents, he has in his mind something more than a desire to serve the interests of Ligarius, for there is no better way of praising the clemency of the victor.
+
+[34601] On the other hand, in the sentence, What else was our aim, Tubero, than that we might secure the power which he now holds? he succeeds with admirable art in representing the cause of both parties as being good, and in so doing mollifies him whose cause was really bad. A bolder form of figure, which in Cicero's opinion demands greater effort, is impersonation, or προσωποποιΐα This is a device which lends wonderful variety and animation to oratory.
+
+[35053] By this means we display the inner thoughts of our adversaries as though they were talking with themselves (but we shall only carry conviction if we represent them as uttering what they may reasonably be supposed to have had in their minds); or without sacrifice of credibility we may introduce conversations between ourselves and others, or of others among themselves, and put words of advice, reproach, complaint, praise or pity into the mouths of appropriate persons.
+
+[35525] Nay, we are even allowed in this form of speech to bring down the gods from heaven and raise the dead, while cities also and peoples may find a voice. There are some authorities who restrict the term imepersonation to cases where both persons and words are fictitious, and prefer to call imaginary conversations between men by the Greek name of dialogue, which some translate by the Latin semnocinatio.
+
+[35929] For my own part, I have included both under the same generally accepted term, since we cannot imagine a speech without we also imagine a person to utter it. But when we lend a voice to things to which nature has denied it, we may soften down the figure in the way illustrated by the following passage: For if my country, which is far dearer to me than life itself, if all Italy, if the whole commonwealth were to address me thus, 'Marcus Tullius, what dost thou? A bolder figure of the same kind may be illustrated by the following: Your country, Catiline, pleads with you thus, and though she utters never a word, cries to you, 'For not a few years past no crime has come to pass save through your doing!'
+
+[36637] It is also convenient at times to pretend that we have before our eyes the images of things, persons or utterances, or to marvel that the same is not the case with our adversaries or the judges; it is with this design that we use phrases such as It seems to me, or Does it not seem to you? But such devices make a great demand on our powers of eloquence. For with things which are false and incredible by nature there are but two alternatives: either they will move our hearers with exceptional force because they are beyond the truth, or they will be regarded as empty nothings because they are not the truth.
+
+[37249] But we may introduce not only imaginary sayings, but imaginary writings as well, as is done by Asinius in his defence of Liburnia: Let my mother, who was the object of my love and my delight, who lived for me and gave me life twice in one day (and so on) inherit nought of my property. This is in itself a figure, and is doubly so whenever, as in the present case, it imitates a document produced by the opposing party.
+
+[37670] For a will had been read out by the prosecution, in the following form: Let Publius Novanius Gallio, to whom as my benefactor I will and owe all that is good, as a testimony to the great affection which he has borne me (then follow other details) be my heir. In this case the figure borders on parody, a name drawn from songs sung in imitation of others, but employed by an abuse of language to designate imitation in verse or prose.
+
+[38105] Again, we often personify the abstract, as Virgil does with Fame, or as Xenophon records that Prodicus did with Virtue and Pleasure, or as Ennius does when, in one of his satires, he represents Life and Death contending with one another. We may also introduce some imaginary person without identifying him, as we do in the phrases, At this point some one will interpose, or, Some one will say.
+
+[38500] Or speech may be inserted without any mention of the speaker, as in the line:
+
+[38579] Here the Dolopian host
+
+[38603] Camped, here the fierce Achilles pitched his tent.
+
+[38655] This involves a mixture of figures, since to impersonalion we add the figure known as ellipse, which in this case consists in the omission of any indication as to who is speaking. At times impersonation takes the form of narrative. Thus we find indirect speeches in the historians, as at the opening of Livy's first book: That cities, like other things, spring from the humblest origins, and that those who are helped by their own valour and the favour of heaven subsequently win great power and a great name for themselves.
+
+[39181] Apostrophe also, which consists in the diversion of our address from the judge, is wonderfully stirring, whether we attack our adversary as in the passage, What was that sword of yours doing, Tubero, in the field of Pharsalus? or turn to make some invocation such as, For I appeal to you, hills and groves of Alba, or to entreaty that will bring odium on our opponents, as in the cry, O Porcian and Sempronian laws.
+
+[39598] But the term apostrophe is also applied to utterances that divert the attention of the hearer from the question before them, as in the following passage:
+
+[39753] I swore not with the Greeks
+
+[39782] At Aulis to uproot the race of Troy.
+
+[39820] There are a number of different figures by which this effect may be produced. We may, for instance, pretend that we expected something different or feared some greater disaster, or that the judges in their ignorance of the facts may regard some point as of more importance than it really is: an example of this latter device is to be found in the exordium to Cicero's defence of Caelius.
+
+[40209] With regard to the figure which Cicero calls ocular denonstration, this comes into play when we do not restrict ourselves to mentioning that something was done, but proceed to show how it was done, and do so not merely on broad general lines, but in full detail. In the last book I classified this figure under the head of vivid illustration, while Celsus actually terms it by this name. Others give the name of ὑποτύπωσις to any representation of facts which is made in such vivid language that they appeal to the eye rather than the ear. The following will show what I mean: He came into the forum on fire with criminal madness: his eyes blazed and cruelty was written in every feature of his countenance.
+
+[40918] Nor is it only past or present actions which we may imagine: we may equally well present a picture of what is likely to happen or might have happened. This is done with extraordinary skill by Cicero in his defence of Milo, where he shows what Clodius would have done, had he succeeded in securing the praetorship. But this transference of time, which is technically called μετάστασις was more modestly used in vivid description by the old orators. For they would preface it by words such as Imagine that you see: take, for example, the words of Cicero: Though you cannot see this with your bodily eyes, you can see it with the mind's eye.
+
+[41558] Modern authors, however, more especially the declaimers, are bolder, indeed they show the utmost animation in giving rein to their imagination; witness the following passages from Seneca's treatment of the controversial theme in which a father, guided by one of his sons, finds another son in the act of adultery with his stepmother and kills both culprits. Lead me, I follow, take this old hand of mine and direct it where you will.
+
+[41993] And a little later, See, he says, what for so long you refused to believe. As for myself, I cannot see, night and thick darkness veil my eyes. This figure is too dramatic: for the story seems to be acted, not narrated.
+
+[42213] Some include the clear and vivid description of places under the same heading, while others call it topography. I have found some who speak of irony as dissimulation, but, in view of the fact that this latter name does not cover the whole range of this figure, I shall follow my general rule and rest content with the Greek term. Irony involving a figure does not differ from the irony which is a trope, as far as its genus is concerned, since in both cases we understand something which is the opposite of what is actually said; on the other hand, a careful consideration of the species of irony will soon reveal the fact that they differ.
+
+[42855] In the first place, the trope is franker in its meaning, and, despite the fact that it implies something other than it says, makes no pretence about it. For the context as a rule is perfectly clear, as, for example, in the following passage from the Catilinarian orations. Rejected by him, you migrated to your boon-companion, that excellent gentleman Metellus. In this case the irony lies in two words, and is therefore a specially concise form of trope.
+
+[43312] But in the figurative form of irony the speaker disguises his entire meaning, the disguise being apparent rather than confessed. For in the trope the conflict is purely verbal, while in the figure the meaning, and sometimes the whole aspect of our case, conflicts with the language and the tone of voice adopted; nay, a man's whole life may be coloured with irony, as was the case with Socrates, who was called an ironist because he assumed the role of an ignorant man lost in wonder at the wisdom of others. Thus, as continued metaphor develops into allegory, so a sustained series of tropes develops into this figure.
+
+[43933] There are, however, certain kinds of this figure which have no connexion with tropes. In the first place, there is the figure which derives its name from negation and is called by some ἀντίφρασις. Here is an example: I will not plead against you according to the rigour of the law, I will not press the point which I should perhaps be able to make good; or again, Why should I mention his decrees, his acts of plunder, his acquisition, whether by cession or by force, of certain inheritances? or I say nothing of the first wrong inflicted by his lust; or I do not even propose to produce the evidence given concerning the 600,000 sesterces;
+
+[44575] or I might say, etc. Such kinds of irony may even be sustained at times through whole sections of our argument, as, for instance, where Cicero says, If I were to plead on this point as though there were some real charge to refute, I should speak at greater length. It is also irony when we assume the tone of command or concession, as in Virgil's
+
+[44923] Go!
+
+[44928] Follow the winds to Italy;
+
+[44956] or when we concede to our opponents qualities which we are unwilling that they should seem to possess. This is specially effective when we possess these qualities and they do not, as in the following passage,
+
+[45166] Brand me as coward, Drances, since thy sword
+
+[45212] Has slain such hosts of Trojans.
+
+[45246] A like result is produced by reversing this method when we pretend to own to faults which are not ours or which even recoil upon the heads of our opponents, as for example,
+
+[45420] 'Twas I that led the Dardan gallant on
+
+[45460] To storm the bridal bed of Sparta's queen!
+
+[45504] Further, this device of saying the opposite of what we desire to imply is not merely restricted to persons, but may be extended to things, witness the whole of the exordium of the pro Ligario and disparaging phrases such as Forsooth, ye great gods! or
+
+[45757] Fit task, I ween, for gods!
+
+[45786] Another example is provided by the following passage from the pro Oppio, What wondrous love! what extraordinary benevolence! Akin to irony also are the following figures, which have a strong family resemblance: confession of a kind that can do our case no harm, such as the following: You have now, Tubero, the advantage most desired by an accuser: the accused confesses his guilt; secondly, concession, when we pretend to admit something actually unfavourable to ourselves by way of showing our confidence in our cause, as in the following passage: The commander of a ship from a distinguished city paid down a sum of money to rid himself of the fear of a scourging which hung over his head; it shows Verres' humanity; or again, in the pro Cluentio, where Cicero is speaking of the prejudice aroused against his client, Let it prevail in the public assembly, but be silent in the courts of law; thirdly, agreement, as when Cicero, in the same speech, agrees that the jury was bribed.
+
+[46772] This last form of figure becomes more striking when we agree to something which is really likely to tell in our favour; but such an opportunity can only occur through weakness on the part of our opponent Sometimes we may even praise some action of our opponent, as Cicero does in his prosecution of Verres when dealing with the charge in connexion with Apollonius of Drepanum: Nay, it is a real pleasure to me to think that you took something from him, and I say that you never did a juster action in your life.
+
+[47285] At times we may exaggerate charges against ourselves which we can easily refute or deny; this device is too common to require any illustration. At other times we may by this same method make the charges brought against us seem incredible just because of their gravity: thus Cicero in his defence of Roscius, by the sheer force of his eloquence, exaggerates the horror of parricide, despite the fact that it requires no demonstration.
+
+[47720] Aposiopesis, which Cicero calls reticentia, Celsus obticentia, and some interruptio, is used to indicate passion or anger, as in the line:
+
+[47860] Whom I—
+
+[47869] But better first these billows to assuage.
+
+[47913] Or it may serve to give an impression of anxiety or scruple, as in the following: Would he have dared to mention this law of which Clodius boasts he was the author, while Milo was alive, I will not say was consul? For as regards all of us—I do not dare to complete the sentence. There is a similar instance in the exordium of Demosthenes' speech in defence of Ctesiphon.
+
+[48285] Again it may be employed as a means of transition, as, for example,
+
+[48354] Cominius, however— nay, pardon me, gentlemen. This last instance also involves digression, if indeed digression is to be counted among figures, since some authorities regard it as forming one of the parts of a speech. For at this point the orator diverges to sing the praises of Gnaeus Pompeius, which he might have done without any recourse to aposiopesis.
+
+[48713] For as Cicero says, the shorter form of digression may be effected in a number of different ways. The following passages will, however, suffice as examples: Then Gaius Varenus, that is, the Varenus who was killed by the slaves of Ancharius:—I beg you, gentlemen, to give careful attention to what I am about to say; the second is from the pro Milone: Then he turned on me that glance, which it was his wont to assume, when he threatened all the world with every kind of violence.
+
+[49194] There is also another kind of figure, which is not aposiopesis, since that involves leaving a sentence unfinished, but consists in bringing our words to a close before the natural point for their conclusion. The following is an example: I am pressing my point too far; the young man appears to be moved; or Why should I say more? you heard the young man tell the story himself. The imitation of other persons' characteristics, which is styled ἠθοποιί͂α or, as some prefer μίμησις may be counted among the devices which serve to excite the gentler emotions. For it consists mainly in banter, though it may be concerned either with words or deeds. If concerned with the latter, it closely resembles ὑποτύπωσις while the following passage from Terence will illustrate it as applied to words: I didn't see your drift. 'A little girl was stolen from this place; my mother brought her up as her own daughter. She was known as my sister. I want to get her away to restore her to her relations.'
+
+[50183] We may, however, imitate our own words and deeds in a similar fashion by relating some act or statement, though in such cases the speaker more frequently does so to assert his point than for the sake of banter, as, for example, in the following, I said that they had Quintus Caecilius to conduct the prosecution. There are other devices also which are agreeable in themselves and serve not a little to commend our case both by the introduction of variety and by their intrinsic naturalness, since by giving our speech an appearance of simplicity and spontaneity they make the judges more ready to accept our statements without suspicion.
+
+[50822] Thus we may feign repentance for what we have said, as in the pro Caelio, where Cicero says, But why did I introduce so respectable a character? Or we may use some common phrase, such as, I didn't mean to say that. Or we may pretend that we are searching for what we should say, as in the phrases, What else is there? or Have I left anything out? Or we may pretend to discover something suggested by the context, as when Cicero says, One more charge, too, of this sort still remains for me to deal with, or One thing suggests another.
+
+[51358] Such methods will also provide us with elegant transitions, although transition is not itself to be ranked among figures: for example, Cicero, after telling the story of Piso, who ordered a goldsmith to make a ring before him in court, adds, as though this story had suggested it to him, This ring of Piso's reminds me of something which had entirely slipped my memory. How many gold rings do you think Verres has stripped from the fingers of honourable men? Or we may affect ignorance on certain points, as in the following passage: But who was the sculptor who made those statues? Who was he? Thank you for prompting me, you are right; they said it was Polyclitus.
+
+[52026] This device may serve for other purposes as well. For there are means of this kind whereby we may achieve an end quite other than that at which we appear to be aiming, as, for example, Cicero does in the passage just quoted. For while he taunts Verres with a morbid passion for acquiring statues and pictures, he succeeds in creating the impression that he personally has no interest in such subjects. So, too, when Demosthenes swears by those who fell at Marathon and Salamis, his object is to lessen the odium in which he was involved by the disaster at Chaeronea.
+
+[52594] We may further lend charm to our speech by deferring the discussion of some points after just mentioning them, thus depositing them in the safe keeping of the judge's memory and afterwards reclaiming our deposit; or we may employ some figure to enable us to repeat certain points (for repetition is not in itself a figure) or may make especial mention of certain things and vary the aspect of our pleading. For eloquence delights in variety, and just as the eye is more strongly attracted by the sight of a number of different things, so oratory supplies a continuous series of novelties to rivet the attention of the mind.
+
+[53219] Emphasis may be numbered among figures also, when some hidden meaning is extracted from some phrase, as in the following passage from Virgil:
+
+[53362] Might I not have lived,
+
+[53387] From wedlock free, a life without a stain,
+
+[53431] Happy as beasts are happy?
+
+[53459] For although Dido complains of marriage, yet her passionate outburst shows that she regards life without wedlock as no life for man, but for the beasts of the field. A different kind of emphasis is found in Ovid, where Zmyrna confesses to her nurse her passion for her father in the following words:
+
+[53760] O mother, happy in thy spouse!
+
+[53792] Similar, if not identical with this figure is another, which is much in vogue at the present time. For I must now proceed to the discussion of a class of figure which is of the commonest occurrence and on which I think I shall be expected to make some comment. It is one whereby we excite some suspicion to indicate that our meaning is other than our words would seem to imply; but our meaning is not in this case contrary to that which we express, as is the case in ironq, but rather a hidden meaning which is left to the hearer to discover. As I have already pointed out, modern rhetoricians practically restrict the name of figure to this device, from the use of which figured controversial themes derive their name.
+
+[54513] This class of figure may be employed under three conditions: first, if it is unsafe to speak openly; secondly, if it is unseemly to speak openly; and thirdly, when it is employed solely with a view to the elegance of what we say, and gives greater pleasure by reason of the novelty and variety thus introduced than if our meaning had been expressed in straightforward language.
+
+[54892] The first of the three is of common occurrence in the schools, where we imagine conditions laid down by tyrants on abdication and decrees passed by the senate after a civil war, and it is a capital offence to accuse a person with what is past, what is not expedient in the courts being actually prohibited in the schools. But the conditions governing the employment of figures differ in the two cases. For we may speak against the tyrants in question as openly as we please without loss of effect, provided always that what we say is susceptible of a different interpretation, since it is only danger to ourselves, and not offence to them, that we have to avoid.
+
+[55556] And if the danger can be avoided by any ambiguity of expression, tile speaker's cunning will meet with universal approbation. On the other hand, the actual business of the courts has never yet involved such necessity for silence, though at times they require something not unlike it, which is much more embarrassing for the speaker, as, for example, when he is hampered by the existence of powerful personages, whom he must censure if he is to prove his case.
+
+[56017] Consequently he must proceed with greater wariness and circumspection; since the actual manner in which offence is given is a matter of indifference, and if a figure is perfectly obvious, it ceases to be a figure. Therefore such devices are absolutely repudiated by some authorities, whether the meaning of the figure be intelligible or not. But it is possible to employ such figuress in moderation, the primary consideration being that they should not be too obvious. And this fault can be avoided, if the figre does not depend on the employment of words of doubtful or double meaning, such, for instance, as the words which occur in the theme of the suspected daughter-in-law: I married the wife who pleased my father.
+
+[56739] It is important, too, that the figure should not depend on ambiguous collocations of words (a trick which is far more foolish than the last); an example of this is to be found in the controversial theme, where a father, accused of a criminal passion for his unmarried daughter, asks her for the name of her ravisher. Who dishonoured you? he says. She replies: My father, do you not know?
+
+[57128] The facts themselves must be allowed to excite the suspicions of the judge, and we must clear away all other points, leaving nothing save what will suggest the truth. In doing this we shall find emotional appeals, hesitation and words broken by silences most effective. For thus the judge will be led to seek out the secret which he would not perhaps believe if he heard it openly stated, and to believe in that which he thinks he has found out for himself. But however excellent our figures, they must not be too numerous. For overcrowding will make them obvious, and they will become ineffective without becoming inoffensive, while the fact that we make no open accusation will seem to be due not to modesty, but to lack of confidence in our own cause. In fact, we may sum up the position thus: our figures will have most effect upon the judge when he thinks that we use them with reluctance.
+
+[58024] I myself have come across persons whom it was impossible to convince by other means: I have even come across a much rarer thing, namely, a case which could only be proved by recourse to such devices. I was defending a woman who was alleged to have forged her husband's will, and the heirs were stated to have given a bond to the husband on his deathbed, which latter assertion was true.
+
+[58412] For since the wife could not legally be appointed his heir, this procedure was adopted to enable the property to be transferred to her by a secret conveyance in trust. Now it was easy for me to secure the woman's acquittal, by openly mentioning the existence of the bond; but this would have involved her loss of the inheritance. I had, therefore, to plead in such a way that the judges should understand that the bond had actually been given, but that informers might be unable to avail themselves of any statement of mine to that effect. And I was successful in both my aims. The fear of seeming to boast my own skill would have deterred me from mentioning this case, but for the fact that I wished to demonstrate that there was room for the employment of these figures even in the courts.
+
+[59205] Some things, again, which cannot be proved, may, on the other hand, be suggested by the employment of some figure. For at times such hidden shafts will stick, and the fact that they are not noticed will prevent their being drawn out, whereas if the same point were stated openly, it would be denied by our opponents and would have to be proved.
+
+[59551] When, however, it is respect for some person that hampers us (which I mentioned as the second condition under which such figures may be used), all the greater caution is required because the sense of shame is a stronger deterrent to all good men than fear. In such cases the judge must be impressed with the fact that we are hiding what we know and keeping back the words which our natural impulse to speak out the truth would cause to burst from our lips. For those against whom we are speaking, together with the judges and our audience, would assuredly be all the more incensed by such toying with detraction, if they thought that we were inspired by deliberate malice.
+
+[60225] And what difference does it make how we express ourselves, when both the facts and our feelings are clearly understood? And what good shall we do by expressing ourselves thus except to make it clear that we are doing what we ourselves know ought not to be done? And yet in the days when I first began to teach rhetoric, this failing was only too common. For declaimers selected by preference those themes which attracted them by their apparent difficulty, although as a matter of fact they were much easier than many others.
+
+[60751] For straightforward eloquence requires the highest gifts to commend itself to the audience, while these circuitous and indirect methods are merely the refuge of weakness, for those who use them are like men who, being unable to escape from their pursuers by speed, do so by doubling, since this method of expression, which is so much affected, is really not far removed from jesting. Indeed it is positively assisted by the tact that the hearer takes pleasure in detecting the speaker's concealed meaning, applauds his own penetration and regards another man's eloquence as a compliment to himself.
+
+[61351] Consequently it was not merely in cases where respect for persons prevented direct speaking (a circumstance which as a rule calls for caution rather than figures) that they would have recourse to figurative methods, but they made room for them even under circumstances where they were useless or morally inadmissible, as for example in a case where a father, who had secretly slain his son whom he suspected of incest with his mother, and was accused of ill-treating his wife, was made to bring indirect insinuations against his wife.
+
+[61887] But what could be more discreditable to the accused than that he should have kept such a wife? What could be more damaging than that he who is accused because he appears to have harboured the darkest suspicions against his wife, should by his defence confirm the charge which he is required to refute? If such speakers had only placed themselves in the position of the judges, they would have realised how little disposed they would have been to put up with pleading on such lines, more especially in cases where the most abominable crimes were insinuated against parents.
+
+[62461] However, since we have lighted on this topic, let us devote a little more time to considering the practice of the schools. For it is in the schools that the orator is trained, and the methods adopted in pleading ultimately depend on the methods employed in declamation. I must therefore say something of those numerous cases in which figures have been employed which were not merely harsh, but actually contrary to the interests of the case. A man condemned for attempting to establish himself as tyrant shall be tortured to make him reveal the names of his accomplices. The accuser shall choose what reward he pleases. A certain man has secured the condemnation of his father and demands as his reward that he should not be tortured. The father opposes his choice.
+
+[63228] Everyone who pleaded for the father indulged in figurative insinuations against the son, on the assumption that the father would, when tortured, be likely to name him as one of his accomplices. But what could be more foolish? For as soon as the judges grasp their point, they will either refuse to put him to the torture in view of his motive for desiring to be tortured, or will refuse to believe any confession he may make under torture. But, it will be urged, it is possible that this was his motive. May be. But he should then disguise his motive, in order that he may effect his purpose. But what will it profit us (and by us I mean the declaimers) to have realised this motive, unless we declare it as well? Well, then, if the case were being actually pleaded in the courts, should we have disclosed this secret motive in such a way? Again, if this is not the real motive, the condemned man may have other reasons for opposing his son; he may think that the law should be carried out or be unwilling to accept such a kindness from the hands of his accuser, or (and this is the line on which I personally should insist) he may intend to persist in declaring his innocence even under torture.
+
+[64426] Consequently the usual excuse advanced by such declaimers to the effect that the inventor of the theme meant the defence to proceed on these lines, will not always serve their purpose. It is possible that this was not the inventor's wish. However, let us assume that it was. Are we then to speak like fools merely because he thought like a fool? Personally I hold that, even in actual cases, we should often disregard the wishes of the litigant.
+
+[64873] Further, in such cases speakers fall into the frequent error of assuming that certain persons say one thing and mean another: this is more especially the case where it is assumed that a man asks permission to die. Take, for example, the following controversial theme. A man who had shown himself a heroic soldier in the past, on the occasion of a subsequent war demanded exemption from service in accordance with the law, on the ground that he was fifty years of age, but exemption being refused owing to the opposition of his son, he deserted on being compelled to go into the fight. The son, who had borne himself like a hero in the same battle, asks for his father's pardon as a reward. The father opposes his choice.
+
+[65595] Yes, they say, that is due not to his desire to die, but to bring odium on his son. For my part,
+
+[65693] I laugh at the fears which they manifest on his behalf, as though they were in peril of death themselves, and at the way in which they allow their terror to influence their line of pleading; for they forget how many precedents there are for suicide and how many reasons there may be why a hero turned deserter should wish for death.
+
+[66027] But it would be waste of time to expatiate on one controversial theme. I would lay it down as a general rule that an orator should never put forward a plea that is tantamount to collusion, and I cannot imagine a lawsuit arising in which both parties have the same design, nor conceive that any man who wishes to live could be such a fool as to put forward an absurd plea for death, when he might refrain from pleading for it at all. I do not, however, deny that there are controversial themes of this kind where figures may legitimately be employed, as, for example, the following: A man was accused of unnatural murder on the ground that he had killed his brother, and it seemed probable that he would be condemned. His father gave evidence in his defence, stating that the murder had been committed on his orders. The son was acquitted, but disinherited by the father. For in this case he does not pardon his son entirely, but cannot openly withdraw the evidence that he gave in the first trial, and while he does not inflict any worse penalty than disinheritance, he does not shrink from that. Further, the employment of the figure tells more heavily against the father than is fair and less against the son.
+
+[67240] But, while no one ever speaks against the view which he wishes to prevail, he may wish something of greater importance than what he actually says. Thus the disinherited son who asks his father to take back another son whom he had exposed, and who had been brought up by himself, on payment for his maintenance, while he may prefer that he himself should be reinstated, may all the same be perfectly sincere in his demand on behalf of his brother. Again, a kind of tacit hint may be employed, which, while demanding the utmost rigour of the law from the judges, suggests a loophole for clemency, not openly, for that would imply a pledge on our part, but by giving a plausible suspicion of our meaning. This device is employed in a number of controversial themes, among them the following. A ravisher, unless within thirty days he secure pardon both from his own father and the father of the ravished girl, shall be put to death. A man who has succeeded in securing pardon from the father of the girl, but not from his own, accuses the latter of madness.
+
+[68295] Here if the father pledges himself to pardon him, the dispute falls to the ground. If, on the other hand, he holds out no hope of pardon, though he will not necessarily be regarded as mad, he will certainly give the impression of cruelty and will prejudice the judge against him. Latro therefore showed admirable skill when he made the son say, You will kill me then? and the father reply, Yes, if I can.
+
+[68701] The elder Gallio treats the theme with greater tenderness, as was natural to a man of his disposition. He makes the father say, Be firm, my heart, be firm. Yesterday you were made of sterner stuff.
+
+[68900] Akin to this are those figures of which the Greeks are so fond, by means of which they give gentle expression to unpleasing facts. Themistocles, for example, is believed to have urged the Athenians to commit their city to the protection of heaven, because to urge them to abandon it would have been too brutal an expression. Again the statesman who advised that certain golden images of Victory should be melted down as a contribution to the war funds, modified his words by saying that they should make a proper use of their victories. But all such devices which consist in saying one thing, while intending something else to be understood, have a strong resemblance to allegory.
+
+[69582] It has also been asked how figures may best be met. Some hold that they should always be exposed by the antagonist, just as hidden ulcers are laid open by the surgeon. It is true that this is often the right course, being the only means of refuting the charges which have been brought against us, and this is more especially the case when the question turns on the very point at which the figures are directed. But when the figures are merely employed as vehicles of abuse, it will sometimes even be wisest to show that we have a clear conscience by ignoring them.
+
+[70148] Nay, even if too many figures have been used to permit us to take such a course, we may ask our opponents, if they have any confidence in the righteousness of their cause, to give frank and open expression to the charges which they have attempted to suggest by indirect hints, or at any rate to refrain from asking the judges not merely to understand, but even to believe things which they themselves are afraid to state in so many words.
+
+[70588] It may even at times be found useful to pretend to misunderstand them; for which we may compare the well known story of the man who, when his opponent cried, Swear by the ashes of your father, replied that he was ready to do so, whereupon the judge accepted the proposal, much to the indignation of the advocate, who protested that this would make the use of figures absolutely impossible; we may therefore lay it down as a general rule that such figures should only be used with the utmost caution.
+
+[71089] There remains the third class of figure designed merely to enhance the elegance of our style, for which reason Cicero expresses the opinion that such figures are independent of the subject in dispute. As an illustration I may quote the figure which he uses in his speech against Clodius: By these means he, being familiar with all our holy rites, thought that he might easily succeed in appeasing the gods.
+
+[71497] Irony also is frequently employed in this connexion. But by far the most artistic device is to indicate one thing by allusion to another; take the case where a rival candidate speaks against an ex-tyrant who had abdicated on condition of his receiving an amnesty: I am not permitted to speak against you. Do you speak against me, as you may. But a little while ago I wished to kill you.
+
+[71885] Another common device is to introduce an oath, like the speaker who, in defending a disinherited man, cried, So may I die leaving a son to be my heir. But this is not a figure which is much to be recommended, for as a rule the introduction of an oath, unless it is absolutely necessary, is scarcely becoming to a self-respecting man. Seneca made a neat comment to this effect when he said that oaths were for the witness and not for the advocate. Again, the advocate who drags in an oath merely for the sake of some trivial rhetorical effect, does not deserve much credit, unless he can do this with the masterly effect achieved by Demosthenes, which I mentioned above.
+
+[72556] But by far the most trivial form of figure is that which turns on a single word, although we find such a figure directed against Clodia by Cicero: Especially when everybody thought her the friend of all men rather than the enemy of any.
+
+[72794] I note that comparison is also regarded as a figure, although at times it is a form of proof, and at others the whole case may turn upon it, while its form may be illustrated by the following passage from the pro Murena:
+
+[73016] You pass wakeful nights that you may be able to reply to your clients; he that he and his army may arrive betimes at their destination. You are roused by cockcrow, he by the bugle's reveille, and so on.
+
+[73220] I am not sure, however, whether it is so much a figure of thought as of speech. For the only difference lies in the fact that universals are not contrasted with universals, but particulars with particulars. Celsus, however, and that careful writer Visellius regard it as a figure of thought, while Rutilius Lupus regards it as belonging to both, and calls it antithesis.
+
+[73592] To the figures placed by Cicero among the ornaments of thought Rutilius (following the views of Gorgias, a contemporary, whose four books he transferred to his own work, and who is not to be confused with Georgias of Leontini) and Celsus (who follows Rutilius) would add a number of others, such as:
+
+[73893] concentration, which the Greek calls διαλλαγή a term employed when a number of different arguments are used to establish one point: consequence, which Gorgias calls ἐπακολούθησις and which I have already discussed under the head of argument: inference, which Gorgias terms συλλογισμός threats, that is, κατάπληξις exhortation, or παραινετικόν But all of these are perfectly straightforward methods of speaking, unless combined with some one of the figures which I have discussed above.
+
+[74380] Besides these, Celsus considers the following to be figures: exclusion, asseveration, refusal, excitement of the judge, the use of proverbs, the employment of quotations from poetry, jests, invidious remarks or invocation to intensify a charge (which is identical with δείνωσις) flattery, pardon, disdain, admonition, apology, entreaty and rebuke.
+
+[74729] He even includes partition, proposition, division and affinity between two separate things, by which latter he means that two things apparently different signify the same: for example, not only the man who murders another by administering a deadly draught is to be regarded as a poisoner, but also the man who deprives another of his wits by giving him some drug, a point which depends on definition.
+
+[75131] To these Rutilius or Gorgias add ἀναγκαῖον that is, the representation of the necessity of a thing, ἀνάμνησις or reminding, ἀνθυποφορά that is, replying to anticipated objections, ἀντίῤῥησις or refutation, παραύξησις or amplification, προέκθεσις which means pointing out what ought to have been done, and then what actually has been done, ἐναντιότης, or arguments from opposites (whence we get enthymemes styled κατ᾽ ἐναντίωσιν), and even μετάληψις, which Hermagoras considers a basis. Visellius, although he makes the number of figures but small, includes among them the enthymeme, which he calls commentum, and the epicheireme, which he calls ratio. This view is also partially accepted by Celsus, who is in doubt whether consequence is not to be identified with the epicheireme.
+
+[75914] Visellius also adds general reflexions to the list. I find others who would add to these διασκευή or enhancement, ἀπαγόρευσις or prohibition, and παραδιήγησις or incidental narrative. But though these are not figures, there may be others which have slipped my notice, or are yet to be invented: still, they will be of the same nature as those of which I have spoken above.
+
+[76288] III. Figures of speech have always been liable to change and are continually in process of change in accordance with the variations of usage. Consequently when we compare the language of our ancestors with our own, we find that practically everything we say nowadays is figurative. For example, we say invidere hac re for to grudge a thing, instead of hanc rem, which was the idiom of all the ancients, more especially Cicero, and incumbere illi (to lean upon him) for incumbere in ilium, plenum vino (full of wine) for plenum vini, and huic adulari (to flatter him) for hunc adulari. I might quote a thousand other examples, and only wish I could say that the changes were not often changes for the worse.
+
+[76996] But to proceed, figures of speech fall into two main classes. One is defined as the form of language, while the other is mainly to be sought in the arrangement of words. Both are equally applicable in oratory, but we may style the former rather more grammatical and the latter more rhetorical. The former originates from the same sources as errors of language. For every figure of this kind would be an error, if it were accidental and not deliberate.
+
+[77449] But as a rule such figures are defended by authority, age and usage, and not infrequently by some reason as well. Consequently, although they involve a divergence from direct and simple language, they are to be regarded as excellences, provided always that they have some praiseworthy precedent to follow. They have one special merit, that they relieve the tedium of everyday stereotyped speech and save us from commonplace language.
+
+[77884] If a speaker use them sparingly and only as occasion demands, they will serve as a seasoning to his style and increase its attractions. If, on the other hand, he strains after them overmuch, he will lose that very charm of variety which they confer. Some figures, however, are so generally accepted that they have almost ceased to be regarded as figures: consequently however frequently they may be used, they will make less impression on the ear, just because it has become habituated to them.
+
+[78380] For abnormal figures lying outside the range of common speech, while they are for that very reason more striking, and stimulate the ear by their novelty, prove cloying if used too lavishly, and make it quite clear that they did not present themselves naturally to the speaker, but were hunted out by him, dragged from obscure corners and artificially piled together. Figures, then, may be found in connexion with the gender of nouns; for we find oculis capti talpale
+
+[78848] (blind moles) and timidi damae (timid deer) in Virgil; but there is good reason for this, since in these cases both sexes are covered by a word of one gender, and there is no doubt that there are male moles and deer as well as female. Figures may also affect verbs: for example, we find such phrases as fabricatus est glatdium or inimicum poenitus es.
+
+[79201] This is the less surprising, since the nature of verbs is such that we often express the active by the passive form, as in the case of arbitror (think) and suspicor (suspect), and the passive by the active, as in the case of vapulo (am beaten). Consequently the interchange of the two forms is of common occurrence, and in many cases either form can be used: for example, we may say luxuriatur or luxuriat (luxuriate), fluctuatur or fluctuat (fluctuate), adsentior or adsentio (agree). Figures also occur in connexion with number, as when the plural follows the singular, as in the phrase gladio pugnacissima gens Romani (the Romans are a nation that fight fiercely with the sword); for gens is a singular noun indicating multitude. Or the singular may follow the plural, as in the following instance, qui non risere parentes nec deus hunc mensa dea nec dignata cubili est, where he whom no goddess deems, etc., is included among those who have never smiled, etc.
+
+[80166] In a satire again we read, nostrum istud vivere triste aspxei, where the infinitive is used as a noun: for the poet by nostrum vivere means nostram vitam. We also at times use the verb for the participle, as in the phrase, magnum dat ferre talentum, where ferre is used for ferendum, or the participle may be used for the verb, as in the phrase volo datum (I wish to give).
+
+[80541] At times, again, there may be some doubt as to the precise error which a figure resembles. Take, for example, the phrase virtus est vitium fugere, where the writer has either changed the parts of speech (making his phrase a variant for virtus est fuga vitiorum), or the cases (in which case it will be a variant for virtutis est vitium fugere); but whichever be the case, the figure is far more vigorous than either. At times figures are joined, as in Sthenelus sciens pugnae, which is substituted for Sthenelus scilus pugnandi. Tenses too are interchangeable.
+
+[81103] For example, Timarchides negat esse ei periculum a seuri the present negat is substituted for the past. Or one mood may be used for another, as in the phrase, hoc Ithacus velit. In fact, to cut a long matter short, there is a figure corresponding to every form of solecism.
+
+[81378] There is also a figure styled ἑτεροίωσις (i.e. alteration of the normal idiom), which bears a strong resemblance to ἐξαλλαγή. For example, we find in Sallust phrases such as neque ea res failsum me habuit and duci probare. Such figures as a rule aim not merely at novelty, but at conciseness as well. Hence we get further developments, such as non paeniturum for not intending to repent, and visuros for sent to see, both found in the same author.
+
+[81827] These may have been figures when Sallust made them; but it is a question whether they can now be so considered, since they have met with such general acceptance. For we are in the habit of accepting common parlance as sufficient authority where current phrases are concerned: for example, rebus agentibus in the sense of while this was going on, which Pollio rebukes Labienus for using, has become an accredited idiom, as has contumeliam fecit, which, as is well known, is stigmatised by Cicero: for in his day they said ad fici contumelia.
+
+[82369] Figures may also be commended by their antiquity, for which Virgil had such a special passion. Compare his vel cum se pavidum contra mea iurgia iactat or progeniem sed enim Troiano a sanguine duci audierat.
+
+[82577] Numerous instances of the same kind might be cited from the old tragic and comic poets.
+
+[82666] One word of this type has remained in common use, namely enimvero. I might further quote from the same author nam quis te iuvenum confidentissime, words which form the beginning of a speech: or tam magis illa tremens et tristibus etffra flammis, quam magis effuso crudescunt sanguine pugnae.
+
+[82959] The more the strife with bloodshed rages wild,
+
+[83007] The more it quivers and with baleful fire
+
+[83050] Glows fiercer.
+
+[83066] There the sentence inverts the natural order which may be illustrated by quam magis aerumna urgent, tam magis ad malefaciendumn viget.
+
+[83202] Old writers are full of such usages. At the beginning of the Eunuchus of Terence we have quid igitur faciam, while another comic poet says ain tandem leno? Catullus in his Epithalamium writes:
+
+[83396] dum innupta manet, dum cara suis est, where the first dum means while, and the second means so long.
+
+[83498] Sallust, on the other hand, borrows a number of idioms from the Greek, such as vulgus amat fieri: the same is true of Horace, who strongly approves of the practice. Compare his nec ciceris net longae invidit avenae.
+
+[83715] Virgil does the same in phrases such as Tyrrhenum navigat aequor or saucius pectus (wounded at heart), an idiom which has now become familiar in the public gazette.
+
+[83881] Under the same class of figure falls that of addition, which, although the words added may be strictly superfluous, may still be far from inelegant. Take, for example, nam neque Parnasi vobis iuga, nam neque Pindi, where the second nam might be omitted. And we find in Horace,
+
+[84159] Fabriciumcque, hunc et intonsis Curium capillis.
+
+[84209] Similarly, words are omitted, a device which may be either a blemish or a figure, according to the context. The following is an example:
+
+[84347] accede ad ignen, iam calesces plus satis;
+
+[84390] for the full phrase would be plus quam satis. There is, however, another form of omission which requires treatment at greater length.
+
+[84525] We frequently use the comparative for the positive, as, for example, when a man speaks of himself as being infirmior (rather indisposed). Sometimes we join two comparatives, as in the following passage: si te, Catilina, comprehend, si interfici iussero, credo erit verendum mihi, ne non potius hoc ones boni serius a me qam quisquam crudelius factum esse dicat.
+
+[84888] There are also figures like the following, which, though far from being solecisms, alter the number and are also usually included among tropes. We may speak of a single thing in the plural, as in the following instance:
+
+[85109] But we have travelled o'er a boundless space;
+
+[85156] Or we may speak of the plural in the singular, as in the following case:
+
+[85230] Like the fierce Roman in his country's arms.
+
+[85276] There are others which belong to a diflfrent species, but the same genus, such as
+
+[85359] Nor let thy vineyards slope toward the west, or
+
+[85408] In that hour
+
+[85422] Be it not mine beneath the open sky
+
+[85459] To court soft sleep nor on the forest ridge
+
+[85504] Amid the grass to lie.
+
+[85528] For in the first of these passages he is not advising some other person, nor exhorting himself in the second, his advice in both passages being meant for all. Sometimes, again, we speak of ourselves as though we were referring to others, as in phrases like, Servius asserts, Tullius denies it.
+
+[85823] At other times we speak in the first person instead of in another, or substitute one person for another. Both devices are employed together in the pro Caecina, where Cicero, addressing Piso, the counsel for the prosecution, says, You asserted that you reinstated me: I deny that you did so in accordance with the praetor's edict. The actual truth is that it was Aebutius who asserted that he had reinstated the defendant, and Caecina who denied that he had been restored in accordance with the praetor's edict. We may note also a further figure of speech in the contracted dixti, which has dropped one of its syllables.
+
+[86444] The following also may be regarded as belonging to the same genus. The first is called interpositio or interclusio by us, and parenthesis or paremptosis by the Greeks, and consists in the interruption of the continuous flow of our language by the insertion of some remark. The following is an example: ego cum te (mecum enim saepissime loquilur) patriae reddidissem.
+
+[86812] To this they add hyperbaton, which they refuse to include among tropes. A second figure of this kind is one closely resembling the figure of thought known as apostrophe, but differing in this respect, that it changes the form of the language and not the sense. The following will illustrate my meaning:
+
+[87116] The Decii too,
+
+[87132] The Marii and Camilli, names of might,
+
+[87172] The Scipios, stubborn warriors, aye, and thee,
+
+[87220] Great Caesar.
+
+[87235] There is a still more striking example in the passage describing the death of Polydorus:
+
+[87325] All faith he brake and Polydorus slew
+
+[87364] Seizing his gold by force. Curst greed of gold,
+
+[87413] To what wilt thou not drive the hearts of men?
+
+[87461] 'Those terminologists who delight in subtle distinctions call the last figure μετάβασις (transition), and hold that it may be employed in yet another way, as in Dido's
+
+[87630] What do I say? Where am I?
+
+[87658] Virgil has combined apostrollphe and parenthesis in the well-known passage:
+
+[87735] Next Mettus the swift cars asunder tore,
+
+[87777] (Better, false Alban, hadst thou kept thy troth!)
+
+[87828] And Tullus dragged the traitors' mangled limbs...
+
+[87879] These figures and the like, which consist in change, addition, omission, and the order of words, serve to attract the attention of the audience and do not allow it to flag, rousing it from time to time by some specially striking figure, while they derive something of their charm from their very resemblance to blemishes, just as a trace of bitterness in food will sometimes tickle the palate. But this result will only be obtained if figures are not excessive in number nor all of the same type or combined or closely packed, since economy in their use, no less than variety, will prevent the hearer being surfeited.
+
+[88498] There is a more striking class of figure, which does not merely depend on the form of the language for its effect, but lends both charm and force to the thought as well. The first figure of this class which calls for notice is that which is produced by addition. Of this there are various kinds. Words, for instance, may be doubled with a view to amplification, as in I have slain, I have slain, not Spurius Maelius (where the first I have slain states what has been done, while the second emphasises it), or to excite pity, as in
+
+[89030] Ah! Corydon, Corydon.
+
+[89053] The same figure may also sometimes be employed ironically, with a view to disparagement. Similar to such doubling of words is repetition following a parenthesis, but the effect is stronger. I have seen the property alas! (for though all my tears are shed, my grief still clings to me deep-rooted in my heart), the property, I say, of Gnaeus Pompeius put up for sale by the cruel voice of the public crier.
+
+[89460] You still live, and live not to abate your audacity, but to increase it.
+
+[89534] Again, a number of clauses may begin with the same word for the sake of force and emphasis. Were you unmoved by the guard set each night upon the Palatine, unmoved by the patrolling of the city, unmoved by the terror of the people, unmoved by the unanimity of all good citizens, unmoved by the choice of so strongly fortified a spot for the assembly of the senate, unmoved by the looks and faces of those here present to-day? Or they may end with the same words. Who demanded them? Appius. Who produced them? Appius.
+
+[90052] This last instance, however, comes under the head of another figure as well, where both opening and concluding words are identical, since the sentences open with who and end with Appius. Here is another example. Who are they who have so often broken treaties? The Carthaginians. Who are they who have waged war with such atrocious cruelty? The Carthaginians. Who are they who have laid Italy waste? The Carthaginians. Who are they who pray for pardon? The Carthaginians.
+
+[90524] Again, in antitheses and comparisons the first words of alternate phrases are frequently repeated to produce correspondence, which was my reason for saying a little while back that this device came under the present topic rather than that which I was then discussing. You pass wakeful nights that you may be able to reply to your clients; he that he and his army may arrive betimes at their destination. You are roused by cockcrow, he by the bugle's reveillé. You draw up your legal pleas, he sets the battle in array. You are on the watch that your clients be not taken at a disadvantage, he that cities or camps be not so taken.
+
+[91156] But the orator is not content with producing this effect, but proceeds to reverse the figure. He knows and understands how to keep off the forces of the enemy, you how to keep off the rainwater; he is skilled to extend boundaries, you to delimit them.
+
+[91409] A similar correspondence may be produced between the middle and the opening of a sentence, as in the line:
+
+[91517] te nemus Angitiae, vitrea te Fucinus unda.
+
+[91561] Or the middle may correspond to the end, as in the following sentence: This ship, laden with the spoil of Sicily, while it was itself a portion of the spoil. Nor will it be questioned that a like effect may be produced by the repetition of the middle of both clauses. Again, the end may correspond with the beginning. Many grievous afflictions were devised for parents and for kinsfolk many.
+
+[91954] There is also another form of repetition which simultaneously reiterates things that have already been said, and draws distinctions between them.
+
+[92101] Iphitus too with me and Pelias came,
+
+[92139] Iphitus bowed with age and Pelias
+
+[92174] Slow-limping with the wound Ulysses gave.
+
+[92217] This is styled ἐπάνοδος by the Greeks and regression by Roman writers.
+
+[92289] Nor are words only repeated to reaffirm the same meaning, but the repetition may serve to mark a contrast, as in the following sentence.
+
+[92427] The reputation of the leaders was approximately equal, but that of their followers perhaps not so equal. At times the cases and genders of the words repeated may be varied, as in Great is the toil of speaking, and great the task, etc.; a similar instance is found in Rutilius, but in a long period. I therefore merely cite the beginnings of the clauses. Pater hic tuus? patrem nunc appellas? patris tui filius es?
+
+[92842] This figure may also be effected solely by change of cases, a proceeding which the Greeks call πολύπτωτον It may also be produced in other ways, as in the pro Cluentio:
+
+[93012] Quod autem tempus veneni dandi? illo die? illa frequentia? per quem porro datum? unde sumptum? quae porro interceptio poculi? cur non de integro autem datum?
+
+[93171] The combination of different details is called μεταβολὴν by Caecilius, and may be exemplified by the following passage directed against Oppianicus in the pro Cluentio:
+
+[93340] The local senate were unanimously of opinion that he had falsified the public registers at Larinum; no one would have any business dealings or make any contract with him, no one out of all his numerous relations and kinsfolk ever appointed him as guardian to his children, with much more to the same effect.
+
+[93649] In this case the details are massed together, but they may equally be distributed or dissipated, as I think Cicero says. For example:
+
+[93784] Here corn, there grapes, elsewhere the growth of trees
+
+[93840] More freely rises, with the remainder of the passage.
+
+[93895] A wonderful mixture of figures may be found in Cicero in the following passage, where the first word is repeated last after a long interval, while the middle corresponds with the beginning, and the concluding words with the middle. Yours is the work which we find here, conscript fathers, not mine, a fine piece of work too, but, as I have said, not mine, but yours. This frequent repetition, which, as I have said, is produced by a mixture of figures, is called πλοκὴ by the Greeks: a letter of Cicero to Brutus will provide a further example. When I had made my peace with Appius Claudius and made it through the agency of Gnaeus Pompeius, when then I had made my peace, etc.
+
+[94574] The like effect may be produced in the same sentence by repeating the same words in different forms, as in Persius:
+
+[94691] Is then to know in thee
+
+[94716] Nothing unless another know thou knowest?
+
+[94759] and in Cicero, where he says, For it was impossible for the judges as well to be condemned by their own judgement.
+
+[94875] Whole sentences again end with the phrase with which they began. Take an example. He came from Asia. What a strange thing. A tribune of the people came from Asia. Nay, the first word of this same period is actually repeated at its close, thus making its third appearance: for to the words just quoted the orator adds, Still for all that he came. Sometimes a whole clause is repeated, although the order of the words is altered, as, for example, Quid Cleomenes facere potuit non enin possum quemquam insimulare falso, quid, inquam, magno opere potuit Cleomenes facere?
+
+[95444] The first word of one clause is also frequently the same as the last of the preceding, a figure common in poetry.
+
+[95559] And ye,
+
+[95568] Pierian Muses, shall enhance their worth
+
+[95610] For Gallus; Gallus, he for whom each hour
+
+[95653] My love burns stronger.
+
+[95678] But it is not uncommon even in the orators. For example: Yet this man lives. Lives? Why he even came into the senate house.
+
+[95803] Sometimes, as I remarked in connexion with the doubling of words, the beginnings and the conclusions of sentences are made to correspond by the use of other words with the same meaning. Here is an example of correspondence between the beginnings: I would have faced every kind of danger; I would have exposed myself to treacherous attacks; I would have delivered myself over to public hatred. An example of the correspondence of conclusions is provided by another passage in the same speech which follows close on that just cited: For you have decided; you have passed sentence; you have given judgment. Some call this synonzmy, others disjunction: both terms, despite their difference, are correct. For the words are differentiated, but their meaning is identical. Sometimes, again, words of the same meaning are grouped together. For instance, Since this is so, Catiline, proceed on the path which you have entered; depart from the city, it is high time. The gates are open, get you forth.
+
+[96796] Or take this example from another book of the orations against Catiline, He departed, he went hence; he burst forth, he was gone. This is regarded as a case of pleonasm by Caecilius, that is to say, as language fuller than is absolutely required, like the phrase:
+
+[97061] Myself before my very eyes I saw:
+
+[97096] for myself is already implied by I saw. But when such language is over weighted by some purely superfluous addition, it is, as I have also pointed out elsewhere, a fault; whereas when, as in this case, it serves to make the sense stronger and more obvious, it is a merit. I saw, myself, before my very eyes, are so many appeals to the emotion.
+
+[97441] I cannot therefore see why Caecilius should have stigmatised these words by such a name, since the doubling and repetition of words and all forms of addition may likewise be regarded as pleonasms. And it is not merely words that are thus grouped together. The same device may be applied to thoughts of similar content. The wild confusion of his thoughts, the thick darkness shed upon his soul by his crimes and the burning torches of the furies all drove him on.
+
+[97905] Words of different meaning may likewise be grouped together, as for instance, The woman, the savage cruelty of the tyrant, love for his father, anger beyond control, the madness of blind daring; or again, as in the following passage from Ovid,
+
+[98150] But the dread Nereids' power,
+
+[98181] But horned Ammon, but that wild sea-beast
+
+[98224] To feed upon my vitals that must come.
+
+[98264] I have found some who call this also by the name of πλοκή: but I do not agree, as only one figure is involved. We may also find a mixture of words, some identical and others different in meaning; of this figure, which the Greeks style διαλλαγή, the following will provide an example: I ask my enemies whether these plots were investigated, discovered and laid bare, overthrown, crushed and destroyed by me. In this sentence investigated, discovered and laid bare are different in meaning, while overthrown, crushed and destroyed are similar in meaning to each other, but different from the three previous.
+
+[98871] But both the last example and the last but one involve a different figure as well, which, owing to the absence of connecting particles, is called dissolution (asyndeton), and is useful when we are speaking with special vigour: for it at once impresses the details on the mind and makes them seem more numerous than they really are. Consequently, we apply this figure not merely to single words, but to whole sentences, as, for instance, is done by Cicero in his reply to the speech which Metellus made to the public assembly: I ordered those against whom information was laid, to be summoned, guarded, brought before the senate: they were led into the senate, while the rest of the passage is constructed on similar lines. This kind of figure is also called brachylogy, which may be regarded as detachment without loss of connexion. The opposite of this figure of asyndeton is polyxyndeton, which is characterised by the number of connecting particles employed.
+
+[99834] In this figure we may repeat the same connecting particle a number of times, as in the following instance:
+
+[99942] His house and home and arms
+
+[99971] And Amyclean hound and Cretan quiver;
+
+[100010] or they may be different, as in the case of arma virumque followed by multum ille et terris and multa quoque.
+
+[100121] Adverbs and pronouns also may be varied, as in the following instance:
+
+[100193] lic ilium vidi iunvenem followed by bis senos cui nostra dies and hic mihi responsum primus dedit ille petenti. But both these cases involve the massing together of words and phrases either in asyndeton or polysyndeton.
+
+[100414] Writers have given special names to all the different forms, but the names vary with the caprice of the inventor. The origin of these figures is one and the same, namely that they make our utterances more vigorous and emphatic and produce animpression of vehemence such as might spring from repeated outbursts of emotion. Gradation, which the Greeks call climax, necessitates a more obvious and less natural application of art and should therefore be more sparingly employed. Moreover, it involves addition, since it repeats what has already been said and, before passing to a new point, dwells on those which precede. I will translate a very famous instance from the Greek. I did not say this, without making a formal proposal to that effect, I did not make that proposal without undertaking the embassy, nor undertake the embassy without persuading the Thebans.
+
+[101279] There are, however, examples of the same thing in Latin authors. It was the energy of Africanus that gave him his peculiar excellence, his excellence that gave him glory, his glory that gave him rivals. Calvus again writes, Consequently this means the abolition of trials for treason no less than for extortion, for offences covered by the Plautian law no less than for treason, for bribery no less than for those offences, and for all breaches of every law no less than for bribery, etc.
+
+[101769] It is also to be found in poets, as in the passage in Homer describing the sceptre which he traces from the hands of Jupiter down to those of Agamemnon, and in the following from one of our own tragedians:
+
+[101976] From Jove, so runs the tale, was Tantalus sprung,
+
+[102027] From Tantalus Pelops, and of Pelops' seed
+
+[102070] Sprang Atreus, who is sire of all our line.
+
+[102115] As regards the figures produced by omission, they rely for their charm in the main on conciseness and novelty. There is one of these which I mentioned in the last book with reference to synecdoche, and postponed discussing until such time as I came to deal with figures: it occurs when the word omitted may be clearly gathered from the context: an example may be found in Caelius' denunciation of Antony: stupere gaudio Graecus: for we must clearly supply coepit. Or take the following passage from a letter of Cicero to Brutus: Serno nullus scilicet nisi de te: quid enim potius? turn Flavius, cras, inquit, tabellarii, et ego ibidem has inter cenum exaravi.
+
+[102776] Of a similar kind, at any rate in my opinion, are those passages in which words are decently omitted to spare our modesty.
+
+[102900] You—while the goats looked goatish-we know who,
+
+[102949] And in what chapel—(but the kind Nymphs laughed).
+
+[103000] Some regard this as an aposiopesis, but wrongly.
+
+[103050] For in aposiopesis it is either uncertain or at least requires an explanation of some length to show what is suppressed, whereas in the present case only one word, and that of an obvious character, is missing. If this, then, is an aposiopesis, all omissions will have a claim to the title.
+
+[103341] I would not even allow the name of aposiopesis to all cases where what is omitted is left to be understood, as for example the following phrase from Cicero's letters, Data Lupercalibus quo die Antonius Caesari: for there, there is no real suppression: the omission is merely playful, for there is but one way of completing the sentence, namely with the words diadema imposuit.
+
+[103719] Another figure produced by omission is that of which I have just spoken, when the connecting particles are omitted. A third is the figure known as ἐπεζευγμένον in which a number of clauses are all completed by the same verb, which would be required by each singly if they stood alone. In such cases the verb to which the rest of the sentence refers may come first, as in the following instance: Vicit pudorem lilido, timiorem audacia, rationem amentia. Or it may come last, closing a number of clauses, as in the following: Neque enim is es, Catilina, ut te aut pudor unquam a turpitudine ant meites a periculo aut ratio a furore revocaverit.
+
+[104363] The verb may even be placed in the middle so as to serve both what precedes and what follows. The same figure may join different sexes, as for example when we speak of a male and female child under the comprehensive term of sons; or it may interchange singular and plural.
+
+[104637] But these devices are so common that they can scarcely lay claim to involve the art essential to figures. On the other hand it is quite obviously figure, when two different constructions are combined as in the following case:
+
+[104864] Sociis tunc arma capessant
+
+[104892] Edico et dira bellum cum gene gerendumn.
+
+[104934] (I bid my comrades straight to seize their arms And war be waged against a savage race.) For although the portion of the sentence following bellum ends with a participle, both clauses of the sentence are correctly governed by edico. Another form of connexion, which does not necessarily involve omission, is called συνοικείωσις, because it connects two different things, for example:
+
+[105319] The miser lacks
+
+[105336] That which he has no less than what he has not.
+
+[105385] To this figure is opposed distinction, which they call παραδιαστολή, by which we distinguish between similar things, as in this sentence: When you call yourself wise instead of astute, brave instead of rash, economical instead of mean. But this is entirely dependent on definition, and therefore I have my doubts whether it can be called a figure. Its opposite occurs when we pass at a bound from one thing to something different, as though from like to like; for example:
+
+[105859] I labour to be brief, I turn obscure, with what follows.
+
+[105917] There is a third class of figures which attracts the ear of the audience and excites their attention by some resemblance, equality or contrast of words. To this class belongs paronomasia, which we call adnominatio. This may be effected in different ways. It may depend on the resemblance of one word to another which has preceded, although the words are in different cases. Take the following passage from Domitius Afer's defence of Cloatilla: Mulier omnium rerum imiperita, in omnnibus rebus infelix.
+
+[106420] Or the same word may be repeated with greater meaning, as quando homo, hostis homno. But although I have used these examples to illustrate something quite different, one of them involves both emphasis and reiteration. The opposite of parononasia occurs when one word is proved to be false by repetition; for instance, This law did not seem to be a law to private individuals. Akin to this is that syled ἀντανάκλασις, where the same word is used in two different meanings. When Proculeius reproached his son with waiting for his death, and the son replied that he was not waiting for it, the former retorted, Well then, I ask you to wait for it. Sometimes such difference in meaning is obtained not by using the same word, but one like it, as for example by saying that a man whom you think dignus supplicatione (worthy of supplication) is supplicio adficiendus.
+
+[107283] There are also other ways in which the same words may be used in different senses or altered by the lengthening or shortening of a syllable: this is a poor trick even when employed in jest, and I am surprised that it should be included in the text-books: the instances which I quote are therefore given as examples for avoidance, not for imitation. Here they are:
+
+[107648] Amari iucundum est, si curetur ne quid insit amari, and Avium dulcedo ad avium ducit; and again this jest from Ovid,
+
+[107766] Cur ego non dicam, Furia, te furiam?
+
+[107804] Cornificius calls this traductio, that is the transference of the meaning of one word to another. It has, however, greater elegance when it is employed to distinguish the exact meanings of things, as in the following example: This curse to the state could be repressed for a time, but not suppressed for ever; the same is true when the meaning of verbs is reversed by a change in the preposition with which they are compounded: for example, Non emissus ex urbe, sed immissus in urbem esse videatur. The effect is better still and more emphatic when our pleasure is derived both from the figurative form and the excellence of the sense, as in the following instance: emit morte immortalitatem.
+
+[108498] A more trivial effect is produced by the following: Non Pisonum, sed pistorum, and Ex oratore arator, while phrases such as Ne patres conscripti videantur circumscripti, or raro evenit, sed vehenenter venit, are the worst of all. It does, however, sometimes happen that a bold and vigorous conception may derive a certain charm from the contrast between two words not dissimilar in sound.
+
+[108888] I do not know that there is any reason why modesty should prevent me from illustrating this point from my own family. My father, in the course of a declamation against a man who had said he would die on his embassy and then returned after a few days' absence without accomplishing anything, said, non exigo ut immoriaris legationi: immorare. For the sense is forcible and the sound of the two words, which are so very different in meaning, is pleasant, more especially since the assonance is not far fetched, but presents itself quite naturally, one word being of the speaker's own selection, while the other is supplied by his opponent.
+
+[109527] The old orators were at great pains to achieve elegance in the use of words similar or opposite in sound. Gorgias carried the practice to an extravagant pitch, while Isocrates, at any rate in his early days, was much addicted to it. Even Cicero delighted in it, but showed some restraint in the employment of a device which is not unattractive save when carried to excess, and, further, by the weight of his thought lent dignity to what would otherwise have been mere trivialities. For in itself this artifice is a flat and foolish affectation, but when it goes hand in hand with vigour of thought, it gives the impression of natural charm, which the speaker has not had to go far to find.

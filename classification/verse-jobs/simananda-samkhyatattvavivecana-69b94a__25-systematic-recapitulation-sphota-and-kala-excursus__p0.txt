@@ -1,0 +1,405 @@
+WORK: Sāṃkhyatattvavivecana  (slug: simananda-samkhyatattvavivecana-69b94a)
+
+CHAPTER: 25-systematic-recapitulation-sphota-and-kala-excursus
+
+
+
+[0] **26.c1**
+
+[11] The great principle, the I-maker, and the five subtle elements are [also] termed "unmanifest"; by the word "great" (mahat) the {{buddhi / mahat|intellect}} of Hiraṇyagarbha is meant. {{pradhāna|The chief}}, the root, is termed "unmanifest." The knower (jña) is the {{puruṣa|Self}}. These are the twenty-five {{tattva|principles}}. Among them, {{pradhāna|primordial matter}} is cause only, never effect. The seven beginning with the great principle are effects of what precedes [each] and causes of what follows. The eleven organs and the five great elements are effects only, not causes.
+
+[600] **26.c2**
+
+[611] But the puruṣa is neither effect nor cause. This is stated [in the Sāṃkhyakārikā]: "root-prakṛti" and so forth. The great principle, the I-maker, and the five subtle elements—these seven are both productive and modified ({{vikāra / vikṛti|prakṛti-and-vikṛti}}). "From {{pradhāna|the chief}} intellect is born"—so [intellect] is a modification of the chief; "that very [intellect] generates the I-maker"—so it is [also] a productive principle. The I-maker too "is born from intellect"—so it is a modification; "it too generates the eleven organs and the five subtle elements"—so it is [also] a productive principle.
+
+[1227] **26.c3**
+
+[1238] Therein: "the sound-subtle-element is born from the I-maker"—so it is a modification; "from it ākāśa is born"—so the sound-subtle-element is a productive principle. Likewise "the touch-subtle-element is born from the I-maker"—a modification; "that very [element] generates air"—a productive principle. So too "the form-subtle-element is born from the I-maker"—a modification; "that very [element] generates fire"—a productive principle. "The taste-subtle-element is born from the I-maker"—a modification; "that very [element] generates water"—a productive principle. Likewise "the smell-subtle-element is born from the I-maker"—a modification; "that very [element] generates earth"—a productive principle.
+
+[1945] **26.c4**
+
+[1956] These five subtle elements, [being] the subtle elements, are the causes of the gross elements; and the group of sixteen is [pure] modification: five organs of knowledge, five organs of action, the eleventh being the mind, and five great elements—this group of sixteen is modification only, not productive principle. But the puruṣa is neither of the two—such is the meaning.
+
+[2331] **26.c5**
+
+[2342] The means of valid knowledge is threefold, in the form of perception, inference, and word. Therein, perception is the pentad beginning with the ear, which grasps the worldly qualities such as sound; and inference grasps a non-perceived object [by a mark], such as smoke. Word, again, is of three kinds: the object of the vocal organ, the object of the ear, and the object of the intellect alone. Among these, the sound delimited by a place such as throat or palate is the object of the vocal organ, being its effect; and the sound that stands in the ear, mediated by the vocal organ—being sound [arising] from sound—is the object of the ear, being grasped by it. But words such as "pot" are the object of the intellect alone, since (by the reasoning to be stated) they are grasped by the intellect alone.
+
+[3148] **26.c6**
+
+[3159] Those words, precisely because they are the instrument of [conveying] meaning, are called {{sphoṭa|the word-whole}}. For that word is distinct from the individual phonemes uttered by the vocal organ; since, owing to the exceedingly swift perishing of the phonemes, there can be no combination [of them], the designation "a single word" could not become an object of usage, nor could [the phonemes] serve to recall the meaning [if there were no sphoṭa].
+
+[3613] **26.c7**
+
+[3624] And the cause of this {{sphoṭa|word-whole}} is a single particular effort [of articulation]; for if the utterance were [made] by [several] distinct efforts, there would be neither the usage "one word" nor the cognition of the meaning. And the manifester of this sphoṭa is the cognition of the final phoneme as qualified by the [proper] sequence; hence it is the intellect alone that grasps the sphoṭa, since grasping is possible only by the intellect through [grasping] the sequence—[and] by the relation of co-referentiality (sāmānādhikaraṇya-pratyāsatti) there is economy (lāghava) in [holding] the cognition of the sequence to be the cause of the manifestation of the word called sphoṭa.
+
+[4316] **26.c8**
+
+[4327] For just this reason the {{sphoṭa|word-whole}} cannot be grasped by the ear; for the sequence—being formless, as in "gha," then "ṭa," and so on—cannot be grasped by the ear, and the phonemes, perishing exceedingly swiftly, cannot be combined; and because it is fitting that it is the inner organ alone that cooperates [in this], since the impressions of the successive earlier phonemes and the recollections of them reside in the inner organ.
+
+[4771] **26.c9**
+
+[4782] [Objection:] "Granted all this; [but] let word-hood, or the capacity to convey meaning, belong to the very manifester of the sphoṭa—namely, the final phoneme as qualified by the sequence. Enough of [positing] the sphoṭa! By the maxim 'let that [property] belong to the very cause of that [effect].' This very [point] is stated by the Sāṃkhyasūtra: 'By [the alternatives of] being cognized and not being cognized, sound is not of the nature of sphoṭa.' The cognition of unity, too, is accounted for by the unity of the final phoneme as qualified by the sequence."
+
+[5346] **26.c10**
+
+[5358] To this it is replied: If so, the [doctrine of the] whole (avayavin) would have to be abolished [as well]. For [by your reasoning], since there is economy in positing that it is the parts alone—delimited by the particular conjunction that is the non-inherent cause—that cause the fetching of water and the like, by the parity of the same maxim "let that belong to the very cause of that," the cognitions "one pot" and the like would [also] be accounted for like the cognition "one forest" [which is merely a collective of trees, with no real whole].
+
+[5909] **26.c11**
+
+[5921] [Objection:] "The proof of the whole is this and the like: since atoms and their conjunctions are supra-sensible, if [the gross object] were of their nature [alone], the perception of the whole would be unaccountable [hence a whole over and above the parts must be admitted]." [Reply:] The same [argument] applies to the {{sphoṭa|word-whole}}: since the sequence is constituted of supra-sensible instants and the like, if the word were merely of the nature of the final phoneme as qualified by the sequence, the perception [of the word] would be unaccountable—this and the like is the proof of the sphoṭa.
+
+[6528] **26.c12**
+
+[6540] Moreover, we posit the sphoṭa-word on the authority of śruti alone, just like heaven and the like; hence, even in the absence of a worldly means of proof there, there is no defect.
+
+[6722] **26.c13**
+
+[6734] Thus: having declared that the three morae of the praṇava (Oṃ), in the forms a, u, and m, consist of the triad of deities beginning with Brahmā, the śrutis teach a fourth mora of the praṇava, consisting of the supreme brahman that transcends the triad of deities. That fourth mora can only be the {{sphoṭa|word-whole}}, distinct from the three phonemes; and it is called "the half-mora" (arddhamātrā): just as in an [undivided] heap, [so] of phoneme and word being undivided, the phonemes are one half and the word the other half—thus it is accounted for.
+
+[7291] **26.c14**
+
+[7303] And just as the whole cannot be dealt with [as] separated from its parts, so too the word cannot be uttered [as] separated from the individual phonemes. Hence it is remembered [in scripture]: "the half-mora abides, eternal, which is in particular not [separately] utterable."
+
+[7580] **26.c15**
+
+[7592] [Objection:] "Granted, the half-mora may be accounted for; but what is the nature of the [terms] nāda and bindu?" [Reply:] When the praṇava is uttered, the particular tone that arises—like the sound of a conch or a flute—is the nāda; and the exceedingly subtle state of the cessation of the nāda, being equivalent to the void, is called the bindu. Therefore, just as the whole is distinct from the parts, so the word is distinct from the phonemes, and that very [word] is the {{sphoṭa|word-whole}}—so it is established. [Objection:] "If so, a sentence too would be a sphoṭa." [Reply:] No [objection]—in the absence of a defeater, let it be accepted. So much by way of indication.
+
+[8273] **26.c16**
+
+[8285] Word (śabda), then, is characterized by the sentence of a [reliable] instructing person, such as "Indra [is] the king of the gods." If presumption (arthāpatti), [reasoning from] possibility, [from] non-existence (abhāva), tradition (aitihya), intuition (pratibhā), and comparison (upamāna) are means of valid knowledge, then they are to be subsumed here [under the three already stated], not [taken] separately. Though {{prakṛti|primordial nature}} and {{puruṣa|the Self}} exist, they are not perceived, owing to their subtlety—just as in the sky, smoke, vapour, mist, and atoms, though existing, are not perceived. By seeing the effect [consisting] of the great principle and the rest, {{pradhāna|the chief}} is inferred as its cause.
+
+[9022] **26.c17**
+
+[9034] The effect [consisting] of the great principle etc., produced from the three-constituent chief, is in part similar to prakṛti [the cause] and in part similar to the modification—since in the world the effect in the form of a son is seen [to be] of both sorts. And that effect is existent (sat), not non-existent, not [both] existent-and-non-existent, not inexpressible; for in [case of] utter non-existence, oil would arise even from sand-grains, and the other two positions are simply self-contradictory. {{pradhāna|The chief}}, termed "unmanifest," is independent, all-pervading, and eternal; the effect, termed "manifest," is dependent, non-pervading, and non-eternal. The puruṣa is independent, all-pervading, and eternal.
+
+[9762] **26.c18**
+
+[9774] {{pradhāna|The chief}} is the cause of the three worlds, and it is one, by economy [of explanation]. At the time of dissolution, the effect [consisting] of the great principle etc. dissolves into the chief. And that chief consists of sattva, rajas, and tamas. {{prakṛti|Nature}} is the state of equilibrium of the three constituents. The chief is unconscious, but the {{puruṣa|Self}} is conscious—distinct from both the manifest and the chief, pure, devoid of constituents. Since the effect generates pleasure, pain, and delusion, the sattva, rajas, and tamas that are its cause therein are to be inferred.
+
+[10382] **26.c19**
+
+[10394] And it is observed, respectively, that a passionate woman generates pleasure, pain, and delusion in [her] husband, [her] co-wife, and a paramour. So too in the three-constituent effect: when, on account of [a person's] unseen [merit], sattva becomes preponderant, then, overpowering rajas and tamas, it generates its own effect, pleasure. Likewise when rajas becomes preponderant, then, overpowering sattva and tamas, it generates its own effect, pain. And when tamas becomes preponderant, then, overpowering sattva and rajas, it generates its own effect, delusion.
+
+[10961] **26.c20**
+
+[10973] Suffering is threefold, by the distinction of internal, elemental, and divine. To explain: therein, the internal is of two forms, bodily and mental. The bodily, then, is fever, dysentery, and the like, caused by disorder of wind, bile, and phlegm; the mental is that born of separation from the dear, union with the undesired, and so forth. The elemental is occasioned by the fourfold class of beings: it arises from animals, birds, beasts, humans, reptiles, gnats, lice, bedbugs, and stationary [beings]—[that is,] from the womb-born, egg-born, sweat-born, and sprout-born. That which arises from heaven (dyu) is "divine"; what is produced with reference to it is the divine [suffering], born of cold, heat, wind, rain, and the fall of thunderbolts.
+
+[11725] **26.c21**
+
+[11737] As assembled threads [produce] a cloth, so {{pradhāna|the chief}}, consisting of an aggregate of constituents, generates the effect [consisting] of the great principle etc. And just as water from the sky, though of one taste, on falling into a pond and the like comes to have another taste through contact with the pond etc., so too, from the single-formed chief, gods and the rest become, in turn, happy, suffering, and utterly deluded.
+
+[12176] **26.c22**
+
+[12188] Thus, through the predominance of sattva and the indifference of rajas and tamas, the gods are utterly happy; through the predominance of rajas and the indifference of sattva and tamas, humans are utterly suffering; through the predominance of tamas and the indifference of sattva and rajas, animals are utterly deluded. The aggregate [consisting] of the great principle etc. presupposes an enjoyer, because it is an object of enjoyment, like a couch. The aggregate [consisting] of the great principle etc. is dependent on another, because it is unconscious, like a garland. Thus the {{puruṣa|Self}} is inferred. And it is many, because of the difference, for each [individual], of births, deaths, and organs.
+
+[12899] **26.c23**
+
+[12911] This is the meaning: if there were but one Self, then at the death of one, all would die; at the birth of one, all would be born; at the defect of one's organs, all would have defective organs. But it is not so observed; therefore [the Self is] many. From correct knowledge whose sphere is the twenty-five principles, the {{kaivalya|isolation}} of the puruṣa comes about. And that [is] "otherness"—that is to say, [the puruṣa's] difference from {{pradhāna|the chief}} and the rest.
+
+[13394] **26.c24**
+
+[13406] From non-discrimination [comes] transmigration; from discrimination, {{kaivalya|isolation}}. In effect, [this amounts to] acceptance of the doctrine of non-apprehension (akhyāti-vāda). For this very reason the cognition "this is silver" is not [an] error, but rather a pair of cognitions undistinguished both in their own form and in [their] object. The conclusion is: for whomever the object of the silver-cognition "this is silver" is of such-and-such a kind, the world is for him just of that kind.
+
+[13909] **26.c25**
+
+[13921] For this very reason, transformation (pariṇāma)—as characterized by the definition "the real, essential becoming-otherwise of a thing"—is accepted [for prakṛti, not for puruṣa]. And that {{puruṣa|Self}} is not many, one per body, because it is unchanging. In truth it is a non-agent, indifferent like one liberated, like a witness. Sattva, rajas, and tamas are [both] agents and [the deeds] done. Though a non-agent, the puruṣa is treated [in common usage] as if an agent—just as a non-thief, seized along with thieves, [is treated as] a thief. Because [it is] not distinct from the constituents, prakṛti is the agent, not the puruṣa.
+
+[14557] **26.c26**
+
+[14569] The puruṣa, which has the power of seeing [but] is devoid of the power of action, [enters into] conjunction with {{pradhāna|the chief}} in order to see the chief, [in all its extent] down to the great principle, the [other] elements, and so on. And the chief, which is devoid of the power of seeing [but] has the power of action, [enters into] conjunction with the puruṣa for the sake of [its] liberation; when, through the distinctness of the puruṣa, knowledge of the manifest, the unmanifest, and the puruṣa has arisen, the liberation of the chief comes about [i.e. it ceases to act].
+
+[15157] **26.c27**
+
+[15169] [Objection:] "Liberation is the experience of eternal bliss." [Reply:] [That is] unsound, since experience too is caught up in the discrimination of eternal and non-eternal. Nor can one say that the human goal is just the breaking of some veil—of nescience and the like—over [an experience] whose sphere is eternal bliss; for [then] the experience of bliss itself would be the human goal, and because, consciousness being eternal, even a veil [over it] is impossible. As for the śruti and smṛti [passages speaking] of supreme bliss in liberation, they are merely the conventional idiom of the scriptures on liberation.
+
+[15789] **26.c28**
+
+[15801] [Verse:] "There is only suffering, no pleasure—since it [pleasure] is [merely] apprehended [as] the relief of one tormented by suffering, [where] the designation 'pleasure' is applied. Suffering is the craving for sensual pleasure; pleasure is remembered as [merely] the passing-away of suffering."
+
+[16101] **26.c29**
+
+[16113] By such smṛti [passages], the cessation of suffering alone is conventionally [termed] "pleasure." The Sāṃkhyasūtra too [says]: "the cessation of suffering is [only] secondary," and "the praise of release [as bliss] is for the dull-witted." The attainment of bliss is a secondary liberation that occurs in the world of brahman; thereafter, when both {{pradhāna|the chief}} and the puruṣa have accomplished their purpose, their disjunction occurs, like the [parting of the] union of the blind man and the lame man.
+
+[16627] **26.c30**
+
+[16639] To explain: one was lame and the other blind. Both, travelling on a dangerous road with a great caravan, were by fate abandoned by their kinsmen; lacking respectively the power of movement and the power of sight, they joined together for the sake of [the one] seeing and [the other] moving. So the lame man was mounted on the shoulder of the blind man, and the blind man walks by the path shown by him, while the lame man walks [too], being mounted on the blind man's shoulder. Afterwards, once each has reached his own country, having accomplished their purpose, they part.
+
+[17215] **26.c31**
+
+[17227] And so {{pradhāna|the chief}}, having brought about the liberation of the puruṣa, desists. The puruṣa neither engages nor desists. The puruṣa is the seer and the enjoyer; enjoyment is characterized by [its] terminating in consciousness, not [by its] consisting in absorption in action. And that puruṣa transmigrates through beginningless non-discrimination; through hearing the true scriptures and the grace of a teacher, free of doubt, when {{vivekajñāna|discriminative knowledge}} has arisen, it is liberated. From the conjunction of prakṛti and puruṣa, transmigration is produced.
+
+[17812] **26.c32**
+
+[17824] As a child [is born] from the union of woman and man, so the great principle is born from prakṛti. From the great principle the I-maker is born; and it is threefold—modificatory (vaikārika), elemental (bhūtādi), and energetic (taijasa). The modificatory is the sāttvika; the elemental is the tāmasa; the energetic is the rājasa. Therein, from the modificatory I-maker the eleven organs and their presiding deities are born; from the elemental I-maker the subtle elements are born; from the energetic I-maker [both] the group of eleven organs and the pentad of subtle elements are born.
+
+[18411] **26.c33**
+
+[18423] [Objection:] "Since these two groups are respectively born from the modificatory and the elemental I-maker, how can [their] re-origination [from the energetic] be spoken of?" If [you ask] this, then hear.
+
+[18629] **26.c34**
+
+[18641] When, overpowering rajas and tamas, the sattva-constituent becomes preponderant, [and] the I-maker—receiving the name "modificatory," [being] of an inactive nature—taking the energetic I-maker as its helper, generates the eleven organs that are of an active nature, then those [organs], availing themselves of the pretext of [the energetic's] assistance, are said to be made by the energetic [I-maker] in its own form as well.
+
+[19069] **26.c35**
+
+[19081] And when, overpowering sattva and rajas, the elemental [I-maker], in which the tamas-constituent is preponderant, taking the form of the energetic I-maker as its helper, makes the pentad of subtle elements active in nature, then that pentad of subtle elements is said to be made by the energetic too, by its very assistance; from that active pentad of subtle elements the pentad of [gross] elements arises. This is the sequence of transformation: from the modificatory [come] the eleven organs, [and] from the elemental the pentad of subtle elements.
+
+[19633] **26.c36**
+
+[19645] This is the meaning: in the generation, respectively, of the two effects—the modificatory's and the elemental's, each active in nature—there is the assistance of the energetic I-maker; and it is precisely from the energetic I-maker's rendering of assistance that the effect characterized by these two groups is active in nature. The organs that generate cognition are the organs of knowledge: the organs of eye, ear, nose, tongue, and skin; and their objects are form, sound, smell, taste, and touch. "They perform action"—so [they are called] organs of action: voice, hands, feet, anus, and generative organ; and their objects are speech, taking, going, excretion, and delight.
+
+[20325] **26.c37**
+
+[20337] The mind is [both] an organ of knowledge and an organ of action, since it [forms the] volition for the functioning both of the organs of knowledge and of the organs of action; hence the mind is of both natures. The mind too is all-pervading, since it is the substrate of the latent impressions of merit and demerit; the inner organ, one per {{puruṣa|Self}}, is eternal, like ākāśa. Nor can one say that the unseen [merit] and the rest are simply attributes of prakṛti [in general]; for [then] there would be the over-extension [absurdity] that the unseen [merit] etc. residing in one [person] would produce pleasure, pain, and so on in another.
+
+[20983] **26.c38**
+
+[20995] And it [the inner organ] cannot be atomic; for then the simultaneous direct intuition of everything, in its full extent, by yogins would be impossible. Nor can it be said that for yogins the relation [to objects] is just the merit born of yoga; for when [intuition] is accounted for by the ordinary relations—conjunction, inherence in what is conjoined, and so forth—there is no warrant for positing another mode of contact, [and there would be] prolixity (gaurava) and mutual deviation. And in positing a sub-class within the [several kinds of] direct intuition, [there would be] confusion of classes and excessive prolixity.
+
+[21623] **26.c39**
+
+[21635] In the yogic view, what is brought about by the merit born of yoga and the rest is merely the breaking of the veil called tamas over the inner organ, [which is itself] capable of grasping all objects—since it is established that in deep sleep tamas obstructs [its] functioning. Nor can the inner organ be of merely intermediate magnitude, for [then], being destroyed at dissolution, it could not serve as the substrate of the unseen [merit] etc. Hence, by elimination, the inner organ is established as just all-pervading. This is stated:
+
+[22175] **26.c40**
+
+[22187] [Verse:] "The mind-ether (cittākāśa), the consciousness-ether (cidākāśa), and the [physical] ether as the third—know the consciousness-ether to be the most void of the [other] two, O fair-faced one."
+
+[22388] **26.c41**
+
+[22400] [Objection:] "Granted this; [yet] even if, given the all-pervadingness of the inner organ, the obtaining of a delimited operation is accounted for by the veil, [its] going to other worlds and the like is not accounted for. For this very reason the Sāṃkhyasūtra [says]: 'the mind is not all-pervading, because it is an instrument,' or 'because of the scripture [speaking] of its going.' Moreover, if so, then by economy it would be more fitting to posit a veil over consciousness alone; for what purpose is an all-pervading inner organ posited, [only] for a veil obstructing knowledge to be posited over it?"
+
+[23009] **26.c42**
+
+[23021] To this it is replied: The scripture [speaking] of going is accounted for—as in the case of the Self, so too in the case of the inner organ—through the limiting adjunct of the breath, the organs, and so on, [and] from the duality of the inner organ as cause-form and effect-form. The going of the effect-inner-organ is accounted for even of itself; and the duality of the inner organ as cause-form and effect-form must be accepted by the Sāṃkhyas too, since otherwise—if [the inner organ] were effect only—the Sāṃkhyasūtra '[the qualities] beginning with merit are attributes of the inner organ' would be inexplicable,
+
+[23641] **26.c43**
+
+[23653] and—if [it were] eternal only—the sūtra [speaking] of the origination of the great principle and the rest would be inexplicable. As for the claim that it is fitting to posit a veil over consciousness alone—that is not fitting; for over immutable (kūṭastha) consciousness a veil in the form of an obstruction to knowledge is impossible. Nor can it be said that the very connection of consciousness with an object is to be posited as the obstruction, in the form of a reflection and the like; for even so the seeing of the Self would be unaccountable, since without the channel of an organ, the connection of [consciousness] with itself, in the form of a reflection and the like in itself, is impossible.
+
+[24357] **26.c44**
+
+[24369] Moreover, the inner organ being established as the substrate of wish, volition, and so on, the pots and the like seen internally in dream and the like are also posited as its transformations, since it is fitting that cause and effect be co-referential. And thus [the inner organ], transformed into the shapes of pots etc., appears in consciousness, [and] precisely through non-separation from that, the external pot and the like appears; hence a veil that obstructs just such a transformation is fitting there [in the inner organ]. Furthermore, by the observation of the veiling of the external organ, the inner veil too is inferred to reside in the organ; and the unveiled-ness of the Self [is established] by śruti and smṛti.
+
+[25098] **26.c45**
+
+[25110] [Objection:] "Given the all-pervadingness of the inner organ, how can it be an effect?" [Reply:] No [difficulty]; for just as all-pervading ether-prakṛti has [as effect] the delimited transformation in the form of effect-ether, so too the inner-organ-prakṛti, through admixture with another constituent, has the delimited transformation in the form of the [effect-]inner-organ; and this is accepted on the authority of śruti and smṛti. So much by way of indication.
+
+[25577] **26.c46**
+
+[25589] The object of the mind is volition. These eleven [organs] are born from the modificatory I-maker—so it was said. The {{puruṣa|Self}} apprehends the object reflected in the intellect. This is stated: "the puruṣa is conscious of the object present in the intellect; 'I shall perform [my] duty'—[such] determination is the mark of the intellect. Virtue, knowledge, dispassion, lordliness—this [tetrad belongs] to the sāttvika intellect; the opposite—non-dispassion and the rest—is tāmasa."
+
+[26077] **26.c47**
+
+[26089] The world is pervaded by just the twenty-five principles, neither fewer nor more. Just as the [flow of] milk is for the sake of the calf's nourishment, so too the activity of {{pradhāna|the chief}}, [though] unconscious, is altogether fitting for the sake of the liberation of the {{puruṣa|Self}}.
+
+[26388] **26.c48**
+
+[26400] The {{liṅgaśarīra|subtle body}}, however, is the aggregate of eighteen—intellect, I-maker, mind, the [five] organs of knowledge, the [five] organs of action, and the five subtle elements. Within the twenty-three principles, excluding the five [gross] elements, and merging the I-maker into the intellect, the [resulting] seventeen[-fold aggregate] is termed the subtle body, since, like fuel for fire, it is the locus of the manifestation of the Self.
+
+[26853] **26.c49**
+
+[26865] And that [subtle body], having arisen at the beginning of creation for all puruṣas, persists until the dissolution of prakṛti; and it is by it alone that the transmigration of living beings here in this world and the next occurs. The breath (prāṇa) is but a distinct function of the intellect, and so is not specified separately from the subtle body. And the five subtle elements are the support of that subtle body—like [the wall is the support] of a painting—since, without a support, the exceedingly subtle [body] could not go to other worlds.
+
+[27413] **26.c50**
+
+[27425] And this {{liṅgaśarīra|subtle body}} arises first as one alone, [serving] as the limiting adjunct of the Self-existent (svayambhū)—like his gross body, called the Cosmic Form (virāṭ), to be described [below]. From it, then, the individual subtle bodies—the limiting adjuncts of individual souls, being portions of it—are divided off, like a son's subtle body from a father's subtle body. This is stated by the author of the sūtras: "distinction of individuals [arises] from distinction of action." And it is stated by Manu too [1.16]:
+
+[27961] **26.c51**
+
+[27973] [Manu 1.16:] "Having placed the subtle parts of these six [organs] of immeasurable power into [his own] self-portions, he fashioned all beings."
+
+[28119] **26.c52**
+
+[28131] "Of the six" means the six organs [the five plus the mind], which stands for the entire subtle body. And so the meaning is: the Self-existent, having joined the subtle, minute parts of his own subtle body into [his] self-portions—the conscious portions of himself—created all living beings. [So much for] the subtle body.
+
+[28454] **26.c53**
+
+[28466] As for the origination of the gross body: within the tenfold-multiplied great principle [arises] the I-maker; within that, tenfold-multiplied, [arises] ether (vyoman); within that, tenfold-multiplied, [arises] air; within air, tenfold-multiplied, [arises] fire; within fire, tenfold-multiplied, [arises] water; within water, tenfold-multiplied, earth arises—and that very [earth] is the seed of the gross body. That same earth-form seed is transformed into the form of an egg; and within that egg-form, tenfold-multiplied, earth-envelope, the gross body of the Self-existent, consisting of the fourteen worlds, arises from his mere volition. By that very body the Self-existent is called {{liṅgaśarīra|Nārāyaṇa}}.
+
+[29181] **26.c54**
+
+[29193] This is stated by Manu [1.8] with reference to the Self-existent: "He, contemplating, desiring to create manifold beings from his own body, first created just the waters, [and] cast [his] seed into them."
+
+[29399] **26.c55**
+
+[29411] [Manu 1.9–11:] "That [seed] became a golden egg, radiant as the sun of a thousand rays; in it Brahmā himself was born, the grandsire of all the worlds. He, indeed, is the first embodied one; he is called the {{puruṣa|Person}}; the first agent of beings, Brahmā, came to be at the beginning."
+
+[29704] **26.c56**
+
+[29716] [Manu 1.10:] "The waters are called 'nārā,' for the waters are the offspring of Nara; since they were his first abode (ayana), he is therefore remembered as 'Nārāyaṇa'"—and so forth.
+
+[29900] **26.c57**
+
+[29912] And precisely because the individual puruṣas are divided off from that primal {{puruṣa|Person}}, and because at the end they dissolve back into that very [one], he alone is spoken of in śruti and smṛti as "the one Self." Hence, [this being meant] by way of [conventional] usage, there is no contradiction with the śruti and smṛti [passages] such as "Nārāyaṇa alone is the Self of all beings."
+
+[30306] **26.c58**
+
+[30318] And so that Nārāyaṇa, possessed of the Cosmic Form (virāṭ), having created upon Sumeru—which occupies the place of the pericarp of the lotus of his navel—the Self-existent called the Four-faced [Brahmā], by means of him created also the other individual embodied beings, down to the stationary [ones]. This is stated:
+
+[30637] **26.c59**
+
+[30649] "Together with those effects and causes arisen from his body, the {{kṣetrajña|field-knowers}} were born from the limbs of that wise one."
+
+[30788] **26.c60**
+
+[30800] As for what is heard—that the Four-faced [Brahmā] manifests from the navel-lotus, ears, eyes, and so on of Nārāyaṇa who reclines on Śeṣa—that is to be understood [as occurring] only in the daily creations, by the distinction of cosmic ages (kalpas). For it is only in the daily dissolutions that the gods, having entered and become one with the body of Nārāyaṇa and slept, manifest [again] from him who reclines on Śeṣa, in the sequence beginning with the Four-faced—not in the primal creations; for [his] reclining, in a sportive embodiment, [occurs] only in the daily dissolution.
+
+[31384] **26.c61**
+
+[31396] Thus, in brief, the twenty-four principles, their creation and dissolution, and [their] purpose have been stated. Therein, whatever arises from whatever, its persistence is precisely by the replenishing [from that source]; and therefore its dissolution too occurs into that very [source]. And so [it is said] in the Bhārata:
+
+[31722] **26.c62**
+
+[31734] [Mahābhārata:] "Whatever principle arises from whatever, that dissolves back into it; [the principles] dissolve in reverse order and arise in forward [successive] order."
+
+[31906] **26.c63**
+
+[31918] And these transformations of the twenty-four principles—in the form of creation, persistence, and dissolution—[being] gross, have been displayed for the sake of discriminating the immutable {{puruṣa|Self}}. Other, subtle [transformations] of theirs, [occurring] at every instant, are also remembered:
+
+[32220] **26.c64**
+
+[32232] [Verse:] "The constituent parts [of things], constantly being consumed [and renewed], come to be and cease to be by Time, whose velocity is imperceptible; owing to [their] subtlety, this is not apprehended."
+
+[32441] **26.c65**
+
+[32453] Hence every insentient thing is, in the highest sense, declared to be always non-existent [as an abiding entity]. And therefore, becoming dispassionate toward it, the {{puruṣa|Self}} alone, which is real in the highest sense, is to be beheld by those who fear suffering. This is stated:
+
+[32741] **26.c66**
+
+[32753] [Verse:] "Sprung from the seed of the unmanifest, made of the trunk that is the intellect, the great [tree], whose boughs are the great I-maker, whose hollows are the sprouting organs,
+
+[32939] **26.c67**
+
+[32951] [Verse:] whose main branches are the great elements and whose lesser branches are the particulars, ever-leafed, ever-blossoming, bearing the rise of auspicious and inauspicious fruit,
+
+[33136] **26.c68**
+
+[33148] [Verse:] the livelihood of all beings—[this is] the eternal brahman-tree. And having truly known this, and having [cut it] with the supreme sword of knowledge, [and] attaining imperishability, one abandons death and birth."
+
+[33373] **26.c69**
+
+[33385] This is stated: "The organs and the objects of the organs do not, indeed, [any longer] approach [him]; and the embodied one, bereft of [his] organs, no longer merits a [new] body. Therefore, from all-pervading passion (rāga) all creatures are born."
+
+[33636] **26.c70**
+
+[33648] Even in the absence of particular passion in hell and the like, because general passion is present, passion is the co-operating factor [with] action. In the [scriptural passage], with regard to the commencement of the poison-shaped [bondage], "that very attached [subtle body] goes along with [its] action"—[and] "the marker (liṅga) is the mind, to which [the soul] is attached"—it is established in the śruti that it is general attachment, called the latent impression of objects, born of self-conceit, passion, hatred, and so on, that is the co-operating factor in the poison-shaped commencement of birth and the rest.
+
+[34270] **26.c71**
+
+[34282] From the smṛti: "Upon whatever the embodied one fixes [his] mind entirely with [his] thought—whether from affection, from hatred, or even from [its] quality—he attains conformity to that very [thing]."
+
+[34485] **26.c72**
+
+[34497] [Verse:] "This one, his senses turned [inward], awakened by the mirror that is the teacher, clearly perceived the modification [of prakṛti] as other than himself, unstable, [imposed on him] through delusion.
+
+[34706] **26.c73**
+
+[34718] [Verse:] Then [thinking], 'I am not this prakṛti, for this is of a turbid nature; I am of a pure, awakened nature'—knowing thus, he abandons it.
+
+[34864] **26.c74**
+
+[34876] [Verse:] Thus, when the Self is recollected as pure [and distinct] from body, organs, and so on, this whole [prakṛti] with its modifications is virtually cast off, like a [shed] skin." [The reading 'tyak taprāyā' is to be corrected to 'tyaktaprāyā'.]
+
+[35128] **26.c75**
+
+[35140] [Objection:] "The {{avidyā|nescience}} that has the form of the cognition of [the] Self in the non-Self—how can it be destroyed by discriminative knowledge whose qualificand is the Self, given the difference of mode and so forth [between them]?" [Reply:] No; for such nescience is destroyed by the discrimination whose qualificand is the Self, by way of the discrimination whose qualificand is the non-Self.
+
+[35549] **26.c76**
+
+[35561] And the non-conceptual (nirvikalpaka) knowledge of the Self that arises through yoga becomes a cause of liberation only by way of {{vivekajñāna|discriminative knowledge}}, not directly—because it does not [itself] remove nescience. For it is the cognition "I am fair, an agent, happy, suffering," and the like, that is nescience—established by śruti, smṛti, and reasoning to be the cause of the calamity of transmigration; and what removes it is precisely the {{vivekakhyāti|discriminative discernment}} of the form "I am not fair," and the like—since, [the two having] the same object, there is opposition [only] by way of [the latter's] being a cognition of the absence of the grasped, qualified by the mode "absence of the grasped." Otherwise, even the non-conceptual [knowledge] of one liberated would have to be opposed to the cognition "this is silver."
+
+[36422] **26.c77**
+
+[36434] Furthermore, since opposition to the cognition of the grasped is necessarily [present] in the aforesaid cognition of absence, the power of non-conceptual cognition to remove error is not posited separately, [as that would entail] prolixity.
+
+[36676] **26.c78**
+
+[36688] Moreover, by the śruti "Now therefore the instruction: not thus, not thus (neti neti)... for there is nothing higher than this 'not thus'... [there is no] other supreme [reality]," and so on, it is declared that there is no teaching higher than the teaching of discrimination.
+
+[36966] **26.c79**
+
+[36978] [Gītā 13.34:] "Those who thus know, with the eye of knowledge, the difference between the field and the {{kṣetrajña|knower of the field}}, and the liberation of beings from prakṛti—they go to the supreme."
+
+[37185] **26.c80**
+
+[37197] —and by these Gītā statements it is declared that {{vivekajñāna|discriminative knowledge}} alone is the cause of liberation. Hence discriminative knowledge alone, by [its] direct removal of nescience, is the cause of liberation.
+
+[37427] **26.c81**
+
+[37439] But the direct intuition of the isolated Self [attained] through yoga brings about the apprehension of the absence of the attributes belonging to the limiting adjuncts and the difference [of the Self] from those adjuncts, by way of the [yogic] non-apprehension of what is fit [to be apprehended]; and from that [follows] the removal of nescience. By this [it is shown that] the knowledge of equality in all beings, and the knowledge of the Self's being the Self of all, and the like—sung of in śruti and smṛti—are, in all the systems, to be regarded as ancillary to discriminative knowledge alone.
+
+[38038] **26.c82**
+
+[38050] —since the other [forms of] knowledge do not directly remove self-conceit. In the Brahma-mīmāṃsā [Vedānta], however, this is the distinction: that [they] are ancillary to the discrimination of the supreme Self; whereas in the Sāṃkhya teaching [they] are ancillary to the discrimination of the [individual] Self in general. So much by way of indication.
+
+[38404] **26.c83**
+
+[38416] But the {{vivekakhyāti|discriminative discernment}} simply destroys nescience; it is not [merely] an obstruction [that allows] error to recur, as in the case of one who sees the discrimination of shell from silver—[for in that worldly case] error is revived through the abundance of faults such as cataract, desire, and so on [in the illustration]. And here, in the conceit of [the] Self in the non-Self, the fault is just the beginningless latent impression, agreed upon by all the orthodox—since in the conceit of one just born no other fault is apprehended. When that latent impression of false knowledge is uprooted by the firm impression produced by the succession of discriminative discernments, then alone is one said to be established in the direct intuition of discrimination. Before that, necessarily, through a trace of the latent impression, some portion of falsity still appears in the Self; but once that establishment in discriminative discernment has arisen, self-conceit can no longer occur, because the fault called the latent impression is [now] absent.
+
+[39490] **26.c84**
+
+[39502] If, however, the mutual reflection of intellect and {{puruṣa|Self}}, and the like, is held to be the fault [that is] the cause of non-discrimination, then the direct intuition of discrimination arises precisely by sublating that fault; hence it is not [again] a cause of error—for, on the strength of [its] result, that [fault] can be posited as a fault only when unaccompanied by the merit born of yoga.
+
+[39908] **26.c85**
+
+[39920] Although the grasping of discrimination in the form of the ultimate particular of the entities that are the counter-correlates of discrimination is not possible, nevertheless, because the general grasping of discrimination is possible by way of [shared characters such as] being-an-object-of-sight and being-subject-to-transformation, even in the absence of qualified [particular] knowledge of the entities such as prakṛti, {{vivekakhyāti|discriminative discernment}} in general is the cause of liberation. This is stated:
+
+[40444] **26.c86**
+
+[40456] [Verse:] "As the seer of a pot is [in every way] distinct from the pot, [being] in no way the pot, so the seer of the body is the embodied one—[discriminated] in the form 'I am not [the body],' and so on."
+
+[40663] **26.c87**
+
+[40675] As for [the śruti] "the Self, verily, is to be seen,"—here there is no [genuine] visibility of the Self; for although [the Self may be] pervaded by [a mental] function, it is not pervaded by [it] in the form of [being] a result. As for what is said even by the Buddhists—that the intellect, [though] experienced as possessing pleasure, pain, and so on, being self-luminous, is not pervaded by consciousness, just as the Vedāntins [say that] the Self, though experienced as "I," is not pervaded by the result called consciousness—that, being without proof, is to be disregarded.
+
+[41254] **26.c88**
+
+[41266] That [embodied being] arises in the creation [proceeding] from {{pradhāna|the chief}} and the rest. By the force of demerit it transmigrates among animals and the like; by the force of merit, among gods and the like. Precisely through non-knowledge of the [true] principles, [the subtle body,] tinged by merit and demerit, dissolves into the chief at the time of dissolution. Although the chief and the puruṣa are [both] all-pervading, it is prakṛti alone that effects the arrangement of the {{liṅgaśarīra|subtle body}}.
+
+[41788] **26.c89**
+
+[41800] The subtle body, augmented by the subtle atoms [and] the subtle elements, abides among humans and the like, like an actor: just as an actor, though one in his own form, takes on various forms by [changes of] costume, so the subtle body, entering within the womb, becomes an elephant, a woman, a man; [and likewise] there comes about the fivefold inversion (viparyaya) named darkness, delusion, great delusion, gloom, and blinding gloom.
+
+[42238] **26.c90**
+
+[42250] By merit [comes] the attainment of the higher worlds, such as that of Prajāpati; by demerit, the attainment of animals and the like; by ignorance, bondage; by the knowledge of the twenty-five principles, final release (apavarga). And that knowledge of the [true] principles, of such a kind, arises through hearing the scriptures from a teacher. To explain: distinct from {{pradhāna|the chief}} is the {{puruṣa|Self}}; distinct [from it] is the intellect, distinct the I-maker, distinct the subtle elements, the organs, and the five great elements.
+
+[42799] **26.c91**
+
+[42811] Every effect, though of the nature of the three constituents, is, with reference to the preponderant constituent, designated by the words "sāttvika" and so on. The conscious puruṣa, in the various wombs, is conscious of—i.e. experiences—the suffering wrought by old age and death; such is the meaning. So long as the {{liṅgaśarīra|subtle body}} is not made to cease by the knowledge of the [true] principles, so long does a new gross body arise and perish at each birth.
+
+[43283] **26.c92**
+
+[43295] Even in the absence of any purpose of its own, {{pradhāna|the chief}}—like a good friend, indifferent to any return of favour—undertakes the effect, [extending] from the great principle down to the [gross] elemental objects, for the {{puruṣa|Self}}'s enjoyment and liberation. {{prakṛti|Nature}}, having shown the intellect, the I-maker, and the rest [to be] distinct from the puruṣa, desists.
+
+[43690] **26.c93**
+
+[43702] Just as a dancing-girl, having shown to the audience the [performances] set to song and the like, with the [aesthetic] sentiments such as the erotic and the emotional states such as the comic, withdraws, her purpose accomplished—so too [is prakṛti]. Furthermore, prakṛti, [though] possessed of constituents, rendering service to the constituent-less {{puruṣa|Self}} who renders no service [in return]—by way of being the womb of the world, of the nature of pleasure, pain, and delusion, or by way of being the object [such as] sound and the rest, [and] by such services—afterwards reveals herself, [saying as it were] "I am other, you are other," and withdraws, like a good friend [who] desires no return of favour from the Self.
+
+[44433] **26.c94**
+
+[44445] Of creation, neither God (Īśvara) is the cause, nor [mere] nature (svabhāva), nor Time (kāla). Even Time, for the yogins, is of the nature of the instant (kṣaṇa) alone—not, as for the Naiyāyikas and Vaiśeṣikas, partless, eternal, and one like the Self, [posited] for [the sake of] economy. That very [instant], being delimited by this or that limiting adjunct, generates the usage [of temporal units] from the instant and the minute (muhūrta) up to the year. There is no separate category named "the instant."
+
+[44956] **26.c95**
+
+[44968] By the Sāṃkhyas it is laid down in the sūtra "space and time [arise] from ākāśa and the rest"; [hence] they hold that there is no separate category of Great Time (mahākāla) or instant and the like, but rather that ākāśa itself, qualified by limiting adjuncts, generates the usage [ranging] from the instant up to Great Time.
+
+[45294] **26.c96**
+
+[45306] But the yogin says that both these views are unsatisfactory; for by any [single] stable limiting adjunct, the usage of "the instant" is impossible [whether] from Great Time or from ākāśa. To explain: as the limiting adjunct for the instant-nature of Great Time or ākāśa, others hold the action of an atom and the like, delimited by conjunction with a posterior region, or some such other thing. To this it is said: if [the adjunct is] the action qualified by conjunction and the like—[then, being] merely the qualificand, the qualifier, and their relation—since the three are admitted by others to be stable, the usage of "the instant" is not possible by them.
+
+[45968] **26.c97**
+
+[45980] And if [the instant] is held to be something over and above those, [then] that is not Great Time or ākāśa; for, the usage of "the instant" being accounted for by that very [over-and-above instant], it would be pointless to posit that something else delimited by it is the cause of the usage of "the instant." And that instant, [being] unstable from [its] being qualified and so forth, is an exceedingly perishable particular transformation of prakṛti alone; hence there is no consequence of [its] being something over and above prakṛti and puruṣa.
+
+[46529] **26.c98**
+
+[46541] It is by particular accumulations of that very instant that the usage [of the units] beginning with the minute and the day-and-night, up to the [period of] two parārdhas, comes about; there is no partless Great Time, for there is no proof [of it]. The usage "today" and the like [is brought about] by the accumulation of instants alone; and the śruti and smṛti [passages speaking] of the eternity of Time refer to the eternity of the stream [of instants]. Therefore, by necessity, Time is of the nature of the instant alone; there is no partless Great Time, nor is ākāśa the cause of the usage of Time—rather, it is {{pradhāna|the chief}}.
+
+[47182] **26.c99**
+
+[47194] The {{puruṣa|Self}} is neither bound, nor liberated, nor does it transmigrate; rather, it is {{prakṛti|nature}} alone, having various substrates, that is so [bound, liberated, and transmigrating]. Thus all is consistent.
+
+[47416] **26.colophon**
+
+[47433] Thus is completed the Sāṃkhyatattvavivecana, composed by the illustrious Ṣimānandadīkṣita of Kānyakubja.

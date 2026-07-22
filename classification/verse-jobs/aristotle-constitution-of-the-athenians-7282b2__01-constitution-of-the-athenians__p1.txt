@@ -1,0 +1,77 @@
+WORK: Constitution of the Athenians  (slug: aristotle-constitution-of-the-athenians-7282b2)
+
+CHAPTER: 01-constitution-of-the-athenians
+
+
+
+[110563] 1. The law-courts the nine archons allot by tribes, and the secretary of the thesmothetae the tenth tribe.
+
+[110671] 2. There are ten entrances to the law-courts, one for each tribe, and twenty allotment-machines, two for each tribe, and a hundred boxes, ten for each tribe, and other boxes, into which are thrown the tickets of the jurors allotted, and two water-jars. And staves are set out at each entrance, as many as the jurors, and acorns are thrown into the water-jar equal in number to the staves, and on the acorns are inscribed letters of the alphabet from the eleventh, lambda, onward, as many as there are to be law-courts to be filled.
+
+[111204] 3. It is permitted to serve as juror to those over thirty years of age, all of them who do not owe money to the treasury or are without civic rights. If anyone serves who has no right, information is laid against him and he is brought into the law-court; and if he is convicted, the jurors impose on him in addition whatever he seems worthy to suffer or pay. If he is assessed in money, he must be imprisoned until he pays both the former debt for which he was informed against, and whatever the law-court imposes in addition.
+
+[111732] 4. Each juror has a boxwood ticket, inscribed with his own name, his father's, and that of his deme, and one letter of the alphabet up to kappa; for the jurors are distributed by tribes into ten parts, nearly equal in each letter.
+
+[111964] 5. When the thesmothete has allotted the letters that must be assigned to the law-courts, the attendant carries and sets on each law-court the letter allotted to it.
+
+[112131] 1. The ten boxes lie in front of the entrance for each tribe. On them are inscribed the letters up to kappa. When the jurors throw their tickets into the box on which is inscribed the same letter as is on their ticket, the attendant having shaken it, the thesmothete draws one ticket from each box.
+
+[112431] 2. This man is called the inserter, and he inserts the tickets from the box into the slot on which the same letter stands as on the box. He is chosen by lot, so that the same man inserting always may not work mischief. There are five slots in each of the allotment-machines.
+
+[112707] 3. When he has thrown in the dice, the archon allots the tribe by the allotment-machine. The dice are of bronze, black and white. As many jurors as must be allotted, so many white ones are thrown in, one for every five tickets, and the black ones in the same way. When he draws out the dice, the herald calls those allotted. The inserter too is in the number.
+
+[113068] 4. The man called and answering draws an acorn from the water-jar, and holding it out, showing the letter uppermost, he shows it first to the archon in charge. The archon, when he has seen it, throws his ticket into the box on which is inscribed the same letter as on the acorn, so that he may go into whichever court he is allotted to and not whichever he wishes, and so that it may not be possible to gather into a law-court whatever men one wishes.
+
+[113521] 5. There stand beside the archon as many boxes as there are to be law-courts to be filled, each having a letter, whichever is that allotted to each law-court.
+
+[113681] 1. He himself, having shown it again to the attendant, then goes inside the barrier. The attendant gives him a staff of the same colour as the law-court that has the same letter as is on the acorn, so that it shall be necessary for him to enter the law-court he is allotted to; for if he enters another, he is exposed by the colour of the staff.
+
+[114028] 2. For colours are inscribed on each of the law-courts on the lintel of the entrance. He, taking the staff, goes to the law-court of the same colour as the staff and having the same letter as is on the acorn. When he enters, he receives a token from the public official allotted to this office.
+
+[114324] 3. Then they who have entered in this way deposit the acorn and the staff in the law-court. To those who fail in the allotment the inserters give back their tickets.
+
+[114491] 4. The public attendants from each tribe hand over the boxes, one to each law-court, in which are the names of the tribe that are in each of the law-courts. They hand these over to those allotted to give back the tickets to the jurors in each law-court by number, so that from these, calling the men, they may give back the pay.
+
+[114821] 1. When all the law-courts are full, there are placed in the first of the law-courts two allotment-machines and bronze dice, on which are inscribed the colours of the law-courts, and other dice on which are inscribed the names of the offices. Two of the thesmothetae chosen by lot throw the dice in separately, one the colours into the one allotment-machine, the other the names of the offices into the other. Whichever office is allotted first is proclaimed by the herald to use the first allotted law-court, the second the second, and likewise the others, so that no office may know beforehand which it will use, but each shall use whichever it is allotted.
+
+[115482] 2. When the jurors have come and been assigned to each court, the official in charge in each law-court draws one ticket from each box, so that there may be ten, one from each tribe, and throws these tickets into another empty box; and of these he allots the first five, one for the water, the other four for the votes, so that no one may pack either the man over the water or those over the votes, and that there may be no mischief about these.
+
+[115928] 3. The other five who fail in the allotment receive from these men the notice telling where they shall receive their pay and where each tribe shall stand in the law-court itself, when they have judged, so that, separating into groups, they may receive it in small numbers and not, many being crowded into the same place, get in one another's way.
+
+[116276] 1. Having done these things, they call in the cases: when they try private cases, the private ones, four in number, one from each of the kinds of suit appointed by law, and the litigants swear to speak to the point itself; but when they try public ones, the public, and they try one only.
+
+[116566] 2. There are water-clocks having little tubes for outflow, into which they pour the water by which the speeches in the suits must be measured. Eleven measures are given for suits over five thousand drachmas, and three for the second speech; seven measures for those up to five thousand, and two; five for those within one thousand, and two; six measures for the adjudications, in which there is no second speech afterward.
+
+[116990] 3. The man allotted to the water stops up the tube whenever the secretary is about to read out a law or a testimony or some such thing. But when the suit is one for the day measured out, then he does not stop it for him, but equal water is given to the accuser and the defendant.
+
+[117271] 4. The measuring is done according to the days of the month Posideon . . . they use . . . the jurors . . . into which each . . . for they were eager . . . to thrust out the . . . taking water . . . there are, the one for the prosecutors, the other for the defendants.
+
+[117540] 5. In the . . . he separated by the vote . . . The day is divided according to the . . . of the suits to which is attached imprisonment or death or exile or loss of civic rights or confiscation of property . . . what one must suffer or pay.
+
+[117782] 1. Most of the law-courts are of . . . ; but when the public indictments must be brought before one, two law-courts come together in the Heliaea. The . . . into one of fifteen hundred and one, three law-courts.
+
+[117994] 2. The ballots are of bronze, having a tube in the middle, half of them pierced through, half of them solid. Those allotted to the ballots, when the speeches have been made, give to each of the jurors two ballots, one pierced and one solid, openly to be seen by the litigants, so that no one may take both solid or both pierced. The man allotted to this office takes away the tokens, in return for which each man casting his vote receives a bronze token marked with the figure three (for in giving it back he receives three), so that all may vote; for no one can get the token unless he votes.
+
+[118589] 3. There are two amphorae set in the law-court, one of bronze, the other of wood, divided so that no one may secretly slip in ballots, into which the jurors cast their votes; the bronze one is the valid one, the wooden the invalid, the bronze one having a lid pierced so that only the ballot itself can pass through, that the same man may not throw in two.
+
+[118947] 4. When the jurors are about to vote, the herald proclaims first, if the litigants object to the testimonies; for it is not possible to object once they have begun to vote. Then again he proclaims: "The pierced ballot for the one who spoke first, the solid for the one who spoke last." The juror, taking the ballots from the stand, pressing the tube of the ballot and not showing the litigants either the pierced or the solid, casts the valid one into the bronze amphora, the invalid into the wooden.
+
+[119449] 1. When all have voted, the attendants take the valid amphora and empty it onto a board having as many holes as there are ballots, so that these may lie out clearly and be easily counted, and the pierced and the solid be plain to the litigants. Those allotted to the ballots count them on the board, the solid separately, the pierced separately. And the herald proclaims the number of the ballots, the pierced for the prosecutor, the solid for the defendant; and whichever has the more, this man wins, but if they are equal, the defendant.
+
+[119990] 2. Then again they assess, if assessment is needed, voting in the same way, giving back the token and taking again a staff. The assessment is by half a measure of water for each side. When the matters required by the laws have been adjudged for them, they receive their pay in the portion allotted to each.
+
+[120298] 1. Epitome of Heraclides 1: (From the work of Heraclides on the Constitutions.) The Athenians at first used kingship. When Ion settled among them, then for the first time they were called Ionians. Pandion, having reigned after Erechtheus, divided the rule among his sons; and these continued at strife with one another.
+
+[120619] 2. Harpocration: Apollo Patroös, the Pythian. This is a title of the god, there being many others. The Athenians honour Apollo in common as Patroös, from Ion; for when this man settled in Attica, as Aristotle says, the Athenians were called Ionians, and Apollo was named Patroös to them.
+
+[120908] 3. Scholiast on Aristophanes, Birds 1537: The Athenians honour Apollo as Patroös, since Ion the polemarch of the Athenians was born of Apollo and Creusa, the wife of Xuthus. Cf. Bekker, Anecdota 291 = Scholiast on Plato, Euthydemus 302 C.
+
+[121148] 1. Plutarch, Theseus 25: Wishing still further to increase the city, Theseus invited all on equal terms, and the proclamation "Come hither, all you peoples" is said to have been Theseus's, when he was establishing a kind of commonwealth of all. Yet he did not allow the democracy to become disordered or confused by an indiscriminate multitude pouring in; rather he was the first to set apart separately the eupatrids and the farmers and the craftsmen, and assigning to the eupatrids the knowledge of divine things and the providing of the magistrates and the being teachers of the laws and expounders of sacred and holy things, he established the other citizens, as it were, on an equal footing—the eupatrids being thought to excel in reputation, the farmers in usefulness, the craftsmen in number. That he was the first to incline toward the masses, as Aristotle says, and gave up sole rule, Homer too seems to bear witness, in the catalogue of ships naming the Athenians alone "the people."
+
+[122143] 1. Scholiast on Plato, Axiochus 371 D (cf. Moeris, Atticist p. 193. 16) on the word "clansman": Aristotle says that, the whole multitude at Athens being divided into farmers and craftsmen, their tribes were four, and of each of the tribes there were three parts, which they call thirds and brotherhoods, and of each of these there were thirty clans, and each clan was composed of thirty men. These men, then, who were arranged into the clans, they call clansmen.
+
+[122607] 2. Patmos Lexicon p. 152 Sakkelion, on "clansman": In old times the multitude of the Athenians, before Cleisthenes arranged the matters concerning the tribes, was divided into farmers and craftsmen. And their tribes were four, and each of the tribes had three parts, which they called brotherhoods and thirds. And each of these was composed of thirty clans, and each clan had thirty men, those arranged into the clans, who were called clansmen, from whom the priesthoods belonging to each were allotted—for instance the Eumolpidae and the Heralds and the Eteobutadae—as Aristotle records in the Constitution of the Athenians, saying thus: "Their tribes were divided into four, in imitation of the seasons in the year, and each of the tribes was divided into three parts, so that there might be twelve parts in all, just as the months in the year, and they were called thirds and brotherhoods; and into the brotherhood thirty clans were arranged, just as the days into the month, and the clan was of thirty men."
+
+[123620] 3. Harpocration, on "third": A third is the third part of the tribe; for this is divided into three parts, thirds and races and brotherhoods, as Aristotle says in the Constitution of the Athenians.
+
+[123819] 1. Vatican Scholiast on Euripides, Hippolytus 11: Aristotle records that Theseus, having gone to Scyros on a reconnaissance—reasonably, because of his kinship with Aegeus—died, thrust down from the rocks, Lycomedes who was reigning there having taken fright . . . The Athenians after the Persian Wars, in accordance with an oracle, took up his bones from there and buried them.

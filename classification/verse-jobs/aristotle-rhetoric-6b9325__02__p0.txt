@@ -1,0 +1,669 @@
+WORK: Rhetoric  (slug: aristotle-rhetoric-6b9325)
+
+CHAPTER: 02
+
+
+
+[0] Such then are the materials which we must employ in exhorting and dissuading, praising and blaming, accusing and defending, and such are the opinions and propositions that are useful to produce conviction in these circumstances; for they are the subject and source of enthymemes, which are specially suitable to each class (so to say) of speeches.
+
+[349] But since the object of Rhetoric is judgement—for judgements are pronounced in deliberative rhetoric and judicial proceedings are a judgement—it is not only necessary to consider how to make the speech itself demonstrative and convincing, but also that the speaker should show himself to be of a certain character and should know how to put the judge into a certain frame of mind.
+
+[731] For it makes a great difference with regard to producing conviction—especially in demonstrative, and, next to this, in forensic oratory—that the speaker should show himself to be possessed of certain qualities and that his hearers should think that he is disposed in a certain way towards them; and further, that they themselves should be disposed in a certain way towards him.
+
+[1110] In deliberative oratory, it is more useful that the orator should appear to be of a certain character, in forensic, that the hearer should be disposed in a certain way; for opinions vary, according as men love or hate, are wrathful or mild, and things appear either altogether different, or different in degree; for when a man is favorably disposed towards one on whom he is passing judgement, he either thinks that the accused has committed no wrong at all or that his offence is trifling; but if he hates him, the reverse is the case. And if a man desires anything and has good hopes of getting it, if what is to come is pleasant, he thinks that it is sure to come to pass and will be good; but if a man is unemotional or not hopeful it is quite the reverse.
+
+[1872] For the orator to produce conviction three qualities are necessary; for, independently of demonstrations, the things which induce belief are three in number. These qualities are good sense, virtue, and goodwill; for speakers are wrong both in what they say and in the advice they give, because they lack either all three or one of them.
+
+[2210] For either through want of sense they form incorrect opinions, or, if their opinions are correct, through viciousness they do not say what they think, or, if they are sensible and good, they lack goodwill; wherefore it may happen that they do not give the best advice, although they know what it is. These qualities are all that are necessary, so that the speaker who appears to possess all three will necessarily convince his hearers.
+
+[2647] The means whereby he may appear sensible and good must be inferred from the classification of the virtues; for to make himself appear such he would employ the same means as he would in the case of others. We must now speak of goodwill and friendship in our discussion of the emotions.
+
+[2933] The emotions are all those affections which cause men to change their opinion in regard to their judgements, and are accompanied by pleasure and pain; such are anger, pity, fear, and all similar emotions and their contraries.
+
+[3160] And each of them must be divided under three heads; for instance, in regard to anger, the disposition of mind which makes men angry, the persons with whom they are usually angry, and the occasions which give rise to anger. For if we knew one or even two of these heads, but not all three, it would be impossible to arouse that emotion. The same applies to the rest. Just as, then, we have given a list of propositions in what we have previously said, we will do the same here and divide the emotions in the same manner.
+
+[3681] Let us then define anger as a longing, accompanied by pain, for a real or apparent revenge for a real or apparent slight, affecting a man himself or one of his friends, when such a slight is undeserved.
+
+[3885] If this definition is correct, the angry man must always be angry with a particular individual (for instance, with Cleon, but not with men generally), and because this individual has done, or was on the point of doing, something against him or one of his friends; and lastly, anger is always accompanied by a certain pleasure, due to the hope of revenge to come. For it is pleasant to think that one will obtain what one aims at; now, no one aims at what is obviously impossible of attainment by him, and the angry man aims at what is possible for himself. Wherefore it has been well said of anger, that Far sweeter than dripping honey down the throat it spreads in men's hearts.
+
+[4566] for it is accompanied by a certain pleasure, for this reason first, and also because men dwell upon the thought of revenge, and the vision that rises before us produces the same pleasure as one seen in dreams.
+
+[4777] Slighting is an actualization of opinion in regard to something which appears valueless; for things which are really bad or good, or tend to become so, we consider worthy of attention, but those which are of no importance or trifling we ignore. Now there are three kinds of slight: disdain, spitefulness, and insult.
+
+[5095] For he who disdains, slights, since men disdain those things which they consider valueless and slight what is of no account. And the spiteful man appears to show disdain; for spitefulness consists in placing obstacles in the way of another's wishes, not in order that any advantage may accrue to him who spites, but to prevent any accruing to the other. Since then he does not act in this manner from self-interest, it is a slight; for it is evident that he has no idea that the other is likely to hurt him, for in that case he would be afraid of him instead of slighting him; nor that he will be of any use to him worth speaking of, for in that case his thought would be how to become his friend.
+
+[5794] Similarly, he who insults another also slights him; for insult consists in causing injury or annoyance whereby the sufferer is disgraced, not to obtain any other advantage for oneself besides the performance of the act, but for one's own pleasure; for retaliation is not insult, but punishment.
+
+[6090] The cause of the pleasure felt by those who insult is the idea that, in ill-treating others, they are more fully showing superiority. That is why the young and the wealthy are given to insults; for they think that, in committing them, they are showing their superiority. Dishonor is characteristic of insult; and one who dishonors another slights him; for that which is worthless has no value, either as good or evil. Hence Achilles in his wrath exclaims: He has dishonored me, since he keeps the prize he has taken for himself, and [has treated me] like a dishonored vagrant, as if being angry for these reasons. Now men think that they have a right to be highly esteemed by those who are inferior to them in birth, power, and virtue, and generally, in whatever similar respect a man is far superior to another; for example, the rich man to the poor man in the matter of money, the eloquent to the incompetent speaker in the matter of oratory, the governor to the governed, and the man who thinks himself worthy to rule to one who is only fit to be ruled. Wherefore it has been said: Great is the wrath of kings cherished by Zeus, and Yet it may be that even afterwards he cherishes his resentment, for kings are resentful in consideration of their superior rank.
+
+[7356] Further, men are angry at slights from those by whom they think they have a right to expect to be well treated; such are those on whom they have conferred or are conferring benefits, either themselves, or some one else for them, or one of their friends; and all those whom they desire, or did desire, to benefit.
+
+[7670] It is now evident from these considerations what is the disposition of those who are angry, with whom they are angry, and for what reasons. Men are angry when they are pained, because one who is pained aims at something; if then anyone directly opposes him in anything, as, for instance, prevents him from drinking when thirsty, or not directly, but seems to be doing just the same; and if anyone goes against him or refuses to assist him, or troubles him in any other way when he is in this frame of mind, he is angry with all such persons.
+
+[8213] Wherefore the sick, the necessitous, [those at war], the lovesick, the thirsty, in a word, all who desire something and cannot obtain it, are prone to anger and easily excited, especially against those who make light of their present condition; for instance, the sick man is easily provoked in regard to his illness, the necessitous in regard to his poverty, the warrior in regard to warlike affairs, the lover in regard to love affairs, and so with all the rest; for the passion present in his mind in each case paves the way for his anger.
+
+[8756] Again, men are angry when the event is contrary to their expectation, for the more unexpected a thing is, the more it pains; just as they are overjoyed if, contrary to expectation, what they desire comes to pass. From this it is obvious what are the seasons, times, states of mind, and conditions of age in which we are easily moved to anger; and what are the various times, places, and reasons, which make us more prone to anger in proportion as we are subject to their influence.
+
+[9239] Such then are the dispositions of those who are easily roused to anger. As to the objects of their anger, men are angry with those who ridicule, mock, and scoff at them, for this is an insult. And with those who injure them in ways that are indications of insult. But these acts must be of such a kind that they are neither retaliatory nor advantageous to those who commit them; for if they are, they then appear due to gratuitous insult.
+
+[9679] And men are angry with those who speak ill of or despise things which they themselves consider of the greatest importance; for instance, if a man speaks contemptuously of philosophy or of personal beauty in the presence of those who pride themselves upon them; and so in all other cases.
+
+[9968] But they are far more angry if they suspect that they do not possess these qualities, either not at all, or not to any great extent, or when others do not think they possess them. For when they feel strongly that they do possess those qualities which are the subject of mockery, they pay no heed to it.
+
+[10272] And they are more angry with those who are their friends than with those who are not, for they think that they have a right to be treated well by them rather than ill.
+
+[10441] And they are angry with those who have been in the habit of honoring and treating them with respect, if they no longer behave so towards them; for they think that they are being treated with contempt by them, otherwise they would treat them as before.
+
+[10694] And with those who do not return their kindnesses nor requite them in full; and with those who oppose them, if they are inferiors; for all such appear to treat them with contempt, the latter as if they regarded them as inferiors, the former as if they had received kindnesses from inferiors.
+
+[10987] And they are more angry with those who are of no account, if they slight them; for anger at a slight was assumed to be felt at those who ought not to behave In such a manner; for inferiors ought not to slight their superiors.
+
+[11214] And they are angry with friends, if they neither speak well of nor treat them well, and in an even greater degree, if they do the opposite. And if they fail to perceive that they want something from them, as Plexippus in Antiphon's tragedy reproached Meleager; for failure to perceive this is a sign of slight; since, when we care for people, these things are noticed.
+
+[11584] And they are angry with those who rejoice, or in a general way are cheerful when they are unfortunate; for this is an indication of enmity or slight. And with those who do not care if they pain them; whence they are angry with those who bring bad news.
+
+[11838] And with those who listen to the tale of their faults, or look on them with indifference, for they resemble slighters or enemies;
+
+[11969] for friends sympathize and all men are pained to see their own faults exposed. And further, with those who slight them before five classes of persons: namely, their rivals, those whom they admire, those by whom they would like to be admired, those whom they respect, or those who respect them; when anyone slights them before these, their anger is greater.
+
+[12327] They are also angry with those who slight such persons as it would be disgraceful for them not to defend, for instance, parents, children, wives, and dependents. And with those who are ungrateful, for the slight is contrary to all sense of obligation.
+
+[12580] And with those who employ irony, when they themselves are in earnest;
+
+[12651] for irony shows contempt. And with those who do good to others, but not to them; for not to think them worthy of what they bestow upon all others also shows contempt.
+
+[12819] Forgetfulness also is a cause of anger, such as forgetting names, although it is a mere trifle, since even forgetfulness seems a sign of slight; for it is caused by indifference, and indifference is a slight.
+
+[13029] We have thus stated at one and the same time the frame of mind and the reasons which make men angry, and the objects of their anger. It is evident then that it will be necessary for the speaker, by his eloquence, to put the hearers into the frame of mind of those who are inclined to anger, and to show that his opponents are responsible for things which rouse men to anger and are people of the kind with whom men are angry.
+
+[13456] And since becoming angry is the opposite of becoming mild, and anger of mildness, we must determine the state of mind which makes men mild, towards whom they become mild, and the reasons which make them so.
+
+[13664] Let us then define making mild as the quieting and appeasing of anger.
+
+[13736] If then men are angry with those who slight them, and slight is voluntary, it is evident that they are mild towards those who do none of these things, or do them involuntarily, or at least appear to be such;
+
+[13945] and towards those who intended the opposite of what they have done, and all who behave in the same way to themselves, for no one is likely to slight himself.
+
+[14104] And towards those who admit and are sorry for a slight; for finding as it were satisfaction in the pain the offenders feel at what they have done, men cease to be angry. Evidence of this may be seen in the punishment of slaves; for we punish more severely those who contradict us and deny their offence, but cease to be angry with those who admit that they are justly punished. The reason is that to deny what is evident is disrespect, and disrespect is slight and contempt;
+
+[14580] anyhow, we show no respect for those for whom we entertain a profound contempt. Men also are mild towards those who humble themselves before them and do not contradict them, for they seem to recognize that they are inferior; now, those who are inferior are afraid, and no one who is afraid slights another. Even the behavior of dogs proves that anger ceases towards those who humble themselves, for they do not bite those who sit down.
+
+[15017] And men are mild towards those who are serious with them when they are serious, for they think they are being treated seriously, not with contempt.
+
+[15166] And towards those who have rendered them greater services. And towards those who want something and deprecate their anger, for they are humbler.
+
+[15312] And towards those who refrain from insulting, mocking, or slighting anyone, or any virtuous man, or those who resemble themselves.
+
+[15444] And generally speaking, one can determine the reasons that make for mildness by their opposites. Thus, men are mild towards those whom they fear or respect, as long as they feel so towards them, for it is impossible to be afraid and angry at the same time.
+
+[15702] And against those who have acted in anger they either feel no anger or in a less degree, for they do not seem to have acted from a desire to slight. For no one slights another when angry, since slight is free from pain, but anger is accompanied by it.
+
+[15955] And men are not angry with those who usually show respect for them.
+
+[16024] It is also evident that those are mild whose condition is contrary to that which excites anger, as when laughing, in sport, at a feast, in prosperity, in success, in abundance, and, in general, in freedom from pain, in pleasure which does not imply insult, or in virtuous hope. Further, those whose anger is of long standing and not in its full flush, for time appeases anger.
+
+[16402] Again, vengeance previously taken upon one person appeases anger against another, even though it be greater. Wherefore Philocrates, when someone asked him why he did not justify himself when the people were angry with him, made the judicious reply, Not yet. When then? When I see someone accused of the same offence; for men grow mild when they have exhausted their anger upon another, as happened in the case of Ergophilus. For although the Athenians were more indignant with him than with Callisthenes, they acquitted him, because they had condemned CalIicrates to death on the previous day.
+
+[16997] Men also grow mild towards those whom they pity; and if an offender has suffered greater evil than those who are angry would have inflicted, for they have an idea that they have as it were obtained reparation.
+
+[17208] And if they think that they themselves are wrong and deserve what they suffer, for anger is not aroused against what is just; they no longer think that they are being treated otherwise than they should be, which, as we have said, is the essence of anger. Wherefore we should inflict a preliminary verbal chastisement, for even slaves are less indignant at punishment of this kind.
+
+[17590] And men are milder if they think that those punished will never know that the punishment comes from them in requital for their own wrongs; for anger has to do with the individual, as is clear from our definition. Wherefore it is justly said by the poet: Tell him that it is Odysseus, sacker of cities, as if Polyphemus would not have been punished, had he remained ignorant who had blinded him and for what. So that men are not angry either with any others who cannot know who punishes them, or with the dead, since they have paid the last penalty and can feel neither pain nor anything else, which is the aim of those who are angry. So then, in regard to Hector, Homer, when desirous of restraining the anger of Achilles against a dead man, well says: For it is senseless clay that he outrages in his wrath.
+
+[18400] It is evident, then, that men must have recourse to these topics when they desire to appease their audience, putting them into the frame of mind required and representing those with whom they are angry as either formidable or deserving of respect, or as having rendered them great services, or acted involuntarily, or as exceedingly grieved at what they have done.
+
+[18766] Let us now state who are the persons that men love or hate, and why, after we have defined love and loving.
+
+[18875] Let loving, then, be defined as wishing for anyone the things which we believe to be good, for his sake but not for our own, and procuring them for him as far as lies in our power. A friend is one who loves and is loved in return, and those who think their relationship is of this character consider themselves friends.
+
+[19196] This being granted, it necessarily follows that he is a friend who shares our joy in good fortune and our sorrow in affliction, for our own sake and not for any other reason. For all men rejoice when what they desire comes to pass and are pained when the contrary happens, so that pain and pleasure are indications of their wish.
+
+[19527] And those are friends who have the same ideas of good and bad, and love and hate the same persons, since they necessarily wish the same things; wherefore one who wishes for another what he wishes for himself seems to be the other's friend.
+
+[19768] We also like those who have done good either to us or to those whom we hold dear, if the services are important, or are cordially rendered, or under certain circumstances, and for our sake only; and all those whom we think desirous of doing us good.
+
+[20019] And those who are friends of our friends and who like those whom we like, and those who are liked by those who are liked by us;
+
+[20148] and those whose enemies are ours, those who hate those whom we ourselves hate, and those who are hated by those who are hated by us; for all such persons have the same idea as ourselves of what is good, so that they wish what is good for us, which, as we said, is the characteristic of a friend.
+
+[20445] Further, we like those who are ready to help others in the matter of money or personal safety; wherefore men honor those who are liberal and courageous and just.
+
+[20608] And such we consider those who do not live upon others; the sort of men who live by their exertions, and among them agriculturists, and, beyond all others, those who work with their own hands.
+
+[20802] And the self-controlled, because they are not likely to commit injustice;
+
+[20877] and those who are not busybodies, for the same reason. And those with whom we wish to be friends, if they also seem to wish it; such are those who excel in virtue and enjoy a good reputation, either generally, or amongst the best, or amongst those who are admired by us or by whom we are admired.
+
+[21175] Further, those who are agreeable to live or spend the time with; such are those who are good-tempered and not given to carping at our errors, neither quarrelsome nor contentious, for all such persons are pugnacious, and the wishes of the pugnacious appear to be opposed to ours.
+
+[21455] And those are liked who are clever at making or taking a joke, for each has the same end in view as his neighbor, being able to take a joke and return it in good taste.
+
+[21625] And those who praise our good qualities, especially those which we ourselves are afraid we do not possess;
+
+[21733] those who are neat in their personal appearance and dress, and clean-living;
+
+[21811] those who do not make our errors or the benefits they have conferred a matter of reproach, for both these are inclined to be censorious;
+
+[21949] those who bear no malice and do not cherish the memory of their wrongs, but are easily appeased; for we think that they will be to ourselves such as we suppose them to be to others;
+
+[22132] and those who are neither given to slander, or eager to know the faults of their neighbors nor our own, but only the good qualities;
+
+[22266] for this is the way in which the good man acts. And those who do not oppose us when we are angry or occupied, for such persons are pugnacious; and those who show any good feeling towards us; for instance, if they admire us, think us good men, and take pleasure in our company, especially those who are so disposed towards us in regard to things for which we particularly desire to be either admired or to be thought worthy or agreeable.
+
+[22704] And we like those who resemble us and have the same tastes, provided their interests do not clash with ours and that they do not gain their living in the same way; for then it becomes a case of Potter [being jealous] of potter.
+
+[22933] And those who desire the same things, provided it is possible for us to share them; otherwise the same thing would happen again.
+
+[23063] And those with whom we are on such terms that we do not blush before them for faults merely condemned by public opinion, provided that this is not due to contempt;
+
+[23228] and those before whom we do blush for faults that are really bad. And those whose rivals we are, or by whom we wish to be emulated, but not envied,—these we either like or wish to be friends with them.
+
+[23431] And those whom we are ready to assist in obtaining what is good, provided greater evil does not result for ourselves.
+
+[23550] And those who show equal fondness for friends, whether absent or present; wherefore all men like those who show such feeling for the dead.
+
+[23690] In a word, men like those who are strongly attached to their friends and do not leave them in the lurch; for among good men they chiefly like those who are good friends.
+
+[23861] And those who do not dissemble with them; such are those who do not fear to mention even their faults. (For, as we have said, before friends we do not blush for faults merely condemned by public opinion; if then he who blushes for such faults is not a friend, he who does not is likely to be one). And men like those who are not formidable, and in whom they have confidence; for no one likes one whom he fears.
+
+[24273] Companionship, intimacy, kinship, and similar relations are species of friendship. Things that create friendship are doing a favor, and doing it unasked, and not making it public after doing it; for then it seems to have been rendered for the sake of the friend, and not for any other reason.
+
+[24567] As for enmity and hatred, it is evident that they must be examined in the light of their contraries. The causes which produce enmity are anger, spitefulness, slander.
+
+[24735] Anger arises from acts committed against us, enmity even from those that are not; for if we imagine a man to be of such and such a character, we hate him. Anger has always an individual as its object, for instance Callias or Socrates, whereas hatred applies to classes; for instance, every one hates a thief or informer. Anger is curable by time, hatred not; the aim of anger is pain, of hatred evil; for the angry man wishes to see what happens; to one who hates it does not matter. Now, the things which cause pain are all perceptible, while things which are especially bad, such as injustice or folly, are least perceptible; for the presence of vice causes no pain. Anger is accompanied by pain, but hatred not; for he who is angry suffers pain, but he who hates does not. One who is angry might feel compassion in many cases, but one who hates, never; for the former wishes that the object of his anger should suffer in his turn, the latter, that he should perish.
+
+[25705] It is evident, then, from what we have just said, that it is possible to prove that men are enemies or friends, or to make them such if they are not; to refute those who pretend that they are, and when they oppose us through anger or enmity, to bring them over to whichever side may be preferred. The things and persons that men fear and in what frame of mind, will be evident from the following considerations.
+
+[26118] Let fear be defined as a painful or troubled feeling caused by the impression of an imminent evil that causes destruction or pain; for men do not fear all evils, for instance, becoming unjust or slow-witted, but only such as involve great pain or destruction, and only if they appear to be not far off but near at hand and threatening, for men do not fear things that are very remote; all know that they have to die, but as death is not near at hand, they are indifferent.
+
+[26592] If then this is fear, all things must be fearful that appear to have great power of destroying or inflicting injuries that tend to produce great pain. That is why even the signs of such misfortunes are fearful, for the fearful thing itself appears to be near at hand, and danger is the approach of anything fearful.
+
+[26909] Such signs are the enmity and anger of those able to injure us in any way; for it is evident that they have the wish, so that they are not far from doing so.
+
+[27068] And injustice possessed of power is fearful, for the unjust man is unjust through deliberate inclination.
+
+[27175] And outraged virtue when it has power, for it is evident that it always desires satisfaction, whenever it is outraged, and now it has the power.
+
+[27321] And fear felt by those able to injure us in any way, for such as these also must be ready to act.
+
+[27420] And since most men are rather bad than good and the slaves of gain and cowardly in time of danger, being at the mercy of another is generally fearful, so that one who has committed a crime has reason to fear his accomplices as likely to denounce or leave him in the lurch.
+
+[27694] And those who are able to ill-treat others are to be feared by those who can be so treated; for as a rule men do wrong whenever they can. Those who have been, or think they are being, wronged, are also to be feared, for they are ever on the look out for an opportunity. And those who have committed some wrong, when they have the power, since they are afraid of retaliation, which was assumed to be something to be feared. And those who are our rivals for the same things, whenever it is impossible to share them, for men are always contending with such persons.
+
+[28258] And those who are feared by those who are stronger than we are, for they would be better able to injure us, if they could injure those stronger than ourselves and those whom those who are stronger than ourselves are afraid of, for the same reason.
+
+[28507] And those who have overthrown those who are stronger than us and those who attack those who are weaker, for they are either already to be feared, or will be, when they have grown stronger.
+
+[28697] And among those whom we have wronged, or are our enemies or rivals,we should fear not the hot-tempered or outspoken, but those who are mild, dissemblers, and thorough rascals; for it is uncertain whether they are on the point of acting, so that one never knows whether they are far from it.
+
+[28989] All things that are to be feared are more so when, after an error has once been committed, it is impossible to repair it, either because it is absolutely impossible, or no longer in our power, but in that of our opponents; also when there is no possibility of help or it is not easy to obtain. In a word, all things are to be feared which, when they happen, or are on the point of happening, to others, excite compassion. These are, so to say, nearly all the most important things which are to be feared and which men fear. Let us now state the frame of mind which leads men to fear.
+
+[29574] If then fear is accompanied by the expectation that we are going to suffer some fatal misfortune, it is evident that none of those who think that they will suffer nothing at all is afraid either of those things which he does not think will happen to him, or of those from whom he does not expect them, or at a time when he does not think them likely to happen. It therefore needs be that those who think they are likely to suffer anything should be afraid, either of the persons at whose hands they expect it, or of certain things, and at certain times.
+
+[30129] Those who either are, or seem to be, highly prosperous do not think they are likely to suffer anything; wherefore they are insolent, contemptuous, and rash, and what makes them such is wealth, strength, a number of friends, power. It is the same with those who think that they have already suffered all possible ills and are coldly indifferent to the future, like those who are being beaten to death; for it is a necessary incentive to fear that there should remain some hope of being saved from the cause of their distress. A sign of this is that fear makes men deliberate, whereas no one deliberates about things that are hopeless.
+
+[30764] So that whenever it is preferable that the audience should feel afraid, it is necessary to make them think they are likely to suffer, by reminding them that others greater than they have suffered, and showing that their equals are suffering or have suffered, and that at the hands of those from whom they did not expect it, in such a manner and at times when they did not think it likely.
+
+[31154] Now, since we have made clear what fear and fearful things are, and the frame of mind in each case which makes men fear, one can see from this what confidence is, what are the things that give it, and the frame of mind of those who possess it; for confidence is the contrary of fear and that which gives confidence of that which causes fear, so that the hope of what is salutary is accompanied by an impression that it is quite near at hand, while the things to be feared are either non-existent or far off.
+
+[31663] Confidence is inspired by the remoteness of fearful things, or by the nearness of things that justify it. If remedies are possible, if there are means of help, either great or numerous, or both; if we have neither committed nor suffered wrong if we have no rivals at all, or only such as are powerless, or, if they have power, are our friends, or have either done us good or have received it from us; if those whose interests are the same as ours are more numerous, or stronger, or both.
+
+[32152] We feel confidence in the following states of mind: if we believe that we have often succeeded and have not suffered, or if we have often been in danger and escaped it; for men are unaffected by fear in two ways, either because they have never been tested or have means of help; thus, in dangers at sea, those who have never experienced a storm and those who have means of help as the result of experience have confidence as to the future.
+
+[32593] We are also reassured, when a thing does not inspire fear in our equals, our inferiors, or those to whom we think ourselves superior; and we think ourselves superior to those whom we have conquered, either themselves or their superiors or equals.
+
+[32841] And if we think we possess more or more considerable advantages, such as make their possessors formidable; such are abundance of money, strength of body, friends, territory, military equipments, either all or the most important. And if we have never done wrong to anyone, or only to a few, or not to such as are to be feared;
+
+[33168] and, generally, if it is well with us in regard to the gods, especially as to intimations from signs and oracles, and everything else of the kind; for anger inspires confidence, and it is the wrong that we suffer and not that which we inflict upon others that causes anger, and the gods are supposed to assist those who are wronged.
+
+[33502] Lastly, we feel confidence when, at the beginning of any undertaking, we do not expect disaster either in the present or future, or hope for success. Such are the things that inspire fear or confidence.
+
+[33706] What are the things of which men are ashamed or the contrary, and before whom, and in what frame of mind, will be clear from the following considerations.
+
+[33862] Let shame then be defined as a kind of pain or uneasiness in respect of misdeeds, past, present, or future, which seem to tend to bring dishonor; and shamelessness as contempt and indifference in regard to these same things.
+
+[34088] If this definition of shame is correct, it follows that we are ashamed of all such misdeeds as seem to be disgraceful, either for ourselves or for those whom we care for. Such are all those that are due to vice, such as throwing away one's shield or taking to flight, for this is due to cowardice; or withholding a deposit, for this is due to injustice.
+
+[34443] And illicit relations with any persons, at forbidden places or times, for this is due to licentiousness.
+
+[34549] And making profit out of what is petty or disgraceful, or out of the weak, such as the indigent or dead; whence the proverb, to rob even a corpse, for this is due to base love of gain and stinginess.
+
+[34750] And to refuse assistance in money matters when we are able to render it, or to give less than we can; to accept assistance from those less able to afford it than ourselves;
+
+[34924] to borrow when anyone seems likely to ask for a loan, to ask for a loan from one who wants his money back, and asking for repayment from one who wants to borrow; to praise in order to seem to be asking for a loan, and when you have failed to obtain it to keep on asking; for all these are signs of stinginess.
+
+[35235] And to praise people when they are present, to overpraise their good qualities and to palliate the bad, to show excessive grief at another's grief when present, and all similar actions; for they are signs of flattery.
+
+[35454] And not to submit to toils, which those put up with who are older or live luxuriously or hold higher positions, or, generally speaking, are less fitted to do so; for all these are signs of effeminacy.
+
+[35656] To accept favors from another and often, and then to throw them in his teeth; for all these things are signs of littleness and abasement of soul.
+
+[35803] And to speak at great length about oneself and to make all kinds of professions, and to take the credit for what another has done; for this is a sign of boastfulness. Similarly, in regard to each of all the other vices of character, the acts resulting from them, their signs, and the things which resemble them, all these are disgraceful, and should make us ashamed.
+
+[36171] It is also shameful not to have a share in the honorable things which all men, or all who resemble us, or the majority of them, have a share in. By those who resemble us I mean those of the same race, of the same city, of the same age, of the same family, and, generally speaking, those who are on an equality; for then it is disgraceful not to have a share, for instance, in education and other things, to the same extent. All these things are the more disgraceful, if the fault appears to be our own; for they are at once seen to be due rather to natural depravity if we ourselves are the cause of past, present, or future defects.
+
+[36806] And we are ashamed when we suffer or have suffered or are likely to suffer things which tend to ignominy and reproach; such are prostituting one's person or performing disgraceful actions, including unnatural lust. And of these actions those that promote licentiousness are disgraceful, whether voluntary or involuntary (the latter being those that are done under compulsion), since meek endurance and the absence of resistance are the result of unmanliness or cowardice.
+
+[37279] These and similar things are those of which men are ashamed.
+
+[37341] And since shame is an impression about dishonor, and that for its own sake and not for its results; and since no one heeds the opinion of others except on account of those who hold it, it follows that men feel shame before those whom they esteem.
+
+[37589] Now men esteem those who admire them and those whom they admire, those by whom they wish to be admired, those whose rivals they are, and whose opinion they do not despise.
+
+[37762] They desire to be admired by those, and admire those who possess anything good that is greatly esteemed, or from whom they urgently require something which it is in their power to give, as is the case with lovers.
+
+[37977] And they are rivals of those who are like them; and they give heed to the men of practical wisdom as likely to be truthful; such are the older and well educated.
+
+[38140] They are also more ashamed of things that are done before their eyes and in broad daylight; whence the proverb, The eyes are the abode of shame. That is why they feel more ashamed before those who are likely to be always with them or who keep watch upon them, because in both cases they are under the eyes of others.
+
+[38458] Men are also ashamed before those who are not open to the same accusations, for it is evident that their feelings are contrary. And before those who are not indulgent towards those who appear to err; for a man is supposed not to reproach others with what he does himself, so it is clear that what he reproaches them with is what he does not do himself.
+
+[38812] And before those who are fond of gossiping generally; for not to gossip about the fault of another amounts to not regarding it as a fault at all. Now those who are inclined to gossip are those who have suffered wrong, because they always have their eyes upon us; and slanderers, because, if they traduce the innocent, still more will they traduce the guilty. And before those who spend their time in looking for their neighbors' faults, for instance, mockers and comic poets; for they are also in a manner slanderers and gossips. And before those from whom they have never asked anything in vain, for they feel as if they were greatly esteemed. For this reason they feel ashamed before those who ask them for something for the first time, as never yet having lost their good opinion. Such are those who have recently sought their friendship (for they have only seen what is best in them, which is the point of the answer of Euripides to the Syracusans), or old acquaintances who know nothing against us.
+
+[39817] And men are ashamed not only of the disgraceful things we have spoken of, but also of indications of them, for instance, not only of sensual pleasures, but also of the indications of them; and not only of doing, but also of saying disgraceful things. Similarly, men are ashamed not only before those who have been mentioned, but also before those who will reveal their faults to them, such as their servants or friends.
+
+[40238] In a word, they are not ashamed either before those whose opinion in regard to the truth they greatly despise—for instance, no one feels shame before children or animals—or of the same things before those who are known to them and those who are not; before the former, they are ashamed of things that appear really disgraceful, before strangers, of those which are only condemned by convention.
+
+[40634] Men are likely to feel shame in the following situations; first, if there are any who are so related to them as those before whom we said that they feel shame. These, as we pointed out, are those who are admired by them or who admire them, or by whom they wish to be admired, or from whom they need some service, which they will not obtain if they lose their reputation. These, again, are either persons who directly see what is going on (just as Cydias, when haranguing the people about the allotment of the territory of Samos, begged the Athenians to picture to themselves that the Greeks were standing round them and would not only hear, but also see what they were going to decree); or neighbors; or those likely to be aware of what they say or do. That is why men do not like, when unfortunate, to be seen by those who were once their rivals, for rivalry presumes admiration.
+
+[41516] Men also feel shame when they are connected with actions or things which entail disgrace, for which either they themselves, or their ancestors, or any others with whom they are closely connected are responsible. In a word, men feel shame for those whom they themselves respect; such are those mentioned and those who have any relation to them, for instance, whose teachers or advisers they have been; similarly, when they are in rivalry with others who are like them;
+
+[41985] for there are many things which they either do or do not do owing to the feeling of shame which these men inspire.
+
+[42101] And they are more likely to be ashamed when they have to be seen and to associate openly with those who are aware of their disgrace. Wherefore the tragic poet Antiphon, when he was about to be flogged to death by order of Dionysius, seeing that those who were to die with him covered their faces as they passed through the gates, said, Why cover your faces? Is it because you are afraid that one of the crowd should see you tomorrow? Let this account of shame suffice; as for shamelessness, it is evident that we shall be able to obtain ample knowledge of it from the contrary arguments.
+
+[42690] The persons towards whom men feel benevolent, and for what reasons, and in what frame of mind, will be clear when we have defined what favor is.
+
+[42836] Let it then be taken to be the feeling in accordance with which one who has it is said to render a service to one who needs it, not in return for something nor in the interest of him who renders it, but in that of the recipient. And the favor will be great if the recipient is in pressing need, or if the service or the times and circumstances are important or difficult, or if the benefactor is the only one, or the first who has rendered it, or has done so in the highest degree.
+
+[43319] By needs I mean longings, especially for things the failure to obtain which is accompanied by pain; such are the desires, for instance, love; also those which arise in bodily sufferings and dangers, for when a man is in pain or danger he desires something. That is why those who help a man who is poor or an exile, even if the service be ever so small, are regarded with favor owing to the urgency and occasion of the need; for instance, the man who gave the mat to another in the Lyceum.
+
+[43809] It is necessary then, if possible, that the service should be in the same direction; if not, that it should apply to cases of similar or greater need.
+
+[43961] Since then it is evident on what occasions, for what reasons, and in what frame of mind a feeling of benevolence arises, it is clear that we must derive our arguments from this—to show that the one side either has been, or still is, in such pain or need, and that the other has rendered, or is rendering, such a service in such a time of need.
+
+[44306] It is evident also by what means it is possible to make out that there is no favor at all, or that those who render it are not actuated by benevolence; for it can either be said that they do, or have done so, for their own sake, in which case there is no favor; or that it was mere chance; or that they acted under compulsion; or that they were making a return, not a gift, whether they knew it or not; for in both cases it is an equivalent return, so that in this case also there is no favor.
+
+[44801] And the action must be considered in reference to all the categories; for if there is a favor it is so because of substance, quantity, quality, time, or place. And it denotes lack of goodwill, if persons have not rendered a smaller service, or if they have rendered similar, equal, or greater services to our enemies; for it is evident that they do not act for our sake in this case either. Or if the service was insignificant, and rendered by one who knew it; for no one admits that he has need of what is insignificant.
+
+[45324] Let this suffice for benevolence and the opposite. We will now state what things and persons excite pity, and the state of mind of those who feel it.
+
+[45475] Let pity then be a kind of pain excited by the sight of evil, deadly or painful, which befalls one who does not deserve it; an evil which one might expect to come upon himself or one of his friends, and when it seems near. For it is evident that one who is likely to feel pity must be such as to think that he, or one of his friends, is liable to suffer some evil, and such an evil as has been stated in the definition, or one similar, or nearly similar.
+
+[45931] Wherefore neither those who are utterly ruined, are capable of pity, for they think they have nothing more to suffer, since they have exhausted suffering; nor those who think themselves supremely fortunate, who rather are insolent. For if they think that all good things are theirs, it is clear that they think that they cannot possibly suffer evil, and this is one of the good things.
+
+[46318] Now those persons who think they are likely to suffer are those who have already suffered and escaped; the advanced in age, by reason of their wisdom and experience; and the weak, and those who are rather more timid; and the educated, for they reckon rightly;
+
+[46579] and those who have parents, children, or wives, for these are part of them and likely to suffer the evils of which we have spoken;
+
+[46711] and those who are not influenced by any courageous emotion, such as anger or confidence, for these emotions do not take thought of the future and those who are not in a wantonly insolent frame of mind, for they also take no thought of future suffering; but it is those who are between the two extremes that feel pity. Those who are not in great fear; for those who are panic-stricken are incapable of pity, because they are preoccupied with their own emotion.
+
+[47172] And men feel pity if they think that some persons are virtuous; for he who thinks that no one is will think that all deserve misfortune. And, generally speaking, a man is moved to pity when he is so affected that he remembers that such evils have happened, or expects that they may happen, either to himself or to one of his friends.
+
+[47507] We have stated the frame of mind which leads men to pity; and the things which arouse this feeling are clearly shown by the definition. They are all painful and distressing things that are also destructive, and all that are ruinous; and all evils of which fortune is the cause, if they are great.
+
+[47805] Things distressing and destructive are various kinds of death, personal ill-treatment and injuries, old age, disease, and lack of food.
+
+[47942] The evils for which fortune is responsible are lack of friends, or few friends (wherefore it is pitiable to be torn away from friends and intimates), ugliness, weakness, mutilation; if some misfortune comes to pass from a quarter whence one might have reasonably expected something good;
+
+[48231] and if this happens often; and if good fortune does not come until a man has already suffered, as when the presents from the Great King were not dispatched to Diopithes until he was dead. Those also are to be pitied to whom no good has ever accrued, or who are unable to enjoy it when it has.
+
+[48525] These and the like things, then, excite pity.
+
+[48572] The persons men pity are those whom they know, provided they are not too closely connected with them for if they are, they feel the same as if they themselves were likely to suffer. This is why Amasis is said not to have wept when his son was led to execution, but did weep at the sight of a friend reduced to beggary, for the latter excited pity, the former terror. The terrible is different from the pitiable, for it drives out pity, and often serves to produce the opposite feeling.
+
+[49059] Further, the nearness of the terrible makes men pity. Men also pity those who resemble them in age, character, habits, position, or family; for all such relations make a man more likely to think that their misfortune may befall him as well. For, in general, here also we may conclude that all that men fear in regard to themselves excites their pity when others are the victims.
+
+[49439] And since sufferings are pitiable when they appear close at hand, while those that are past or future, ten thousand years backwards or forwards, either do not excite pity at all or only in a less degree, because men neither expect the one nor remember the other, it follows that those who contribute to the effect by gestures, voice, dress, and dramatic action generally, are more pitiable; for they make the evil appear close at hand, setting it before our eyes as either future or past.
+
+[49929] And disasters that have just happened or are soon about to happen excite more pity for the same reason.
+
+[50034] Pity is also aroused by signs and actions, such as the dress of those who have suffered, and all such objects, and the words and everything else that concerns those who are actually suffering, for instance, at the point of death. And when men show themselves undaunted at such critical times it is specially pitiable; for all these things, because they come immediately under our observation, increase the feeling of pity, both because the sufferer does not seem to deserve his fate, and because the suffering is before our eyes.
+
+[50565] Now what is called indignation is the antithesis to pity; for the being pained at undeserved good fortune is in a manner contrary to being pained at undeserved bad fortune and arises from the same character. And both emotions show good character, for if we sympathize with and pity those who suffer undeservedly, we ought to be indignant with those who prosper undeservedly; for that which happens beyond a man's deserts is unjust, wherefore we attribute this feeling even to gods.
+
+[51048] It would seem that envy also is similarly opposed to pity, as being akin to or identical with indignation, although it is really different; envy also is indeed a disturbing pain and directed against good fortune, but not that of one who does not deserve it, but of one who is our equal and like. Now, all who feel envy and indignation must have this in common, that they are disturbed, not because they think that any harm will happen to themselves, but on account of their neighbor; for it will cease to be indignation and envy, but will be fear, if the pain and disturbance arise from the idea that harm may come to themselves from another's good fortune.
+
+[51707] And it is evident that these feelings will be accompanied by opposite feelings; for he who is pained at the sight of those who are undeservedly unfortunate will rejoice or will at least not be pained at the sight of those who are deservedly so; for instance, no good man would be pained at seeing parricides or assassins punished; we should rather rejoice at their lot, and at that of men who are deservedly fortunate; for both these are just and cause the worthy man to rejoice, because he cannot help hoping that what has happened to his like may also happen to himself.
+
+[52281] And all these feelings arise from the same character and their contraries from the contrary; for he who is malicious is also envious, since, if the envious man is pained at another's possession or acquisition of good fortune, he is bound to rejoice at the destruction or non-acquisition of the same. Wherefore all these emotions are a hindrance to pity, although they differ for the reasons stated; so that they are all equally useful for preventing any feeling of pity.
+
+[52753] Let us then first speak of indignation, the persons with whom men feel indignant, for what reasons, and in what frame of mind; and then proceed to the rest of the emotions.
+
+[52927] What we have just said will make matters clear. For if indignation is being pained at the sight of good fortune that is apparently undeserved, in the first place it is clear that it is not possible to feel indignation at all good things;
+
+[53166] for no one will be indignant with a man who is just or courageous, or may acquire any virtue (for one does not feel pity in the case of opposites of those qualities), but men are indignant at wealth, power, in a word, at all the advantages of which good men are worthy. [And those who possess natural advantages, such as noble birth, beauty, and all such things.]
+
+[53531] And since that which is old seems closely to resemble that which is natural, it follows that, if two parties have the same good, men are more indignant with the one who has recently acquired it and owes his prosperity to it; for the newly rich cause more annoyance than those who have long possessed or inherited wealth. The same applies to offices of state, power, numerous friends, virtuous children, and any other advantages of the kind. And if these advantages bring them some other advantage, men are equally indignant; for in this case also the newly rich who attain to office owing to their wealth cause more annoyance than those who have long been wealthy; and similarly in all other cases of the same kind.
+
+[54248] The reason is that the latter seem to possess what belongs to them, the former not; for that which all along shows itself in the same light suggests a reality, so that the former seem to possess what is not theirs.
+
+[54464] And since every kind of good is not suitable to the first comer, but a certain proportion and suitability are necessary (as for instance beautiful weapons are not suitable to the just but to the courageous man, and distinguished marriages not to the newly rich but to the nobly born), if a virtuous man does not obtain what is suitable to him, we feel indignant. Similarly, if the inferior contends with the superior, especially among those engaged in the same pursuit,—whence the saying of the poet, He avoided battle with Ajax, son of Telamon, for Zeus was indignant with him, when he would fight with a better man;
+
+[55083] or, if the pursuit is not the same, wherever the inferior contends with the superior in anything whatever, as for instance, the musician with the just man; for justice is better than music.
+
+[55274] From this it is clear, then, with whom men are indignant and for what reasons; they are these or of such a kind.
+
+[55388] Men are prone to indignation, first, if they happen to deserve or possess the greatest advantages, for it is not just that those who do not resemble them should be deemed worthy of the same advantages;
+
+[55591] secondly, if they happen to be virtuous and worthy, for they both judge correctly and hate what is unjust.
+
+[55699] And those who are ambitious and long for certain positions, especially if they are those which others, although unworthy, have obtained.
+
+[55837] And, in general, those who think themselves worthy of advantages of which they consider others unworthy, are inclined to be indignant with the latter and because of these advantages. This is why the servile and worthless and unambitious are not inclined to indignation; for there is nothing of which they think themselves worthy.
+
+[56168] It is evident from this what kind of men they are whose ill fortunes, calamities, and lack of success must make us rejoice or at least feel no pain; for the opposites are clear from what has been said. If then the speaker puts the judges into such a frame of mind and proves that those who claim our pity (and the reasons why they do so) are unworthy to obtain it and deserve that it should be refused them, then pity will be impossible.
+
+[56607] It is equally clear for what reason, and of whom, and in what frame of mind, men are envious, if envy is a kind of pain at the sight of good fortune in regard to the goods mentioned; in the case of those like themselves; and not for the sake of a man getting anything, but because of others possessing it. For those men will be envious who have, or seem to have, others like them.
+
+[56989] I mean like in birth, relationship, age, moral habit, reputation, and possessions. And those will be envious who possess all but one of these advantages; that is why those who attempt great things and succeed are envious, because they think that every one is trying to deprive them of their own.
+
+[57286] And those who are honored for some special reason, especially for wisdom or happiness. And the ambitious are more envious than the unambitious. And those who are wise in their own conceit, for they are ambitious of a reputation for wisdom; and, in general, those who wish to be distinguished in anything are envious in regard to it. And the little-minded, because everything appears to them to be great.
+
+[57691] The advantages which excite envy have already been stated. Nearly all the actions or possessions which make men desire glory or honor and long for fame, and the favors of fortune, create envy, especially when men long for them themselves, or think that they have a right to them, or the possession of which makes them slightly superior or slightly inferior.
+
+[58050] And it is evident whom men envy, for it has just been stated by implication. They envy those who are near them in time, place, age, and reputation, whence it was said, Kinship knows how to envy also;
+
+[58251] and those with whom they are in rivalry, who are those just spoken of; for no man tries to rival those who lived ten thousand years ago, or are about to be born, or are already dead; nor those who live near the Pillars of Hercules; nor those who, in his own opinion or in that of others, are either far inferior or superior to him; and the people and things which one envies are on the same footing.
+
+[58652] And since men strive for honor with those who are competitors, or rivals in love, in short, with those who aim at the same things, they are bound to feel most envious of these; whence the saying, Potter [being jealous] of potter.
+
+[58883] And those who have succeeded with difficulty or have failed envy those whose success has been rapid.
+
+[58985] And those whose possessions or successes are a reproach to themselves, and these, too, are those near or like them; for it is clear that it is their own fault that they do not obtain the same advantage, so that this pains and causes envy.
+
+[59225] And those who either have or have acquired what was naturally theirs or what they had once acquired; this is why an older man is envious of a younger one.
+
+[59381] Those who have spent much envy those who have only spent little to obtain the same thing.
+
+[59472] And it is clear at what things and persons the envious rejoice, and in what frame of mind; for, as when they do not possess certain things, they are pained, so when they do possess them, they will rejoice in the opposite circumstances. So that if the judges are brought into that frame of mind, and those who claim their pity or any other boon are such as we have stated, it is plain that they will not obtain pity from those with whom the decision rests.
+
+[59929] The frame of mind in which men feel emulation, what things and persons give rise to it, will be clear from the following considerations. Let us assume that emulation is a feeling of pain at the evident presence of highly valued goods, which are possible for us to obtain, in the possession of those who naturally resemble us—pain not due to the fact that another possesses them, but to the fact that we ourselves do not. Emulation therefore is virtuous and characteristic of virtuous men, whereas envy is base and characteristic of base men; for the one, owing to emulation, fits himself to obtain such goods, while the object of the other, owing to envy, is to prevent his neighbor possessing them. Necessarily, then, those are emulous who hold that they have a claim to goods that they do not possess; for no one claims what seems impossible.
+
+[60775] Hence the young and high-minded are emulous. And so are those who possess such advantages as are worthy of honorable men, which include wealth, a number of friends, positions of office, and all similar things. For, believing it their duty to be good, because such goods naturally belong to those who are good, they strive to preserve them. And those are emulous, whom others think worthy of them.
+
+[61173] Honors obtained by ancestors, kinsfolk, intimates, nation, or city make men emulous in regard to such honors; for they think that these honors really belong to them and that they are worthy of them.
+
+[61373] And if highly valued goods are the object of emulation, it necessarily follows that the virtues must be such and all things that are useful and beneficial to the rest of mankind, for benefactors and virtuous men are honored; to these we may add all the goods which our neighbors can enjoy with us, such as wealth and beauty, rather than health.
+
+[61719] It is also evident who are the objects of emulation; for they are those who possess these or similar goods, such as have already been spoken of, for instance, courage, wisdom, authority; for those in authority, such as generals, orators, and all who have similar powers, can do good to many.
+
+[62012] And those whom many desire to be like, or to be their acquaintances or friends; those whom many or ourselves admire;
+
+[62130] those who are praised or eulogized either by poets or by prose writers. The opposite characters we despise; for contempt is the opposite of emulation, and the idea of emulation of the idea of contempt. And those who are in a condition which makes them emulate, or be emulated by, others, must be inclined to despise those persons (and for that reason) who suffer from defects contrary to the good things which excite emulation. That is why we often despise those who are fortunate, whenever their good fortune is not accompanied by highly valued goods. The means of producing and destroying the various emotions in men, from which the methods of persuasion that concern them are derived, have now been stated.
+
+[62841] Let us now describe the nature of the characters of men according to their emotions, habits, ages, and fortunes.
+
+[62955] By the emotions I mean anger, desire, and the like, of which we have already spoken; by habits virtues and vices, of which also we have previously spoken, as well as the kind of things men individually and deliberately choose and practise. The ages are youth, the prime of life, and old age. By fortune I mean noble birth, wealth, power, and their contraries, and, in general, good or bad fortune.
+
+[63354] The young, as to character, are ready to desire and to carry out what they desire. Of the bodily desires they chiefly obey those of sensual pleasure and these they are unable to control.
+
+[63542] Changeable in their desires and soon tiring of them, they desire with extreme ardor, but soon cool; for their will, like the hunger and thirst of the sick, is keen rather than strong.
+
+[63727] They are passionate, hot-tempered, and carried away by impulse, and unable to control their passion; for owing to their ambition they cannot endure to be slighted, and become indignant when they think they are being wronged.
+
+[63953] They are ambitious of honor, but more so of victory; for youth desires superiority, and victory is a kind of superiority. And their desire for both these is greater than their desire for money, to which they attach only the slightest value, because they have never yet experienced want, as Pittacus said in his pithy remark on Amphiaraus.
+
+[64293] They are not ill-natured but simple-natured, because they have never yet witnessed much depravity; confiding, because they have as yet not been often deceived;
+
+[64454] full of hope, for they are naturally as hot-blooded as those who are drunken with wine, and besides they have not yet experienced many failures. For the most part they live in hope, for hope is concerned with the future as memory is with the past. For the young the future is long, the past short; for in the morning of life it is not possible for them to remember anything, but they have everything to hope; which makes them easy to deceive, for they readily hope.
+
+[64921] And they are more courageous, for they are full of passion and hope, and the former of these prevents them fearing, while the latter inspires them with confidence, for no one fears when angry, and hope of some advantage inspires confidence.
+
+[65163] And they are bashful, for as yet they fail to conceive of other things that are noble, but have been educated solely by convention.
+
+[65296] They are high-minded, for they have not yet been humbled by life nor have they experienced the force of necessity; further, there is high-mindedness in thinking oneself worthy of great things, a feeling which belongs to one who is full of hope.
+
+[65542] In their actions, they prefer the noble to the useful; their life is guided by their character rather than by calculation, for the latter aims at the useful, virtue at the noble.
+
+[65722] At this age more than any other they are fond of their friends and companions because they take pleasure in living in company and as yet judge nothing by expediency, not even their friends.
+
+[65913] All their errors are due to excess and vehemence and their neglect of the maxim of Chilon, for they do everything to excess, love, hate, and everything else. And they think they know everything, and confidently affirm it, and this is the cause of their excess in everything.
+
+[66189] If they do wrong, it is due to insolence, not to wickedness. And they are inclined to pity, because they think all men are virtuous and better than themselves; for they measure their neighbors by their own inoffensiveness, so that they think that they suffer undeservedly.
+
+[66463] And they are fond of laughter, and therefore witty; for wit is cultured insolence. Such then is the character of the young.
+
+[66588] Older men and those who have passed their prime have in most cases characters opposite to those of the young. For, owing to their having lived many years and having been more often deceived by others or made more mistakes themselves, and since most human things turn out badly, they are positive about nothing, and in everything they show an excessive lack of energy.
+
+[66957] They always think, but know nothing; and in their hesitation they always add perhaps, or maybe; all their statements are of this kind, never unqualified.
+
+[67112] They are malicious; for malice consists in looking upon the worse side of everything. Further, they are always suspicious owing to mistrust, and mistrustful owing to experience.
+
+[67291] And neither their love nor their hatred is strong for the same reasons; but, according to the precept of Bias, they love as if they would one day hate, and hate as if they would one day love.
+
+[67484] And they are little-minded, because they have been humbled by life; for they desire nothing great or uncommon, but only the necessaries of life.
+
+[67630] They are not generous, for property is one of these necessaries, and at the same time, they know from experience how hard it is to get and how easy to lose.
+
+[67788] And they are cowardly and inclined to anticipate evil, for their state of mind is the opposite of that of the young; they are chilled, whereas the young are hot, so that old age paves the way for cowardice, for fear is a kind of chill.
+
+[68025] And they are fond of life, especially in their last days, because desire is directed towards that which is absent and men especially desire what they lack.
+
+[68182] And they are unduly selfish, for this also is littleness of mind. And they live not for the noble, but for the useful, more than they ought, because they are selfish; for the useful is a good for the individual, whereas the noble is good absolutely.
+
+[68433] And they are rather shameless than modest; for since they do not care for the noble so much as for the useful, they pay little attention to what people think.
+
+[68593] And they are little given to hope owing to their experience, for things that happen are mostly bad and at all events generally turn out for the worse, and also owing to their cowardice.
+
+[68780] They live in memory rather than in hope; for the life that remains to them is short, but that which is past is long, and hope belongs to the future, memory to the past. This is the reason of their loquacity; for they are incessantly talking of the past, because they take pleasure in recollection.
+
+[69079] Their outbursts of anger are violent, but feeble; of their desires some have ceased, while others are weak, so that they neither feel them nor act in accordance with them, but only from motives of gain. Hence men of this age are regarded as self-controlled, for their desires have slackened, and they are slaves to gain.
+
+[69401] In their manner of life there is more calculation than moral character, for calculation is concerned with that which is useful, moral character with virtue. If they commit acts of injustice it is due to vice rather than to insolence.
+
+[69636] The old, like the young, are inclined to pity, but not for the same reason; the latter show pity from humanity, the former from weakness, because they think that they are on the point of suffering all kinds of misfortunes, and this is one of the reasons that incline men to pity. That is why the old are querulous, and neither witty nor fond of laughter; for a querulous disposition is the opposite of a love of laughter.
+
+[70059] Such are the characters of the young and older men. Wherefore, since all men are willing to listen to speeches which harmonize with their own character and to speakers who resemble them, it is easy to see what language we must employ so that both ourselves and our speeches may appear to be of such and such a character.
+
+[70381] It is evident that the character of those in the prime of life will be the mean between that of the other two, if the excess in each case be removed. At this age, men are neither over-confident, which would show rashness, nor too fearful, but preserving a right attitude in regard to both, neither trusting nor distrusting all, but judging rather in accordance with actual facts. Their rule of conduct is neither the noble nor the useful alone, but both at once. They are neither parsimonious nor prodigal, but preserve the due mean.
+
+[70916] It is the same in regard to passion and desire. Their self-control is combined with courage and their courage with self-control, whereas in the young and old these qualities are found separately; for the young are courageous but without self-control, the old are self-controlled but cowardly. Speaking generally, all the advantages that youth and old age possess separately, those in the prime of life possess combined; and all cases of excess or defect in the other two are replaced by due moderation and fitness.
+
+[71432] The body is most fully developed from thirty to thirty-five years of age, the mind at about forty-nine. Let this suffice for youth, old age, and the prime of life, and the characters which belong to each.
+
+[71638] Let us next speak of the goods that are due to fortune, all those, at least, which produce certain characters in men.
+
+[71757] A characteristic of noble birth is that he who possesses it is more ambitious; for all men, when they start with any good, are accustomed to heap it up, and noble birth is a heritage of honor from one's ancestors. Such men are prone to look down even upon those who are as important as their ancestors, because the same things are more honorable and inspire greater vanity when remote than when they are recent.
+
+[72170] The idea of noble birth refers to excellence of race, that of noble character to not degenerating from the family type, a quality not as a rule found in those of noble birth, most of whom are good for nothing. For in the generations of men there is a kind of crop as in the fruits of the field; sometimes, if the race is good, for a certain period men out of the common are born in it, and then it deteriorates. Highly gifted families often degenerate into maniacs, as, for example, the descendants of Alcibiades and the elder Dionysius; those that are stable into fools and dullards, like the descendants of Cimon, Pericles, and Socrates.
+
+[72811] The characters which accompany wealth are plain for all to see. The wealthy are insolent and arrogant, being mentally affected by the acquisition of wealth, for they seem to think that they possess all good things; for wealth is a kind of standard of value of everything else, so that everything seems purchasable by it.
+
+[73133] They are luxurious and swaggerers, luxurious because of their luxury and the display of their prosperity, swaggerers and ill-mannered because all men are accustomed to devote their attention to what they like and admire, and the rich suppose that what they themselves are emulous of is the object of all other men's emulation. At the same time this feeling is not unreasonable; for those who have need of the wealthy are many in number. Hence the answer of Simonides to the wife of Hiero concerning the wise and the rich, when she asked which was preferable, to be wise or to be rich. Rich, he answered, for we see the wise spending their time at the doors of the rich.
+
+[73804] And the rich think they are worthy to rule, because they believe they possess that which makes them so. In a word, the character of the rich man is that of a fool favored by fortune.
+
+[73988] At the same time there is a difference between the character of the newly rich and of those whose wealth is of long standing, because the former have the vices of wealth in a greater degree and more; for, so to say, they have not been educated to the use of wealth. Their unjust acts are not due to malice, but partly to insolence, partly to incontinence, which tends to make them commit assault and battery and adultery.
+
+[74411] In regard to power, nearly all the characters to which it gives rise are equally clear; for power, compared with wealth, exhibits partly identical, and partly superior characteristics.
+
+[74597] Thus, the powerful are more ambitious and more manly in character than the rich, since they aim at the performance of deeds which their power gives them the opportunity of carrying out.
+
+[74784] And they are more energetic; for being obliged to look after their power, they are always on the watch.
+
+[74889] And they are dignified rather than heavily pompous; for their rank renders them more conspicuous, so that they avoid excess; and this dignity is a mild and decent pomposity. And their wrongdoings are never petty, but great.
+
+[75114] Good fortune in its divisions exhibits characters corresponding to those which have just been mentioned; for those which appear to be the most important kinds of good fortune tend in their direction; further, good fortune furnishes advantages over others in the blessing of children and bodily goods.
+
+[75416] Now, although men are more arrogant and thoughtless owing to good fortune, it is accompanied by a most precious quality. Fortunate men stand in a certain relation to the divinity and love the gods, having confidence in them owing to the benefits they have received from fortune. We have spoken of the characters associated with different ages and fortunes; the opposite characters to those described, for instance, of the poor, of the unfortunate, and of the weak, are obvious from their opposites.
+
+[75916] Now the employment of persuasive speeches is directed towards a judgement; for when a thing is known and judged, there is no longer any need of argument. And there is judgement, whether a speaker addresses himself to a single individual and makes use of his speech to exhort or dissuade, as those do who give advice or try to persuade, for this single individual is equally a judge, since, speaking generally, he who has to be persuaded is a judge; if the speaker is arguing against an opponent or against some theory, it is just the same, for it is necessary to make use of speech to destroy the opposing arguments, against which he speaks as if they were the actual opponent; and similarly in epideictic speeches, for the speech is put together with reference to the spectator as if he were a judge. Generally speaking, however, only he who decides questions at issue in civil controversies is a judge in the proper sense of the word, for in judicial cases the point at issue is the state of the case, in deliberative the subjects of deliberation. We have already spoken of the characters of forms of government in treating of deliberative rhetoric, so that it has been determined how and by what means we must make our speeches conform to those characters.
+
+[77177] Now, since each kind of Rhetoric, as was said, has its own special end, and in regard to all of them we have gathered popular opinions and premises whence men derive their proofs in deliberative, epideictic, and judicial speeches, and, further, we have determined the special rules according to which it is possible to make our speeches ethical, it only remains to discuss the topics common to the three kinds of rhetoric.
+
+[77601] For all orators are obliged, in their speeches, also to make use of the topic of the possible and impossible, and to endeavor to show, some of them that a thing will happen, others that it has happened.
+
+[77805] Further, the topic of magnitude is common to all kinds of Rhetoric, for all men employ extenuation or amplification whether deliberating, praising or blaming, accusing or defending.
+
+[77988] When these topics have been determined, we will endeavor to say what we can in general about enthymemes and examples, in order that, when we have added what remains, we may carry out what we proposed at the outset. Now, of the commonplaces amplification is most appropriate to epideictic rhetoric, as has been stated; the past to forensic, since things past are the subject of judgement; and the possible and future to deliberative.
+
+[78422] Let us first speak of the possible and the impossible. If of two contrary things it is possible that one should exist or come into existence, then it would seem that the other is equally possible; for instance, if a man can be cured, he can also be ill; for the potentiality of contraries, qua contraries, is the same. Similarly, if of two like things the one is possible, so also is the other.
+
+[78818] And if the harder of two things is possible, so also is the easier.
+
+[78887] And if it is possible for a thing to be made excellent or beautiful, it is possible for it to be made in general; for it is harder for a beautiful house to be made than a mere house.
+
+[79071] Again, if the beginning is possible, so also is the end; for no impossible thing comes, or begins to come, into existence; for instance, that the diameter of a square should be commensurable with the side of a square is neither possible nor could be possible. And when the end is possible, so also is the beginning; for all things arise from a beginning.
+
+[79427] And if that which is subsequent in being or generation can come into being, so then can that which is antecedent; for instance, if a man can come into being, so can a child, for the child is antecedent; and similarly, if a child can come into being, so can a man, for the child is a beginning.
+
+[79722] And things which we love or desire naturally are possible; for as a rule no one loves the impossible or desires it.
+
+[79839] And those things which form the subject of sciences or arts can also exist and come into existence.
+
+[79940] And so with all those things, the productive principles of which reside in those things which we can control by force or persuasion, when they depend upon those whose superiors, masters, or friends we are.
+
+[80147] And if the parts are possible, so also is the whole; and if the whole is possible, so also are the parts, speaking generally; for instance, if the front, toe-cap, and upper leather, can be made, then shoes can be made, and if shoes, then the above parts.
+
+[80403] And if the whole genus is among things possible to be made, so is the species, and if the species, so the genus; for example, if a vessel can be built, so can a trireme, if a trireme can, so can a vessel.
+
+[80609] If of two naturally corresponding things one is possible, so also is the other; for instance, if the double is possible, so is the half, if the half, so the double.
+
+[80775] If a thing can be made without art or preparation, much the more can it be made with the help of art and carefulness. Whence it was said by Agathon: And moreover we have to do some things by art, while others fall to our lot by compulsion or chance.
+
+[81026] And if a thing is possible for those who are inferior, or weaker, or less intelligent, it will be still more so for those whose qualities are the opposite; as Isocrates said, it would be very strange if he were unable by himself to find out what Euthynus had learnt [with the help of others].
+
+[81320] As for the impossible, it is clear that there is a supply of arguments to be derived from the opposite of what has been said about the possible.
+
+[81466] The question whether a thing has or has not happened must be considered from the following points of view.
+
+[81574] In the first place, if that which is naturally less likely has happened, then that which is more likely will most probably have happened. If that which usually happens afterwards has happened, then that which precedes must also have happened; for instance, if a man has forgotten a thing, he must once have learnt it.
+
+[81893] If a man was able and wished to do a thing, he has done it; for all men do a thing, when they are able and resolve to do it, for nothing hinders them.
+
+[82045] Further, if a man wished to do it and there was no external obstacle; if he was able to do it and was in a state of anger; if he was able and desired to do it; for men as a rule, whenever they can, do those things which they long for, the vicious owing to want of self-control, the virtuous because they desire what is good.
+
+[82371] And if anything was on the point of being done, it most probably was done; for it is likely that one who was on the point of doing something has carried it out.
+
+[82533] And if all the natural antecedents or causes of a thing have happened; for instance, if it has lightened, it has also thundered; and if a man has already attempted a crime, he has also committed it. And if all the natural consequences or motives of actions have happened, then the antecedent or the cause has happened; for instance, if it has thundered, it has also lightened, and if a man has committed a crime, he has also attempted it.
+
+[82973] Of all these things some are so related necessarily, others only as a general rule. To establish that a thing has not happened, it is evident that our argument must be derived from the opposite of what has been said.
+
+[83191] In regard to the future, it is clear that one can argue in the same way; for if we are able and wish to do a thing, it will be done; and so too will those things which desire, anger, and reasoning urge us to do, if we have the power. For this reason also, if a man has an eager desire, or intention, of doing a thing, it will probably be done; since, as a rule, things that are about to happen are more likely to happen than those which are not.
+
+[83638] And if all the natural antecedents have happened; for instance, if the sky is cloudy, it will probably rain.
+
+[83748] And if one thing has been done with a view to another, it is probable that the latter will also be done; for instance, if a foundation has been laid, a house will probably be built.
+
+[83931] What we have previously said clearly shows the nature of the greatness and smallness of things, of the greater and less, and of things great and small generally. For, when treating of deliberative rhetoric, we spoke of greatness of goods, and of the greater and less generally. Therefore, since in each branch of Rhetoric the end set before it is a good, such as the expedient, the noble, or the just, it is evident that all must take the materials of amplification from these.
+
+[84410] To make any further inquiry as to magnitude and superiority absolutely would be waste of words; for the particular has more authority than the general for practical purposes. Let this suffice for the possible and impossible; for the question whether a thing has happened, or will happen, or not; and for the greatness or smallness of things.
+
+[84753] It remains to speak of the proofs common to all branches of Rhetoric, since the particular proofs have been discussed. These common proofs are of two kinds, example and enthymeme (for the maxim is part of an enthymeme).
+
+[84974] Let us then first speak of the example; for the example resembles induction, and induction is a beginning.
+
+[85082] There are two kinds of examples; namely, one which consists in relating things that have happened before, and another in inventing them oneself. The latter are subdivided into comparisons or fables, such as those of Aesop and the Libyan. It would be an instance of the historical kind of example, if one were to say that it is necessary to make preparations against the Great King and not to allow him to subdue Egypt; for Darius did not cross over to Greece until he had obtained possession of Egypt; but as soon as he had done so, he did. Again, Xerxes did not attack us until he had obtained possession of that country, but when he had, he crossed over; consequently, if the present Great King shall do the same, he will cross over, wherefore it must not be allowed.
+
+[85853] Comparison is illustrated by the sayings of Socrates; for instance, if one were to say that magistrates should not be chosen by lot, for this would be the same as choosing as representative athletes not those competent to contend, but those on whom the lot falls; or as choosing any of the sailors as the man who should take the helm, as if it were right that the choice should be decided by lot, not by a man's knowledge.
+
+[86277] A fable, to give an example, is that of Stesichorus concerning Phalaris, or that of Aesop on behalf of the demagogue. For Stesichorus, when the people of Himera had chosen Phalaris dictator and were on the point of giving him a body-guard, after many arguments related a fable to them: A horse was in sole occupation of a meadow. A stag having come and done much damage to the pasture, the horse, wishing to avenge himself on the stag, asked a man whether he could help him to punish the stag. The man consented, on condition that the horse submitted to the bit and allowed him to mount him javelins in hand. The horse agreed to the terms and the man mounted him, but instead of obtaining vengeance on the stag, the horse from that time became the man's slave. So then, said he, do you take care lest, in your desire to avenge yourselves on the enemy, you be treated like the horse. You already have the bit, since you have chosen a dictator; if you give him a body-guard and allow him to mount you, you will at once be the slaves of Phalaris.
+
+[87322] Aesop, when defending at Samos a demagogue who was being tried for his life, related the following anecdote. A fox, while crossing a river, was driven into a ravine. Being unable to get out, she was for a long time in sore distress, and a number of dog-fleas clung to her skin. A hedgehog, wandering about, saw her and, moved with compassion, asked her if he should remove the fleas. The fox refused and when the hedgehog asked the reason, she answered: ‘They are already full of me and draw little blood; but if you take them away, others will come that are hungry and will drain what remains to me.’ You in like manner, O Samians, will suffer no more harm from this man, for he is wealthy; but if you put him to death, others will come who are poor, who will steal and squander your public funds.
+
+[88122] Fables are suitable for public speaking, and they have this advantage that, while it is difficult to find similar things that have really happened in the past, it is easier to invent fables; for they must be invented, like comparisons, if a man is capable of seizing the analogy; and this is easy if one studies philosophy.
+
+[88447] Thus, while the lessons conveyed by fables are easier to provide, those derived from facts are more useful for deliberative oratory, because as a rule the future resembles the past.
+
+[88630] If we have no enthymemes, we must employ examples as demonstrative proofs, for conviction is produced by these; but if we have them, examples must be used as evidence and as a kind of epilogue to the enthymemes. For if they stand first, they resemble induction, and induction is not suitable to rhetorical speeches except in very few cases; if they stand last they resemble evidence, and a witness is in every case likely to induce belief. Wherefore also it is necessary to quote a number of examples if they are put first, but one alone is sufficient if they are put last; for even a single trustworthy witness is of use. We have thus stated how many kinds of examples there are, and how and when they should be made use of.
+
+[89357] In regard to the use of maxims, it will most readily be evident on what subjects, and on what occasions, and by whom it is appropriate that maxims should be employed in speeches, after a maxim has been defined.
+
+[89569] Now, a maxim is a statement, not however concerning particulars, as, for instance, what sort of a man Iphicrates was, but general; it does not even deal with all general things, as for instance that the straight is the opposite of the crooked, but with the objects of human actions, and with what should be chosen or avoided with reference to them. And as the enthymeme is, we may say, the syllogism dealing with such things, maxims are the premises or conclusions of enthymemes without the syllogism. For example: No man who is sensible ought to have his children taught to be excessively clever, is a maxim; but when the why and the wherefore are added, the whole makes an enthymeme; for instance, for, not to speak of the charge of idleness brought against them, they earn jealous hostility from the citizens.
+
+[90383] Another example: There is no man who is happy in everything;
+
+[90445] or, There is no man who is really free.
+
+[90486] The latter is a maxim, but taken with the next verse it is an enthymeme: for he is the slave of either wealth or fortune.
+
+[90609] Now, if a maxim is what we have stated, it follows that maxims are of four kinds; for they are either accompanied by an epilogue or not.
+
+[90747] Now all those that state anything that is contrary to the general opinion or is a matter of dispute, need demonstrative proof; but those that do not, need no epilogue, either because they are already known, as, for instance, Health is a most excellent thing for a man, at least in our opinion, for this is generally agreed; or because, no sooner are they uttered than they are clear to those who consider them, for instance, He is no lover who does not love always.
+
+[91214] As for the maxims that are accompanied by an epilogue, some form part of an enthymeme, as No one who is sensible, etc., while others are enthymematic, but are not part of an enthymeme; and these are most highly esteemed. Such are those maxims in which the reason of what is said is apparent: for instance, Being a mortal, do not nourish immortal wrath;
+
+[91568] to say that one should not always nourish immortal wrath is a maxim, but the addition being a mortal states the reason. It is the same with A mortal should have mortal, not immortal thoughts.
+
+[91761] It is evident, therefore, from what has been said, how many kinds of maxims there are, and to what it is appropriate to apply them in each case. For in the case of matters of dispute or what is contrary to the general opinion, the epilogue is necessary; but either the epilogue may be put first and the conclusion used as a maxim, as, for example, if one were to say, As for me, since one ought neither to be the object of jealousy nor to be idle, I say that children ought not to be educated; or put the maxim first and append the epilogue. In all cases where the statements made, although not paradoxical, are obscure, the reason should be added as concisely as possible.
+
+[92436] In such cases Laconic apophthegms and riddling sayings are suitable; as, for instance, to say what Stesichorus said to the Locrians, that they ought not to be insolent, lest their cicadas should be forced to chirp from the ground.
+
+[92668] The use of maxims is suitable for one who is advanced in years, and in regard to things in which one has experience; since the use of maxims before such an age is unseemly, as also is story-telling; and to speak about things of which one has no experience shows foolishness and lack of education. A sufficient proof of this is that rustics especially are fond of coining maxims and ready to make display of them.
+
+[93082] To express in general terms what is not general is especially suitable in complaint or exaggeration, and then either at the beginning or after the demonstration.
+
+[93245] One should even make use of common and frequently quoted maxims, if they are useful; for because they are common, they seem to be true, since all as it were acknowledge them as such; for instance, one who is exhorting his soldiers to brave danger before having sacrificed may say, The best of omens is to defend one's country, and if they are inferior in numbers, The chances of war are the same for both, and if advising them to destroy the children of the enemy even though they are innocent of wrong, Foolish is he who, having slain the father, suffers the children to live.
+
+[93824] Further, some proverbs are also maxims; for example, An Attic neighbor.
+
+[93897] Maxims should also be used even when contrary to the most popular sayings, such as Know thyself and Nothing in excess, either when one's character is thereby likely to appear better, or if they are expressed in the language of passion. It would be an instance of the latter if a man in a rage were to say, It is not true that a man should know himself; at any rate, such a man as this, if he had known himself, would never have claimed the chief command. And one's character would appear better, if one were to say that it is not right, as men say, to love as if one were bound to hate, but rather to hate as if one were bound to love.
+
+[94534] The moral purpose also should be made clear by the language, or else one should add the reason; for example, either by saying that it is right to love, not as men say, but as if one were going to love for ever, for the other kind of love would imply treachery; or thus, The maxim does not please me, for the true friend should love as if he were going to love for ever. Nor do I approve the maxim ‘Nothing in excess,’ for one cannot hate the wicked too much.
+
+[94994] Further, maxims are of great assistance to speakers, first, because of the vulgarity of the hearers, who are pleased if an orator, speaking generally, hits upon the opinions which they specially hold. What I mean will be clear from the following, and also how one should hunt for maxims. The maxim, as we have said, is a statement of the general; accordingly, the hearers are pleased to hear stated in general terms the opinion which they have already specially formed. For instance, a man who happened to have bad neighbors or children would welcome any one's statement that nothing is more troublesome than neighbors or more stupid than to beget children. Wherefore the speaker should endeavor to guess how his hearers formed their preconceived opinions and what they are, and then express himself in general terms in regard to them.
+
+[95831] This is one of the advantages of the use of maxims, but another is greater; for it makes speeches ethical. Speeches have this character, in which the moral purpose is clear. And this is the effect of all maxims, because he who employs them in a general manner declares his moral preferences; if then the maxims are good, they show the speaker also to be a man of good character. Let this suffice for what we had to say concerning maxims, their nature, how many kinds of them there are, the way they should be used, and what their advantages are.
+
+[96378] Let us now speak of enthymemes in general and the manner of looking for them, and next of their topics; for each of these things is different in kind.
+
+[96530] We have already said that the enthymeme is a kind of syllogism, what makes it so, and in what it differs from the dialectic syllogisms;
+
+[96667] for the conclusion must neither be drawn from too far back nor should it include all the steps of the argument. In the first case its length causes obscurity, in the second, it is simply a waste of words, because it states much that is obvious. It is this that makes the ignorant more persuasive than the educated in the presence of crowds; as the poets say, the ignorant are more skilled at speaking before a mob. For the educated use commonplaces and generalities, whereas the ignorant speak of what they know and of what more nearly concerns the audience. Wherefore one must not argue from all possible opinions, but only from such as are definite and admitted, for instance, either by the judges themselves or by those of whose judgement they approve. Further, it should be clear that this is the opinion of all or most of the hearers; and again, conclusions should not be drawn from necessary premises alone, but also from those which are only true as a rule.
+
+[97633] First of all, then, it must be understood that, in regard to the subject of our speech or reasoning, whether it be political or of any other kind, it is necessary to be also acquainted with the elements of the question, either entirely or in part; for if you know none of these things, you will have nothing from which to draw a conclusion.
+
+[97975] I should like to know, for instance, how we are to give advice to the Athenians as to making war or not, if we do not know in what their strength consists, whether it is naval, military, or both, how great it is, their sources of revenue, their friends and enemies, and further, what wars they have already waged, with what success, and all similar things?
+
+[98333] Again, how could we praise them, if we did not know of the naval engagement at Salamis or the battle of Marathon, or what they did for the Heraclidae, and other similar things? for men always base their praise upon what really are, or are thought to be, glorious deeds.
+
+[98604] Similarly, they base their censure upon actions that are contrary to these, examining whether those censured have really, or seem to have, committed them; for example, that the Athenians subjugated the Greeks, and reduced to slavery the Aeginetans and Potidaeans who had fought with distinction on their side against the barbarians, and all such acts, and whatever other similar offences may have been committed by them. Similarly, in accusation and defence, speakers argue from an examination of the circumstances of the case.
+
+[99133] It makes no difference in doing this, whether it is a question of Athenians or Lacedaemonians, of a man or a god. For, when advising Achilles, praising or censuring, accusing or defending him, we must grasp all that really belongs, or appears to belong to him, in order that we may praise or censure in accordance with this, if there is anything noble or disgraceful; defend or accuse, if there is anything just or unjust; advise, if there is anything expedient or harmful.
+
+[99608] And similarly in regard to any subject whatever. For instance, in regard to justice, whether it is good or not, we must consider the question in the light of what is inherent in justice or the good.
+
+[99808] Therefore, since it is evident that all men follow this procedure in demonstration, whether they reason strictly or loosely—since they do not derive their arguments from all things indiscriminately, but from what is inherent in each particular subject, and reason makes it clear that it is impossible to prove anything in any other way —it is evidently necessary, as has been stated in the Topics, to have first on each subject a selection of premises about probabilities and what is most suitable.
+
+[100308] As for those to be used in sudden emergencies, the same method of inquiry must be adopted; we must look, not at what is indefinite but at what is inherent in the subject treated of in the speech, marking off as many facts as possible, particularly those intimately connected with the subject; for the more facts one has, the easier it is to demonstrate, and the more closely connected they are with the subject, the more suitable are they and less common.
+
+[100765] By common I mean, for instance, praising Achilles because he is a man, or one of the demigods, or because he went on the expedition against Troy; for this is applicable to many others as well, so that such praise is no more suited to Achilles than to Diomedes. By particular I mean what belongs to Achilles, but to no one else; for instance, to have slain Hector, the bravest of the Trojans, and Cycnus, who prevented all the Greeks from disembarking, being invulnerable; to have gone to the war when very young, and without having taken the oath; and all such things.
+
+[101335] One method of selection then, and this the first, is the topical. Let us now speak of the elements of enthymemes (by element and topic of enthymeme I mean the same thing). But let us first make some necessary remarks.
+
+[101554] There are two kinds of enthymemes, the one demonstrative, which proves that a thing is or is not, and the other refutative, the two differing like refutation and syllogism in Dialectic.
+
+[101741] The demonstrative enthymeme draws conclusions from admitted premises, the refutative draws conclusions disputed by the adversary.
+
+[101872] We know nearly all the general heads of each of the special topics that are useful or necessary; for the propositions relating to each have been selected, so that we have in like manner already established all the topics from which enthymemes may be derived on the subject of good or bad, fair or foul, just or unjust, characters, emotions, and habits.
+
+[102226] Let us now endeavor to find topics about enthymemes in general in another way, noting in passing those which are refutative and those which are demonstrative, and those of apparent enthymemes, which are not really enthymemes, since they are not syllogisms. After this has been made clear, we will settle the question of solutions and objections, and whence they must be derived to refute enthymemes.
+
+[102627] One topic of demonstrative enthymemes is derived from opposites; for it is necessary to consider whether one opposite is predicable of the other, as a means of destroying an argument, if it is not, as a means of constructing one, if it is; for instance, self-control is good, for lack of self-control is harmful; or as in the Messeniacus, If the war is responsible for the present evils, one must repair them with the aid of peace. And, For if it is unfair to be angry with those who have done wrong unintentionally, it is not fitting to feel beholden to one who is forced to do us good.
+
+[103216] Or, If men are in the habit of gaining credit for false statements, you must also admit the contrary, that men often disbelieve what is true.
+
+[103359] Another topic is derived from similar inflections, for in like manner the derivatives must either be predicable of the subject or not; for instance, that the just is not entirely good, for in that case good would be predicable of anything that happens justly; but to be justly put to death is not desirable.
+
+[103668] Another topic is derived from relative terms. For if to have done rightly or justly may be predicated of one, then to have suffered similarly may be predicated of the other; there is the same relation between having ordered and having carried out, as Diomedon the tax-gatherer said about the taxes, If selling is not disgraceful for you, neither is buying disgraceful for us. And if rightly or justly can be predicated of the sufferer, it can equally be predicated of the one who inflicts suffering; if of the latter, then also of the former. However, in this there is room for a fallacy. For if a man has suffered justly, he has suffered justly, but perhaps not at your hands. Wherefore one must consider separately whether the sufferer deserves to suffer, and whether he who inflicts suffering is the right person to do so, and then make use of the argument either way; for sometimes there is a difference in such a case, and nothing prevents [its being argued], as in the Alcmaeon of Theodectes: And did no one of mortals loathe thy mother?
+
+[104713] Alcmaeon replied: We must make a division before we examine the matter. And when Alphesiboea asked How?, he rejoined, Their decision was that she should die, but that it was not for me to kill her.
+
+[104912] Another example may be found in the trial of Demosthenes and those who slew Nicanor. For since it was decided that they had justly slain him, it was thought that he had been justly put to death. Again, in the case of the man who was murdered at Thebes, when the defendants demanded that the judges should decide whether the murdered man deserved to die, since a man who deserved it could be put to death without injustice.
+
+[105336] Another topic is derived from the more and less. For instance, if not even the gods know everything, hardly can men; for this amounts to saying that if a predicate, which is more probably affirmable of one thing, does not belong to it, it is clear that it does not belong to another of which it is less probably affirmable. And to say that a man who beats his father also beats his neighbors, is an instance of the rule that, if the less exists, the more also exists. Either of these arguments may be used, according as it is necessary to prove either that a predicate is affirmable or that it is not.
+
+[105939] Further, if there is no question of greater or less; whence it was said, Thy father deserves to be pitied for having lost his children; is not Oeneus then equally to be pitied for having lost an illustrious offspring?
+
+[106158] Other instances are: if Theseus did no wrong, neither did Alexander Paris; if the sons of Tyndareus did no wrong, neither did Alexander; and if Hector did no wrong in slaying Patroclus, neither did Alexander in slaying Achilles; if no other professional men are contemptible, then neither are philosophers; if generals are not despised because they are frequently defeated, neither are the sophists; or, if it behoves a private citizen to take care of your reputation, it is your duty to take care of that of Greece.
+
+[106676] Another topic is derived from the consideration of time. Thus Iphicrates, in his speech against Harmodius, says: If, before accomplishing anything, I had demanded the statue from you in the event of my success, you would have granted it; will you then refuse it, now that I have succeeded? Do not therefore make a promise when you expect something, and break it when you have received it. Again, to persuade the Thebans to allow Philip to pass through their territory into Attica, they were told that if he had made this request before helping them against the Phocians, they would have promised; it would be absurd, therefore, if they refused to let him through now, because he had thrown away his opportunity and had trusted them.
+
+[107410] Another topic consists in turning upon the opponent what has been said against ourselves; and this is an excellent method. For instance, in the Teucer... and Iphicrates employed it against Aristophon, when he asked him whether he would have betrayed the fleet for a bribe; when Aristophon said no, Then, retorted Iphicrates, if you, Aristophon, would not have betrayed it, would I, Iphicrates, have done so? But the opponent must be a man who seems the more likely to have committed a crime; otherwise, it would appear ridiculous, if anyone were to make use of such an argument in reference to such an opponent, for instance, as Aristides; it should only be used to discredit the accuser. For in general the accuser aspires to be better than the defendant; accordingly, it must always be shown that this is not the case. And generally, it is ridiculous for a man to reproach others for what he does or would do himself, or to encourage others to do what he does not or would not do himself.
+
+[108402] Another topic is derived from definition. For instance, that the daimonion is nothing else than a god or the work of a god; but he who thinks it to be the work of a god necessarily thinks that gods exist. When Iphicrates desired to prove that the best man is the noblest, he declared that there was nothing noble attaching to Harmodius and Aristogiton, before they did something noble; and, I myself am more akin to them than you; at any rate, my deeds are more akin to theirs than yours. And as it is said in the Alexander that it would be generally admitted that men of disorderly passions are not satisfied with the enjoyment of one woman's person alone. Also, the reason why Socrates refused to visit Archelaus, declaring that it was disgraceful not to be in a position to return a favor as well as an injury. In all these cases, it is by definition and the knowledge of what the thing is in itself that conclusions are drawn upon the subject in question.
+
+[109363] Another topic is derived from the different significations of a word, as explained in the Topics, where the correct use of these terms has been discussed.
+
+[109519] Another, from division. For example, There are always three motives for wrongdoing; two are excluded from consideration as impossible; as for the third, not even the accusers assert it.

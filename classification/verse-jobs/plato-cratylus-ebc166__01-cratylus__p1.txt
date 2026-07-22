@@ -1,0 +1,245 @@
+WORK: Cratylus  (slug: plato-cratylus-ebc166)
+
+CHAPTER: 01-cratylus
+
+
+
+[111187] Socrates. That is a good thing for you to do, my friend, if I am right; for now we need no longer argue about the matter. If, then, some such assignment of names takes place, we will call one kind speaking truth, and the other speaking falsehood. But if this is accepted, and if it is possible to assign names incorrectly and to give to objects not the names that befit them, but sometimes those that are unfitting, it would be possible to treat verbs in the same way. And if verbs and nouns can be assigned in this way, the same must be true of sentences; for sentences are, I conceive, a combination of verbs and nouns. What do you say to that, Cratylus?
+
+[111845] Cratylus. I agree; I think you are right.
+
+[111888] Socrates. If, then, we compare the earliest words to sketches, it is possible in them, as in pictures, to reproduce all the colors and shapes, or not all; some may be wanting, and some may be added, and they may be too many or too large. Is not that true?
+
+[112145] Cratylus. Yes, it is.
+
+[112168] Socrates. Then he who reproduces all, produces good sketches and pictures, and he who adds or takes away produces also sketches and pictures, but bad ones?
+
+[112325] Cratylus. Yes.
+
+[112341] Socrates. And how about him who imitates the nature of things by means of letters and syllables? By the same principle, if he gives all that is appropriate, the image—that is to say, the name—will be good, and if he sometimes omits a little, it will be an image, but not a good one; and therefore some names are well and others badly made. Is that not true?
+
+[112700] Cratylus. Perhaps.
+
+[112720] Socrates. Perhaps, then, one artisan of names will be good, and another bad?
+
+[112798] Cratylus. Yes.
+
+[112814] Socrates. The name of such an artisan was lawgiver?
+
+[112867] Cratylus. Yes.
+
+[112883] Socrates. Perhaps, then, by Zeus, as is the case in the other arts, one lawgiver may be good and another bad, if we accept our previous conclusions.
+
+[113033] Cratylus. That is true. But you see, Socrates, when by the science of grammar we assign these letters—alpha, beta, and the rest—to names, if we take away or add or transpose any letter, it is not true that the name is written, but written incorrectly; it is not written at all, but immediately becomes a different word, if any such thing happens to it.
+
+[113387] Socrates. Perhaps we are not considering the matter in the right way.
+
+[113458] Cratylus. Why not?
+
+[113478] Socrates. It may be that what you say would be true of those things which must necessarily consist of a certain number or cease to exist at all, as ten, for instance, or any number you like, if you add or subtract anything is immediately another number; but this is not the kind of correctness which applies to quality or to images in general; on the contrary, the image must not by any means reproduce all the qualities of that which it imitates, if it is to be an image. See if I am not right. Would there be two things, Cratylus and the image of Cratylus, if some god should not merely imitate your color and form, as painters do, but should also make all the inner parts like yours, should reproduce the same flexibility and warmth, should put into them motion, life, and intellect, such as exist in you, and in short, should place beside you a duplicate of all your qualities? Would there be in such an event Cratylus and an image of Cratylus, or two Cratyluses?
+
+[114447] Cratylus. I should say, Socrates, two Cratyluses.
+
+[114498] Socrates. Then don’t you see, my friend, that we must look for some other principle of correctness in images and in names, of which we were speaking, and must not insist that they are no longer images if anything be wanting or be added? Do you not perceive how far images are from possessing the same qualities as the originals which they imitate?
+
+[114847] Cratylus. Yes, I do.
+
+[114869] Socrates. Surely, Cratylus, the effect produced by the names upon the things of which they are the names would be ridiculous, if they were to be entirely like them in every respect. For everything would be duplicated, and no one could tell in any case which was the real thing and which the name.
+
+[115167] Cratylus. Quite true.
+
+[115190] Socrates. Then do not be faint-hearted, but have the courage to admit that one name may be correctly and another incorrectly given; do not insist that it must have all the letters and be exactly the same as the thing named, but grant that an inappropriate letter may be employed. But if a letter, then grant that also a noun in a clause, and if a noun, then also a clause in a sentence may be employed which is not appropriate to the things in question, and the thing may none the less be named and described, so long as the intrinsic quality of the thing named is retained, as is the case in the names of the letters of the alphabet, if you remember what Hermogenes and I were saying a while ago.
+
+[115889] Cratylus. Yes, I remember.
+
+[115917] Socrates. Very well, then. So long as this intrinsic quality is present, even though the name have not all the proper letters, the thing will still be named; well, when it has all the proper letters; badly, when it has only a few of them. Let us, then, grant this, my friend, or we shall get into trouble, like the belated night wanderers in the road at Aegina, and in very truth we shall be found to have arrived too late; otherwise you must look for some other principle of correctness in names, and must not admit that a name is the representation of a thing in syllables and letters. For if you maintain both positions, you cannot help contradicting yourself.
+
+[116582] Cratylus. Well, Socrates, I think what you say is reasonable, and I accept it.
+
+[116662] Socrates. Then since we are agreed about this, let us consider the next point. If a name, we say, is to be a good one, it must have the proper letters?
+
+[116815] Cratylus. Yes.
+
+[116831] Socrates. And the proper letters are those which are like the things named?
+
+[116908] Cratylus. Yes, certainly.
+
+[116935] Socrates. That is, then, the method by which wellgiven names are given. But if any name is not well given, the greater part of it may perhaps, if it is to be an image at all, be made up of proper and like letters, but it may contain some inappropriate element, and is on that account not good or well made. Is that our view?
+
+[117261] Cratylus. I suppose, Socrates, there is no use in keeping up my contention; but I am not satisfied that it can be a name and not be well given.
+
+[117406] Socrates. Are you not satisfied that the name is the representation of a thing?
+
+[117487] Cratylus. Yes.
+
+[117503] Socrates. And do you not think it is true that some names are composed of earlier ones and others are primary?
+
+[117615] Cratylus. Yes.
+
+[117631] Socrates. But if the primary names are to be representations of any things, can you suggest any better way of making them representations than by making them as much as possible like the things which they are to represent? Or do you prefer the theory advanced by Hermogenes and many others, who claim that names are conventional and represent things to those who established the convention and knew the things beforehand, and that convention is the sole principle of correctness in names, and it makes no difference whether we accept the existing convention or adopt an opposite one according to which small would be called great and great small? Which of these two theories do you prefer?
+
+[118322] Cratylus. Representing by likeness the thing represented is absolutely and entirely superior to representation by chance signs.
+
+[118451] Socrates. You are right. Then if the name is like the thing, the letters of which the primary names are to be formed must be by their very nature like the things, must they not? Let me explain. Could a painting, to revert to our previous comparison, ever be made like any real thing, if there were no pigments out of which the painting is composed, which were by their nature like the objects which the painter’s art imitates? Is not that impossible?
+
+[118903] Cratylus. Yes, it is impossible.
+
+[118937] Socrates. In the same way, names can never be like anything unless those elements of which the names are composed exist in the first place and possess some kind of likeness to the things which the names imitate; and the elements of which they are composed are the letters, are they not?
+
+[119225] Cratylus. Yes.
+
+[119241] Socrates. Then I must now ask you to consider with me the subject which Hermogenes and I discussed a while ago. Do you think I am right in saying that rho is expressive of speed, motion, and hardness, or not?
+
+[119451] Cratylus. You are right.
+
+[119477] Socrates. And lambda is like smoothness, softness, and the other qualities we mentioned?
+
+[119567] Cratylus. Yes.
+
+[119583] Socrates. You know, of course, that we call the same thing σκληρότης (hardness) which the Eretrians call σκληρότηρ?
+
+[119700] Cratylus. Certainly.
+
+[119722] Socrates. Have rho and sigma both a likeness to the same thing, and does the final rho mean to them just what the sigma means to us, or is there to one of us no meaning?
+
+[119893] Cratylus. They mean the same to both.
+
+[119932] Socrates. In so far as rho and sigma are alike, or in so far as they are not?
+
+[120011] Cratylus. In so far as they are alike.
+
+[120051] Socrates. And are they alike in all respects?
+
+[120098] Cratylus. Yes; at least for the purpose of expressing motion equally.
+
+[120169] Socrates. But how about the lambda in σκληρότης? Does it not express the opposite of hardness?
+
+[120265] Cratylus. Well, perhaps it has no right to be there, Socrates; it may be like the cases that came up in your talk with Hermogenes, when you removed or inserted letters where that was necessary. I think you did right; and in this case perhaps we ought to put a rho in place of the lambda.
+
+[120554] Socrates. Excellent. However, do we not understand one another when anyone says σκληρόν, using the present pronunciation, and do you not now know what I mean?
+
+[120714] Cratylus. Yes, but that is by custom, my friend.
+
+[120764] Socrates. In saying custom do you think you are saying anything different from convention? Do you not mean by convention that when I speak I have a definite meaning and you recognize that I have that meaning? Is not that what you mean?
+
+[121001] Cratylus. Yes.
+
+[121017] Socrates. Then if you recognize my meaning when I speak, that is an indication given to you by me.
+
+[121117] Cratylus. Yes.
+
+[121133] Socrates. The indication comes from something which is unlike my meaning when I speak, if in your example σκληρότης the lambda is unlike hardness; and if this is true, did you not make a convention with yourself, since both like and unlike letters, by the influence of custom and convention, produce indication? And even if custom is entirely distinct from convention, we should henceforth be obliged to say that custom, not likeness, is the principle of indication, since custom, it appears, indicates both by the like and by the unlike. And since we grant this, Cratylus—for I take it that your silence gives consent—both convention and custom must contribute something towards the indication of our meaning when we speak. For, my friend, if you will just turn your attention to numbers, where do you think you can possibly get names to apply to each individual number on the principle of likeness, unless you allow agreement and convention on your part to control the correctness of names? I myself prefer the theory that names are, so far as is possible, like the things named; but really this attractive force of likeness is, as Hermogenes says, a poor thing, and we are compelled to employ in addition this commonplace expedient, convention, to establish the correctness of names. Probably language would be, within the bounds of possibility, most excellent when all its terms, or as many as possible, were based on likeness, that is to say, were appropriate, and most deficient under opposite conditions. But now answer the next question. What is the function of names, and what good do they accomplish?
+
+[122745] Cratylus. I think, Socrates, their function is to instruct, and this is the simple truth, that he who knows the names knows also the things named.
+
+[122893] Socrates. I suppose, Cratylus, you mean that when anyone knows the nature of the name—and its nature is that of the thing—he will know the thing also, since it is like the name, and the science of all things which are like each other is one and the same. It is, I fancy, on this ground that you say whoever knows names will know things also.
+
+[123236] Cratylus. You are perfectly right.
+
+[123272] Socrates. Now let us see what this manner of giving instruction is, to which you refer, and whether there is another method, but inferior to this, or there is no other at all. What do you think?
+
+[123468] Cratylus. I think there is no other at all; this is both the best and the only method.
+
+[123556] Socrates. Do you think this is also the method of discovering realities, and that he who has discovered the names has discovered also the things named; or do you think inquiry and discovery demand another method, and this belongs to instruction?
+
+[123803] Cratylus. I most certainly think inquiry and discovery follow this same method and in the same way.
+
+[123904] Socrates. Let us consider the matter, Cratylus. Do you not see that he who in his inquiry after things follows names and examines into the meaning of each one runs great risks of being deceived?
+
+[124100] Cratylus. How so?
+
+[124119] Socrates. Clearly he who first gave names, gave such names as agreed with his conception of the nature of things. That is our view, is it not?
+
+[124263] Cratylus. Yes.
+
+[124279] Socrates. Then if his conception was incorrect, and he gave the names according to his conception, what do you suppose will happen to us who follow him? Can we help being deceived?
+
+[124461] Cratylus. But, Socrates, surely that is not the case. He who gave the names must necessarily have known; otherwise, as I have been saying all along, they would not be names at all. And there is a decisive proof that the name-giver did not miss the truth, one which you must accept; for otherwise his names would not be so universally consistent. Have you not yourself noticed in speaking that all names were formed by the same method and with the same end in view?
+
+[124927] Socrates. But that, Cratylus, is no counter argument. For if the giver of names erred in the beginning and thenceforth forced all other names into agreement with his own initial error, there is nothing strange about that. It is just so sometimes in geometrical diagrams; the initial error is small and unnoticed, but all the numerous deductions are wrong, though consistent. Every one must therefore give great care and great attention to the beginning of any undertaking, to see whether his foundation is right or not. If that has been considered with proper care, everything else will follow. However, I should be surprised if names are really consistent. Let us review our previous discussion. Names, we said, indicate nature to us, assuming that all things are in motion and flux. Do you not think they do so?
+
+[125742] Cratylus. Yes, and they indicate it correctly.
+
+[125790] Socrates. Let us first take up again the word ἐπιστήμη (knowledge) and see how ambiguous it is, seeming to indicate that it makes our soul stand still (ἵστησιν) at things, rather than that it is carried round with them, so it is better to speak the beginning of it as we now do than to insert the epsilon and say ἐπεϊστήμ; we should insert an iota rather than an epsilon. Then take βέβαιον (firm), which expresses position and rest, not motion. And ἱστορία (inquiry) means much the same, that it stops (ἵστησιν) the flow. And πιστόν (faithful) most certainly means that which stops (ἱστόν) motion. Then again, anyone can see that μνήμη (memory) expresses rest (μονή) in the soul, not motion. On the other hand, ἁμαρτία (error) and ξυμφορά (misfortune), if you consider merely the form of the names, will appear to be the same as σύνεσις (intellect) and ἐπιστήμη and all the other names of good significance. Moreover, ἀμαθία (ignorance) and ἀκολασία (unrestraint) also appear to be like them; for the former, ἀμαθία, seems to be τοῦ ἅμα θεῷ ἰόντος πορεία (the progress of one who goes with God), and ἀκολασία seems to be exactly ἀκολουθία τοῖς πράγμασιν (movement in company with things). And so names which we believe have the very worst meanings appear to be very like those which have the best. And I think we could, if we took pains, find many other words which would lead us to reverse our judgement and believe that the giver of names meant that things were not in progress or in motion, but were at rest.
+
+[127303] Cratylus. But, Socrates, you see that most of the names indicate motion.
+
+[127377] Socrates. What of that, Cratylus? Are we to count names like votes, and shall correctness rest with the majority? Are those to be the true names which are found to have that one of the two meanings which is expressed by the greater number?
+
+[127618] Cratylus. That is not reasonable.
+
+[127653] Socrates. No, not in the least, my friend. Now let us drop this and return to the point at which we digressed. A little while ago, you may remember, you said he who gave names must have known the things to which he gave them. Do you still hold that opinion, or not?
+
+[127920] Cratylus. I do.
+
+[127937] Socrates. And you say that he who gave the first names also knew the things which he named?
+
+[128030] Cratylus. Yes, he knew them.
+
+[128060] Socrates. But from what names had he learned or discovered the things, if the first names had not yet been given, and if we declare that it is impossible to learn or discover things except by learning or ourselves discovering the names?
+
+[128298] Cratylus. I think there is something in what you say, Socrates.
+
+[128363] Socrates. How can we assert that they gave names or were lawgivers with knowledge, before any name whatsoever had been given, and before they knew any names, if things cannot be learned except through their names?
+
+[128578] Cratylus. I think the truest theory of the matter, Socrates, is that the power which gave the first names to things is more than human, and therefore the names must necessarily be correct.
+
+[128768] Socrates. Then, in your opinion, he who gave the names, though he was a spirit or a god, would have given names which made him contradict himself? Or do you think there is no sense in what we were saying just now?
+
+[128983] Cratylus. But, Socrates, those that make up one of the two classes are not really names.
+
+[129073] Socrates. Which of the two, my excellent friend; the class of those which point towards rest or of those that point towards motion? We agreed just now that the matter is not to be determined by mere numbers.
+
+[129282] Cratylus. No; that would not be right, Socrates.
+
+[129332] Socrates. Then since the names are in conflict, and some of them claim that they are like the truth, and others that they are, how can we decide, and upon what shall we base our decision? Certainly not upon other names differing from these, for there are none. No, it is plain that we must look for something else, not names, which shall show us which of these two kinds are the true names, which of them, that is to say, show the truth of things.
+
+[129781] Cratylus. That is my opinion.
+
+[129812] Socrates. Then if that is true, Cratylus, it seems that things may be learned without names.
+
+[129906] Cratylus. So it appears.
+
+[129932] Socrates. What other way is left by which you could expect to know them? What other than the natural and the straightest way, through each other, if they are akin, and through themselves? For that which is other and different from them would signify not them, but something other and different.
+
+[130228] Cratylus. I think that is true.
+
+[130261] Socrates. Stop for Heaven’s sake! Did we not more than once agree that names which are rightly given are like the things named and are images of them?
+
+[130413] Cratylus. Yes.
+
+[130429] Socrates. Then if it be really true that things can be learned either through names or through themselves which would be the better and surer way of learning? To learn from the image whether it is itself a good imitation and also to learn the truth which it imitates, or to learn from the truth both the truth itself and whether the image is properly made?
+
+[130787] Cratylus. I think it is certainly better to learn from the truth.
+
+[130854] Socrates. How realities are to be learned or discovered is perhaps too great a question for you or me to determine; but it is worth while to have reached even this conclusion, that they are to be learned and sought for, not from names but much better through themselves than through names.
+
+[131145] Cratylus. That is clear, Socrates.
+
+[131181] Socrates. Then let us examine one further point to avoid being deceived by the fact that most of these names tend in the same direction. Suppose it should prove that although those who gave the names gave them in the belief that all things are in motion and flux—I myself think they did have that belief— still in reality that is not the case, and the namegivers themselves, having fallen into a kind of vortex, are whirled about, dragging us along with them. Consider, my worthy Cratylus, a question about which I often dream. Shall we assert that there is any absolute beauty, or good, or any other absolute existence, or not?
+
+[131811] Cratylus. I think there is, Socrates.
+
+[131850] Socrates. Then let us consider the absolute, not whether a particular face, or something of that sort, is beautiful, or whether all these things are in flux. Is not, in our opinion, absolute beauty always such as it is?
+
+[132071] Cratylus. That is inevitable.
+
+[132102] Socrates. Can we, then, if it is always passing away, correctly say that it is this, then that it is that, or must it inevitably, in the very instant while we are speaking, become something else and pass away and no longer be what it is?
+
+[132341] Cratylus. That is inevitable.
+
+[132372] Socrates. How, then, can that which is never in the same state be anything? For if it is ever in the same state, then obviously at that time it is not changing; and if it is always in the same state and is always the same, how can it ever change or move without relinquishing its own form?
+
+[132663] Cratylus. It cannot do so at all.
+
+[132698] Socrates. No, nor can it be known by anyone. For at the moment when he who seeks to know it approaches, it becomes something else and different, so that its nature and state can no longer be known; and surely there is no knowledge which knows that which is in no state.
+
+[132969] Cratylus. It is as you say.
+
+[132998] Socrates. But we cannot even say that there is any knowledge, if all things are changing and nothing remains fixed; for if knowledge itself does not change and cease to be knowledge, then knowledge would remain, and there would be knowledge; but if the very essence of knowledge changes, at the moment of the change to another essence of knowledge there would be no knowledge, and if it is always changing, there will always be no knowledge, and by this reasoning there will be neither anyone to know nor anything to be known. But if there is always that which knows and that which is known—if the beautiful, the good, and all the other verities exist—I do not see how there is any likeness between these conditions of which I am now speaking and flux or motion. Now whether this is the nature of things, or the doctrine of Heracleitus and many others is true, is another question; but surely no man of sense can put himself and his soul under the control of names, and trust in names and their makers to the point of affirming that he knows anything; nor will he condemn himself and all things and say that there is no health in them, but that all things are flowing like leaky pots, or believe that all things are just like people afflicted with catarrh, flowing and running all the time. Perhaps, Cratylus, this theory is true, but perhaps it is not. Therefore you must consider courageously and thoroughly and not accept anything carelessly—for you are still young and in your prime; then, if after investigation you find the truth, impart it to me.
+
+[134553] Cratylus. I will do so. However, I assure you, Socrates, that I have already considered the matter, and after toilsome consideration I think the doctrine of Heracleitus is much more likely to be true.
+
+[134755] Socrates. Some other time, then, my friend, you will teach me, when you come back; but now go into the country as you have made ready to do; and Hermogenes here will go with you a bit.
+
+[134941] Cratylus. Very well, Socrates, and I hope you also will continue to think of these matters.

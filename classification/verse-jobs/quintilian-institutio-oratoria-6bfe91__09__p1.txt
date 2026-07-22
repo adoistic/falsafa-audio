@@ -1,0 +1,231 @@
+WORK: Institutio Oratoria  (slug: quintilian-institutio-oratoria-6bfe91)
+
+CHAPTER: 09
+
+
+
+[110072] For while in prose it is perfectly correct to use macro, the point, for the whole sword, and tectum, roof, for a whole house, we may not employ puppis, stern, to describe a ship, nor abies, fir, to describe planks; and again, though ferrunm, the steel, may be used to indicate a sword, quadrupes cannot be used in the sense of horse. It is where numbers are concerned that synecdocheè can be most freely employed in prose. For example, Livy frequently says, The Roman won the day, when he means that the Romans were victorious; on the other hand, Cicero in a letter to Brutus says, We have imposed on the people and are regarded as orators, when he is speaking of himself alone.
+
+[110752] This form of trope is not only a rhetorical ornament, but is frequently employed in everyday speech. Some also apply the term synecdoche when something is assumed which has not actually been expressed, since one word is then discovered from other words, as in the sentence,
+
+[111027] The Arcadians to the gates began to rush;
+
+[111070] when such omission creates a blemish, it is called an ellipse.
+
+[111134] For my own part, I prefer to regard this as a figure, and shall therefore discuss it under that head. Again, one thing may be suggested by another, as in the line,
+
+[111299] Behold, the steers
+
+[111319] Bring back the plough suspended from the yoke, from which we infer the approach of night. I am not sure whether this is permissible to an orator except in arguments, when it serves as an indication of some fact. However, this has nothing to do with the question of style.
+
+[111592] It is but a short step from synecdocheè to metonymy, which consists in the substitution of one name for another, and, as Cicero tells us, is called hypallage by the rhetoricians. These devices are employed to indicate an invention by substituting the name of the inventor, or a possession by substituting the name of the possessor. Virgil, for example, writes:
+
+[111954] Ceres by water spoiled, and Horace:
+
+[111991] Neptune admitted to the land
+
+[112021] Protects the fleets from blasts of Aquilo.
+
+[112065] If, however, the process is reversed, the effect is harsh.
+
+[112125] But it is important to enquire to what extent tropes of this kind should be employed by the orator. For though we often hear Vulcan used for fire and to say vario Marte pugnatum est for they fought with varying success is elegant and idiomatic, while Venus is a more decent expression than coitus, it would be too bold for the severe style demanded in the courts to speak of Liber and Ceres when we mean bread and wine. Again, while usage permits us to substitute that which contains for that which is contained, as in phrases such as civilised cities, or a cup was drunk to the lees, or a happy age, the converse procedure would rarely be ventured on by any save a poet: take, for example, the phrase:
+
+[112829] Ucalegon burns next.
+
+[112851] It is, however, perhaps more permissible to describe what is possessed by reference to its possessor, as, for example, to say of a man whose estate is being squandered, the man is being eaten up. Of this form there are innumerable species.
+
+[113092] For example, we say sixty thousand men were slain by Hannibal at Cannae, and speak of Virgil when we mean Virgil's poems; again, we say that supplies have come, when they have been brought, that a sacrilege, and not a sacrilegious man has been detected, and that a man possesses a knowledge of arms, not of the art of arms.
+
+[113417] The type which indicates cause by effect is common both in poets and orators. As examples from poetry I may quote:
+
+[113533] Pale death with equal foot knocks at the poor man's door and
+
+[113595] There pale diseases dwell and sad old age;
+
+[113639] while the orator will speak of headlong anger, cheerful youth or slothful ease.
+
+[113720] The following type of trope has also some kinship with synecdochè. For when I speak of a man's looks instead of his look, I use the plural for the singular, but my aim is not to enable one thing to be inferred from many (for the sense is clear enough), but I merely vary the form of the word. Again, when I call a gilded roof a golden roof, I diverge a little from the truth, because gilding forms only a part of the roof. But to follow out these points is a task involving too much minute detail even for a work whose aim is not the training of an orator.
+
+[114278] Antonomasia, which substitutes something else for a proper name, is very common in poets: it may be done in two ways: by the substitution of an epithet as equivalent to the name which it replaces, such as Tydides, Pelides, or by indicating the most striking characteristics of an individual, as in the phrase
+
+[114588] Father of gods and king of men, or from acts clearly indicating the individual, as in the phrase,
+
+[114687] The arms which he, the traitor, left
+
+[114725] Fixed on the chamber wall.
+
+[114753] This form of trope is rare in oratory, but is occasionally employed, For although an orator would not say Tydides or Pelides, he will speak of certain definite persons as the impious parricides, while I should have no hesitation in speaking of Scipio as the destroyer of Carthage and Numantia, or of Cicero as the prince of Roman orators. Cicero himself, at any rate, availed himself of this licence, as, for example, in the following case: Your faults are not many, said the old praeceptor to the hero, where neither name is given, though both are clearly understood.
+
+[115323] On the other hand, onomatopoea, that is to say, the creation of a word, although regarded with the highest approbation by the Greeks, is scarcely permissible to a Roman. It is true that many words were created in this way by the original founders of the language, who adapted them to suit the sensation which they expressed. For instance, mugitus, lowing, sibilus, a hiss, and murmur owe their origin to this practice.
+
+[115743] But to-day we consider that all has been done that can be done in this line, and do not venture on fresh creations, in spite of the fact that many of the words thus formed in antiquity are daily becoming obsolete. Indeed, we scarcely permit ourselves to use new derivatives, so they are called, which are formed in various ways from words in common use, such as Sullaturit, he wishes to be a second Sulla, or proscripturit, he wishes to have a proscription, while laureati posies, laurelled door-posts, for lauru coronati, crowned with laurel, are similar formations.
+
+[116312] These facts make catachresis (of which abuse is a correct translation) all the more necessary. By this term is meant the practice of adapting the nearest available term to describe something for which no actual term exists, as in the line
+
+[116552] A horse they build by Pallas' art divine, or as in the expression found in tragedy,
+
+[116637] To Aigialeus
+
+[116651] His sire bears funeral offerings,
+
+[116686] The following examples are of a similar character.
+
+[116738] Flasks are called acetabula, whatever they contain, and caskets pyxides, of whatever material they are made, while parricide includes the murder of a mother or a brother. We must be careful to distinguish between abuse and metaphor, since the former is employed where there is no proper term available, and the latter when there is another term available. As for poets, they indulge in the abuse of words even in cases where proper terms do exist, and substitute words of somewhat similar meaning. But this is rare in prose.
+
+[117264] Some, indeed, would give the name of catachresis even to cases such as where we call temerity valour or prodigality liberality. I, however, cannot agree with them; for in these instances word is not substituted for word, but thing for thing, since no one regards prodigality and liberality as meaning the same, but one man calls certain actions liberal and another prodigal, although neither for a moment doubts the difference between the two qualities.
+
+[117719] There is but one of the tropes involving change of meaning which remains to be discussed, namely, metalepsis or transumption, which provides a transition from one trope to another. It is (if we except comedy) but rarely used in Latin, and is by no means to be commended, though it is not infrequently employed by the Greeks, who, for example, call Χείρων the centaur Ἥσσων and substitute the epithet θοαί (swift) for ὄξειαι in referring to sharp-pointed islands. But who would endure a Roman if he called Verres sus or changed the name of Aelius Catus to Aelius doctus?
+
+[118290] It is the nature of metalepsis to form a kind of intermediate step between the term transferred and the thing to which it is transferred, having no meaning in itself, but merely providing a transition. It is a trope with which to claim acquaintance, rather than one which we are ever likely to require to use. The commonest example is the following: cano is a synonym for canto and canto for dico, therefore cano is a synonym for dico, the intermediate step being provided by canto.
+
+[118774] We need not waste any more time over it. I can see no use in it except, as I have already said, in comedy.
+
+[118882] The remaining tropes are employed solely to adorn and enhance our style without any reference to the meaning. For the epithet, of which the correct translation is appositum, though some call it sequens, is clearly an ornament. Poets employ it with special frequency and freedom, since for them it is sufficient that the epithet should suit the word to which it is applied: consequently we shall not blame them when they speak of white teeth or liquid wine.
+
+[119340] But in oratory an epithet is redundant unless it has some point. Now it will only have point when it adds something to the meaning, as for instance in the following: O abominable crime, O hideous lust!
+
+[119543] But its decorative effect is greatest when it is metaphorical, as in the phrases unbridled greed or those mad piles of masonry. The epithet is generally made into a trope by the addition of something to it, as when Virgil speaks of disgraceful poverty or sad old age. But the nature of this form of embellishment is such that, while style is bare and inelegant without any epithets at all, it is overloaded when a large number are employed.
+
+[119985] For then it becomes long-winded and cumbrous, in fact you might compare it to an army with as many camp-followers as soldiers, an army, that is to say, which has doubled its numbers without doubling its strength. None the less, not merely single epithets are employed, but we may find a number of them together, as in the following passage from Virgil:
+
+[120339] Anchises, worthy deigned
+
+[120365] Of Venus' glorious bed, [beloved of heaven,
+
+[120410] Twice rescued from the wreck of Pergamum.]
+
+[120454] Be this as it may, two epithets directly attached to one noun are unbecoming even in verse. There are some writers who refuse to regard an epithet as a trope, on the ground that it involves no change. It is not always a trope, but if separated from the word to which it belongs, it has a significance of its own and forms an antonomasia. For if you say, The man who destroyed Numantia and Carthage, it will be an antonomasia, whereas, if you add the word Scipio, the phrase will be an epithet. An epithet therefore cannot stand by itself.
+
+[120994] Allegory, which is translated in Latin by inversio, either presents one thing in words and another in meaning, or else something absolutely opposed to the meaning of the words. The first type is generally produced by a series of metaphors. Take as an example:
+
+[121255] O ship, new waves will bear thee back to sea.
+
+[121302] What dost thou? Make the haven, come what may, and the rest of the ode, in which Horace represents the state under the semblance of a ship, the civil wars as tempests, and peace and good-will as the haven.
+
+[121509] Such, again, is the claim of Lucretius:
+
+[121550] Pierian fields I range untrod by man, and such again the passage where Virgil says,
+
+[121635] But now
+
+[121644] A mighty length of plain we have travelled o'er;
+
+[121694] 'Tis time to loose our horses' steaming necks.
+
+[121742] On the other hand, in the Bucolics he introduces an allegory without any metaphor:
+
+[121826] Truth, I had heard
+
+[121846] Your loved Menalcas by his songs had saved
+
+[121890] All those fair acres, where the hills begin
+
+[121935] To sink and droop their ridge with easy slope
+
+[121982] Down to the waterside and that old beech
+
+[122024] With splintered crest.
+
+[122048] For in this passage, with the exception of the proper name, the words bear no more than their literal meaning. But the name does not simply denote the shepherd Menalcas, but is a pseudonym for Virgil himself. Oratory makes frequent use of such allegory, but generally with this modification, that there is an admixture of plain speaking. We get allegory pure and unadulterated in the following passage of Cicero:
+
+[122462] What I marvel at and complain of is this, that there should exist any man so set on destroying his enemy as to scuttle the ship on which he himself is sailing.
+
+[122623] The following is an example of the commonest type, namely, the mixed allegory: I always thought that Milo would have other storms and tempests to weather, at least in the troubled waters of political meetings. Had he not added the words at least in the troubled waters of political meetings, we should have had pure allegory: their addition, however, converted it into a mixed allegory. In this type of allegory the ornamental element is provided by the metaphorical words and the meaning is indicated by those which are used literally.
+
+[123161] But far the most ornamental effect is produced by the artistic admixture of simile, metaphor and allegory, as in the following example: What strait, what tide-race, think you, is full of so many conflicting motions or vexed by such a variety of eddies, waves and fluctuations, as confuse our popular elections with their wild ebb and flow? The passing of one day, or the interval of a single night, will often throw everything into confusion, and one little breath of rumour will sometimes turn the whole trend of opinion.
+
+[123685] For it is all-important to follow the principle illustrated by this passage and never to mix your metaphors. But there are many who, after beginning with a tempest, will end with a fire or a falling house, with the result that they produce a hideously incongruous effect.
+
+[123958] For the rest, allegory is often used by men of little ability and in the conversation of everyday life. For those hackneyed phrases of forensic pleading, to fight hand to hand, to attack the throat, or to let blood are all of them allegorical, although they do not strike the attention: for it is novelty and change that please in oratory, and what is unexpected always gives special delight. Consequently we have thrown all restraint to the wind in such matters, and have destroyed the charm of language by the extravagant efforts which we have made to attain it.
+
+[124524] Illustrative examples also involve allegory if not preceded by an explanation; for there are numbers of sayings available for use like the Dionysius is at Corinth, which is such a favourite with the Greeks. When, however, an allegory is too obscure, we call it a riddle: such riddles are, in my opinion, to be regarded as blemishes, in view of the fact that lucidity is a virtue; nevertheless they are used by poets, as, for example, by Virgil in the following lines:
+
+[124993] Say in what land, and if thou tell me true,
+
+[125038] I'll hold thee as Apollo's oracle,
+
+[125074] Three ells will measure all the arch of heaven.
+
+[125123] Even orators sometimes use them, as when Caelius speaks of the Clytemnestra who sold her favours for a farthing, who was a Coan in the dining-room and a Nolan in her bedroom. For although we know the answers, and although they were better known at the time when the words were uttered, they are riddles for all that; and other riddles are, after all, intelligible if you can get someone to explain them.
+
+[125528] On the other hand, that class of allegory in which the meaning is contrary to that suggested by the words, involve an element of irony, or, as our rhetoricians call it, illusio. This is made evident to the understanding either by the delivery, the character of the speaker or the nature of the subject. For if any one of these three is out of keeping with the words, it at once becomes clear that the intention of the speaker is other than what he actually says In the majority of tropes it is, however, important to bear in mind not merely what is said, but about whom it is said, since what is said may in another context be literally true. It is permissible to censure with counterfeited praise and praise under a pretence of blame. The following will serve as an example of the first.
+
+[126318] Since Gaius Verres, the urban praetor, being a man of energy and blameless character, had no record in his register of this substitution of this man for another on the panel. As an example of the reverse process we may take the following: We are regarded as orators and have imposed on the people.
+
+[126617] Sometimes, again, we may speak in mockery when we say the opposite of what we desire to be understood, as in Cicero's denunciation of Clodius: Believe me, your well known integrity has cleared you of all blame, your modesty has saved you, your past life has been your salvation.
+
+[126897] Further, we may employ allegory, and disguise bitter taunts in gentle words I y way of wit, or we may indicate our meaning by saying exactly the contrary or... If the Greek names for these methods are unfamiliar to any of my readers, I would remind him that they are σαρκασμός, ἀστεϊσμός, ἀντίφρασις and παροιμία (sarcasm, urbane wit, contradiction and proverbs).
+
+[127262] There are, however, some writers who deny that these are species of allegory, and assert that they are actually tropes in themselves: for they argue shrewdly that allegory involves an element of obscurity, whereas in all these cases our meaning is perfectly obvious. To this may be added the fact that when a genus is divided into species, it ceases to have any peculiar properties of its own: for example, we may divide tree into its species, pine, olive, cypress, etc., leaving it no properties of its own, whereas allegory always has some property peculiar to itself. The only explanation of this fact is that it is itself a species. But this, of course, is a matter of indifference to those that use it.
+
+[127971] To these the Greeks add μυκτηρισμός or mockery under the thinnest of disguises. When we use a number of words to describe something for which one, or at any rate only a few words of description would suffice, it is called periphrasis, that is, a circuitous mode of speech. It is sometimes necessary, being of special service when it conceals something which would be indecent, if expressed in so many words: compare the phrase To meet the demands of nature from Sallust.
+
+[128443] But at times it is employed solely for decorative effect, a practice most frequent among the poets:
+
+[128544] Now was the time
+
+[128562] When the first sleep to weary mortals comes
+
+[128607] Stealing its way, the sweetest boon of heaven.
+
+[128655] Still it is far from uncommon even in oratory, though in such cases it is always used with greater restraint. For whatever might have been expressed with greater brevity, but is expanded for purposes of ornament, is a periphrasis, to which we give the name circumlocution, though it is a term scarcely suitable to describe one of the virtues of oratory. But it is only called periphrasis so long as it produces a decorative effect: when it passes into excess, it is known as perissology: for whatever is not a help, is a positive hindrance.
+
+[129197] Again, hyperbaton, that is, the transposition of a word, is often demanded by the structure of the sentence and the claims of elegance, and is consequently counted among the ornaments of style. For our language would often be harsh, rough, limp or disjointed, if the words were always arranged in their natural order and attached each to each just as they occur, despite the fact that there is no real bond of union. Consequently some words require to be postponed, others to be anticipated, each being set in its appropriate place.
+
+[129731] For we are like those who build a wall of unhewn stone: we cannot hew or polish our words in order to make them fit more compactly, and so we must take them as they are and choose suitable positions for them.
+
+[129941] Further, it is impossible to make our prose rhythmical except by artistic alterations in the order of words, and the reason why those four words in which Plato in the noblest of his works states that he had gone down to the Piraeus were found written in a number of different orders upon his wax tablets, was simply that he desired to make the rhythm as perfect as possible.
+
+[130317] When, however, the transposition is confined to two words only, it is called anastrophe, that is, a reversal of order. This occurs in everyday speech in mecum and secure, while in orators and historians we meet with it in the phrase quibus de rebus. It is the transposition of a word to some distance from its original place, in order to secure an ornamental effect, that is strictly called hyperbaton: the following passage will provide an example: animadverti, indices, omnem accusatoris orationenm in duas divisam esse partes. (I noted, gentlemen, that the speech of the accuser was divided into two parts.) In this case the strictly correct order would be in duas partes divisam esse, but this would have been harsh and ugly.
+
+[131048] The poets even go so far as to secure this effect by the division of words, as in the line: Hyperboreo septem subiecta trioni
+
+[131175] (Under the Hyperborean Wain), a licence wholly inadmissible in oratory. Still there is good reason for calling such a transposition a trope, since the meaning is not complete until the two words have been put together.
+
+[131395] On the other hand, when the transposition makes no alteration in the sense, and merely produces a variation in the structure, it is rather to be called a verbal figure, as indeed many authorities have held. Of the faults resulting from long or confused hyperbata have spoken in the appropriate place. I have kept hyperbole to the last, on the ground of its boldness. It means an elegant straining of the truth, and may be employed indifferently for exaggeration or attenuation. It can be used in various ways.
+
+[131906] We may say more than the actual facts, as when Cicero says, "He vomited and filled his lap and the whole tribunal with fragments of food, or when Virgil speaks of win rocks that threaten heaven.
+
+[132102] Again, we may exalt our theme by the use of simile, as in the phrase:
+
+[132173] Thou wouldst have deemed
+
+[132199] That Cyclad isles uprooted swam the deep.
+
+[132242] Or we may produce the same result by introducing a comparison, as in the phrase:
+
+[132324] Swifter than the levin's wings;
+
+[132357] or by the use of indications, as in the lines:
+
+[132405] She would fly
+
+[132420] Even o'er the tops of the unsickled corn,
+
+[132463] Nor as she ran would bruise the tender ears.
+
+[132509] Or we may employ a metaphor, as the verb to fly is employed in the passage just quoted.
+
+[132598] Sometimes, again, one hyperbole may be heightened by the addition of another, as when Cicero in denouncing Antony says:
+
+[132719] What Charybdis was ever so voracious? Charybdis, do I say? Nay, if Charybdis ever existed, she was but a single monster. By heaven, even Ocean's self, methinks, could scarce have engulfed so many things, so widely scattered in such distant places, in such a twinkling of the eye.
+
+[133000] I think, too, that I am right in saying that I noted a brilliant example of the same kind in the Hymns of Pindar, the prince of lyric poets. For when he describes the onslaught made by Hercules upon the Meropes, the legendary inhabitants of the island of Cos, he speaks of the hero as like not to fire, winds or sea, but to the thunderbolt, making the latter the only true equivalent of his speed and power, the former being treated as quite inadequate.
+
+[133455] Cicero has imitated his method in the following passage from the Verrines: After long lapse of years the Sicilians saw dwelling in their midst, not a second Dionysius or Phalaris (for that island has produced many a cruel tyrant in years gone by), but a new monster with all the old ferocity once familiar to those regions. For, to my thinking, neither Scylla nor Charybdis were ever such foes as he to the ships that sailed those same narrow seas.
+
+[133905] The methods of hyperbole by attenuation are the same in number. Compare the Virgilian
+
+[133992] Scarce cling they to their bones, or the lines from a humorous work of Cicero's,
+
+[134074] Fundum Vetto vocat quem possit mittere funda;
+
+[134121] Ni tamen exciderit, qua cava funda patet.
+
+[134164] Vetto gives the name of farm to an estate which might easily be hurled from a sling, though it might well fall through the hole in the hollow sling, so small is it.
+
+[134330] But even here a certain proportion must be observed. For although every hyperbole involves the incredible, it must not go too far in this direction, which provides the easiest road to extravagant affectation.
+
+[134540] I shrink from recording the faults to which the lack of this sense of proportion has given rise, more especially as they are so well known and obvious. It is enough to say that hyperbole lies, though without any intention to deceive. We must therefore be all the more careful to consider how far we may go in exaggerating facts which our audience may refuse to believe. Again, hyperbole will often cause a laugh. If that was what the orator desired, we may give him credit for wit; otherwise we can only call him a fool.
+
+[135062] Hyperbole is employed even by peasants and uneducated persons, for the good reason that everybody has an innate passion for exaggeration or attenuation of actual facts, and no one is ever contented with the simple truth. But such disregard of truth is pardonable, for it does not involve the definite assertion of the thing that is not. Hyperbole is, moreover, a virtue, when the subject on which we have to speak is abnormal. For we are allowed to amplify, when the magnitude of the facts passes all words, and in such circumstances our language will be more effective if it goes beyond the truth than if it falls short of it. However, I have said enough on this topic, since I have already dealt with it in my work on the causes of the decline of oratory.

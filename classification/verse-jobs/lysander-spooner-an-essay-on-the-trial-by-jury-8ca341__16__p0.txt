@@ -1,0 +1,65 @@
+WORK: An Essay on the Trial by Jury  (slug: lysander-spooner-an-essay-on-the-trial-by-jury-8ca341)
+
+CHAPTER: 16
+
+
+
+[0] It is a principle of Magna Carta, and therefore of the trial by jury, (for all parts of Magna Carta must be construed together,) that no judge or other officer appointed by the king, shall preside in jury trials, in criminal cases, or “pleas of the crown.”
+
+[258] This provision is contained in the great charters of both John and Henry, and is second in importance only to the provision guaranteeing the trial by jury, of which it is really a part. Consequently, without the observance of this prohibition; there can be no genuine or legal—that is, common law—trial by jury.
+
+[571] At the common law, all officers who held jury trials, whether in civil or criminal cases, were chosen by the people.*
+
+[690] But previous to Magna Carta, the kings had adopted the practice of sending officers of their own appointment, called justices, into the counties, to hold jury trials in some cases; and Magna Carta authorizes this practice to be continued so far as it relates to three kinds of civil actions, to wit: “novel disseisin, mort de ancestor, and darrein presentment;”* but specially forbids its being extended to criminal cases, or pleas of the crown.
+
+[1137] This prohibition is in these words:
+
+[1174] “Nullus vicecomes, constabularius, coronator, vel alii balivi nostri, teneant placita coronæ nostræ.” (No sheriff, constable, coroner, or other our bailiffs, shall hold pleas of our crown.)
+
+[1365] Some persons seem to have supposed that this was a prohibition merely upon officers bearing the specific names of “sheriffs, constables, coroners and bailiffs,” to hold criminal trials. But such is not the meaning. If it were, the name [159] could be changed, and the thing retained; and thus the prohibition be evaded. The prohibition applies (as will presently be seen) to all officers of the king whatsoever; and it sets up a distinction between officers of the king, (“our bailiffs,”) and officers chosen by the people.
+
+[1890] The prohibition upon the king’s justices sitting in criminal trials, is included in the words “vel alii balivi nostri,” (or other our bailiffs.) The word bailiff was anciently a sort of general name for judicial officers and persons employed in and about the administration of justice. In modern times its use, as applied to the higher grades of judicial officers, has been superseded by other words; and it therefore now, more generally, if not universally, signifies an executive or police officer, a servant of courts, rather than one whose functions are purely judicial.
+
+[2466] The word is a French word, brought into England by the Normans.
+
+[2531] Coke says, “Baylife is a French word, and signifies an officer concerned in the administration of justice of a certain province; and because a sheriff kath an office concerning the administration of justice within his county, or bailiwick, therefore he called his county baliva sua, (his bailiwick.)
+
+[2832] “I have heard great question made what the true exposition of this word balivus is. In the statute of Magna Carta, cap. 28, the letter of that statute is, nullus balivus de cætero ponat aliquem ad legem manifestam nec ad juramentum simplici loquela sua sine testibus fidelibus ad hoc inductis.” (No bailiff from henceforth shall put any one to his open law, nor to an oath (of self-exculpation) upon his own simple accusation, or complaint, without faithful witnesses brought in for the same.) “And some have said that balivus in this statute signifieth any judge; for the law must be waged and made before the judge. And this statute (say they) extends to the courts of common pleas, king’s bench, &c., for they must bring with them fideles testes, (faithful witnesses,) &c., and so hath been the usage to this day.”
+
+[3651] Coke makes various references, in his margin to Bracton, Fleta, and other authorities, which I have not examined, but which, I presume, support the opinion expressed in this quotation.
+
+[3837] Coke also, in another place, under the head of the chapter [160] just cited from Magna Carta, that “no bailiff shall put any man to his open law,” &c., gives the following commentary upon it, from the Mirror of Justices, from which it appears that in the time of Edward I., (1272 to 1307,) this word balivus was understood to include all judicial, as well as all other, officers of the king.
+
+[4230] The Mirror says: “The point which forbiddeth that no bailiff put a freeman to his oath without suit, is to be understood in this manner,—that no justice, no minister of the king, nor other steward, nor bailiff, have power to make a freeman make oath, (of self-exculpation,) without the king’s command,* nor receive any plaint, without witnesses present who testify the plaint to be true.”
+
+[4620] Coke quotes this commentary, (in the original French,) and then endorses it in these words:
+
+[4713] “By this it appeareth, that under this word balivus, in this act, is comprehended every justice, minister of the king, steward, and bailiff.”
+
+[4856] Coke also, in his commentary upon this very chapter of Magna Carta, that provides that “no sheriff, constable, coroner, or other our bailiffs, shall hold pleas of our crown,” expresses the opinion that it “is a general law,” (that is, applicable to all officers of the king,) “by reason of the words vel alii balivi nostri, (or other our bailiffs,) under which words are comprehended all judges or justices of any courts of justice.” And he cites a decision in the king’s bench, in the 17th year of Edward I., (1289,) as authority; which decision he calls “a notable and leading judgment.”—2 Inst., 30—1.
+
+[5462] And yet Coke, in flat contradiction of this decision, which he quotes with such emphasis and approbation, and in flat contradiction also of the definition he repeatedly gives of the word balivus, showing that it embraced all ministers of the king whatsoever, whether high or low, judicial or executive, fabricates an entirely gratuitous interpretation of this chapter [161] of Magna Carta, and pretends that after all it only required that felonies should be tried before the king’s justices, on account of their superior learning; and that it permitted all lesser offences to be tried before inferior officers, (meaning of course the king’s inferior officers.)—2 Inst., 30.
+
+[6138] And thus this chapter of Magna Carta, which, according to his own definition of the word balivus, applies to all officers of the king; and which, according to the common and true definition of the term “pleas of the crown,” applies to all criminal cases without distinction, and which, therefore, forbids any officer or minister of the king to preside in a jury trial in any criminal case whatsoever, he coolly and gratuitously interprets into a mere senseless provision for simply restricting the discretion of the king in giving names to his own officers who should preside at the trials of particular offences; as if the king, who made and unmade all his officers by a word, could not defeat the whole object of the prohibition, by appointing such individuals as he pleased, to try such causes as he pleased, and calling them by such names as he pleased, if he were but permitted to appoint and name such officers at all; and as if it were of the least importance what name an officer bore, whom the king might appoint to a particular duty.*
+
+[7184] Coke evidently gives this interpretation solely because, as he was giving a general commentary on Magna Carta, he was bound to give some interpretation or other to every chapter of it; and for this chapter he could invent, or fabricate, (for it is [163] a sheer fabrication,) no interpretation better suited to his purpose than this. It seems never to have entered his mind, (or if it did, he intended that it should never enter the mind of anybody else,) that the object of the chapter could be to deprive the king of the power of putting his creatures into criminal courts, to pack, cheat, and browbeat juries, and thus maintain his authority by procuring the conviction of those who should transgress his laws, or incur his displeasure.
+
+[7925] This example of Coke tends to show how utterly blind, or how utterly corrupt, English judges, (dependent upon the crown and the legislature), have been in regard to everything in Magna Carta, that went to secure the liberties of the people, or limit the power of the government.
+
+[8205] Coke’s interpretation of this chapter of Magna Carta is of a piece with his absurd and gratuitous interpretation of the words “nec super eum ibimus, nec super eum mittemus,” which was pointed out in a former article, and by which he attempted to give a judicial power to the king and his judges, where Magna Carta had given it only to a jury. It is also of a piece with his pretence that there was a difference between [164] fine and amercement, and that fines might be imposed by the king, and that juries were required only for fixing amercements.
+
+[8756] These are some of the innumerable frauds by which the English people have been cheated out of the trial by jury.
+
+[8870] Ex uno disce omnes. From one judge learn the characters of all.*
+
+[8936] I give in the note additional and abundant authorities for [165] the meaning ascribed to the word bailiff. The importance of the principle involved will be a sufficient excuse for such an accumulation of authorities as would otherwise be tedious and perhaps unnecessary.*
+
+[9209] The foregoing interpretation of the chapter of Magna Carta now under discussion, is corroborated by another chapter of [166] Magna Carta, which specially provides that the king’s justices shall “go through every county” to “take the assizes” (hold jury trials) in three kinds of civil actions, to wit, “novel disseisin, mort de ancestor, and darrein presentment;” but makes no mention whatever of their holding jury trials in criminal cases,—an omission wholly unlikely to be made, if it were [167] designed they should attend the trial of such causes. Besides, the chapter here spoken of (in John’s charter) does not allow these justices to sit alone in jury trials, even in civil actions; but provides that four knights, chosen by the county, shall sit [168] with them to keep them honest. When the king’s justices were known to be so corrupt and servile that the people would not even trust them to sit alone, in jury trials, in civil actions, [169] how preposterous is it to suppose that they would not only suffer them to sit, but to sit alone, in criminal ones.
+
+[10278] It is entirely incredible that Magna Carta, which makes such careful provision in regard to the king’s justices sitting in civil actions, should make no provision whatever as to their sitting in criminal trials, if they were to be allowed to sit in them at all. Yet Magna Carta has no provision whatever on the subject.*
+
+[10600] But what would appear to make this matter absolutely certain is, that unless the prohibition that “no bailiff, &c., of ours shall hold pleas of our crown,” apply to all officers of the king, justices as well as others, it would be wholly nugatory for any practical or useful purpose, because the prohibition could be evaded by the king, at any time, by simply changing the titles of his officers. Instead of calling them “sheriffs, coroners, constables and bailiffs,” he could call them “justices,” or anything else he pleased; and this prohibition, so important to the liberty of the people, would then be entirely defeated. The king also could make and unmake “justices” at his pleasure; and if he could appoint any officers whatever to preside over juries in criminal trials, he could appoint any tool that he might at any time find adapted to his purpose. It was as easy to make justices of Jeffreys and Scroggs, as of any other material; and to have prohibited all the king’s officers, except his justices, from presiding in criminal trials, would therefore have been mere fool’s play.
+
+[11692] We can all perhaps form some idea, though few of us will be likely to form any adequate idea, of what a different thing [171] the trial by jury would have been in practice, and of what would have been the difference to the liberties of England, for five hundred years last past, had this prohibition of Magna Carta, upon the king’s officers sitting in the trial of criminal cases, been observed.
+
+[12089] The principle of this chapter of Magna Carta, as applicable to the governments of the United States of America, forbids that any officer appointed either by the executive or legislative power, or dependent upon them for their salaries, or responsible to them by impeachment, should preside over a jury in criminal trials. To have the trial a legal (that is, a common law) and true trial by jury, the presiding officers must be chosen by the people, and be entirely free from all dependence upon, and all accountability to, the executive and legislative branches of the government.*

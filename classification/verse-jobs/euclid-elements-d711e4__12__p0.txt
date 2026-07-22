@@ -1,0 +1,787 @@
+WORK: Elements  (slug: euclid-elements-d711e4)
+
+CHAPTER: 12
+
+
+
+[0] The predominant feature of Book XII. is the use of the method of exhaustion, which is applied in Propositions 2, 3-5, 10, 11, 12, and (in a slightly different form) in Propositions 16-18. We conclude therefore that for the content of this Book Euclid was greatly indebted to Eudoxus, to whom the discovery of the method of exhaustion is attributed. The evidence for this attribution comes mainly from Archimedes. (1) In the preface to On the Sphere and Cylinder I., after stating the main results obtained by himself regarding the surface of a sphere or a segment thereof, and the volume and surface of a right cylinder with height equal to its diameter as compared with those of a sphere with the same diameter, Archimedes adds: Having now discovered that the properties mentioned are true of these figures, I cannot feel any hesitation in setting them side by side both with my former investigations and with those of the theorems of Eudoxus on solids which are held to be most irrefragably established, namely that any pyramid is one third part of the prism which has the same base with the pyramid and equal height [i.e. Eucl. XII. 7], and that any cone is one third part of the cylinder which has the same base with the cone and equal height [i.e. Eucl. XII. 10]. For, though these properties also were naturally inherent in the figures all along, yet they were in fact unknown to all the many able geometers who lived before Eudoxus and had not been observed by any one. (2) In the preface to the treatise known as the Quadrature of the Parabola Archimedes states the lemma assumed by him and known as the Axiom of Archimedes (see note on X. 1 above) and proceeds: Earlier geometers (οἱ πρότερον γεωμέτραι) have also used this lemma; for it is by the use of this same lemma that they have shown that circles are to one another in the duplicate ratio of their diameters [Eucl. XII. 2], and that spheres are to one another in the triplicate ratio of their diameters [Eucl. XII. 18], and further that every pyramid is one third part of the prism which has the same base with the pyramid and equal height [Eucl. XII. 7]; also, that every cone is one third part of the cylinder which has the same base with the cone and equal height [Eucl. XII. 10] they proved by assuming a certain lemma similar to that aforesaid. Thus in the first passage two theorems of Eucl. XII. are definitely attributed to Eudoxus; and, when Archimedes says, in the second passage, that earlier geometers proved these two theorems by means of the lemma known as the Axiom of Archimedes and of a lemma similar to it respectively, we can hardly suppose him to be alluding to any other proof than that given by Eudoxus. As a matter of fact, the lemma used by Euclid to prove both propositions (XII. 3-5 and 7, and XII. 10) is the theorem of Eucl. X. 1. As regards the connexion between the two lemmas see note on X. 1.
+
+[2893] We are not, however, to suppose that none of the results obtained by the method of exhaustion had been discovered before the time of Eudoxus (fl. about 368-5 B.C.). Two at least are of earlier date, those of Eucl. XII. 2 and XII. 7.
+
+[3127] (a) Simplicius (Comment. in Aristot. Phys. p. 61, ed. Diels) quotes Eudemus as saying, in his History of Geometry, that Hippocrates of Chios (fl. say 430 B.C.) first laid it down (ἔθετο) that similar segments of circles are in the ratio of the squares on their bases and that he proved this (ἐδείκνυεν) by proving (ἐκ τοῦ δεῖξαι) that the squares on the diameters have the same ratio as the (whole) circles. We know nothing of the method by which Hippocrates proved this proposition; but, having regard to the evidence from Archimedes quoted above, it is not permissible to suppose that the method was the fully developed method of exhaustion as we know it.
+
+[3786] (b) As regards the two theorems about the volume of a pyramid and of a cone respectively, which Eudoxus was the first to prove, we now have authentic evidence in the short treatise by Archimedes discovered by Heiberg in a MS. at Constantinople in 1906 and published in Hermes the following year (see now Archimedis opera omnia, ed. Heiberg, 2. ed., Vol. II., 1913, pp. 425-507; T. L. Heath, The Method of Archimedes, Cambridge, 1912). The said treatise, complete in all essentials, bears the title Ἀρχιμήδους περὶ τῶν μηχανικῶν θεωρημάτων πρὸς Ἐρατοσθένην ἔφοδος. This Method (or Plan of attack), addressed to Eratosthenes, is none other than the ἐφόδιον on which, according to Suidas, Theodosius wrote a commentary, and which is several times cited by Heron in his Metrica; its discovery adds a new and important chapter to the history of the integral calculus. In the preface to this work Archimedes alludes to the theorems which he first discovered by means of mechanical considerations, but proved afterwards by geometry, because the investigation by means of mechanics did not constitute a rigid proof; he observes, however, that the mechanical method is of great use for the discovery of theorems, and it is much easier to provide the rigid proof when the fact to be proved has once been discovered than it would be if nothing were known to begin with. He goes on: Hence too, in the case of those theorems the proof of which was first discovered by Eudoxus, namely those relating to the cone and the pyramid, that the cone is one third part of the cylinder, and the pyramid one third part of the prism, having the same base and equal height, no small part of the credit will naturally be assigned to Democritus, who was the first to make the statement (of the fact) regarding the said figure [i.e. property], though without proving it. Hence the discovery of the two theorems must now be attributed to Democritus (fl. towards the end of 5th cent. B.C.). The words without proving it (χωρὶς ἀποδείξεως) do not mean that Democritus gave no sort of proof, but only that he did not give a proof on the rigorous lines required later; for the same words are used by Archimedes of his own investigations by means of mechanics, which, however, do constitute a reasoned argument. The character of Archimedes' mechanical arguments combined with a passage of Plutarch about a particular question in infinitesimals said to have been raised by Democritus may perhaps give a clue to the line of Democritus' argument as regards the pyramid. The essential feature of Archimedes' mechanical arguments in this tract is that he regards an area as the sum of an infinite number of siraight lines parallel to one another and terminated by the boundary or boundaries of the closed figure the area of which is to be found, and a volume as the sum of an infinite number of plane sections parallel to one another: which is of course the same thing as taking (as we do in the integral calculus) the sum of an infinite number of strips of breadth dx (say), when dx becomes indefinitely small, or the sum of an infinite number of parallel laminae of depth dz (say), when dz becomes indefinitely small. To give only one instance, we may take the case of the area of a segment of a parabola cut off by a chord.
+
+[7074] Let CBA be the parabolic segment, CE the tangent at C meeting the diameter EBD through the middle point of the chord CA in E, so that.
+
+[7210] Draw AF parallel to ED meeting CE produced in F. Produce CB to H so that, where K is the point in which CH meets AF; and suppose CH to be a lever.
+
+[7358] Let any diameter MNPO be drawn meeting the curve in P and CF, CK, CA in M, N, O respectively.
+
+[7453] Archimedes then observes that (for this is proved in a lemma), whence, so that, if a straight line TG equal to PO be placed with its middle point at H, the straight line MO with centre of gravity at N, and the straight line TG with centre of gravity at H, will balance about K.
+
+[7732] Taking all other parts of diameters like PO intercepted between the curve and CA, and placing equal straight lines with their centres of gravity at H, these straight lines collected at H will balance (about K) all the lines like MO parallel to FA intercepted within the triangle CFA in the positions in which they severally lie in the figure.
+
+[8076] Hence Archimedes infers that an area equal to that of the parabolic segment hung at H will balance (about K) the triangle CFA hung at its centre of gravity, the point X (a point on CK such that), and therefore that, from which it follows that.
+
+[8321] The same sort of argument is used for solids, plane sections taking the place of straight lines.
+
+[8419] Archimedes is careful to state once more that this method of argument does not constitute a proof. Thus, at the end of the above proposition about the parabolic segment, he adds: This property is of course not proved by what has just been said; but it has furnished a sort of indication (ἔμφασίν τινα) that the conclusion is true.
+
+[8751] Let us now turn to the passage of Plutarch (De Comm. Not. adv. Stoicos XXXIX 3) about Democritus above referred to. Plutarch speaks of Democritus as having raised the question in natural philosophy (φυσικῶς): if a cone were cut by a plane parallel to the base [by which is clearly meant a plane indefinitely near to the base], what must we think of the surfaces of the sections, that they are equal or unequal? For, if they are unequal, they will make the cone irregular, as having many indentations, like steps, and unevennesses; but, if they are equal, the sections will be equal, and the cone will appear to have the property of the cylinder and to be made up of equal, not unequal circles, which is very absurd. The phrase made up of equal...circles (ἐξ ἴσων συγκείμενος...κύκλων) shows that Democritus already had the idea of a solid being the sum of an infinite number of parallel planes, or indefinitely thin laminae, indefinitely near together: a most important anticipation of the same thought which led to such fruitful results in Archimedes. If then one may hazard a conjecture as to Democritus' argument with regard to a pyramid, it seems probable that he would notice that, if two pyramids of the same height and equal triangular bases are respectively cut by planes parallel to the base and dividing the heights in the same ratio, the corresponding sections of the two pyramids are equal, whence he would infer that the pyramids are equal as being the sum of the same infinite number of equal plane sections or indefinitely thin laminae. (This would be a particular anticipation of Cavalieri's proposition that the areal or solid contents of two figures are equal if two sections of them taken at the same height, whatever the height may be, always give equal straight lines or equal surfaces respectively.) And Democritus would of course see that the three pyramids into which a prism on the same base and of equal height with the original pyramid is divided (as in Eucl. XII. 7) satisfy this test of equality, so that the pyramid would be one third part of the prism. The extension to a pyramid with a polygonal base would be easy. And Democritus may have stated the proposition for the cone (of course without an absolute proof) as a natural inference from the result of increasing indefinitely the number of sides in a regular polygon forming the base of a pyramid.
+
+[11136] Similar polygons inscribed in circles are to one another as the squares on the diameters.
+
+[11227] Let ABC, FGH be circles, let ABCDE, FGHKL be similar polygons inscribed in them, and let BM, GN be diameters of the circles; I say that, as the square on BM is to the square on GN, so is the polygon ABCDE to the polygon FGHKL.
+
+[11455] For let BE, AM, GL, FN be joined.
+
+[11490] Now, since the polygon ABCDE is similar to the polygon FGHKL, the angle BAE is equal to the angle GFL, and, as BA is to AE, so is GF to FL. [VI. Def. I]
+
+[11644] Thus BAE, GFL are two triangles which have one angle equal to one angle, namely the angle BAE to the angle GFL, and the sides about the equal angles proportional; therefore the triangle ABE is equiangular with the triangle FGL. [ VI. 6]
+
+[11882] Therefore the angle AEB is equal to the angle FLG.
+
+[11934] But the angle AEB is equal to the angle AMB, for they stand on the same circumference; [ III. 27] and the angle FLG to the angle FNG; therefore the angle AMB is also equal to the angle FNG.
+
+[12125] But the right angle BAM is also equal to the right angle GFN; [ III. 31] therefore the remaining angle is equal to the remaining angle. [ I. 32]
+
+[12271] Therefore the triangle ABM is equiangular with the triangle FGN.
+
+[12337] Therefore, proportionally, as BM is to GN, so is BA to GF. [ VI. 4]
+
+[12406] But the ratio of the square on BM to the square on GN is duplicate of the ratio of BM to GN, and the ratio of the polygon ABCDE to the polygon FGHKL is duplicate of the ratio of BA to GF; [ VI. 20] therefore also, as the square on BM is to the square on GN, so is the polygon ABCDE to the polygon FGHKL.
+
+[12711] Therefore etc. Q. E. D.
+
+[12736] Circles are to one another as the squares on the diameters.
+
+[12797] Let ABCD, EFGH be circles, and BD, FH their diameters; I say that, as the circle ABCD is to the circle EFGH, so is the square on BD to the square on FH.
+
+[12951] For, if the square on BD is not to the square on FH as the circle ABCD is to the circle EFGH, then, as the square on BD is to the square on FH, so will the circle ABCD be either to some less area than the circle EFGH, or to a greater.
+
+[13187] First, let it be in that ratio to a less area S.
+
+[13237] Let the square EFGH be inscribed in the circle EFGH; then the inscribed square is greater than the half of the circle EFGH, inasmuch as, if through the points E, F, G, H we draw tangents to the circle, the square EFGH is half the square circumscribed about the circle, and the circle is less than the circumscribed square; hence the inscribed square EFGH is greater than the half of the circle EFGH.
+
+[13638] Let the circumferences EF, FG, GH, HE be bisected at the points K, L, M, N, and let EK, KF, FL, LG, GM, MH, HN, NE be joined; therefore each of the triangles EKF, FLG, GMH, HNE is also greater than the half of the segment of the circle about it, inasmuch as, if through the points K, L, M, N we draw tangents to the circle and complete the parallelograms on the straight lines EF, FG, GH, HE, each of the triangles EKF, FLG, GMH, HNE will be half of the parallelogram about it, while the segment about it is less than the parallelogram; hence each of the triangles EKF, FLG, GMH, HNE is greater than the half of the segment of the circle about it.
+
+[14287] Thus, by bisecting the remaining circumferences and joining straight lines, and by doing this continually, we shall leave some segments of the circle which will be less than the excess by which the circle EFGH exceeds the area S.
+
+[14518] For it was proved in the first theorem of the tenth book that, if two unequal magnitudes be set out, and if from the greater there be subtracted a magnitude greater than the half, and from that which is left a greater than the half, and if this be done continually, there will be left some magnitude which will be less than the lesser magnitude set out.
+
+[14873] Let segments be left such as described, and let the segments of the circle EFGH on EK, KF, FL, LG, GM, MH, HN, NE be less than the excess by which the circle EFGH exceeds the area S.
+
+[15057] Therefore the remainder, the polygon EKFLGMHN, is greater than the area S.
+
+[15133] Let there be inscribed, also, in the circle ABCD the polygon AOBPCQDR similar to the polygon EKFLGMHN; therefore, as the square on BD is to the square on FH, so is the polygon AOBPCQDR to the polygon EKFLGMHN. [ XII. 1]
+
+[15354] But, as the square on BD is to the square on FH, so also is the circle ABCD to the area S; therefore also, as the circle ABCD is to the area S, so is the polygon AOBPCQDR to the polygon EKFLGMHN; [ V. 11] therefore, alternately, as the circle ABCD is to the polygon inscribed in it, so is the area S to the polygon EKFLGMHN. [ V. 16]
+
+[15689] But the circle ABCD is greater than the polygon inscribed in it; therefore the area S is also greater than the polygon EKFLGMHN.
+
+[15819] But it is also less: which is impossible.
+
+[15862] Therefore, as the square on BD is to the square on FH, so is not the circle ABCD to any area less than the circle EFGH.
+
+[15983] Similarly we can prove that neither is the circle EFGH to any area less than the circle ABCD as the square on FH is to the square on BD.
+
+[16121] I say next that neither is the circle ABCD to any area greater than the circle EFGH as the square on BD is to the square on FH.
+
+[16250] For, if possible, let it be in that ratio to a greater area S.
+
+[16314] Therefore, inversely, as the square on FH is to the square on DB, so is the area S to the circle ABCD.
+
+[16418] But, as the area S is to the circle ABCD, so is the circle EFGH to some area less than the circle ABCD; therefore also, as the square on FH is to the square on BD, so is the circle EFGH to some area less than the circle ABCD: [ V. 11] which was proved impossible.
+
+[16683] Therefore, as the square on BD is to the square on FH, so is not the circle ABCD to any area greater than the circle EFGH.
+
+[16807] And it was proved that neither is it in that ratio to any area less than the circle EFGH; therefore, as the square on BD is to the square on FH, so is the circle ABCD to the circle EFGH.
+
+[16995] Therefore etc. Q. E. D.
+
+[17020] Lemma. I say that, the area S being greater than the circle EFGH, as the area S is to the circle ABCD, so is the circle EFGH to some area less than the circle ABCD.
+
+[17186] For let it be contrived that, as the area S is to the circle ABCD, so is the circle EFGH to the area T.
+
+[17291] I say that the area T is less than the circle ABCD.
+
+[17344] For since, as the area S is to the circle ABCD, so is the circle EFGH to the area T, therefore, alternately, as the area S is to the circle EFGH, so is the circle ABCD to the area T. [ V. 16]
+
+[17537] But the area S is greater than the circle EFGH; therefore the circle ABCD is also greater than the area T.
+
+[17645] Hence, as the area S is to the circle ABCD, so is the circle EFGH to some area less than the circle ABCD. Q. E. D.
+
+[17761] Any pyramid which has a triangular base is divided into two pyramids equal and similar to one another, similar to the whole and having triangular bases, and into two equal prisms; and the two prisms are greater than the half of the whole pyramid.
+
+[18009] Let there be a pyramid of which the triangle ABC is the base and the point D the vertex; I say that the pyramid ABCD is divided into two pyramids equal to one another, having triangular bases and similar to the whole pyramid, and into two equal prisms; and the two prisms are greater than the half of the whole pyramid.
+
+[18330] For let AB, BC, CA, AD, DB, DC be bisected at the points E, F, G, H, K, L, and let HE, EG, GH, HK, KL, LH, KF, FG be joined.
+
+[18456] Since AE is equal to EB, and AH to DH, therefore EH is parallel to DB. [ VI. 2]
+
+[18537] For the same reason HK is also parallel to AB.
+
+[18585] Therefore HEBK is a parallelogram; therefore HK is equal to EB. [ I. 34]
+
+[18659] But EB is equal to EA; therefore AE is also equal to HK.
+
+[18717] But AH is also equal to HD; therefore the two sides EA, AH are equal to the two sides KH, HD respectively, and the angle EAH is equal to the angle KHD; therefore the base EH is equal to the base KD. [ I. 4]
+
+[18925] Therefore the triangle AEH is equal and similar to the triangle HKD.
+
+[18995] For the same reason the triangle AHG is also equal and similar to the triangle HLD.
+
+[19080] Now, since two straight lines EH, HG meeting one another are parallel to two straight lines KD, DL meeting one another, and are not in the same plane, they will contain equal angles. [ XI. 10]
+
+[19274] Therefore the angle EHG is equal to the angle KDL.
+
+[19326] And, since the two straight lines EH, HG are equal to the two KD, DL respectively, and the angle EHG is equal to the angle KDL, therefore the base EG is equal to the base KL; [ I. 4] therefore the triangle EHG is equal and similar to the triangle KDL.
+
+[19579] For the same reason the triangle AEG is also equal and similar to the triangle HKL.
+
+[19664] Therefore the pyramid of which the triangle AEG is the base and the point H the vertex is equal and similar to the pyramid of which the triangle HKL is the base and the point D the vertex. [ XI. Def. 10]
+
+[19869] And, since HK has been drawn parallel to AB, one of the sides of the triangle ADB, the triangle ADB is equiangular to the triangle DHK, [ I. 29] and they have their sides proportional; therefore the triangle ADB is similar to the triangle DHK. [ VI. Def. 1]
+
+[20128] For the same reason the triangle DBC is also similar to the triangle DKL, and the triangle ADC to the triangle DLH.
+
+[20245] Now, since the two straight lines BA, AC meeting one another are parallel to the two straight lines KH, HL meeting one another, not in the same plane, they will contain equal angles. [ XI. 10]
+
+[20439] Therefore the angle BAC is equal to the angle KHL.
+
+[20491] And, as BA is to AC, so is KH to HL; therefore the triangle ABC is similar to the triangle HKL.
+
+[20588] Therefore also the pyramid of which the triangle ABC is the base and the point D the vertex is similar to the pyramid of which the triangle HKL is the base and the point D the vertex.
+
+[20773] But the pyramid of which the triangle HKL is the base and the point D the vertex was proved similar to the pyramid of which the triangle AEG is the base and the point H the vertex.
+
+[20955] Therefore each of the pyramids AEGH, HKLD is similar to the whole pyramid ABCD.
+
+[21036] Next, since BF is equal to FC, the parallelogram EBFG is double of the triangle GFC.
+
+[21122] And since, if there be two prisms of equal height, and one have a parallelogram as base, and the other a triangle, and if the parallelogram be double of the triangle, the prisms are equal, [ XI. 39] therefore the prism contained by the two triangles BKF, EHG, and the three parallelograms EBFG, EBKH, HKFG is equal to the prism contained by the two triangles GFC, HKL and the three parallelograms KFCL, LCGH, HKFG.
+
+[21538] And it is manifest that each of the prisms, namely that in which the parallelogram EBFG is the base and the straight line HK is its opposite, and that in which the triangle GFC is the base and the triangle HKL its opposite, is greater than each of the pyramids of which the triangles AEG, HKL are the bases and the points H, D the vertices, inasmuch as, if we join the straight lines EF, EK, the prism in which the parallelogram EBFG is the base and the straight line HK its opposite is greater than the pyramid of which the triangle EBF is the base and the point K the vertex.
+
+[22117] But the pyramid of which the triangle EBF is the base and the point K the vertex is equal to the pyramid of which the triangle AEG is the base and the point H the vertex; for they are contained by equal and similar planes.
+
+[22341] Hence also the prism in which the parallelogram EBFG is the base and the straight line HK its opposite is greater than the pyramid of which the triangle AEG is the base and the point H the vertex.
+
+[22539] But the prism in which the parallelogram EBFG is the base and the straight line HK its opposite is equal to the prism in which the triangle GFC is the base and the triangle HKL its opposite, and the pyramid of which the triangle AEG is the base and the point H the vertex is equal to the pyramid of which the triangle HKL is the base and the point D the vertex.
+
+[22902] Therefore the said two prisms are greater than the said two pyramids of which the triangles AEG, HKL are the bases and the points H, D the vertices.
+
+[23052] Therefore the whole pyramid, of which the triangle ABC is the base and the point D the vertex, has been divided into two pyramids equal to one another and into two equal prisms, and the two prisms are greater than the half of the whole pyramid. Q. E. D.
+
+[23307] If there be two pyramids of the same height which have triangular bases, and each of them be divided into two pyramids equal to one another and similar to the whole, and into two equal prisms, then, as the base of the one pyramid is to the base of the other pyramid, so will all the prisms in the one pyramid be to all the prisms, being equal in multitude, in the other pyramid.
+
+[23687] Let there be two pyramids of the same height which have the triangular bases ABC, DEF, and vertices the points G, H, and let each of them be divided into two pyramids equal to one another and similar to the whole and into two equal prisms; [ XII. 3] I say that, as the base ABC is to the base DEF, so are all the prisms in the pyramid ABCG to all the prisms, being equal in multitude, in the pyramid DEFH,
+
+[24094] For, since BO is equal to OC, and AL to LC, therefore LO is parallel to AB, and the triangle ABC is similar to the triangle LOC.
+
+[24224] For the same reason the triangle DEF is also similar to the triangle RVF.
+
+[24299] And, since BC is double of CO, and EF of FV, therefore, as BC is to CO, so is EF to FV.
+
+[24388] And on BC, CO are described the similar and similarly situated rectilineal figures ABC, LOC, and on EF, FV the similar and similarly situated figures DEF, RVF; therefore, as the triangle ABC is to the triangle LOC, so is the triangle DEF to the triangle RVF; [ VI. 22] therefore, alternately, as the triangle ABC is to the triangle DEF, so is the triangle LOC to the triangle RVF. [ V. 16]
+
+[24779] But, as the triangle LOC is to the triangle RVF, so is the prism in which the triangle LOC is the base and PMN its opposite to the prism in which the triangle RVF is the base and STU its opposite; [Lemma following] therefore also, as the triangle ABC is to the triangle DEF, so is the prism in which the triangle LOC is the base and PMN its opposite to the prism in which the triangle RVF is the base and STU its opposite.
+
+[25203] But, as the said prisms are to one another, so is the prism in which the parallelogram KBOL is the base and the straight line PM its opposite to the prism in which the parallelogram QEVR is the base and the straight line ST its opposite. [ XI. 39; cf. XII. 3]
+
+[25464] Therefore also the two prisms, that in which the parallelogram KBOL is the base and PM its opposite, and that in which the triangle LOC is the base and PMN its opposite, are to the prisms in which QEVR is the base and the straight line ST its opposite and in which the triangle RVF is the base and STU its opposite in the same ratio [ V. 12]
+
+[25807] Therefore also, as the base ABC is to the base DEF, so are the said two prisms to the said two prisms.
+
+[25911] And similarly, if the pyramids PMNG, STUH be divided into two prisms and two pyramids, as the base PMN is to the base STU, so will the two prisms in the pyramid PMNG be to the two prisms in the pyramid STUH.
+
+[26120] But, as the base PMN is to the base STU, so is the base ABC to the base DEF; for the triangles PMN, STU are equal to the triangles LOC, RVF respectively.
+
+[26275] Therefore also, as the base ABC is to the base DEF, so are the four prisms to the four prisms.
+
+[26371] And similarly also, if we divide the remaining pyramids into two pyramids and into two prisms, then, as the base ABC is to the base DEF, so will all the prisms in the pyramid ABCG be to all the prisms, being equal in multitude, in the pyramid DEFH. Q. E. D.
+
+[26630] Lemma. But that, as the triangle LOC is to the triangle RVF, so is the prism in which the triangle LOC is the base and PMN its opposite to the prism in which the triangle RVF is the base and STU its opposite, we must prove as follows.
+
+[26866] For in the same figure let perpendiculars be conceived drawn from G, H to the planes ABC, DEF; these are of course equal because, by hypothesis, the pyramids are of equal height.
+
+[27046] Now, since the two straight lines GC and the perpendicular from G are cut by the parallel planes ABC, PMN, they will be cut in the same ratios. [ XI. 17]
+
+[27201] And GC is bisected by the plane PMN at N; therefore the perpendicular from G to the plane ABC will also be bisected by the plane PMN.
+
+[27336] For the same reason the perpendicular from H to the plane DEF will also be bisected by the plane STU.
+
+[27439] And the perpendiculars from G, H to the planes ABC, DEF are equal; therefore the perpendiculars from the triangles PMN, STU to the planes ABC, DEF are also equal.
+
+[27603] Therefore the prisms in which the triangles LOC, RVF are bases, and PMN, STU their opposites, are of equal height.
+
+[27719] Hence also the parallelepipedal solids described from the said prisms are of equal height and are to one another as their bases; [ XI. 32] therefore their halves, namely the said prisms, are to one another as the base LOC is to the base RVF. Q. E. D.
+
+[27971] Pyramids which are of the same height and have triangular bases are to one another as the bases.
+
+[28069] Let there be pyramids of the same height, of which the triangles ABC, DEF are the bases and the points G, H the vertices; I say that, as the base ABC is to the base DEF, so is the pyramid ABCG to the pyramid DEFH.
+
+[28284] For, if the pyramid ABCG is not to the pyramid DEFH as the base ABC is to the base DEF, then, as the base ABC is to the base DEF, so will the pyramid ABCG be either to some solid less than the pyramid DEFH or to a greater.
+
+[28508] Let it, first, be in that ratio to a less solid W, and let the pyramid DEFH be divided into two pyramids equal to one another and similar to the whole and into two equal prisms; then the two prisms are greater than the half of the whole pyramid. [ XII. 3]
+
+[28765] Again, let the pyramids arising from the division be similarly divided, and let this be done continually until there are left over from the pyramid DEFH some pyramids which are less than the excess by which the pyramid DEFH exceeds the solid W. [ X. 1]
+
+[29019] Let such be left, and let them be, for the sake of argument, DQRS, STUH; therefore the remainders, the prisms in the pyramid DEFH, are greater than the solid W.
+
+[29181] Let the pyramid ABCG also be divided similarly, and a similar number of times, with the pyramid DEFH; therefore, as the base ABC is to the base DEF, so are the prisms in the pyramid ABCG to the prisms in the pyramid DEFH. [ XII. 4]
+
+[29414] But, as the base ABC is to the base DEF, so also is the pyramid ABCG to the solid W; therefore also, as the pyramid ABCG is to the solid W, so are the prisms in the pyramid ABCG to the prisms in the pyramid DEFH; [ V. 11] therefore, alternately, as the pyramid ABCG is to the prisms in it, so is the solid W to the prisms in the pyramid DEFH. [ V. 16]
+
+[29767] But the pyramid ABCG is greater than the prisms in it; therefore the solid W is also greater than the prisms in the pyramid DEFH.
+
+[29898] But it is also less: which is impossible.
+
+[29941] Therefore the prism ABCG is not to any solid less than the pyramid DEFH as the base ABC is to the base DEF.
+
+[30050] Similarly it can be proved that neither is the pyramid DEFH to any solid less than the pyramid ABCG as the base DEF is to the base ABC.
+
+[30187] I say next that neither is the pyramid ABCG to any solid greater than the pyramid DEFH as the base ABC is to the base DEF.
+
+[30311] For, if possible, let it be in that ratio to a greater solid W; therefore, inversely, as the base DEF is to the base ABC, so is the solid W to the pyramid ABCG.
+
+[30473] But, as the solid W is to the solid ABCG, so is the pyramid DEFH to some solid less than the pyramid ABCG, as was before proved; [ XII. 2, Lemma] therefore also, as the base DEF is to the base ABC, so is the pyramid DEFH to some solid less than the pyramid ABCG: [ V. 11] which was proved absurd.
+
+[30771] Therefore the pyramid ABCG is not to any solid greater than the pyramid DEFH as the base ABC is to the base DEF.
+
+[30885] But it was proved that neither is it in that ratio to a less solid.
+
+[30954] Therefore, as the base ABC is to the base DEF, so is the pyramid ABCG to the pyramid DEFH. Q. E. D.
+
+[31055] Pyramids which are of the same height and have polygonal bases are to one another as the bases.
+
+[31152] Let there be pyramids of the same height of which the polygons ABCDE, FGHKL are the bases and the points M, N the vertices; I say that, as the base ABCDE is to the base FGHKL, so is the pyramid ABCDEM to the pyramid FGHKLN.
+
+[31377] For let AC, AD, FH, FK be joined.
+
+[31412] Since then ABCM, ACDM are two pyramids which have triangular bases and equal height, they are to one another as the bases; [ XII. 5] therefore, as the base ABC is to the base ACD, so is the pyramid ABCM to the pyramid ACDM.
+
+[31637] And, componendo, as the base ABCD is to the base ACD, so is the pyramid ABCDM to the pyramid ACDM. [ V. 18]
+
+[31746] But also, as the base ACD is to the base ADE, so is the pyramid ACDM to the pyramid ADEM. [ XII. 5]
+
+[31847] Therefore, ex aequali, as the base ABCD is to the base ADE, so is the pyramid ABCDM to the pyramid ADEM. [ V. 22]
+
+[31962] And again componendo, as the base ABCDE is to the base ADE, so is the pyramid ABCDEM to the pyramid ADEM. [ V. 18]
+
+[32078] Similarly also it can be proved that, as the base FGHKL is to the base FGH, so is the pyramid FGHKLN to the pyramid FGHN.
+
+[32201] And, since ADEM, FGHN are two pyramids which have triangular bases and equal height, therefore, as the base ADE is to the base FGH, so is the pyramid ADEM to the pyramid FGHN. [ XII. 5]
+
+[32388] But, as the base ADE is to the base ABCDE, so was the pyramid ADEM to the pyramid ABCDEM.
+
+[32479] Therefore also, ex aequali, as the base ABCDE is to the base FGH, so is the pyramid ABCDEM to the pyramid FGHN. [ V. 22]
+
+[32601] But further, as the base FGH is to the base FGHKL, so also was the pyramid FGHN to the pyramid FGHKLN.
+
+[32705] Therefore also, ex aequali, as the base ABCDE is to the base FGHKL, so is the pyramid ABCDEM to the pyramid FGHKLN. [ V. 22] Q. E. D.
+
+[32840] Any prism which has a triangular base is divided into three pyramids equal to one another which have triangular bases.
+
+[32960] Let there be a prism in which the triangle ABC is the base and DEF its opposite; I say that the prism ABCDEF is divided into three pyramids equal to one another, which have triangular bases.
+
+[33152] For let BD, EC, CD be joined.
+
+[33183] Since ABED is a parallelogram, and BD is its diameter, therefore the triangle ABD is equal to the triangle EBD; [ I. 34] therefore also the pyramid of which the triangle ABD is the base and the point C the vertex is equal to the pyramid of which the triangle DEB is the base and the point C the vertex. [ XII. 5]
+
+[33497] But the pyramid of which the triangle DEB is the base and the point C the vertex is the same with the pyramid of which the triangle EBC is the base and the point D the vertex; for they are contained by the same planes.
+
+[33717] Therefore the pyramid of which the triangle ABD is the base and the point C the vertex is also equal to the pyramid of which the triangle EBC is the base and the point D the vertex.
+
+[33900] Again, since FCBE is a parallelogram, and CE is its diameter, the triangle CEF is equal to the triangle CBE. [ I. 34]
+
+[34019] Therefore also the pyramid of which the triangle BCE is the base and the point D the vertex is equal to the pyramid of which the triangle ECF is the base and the point D the vertex. [ XII. 5]
+
+[34212] But the pyramid of which the triangle BCE is the base and the point D the vertex was proved equal to the pyramid of which the triangle ABD is the base and the point C the vertex; therefore also the pyramid of which the triangle CEF is the base and the point D the vertex is equal to the pyramid of which the triangle ABD is the base and the point C the vertex; therefore the prism ABCDEF has been divided into three pyramids equal to one another which have triangular bases.
+
+[34688] And, since the pyramid of which the triangle ABD is the base and the point C the vertex is the same with the pyramid of which the triangle CAB is the base and the point D the vertex, for they are contained by the same planes, while the pyramid of which the triangle ABD is the base and the point C the vertex was proved to be a third of the prism in which the triangle ABC is the base and DEF its opposite, therefore also the pyramid of which the triangle ABC is the base and the point D the vertex is a third of the prism which has the same base, the triangle ABC, and DEF as its opposite.
+
+[35280] Porism. From this it is manifest that any pyramid is a third part of the prism which has the same base with it and equal height. Q. E. D.
+
+[35419] Similar pyramids which have triangular bases are in the triplicate ratio of their corresponding sides.
+
+[35523] Let there be similar and similarly situated pyramids of which the triangles ABC, DEF, are the bases and the points G, H the vertices; I say that the pyramid ABCG has to the pyramid DEFH the ratio triplicate of that which BC has to EF.
+
+[35759] For let the parallelepipedal solids BGML, EHQP be completed.
+
+[35821] Now, since the pyramid ABCG is similar to the pyramid DEFH, therefore the angle ABC is equal to the angle DEF, the angle GBC to the angle HEF, and the angle ABG to the angle DEH; and, as AB is to DE, so is BC to EF, and BG to EH.
+
+[36052] And since, as AB is to DE, so is BC to EF, and the sides are proportional about equal angles, therefore the parallelogram BM is similar to the parallelogram EQ.
+
+[36214] For the same reason BN is also similar to ER, and BK to EO; therefore the three parallelograms MB, BK, BN are similar to the three EQ, EO, ER.
+
+[36358] But the three parallelograms MB, BK, BN are equal and similar to their three opposites, and the three EQ, EO, ER are equal and similar to their three opposites. [ XI. 24]
+
+[36530] Therefore the solids BGML, EHQP are contained by similar planes equal in multitude.
+
+[36615] Therefore the solid BGML is similar to the solid EHQP.
+
+[36671] But similar parallelepipedal solids are in the triplicate ratio of their corresponding sides. [ XI. 33]
+
+[36776] Therefore the solid BGML has to the solid EHQP the ratio triplicate of that which the corresponding side BC has to the corresponding side EF.
+
+[36919] But, as the solid BGML is to the solid EHQP, so is the pyramid ABCG to the pyramid DEFH, inasmuch as the pyramid is a sixth part of the solid, because the prism which is half of the parallelepipedal solid [ XI. 28] is also triple of the pyramid. [ XII. 7]
+
+[37176] Therefore the pyramid ABCG also has to the pyramid DEFH the ratio triplicate of that which BC has to EF. Q. E. D.
+
+[37291] Porism. From this it is manifest that similar pyramids which have polygonal bases are also to one another in the triplicate ratio of their corresponding sides.
+
+[37452] For, if they are divided into the pyramids contained in them which have triangular bases, by virtue of the fact that the similar polygons forming their bases are also divided into similar triangles equal in multitude and corresponding to the wholes [ VI. 20], then, as the one pyramid which has a triangular base in the one complete pyramid is to the one pyramid which has a triangular base in the other complete pyramid, so also will all the pyramids which have triangular bases contained in the one pyramid be to all the pyramids which have triangular bases contained in the other pyramid [ V. 12], that is, the pyramid itself which has a polygonal base to the pyramid which has a polygonal base.
+
+[38152] But the pyramid which has a triangular base is to the pyramid which has a triangular base in the triplicate ratio of the corresponding sides; therefore also the pyramid which has a polygonal base has to the pyramid which has a similar base the ratio triplicate of that which the side has to the side.
+
+[38454] In equal pyramids which have triangular bases the bases are reciprocally proportional to the heights; and those pyramids in which the bases are reciprocally proportional to the heights are equal.
+
+[38651] For let there be equal pyramids which have the triangular bases ABC, DEF and vertices the points G, H; I say that in the pyramids ABCG, DEFH the bases are reciprocally proportional to the heights, that is, as the base ABC is to the base DEF, so is the height of the pyramid DEFH to the height of the pyramid ABCG.
+
+[38966] For let the parallelepipedal solids BGML, EHQP be completed.
+
+[39028] Now, since the pyramid ABCG is equal to the pyramid DEFH, and the solid BGML is six times the pyramid ABCG, and the solid EHQP six times the pyramid DEFH, therefore the solid BGML is equal to the solid EHQP.
+
+[39237] But in equal parallelepipedal solids the bases are reciprocally proportional to the heights; [ XI. 34] therefore, as the base BM is to the base EQ, so is the height of the solid EHQP to the height of the solid BGML.
+
+[39454] But, as the base BM is to EQ, so is the triangle ABC to the triangle DEF. [ I. 34]
+
+[39538] Therefore also, as the triangle ABC is to the triangle DEF, so is the height of the solid EHQP to the height of the solid BGML. [ V. 11]
+
+[39676] But the height of the solid EHQP is the same with the height of the pyramid DEFH, and the height of the solid BGML is the same with the height of the pyramid ABCG, therefore, as the base ABC is to the base DEF, so is the height of the pyramid DEFH to the height of the pyramid ABCG.
+
+[39960] Therefore in the pyramids ABCG, DEFH the bases are reciprocally proportional to the heights.
+
+[40054] Next, in the pyramids ABCG, DEFH let the bases be reciprocally proportional to the heights; that is, as the base ABC is to the base DEF, so let the height of the pyramid DEFH be to the height of the pyramid ABCG; I say that the pyramid ABCG is equal to the pyramid DEFH.
+
+[40326] For, with the same construction, since, as the base ABC is to the base DEF, so is the height of the pyramid DEFH to the height of the pyramid ABCG, while, as the base ABC is to the base DEF, so is the parallelogram BM to the parallelogram EQ, therefore also, as the parallelogram BM is to the parallelogram EQ, so is the height of the pyramid DEFH to the height of the pyramid ABCG. [ V. 11]
+
+[40719] But the height of the pyramid DEFH is the same with the height of the parallelepiped EHQP, and the height of the pyramid ABCG is the same with the height of the parallelepiped BGML; therefore, as the base BM is to the base EQ, so is the height of the parallelepiped EHQP to the height of the parallelepiped BGML.
+
+[41033] But those parallelepipedal solids in which the bases are reciprocally proportional to the heights are equal; [ XI. 34] therefore the parallelepipedal solid BGML is equal to the parallelepipedal solid EHQP.
+
+[41240] And the pyramid ABCG is a sixth part of BGML, and the pyramid DEFH a sixth part of the parallelepiped EHQP; therefore the pyramid ABCG is equal to the pyramid DEFH.
+
+[41406] Therefore etc Q. E. D.
+
+[41430] Any cone is a third part of the cylinder which has the same base with it and equal height.
+
+[41522] For let a cone have the same base, namely the circle ABCD, with a cylinder and equal height; I say that the cone is a third part of the cylinder, that is, that the cylinder is triple of the cone.
+
+[41719] For if the cylinder is not triple of the cone, the cylinder will be either greater than triple or less than triple of the cone.
+
+[41848] First let it be greater than triple, and let the square ABCD be inscribed in the circle ABCD; [ IV. 6] then the square ABCD is greater than the half of the circle ABCD.
+
+[42018] From the square ABCD let there be set up a prism of equal height with the cylinder.
+
+[42103] Then the prism so set up is greater than the half of the cylinder, inasmuch as, if we also circumscribe a square about the circle ABCD [ IV. 7], the square inscribed in the circle ABCD is half of that circumscribed about it, and the solids set up from them are parallelepipedal prisms of equal height, while parallelepipedal solids which are of the same height are to one another as their bases; [ XI. 32] therefore also the prism set up on the square ABCD is half of the prism set up from the square circumscribed about the circle ABCD; [cf. XI. 28, or XII. 6 and 7, Por.] and the cylinder is less than the prism set up from the square circumscribed about the circle ABCD; therefore the prism set up from the square ABCD and of equal height with the cylinder is greater than the half of the cylinder.
+
+[42906] Let the circumferences AB, BC, CD, DA be bisected at the points E, F, G, H, and let AE, EB, BF, FC, CG, GD, DH, HA be joined; then each of the triangles AEB, BFC, CGD, DHA is greater than the half of that segment of the circle ABCD which is about it, as we proved before. [ XII. 2]
+
+[43189] On each of the triangles AEB, BFC, CGD, DHA let prisms be set up of equal height with the cylinder; then each of the prisms so set up is greater than the half part of that segment of the cylinder which is about it, inasmuch as, if we draw through the points E, F, G, H parallels to AB, BC, CD, DA, complete the parallelograms on AB, BC, CD, DA, and set up from them parallelepipedal solids of equal height with the cylinder, the prisms on the triangles AEB, BFC, CGD, DHA are halves of the several solids set up; and the segments of the cylinder are less than the parallelepipedal solids set up; hence also the prisms on the triangles AEB, BFC, CGD, DHA are greater than the half of the segments of the cylinder about them.
+
+[43914] Thus, bisecting the circumferences that are left, joining straight lines, setting up on each of the triangles prisms of equal height with the cylinder, and doing this continually, we shall leave some segments of the cylinder which will be less than the excess by which the cylinder exceeds the triple of the cone. [ X. 1]
+
+[44237] Let such segments be left, and let them be AE, EB, BF, FC, CG, GD, DH, HA; therefore the remainder, the prism of which the polygon AEBFCGDH is the base and the height is the same as that of the cylinder, is greater than triple of the cone.
+
+[44478] But the prism of which the polygon AEBFCGDH is the base and the height the same as that of the cylinder is triple of the pyramid of which the polygon AEBFCGDH is the base and the vertex is the same as that of the cone; [ XII. 7, Por.] therefore also the pyramid of which the polygon AEBFCGDH is the base and the vertex is the same as that of the cone is greater than the cone which has the circle ABCD as base.
+
+[44890] But it is also less, for it is enclosed by it: which is impossible.
+
+[44959] Therefore the cylinder is not greater than triple of the cone.
+
+[45023] I say next that neither is the cylinder less than triple of the cone,
+
+[45094] For, if possible, let the cylinder be less than triple of the cone, therefore, inversely, the cone is greater than a third part of the cylinder.
+
+[45240] Let the square ABCD be inscribed in the circle ABCD; therefore the square ABCD is greater than the half of the circle ABCD.
+
+[45365] Now let there be set up from the square ABCD a pyramid having the same vertex with the cone; therefore the pyramid so set up is greater than the half part of the cone, seeing that, as we proved before, if we circumscribe a square about the circle, the square ABCD will be half of the square circumscribed about the circle, and if we set up from the squares parallelepipedal solids of equal height with the cone, which are also called prisms, the solid set up from the square ABCD will be half of that set up from the square circumscribed about the circle; for they are to one another as their bases. [ XI. 32]
+
+[45976] Hence also the thirds of them are in that ratio; therefore also the pyramid of which the square ABCD is the base is half of the pyramid set up from the square circumscribed about the circle.
+
+[46168] And the pyramid set up from the square about the circle is greater than the cone, for it encloses it.
+
+[46271] Therefore the pyramid of which the square ABCD is the base and the vertex is the same with that of the cone is greater than the half of the cone.
+
+[46418] Let the circumferences AB, BC, CD, DA be bisected at the points E, F, G, H, and let AE, EB, BF, FC, CG, GD, DH, HA be joined; therefore also each of the triangles AEB, BFC, CGD, DHA is greater than the half part of that segment of the circle ABCD which is about it.
+
+[46685] Now, on each of the triangles AEB, BFC, CGD, DHA let pyramids be set up which have the same vertex as the cone; therefore also each of the pyramids so set up is, in the same manner, greater than the half part of that segment of the cone which is about it.
+
+[46942] Thus, by bisecting the circumferences that are left, joining straight lines, setting up on each of the triangles a pyramid which has the same vertex as the cone, and doing this continually, we shall leave some segments of the cone which will be less than the excess by which the cone exceeds the third part of the cylinder. [ X. 1]
+
+[47275] Let such be left, and let them be the segments on AE, EB, BF, FC, CG, GD, DH, HA; therefore the remainder, the pyramid of which the polygon AEBFCGDH is the base and the vertex the same with that of the cone, is greater than a third part of the cylinder.
+
+[47530] But the pyramid of which the polygon AEBFCGDH is the base and the vertex the same with that of the cone is a third part of the prism of which the polygon AEBFCGDH is the base and the height is the same with that of the cylinder; therefore the prism of which the polygon AEBFCGDH is the base and the height is the same with that of the cylinder is greater than the cylinder of which the circle ABCD is the base.
+
+[47942] But it is also less, for it is enclosed by it: which is impossible.
+
+[48011] Therefore the cylinder is not less than triple of the cone.
+
+[48072] But it was proved that neither is it greater than triple; therefore the cylinder is triple of the cone; hence the cone is a third part of the cylinder.
+
+[48225] Therefore etc. Q. E. D.
+
+[48250] Cones and cylinders which are of the same height are to one another as their bases.
+
+[48335] Let there be cones and cylinders of the same height, let the circles ABCD, EFGH be their bases, KL, MN their axes and AC, EG the diameters of their bases; I say that, as the circle ABCD is to the circle EFGH, so is the cone AL to the cone EN.
+
+[48579] For, if not, then, as the circle ABCD is to the circle EFGH, so will the cone AL be either to some solid less than the cone EN or to a greater.
+
+[48724] First, let it be in that ratio to a less solid O, and let the solid X be equal to that by which the solid O is less than the cone EN; therefore the cone EN is equal to the solids O, X.
+
+[48910] Let the square EFGH be inscribed in the circle EFGH; therefore the square is greater than the half of the circle.
+
+[49025] Let there be set up from the square EFGH a pyramid of equal height with the cone; therefore the pyramid so set up is greater than the half of the cone, inasmuch as, if we circumscribe a square about the circle, and set up from it a pyramid of equal height with the cone, the inscribed pyramid is half of the circumscribed pyramid, for they are to one another as their bases, [ XII. 6] while the cone is less than the circumscribed pyramid.
+
+[49466] Let the circumferences EF, FG, GH, HE be bisected at the points P, Q, R, S, and let HP, PE, EQ, QF, FR, RG, GS, SH be joined.
+
+[49593] Therefore each of the triangles HPE, EQF, FRG, GSH is greater than the half of that segment of the circle which is about it.
+
+[49719] On each of the triangles HPE, EQF, FRG, GSH let there be set up a pyramid of equal height with the cone; therefore, also, each of the pyramids so set up is greater than the half of that segment of the cone which is about it.
+
+[49945] Thus, bisecting the circumferences which are left, joining straight lines, setting up on each of the triangles pyramids of equal height with the cone, and doing this continually, we shall leave some segments of the cone which will be less than the solid X. [ X. 1]
+
+[50211] Let such be left, and let them be the segments on HP, PE, EQ, QF, FR, RG, GS, SH; therefore the remainder, the pyramid of which the polygon HPEQFRGS is the base and the height the same with that of the cone, is greater than the solid O.
+
+[50449] Let there also be inscribed in the circle ABCD the polygon DTAUBVCW similar and similarly situated to the polygon HPEQFRGS, and on it let a pyramid be set up of equal height with the cone AL.
+
+[50642] Since then, as the square on AC is to the square on EG, so is the polygon DTAUBVCW to the polygon HPEQFRGS, [ XII. 1] while, as the square on AC is to the square on EG, so is the circle ABCD to the circle EFGH, [ XII. 2] therefore also, as the circle ABCD is to the circle EFGH, so is the polygon DTAUBVCW to the polygon HPEQFRGS.
+
+[50974] But, as the circle ABCD is to the circle EFGH, so is the cone AL to the solid O, and, as the polygon DTAUBVCW is to the polygon HPEQFRGS, so is the pyramid of which the polygon DTAUBVCW is the base and the point L the vertex to the pyramid of which the polygon HPEQFRGS is the base and the point N the vertex. [ XII. 6]
+
+[51295] Therefore also, as the cone AL is to the solid O, so is the pyramid of which the polygon DTAUBVCW is the base and the point L the vertex to the pyramid of which the polygon HPEQFRGS is the base and the point N the vertex; [ V. 11] therefore, alternately, as the cone AL is to the pyramid in it, so is the solid O to the pyramid in the cone EN. [ V. 16]
+
+[51649] But the cone AL is greater than the pyramid in it; therefore the solid O is also greater than the pyramid in the cone EN.
+
+[51772] But it is also less: which is absurd.
+
+[51811] Therefore the cone AL is not to any solid less than the cone EN as the circle ABCD is to the circle EFGH.
+
+[51918] Similarly we can prove that neither is the cone EN to any solid less than the cone AL as the circle EFGH is to the circle ABCD.
+
+[52047] I say next that neither is the cone AL to any solid greater than the cone EN as the circle ABCD is to the circle EFGH.
+
+[52167] For, if possible, let it be in that ratio to a greater solid O; therefore, inversely, as the circle EFGH is to the circle ABCD, so is the solid O to the cone AL.
+
+[52330] But, as the solid O is to the cone AL, so is the cone EN to some solid less than the cone AL; therefore also, as the circle EFGH is to the circle ABCD, so is the cone EN to some solid less than the cone AL: which was proved impossible.
+
+[52567] Therefore the cone AL is not to any solid greater than the cone EN as the circle ABCD is to the circle EFGH.
+
+[52677] But it was proved that neither is it in this ratio to a less solid; therefore, as the circle ABCD is to the circle EFGH, so is the cone AL to the cone EN.
+
+[52833] But, as the cone is to the cone, so is the cylinder to the cylinder, for each is triple of each; [ XII. 10]
+
+[52942] Therefore also, as the circle ABCD is to the circle EFGH, so are the cylinders on them which are of equal height.
+
+[53057] Therefore etc. Q. E. D.
+
+[53082] Similar cones and cylinders are to one another in the triplicate ratio of the diameters in their bases.
+
+[53187] Let there be similar cones and cylinders, let the circles ABCD, EFGH be their bases, BD, FH the diameters of the bases, and KL, MN the axes of the cones and cylinders; I say that the cone of which the circle ABCD is the base and the point L the vertex has to the cone of which the circle EFGH is the base and the point N the vertex the ratio triplicate of that which BD has to FH.
+
+[53569] For, if the cone ABCDL has not to the cone EFGHN the ratio triplicate of that which BD has to FH, the cone ABCDL will have that triplicate ratio either to some solid less than the cone EFGHN or to a greater.
+
+[53778] First, let it have that triplicate ratio to a less solid O.
+
+[53839] Let the square EFGH be inscribed in the circle EFGH; [ IV. 6] therefore the square EFGH is greater than the half of the circle EFGH.
+
+[53973] Now let there be set up on the square EFGH a pyramid having the same vertex with the cone; therefore the pyramid so set up is greater than the half part of the cone.
+
+[54140] Let the circumferences EF, FG, GH, HE be bisected at the points P, Q, R, S, and let EP, PF, FQ, QG, GR, RH, HS, SE be joined.
+
+[54267] Therefore each of the triangles EPF, FQG, GRH, HSE is also greater than the half part of that segment of the circle EFGH which is about it.
+
+[54408] Now on each of the triangles EPF, FQG, GRH, HSE let a pyramid be set up having the same vertex with the cone; therefore each of the pyramids so set up is also greater than the half part of that segment of the cone which is about it.
+
+[54642] Thus, bisecting the circumferences so left, joining straight lines, setting up on each of the triangles pyramids having the same vertex with the cone, and doing this continually, we shall leave some segments of the cone which will be less than the excess by which the cone EFGHN exceeds the solid O. [ X. 1]
+
+[54951] Let such be left, and let them be the segments on EP, PF, FQ, QG, GR, RH, HS, SE; therefore the remainder, the pyramid of which the polygon EPFQGRHS is the base and the point N the vertex, is greater than the solid O.
+
+[55170] Let there be also inscribed in the circle ABCD the polygon ATBUCVDW similar and similarly situated to the polygon EPFQGRHS, and let there be set up on the polygon ATBUCVDW a pyramid having the same vertex with the cone; of the triangles containing the pyramid of which the polygon ATBUCVDW is the base and the point L the vertex let LBT be one, and of the triangles containing the pyramid of which the polygon EPFQGRHS is the base and the point N the vertex let NFP be one; and let KT, MP be joined.
+
+[55671] Now, since the cone ABCDL is similar to the cone EFGHN, therefore, as BD is to FH, so is the axis KL to the axis MN. [ XI. Def. 24]
+
+[55804] But, as BD is to FH, so is BK to FM; therefore also, as BK is to FM, so is KL to MN.
+
+[55890] And, alternately, as BK is to KL, so is FM to MN. [ V. 16]
+
+[55950] And the sides are proportional about equal angles, namely the angles BKL, FMN; therefore the triangle BKL is similar to the triangle FMN. [ VI. 6]
+
+[56098] Again, since, as BK is to KT, so is FM to MP, and they are about equal angles, namely the angles BKT, FMP, inasmuch as, whatever part the angle BKT is of the four right angles at the centre K, the same part also is the angle FMP of the four right angles at the centre M; since then the sides are proportional about equal angles, therefore the triangle BKT is similar to the triangle FMP. [ VI. 6]
+
+[56496] Again, since it was proved that, as BK is to KL, so is FM to MN, while BK is equal to KT, and FM to PM, therefore, as TK is to KL, so is PM to MN; and the sides are proportional about equal angles, namely the angles TKL, PMN, for they are right; therefore the triangle LKT is similar to the triangle NMP. [ VI. 6]
+
+[56811] And since, owing to the similarity of the triangles LKB, NMF, as LB is to BK, so is NF to FM, and, owing to the similarity of the triangles BKT, FMP, as KB is to BT, so is MF to FP, therefore, ex aequali, as LB is to BT, so is NF to FP. [ V. 22]
+
+[57058] Again since, owing to the similarity of the triangles LTK, NPM, as LT is to TK, so is NP to PM, and, owing to the similarity of the triangles TKB, PMF, as KT is to TB, so is MP to PF; therefore, ex aequali, as LT is to TB, so is NP to PF. [ V. 22]
+
+[57307] But it was also proved that, as TB is to BL, so is PF to FN.
+
+[57369] Therefore, ex aequali, as TL is to LB, so is PN to NF. [ V. 22]
+
+[57434] Therefore in the triangles LTB, NPF the sides are proportional; therefore the triangles LTB, NPF are equiangular; [ VI. 5] hence they are also similar. [ VI. Def. I]
+
+[57601] Therefore the pyramid of which the triangle BKT is the base and the point L the vertex is also similar to the pyramid of which the triangle FMP is the base and the point N the vertex, for they are contained by similar planes equal in multitude. [ XI. Def. 9]
+
+[57861] But similar pyramids which have triangular bases are to one another in the triplicate ratio of their corresponding sides. [ XII. 8]
+
+[57994] Therefore the pyramid BKTL has to the pyramid FMPN the ratio triplicate of that which BK has to FM.
+
+[58095] Similarly, by joining straight lines from A, W, D, V, C, U to K, and from E, S, H, R, G, Q to M, and setting up on each of the triangles pyramids which have the same vertex with the cones, we can prove that each of the similarly arranged pyramids will also have to each similarly arranged pyramid the ratio triplicate of that which the corresponding side BK has to the corresponding side FM, that is, which BD has to FH.
+
+[58517] And, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents; [ V. 12] therefore also, as the pyramid BKTL is to the pyramid FMPN, so is the whole pyramid of which the polygon ATBUCVDW is the base and the point L the vertex to the whole pyramid of which the polygon EPFQGRHS is the base and the point N the vertex; hence also the pyramid of which ATBUCVDW is the base and the point L the vertex has to the pyramid of which the polygon EPFQGRHS is the base and the point N the vertex the ratio triplicate of that which BD has to FH.
+
+[59100] But, by hypothesis, the cone of which the circle ABCD is the base and the point L the vertex has also to the solid O the ratio triplicate of that which BD has to FH; therefore, as the cone of which the circle ABCD is the base and the point L the vertex is to the solid O, so is the pyramid of which the polygon ATBUCVDW is the base and L the vertex to the pyramid of which the polygon EPFQGRHS is the base and the point N the vertex; therefore, alternately, as the cone of which the circle ABCD is the base and L the vertex is to the pyramid contained in it of which the polygon ATBUCVDW is the base and L the vertex, so is the solid O to the pyramid of which the polygon EPFQGRHS is the base and N the vertex. [ V. 16]
+
+[59821] But the said cone is greater than the pyramid in it; for it encloses it.
+
+[59895] Therefore the solid O is also greater than the pyramid of which the polygon EPFQGRHS is the base and N the vertex.
+
+[60011] But it is also less: which is impossible.
+
+[60054] Therefore the cone of which the circle ABCD is the base and L the vertex has not to any solid less than the cone of which the circle EFGH is the base and the point N the vertex the ratio triplicate of that which BD has to FH:
+
+[60281] Similarly we can prove that neither has the cone EFGHN to any solid less than the cone ABCDL the ratio triplicate of that which FH has to BD.
+
+[60424] I say next that neither has the cone ABCDL to any solid greater than the cone EFGHN the ratio triplicate of that which BD has to FH.
+
+[60558] For, if possible, let it have that ratio to a greater solid O.
+
+[60622] Therefore, inversely, the solid O has to the cone ABCDL the ratio triplicate of that which FH has to BD.
+
+[60728] But, as the solid O is to the cone ABCDL, so is the cone EFGHN to some solid less than the cone ABCDL.
+
+[60832] Therefore the cone EFGHN also has to some solid less than the cone ABCDL the ratio triplicate of that which FH has to BD: which was proved impossible.
+
+[60984] Therefore the cone ABCDL has not to any solid greater than the cone EFGHN the ratio triplicate of that which BD has to FH.
+
+[61108] But it was proved that neither has it this ratio to a less solid than the cone EFGHN.
+
+[61195] Therefore the cone ABCDL has to the cone EFGHN the ratio triplicate of that which BD has to FH.
+
+[61292] But, as the cone is to the cone, so is the cylinder to the cylinder, for the cylinder which is on the same base as the cone and of equal height with it is triple of the cone; [ XII. 10] therefore the cylinder also has to the cylinder the ratio triplicate of that which BD has to FH.
+
+[61576] Therefore etc. Q. E. D.
+
+[61601] If a cylinder be cut by a plane which is parallel to its opposite planes, then, as the cylinder is to the cylinder, so will the axis be to the axis.
+
+[61751] For let the cylinder AD be cut by the plane GH which is parallel to the opposite planes AB, CD, and let the plane GH meet the axis at the point K; I say that, as the cylinder BG is to the cylinder GD, so is the axis EK to the axis KF.
+
+[61987] For let the axis EF be produced in both directions to the points L, M, and let there be set out any number whatever of axes EN, NL equal to the axis EK, and any number whatever FO, OM equal to FK; and let the cylinder PW on the axis LM be conceived of which the circles PQ, VW are the bases.
+
+[62280] Let planes be carried through the points N, O parallel to AB, CD and to the bases of the cylinder PW, and let them produce the circles RS, TU about the centres N, O.
+
+[62447] Then, since the axes LN, NE, EK are equal to one another, therefore the cylinders QR, RB, BG are to one another as their bases. [ XII. 11]
+
+[62587] But the bases are equal; therefore the cylinders QR, RB, BG are also equal to one another.
+
+[62679] Since then the axes LN, NE, EK are equal to one another, and the cylinders QR, RB, BG are also equal to one another, and the multitude of the former is equal to the multitude of the latter, therefore, whatever multiple the axis KL is of the axis EK, the same multiple also will the cylinder QG be of the cylinder GB.
+
+[62997] For the same reason, whatever multiple the axis MK is of the axis KF, the same multiple also is the cylinder WG of the cylinder GD.
+
+[63130] And, if the axis KL is equal to the axis KM, the cylinder QG will also be equal to the cylinder GW, if the axis is greater than the axis, the cylinder will also be greater than the cylinder, and if less, less.
+
+[63341] Thus, there being four magnitudes, the axes EK, KF and the cylinders BG, GD, there have been taken equimultiples of the axis EK and of the cylinder BG, namely the axis LK and the cylinder QG, and equimultiples of the axis KF and of the cylinder GD, namely the axis KM and the cylinder GW; and it has been proved that, if the axis KL is in excess of the axis KM, the cylinder QG is also in excess of the cylinder GW, if equal, equal, and if less, less.
+
+[63794] Therefore, as the axis EK is to the axis KF, so is the cylinder BG to the cylinder GD. [ V. Def. 5] Q. E. D.
+
+[63904] Cones and cylinders which are on equal bases are to one another as their heights.
+
+[63987] For let EB, FD be cylinders on equal bases, the circles AB, CD; I say that, as the cylinder EB is to the cylinder FD, so is the axis GH to the axis KL.
+
+[64140] For let the axis KL be produced to the point N, let LN be made equal to the axis GH, and let the cylinder CM be conceived about LN as axis.
+
+[64281] Since then the cylinders EB, CM are of the same height, they are to one another as their bases. [ XII. 11]
+
+[64389] But the bases are equal to one another; therefore the cylinders EB, CM are also equal.
+
+[64477] And, since the cylinder FM has been cut by the plane CD which is parallel to its opposite planes, therefore, as the cylinder CM is to the cylinder FD, so is the axis LN to the axis KL. [ XII. 13]
+
+[64674] But the cylinder CM is equal to the cylinder EB, and the axis LN to the axis GH; therefore, as the cylinder EB is to the cylinder FD, so is the axis GH to the axis KL.
+
+[64843] But, as the cylinder EB is to the cylinder FD, so is the cone ABG to the cone CDK. [ XII. 10]
+
+[64938] Therefore also, as the axis GH is to the axis KL, so is the cone ABG to the cone CDK and the cylinder EB to the cylinder FD. Q. E. D.
+
+[65073] In equal cones and cylinders the bases are reciprocally proportional to the heights; and those cones and cylinders in which the bases are reciprocally proportional to the heights are equal.
+
+[65264] Let there be equal cones and cylinders of which the circles ABCD, EFGH are the bases; let AC, EG be the diameters of the bases, and KL, MN the axes, which are also the heights of the cones or cylinders; let the cylinders AO, EP be completed.
+
+[65507] I say that in the cylinders AO, EP the bases are reciprocally proportional to the heights, that is, as the base ABCD is to the base EFGH, so is the height MN to the height KL.
+
+[65684] For the height LK is either equal to the height MN or not equal.
+
+[65750] First, let it be equal.
+
+[65775] Now the cylinder AO is also equal to the cylinder EP.
+
+[65830] But cones and cylinders which are of the same height are to one another as their bases; [ XII. 11] therefore the base ABCD is also equal to the base EFGH.
+
+[65986] Hence also, reciprocally, as the base ABCD is to the base EFGH, so is the height MN to the height KL.
+
+[66089] Next, let the height LK not be equal to MN, but let MN be greater; from the height MN let QN be cut off equal to KL, through the point Q let the cylinder EP be cut by the plane TUS parallel to the planes of the circles EFGH, RP, and let the cylinder ES be conceived erected from the circle EFGH as base and with height NQ.
+
+[66413] Now, since the cylinder AO is equal to the cylinder EP, therefore, as the cylinder AO is to the cylinder ES, so is the cylinder EP to the cylinder ES. [ V. 7]
+
+[66573] But, as the cylinder AO is to the cylinder ES, so is the base ABCD to the base EFGH, for the cylinders AO, ES are of the same height; [ XII. 11] and, as the cylinder EP is to the cylinder ES, so is the height MN to the height QN, for the cylinder EP has been cut by a plane which is parallel to its opposite planes. [ XII. 13]
+
+[66901] Therefore also, as the base ABCD is to the base EFGH, so is the height MN to the height QN. [ V. 11]
+
+[67003] But the height QN is equal to the height KL; therefore, as the base ABCD is to the base EFGH, so is the height MN to the height KL.
+
+[67136] Therefore in the cylinders AO, EP the bases are reciprocally proportional to the heights.
+
+[67227] Next, in the cylinders AO, EP let the bases be reciprocally proportional to the heights, that is, as the base ABCD is to the base EFGH, so let the height MN be to the height KL; I say that the cylinder AO is equal to the cylinder EP.
+
+[67462] For, with the same construction, since, as the base ABCD is to the base EFGH, so is the height MN to the height KL, while the height KL is equal to the height QN, therefore, as the base ABCD is to the base EFGH, so is the height MN to the height QN
+
+[67712] But, as the base ABCD is to the base EFGH, so is the cylinder AO to the cylinder ES, for they are of the same height; [ XII. 11] and, as the height MN is to QN, so is the cylinder EP to the cylinder ES; [ XII. 13] therefore, as the cylinder AO is to the cylinder ES, so is the cylinder EP to the cylinder ES. [ V. 11]
+
+[68031] Therefore the cylinder AO is equal to the cylinder EP. [ V. 9]
+
+[68095] And the same is true for the cones also. Q. E. D.
+
+[68146] Given two circles about the same centre, to inscribe in the greater circle an equilateral polygon with an even number of sides which does not touch the lesser circle.
+
+[68314] Let ABCD, EFGH be the two given circles about the same centre K; thus it is required to inscribe in the greater circle ABCD an equilateral polygon with an even number of sides which does not touch the circle EFGH.
+
+[68529] For let the straight line BKD be drawn through the centre K, and from the point G let GA be drawn at right angles to the straight line BD and carried through to C; therefore AC touches the circle EFGH. [ III. 16, Por.]
+
+[68749] Then, bisecting the circumference BAD, bisecting the half of it, and doing this continually, we shall leave a circumference less than AD. [ X. 1]
+
+[68896] Let such be left, and let it be LD; from L let LM be drawn perpendicular to BD and carried through to N, and let LD, DN be joined; therefore LD is equal to DN. [ III. 3, I. 4]
+
+[69073] Now, since LN is parallel to AC, and AC touches the circle EFGH, therefore LN does not touch the circle EFGH; therefore LD, DN are far from touching the circle EFGH.
+
+[69240] If then we fit into the circle ABCD straight lines equal to the straight line LD and placed continuously, there will be inscribed in the circle ABCD an equilateral polygon with an even number of sides which does not touch the lesser circle EFGH. Q. E. F.
+
+[69496] Given two spheres about the same centre, to inscribe in the greater sphere a polyhedral solid which does not touch the lesser sphere at its surface.
+
+[69646] Let two spheres be conceived about the same centre A; thus it is required to inscribe in the greater sphere a polyhedral solid which does not touch the lesser sphere at its surface.
+
+[69829] Let the spheres be cut by any plane through the centre; then the sections will be circles, inasmuch as the sphere was produced by the diameter remaining fixed and the semicircle being carried round it; [ XI. Def. 14] hence, in whatever position we conceive the semicircle to be, the plane carried through it will produce a circle on the circumference of the sphere.
+
+[70196] And it is manifest that this circle is the greatest possible, inasmuch as the diameter of the sphere, which is of course the diameter both of the semicircle and of the circle, is greater than all the straight lines drawn across in the circle or the sphere.
+
+[70454] Let then BCDE be the circle in the greater sphere, and FGH the circle in the lesser sphere; let two diameters in them, BD, CE, be drawn at right angles to one another; then, given the two circles BCDE, FGH about the same centre, let there be inscribed in the greater circle BCDE an equilateral polygon with an even number of sides which does not touch the lesser circle FGH, let BK, KL, LM ME be its sides in the quadrant BE. let KA be joined and carried through to N, let AO be set up from the point A at right angles to the plane of the circle BCDE, and let it meet the surface of the sphere at O, and through AO and each of the straight lines BD, KN let planes be carried; they will then make greatest circles on the surface of the sphere, for the reason stated.
+
+[71221] Let them make such, and in them let BOD, KON be the semicircles on BD, KN.
+
+[71297] Now, since OA is at right angles to the plane of the circle BCDE, therefore all the planes through OA are also at right angles to the plane of the circle BCDE; [ XI. 18] hence the semicircles BOD, KON are also at right angles to the plane of the circle BCDE.
+
+[71557] And, since the semicircles BED, BOD, KON are equal, for they are on the equal diameters BD, KN, therefore the quadrants BE, BO, KO are also equal to one another.
+
+[71720] Therefore there are as many straight lines in the quadrants BO, KO equal to the straight lines BK, KL, LM, ME as there are sides of the polygon in the quadrant BE.
+
+[71885] Let them be inscribed, and let them be BP, PQ, QR, RO and KS, ST, TU, UO, let SP, TQ, UR be joined, and from P, S let perpendiculars be drawn to the plane of the circle BCDE; [ XI. 11] these will fall on BD, KN, the common sections of the planes, inasmuch as the planes of BOD, KON are also at right angles to the plane of the circle BCDE. [cf. XI. Def. 4]
+
+[72243] Let them so fall, and let them be PV, SW, and let WV be joined.
+
+[72308] Now since, in the equal semicircles BOD, KON, equal straight lines BP, KS have been cut off, and the perpendiculars PV, SW have been drawn, therefore PV is equal to SW, and BV to KW. [ III. 27, I. 26]
+
+[72510] But the whole BA is also equal to the whole KA; therefore the remainder VA is also equal to the remainder WA; therefore, as BV is to VA, so is KW to WA; therefore WV is parallel to KB. [ VI. 2]
+
+[72705] And, since each of the straight lines PV, SW is at right angles to the plane of the circle BCDE, therefore PV is parallel to SW. [ XI. 6]
+
+[72844] But it was also proved equal to it; therefore WV, SP are also equal and parallel. [ I. 33]
+
+[72936] And, since WV is parallel to SP, while WV is parallel to KB, therefore SP is also parallel to KB. [ XI. 9]
+
+[73044] And BP, KS join their extremities; therefore the quadrilateral KBPS is in one plane, inasmuch as, if two straight lines be parallel, and points be taken at random on each of them, the straight line joining the points is in the same plane with the parallels. [ XI. 7]
+
+[73312] For the same reason each of the quadrilaterals SPQT, TQRU is also in one plane.
+
+[73393] But the triangle URO is also in one plane. [ XI. 2]
+
+[73446] If then we conceive straight lines joined from the points P, S, Q, T, R, U to A, there will be constructed a certain polyhedral solid figure between the circumferences BO, KO, consisting of pyramids of which the quadrilaterals KBPS, SPQT, TQRU and the triangle URO are the bases and the point A the vertex.
+
+[73754] And, if we make the same construction in the case of each of the sides KL, LM, ME as in the case of BK, and further in the case of the remaining three quadrants, there will be constructed a certain polyhedral figure inscribed in the sphere and contained by pyramids, of which the said quadrilaterals and the triangle URO, and the others corresponding to them, are the bases and the point A the vertex.
+
+[74157] I say that the said polyhedron will not touch the lesser sphere at the surface on which the circle FGH is.
+
+[74265] Let AX be drawn from the point A perpendicular to the plane of the quadrilateral KBPS, and let it meet the plane at the point X; [ XI. 11] let XB, XK be joined.
+
+[74427] Then, since AX is at right angles to the plane of the quadrilateral KBPS, therefore it is also at right angles to all the straight lines which meet it and are in the plane of the quadrilateral. [ XI. Def. 3]
+
+[74636] Therefore AX is at right angles to each of the straight lines BX, XK.
+
+[74707] And, since AB is equal to AK, the square on AB is also equal to the square on AK.
+
+[74790] And the squares on AX, XB are equal to the square on AB, for the angle at X is right; [ I. 47] and the squares on AX, XK are equal to the square on AK. [ id.]
+
+[74950] Therefore the squares on AX, XB are equal to the squares on AX, XK.
+
+[75019] Let the square on AX be subtracted from each; therefore the remainder, the square on BX, is equal to the remainder, the square on XK; therefore BX is equal to XK.
+
+[75183] Similarly we can prove that the straight lines joined from X to P, S are equal to each of the straight lines BX, XK.
+
+[75301] Therefore the circle described with centre X and distance one of the straight lines XB, XK will pass through P, S also, and KBPS will be a quadrilateral in a circle.
+
+[75468] Now, since KB is greater than WV, while WV is equal to SP, therefore KB is greater than SP.
+
+[75561] But KB is equal to each of the straight lines KS, BP; therefore each of the straight lines KS, BP is greater than SP.
+
+[75680] And, since KBPS is a quadrilateral in a circle, and KB, BP, KS are equal, and PS less, and BX is the radius of the circle, therefore the square on KB is greater than double of the square on BX.
+
+[75875] Let KZ be drawn from K perpendicular to BV.
+
+[75920] Then, since BD is less than double of DZ, and, as BD is to DZ, so is the rectangle DB, BZ to the rectangle DZ, ZB, if a square be described upon BZ and the parallelogram on ZD be completed, then the rectangle DB, BZ is also less than double of the rectangle DZ, ZB.
+
+[76187] And, if KD be joined, the rectangle DB, BZ is equal to the square on BK, and the rectangle DZ, ZB equal to the square on KZ; [ III. 31, VI. 8 and Por.] therefore the square on KB is less than double of the square on KZ.
+
+[76408] But the square on KB is greater than double of the square on BX; therefore the square on KZ is greater than the square on BX.
+
+[76535] And, since BA is equal to KA, the square on BA is equal to the square on AK.
+
+[76613] And the squares on BX, XA are equal to the square on BA, and the squares on KZ, ZA equal to the square on KA; [ I. 47] therefore the squares on BX, XA are equal to the squares on KZ, ZA, and of these the square on KZ is greater than the square on BX; therefore the remainder, the square on ZA, is less than the square on XA.
+
+[76939] Therefore AX is greater than AZ; therefore AX is much greater than AG.
+
+[77011] And AX is the perpendicular on one base of the polyhedron, and AG on the surface of the lesser sphere; hence the polyhedron will not touch the lesser sphere on its surface.
+
+[77185] Therefore, given two spheres about the same centre, a polyhedral solid has been inscribed in the greater sphere which does not touch the lesser sphere at its surface. Q. E. F.
+
+[77362] Porism. But if in another sphere also a polyhedral solid be inscribed similar to the solid in the sphere BCDE, the polyhedral solid in the sphere BCDE has to the polyhedral solid in the other sphere the ratio triplicate of that which the diameter of the sphere BCDE has to the diameter of the other sphere.
+
+[77670] For, the solids being divided into their pyramids similar in multitude and arrangement, the pyramids will be similar.
+
+[77789] But similar pyramids are to one another in the triplicate ratio of their corresponding sides; [ XII. 8, Por.] therefore the pyramid of which the quadrilateral KBPS is the base, and the point A the vertex, has to the similarly arranged pyramid in the other sphere the ratio triplicate of that which the corresponding side has to the corresponding side, that is, of that which the radius AB of the sphere about A as centre has to the radius of the other sphere.
+
+[78250] Similarly also each pyramid of those in the sphere about A as centre has to each similarly arranged pyramid of those in the other sphere the ratio triplicate of that which AB has to the radius of the other sphere.
+
+[78465] And, as one of the antecedents is to one of the consequents, so are all the antecedents to all the consequents; [ V. 12] hence the whole polyhedral solid in the sphere about A as centre has to the whole polyhedral solid in the other sphere the ratio triplicate of that which AB has to the radius of the other sphere, that is, of that which the diameter BD has to the diameter of the other sphere. Q. E. D.
+
+[78872] Spheres are to one another in the triplicate ratio of their respective diameters.
+
+[78955] Let the spheres ABC, DEF be conceived, and let BC, EF be their diameters; I say that the sphere ABC has to the sphere DEF the ratio triplicate of that which BC has to EF.
+
+[79127] For, if the sphere ABC has not to the sphere DEF the ratio triplicate of that which BC has to EF, then the sphere ABC will have either to some less sphere than the sphere DEF, or to a greater, the ratio triplicate of that which BC has to EF.
+
+[79370] First, let it have that ratio to a less sphere GHK, let DEF be conceived about the same centre with GHK, let there be inscribed in the greater sphere DEF a polyhedral solid which does not touch the lesser sphere GHK at its surface, [ XII. 17] and let there also be inscribed in the sphere ABC a polyhedral solid similar to the polyhedral solid in the sphere DEF; therefore the polyhedral solid in ABC has to the polyhedral solid in DEF the ratio triplicate of that which BC has to EF. [ XII. 17, Por.]
+
+[79873] But the sphere ABC also has to the sphere GHK the ratio triplicate of that which BC has to EF; therefore, as the sphere ABC is to the sphere GHK, so is the polyhedral solid in the sphere ABC to the polyhedral solid in the sphere DEF; and, alternately, as the sphere ABC is to the polyhedron in it, so is the sphere GHK to the polyhedral solid in the sphere DEF. [ V. 16]
+
+[80245] But the sphere ABC is greater than the polyhedron in it; therefore the sphere GHK is also greater than the polyhedron in the sphere DEF.
+
+[80383] But it is also less, for it is enclosed by it.
+
+[80431] Therefore the sphere ABC has not to a less sphere than the sphere DEF the ratio triplicate of that which the diameter BC has to EF.
+
+[80564] Similarly we can prove that neither has the sphere DEF to a less sphere than the sphere ABC the ratio triplicate of that which EF has to BC.
+
+[80706] I say next that neither has the sphere ABC to any greater sphere than the sphere DEF the ratio triplicate of that which BC has to EF.
+
+[80841] For, if possible, let it have that ratio to a greater, LMN; therefore, inversely, the sphere LMN has to the sphere ABC the ratio triplicate of that which the diameter EF has to the diameter BC.
+
+[81036] But, inasmuch as LMN is greater than DEF, therefore, as the sphere LMN is to the sphere ABC, so is the sphere DEF to some less sphere than the sphere ABC, as was before proved. [ XII. 2, Lemma]
+
+[81231] Therefore the sphere DEF also has to some less sphere than the sphere ABC the ratio triplicate of that which EF has to BC: which was proved impossible.
+
+[81384] Therefore the sphere ABC has not to any sphere greater than the sphere DEF the ratio triplicate of that which BC has to EF.
+
+[81509] But it was proved that neither has it that ratio to a less sphere.
+
+[81577] Therefore the sphere ABC has to the sphere DEF the ratio triplicate of that which BC has to EF. Q. E. D.

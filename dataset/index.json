@@ -1,5 +1,14 @@
 [
  {
+  "slug": "4th-earl-of-chesterfield-poems-5d0ffd",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
+ },
+ {
   "slug": "a-v-dicey-lectures-on-the-relation-between-340c4e",
   "title": "Lectures on the Relation between Law and Public Opinion in England",
   "language": "English",
@@ -13,8 +22,8 @@
   "title": "Remarks Concerning the Government and Laws of the United States of America",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 69
  },
  {
@@ -40,9 +49,9 @@
   "title": "Paramārthasāra",
   "language": "Sanskrit",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 7
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 8
  },
  {
   "slug": "abhinavagupta-paryantapancasika-82149f",
@@ -58,8 +67,8 @@
   "title": "Leucippe and Clitophon",
   "language": "Greek",
   "genre": "Fiction",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 82
  },
  {
@@ -70,6 +79,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 156
+ },
+ {
+  "slug": "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+  "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+  "language": "English",
+  "genre": "Political & Social Theory",
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 520
  },
  {
   "slug": "adam-smith-lectures-on-justice-police-reven-aac5d2",
@@ -94,8 +112,8 @@
   "title": "Paramārthasāra",
   "language": "Sanskrit",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 3,
   "narration_units": 6
  },
  {
@@ -247,8 +265,8 @@
   "title": "Orationes 23",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 9
  },
  {
@@ -265,9 +283,9 @@
   "title": "Orationes 25",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 4
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 5
  },
  {
   "slug": "aelius-aristides-orationes-26-b3924c",
@@ -616,18 +634,18 @@
   "title": "Against Ctesiphon",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 39
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 40
  },
  {
   "slug": "aeschines-against-timarchus-105a70",
   "title": "Against Timarchus",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 29
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 30
  },
  {
   "slug": "aeschines-on-the-embassy-c43c5a",
@@ -715,9 +733,9 @@
   "title": "The Sexual Life of the Child",
   "language": "English",
   "genre": "Social Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 163
+  "class": "mixed",
+  "song_units": 9,
+  "narration_units": 168
  },
  {
   "slug": "alexander-berkman-now-and-after-the-abc-of-communi-31809e",
@@ -753,7 +771,7 @@
   "genre": "History",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 20
+  "narration_units": 19
  },
  {
   "slug": "alexander-berkman-the-russian-revolution-and-the-c-4f1aff",
@@ -778,9 +796,9 @@
   "title": "Proletarian Poetry",
   "language": "English",
   "genre": "Aesthetics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 4
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 5
  },
  {
   "slug": "alexander-bogdanov-religion-art-and-marxism-193158",
@@ -819,6 +837,15 @@
   "narration_units": 38
  },
  {
+  "slug": "alexander-pope-poems-2de8d3",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 94,
+  "narration_units": 0
+ },
+ {
   "slug": "alexandra-kollontai-the-workers-opposition-884417",
   "title": "The Workers' Opposition",
   "language": "English",
@@ -834,7 +861,7 @@
   "genre": "Political & Social Theory",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 424
+  "narration_units": 423
  },
  {
   "slug": "alexis-de-tocqueville-the-old-regime-and-the-revolutio-ea8547",
@@ -869,7 +896,7 @@
   "language": "Urdu",
   "genre": "Literature",
   "class": "poetic",
-  "song_units": 20,
+  "song_units": 32,
   "narration_units": 0
  },
  {
@@ -878,7 +905,7 @@
   "language": "Urdu",
   "genre": "Literature",
   "class": "poetic",
-  "song_units": 8,
+  "song_units": 14,
   "narration_units": 0
  },
  {
@@ -887,7 +914,25 @@
   "language": "Urdu",
   "genre": "Literature",
   "class": "poetic",
-  "song_units": 25,
+  "song_units": 30,
+  "narration_units": 0
+ },
+ {
+  "slug": "ambrose-philips-poems-602222",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 16,
+  "narration_units": 0
+ },
+ {
+  "slug": "amelia-opie-poems-eeda95",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 34,
   "narration_units": 0
  },
  {
@@ -904,8 +949,8 @@
   "title": "Res Gestae",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 3,
   "narration_units": 341
  },
  {
@@ -972,6 +1017,51 @@
   "narration_units": 61
  },
  {
+  "slug": "ann-batten-cristall-poems-b0d784",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 61,
+  "narration_units": 0
+ },
+ {
+  "slug": "ann-radcliffe-poems-d56a37",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 23,
+  "narration_units": 0
+ },
+ {
+  "slug": "ann-yearsley-poems-4d0e6f",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 38,
+  "narration_units": 0
+ },
+ {
+  "slug": "anna-laetitia-barbauld-poems-8731a3",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 35,
+  "narration_units": 0
+ },
+ {
+  "slug": "anna-seward-poems-4e63bb",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 16,
+  "narration_units": 0
+ },
+ {
   "slug": "annambhatta-tarkasamgraha-a21ed4",
   "title": "Tarkasaṃgraha",
   "language": "Sanskrit",
@@ -979,6 +1069,24 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 7
+ },
+ {
+  "slug": "anne-finch-poems-8fd29f",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 80,
+  "narration_units": 0
+ },
+ {
+  "slug": "anne-hunter-poems-81c841",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 32,
+  "narration_units": 0
  },
  {
   "slug": "anne-robert-jacques-turg-reflections-on-the-formation-and-5167c1",
@@ -1006,6 +1114,24 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 124
+ },
+ {
+  "slug": "anthony-alsop-poems-821cca",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 5,
+  "narration_units": 0
+ },
+ {
+  "slug": "anthony-whistler-poems-1b8670",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 2,
+  "narration_units": 0
  },
  {
   "slug": "antiphon-against-the-stepmother-for-poiso-dee941",
@@ -1264,9 +1390,9 @@
   "title": "Catalepton",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 3
+  "class": "mixed",
+  "song_units": 6,
+  "narration_units": 1
  },
  {
   "slug": "appendix-vergiliana-ciris-4782ee",
@@ -1291,9 +1417,9 @@
   "title": "Culex",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 6
+  "class": "mixed",
+  "song_units": 11,
+  "narration_units": 1
  },
  {
   "slug": "appendix-vergiliana-de-institutione-viri-boni-dc36b2",
@@ -1363,9 +1489,9 @@
   "title": "Civil Wars",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 222
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 223
  },
  {
   "slug": "appianus-of-alexandria-gallic-history-fb8eb8",
@@ -1417,9 +1543,9 @@
   "title": "Macedonian Affairs",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 7
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 8
  },
  {
   "slug": "appianus-of-alexandria-mithridatic-wars-13f095",
@@ -1489,9 +1615,9 @@
   "title": "Apologia",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 44
+  "class": "mixed",
+  "song_units": 11,
+  "narration_units": 50
  },
  {
   "slug": "apuleius-florida-9f7d41",
@@ -1597,9 +1723,9 @@
   "title": "Frogs",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 14
+  "class": "mixed",
+  "song_units": 30,
+  "narration_units": 34
  },
  {
   "slug": "aristophanes-knights-150cd5",
@@ -1615,27 +1741,27 @@
   "title": "Lysistrata",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 17
+  "class": "mixed",
+  "song_units": 12,
+  "narration_units": 22
  },
  {
   "slug": "aristophanes-peace-75f3d4",
   "title": "Peace",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 15
+  "class": "mixed",
+  "song_units": 27,
+  "narration_units": 35
  },
  {
   "slug": "aristophanes-thesmophoriazusae-d8a38a",
   "title": "Thesmophoriazusae",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 14
+  "class": "mixed",
+  "song_units": 9,
+  "narration_units": 18
  },
  {
   "slug": "aristophanes-wasps-b78fac",
@@ -1660,9 +1786,9 @@
   "title": "Constitution of the Athenians",
   "language": "Greek",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 34
+  "class": "mixed",
+  "song_units": 10,
+  "narration_units": 39
  },
  {
   "slug": "aristotle-economics-82caeb",
@@ -1714,9 +1840,9 @@
   "title": "Poetics",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 21
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 24
  },
  {
   "slug": "aristotle-politics-ad5a22",
@@ -1732,9 +1858,9 @@
   "title": "Rhetoric",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 96
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 97
  },
  {
   "slug": "arrian-acies-contra-alanos-e2e978",
@@ -1804,9 +1930,9 @@
   "title": "Travels in France during the Years 1787, 1788, 1789",
   "language": "English",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 188
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 191
  },
  {
   "slug": "aryadeva-caryamelapakapradipa-8c21c0",
@@ -1843,6 +1969,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 13
+ },
+ {
+  "slug": "assorted-eighteenth-century-poetry-353ac8",
+  "title": "An Assorted Collection of Eighteenth-Century Poetry",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 653,
+  "narration_units": 0
  },
  {
   "slug": "atharvaveda-ps",
@@ -1894,45 +2029,45 @@
   "title": "Woman and Socialism",
   "language": "English",
   "genre": "Political & Social Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 229
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 230
  },
  {
   "slug": "augustin-thierry-historical-essays-and-narratives-832778",
   "title": "Historical Essays and Narratives of the Merovingian Era",
   "language": "English",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 260
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 263
  },
  {
   "slug": "aulus-persius-flaccus-satires-7815f3",
   "title": "Satires",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 12
+  "class": "poetic",
+  "song_units": 23,
+  "narration_units": 0
  },
  {
   "slug": "aurelius-prudentius-clem-apotheosis-669c1f",
   "title": "Apotheosis",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 6
+  "class": "mixed",
+  "song_units": 8,
+  "narration_units": 2
  },
  {
   "slug": "aurelius-prudentius-clem-cathemerina-10b988",
   "title": "Cathemerina",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 10
+  "class": "mixed",
+  "song_units": 12,
+  "narration_units": 12
  },
  {
   "slug": "aurelius-prudentius-clem-contra-symmachum-43a8d8",
@@ -1975,9 +2110,9 @@
   "title": "Liber Peristephanon",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 46
+  "class": "mixed",
+  "song_units": 43,
+  "narration_units": 27
  },
  {
   "slug": "aurelius-prudentius-clem-praefatio-b8d117",
@@ -2011,18 +2146,18 @@
   "title": "Cento Nuptialis",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 3
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 2
  },
  {
   "slug": "ausonius-decimus-magnus-commemoratio-professorum-burdiga-dc61ad",
   "title": "Commemoratio Professorum Burdigalensium",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 7
+  "class": "poetic",
+  "song_units": 11,
+  "narration_units": 0
  },
  {
   "slug": "ausonius-decimus-magnus-cupido-cruciatus-27d362",
@@ -2056,9 +2191,9 @@
   "title": "Eclogarum Liber",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 7
+  "class": "poetic",
+  "song_units": 11,
+  "narration_units": 0
  },
  {
   "slug": "ausonius-decimus-magnus-ephemeris-3ef8b1",
@@ -2083,18 +2218,18 @@
   "title": "Epigrammaton Liber",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 9
+  "class": "mixed",
+  "song_units": 17,
+  "narration_units": 1
  },
  {
   "slug": "ausonius-decimus-magnus-epistulae-909cf4",
   "title": "Epistulae",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 20
+  "class": "mixed",
+  "song_units": 27,
+  "narration_units": 9
  },
  {
   "slug": "ausonius-decimus-magnus-epitaphia-b68757",
@@ -2128,17 +2263,17 @@
   "title": "Griphus Ternarii Numeri",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 2
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 1
  },
  {
   "slug": "ausonius-decimus-magnus-liber-protrepticus-ad-nepotem-9405a2",
   "title": "Liber Protrepticus ad Nepotem",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 1
  },
  {
@@ -2155,18 +2290,18 @@
   "title": "Ludus Septem Sapientum",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 4
+  "class": "poetic",
+  "song_units": 4,
+  "narration_units": 0
  },
  {
   "slug": "ausonius-decimus-magnus-mosella-d85c10",
   "title": "Mosella",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 8
+  "class": "mixed",
+  "song_units": 12,
+  "narration_units": 1
  },
  {
   "slug": "ausonius-decimus-magnus-oratio-versibus-rhopalicis-7f24b2",
@@ -2191,9 +2326,9 @@
   "title": "Parentalia",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 7
+  "class": "mixed",
+  "song_units": 11,
+  "narration_units": 1
  },
  {
   "slug": "ausonius-decimus-magnus-praefatiunculae-c18c8a",
@@ -2218,9 +2353,9 @@
   "title": "Technopaegnion",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 3
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 2
  },
  {
   "slug": "ausonius-decimus-magnus-versus-paschales-prosodic-67b1bd",
@@ -2454,7 +2589,7 @@
   "genre": "Philosophy of Mind",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 125
+  "narration_units": 124
  },
  {
   "slug": "bertrand-russell-the-problems-of-philosophy-47c80e",
@@ -2470,27 +2605,27 @@
   "title": "Epitaphius Adonis",
   "language": "Greek",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 2
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 1
  },
  {
   "slug": "bion-of-smyrna-epithalamium-achillis-et-deidame-1e4d08",
   "title": "Epithalamium Achillis et Deidameiae",
   "language": "Greek",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 1
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 2
  },
  {
   "slug": "bion-of-smyrna-fragmenta-cb6cb4",
   "title": "Fragmenta",
   "language": "Greek",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 2
+  "class": "mixed",
+  "song_units": 16,
+  "narration_units": 16
  },
  {
   "slug": "blaise-pascal-the-thoughts-pensees-of-blaise-p-7acd95",
@@ -2506,9 +2641,9 @@
   "title": "De consolatione philosophiae",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 42
+  "class": "mixed",
+  "song_units": 31,
+  "narration_units": 50
  },
  {
   "slug": "boethius-de-fide-catholica-bfb831",
@@ -2551,9 +2686,9 @@
   "title": "The Consolation of Philosophy",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 70
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 71
  },
  {
   "slug": "boethius-utrum-pater-et-filius-ac-spiritu-0184d2",
@@ -2569,8 +2704,8 @@
   "title": "Liberty and Liberalism",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 290
  },
  {
@@ -2578,27 +2713,27 @@
   "title": "Epigrams and Fragments",
   "language": "Greek",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 5
+  "class": "poetic",
+  "song_units": 9,
+  "narration_units": 0
  },
  {
   "slug": "callimachus-epigrams-e3edaf",
   "title": "Epigrams",
   "language": "Greek",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 5
+  "class": "poetic",
+  "song_units": 8,
+  "narration_units": 0
  },
  {
   "slug": "callimachus-hymn-to-apollo-a2a359",
   "title": "Hymn to Apollo",
   "language": "Greek",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 2
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
  },
  {
   "slug": "callimachus-hymn-to-artemis-797112",
@@ -2623,9 +2758,9 @@
   "title": "Hymn to Delos",
   "language": "Greek",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 4
+  "class": "poetic",
+  "song_units": 6,
+  "narration_units": 0
  },
  {
   "slug": "callimachus-hymn-to-demeter-5a3e95",
@@ -2659,9 +2794,9 @@
   "title": "The Declaration of Independence: A Study in the History of Political Ideas",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 85
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 86
  },
  {
   "slug": "carl-menger-grundsatze-der-volkswirtschaftsl-d59be8",
@@ -2686,18 +2821,18 @@
   "title": "Logic: Deductive and Inductive",
   "language": "English",
   "genre": "Logic",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 190
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 191
  },
  {
   "slug": "cassius-dio-historia-romana-9a0dce",
   "title": "Historia Romana",
   "language": "Greek",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 368
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 369
  },
  {
   "slug": "catharine-macaulay-observations-on-the-reflections--5cae06",
@@ -2707,6 +2842,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 26
+ },
+ {
+  "slug": "catherine-rebecca-grey-manners-poems-07fd49",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 40,
+  "narration_units": 0
  },
  {
   "slug": "cato-marcus-porcius-de-agri-cultura-49cfe3",
@@ -2723,7 +2867,7 @@
   "language": "Latin",
   "genre": "Classics",
   "class": "mixed",
-  "song_units": 24,
+  "song_units": 26,
   "narration_units": 15
  },
  {
@@ -2749,9 +2893,18 @@
   "title": "Callirhoe",
   "language": "Greek",
   "genre": "Fiction",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 73
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 75
+ },
+ {
+  "slug": "charles-churchill-poems-f35dae",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 136,
+  "narration_units": 0
  },
  {
   "slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
@@ -2803,9 +2956,9 @@
   "title": "Traité de Législation: VOL IV",
   "language": "French",
   "genre": "Political & Social Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 210
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 211
  },
  {
   "slug": "charles-darwin-the-origin-of-species-75e1de",
@@ -2844,6 +2997,15 @@
   "narration_units": 364
  },
  {
+  "slug": "charles-parrott-poems-c4582c",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 4,
+  "narration_units": 0
+ },
+ {
   "slug": "charles-wentworth-dilke-the-source-and-remedy-of-the-nat-925e92",
   "title": "The Source and Remedy of the National Difficulties",
   "language": "English",
@@ -2851,6 +3013,51 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 19
+ },
+ {
+  "slug": "charles-wesley-poems-fd377a",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 40,
+  "narration_units": 0
+ },
+ {
+  "slug": "charlotte-lennox-poems-16d8a7",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 31,
+  "narration_units": 0
+ },
+ {
+  "slug": "charlotte-smith-poems-775ddd",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 29,
+  "narration_units": 0
+ },
+ {
+  "slug": "christian-carstairs-poems-cdca30",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 17,
+  "narration_units": 0
+ },
+ {
+  "slug": "christopher-smart-poems-d6d852",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 62,
+  "narration_units": 0
  },
  {
   "slug": "cicero-marcus-tullius-academica-4adac7",
@@ -2875,18 +3082,18 @@
   "title": "Brutus",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 54
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 56
  },
  {
   "slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
   "title": "Letters of Marcus Tullius Cicero",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 179
+  "class": "mixed",
+  "song_units": 14,
+  "narration_units": 184
  },
  {
   "slug": "cicero-marcus-tullius-cum-populo-gratias-egit-b54003",
@@ -2920,9 +3127,9 @@
   "title": "De Divinatione",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 64
+  "class": "mixed",
+  "song_units": 46,
+  "narration_units": 95
  },
  {
   "slug": "cicero-marcus-tullius-de-domo-sua-ad-pontifices-cb5a2b",
@@ -2974,9 +3181,9 @@
   "title": "De Officiis",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 82
+  "class": "mixed",
+  "song_units": 17,
+  "narration_units": 90
  },
  {
   "slug": "cicero-marcus-tullius-de-optimo-genere-oratorum-9aec20",
@@ -3001,9 +3208,9 @@
   "title": "De Senectute",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 19
+  "class": "mixed",
+  "song_units": 10,
+  "narration_units": 23
  },
  {
   "slug": "cicero-marcus-tullius-divinatio-in-q-caecilium-58a3f3",
@@ -3037,8 +3244,8 @@
   "title": "In L. Calpurnium Pisonem",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 26
  },
  {
@@ -3046,9 +3253,9 @@
   "title": "Letters to Atticus",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 216
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 211
  },
  {
   "slug": "cicero-marcus-tullius-letters-to-brutus-b8c15f",
@@ -3064,9 +3271,9 @@
   "title": "Letters to his brother Quintus",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 49
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 51
  },
  {
   "slug": "cicero-marcus-tullius-letters-to-his-friends-32b267",
@@ -3075,7 +3282,7 @@
   "genre": "Classics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 218
+  "narration_units": 214
  },
  {
   "slug": "cicero-marcus-tullius-lucullus-ae01c1",
@@ -3091,9 +3298,9 @@
   "title": "On Fate",
   "language": "Latin",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 11
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 12
  },
  {
   "slug": "cicero-marcus-tullius-on-moral-ends-c27048",
@@ -3109,8 +3316,8 @@
   "title": "On Oratory",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 131
  },
  {
@@ -3127,17 +3334,17 @@
   "title": "On the Nature of the Gods",
   "language": "Latin",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 76
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 74
  },
  {
   "slug": "cicero-marcus-tullius-orator-a10c4c",
   "title": "Orator",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 40
  },
  {
@@ -3156,7 +3363,7 @@
   "genre": "Classics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 129
+  "narration_units": 127
  },
  {
   "slug": "cicero-marcus-tullius-pro-a-caecina-bc88d4",
@@ -3334,8 +3541,8 @@
   "title": "Pro Rege Deiotaro",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 10
  },
  {
@@ -3343,8 +3550,8 @@
   "title": "Pro S. Roscio Amerino",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 30
  },
  {
@@ -3388,8 +3595,8 @@
   "title": "Tusculan Disputations",
   "language": "Latin",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 5,
   "narration_units": 98
  },
  {
@@ -3442,8 +3649,8 @@
   "title": "Carminum minorum corpusculum",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 16
  },
  {
@@ -3469,18 +3676,18 @@
   "title": "de consulatu Stilichonis",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 13
+  "class": "mixed",
+  "song_units": 13,
+  "narration_units": 5
  },
  {
   "slug": "claudian-de-raptu-proserpinae-0a159e",
   "title": "de raptu Proserpinae",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 11
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 8
  },
  {
   "slug": "claudian-epithalamium-de-nuptiis-honorii--51eb1c",
@@ -3532,9 +3739,9 @@
   "title": "Panegyricus de sexto consulatu Honorii Augusti",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 7
+  "class": "mixed",
+  "song_units": 8,
+  "narration_units": 1
  },
  {
   "slug": "claudian-panegyricus-de-tertio-consulatu--68219d",
@@ -3568,8 +3775,8 @@
   "title": "On the Nature of Animals",
   "language": "Greek",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 168
  },
  {
@@ -3640,9 +3847,9 @@
   "title": "Stromata",
   "language": "Greek",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 294
+  "class": "mixed",
+  "song_units": 76,
+  "narration_units": 346
  },
  {
   "slug": "clement-of-alexandria-who-is-the-rich-man-that-shall-b-399f36",
@@ -3667,9 +3874,9 @@
   "title": "Res Rustica",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 197
+  "class": "mixed",
+  "song_units": 30,
+  "narration_units": 213
  },
  {
   "slug": "condy-raguet-the-principles-of-free-trade-45ad41",
@@ -3678,7 +3885,16 @@
   "genre": "Economics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 265
+  "narration_units": 266
+ },
+ {
+  "slug": "constantia-grierson-poems-59afb5",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 5,
+  "narration_units": 0
  },
  {
   "slug": "constantin-francois-voln-the-ruins-or-a-survey-of-the-rev-2e533f",
@@ -3688,6 +3904,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 78
+ },
+ {
+  "slug": "constantine-barber-poems-8e9f11",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
  },
  {
   "slug": "cornelius-nepos-agesilaus-a824e2",
@@ -3955,8 +4180,8 @@
   "title": "Socialist Reconstruction of Society",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 27
  },
  {
@@ -3978,6 +4203,15 @@
   "narration_units": 16
  },
  {
+  "slug": "daniel-defoe-poems-9cbf10",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 55,
+  "narration_units": 0
+ },
+ {
   "slug": "dante-alighieri-de-monarchia-a58c66",
   "title": "De Monarchia",
   "language": "English",
@@ -3987,12 +4221,21 @@
   "narration_units": 80
  },
  {
+  "slug": "david-garrick-poems-5df7b4",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 7,
+  "narration_units": 0
+ },
+ {
   "slug": "david-hume-a-treatise-of-human-nature-ce1af6",
   "title": "A Treatise of Human Nature",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 312
  },
  {
@@ -4027,9 +4270,18 @@
   "title": "The Natural History of Religion",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 41
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 42
+ },
+ {
+  "slug": "david-mallet-poems-ce2ee9",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 14,
+  "narration_units": 0
  },
  {
   "slug": "david-riazanov-karl-marx-on-china-faeed7",
@@ -4051,7 +4303,7 @@
  },
  {
   "slug": "david-riazanov-on-engels-anti-duhring-c47978",
-  "title": "On Engels' \"Anti-Duhring\"",
+  "title": "On Engels' \\\"Anti-Duhring\\",
   "language": "English",
   "genre": "History of Philosophy",
   "class": "prose",
@@ -4081,9 +4333,9 @@
   "title": "The Philosophy of Despair",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 10
+  "class": "mixed",
+  "song_units": 14,
+  "narration_units": 18
  },
  {
   "slug": "demades-on-the-twelve-years-a2768c",
@@ -4279,8 +4531,8 @@
   "title": "Against Meidias",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 33
  },
  {
@@ -4549,17 +4801,17 @@
   "title": "On the Crown",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 46
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 47
  },
  {
   "slug": "demosthenes-on-the-false-embassy-ef3411",
   "title": "On the False Embassy",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 48
  },
  {
@@ -4720,9 +4972,9 @@
   "title": "In Praise of Folly",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 49
+  "class": "mixed",
+  "song_units": 11,
+  "narration_units": 56
  },
  {
   "slug": "desiderius-erasmus-the-complaint-of-peace-8b8108",
@@ -4747,9 +4999,9 @@
   "title": "The Principles of Aesthetics",
   "language": "English",
   "genre": "Aesthetics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 144
+  "class": "mixed",
+  "song_units": 21,
+  "narration_units": 151
  },
  {
   "slug": "didache-didache-911275",
@@ -4792,18 +5044,18 @@
   "title": "Orations",
   "language": "Greek",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 279
+  "class": "mixed",
+  "song_units": 9,
+  "narration_units": 282
  },
  {
   "slug": "diodorus-siculus-historical-library-3031ad",
   "title": "Historical Library",
   "language": "Greek",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 328
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 330
  },
  {
   "slug": "diogenes-laertius-vitae-philosophorum-bafbb3",
@@ -4811,8 +5063,8 @@
   "language": "Greek",
   "genre": "Classics",
   "class": "mixed",
-  "song_units": 34,
-  "narration_units": 216
+  "song_units": 115,
+  "narration_units": 248
  },
  {
   "slug": "dionysius-of-halicarnass-ad-ammaeum-15387b",
@@ -4828,8 +5080,8 @@
   "title": "Antiquitates Romanae",
   "language": "Greek",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 494
  },
  {
@@ -4918,8 +5170,8 @@
   "title": "On Demosthenes",
   "language": "Greek",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 32
  },
  {
@@ -4927,9 +5179,9 @@
   "title": "On Literary Composition",
   "language": "Greek",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 36
+  "class": "mixed",
+  "song_units": 74,
+  "narration_units": 94
  },
  {
   "slug": "edouard-le-roy-a-new-philosophy-henri-bergson-056e87",
@@ -4945,9 +5197,9 @@
   "title": "Cromwell and Communism: Socialism and Democracy in the Great English Revolution",
   "language": "English",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 118
+  "class": "mixed",
+  "song_units": 8,
+  "narration_units": 125
  },
  {
   "slug": "eduard-bernstein-evolutionary-socialism-3ea1cc",
@@ -4963,9 +5215,9 @@
   "title": "Ferdinand Lassalle as a Social Reformer",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 97
+  "class": "mixed",
+  "song_units": 11,
+  "narration_units": 103
  },
  {
   "slug": "eduard-bernstein-karl-marx-and-social-reform-bfeef2",
@@ -5004,6 +5256,42 @@
   "narration_units": 110
  },
  {
+  "slug": "edward-jerningham-poems-659c4b",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 13,
+  "narration_units": 0
+ },
+ {
+  "slug": "edward-moore-poems-516d92",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 12,
+  "narration_units": 0
+ },
+ {
+  "slug": "edward-rolle-poems-afdcef",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 7,
+  "narration_units": 0
+ },
+ {
+  "slug": "edward-young-poems-c01d7e",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 190,
+  "narration_units": 0
+ },
+ {
   "slug": "edwin-cannan-wealth-a-brief-explanation-of-th-1af31c",
   "title": "Wealth: A Brief Explanation of the Causes of Economic Welfare",
   "language": "English",
@@ -5028,7 +5316,52 @@
   "genre": "Economics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 193
+  "narration_units": 194
+ },
+ {
+  "slug": "eliza-day-poems-281dff",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 78,
+  "narration_units": 0
+ },
+ {
+  "slug": "elizabeth-carter-poems-503c4f",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 11,
+  "narration_units": 0
+ },
+ {
+  "slug": "elizabeth-craven-poems-7a848f",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 5,
+  "narration_units": 0
+ },
+ {
+  "slug": "elizabeth-hands-poems-def5d6",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 32,
+  "narration_units": 0
+ },
+ {
+  "slug": "elizabeth-rowe-poems-3be553",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 81,
+  "narration_units": 0
  },
  {
   "slug": "emile-faguet-initiation-into-philosophy-db6cb4",
@@ -5161,9 +5494,9 @@
   "title": "Discourses",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 132
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 135
  },
  {
   "slug": "epictetus-fragments-and-gnomologium-23731b",
@@ -5188,9 +5521,18 @@
   "title": "The Works of Epictetus",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 163
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 162
+ },
+ {
+  "slug": "erasmus-darwin-poems-9a92ee",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 91,
+  "narration_units": 0
  },
  {
   "slug": "ernest-belfort-bax-essays-in-socialism-new-old-7ad48e",
@@ -5532,7 +5874,7 @@
   "genre": "History",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 159
+  "narration_units": 158
  },
  {
   "slug": "evgeni-preobrazhensky-foreign-exchange-problems-in-sov-109f4d",
@@ -5604,7 +5946,7 @@
   "genre": "Classics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 38
+  "narration_units": 37
  },
  {
   "slug": "flavius-josephus-jewish-antiquities-22af73",
@@ -5613,7 +5955,7 @@
   "genre": "Classics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 547
+  "narration_units": 546
  },
  {
   "slug": "flavius-josephus-life-of-josephus-92e1f9",
@@ -5656,9 +5998,9 @@
   "title": "Heroicus",
   "language": "Greek",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 33
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 35
  },
  {
   "slug": "flavius-philostratus-life-of-apollonius-of-tyana-7fe64a",
@@ -5697,6 +6039,15 @@
   "narration_units": 67
  },
  {
+  "slug": "frances-brooke-poems-3c7e7f",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 2,
+  "narration_units": 0
+ },
+ {
   "slug": "francis-amasa-walker-political-economy-d17649",
   "title": "Political Economy",
   "language": "English",
@@ -5710,8 +6061,8 @@
   "title": "The Wages Question",
   "language": "English",
   "genre": "Economics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 198
  },
  {
@@ -5719,8 +6070,8 @@
   "title": "Novum Organum",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 128
  },
  {
@@ -5728,9 +6079,27 @@
   "title": "The Advancement of Learning",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 195
+  "class": "mixed",
+  "song_units": 13,
+  "narration_units": 201
+ },
+ {
+  "slug": "francis-coventry-poems-309f66",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 8,
+  "narration_units": 0
+ },
+ {
+  "slug": "francis-fawkes-poems-cae374",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
  },
  {
   "slug": "francis-wrigley-hirst-free-trade-and-other-fundamental-46e79c",
@@ -5773,9 +6142,9 @@
   "title": "Absolutism and Revolution in Germany 1525-1848",
   "language": "English",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 156
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 157
  },
  {
   "slug": "franz-mehring-frederick-engels-ad50bd",
@@ -5791,8 +6160,8 @@
   "title": "Our Old Masters and Their Modern Substitutes",
   "language": "English",
   "genre": "Political & Social Theory",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 5
  },
  {
@@ -5800,9 +6169,9 @@
   "title": "The State",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 77
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 80
  },
  {
   "slug": "frederick-douglass-the-life-and-times-of-frederick--7be09c",
@@ -5827,9 +6196,9 @@
   "title": "The Condition of the Working Class in England",
   "language": "English",
   "genre": "Social Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 140
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 141
  },
  {
   "slug": "frederick-winslow-taylor-the-principles-of-scientific-man-5cd9fa",
@@ -5854,9 +6223,9 @@
   "title": "Homer and Classical Philology",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 9
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 10
  },
  {
   "slug": "friedrich-nietzsche-the-antichrist-1ace0e",
@@ -5872,8 +6241,8 @@
   "title": "The Case of Wagner, Nietzsche Contra Wagner, and Selected Aphorisms",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 3,
   "narration_units": 39
  },
  {
@@ -5881,8 +6250,8 @@
   "title": "Thus Spake Zarathustra",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 3,
   "narration_units": 160
  },
  {
@@ -5890,18 +6259,18 @@
   "title": "Aesthetical Essays",
   "language": "English",
   "genre": "Aesthetics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 194
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 195
  },
  {
   "slug": "friedrich-schiller-philosophical-letters-c69c0d",
   "title": "Philosophical Letters",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 32
+  "class": "mixed",
+  "song_units": 11,
+  "narration_units": 37
  },
  {
   "slug": "friedrich-von-wieser-natural-value-f25830",
@@ -5926,9 +6295,9 @@
   "title": "Institutes of Roman Law",
   "language": "English",
   "genre": "Law",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 469
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 471
  },
  {
   "slug": "gaius-valerius-flaccus-argonautica-88ed5e",
@@ -5962,9 +6331,9 @@
   "title": "Noctes Atticae",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 252
+  "class": "mixed",
+  "song_units": 137,
+  "narration_units": 328
  },
  {
   "slug": "georg-wilhelm-friedrich--lectures-on-aesthetics-selection-c7c04d",
@@ -6093,6 +6462,24 @@
   "narration_units": 56
  },
  {
+  "slug": "george-bubb-dodington-poems-37232e",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
+ },
+ {
+  "slug": "george-crabbe-poems-eb1984",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 112,
+  "narration_units": 0
+ },
+ {
   "slug": "george-everett-partridge-the-psychology-of-nations-a-cont-f19467",
   "title": "The Psychology of Nations: A Contribution to the Philosophy of History",
   "language": "English",
@@ -6126,7 +6513,7 @@
   "genre": "Economics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 87
+  "narration_units": 88
  },
  {
   "slug": "george-john-romanes-mind-and-motion-and-monism-0ab6da",
@@ -6136,6 +6523,33 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 40
+ },
+ {
+  "slug": "george-keate-poems-f150b3",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
+ },
+ {
+  "slug": "george-lyttelton-poems-87ff65",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 35,
+  "narration_units": 0
+ },
+ {
+  "slug": "george-monck-berkeley-poems-edabab",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 29,
+  "narration_units": 0
  },
  {
   "slug": "george-santayana-some-turns-of-thought-in-modern--aa7ad8",
@@ -6160,8 +6574,8 @@
   "title": "Anarchism and Socialism",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 44
  },
  {
@@ -6192,13 +6606,22 @@
   "narration_units": 10
  },
  {
+  "slug": "gilbert-west-poems-0d6c1e",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 58,
+  "narration_units": 0
+ },
+ {
   "slug": "greek-anthology-greek-anthology-881bf4",
   "title": "Greek Anthology",
   "language": "Greek",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 52
+  "class": "mixed",
+  "song_units": 395,
+  "narration_units": 416
  },
  {
   "slug": "gustave-de-molinari-the-society-of-tomorrow-3bed3e",
@@ -6208,6 +6631,33 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 77
+ },
+ {
+  "slug": "hannah-brand-poems-11e826",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 19,
+  "narration_units": 0
+ },
+ {
+  "slug": "hannah-cowley-poems-76f581",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 64,
+  "narration_units": 0
+ },
+ {
+  "slug": "hannah-more-poems-d873ef",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 29,
+  "narration_units": 0
  },
  {
   "slug": "harpocration-lexicon-of-the-ten-attic-orators-a57385",
@@ -6223,18 +6673,45 @@
   "title": "Philosophy and Religion: Six Lectures Delivered at Cambridge",
   "language": "English",
   "genre": "Philosophy of Religion",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 59
+ },
+ {
+  "slug": "helen-maria-williams-poems-8735a3",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 79,
+  "narration_units": 0
  },
  {
   "slug": "henri-bergson-laughter-an-essay-on-the-meaning-4ca582",
   "title": "Laughter: An Essay on the Meaning of the Comic",
   "language": "English",
   "genre": "Aesthetics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 53
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 55
+ },
+ {
+  "slug": "henrietta-st-john-knight-poems-f6c109",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 2,
+  "narration_units": 0
+ },
+ {
+  "slug": "henry-carey-poems-65d065",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 11,
+  "narration_units": 0
  },
  {
   "slug": "henry-george-progress-and-poverty-edf98e",
@@ -6255,12 +6732,21 @@
   "narration_units": 148
  },
  {
+  "slug": "henry-harington-poems-ca50d9",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 2,
+  "narration_units": 0
+ },
+ {
   "slug": "henry-higgs-the-physiocrats-608e7d",
   "title": "The Physiocrats",
   "language": "English",
   "genre": "Economics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 37
  },
  {
@@ -6358,8 +6844,8 @@
   "title": "First Principles",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 237
  },
  {
@@ -6457,9 +6943,9 @@
   "title": "The Histories",
   "language": "Greek",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 351
+  "class": "mixed",
+  "song_units": 39,
+  "narration_units": 372
  },
  {
   "slug": "hesiod-shield-of-heracles-722025",
@@ -6907,9 +7393,9 @@
   "title": "Carmen Saeculare",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 1
+  "class": "poetic",
+  "song_units": 2,
+  "narration_units": 0
  },
  {
   "slug": "horace-carmina-13e18b",
@@ -6948,21 +7434,30 @@
   "narration_units": 31
  },
  {
+  "slug": "horace-walpole-poems-670e1d",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 12,
+  "narration_units": 0
+ },
+ {
   "slug": "hugo-grotius-the-freedom-of-the-seas-mare-lib-244ad7",
   "title": "The Freedom of the Seas (Mare Liberum)",
   "language": "English",
   "genre": "Law",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 64
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 65
  },
  {
   "slug": "hugo-grotius-the-rights-of-war-and-peace-0db900",
   "title": "The Rights of War and Peace",
   "language": "English",
   "genre": "Law",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 229
  },
  {
@@ -7090,6 +7585,33 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 215
+ },
+ {
+  "slug": "isaac-hawkins-browne-poems-cb8854",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 9,
+  "narration_units": 0
+ },
+ {
+  "slug": "isaac-watts-poems-398499",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 84,
+  "narration_units": 0
+ },
+ {
+  "slug": "isabella-kelly-poems-dc1cc7",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 21,
+  "narration_units": 0
  },
  {
   "slug": "isaeus-on-behalf-of-euphiletus-6cb6d4",
@@ -7474,9 +7996,9 @@
   "title": "Sāṃkhyakārikā",
   "language": "Sanskrit",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 6
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 9
  },
  {
   "slug": "j-b-baillie-the-origin-and-significance-of-h-55a431",
@@ -7492,9 +8014,9 @@
   "title": "Daedalus, or, Science and the Future",
   "language": "English",
   "genre": "Philosophy of Science",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 17
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 18
  },
  {
   "slug": "j-b-s-haldane-dialectical-materialism-and-mode-13e109",
@@ -7528,8 +8050,8 @@
   "title": "Political Economy and the Philosophy of Government",
   "language": "English",
   "genre": "Economics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 217
  },
  {
@@ -7578,6 +8100,33 @@
   "narration_units": 367
  },
  {
+  "slug": "james-barclay-poems-1c4e19",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 4,
+  "narration_units": 0
+ },
+ {
+  "slug": "james-beattie-poems-1f9abb",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 10,
+  "narration_units": 0
+ },
+ {
+  "slug": "james-boswell-poems-8ba996",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 10,
+  "narration_units": 0
+ },
+ {
   "slug": "james-bryce-the-holy-roman-empire-ea9074",
   "title": "The Holy Roman Empire",
   "language": "English",
@@ -7591,9 +8140,9 @@
   "title": "Labour in Irish History",
   "language": "English",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 73
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 75
  },
  {
   "slug": "james-connolly-socialism-made-easy-e304f1",
@@ -7609,27 +8158,54 @@
   "title": "The Re-Conquest of Ireland",
   "language": "English",
   "genre": "Social Theory",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 43
+ },
+ {
+  "slug": "james-hammond-poems-7740d1",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 5,
+  "narration_units": 0
  },
  {
   "slug": "james-harrington-the-oceana-and-other-works-f53808",
   "title": "The Oceana and Other Works",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 455
+  "class": "mixed",
+  "song_units": 7,
+  "narration_units": 459
  },
  {
   "slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
   "title": "The Miscellaneous Works of Sir James Mackintosh",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 724
+  "class": "mixed",
+  "song_units": 14,
+  "narration_units": 729
+ },
+ {
+  "slug": "james-macpherson-poems-bc4ce0",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 182,
+  "narration_units": 0
+ },
+ {
+  "slug": "james-merrick-poems-485d0d",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 16,
+  "narration_units": 0
  },
  {
   "slug": "james-mill-commerce-defended-348640",
@@ -7650,6 +8226,15 @@
   "narration_units": 94
  },
  {
+  "slug": "james-scott-poems-af3a56",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 29,
+  "narration_units": 0
+ },
+ {
   "slug": "james-steuart-an-inquiry-into-the-principles-o-8baeaf",
   "title": "An Inquiry into the Principles of Political Economy",
   "language": "English",
@@ -7657,6 +8242,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 416
+ },
+ {
+  "slug": "james-thomson-poems-24b480",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 145,
+  "narration_units": 0
  },
  {
   "slug": "james-tyrrell-patriarcha-non-monarcha-2d1ee5",
@@ -7675,6 +8269,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 143
+ },
+ {
+  "slug": "janet-little-poems-df0dac",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 56,
+  "narration_units": 0
  },
  {
   "slug": "jean-baptiste-say-a-treatise-on-political-economy--3bbda3",
@@ -7699,18 +8302,18 @@
   "title": "Emile, or On Education",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 343
+  "class": "mixed",
+  "song_units": 7,
+  "narration_units": 345
  },
  {
   "slug": "jean-jacques-rousseau-the-social-contract-and-discours-0254b9",
   "title": "The Social Contract and Discourses",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 172
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 173
  },
  {
   "slug": "jeremy-bentham-a-protest-against-law-taxes-fd8979",
@@ -7737,16 +8340,25 @@
   "genre": "Economics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 36
+  "narration_units": 35
  },
  {
   "slug": "jerome-saint-letters-3da553",
   "title": "Letters",
   "language": "Latin",
   "genre": "Theology",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 82
+ },
+ {
+  "slug": "joanna-baillie-poems-dfa2df",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 117,
+  "narration_units": 0
  },
  {
   "slug": "joannes-zonaras-epitome-of-histories-volume-1-d4bea2",
@@ -7756,6 +8368,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 135
+ },
+ {
+  "slug": "joel-barlow-poems-b85697",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 10,
+  "narration_units": 0
  },
  {
   "slug": "johann-gottlieb-fichte-outlines-of-the-doctrine-of-know-07ec07",
@@ -7915,8 +8536,8 @@
   "title": "Bergson and His Philosophy",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 3,
   "narration_units": 70
  },
  {
@@ -7924,9 +8545,9 @@
   "title": "Modern French Philosophy: A Study of the Development Since Comte",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 150
+  "class": "mixed",
+  "song_units": 7,
+  "narration_units": 152
  },
  {
   "slug": "john-bates-clark-the-distribution-of-wealth-14c2fc",
@@ -7947,13 +8568,58 @@
   "narration_units": 126
  },
  {
+  "slug": "john-brown-poems-2f91fc",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 21,
+  "narration_units": 0
+ },
+ {
   "slug": "john-calvin-the-institutes-of-the-christian--c755fe",
   "title": "The Institutes of the Christian Religion",
   "language": "English",
   "genre": "Philosophy",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 807
+  "narration_units": 806
+ },
+ {
+  "slug": "john-cunningham-poems-510f71",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 10,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-dalton-poems-98baf0",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 17,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-delap-poems-113b20",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 6,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-dennis-poems-91d70a",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 73,
+  "narration_units": 0
  },
  {
   "slug": "john-dewey-democracy-and-education-df209d",
@@ -7983,22 +8649,49 @@
   "narration_units": 8
  },
  {
+  "slug": "john-duncombe-poems-3a49f5",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 12,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-dyer-poems-9346e6",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 13,
+  "narration_units": 0
+ },
+ {
   "slug": "john-elliott-cairnes-the-character-and-logical-method-cd9121",
   "title": "The Character and Logical Method of Political Economy",
   "language": "English",
   "genre": "Economics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 91
+  "narration_units": 90
+ },
+ {
+  "slug": "john-ellis-poems-9c7f5a",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
  },
  {
   "slug": "john-emerich-edward-dalb-historical-essays-and-studies-dbfb78",
   "title": "Historical Essays and Studies",
   "language": "English",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 236
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 237
  },
  {
   "slug": "john-emerich-edward-dalb-lectures-on-modern-history-figgi-ca5089",
@@ -8014,9 +8707,9 @@
   "title": "Letters of Lord Acton to Mary Gladstone",
   "language": "English",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 125
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 129
  },
  {
   "slug": "john-emerich-edward-dalb-the-history-of-freedom-and-other-8702fe",
@@ -8028,12 +8721,84 @@
   "narration_units": 312
  },
  {
+  "slug": "john-gambold-poems-c6ea61",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 9,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-gay-poems-1b43b7",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 47,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-gerrard-poems-369c27",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 8,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-gilbert-cooper-poems-d9c6a6",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 14,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-hawkesworth-poems-b1d6bb",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 9,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-hervey-poems-99f74a",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 22,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-hoadly-poems-2a6e4f",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 22,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-langhorne-poems-115d60",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 8,
+  "narration_units": 0
+ },
+ {
   "slug": "john-locke-second-treatise-of-government-99e9e5",
   "title": "Second Treatise of Government",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 75
  },
  {
@@ -8059,8 +8824,8 @@
   "title": "A Short History of Greek Philosophy",
   "language": "English",
   "genre": "History of Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 4,
   "narration_units": 82
  },
  {
@@ -8068,9 +8833,9 @@
   "title": "Economic Possibilities for our Grandchildren",
   "language": "English",
   "genre": "Economics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 6
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 8
  },
  {
   "slug": "john-maynard-keynes-pure-induction-from-a-treatise-o-d9c14d",
@@ -8086,8 +8851,8 @@
   "title": "The Economic Consequences of the Peace",
   "language": "English",
   "genre": "Economics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 100
  },
  {
@@ -8113,18 +8878,18 @@
   "title": "Areopagitica",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 52
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 54
  },
  {
   "slug": "john-morley-burke-cfb4a4",
   "title": "Burke",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 85
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 88
  },
  {
   "slug": "john-morley-critical-miscellanies-vol-3-essa-21943b",
@@ -8163,13 +8928,22 @@
   "narration_units": 113
  },
  {
+  "slug": "john-pomfret-poems-70be05",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 73,
+  "narration_units": 0
+ },
+ {
   "slug": "john-rae-life-of-adam-smith-a74419",
   "title": "Life of Adam Smith",
   "language": "English",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 191
+  "class": "mixed",
+  "song_units": 7,
+  "narration_units": 194
  },
  {
   "slug": "john-ramsay-mcculloch-a-treatise-on-metallic-and-paper-63bd3a",
@@ -8203,18 +8977,36 @@
   "title": "Treatises and Essays on Subjects Connected with Economic Policy",
   "language": "English",
   "genre": "Economics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 240
+ },
+ {
+  "slug": "john-scott-poems-b94c17",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 13,
+  "narration_units": 0
+ },
+ {
+  "slug": "john-straight-poems-92ad55",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 6,
+  "narration_units": 0
  },
  {
   "slug": "john-stuart-mill-a-system-of-logic-ratiocinative--879415",
   "title": "A System of Logic, Ratiocinative and Inductive",
   "language": "English",
   "genre": "Logic",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 554
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 556
  },
  {
   "slug": "john-stuart-mill-auguste-comte-and-positivism-28d0b7",
@@ -8230,9 +9022,9 @@
   "title": "Autobiography",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 86
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 87
  },
  {
   "slug": "john-stuart-mill-considerations-on-representative-ccd97d",
@@ -8260,6 +9052,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 53
+ },
+ {
+  "slug": "john-stuart-mill-principles-of-political-economy-3c9008",
+  "title": "Principles of Political Economy",
+  "language": "English",
+  "genre": "Political & Social Theory",
+  "class": "prose",
+  "song_units": 0,
+  "narration_units": 513
  },
  {
   "slug": "john-stuart-mill-utilitarianism-c4210a",
@@ -8298,6 +9099,15 @@
   "narration_units": 27
  },
  {
+  "slug": "john-trumbull-poems-e451f6",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 12,
+  "narration_units": 0
+ },
+ {
   "slug": "john-wade-the-black-book-an-exposition-of--f58a10",
   "title": "The Black Book: An Exposition of Abuses in Church and State",
   "language": "English",
@@ -8305,6 +9115,24 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 415
+ },
+ {
+  "slug": "john-wesley-poems-176469",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 14,
+  "narration_units": 0
+ },
+ {
+  "slug": "jonathan-swift-poems-9e2e4c",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 14,
+  "narration_units": 0
  },
  {
   "slug": "josef-stalin-anarchism-or-socialism-1f9c3d",
@@ -8341,6 +9169,24 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 34
+ },
+ {
+  "slug": "joseph-addison-poems-ca1079",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 20,
+  "narration_units": 0
+ },
+ {
+  "slug": "joseph-cockfield-poems-b070f1",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 5,
+  "narration_units": 0
  },
  {
   "slug": "joseph-dietzgen-ethics-of-social-democracy-7a9a34",
@@ -8442,6 +9288,15 @@
   "narration_units": 28
  },
  {
+  "slug": "joseph-giles-poems-17ca2e",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
+ },
+ {
   "slug": "joseph-priestley-an-essay-on-the-first-principles-2bcc23",
   "title": "An Essay on the First Principles of Government",
   "language": "English",
@@ -8467,6 +9322,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 9
+ },
+ {
+  "slug": "joseph-warton-poems-369668",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 20,
+  "narration_units": 0
  },
  {
   "slug": "josiah-tucker-four-tracts-on-political-and-com-61cd0d",
@@ -8581,9 +9445,9 @@
   "title": "The Heroic Deeds of the Emperor Constantius",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 22
+  "class": "mixed",
+  "song_units": 16,
+  "narration_units": 31
  },
  {
   "slug": "julian-to-the-cynic-heracleios-738078",
@@ -8635,26 +9499,26 @@
   "title": "Satires",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 44
+  "class": "mixed",
+  "song_units": 54,
+  "narration_units": 16
  },
  {
   "slug": "kaiten-nukariya-the-religion-of-the-samurai-a-st-193778",
   "title": "The Religion of the Samurai: A Study of Zen Philosophy",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 70
+  "class": "mixed",
+  "song_units": 14,
+  "narration_units": 79
  },
  {
   "slug": "karl-kautsky-are-the-jews-a-race-e635c6",
   "title": "Are the Jews a Race?",
   "language": "English",
   "genre": "Social Theory",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 84
  },
  {
@@ -8754,7 +9618,7 @@
   "genre": "Political Economy",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 143
+  "narration_units": 142
  },
  {
   "slug": "karl-kautsky-the-road-to-power-67108f",
@@ -8788,8 +9652,8 @@
   "title": "Capital, Volume One: The Process of Production of Capital",
   "language": "English",
   "genre": "Political Economy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 336
  },
  {
@@ -8829,6 +9693,15 @@
   "narration_units": 20
  },
  {
+  "slug": "king-of-prussia-frederick-ii-poems-26b31a",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 6,
+  "narration_units": 0
+ },
+ {
   "slug": "knut-wicksell-the-influence-of-the-rate-of-int-4e7ec4",
   "title": "The Influence of the Rate of Interest on Prices",
   "language": "English",
@@ -8838,13 +9711,31 @@
   "narration_units": 5
  },
  {
+  "slug": "lady-mary-chudleigh-poems-f0cfc5",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 99,
+  "narration_units": 0
+ },
+ {
+  "slug": "lady-mary-wortley-montagu-poems-da0614",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 19,
+  "narration_units": 0
+ },
+ {
   "slug": "leon-trotsky-literature-and-revolution-9b02a3",
   "title": "Literature and Revolution",
   "language": "English",
   "genre": "Aesthetics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 95
+  "class": "mixed",
+  "song_units": 7,
+  "narration_units": 99
  },
  {
   "slug": "leon-trotsky-my-life-an-attempt-at-an-autobio-8e8094",
@@ -8878,8 +9769,8 @@
   "title": "The English Utilitarians, Volume 1",
   "language": "English",
   "genre": "History of Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 105
  },
  {
@@ -8887,9 +9778,9 @@
   "title": "Symbolic Logic",
   "language": "English",
   "genre": "Logic",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 64
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 65
  },
  {
   "slug": "lewis-carroll-the-game-of-logic-8f7431",
@@ -8914,9 +9805,9 @@
   "title": "On the Sublime",
   "language": "Greek",
   "genre": "Literary Criticism",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 25
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 26
  },
  {
   "slug": "longus-daphnis-and-chloe-09b265",
@@ -8995,9 +9886,9 @@
   "title": "Civil War",
   "language": "Latin",
   "genre": "Classics",
-  "class": "poetic",
-  "song_units": 231,
-  "narration_units": 0
+  "class": "prose",
+  "song_units": 0,
+  "narration_units": 119
  },
  {
   "slug": "lucian-of-samosata-abdicatus-40b8f4",
@@ -9022,9 +9913,9 @@
   "title": "Alexander",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 13
+  "class": "mixed",
+  "song_units": 23,
+  "narration_units": 29
  },
  {
   "slug": "lucian-of-samosata-anacharsis-4d432a",
@@ -9051,7 +9942,7 @@
   "genre": "Classics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 3
+  "narration_units": 2
  },
  {
   "slug": "lucian-of-samosata-bis-accusatus-sive-tribunalia-4270d0",
@@ -9094,8 +9985,8 @@
   "title": "De astrologia",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 4
  },
  {
@@ -9130,9 +10021,9 @@
   "title": "De Morte Peregrini",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 9
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 11
  },
  {
   "slug": "lucian-of-samosata-de-parasito-sive-artem-esse-para-9f8c52",
@@ -9157,9 +10048,9 @@
   "title": "De saltatione",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 14
+  "class": "mixed",
+  "song_units": 8,
+  "narration_units": 18
  },
  {
   "slug": "lucian-of-samosata-de-syria-dea-67b3fa",
@@ -9184,9 +10075,9 @@
   "title": "Demonax",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 6
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 9
  },
  {
   "slug": "lucian-of-samosata-deorum-concilium-905d3e",
@@ -9238,8 +10129,8 @@
   "title": "Dipsades",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 2
  },
  {
@@ -9274,9 +10165,9 @@
   "title": "Gallus",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 11
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 12
  },
  {
   "slug": "lucian-of-samosata-harmonides-b744a7",
@@ -9319,8 +10210,8 @@
   "title": "Hesiod",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 2
  },
  {
@@ -9373,9 +10264,9 @@
   "title": "Juppiter Tragoedus",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 14
+  "class": "mixed",
+  "song_units": 7,
+  "narration_units": 18
  },
  {
   "slug": "lucian-of-samosata-lexiphanes-cede8c",
@@ -9418,9 +10309,9 @@
   "title": "Necyomantia",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 6
+  "class": "mixed",
+  "song_units": 7,
+  "narration_units": 10
  },
  {
   "slug": "lucian-of-samosata-nigrinus-b7004d",
@@ -9472,27 +10363,27 @@
   "title": "Podagra",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 4
+  "class": "mixed",
+  "song_units": 6,
+  "narration_units": 1
  },
  {
   "slug": "lucian-of-samosata-pro-imaginibus-8cc1f8",
   "title": "Pro imaginibus",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 6
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 7
  },
  {
   "slug": "lucian-of-samosata-pro-lapsu-inter-salutandum-4261ef",
   "title": "Pro lapsu inter salutandum",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 3
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 7
  },
  {
   "slug": "lucian-of-samosata-prometheus-43fff5",
@@ -9526,8 +10417,8 @@
   "title": "Quomodo historia conscribenda sit",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 14
  },
  {
@@ -9616,9 +10507,9 @@
   "title": "Verae historiae",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 13
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 14
  },
  {
   "slug": "lucian-of-samosata-vitarum-auctio-8ba95a",
@@ -9661,9 +10552,9 @@
   "title": "Against Leocrates",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 22
+  "class": "mixed",
+  "song_units": 7,
+  "narration_units": 24
  },
  {
   "slug": "lysander-spooner-a-letter-to-grover-cleveland-13d19d",
@@ -10156,9 +11047,18 @@
   "title": "Epigrams",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 130
+  "class": "mixed",
+  "song_units": 212,
+  "narration_units": 18
+ },
+ {
+  "slug": "mark-akenside-poems-7a5821",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 57,
+  "narration_units": 0
  },
  {
   "slug": "marquis-de-condorcet-on-the-admission-of-women-to-the-34f09d",
@@ -10197,6 +11097,78 @@
   "narration_units": 6
  },
  {
+  "slug": "mary-alcock-poems-e4bcfc",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 40,
+  "narration_units": 0
+ },
+ {
+  "slug": "mary-barber-poems-3d9e19",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 60,
+  "narration_units": 0
+ },
+ {
+  "slug": "mary-chandler-poems-1ab8c5",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 19,
+  "narration_units": 0
+ },
+ {
+  "slug": "mary-collier-poems-04c1fc",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 21,
+  "narration_units": 0
+ },
+ {
+  "slug": "mary-darwall-poems-ddaf84",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 6,
+  "narration_units": 0
+ },
+ {
+  "slug": "mary-jones-poems-b9b9d2",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 57,
+  "narration_units": 0
+ },
+ {
+  "slug": "mary-leapor-poems-1431de",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 95,
+  "narration_units": 0
+ },
+ {
+  "slug": "mary-matilda-betham-poems-3bacb3",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 36,
+  "narration_units": 0
+ },
+ {
   "slug": "mary-mills-patrick-sextus-empiricus-and-greek-scept-96279f",
   "title": "Sextus Empiricus and Greek Scepticism",
   "language": "English",
@@ -10204,6 +11176,24 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 31
+ },
+ {
+  "slug": "mary-robinson-poems-8abf50",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 22,
+  "narration_units": 0
+ },
+ {
+  "slug": "mary-tighe-poems-fb2218",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 102,
+  "narration_units": 0
  },
  {
   "slug": "mary-wollstonecraft-a-vindication-of-the-rights-of-m-66cd21",
@@ -10233,22 +11223,40 @@
   "narration_units": 149
  },
  {
+  "slug": "matthew-green-poems-bcef0f",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 23,
+  "narration_units": 0
+ },
+ {
+  "slug": "matthew-prior-poems-26b760",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 225,
+  "narration_units": 0
+ },
+ {
   "slug": "max-stirner-the-ego-and-its-own-f98f48",
   "title": "The Ego and Its Own",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 188
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 189
  },
  {
   "slug": "max-weber-the-protestant-ethic-and-the-spi-3cade1",
   "title": "The Protestant Ethic and the Spirit of Capitalism",
   "language": "English",
   "genre": "Social Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 56
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 57
  },
  {
   "slug": "michel-chevalier-society-manners-and-politics-in--18e414",
@@ -10264,9 +11272,9 @@
   "title": "Literary and Philosophical Essays: French, German and Italian",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 181
+  "class": "mixed",
+  "song_units": 77,
+  "narration_units": 228
  },
  {
   "slug": "minucius-felix-marcus-octavius-8cb44d",
@@ -10283,7 +11291,7 @@
   "language": "Urdu",
   "genre": "Literature",
   "class": "poetic",
-  "song_units": 52,
+  "song_units": 116,
   "narration_units": 0
  },
  {
@@ -10291,9 +11299,9 @@
   "title": "Epitaphius Bios",
   "language": "Greek",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 2
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 1
  },
  {
   "slug": "moschus-eros-drapeta-5cc6db",
@@ -10336,9 +11344,18 @@
   "title": "The Guide for the Perplexed",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 308
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 309
+ },
+ {
+  "slug": "moses-mendez-poems-097cec",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 45,
+  "narration_units": 0
  },
  {
   "slug": "mountifort-longfield-lectures-on-political-economy-5efe8b",
@@ -10348,6 +11365,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 68
+ },
+ {
+  "slug": "nahum-tate-poems-b3db78",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 36,
+  "narration_units": 0
  },
  {
   "slug": "nassau-william-senior-four-introductory-lectures-on-po-a18065",
@@ -10393,6 +11419,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 23
+ },
+ {
+  "slug": "nathaniel-cotton-poems-076182",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 7,
+  "narration_units": 0
  },
  {
   "slug": "new-testament-1-corinthians-845e7d",
@@ -10665,6 +11700,15 @@
   "narration_units": 21
  },
  {
+  "slug": "nicholas-herbert-poems-4a3988",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
+ },
+ {
   "slug": "nikolai-bukharin-and-evg-the-abc-of-communism-910908",
   "title": "The ABC of Communism",
   "language": "English",
@@ -10705,9 +11749,9 @@
   "title": "Dionysiaca",
   "language": "Greek",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 179
+  "class": "mixed",
+  "song_units": 76,
+  "narration_units": 144
  },
  {
   "slug": "old-testament-2-ezra-6ef17f",
@@ -11043,6 +12087,15 @@
   "narration_units": 3
  },
  {
+  "slug": "oliver-goldsmith-poems-7b74c6",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 34,
+  "narration_units": 0
+ },
+ {
   "slug": "onasander-strategicus-f0fad3",
   "title": "Strategicus",
   "language": "Greek",
@@ -11183,7 +12236,7 @@
   "language": "Latin",
   "genre": "Classics",
   "class": "poetic",
-  "song_units": 501,
+  "song_units": 500,
   "narration_units": 0
  },
  {
@@ -11219,7 +12272,7 @@
   "language": "Latin",
   "genre": "Classics",
   "class": "poetic",
-  "song_units": 68,
+  "song_units": 67,
   "narration_units": 0
  },
  {
@@ -11227,9 +12280,9 @@
   "title": "Narrationes Amatoriae",
   "language": "Greek",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 14
+  "class": "mixed",
+  "song_units": 6,
+  "narration_units": 16
  },
  {
   "slug": "paul-lafargue-clericalism-and-socialism-756cc1",
@@ -11364,16 +12417,16 @@
   "genre": "Social Theory",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 225
+  "narration_units": 224
  },
  {
   "slug": "pausanias-description-of-greece-ff35dc",
   "title": "Description of Greece",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 401
+  "class": "mixed",
+  "song_units": 43,
+  "narration_units": 419
  },
  {
   "slug": "pelatiah-webster-political-essays-on-the-nature-a-610880",
@@ -11398,9 +12451,9 @@
   "title": "Ontology, or the Theory of Being",
   "language": "English",
   "genre": "Metaphysics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 266
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 269
  },
  {
   "slug": "peter-kropotkin-anarchism-encyclopaedia-britanni-010980",
@@ -11434,8 +12487,8 @@
   "title": "Memoirs of a Revolutionist",
   "language": "English",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 226
  },
  {
@@ -11470,9 +12523,9 @@
   "title": "Fragments",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 3
+  "class": "mixed",
+  "song_units": 6,
+  "narration_units": 6
  },
  {
   "slug": "petronius-arbiter-poems-b365dc",
@@ -11488,9 +12541,9 @@
   "title": "Satyricon",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 59
+  "class": "mixed",
+  "song_units": 34,
+  "narration_units": 67
  },
  {
   "slug": "phaedrus-fabulae-6b12c9",
@@ -11508,7 +12561,25 @@
   "genre": "Economics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 329
+  "narration_units": 328
+ },
+ {
+  "slug": "philip-morin-freneau-poems-8d7769",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 11,
+  "narration_units": 0
+ },
+ {
+  "slug": "phillis-wheatley-poems-6ba250",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 4,
+  "narration_units": 0
  },
  {
   "slug": "philostratus-sophista-imagines-270120",
@@ -11533,9 +12604,9 @@
   "title": "System of Economical Contradictions: or, The Philosophy of Poverty",
   "language": "English",
   "genre": "Political Economy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 213
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 215
  },
  {
   "slug": "pierre-joseph-proudhon-what-is-property-an-inquiry-into-733709",
@@ -11641,9 +12712,9 @@
   "title": "Cratylus",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 36
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 37
  },
  {
   "slug": "plato-critias-ef5907",
@@ -11695,9 +12766,9 @@
   "title": "Gorgias",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 51
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 52
  },
  {
   "slug": "plato-greater-hippias-099fbc",
@@ -11722,9 +12793,9 @@
   "title": "Ion",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 8
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 11
  },
  {
   "slug": "plato-laches-c1c893",
@@ -11740,17 +12811,17 @@
   "title": "Laws",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 186
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 187
  },
  {
   "slug": "plato-lesser-hippias-4e5df1",
   "title": "Lesser Hippias",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 9
  },
  {
@@ -11758,9 +12829,9 @@
   "title": "Letters",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 29
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 30
  },
  {
   "slug": "plato-lovers-d93a96",
@@ -11821,8 +12892,8 @@
   "title": "Phaedo",
   "language": "Greek",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 34
  },
  {
@@ -11830,9 +12901,9 @@
   "title": "Phaedrus",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 31
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 32
  },
  {
   "slug": "plato-philebus-f50093",
@@ -11841,16 +12912,16 @@
   "genre": "Classics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 36
+  "narration_units": 35
  },
  {
   "slug": "plato-protagoras-e23675",
   "title": "Protagoras",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 30
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 31
  },
  {
   "slug": "plato-republic-2bf014",
@@ -11866,9 +12937,9 @@
   "title": "Sophist",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 36
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 37
  },
  {
   "slug": "plato-statesman-bc8855",
@@ -12100,18 +13171,18 @@
   "title": "Naturalis Historia",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 1154
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 1156
  },
  {
   "slug": "pliny-the-younger-letters-3236cd",
   "title": "Letters",
   "language": "Latin",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 159
+  "class": "mixed",
+  "song_units": 8,
+  "narration_units": 163
  },
  {
   "slug": "plutarch-ad-principem-ineruditum-825a35",
@@ -12127,9 +13198,9 @@
   "title": "Adversus Coloten",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 20
+  "class": "mixed",
+  "song_units": 7,
+  "narration_units": 25
  },
  {
   "slug": "plutarch-aemilius-paulus-bb1dca",
@@ -12163,8 +13234,8 @@
   "title": "Alcibiades",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 24
  },
  {
@@ -12190,9 +13261,9 @@
   "title": "Amatorius",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 26
+  "class": "mixed",
+  "song_units": 8,
+  "narration_units": 30
  },
  {
   "slug": "plutarch-an-recte-dictum-sit-latenter-ess-031ad4",
@@ -12208,9 +13279,9 @@
   "title": "An seni respublica gerenda sit",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 15
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 16
  },
  {
   "slug": "plutarch-an-virtus-doceri-possit-1a790e",
@@ -12586,8 +13657,8 @@
   "title": "Crassus",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 24
  },
  {
@@ -12595,8 +13666,8 @@
   "title": "De Alexandri magni fortuna aut virtute",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 16
  },
  {
@@ -12649,8 +13720,8 @@
   "title": "De communibus notitiis adversus Stoicos",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 25
  },
  {
@@ -12685,8 +13756,8 @@
   "title": "De E apud Delphos",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 10
  },
  {
@@ -12712,18 +13783,18 @@
   "title": "De exilio",
   "language": "Greek",
   "genre": "Classics",
-  "class": "poetic",
-  "song_units": 16,
-  "narration_units": 0
+  "class": "prose",
+  "song_units": 0,
+  "narration_units": 9
  },
  {
   "slug": "plutarch-de-facie-quae-in-orbe-lunae-appa-15ffab",
   "title": "De Facie Quae in orbe Lunae Apparet",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 25
+  "class": "mixed",
+  "song_units": 15,
+  "narration_units": 28
  },
  {
   "slug": "plutarch-de-fato-a90082",
@@ -12766,9 +13837,9 @@
   "title": "De Garrulitate",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 14
+  "class": "mixed",
+  "song_units": 17,
+  "narration_units": 17
  },
  {
   "slug": "plutarch-de-genio-socratis-877c4d",
@@ -12784,17 +13855,17 @@
   "title": "De gloria Atheniensium",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 6
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 7
  },
  {
   "slug": "plutarch-de-heroditi-malignate-0e88ed",
   "title": "De Heroditi malignate",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 16
  },
  {
@@ -12838,8 +13909,8 @@
   "title": "De Pythiae oraculis",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 3,
   "narration_units": 15
  },
  {
@@ -12856,17 +13927,17 @@
   "title": "De Se Ipsum Citra Invidiam Laudando",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 10
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 11
  },
  {
   "slug": "plutarch-de-sera-numinis-vindicta-864a5e",
   "title": "De Sera Numinis Vindicta",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 21
  },
  {
@@ -12874,8 +13945,8 @@
   "title": "De sollertia animalium",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 3,
   "narration_units": 28
  },
  {
@@ -12883,8 +13954,8 @@
   "title": "De Stoicorum repugnantiis",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 19
  },
  {
@@ -12901,9 +13972,9 @@
   "title": "De Tranquillitate Animi",
   "language": "Greek",
   "genre": "Classics",
-  "class": "poetic",
-  "song_units": 19,
-  "narration_units": 0
+  "class": "prose",
+  "song_units": 0,
+  "narration_units": 13
  },
  {
   "slug": "plutarch-de-tuenda-sanitate-praecepta-8e7e2c",
@@ -12937,9 +14008,9 @@
   "title": "De Virtute Morali",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 15
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 17
  },
  {
   "slug": "plutarch-de-vitando-aere-alieno-e5241b",
@@ -12988,7 +14059,7 @@
  },
  {
   "slug": "plutarch-epitome-of-on-the-generation-of--33cbf3",
-  "title": "Epitome of \"On the Generation of the Soul in the Timaeus\"",
+  "title": "Epitome of \\\"On the Generation of the Soul in the Timaeus\\",
   "language": "Greek",
   "genre": "Classics",
   "class": "prose",
@@ -13027,9 +14098,9 @@
   "title": "Instituta Laconia",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 4
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 5
  },
  {
   "slug": "plutarch-lacaenarum-apophthegmata-e97b58",
@@ -13101,24 +14172,24 @@
   "genre": "Classics",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 19
+  "narration_units": 18
  },
  {
   "slug": "plutarch-nicias-44a491",
   "title": "Nicias",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 22
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 23
  },
  {
   "slug": "plutarch-non-posse-suaviter-vivi-secundum-62dbd8",
   "title": "Non Posse Suaviter Vivi Secundum Epicurum",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 20
  },
  {
@@ -13162,8 +14233,8 @@
   "title": "Pericles",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 24
  },
  {
@@ -13189,8 +14260,8 @@
   "title": "Platonicae quaestiones",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 11
  },
  {
@@ -13207,9 +14278,9 @@
   "title": "Praecepta gerendae reipublicae",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 25
+  "class": "mixed",
+  "song_units": 6,
+  "narration_units": 26
  },
  {
   "slug": "plutarch-publicola-0b0e18",
@@ -13234,9 +14305,9 @@
   "title": "Quaestiones Convivales",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 109
+  "class": "mixed",
+  "song_units": 14,
+  "narration_units": 113
  },
  {
   "slug": "plutarch-quaestiones-graecae-08196a",
@@ -13279,9 +14350,9 @@
   "title": "Quomodo adulator ab amico internoscatur",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 24
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 26
  },
  {
   "slug": "plutarch-quomodo-quis-suos-in-virtute-sen-5c0e72",
@@ -13315,8 +14386,8 @@
   "title": "Septem sapientium convivium",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 16
  },
  {
@@ -13333,9 +14404,9 @@
   "title": "Solon",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 19
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 20
  },
  {
   "slug": "plutarch-sulla-3d5f55",
@@ -13387,8 +14458,8 @@
   "title": "Titus Flamininus",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 14
  },
  {
@@ -13405,9 +14476,9 @@
   "title": "Histories",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 543
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 542
  },
  {
   "slug": "polycarp-epistula-ad-philippenses-d8f567",
@@ -13432,8 +14503,8 @@
   "title": "History of the Wars",
   "language": "Greek",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 292
  },
  {
@@ -13450,9 +14521,9 @@
   "title": "Elegiae",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 41
+  "class": "poetic",
+  "song_units": 62,
+  "narration_units": 0
  },
  {
   "slug": "pseudo-caesar-de-bello-africo-e70306",
@@ -13513,9 +14584,9 @@
   "title": "Demosthenis encomium",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 10
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 12
  },
  {
   "slug": "pseudo-lucian-halcyon-839e07",
@@ -13540,8 +14611,8 @@
   "title": "De musica",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 14
  },
  {
@@ -13549,9 +14620,9 @@
   "title": "Placita Philosophorum",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 33
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 34
  },
  {
   "slug": "pseudo-tertullian-ad-uxorem-4c1cef",
@@ -13567,9 +14638,9 @@
   "title": "Institutio Oratoria",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 472
+  "class": "mixed",
+  "song_units": 132,
+  "narration_units": 553
  },
  {
   "slug": "quintus-curtius-rufus-histories-of-alexander-the-great-476171",
@@ -13585,9 +14656,9 @@
   "title": "The Fall of Troy",
   "language": "Greek",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 58
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 56
  },
  {
   "slug": "quintus-tullius-cicero-commentariolum-petitionis-118e23",
@@ -13603,9 +14674,9 @@
   "title": "The Approach to Philosophy",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 138
+  "class": "mixed",
+  "song_units": 13,
+  "narration_units": 146
  },
  {
   "slug": "rebecca-cooper-the-logical-influence-of-hegel-o-e3cea7",
@@ -13615,6 +14686,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 61
+ },
+ {
+  "slug": "rebekah-carmichael-poems-f536c3",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 23,
+  "narration_units": 0
  },
  {
   "slug": "rene-descartes-discourse-on-the-method-e1eae3",
@@ -13644,13 +14724,49 @@
   "narration_units": 190
  },
  {
+  "slug": "rev-mr-robertson-poems-2457d5",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 2,
+  "narration_units": 0
+ },
+ {
+  "slug": "richard-berenger-poems-8c5b99",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
+ },
+ {
   "slug": "richard-falckenberg-history-of-modern-philosophy-fro-e856c2",
   "title": "History of Modern Philosophy from Nicolas of Cusa to the Present Time",
   "language": "English",
   "genre": "History of Philosophy",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 302
+ },
+ {
+  "slug": "richard-graves-poems-ea0032",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 9,
+  "narration_units": 0
+ },
+ {
+  "slug": "richard-jago-poems-57279a",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 10,
+  "narration_units": 0
  },
  {
   "slug": "richard-overton-an-arrow-against-all-tyrants-fcec52",
@@ -13662,6 +14778,15 @@
   "narration_units": 11
  },
  {
+  "slug": "richard-owen-cambridge-poems-29aa86",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 6,
+  "narration_units": 0
+ },
+ {
   "slug": "richard-price-observations-on-the-nature-of-ci-b35d14",
   "title": "Observations on the Nature of Civil Liberty",
   "language": "English",
@@ -13669,6 +14794,24 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 41
+ },
+ {
+  "slug": "richard-roderick-poems-a168c4",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 5,
+  "narration_units": 0
+ },
+ {
+  "slug": "richard-shepherd-poems-f9bdd8",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 7,
+  "narration_units": 0
  },
  {
   "slug": "richard-t-ely-a-history-of-political-economy-142de1",
@@ -13707,6 +14850,24 @@
   "narration_units": 0
  },
  {
+  "slug": "robert-burns-poems-a27207",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 65,
+  "narration_units": 0
+ },
+ {
+  "slug": "robert-craggs-nugent-poems-84926b",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 36,
+  "narration_units": 0
+ },
+ {
   "slug": "robert-franklin-hoxie-trade-unionism-in-the-united-sta-abf08c",
   "title": "Trade Unionism in the United States",
   "language": "English",
@@ -13714,6 +14875,33 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 8
+ },
+ {
+  "slug": "robert-lloyd-poems-5d9a71",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 12,
+  "narration_units": 0
+ },
+ {
+  "slug": "robert-lowth-poems-3a5966",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 15,
+  "narration_units": 0
+ },
+ {
+  "slug": "robert-merry-poems-f2c622",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 11,
+  "narration_units": 0
  },
  {
   "slug": "robert-owen-a-new-view-of-society-or-essays--86b618",
@@ -13794,7 +14982,7 @@
   "genre": "Political Theory",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 22
+  "narration_units": 21
  },
  {
   "slug": "roscoe-pound-an-introduction-to-the-philosoph-99e279",
@@ -13851,6 +15039,24 @@
   "narration_units": 0
  },
  {
+  "slug": "samuel-henley-poems-ef4485",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 2,
+  "narration_units": 0
+ },
+ {
+  "slug": "samuel-johnson-poems-56e066",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 22,
+  "narration_units": 0
+ },
+ {
   "slug": "samuel-rawson-gardiner-e-the-constitutional-documents-of--29b93e",
   "title": "The Constitutional Documents of the Puritan Revolution, 1625–1660",
   "language": "English",
@@ -13864,18 +15070,45 @@
   "title": "Self-Help",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 164
+  "class": "mixed",
+  "song_units": 7,
+  "narration_units": 167
+ },
+ {
+  "slug": "samuel-wesley-poems-9dff34",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 5,
+  "narration_units": 0
+ },
+ {
+  "slug": "samuel-whyte-poems-14a16f",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 11,
+  "narration_units": 0
+ },
+ {
+  "slug": "sarah-fyge-egerton-poems-e1b5c5",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 51,
+  "narration_units": 0
  },
  {
   "slug": "scriptores-historiae-aug-alexander-severus-d95b45",
   "title": "Alexander Severus",
   "language": "Latin",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 22
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 25
  },
  {
   "slug": "scriptores-historiae-aug-antoninus-caracalla-fcd021",
@@ -13954,8 +15187,8 @@
   "title": "De Vita Hadriani",
   "language": "Latin",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 11
  },
  {
@@ -14017,9 +15250,9 @@
   "title": "Gordiani Tres",
   "language": "Latin",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 11
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 12
  },
  {
   "slug": "scriptores-historiae-aug-helius-88e694",
@@ -14044,8 +15277,8 @@
   "title": "Maximini Duo",
   "language": "Latin",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 11
  },
  {
@@ -14062,8 +15295,8 @@
   "title": "Opilius Macrinus",
   "language": "Latin",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 6
  },
  {
@@ -14080,9 +15313,9 @@
   "title": "Pescennius Niger",
   "language": "Latin",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 4
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 5
  },
  {
   "slug": "scriptores-historiae-aug-probus-128774",
@@ -14116,8 +15349,8 @@
   "title": "Tyranni Triginta",
   "language": "Latin",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 12
  },
  {
@@ -14143,9 +15376,9 @@
   "title": "Agamemnon",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 11
+  "class": "poetic",
+  "song_units": 18,
+  "narration_units": 0
  },
  {
   "slug": "seneca-lucius-annaeus-apocolocyntosis-1cb5a3",
@@ -14197,27 +15430,27 @@
   "title": "Hercules Oetaeus",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 22
+  "class": "mixed",
+  "song_units": 154,
+  "narration_units": 154
  },
  {
   "slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
   "title": "Letters to Lucilius",
   "language": "Latin",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 264
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 265
  },
  {
   "slug": "seneca-lucius-annaeus-medea-f180ad",
   "title": "Medea",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 11
+  "class": "poetic",
+  "song_units": 18,
+  "narration_units": 0
  },
  {
   "slug": "seneca-lucius-annaeus-octavia-7fcd43",
@@ -14350,17 +15583,17 @@
   "title": "Troades",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 16
+  "class": "mixed",
+  "song_units": 29,
+  "narration_units": 11
  },
  {
   "slug": "seneca-the-elder-controversiae-ce0606",
   "title": "Controversiae",
   "language": "Latin",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 142
  },
  {
@@ -14386,8 +15619,8 @@
   "title": "Suasoriae",
   "language": "Latin",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 2,
   "narration_units": 23
  },
  {
@@ -14396,7 +15629,7 @@
   "language": "Urdu",
   "genre": "Literature",
   "class": "poetic",
-  "song_units": 25,
+  "song_units": 42,
   "narration_units": 0
  },
  {
@@ -14404,45 +15637,45 @@
   "title": "Carmina",
   "language": "Latin",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 25
+  "class": "mixed",
+  "song_units": 40,
+  "narration_units": 24
  },
  {
   "slug": "sidonius-apollinaris-letters-727be6",
   "title": "Letters",
   "language": "Latin",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 117
+  "class": "mixed",
+  "song_units": 14,
+  "narration_units": 118
  },
  {
   "slug": "silius-italicus-punica-739044",
   "title": "Punica",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 149
+  "class": "mixed",
+  "song_units": 18,
+  "narration_units": 139
  },
  {
   "slug": "simananda-samkhyatattvavivecana-69b94a",
   "title": "Sāṃkhyatattvavivecana",
   "language": "Sanskrit",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 25
+  "class": "mixed",
+  "song_units": 161,
+  "narration_units": 170
  },
  {
   "slug": "simon-dubnow-jewish-history-an-essay-in-the-p-c6003c",
   "title": "Jewish History: An Essay in the Philosophy of History",
   "language": "English",
   "genre": "Philosophy of History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 36
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 37
  },
  {
   "slug": "simon-newcomb-the-a-b-c-of-finance-bf3de6",
@@ -14461,6 +15694,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 68
+ },
+ {
+  "slug": "sir-charles-hanbury-williams-poems-faeead",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 6,
+  "narration_units": 0
  },
  {
   "slug": "sir-dudley-north-discourses-upon-trade-ba9ac5",
@@ -14487,7 +15729,16 @@
   "genre": "Law",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 293
+  "narration_units": 294
+ },
+ {
+  "slug": "sir-james-marriott-poems-531359",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 25,
+  "narration_units": 0
  },
  {
   "slug": "sir-robert-filmer-patriarcha-or-the-natural-power--e60c8c",
@@ -14497,6 +15748,24 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 35
+ },
+ {
+  "slug": "sneyd-davies-poems-848580",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 13,
+  "narration_units": 0
+ },
+ {
+  "slug": "soame-jenyns-poems-cf7af8",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 47,
+  "narration_units": 0
  },
  {
   "slug": "sophocles-ajax-beefc9",
@@ -14575,63 +15844,72 @@
   "title": "A Guide to Stoicism",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 25
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 26
  },
  {
   "slug": "st-george-william-joseph-deductive-logic-2f2706",
   "title": "Deductive Logic",
   "language": "English",
   "genre": "Logic",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 57
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 60
  },
  {
   "slug": "statius-achilleis-095f27",
   "title": "Achilleis",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 15
+  "class": "mixed",
+  "song_units": 21,
+  "narration_units": 2
  },
  {
   "slug": "statius-silvae-1ecb5d",
   "title": "Silvae",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 43
+  "class": "mixed",
+  "song_units": 65,
+  "narration_units": 6
  },
  {
   "slug": "statius-thebais-c8a661",
   "title": "Thebais",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 119
+  "class": "mixed",
+  "song_units": 20,
+  "narration_units": 106
+ },
+ {
+  "slug": "stephen-duck-poems-0c5b8a",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 96,
+  "narration_units": 0
  },
  {
   "slug": "strabo-geography-21ef7e",
   "title": "Geography",
   "language": "Greek",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 561
+  "class": "mixed",
+  "song_units": 140,
+  "narration_units": 635
  },
  {
   "slug": "suetonius-caligula-3902f8",
   "title": "Caligula",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 21
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 22
  },
  {
   "slug": "suetonius-divus-augustus-9e67ae",
@@ -14640,16 +15918,16 @@
   "genre": "Classics",
   "class": "mixed",
   "song_units": 2,
-  "narration_units": 37
+  "narration_units": 38
  },
  {
   "slug": "suetonius-divus-claudius-543c83",
   "title": "Divus Claudius",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 17
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 18
  },
  {
   "slug": "suetonius-divus-julius-442359",
@@ -14701,9 +15979,9 @@
   "title": "Nero",
   "language": "Latin",
   "genre": "Classics",
-  "class": "mixed",
-  "song_units": 2,
-  "narration_units": 22
+  "class": "prose",
+  "song_units": 0,
+  "narration_units": 23
  },
  {
   "slug": "suetonius-otho-ba75d6",
@@ -14719,9 +15997,9 @@
   "title": "The Lives of the Twelve Caesars",
   "language": "English",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 304
+  "class": "mixed",
+  "song_units": 26,
+  "narration_units": 319
  },
  {
   "slug": "suetonius-tiberius-6262d9",
@@ -14729,7 +16007,7 @@
   "language": "Latin",
   "genre": "Classics",
   "class": "mixed",
-  "song_units": 1,
+  "song_units": 2,
   "narration_units": 28
  },
  {
@@ -14746,9 +16024,27 @@
   "title": "A History of Indian Philosophy, Volume 1",
   "language": "English",
   "genre": "History of Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 257
+  "class": "mixed",
+  "song_units": 12,
+  "narration_units": 262
+ },
+ {
+  "slug": "susanna-blamire-poems-69c0be",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 109,
+  "narration_units": 0
+ },
+ {
+  "slug": "susanna-centlivre-poems-c02093",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 7,
+  "narration_units": 0
  },
  {
   "slug": "tacitus-cornelius-agricola-b912ef",
@@ -15133,9 +16429,9 @@
   "title": "The Ecclesiastical History of the English Nation",
   "language": "English",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 193
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 194
  },
  {
   "slug": "theocritus-epigrams-6decd1",
@@ -15151,9 +16447,9 @@
   "title": "Idylls",
   "language": "Greek",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 42
+  "class": "mixed",
+  "song_units": 30,
+  "narration_units": 55
  },
  {
   "slug": "theodore-dwight-woolsey-on-civil-liberty-and-self-govern-6f9899",
@@ -15162,7 +16458,7 @@
   "genre": "Political Theory",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 323
+  "narration_units": 324
  },
  {
   "slug": "theophrastus-characters-1b9122",
@@ -15174,6 +16470,33 @@
   "narration_units": 15
  },
  {
+  "slug": "thomas-brerewood-poems-640ca3",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 7,
+  "narration_units": 0
+ },
+ {
+  "slug": "thomas-campbell-poems-56c1cb",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 28,
+  "narration_units": 0
+ },
+ {
+  "slug": "thomas-chatterton-poems-a2db0f",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 60,
+  "narration_units": 0
+ },
+ {
   "slug": "thomas-clarkson-an-essay-on-the-slavery-and-comm-60b084",
   "title": "An Essay on the Slavery and Commerce of the Human Species",
   "language": "English",
@@ -15183,6 +16506,24 @@
   "narration_units": 75
  },
  {
+  "slug": "thomas-durfey-poems-452b4d",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 51,
+  "narration_units": 0
+ },
+ {
+  "slug": "thomas-edwards-poems-e02caa",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 7,
+  "narration_units": 0
+ },
+ {
   "slug": "thomas-gordon-a-discourse-of-standing-armies-71f0e3",
   "title": "A Discourse of Standing Armies",
   "language": "English",
@@ -15190,6 +16531,15 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 10
+ },
+ {
+  "slug": "thomas-gray-poems-f921bb",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 62,
+  "narration_units": 0
  },
  {
   "slug": "thomas-hobbes-leviathan-93aeac",
@@ -15205,9 +16555,9 @@
   "title": "A Lecture on Free Trade in Connexion with the Corn Laws",
   "language": "English",
   "genre": "Economics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 17
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 21
  },
  {
   "slug": "thomas-hodgskin-labour-defended-against-the-clai-3f3203",
@@ -15232,9 +16582,36 @@
   "title": "The Natural and Artificial Right of Property Contrasted",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 79
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 81
+ },
+ {
+  "slug": "thomas-holcroft-poems-91e9ea",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 31,
+  "narration_units": 0
+ },
+ {
+  "slug": "thomas-hudson-poems-e5f3ae",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 6,
+  "narration_units": 0
+ },
+ {
+  "slug": "thomas-lisle-poems-d6a267",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 22,
+  "narration_units": 0
  },
  {
   "slug": "thomas-more-utopia-e4b41c",
@@ -15246,6 +16623,24 @@
   "narration_units": 44
  },
  {
+  "slug": "thomas-paine-common-sense-ca2db0",
+  "title": "Common Sense",
+  "language": "English",
+  "genre": "Political & Social Theory",
+  "class": "prose",
+  "song_units": 0,
+  "narration_units": 22
+ },
+ {
+  "slug": "thomas-paine-poems-68a852",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 22,
+  "narration_units": 0
+ },
+ {
   "slug": "thomas-paine-the-rights-of-man-e48f8e",
   "title": "The Rights of Man",
   "language": "English",
@@ -15253,6 +16648,24 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 63
+ },
+ {
+  "slug": "thomas-parnell-poems-2f0378",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 47,
+  "narration_units": 0
+ },
+ {
+  "slug": "thomas-percy-poems-d78715",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 4,
+  "narration_units": 0
  },
  {
   "slug": "thomas-reid-and-others-selections-from-the-scottish-phi-7b99e7",
@@ -15291,13 +16704,40 @@
   "narration_units": 240
  },
  {
+  "slug": "thomas-seward-poems-c8b5af",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 6,
+  "narration_units": 0
+ },
+ {
   "slug": "thomas-taylor-introduction-to-the-philosophy-a-3fcd63",
   "title": "Introduction to the Philosophy and Writings of Plato",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 54
+  "class": "mixed",
+  "song_units": 10,
+  "narration_units": 59
+ },
+ {
+  "slug": "thomas-tickell-poems-75a572",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 37,
+  "narration_units": 0
+ },
+ {
+  "slug": "thomas-warton-poems-277148",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 45,
+  "narration_units": 0
  },
  {
   "slug": "thorstein-veblen-the-theory-of-the-leisure-class-fa79bc",
@@ -15313,18 +16753,18 @@
   "title": "History of the Peloponnesian War",
   "language": "Greek",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 344
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 347
  },
  {
   "slug": "tibullus-elegiae-21c385",
   "title": "Elegiae",
   "language": "Latin",
   "genre": "Poetry",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 20
+  "class": "poetic",
+  "song_units": 25,
+  "narration_units": 0
  },
  {
   "slug": "tibullus-sulpicia-elegiae-2a0654",
@@ -15340,8 +16780,8 @@
   "title": "Ab urbe condita",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 420
  },
  {
@@ -15669,6 +17109,15 @@
   "narration_units": 26
  },
  {
+  "slug": "tobias-smollett-poems-7805f1",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
+ },
+ {
   "slug": "tryphiodorus-the-taking-of-ilios-f8a745",
   "title": "The Taking of Ilios",
   "language": "Greek",
@@ -15709,18 +17158,18 @@
   "title": "Ecclesiastical History of the English Nation",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 92
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 93
  },
  {
   "slug": "unknown-ganapatitattva-66a136",
   "title": "Gaṇapatitattva",
   "language": "Kawi",
   "genre": "Philosophy of Religion",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 16
+  "class": "mixed",
+  "song_units": 53,
+  "narration_units": 58
  },
  {
   "slug": "unknown-kalpabuddha-d760dc",
@@ -15745,9 +17194,9 @@
   "title": "Kunjarakarna Dharmakathana",
   "language": "Kawi",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 27
+  "class": "mixed",
+  "song_units": 66,
+  "narration_units": 41
  },
  {
   "slug": "unknown-manusmrti-347b76",
@@ -15774,7 +17223,7 @@
   "genre": "Literature",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 12
+  "narration_units": 15
  },
  {
   "slug": "unknown-parasara-smrti-2259be",
@@ -15790,9 +17239,9 @@
   "title": "San Hyan Kamahayanikan",
   "language": "Kawi",
   "genre": "Philosophy of Religion",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 23
+  "class": "mixed",
+  "song_units": 45,
+  "narration_units": 60
  },
  {
   "slug": "unknown-san-hyan-mahajnana-11c531",
@@ -15808,8 +17257,8 @@
   "title": "San Hyan Tattvajnana",
   "language": "Kawi",
   "genre": "Philosophy of Religion",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 23
  },
  {
@@ -15817,27 +17266,27 @@
   "title": "Select Letters",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 91
+  "class": "mixed",
+  "song_units": 9,
+  "narration_units": 97
  },
  {
   "slug": "unknown-slokantara-d7a628",
   "title": "Slokantara",
   "language": "Kawi",
   "genre": "Literature",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 25
+  "class": "mixed",
+  "song_units": 82,
+  "narration_units": 84
  },
  {
   "slug": "unknown-viramitrodaya-d4b632",
   "title": "Vīramitrodaya",
   "language": "Sanskrit",
   "genre": "Law",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 213
+  "class": "mixed",
+  "song_units": 1165,
+  "narration_units": 1179
  },
  {
   "slug": "unknown-visnu-smrti-27f0d8",
@@ -15853,18 +17302,18 @@
   "title": "Vratisasana",
   "language": "Kawi",
   "genre": "Philosophy of Religion",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 26
+  "class": "mixed",
+  "song_units": 52,
+  "narration_units": 62
  },
  {
   "slug": "unknown-vrhaspatitattva-b60b28",
   "title": "Vrhaspatitattva",
   "language": "Kawi",
   "genre": "Philosophy of Religion",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 23
+  "class": "mixed",
+  "song_units": 66,
+  "narration_units": 74
  },
  {
   "slug": "unknown-yajnavalkya-smrti-cb88d6",
@@ -15889,9 +17338,9 @@
   "title": "Facta et Dicta Memorabilia",
   "language": "Latin",
   "genre": "History",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 183
+  "class": "mixed",
+  "song_units": 2,
+  "narration_units": 184
  },
  {
   "slug": "valmiki-ramayana",
@@ -15907,18 +17356,27 @@
   "title": "The Kama Sutra of Vatsyayana",
   "language": "English",
   "genre": "Aesthetics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 76
+  "class": "mixed",
+  "song_units": 31,
+  "narration_units": 87
  },
  {
   "slug": "victor-cousin-lectures-on-the-true-the-beautif-ab35d3",
   "title": "Lectures on the True, the Beautiful and the Good",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 188
+  "class": "mixed",
+  "song_units": 5,
+  "narration_units": 191
+ },
+ {
+  "slug": "vincent-bourne-poems-5dc73d",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
  },
  {
   "slug": "virgil-aeneid-659242",
@@ -15934,9 +17392,9 @@
   "title": "On Architecture",
   "language": "Latin",
   "genre": "Classics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 133
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 135
  },
  {
   "slug": "vladimir-lenin-economics-and-politics-in-the-er-281dfb",
@@ -15988,9 +17446,9 @@
   "title": "Philosophical Notebooks (Collected Works, Volume 38)",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 197
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 198
  },
  {
   "slug": "vladimir-lenin-the-development-of-capitalism-in-4f48ed",
@@ -16006,9 +17464,9 @@
   "title": "The Right of Nations to Self-Determination",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 34
+  "class": "mixed",
+  "song_units": 1,
+  "narration_units": 35
  },
  {
   "slug": "vladimir-lenin-the-state-a-lecture-delivered-at-a9e18c",
@@ -16057,21 +17515,21 @@
  },
  {
   "slug": "vladimir-lenin-what-the-friends-of-the-people-a-df3f3e",
-  "title": "What the \"Friends of the People\" Are and How They Fight the Social-Democrats",
+  "title": "What the \\\"Friends of the People\\\" Are and How They Fight the Social-Democrats",
   "language": "English",
   "genre": "Political & Social Theory",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 91
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 92
  },
  {
   "slug": "voltaire-toleration-and-other-essays-91a5c9",
   "title": "Toleration and Other Essays",
   "language": "English",
   "genre": "Philosophy",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 104
+  "class": "mixed",
+  "song_units": 4,
+  "narration_units": 107
  },
  {
   "slug": "w-tudor-jones-an-interpretation-of-rudolf-euck-0aebbd",
@@ -16117,6 +17575,60 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 52
+ },
+ {
+  "slug": "william-collins-poems-b390dd",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 36,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-congreve-poems-d6b91f",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 13,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-cowper-poems-ded728",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 116,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-diaper-poems-001ac5",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 90,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-dodd-poems-a7c3a0",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 12,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-gerard-hamilton-poems-ad0994",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 10,
+  "narration_units": 0
  },
  {
   "slug": "william-godwin-of-population-a25378",
@@ -16182,6 +17694,15 @@
   "narration_units": 40
  },
  {
+  "slug": "william-hall-poems-8be186",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 5,
+  "narration_units": 0
+ },
+ {
   "slug": "william-james-a-pluralistic-universe-6dc780",
   "title": "A Pluralistic Universe",
   "language": "English",
@@ -16200,13 +17721,49 @@
   "narration_units": 76
  },
  {
+  "slug": "william-julius-mickle-poems-de833b",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 16,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-lisle-bowles-poems-44faf8",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 185,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-mason-poems-ec0935",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 22,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-melmoth-poems-87b019",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 11,
+  "narration_units": 0
+ },
+ {
   "slug": "william-minto-logic-inductive-and-deductive-ffa6fd",
   "title": "Logic, Inductive and Deductive",
   "language": "English",
   "genre": "Logic",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 122
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 123
  },
  {
   "slug": "william-molyneux-the-case-of-irelands-being-bound-282569",
@@ -16299,6 +17856,15 @@
   "narration_units": 12
  },
  {
+  "slug": "william-shakespeare-sonnets-65f289",
+  "title": "Sonnets",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 51,
+  "narration_units": 0
+ },
+ {
   "slug": "william-sharp-mckechnie-magna-carta-a-commentary-on-the--e4210a",
   "title": "Magna Carta: A Commentary on the Great Charter of King John",
   "language": "English",
@@ -16306,6 +17872,24 @@
   "class": "prose",
   "song_units": 0,
   "narration_units": 281
+ },
+ {
+  "slug": "william-shenstone-poems-e4f343",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 46,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-somervile-poems-e4a6e8",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 2,
+  "narration_units": 0
  },
  {
   "slug": "william-stanley-jevons-brief-account-of-a-general-mathe-8c54a2",
@@ -16339,9 +17923,9 @@
   "title": "The Coal Question",
   "language": "English",
   "genre": "Economics",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 113
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 115
  },
  {
   "slug": "william-stanley-jevons-the-theory-of-political-economy-20a14c",
@@ -16362,12 +17946,48 @@
   "narration_units": 60
  },
  {
+  "slug": "william-taylor-poems-a36e7a",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 4,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-ward-poems-01b7bd",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 6,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-whitehead-poems-1bdb04",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 33,
+  "narration_units": 0
+ },
+ {
+  "slug": "william-woty-poems-a97dc5",
+  "title": "Poems",
+  "language": "English",
+  "genre": "Poetry",
+  "class": "poetic",
+  "song_units": 3,
+  "narration_units": 0
+ },
+ {
   "slug": "wordsworth-donisthorpe-individualism-a-system-of-politi-ce6e15",
   "title": "Individualism: A System of Politics",
   "language": "English",
   "genre": "Political Theory",
-  "class": "prose",
-  "song_units": 0,
+  "class": "mixed",
+  "song_units": 1,
   "narration_units": 208
  },
  {
@@ -16465,9 +18085,9 @@
   "title": "Ephesiaca",
   "language": "Greek",
   "genre": "Fiction",
-  "class": "prose",
-  "song_units": 0,
-  "narration_units": 32
+  "class": "mixed",
+  "song_units": 3,
+  "narration_units": 33
  },
  {
   "slug": "xenophon-on-hunting-7355e5",
@@ -16521,7 +18141,7 @@
   "genre": "Political Theory",
   "class": "prose",
   "song_units": 0,
-  "narration_units": 119
+  "narration_units": 120
  },
  {
   "slug": "yves-guyot-the-tyranny-of-socialism-1e5c8b",

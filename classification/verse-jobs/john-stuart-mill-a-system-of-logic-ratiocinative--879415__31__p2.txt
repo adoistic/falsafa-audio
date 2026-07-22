@@ -1,0 +1,61 @@
+WORK: A System of Logic, Ratiocinative and Inductive  (slug: john-stuart-mill-a-system-of-logic-ratiocinative--879415)
+
+CHAPTER: 31
+
+
+
+[218289] 264 In his later editions, Archbishop Whately confines the name of Petitio Principii “to those cases in which one of the premises either is manifestly the same in sense with the conclusion, or is actually proved from it, or is such as the persons you are addressing are not likely to know, or to admit, except as an inference from the conclusion; as, *e.g.*, if any one should infer the authenticity of a certain history, from its recording such and such facts, the reality of which rests on the evidence of that history.”
+
+[218813] 265 No longer even a probable hypothesis, since the establishment of the atomic theory; it being now certain that the integral particles of different substances gravitate unequally. It is true that these particles, though real *minima* for the purposes of chemical combination, may not be the ultimate particles of the substance; and this doubt alone renders the hypothesis admissible, even as an hypothesis.
+
+[219223] 267 “And coxcombs vanquish Berkeley with a grin.”
+
+[219274] 268 Some arguments and explanations, supplementary to those in the text, will be found in _An Examination of Sir William Hamilton’s Philosophy_, chap. xxvi.
+
+[219432] 270 When this chapter was written, Professor Bain had not yet published even the first part (“The Senses and the Intellect”) of his profound Treatise on the Mind. In this the laws of association have been more comprehensively stated and more largely exemplified than by any previous writer; and the work, having been completed by the publication of “The Emotions and the Will,” may now be referred to as incomparably the most complete analytical exposition of the mental phenomena, on the basis of a legitimate Induction, which has yet been produced. More recently still, Mr. Bain has joined with me in appending to a new edition of the “Analysis,” notes intended to bring up the analytic science of Mind to its latest improvements.
+
+[220166] Many striking applications of the laws of association to the explanation of complex mental phenomena are also to be found in Mr. Herbert Spencer’s “Principles of Psychology.”
+
+[220342] 271 In the case of the moral sentiments the place of direct experiment is to a considerable extent supplied by historical experience, and we are able to trace with a tolerable approach to certainty the particular associations by which those sentiments are engendered. This has been attempted, so far as respects the sentiment of justice, in a little work by the present author, entitled *Utilitarianism*.
+
+[220748] 272 The most favorable cases for making such approximate generalizations are what may be termed collective instances; where we are fortunately enabled to see the whole class respecting which we are inquiring in action at once, and, from the qualities displayed by the collective body, are able to judge what must be the qualities of the majority of the individuals composing it. Thus the character of a nation is shown in its acts as a nation; not so much in the acts of its government, for those are much influenced by other causes; but in the current popular maxims, and other marks of the general direction of public opinion; in the character of the persons or writings that are held in permanent esteem or admiration; in laws and institutions, so far as they are the work of the nation itself, or are acknowledged and supported by it; and so forth. But even here there is a large margin of doubt and uncertainty. These things are liable to be influenced by many circumstances; they are partially determined by the distinctive qualities of that nation or body of persons, but partly also by external causes which would influence any other body of persons in the same manner. In order, therefore, to make the experiment really complete, we ought to be able to try it without variation upon other nations: to try how Englishmen would act or feel if placed in the same circumstances in which we have supposed Frenchmen to be placed; to apply, in short, the Method of Differences as well as that of Agreement. Now these experiments we can not try, nor even approximate to.
+
+[222321] 273 “To which,” says Dr. Whewell, “we may add, that it is certain, from the history of the subject, that in that case the hypothesis would never have been framed at all.”
+
+[222493] Dr. Whewell (*Philosophy of Discovery*, pp. 277–282) defends Bacon’s rule against the preceding strictures. But his defense consists only in asserting and exemplifying a proposition which I had myself stated, viz., that though the largest generalizations may be the earliest made, they are not at first seen in their entire generality, but acquire it by degrees, as they are found to explain one class after another of phenomena. The laws of motion, for example, were not known to extend to the celestial regions, until the motions of the celestial bodies had been deduced from them. This, however, does not in any way affect the fact, that the middle principles of astronomy, the central force, for example, and the law of the inverse square, could not have been discovered, if the laws of motion, which are so much more universal, had not been known first. On Bacon’s system of step-by-step generalization, it would be impossible in any science to ascend higher than the empirical laws; a remark which Dr. Whewell’s own Inductive Tables, referred to by him in support of his argument, amply bear out.
+
+[223597] * 274 Supra*, page 317 to the end of the chapter.
+
+[223648] * 277 Essays on some Unsettled Questions of Political Economy*, pp. 137–140.
+
+[223726] 278 The quotations in this paragraph are from a paper written by the author, and published in a periodical in 1834.
+
+[223843] * 279 Cours de Philosophie Positive*, iv., 325–29.
+
+[223895] 280 Since reprinted entire in *Dissertations and Discussions*, as the concluding paper of the first volume.
+
+[224004] 281 Written and first published in 1840.
+
+[224046] 282 This great generalization is often unfavorably criticised (as by Dr. Whewell, for instance) under a misapprehension of its real import. The doctrine, that the theological explanation of phenomena belongs only to the infancy of our knowledge of them, ought not to be construed as if it was equivalent to the assertion, that mankind, as their knowledge advances, will necessarily cease to believe in any kind of theology. This was M. Comte’s opinion; but it is by no means implied in his fundamental theorem. All that is implied is, that in an advanced state of human knowledge, no other Ruler of the World will be acknowledged than one who rules by universal laws, and does not at all, or does not unless in very peculiar cases, produce events by special interpositions. Originally all natural events were ascribed to such interpositions. At present every educated person rejects this explanation in regard to all classes of phenomena of which the laws have been fully ascertained; though some have not yet reached the point of referring all phenomena to the idea of Law, but believe that rain and sunshine, famine and pestilence, victory and defeat, death and life, are issues which the Creator does not leave to the operation of his general laws, but reserves to be decided by express acts of volition. M. Comte’s theory is the negation of this doctrine.
+
+[225407] Dr. Whewell equally misunderstands M. Comte’s doctrine respecting the second or metaphysical stage of speculation. M. Comte did not mean that “discussions concerning ideas” are limited to an early stage of inquiry, and cease when science enters into the positive stage. (*Philosophy of Discovery*, pp. 226 et seq.) In all M. Comte’s speculations as much stress is laid on the process of clearing up our conceptions as on the ascertainment of facts. When M. Comte speaks of the metaphysical stage of speculation, he means the stage in which men speak of “Nature” and other abstractions as if they were active forces, producing effects; when Nature is said to do this, or forbid that; when Nature’s horror of a vacuum, Nature’s non-admission of a break, Nature’s *vis medicatrix*, were offered as explanations of phenomena; when the qualities of things were mistaken for real entities dwelling in the things; when the phenomena of living bodies were thought to be accounted for by being referred to a “vital force;” when, in short, the abstract names of phenomena were mistaken for the causes of their existence. In this sense of the word it can not be reasonably denied that the metaphysical explanation of phenomena, equally with the theological, gives way before the advance of real science.
+
+[226701] That the final, or positive stage, as conceived by M. Comte, has been equally misunderstood, and that, notwithstanding some expressions open to just criticism, M. Comte never dreamed of denying the legitimacy of inquiry into all causes which are accessible to human investigation, I have pointed out in a former place.
+
+[227021] 283 Buckle’s *History of Civilization*, i., 30.
+
+[227070] 284 I have been assured by an intimate friend of Mr. Buckle that he would not have withheld his assent from these remarks, and that he never intended to affirm or imply that mankind are not progressive in their moral as well as in their intellectual qualities. “In dealing with his problem, he availed himself of the artifice resorted to by the Political Economist, who leaves out of consideration the generous and benevolent sentiments, and founds his science on the proposition that mankind are actuated by acquisitive propensities alone,” not because such is the fact, but because it is necessary to begin by treating the principal influence as if it was the sole one, and make the due corrections afterward. “He desired to make abstraction of the intellect as the determining and dynamical element of the progression, eliminating the more dependent set of conditions, and treating the more active one as if it were an entirely independent variable.”
+
+[228025] The same friend of Mr. Buckle states that when he used expressions which seemed to exaggerate the influence of general at the expense of special causes, and especially at the expense of the influence of individual minds, Mr. Buckle really intended no more than to affirm emphatically that the greatest men can not effect great changes in human affairs unless the general mind has been in some considerable degree prepared for them by the general circumstances of the age; a truth which, of course, no one thinks of denying. And there certainly are passages in Mr. Buckle’s writings which speak of the influence exercised by great individual intellects in as strong terms as could be desired.
+
+[228718] 285 Essay on Dryden, in Miscellaneous Writings, i., 186.
+
+[228776] 286 In the *Cornhill Magazine* for June and July, 1861.
+
+[228833] 287 It is almost superfluous to observe, that there is another meaning of the word Art, in which it may be said to denote the poetical department or aspect of things in general, in contradistinction to the scientific. In the text, the word is used in its older, and I hope, not yet obsolete sense.
+
+[229132] 288 Professor Bain and others call the selection from the truths of science made for the purposes of an art, a Practical Science, and confine the name Art to the actual rules.
+
+[229309] 289 The word Teleology is also, but inconveniently and improperly, employed by some writers as a name for the attempt to explain the phenomena of the universe from final causes.
+
+[229488] 290 For an express discussion and vindication of this principle, see the little volume entitled “Utilitarianism.”

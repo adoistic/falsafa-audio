@@ -1,0 +1,57 @@
+WORK: The Purchasing Power of Money  (slug: irving-fisher-the-purchasing-power-of-money-542875)
+
+CHAPTER: 50-9-to-chapter-xii-5-method-of-calculating-t
+
+
+
+[0] The table in the text is taken from the final column of the following more complete table:—
+
+[93] This table is constructed as follows:—
+
+[133] Column (2) is constructed for 1900-1909 from monthly figures on Internal Commerce published in the Monthly Summary of Commerce and Finance of the United States. By taking the monthly figures it was possible to obtain results for calendar years. This column is an average of separate indices for the following articles for which records were available. The original figures give the quantities of each article brought into the principal cities of the United States. These quantities were each multiplied by an assumed price which remained as a constant multiplier for every year. The products were then added together and the figures thus obtained taken to represent the total trade in these commodities, and to be a barometer of the relative internal commerce in the United States.
+
+[916] The articles referred to, and the dates for which data were used (as well as the price factors employed as explained below) are as follows:—
+
+[1058] These articles are representative for the trade of the country and may well serve as a barometer of that trade. Yet the amount of trade, actually consisting of the sales of these articles in the few cities concerned, constitutes of course only a very small part (probably less than one tenth of 1 per cent) of the total trade of the country.
+
+[1401] The actual figures first obtained were all divided by two before being entered in column (2) in order to bring them down to a scale more comparable with the figures of column (3). Since not all of the commodities were quoted in all the years, the table had to be "pieced out" for the defective years by the principles of proportion as already exemplified. As the statistics of the Monthly Summary go back only to 1900, the table had to be "pieced" back to 1896. This was done by using data from the statistical abstract of the United States and the abstract of the United States Census for 1900. The only figures obtainable for important articles in internal trade were those for grain, received during calendar years at fifteen principal primary markets, and for the estimated national consumption during fiscal years of the following articles, chiefly, or largely, of domestic production: cotton, wool, bituminous coal, pig iron, iron and steel railroad bars, and "distilled spirits, wines, and malt liquors."
+
+[2414] The fiscal year figures were taken from 1896 to 1901 inclusive and reduced to calendar years on the assumption, for instance, that the true figure for the calendar year 1896 is the average of those for the two fiscal years ending June 30, 1896, and June 30, 1897. In this way we get hypothetical calendar year figures for 1896 to 1900. These figures and those for grains, which were already for calendar years, were then reduced by a factor so that each was made to be 111 for 1900, the number for that year found by the calculations involving the articles in the series, 1900-1909. The figures thus found were then averaged with weights selected to correspond with the estimates of their respective importance as judged from the estimates of their national consumption values and from the fact that some of them are indicators of large related businesses. The weights chosen were: for grains (including wheat, wheat flour, corn, rye, oats, barley, malt, and pease), 20; for bituminous coal, iron and steel, liquors, and cotton, 5 each; and for pig iron and wool, 1 each.
+
+[3487] The data for 1896-1899 are far inferior to those for 1900-1909 taken from the Monthly Summary, and this for three reasons: (1) because they are so few in number; (2) because all except the grains are for fiscal years and the hypothetical correction to calendar years is subject to error; and (3) because all except the grains are very rough estimates of consumption, not based on shipments or receipts, but based on estimated production, corrected for exports and imports, which three elements are all subject to error.
+
+[4008] We should not be surprised, therefore, to find larger errors in the resulting figures for 1896-1899 than for 1900-1909. In fact, we shall see that such is probably the case.
+
+[4183] For carrying out the laborious operations involved in ascertaining the index numbers from 1900 to 1908, I am indebted to one of my undergraduate students, Mr. Robert N. Griswold, and for bringing them down to 1909, to one of my graduate students, Mr. W. Y. Smiley.
+
+[4449] Column (3) is also based on laborious calculations which were performed by Mr. Griswold. The materials were also taken from the Monthly Summary of Finance and Commerce and covered 23 staple articles of import and 25 for export. The quantities of each were multiplied by a uniform price, and the sum of the resulting figures for imports and exports was taken. The articles of imports (with the price multipliers used) were:—
+
+[4874] The articles of exports were:—
+
+[4906] The statistics of exports and imports are probably fifty times as full as those of internal commerce and therefore (on the principle that probable errors vary inversely as the square root of the fullness of returns) some seven times as accurate. But, on the other hand, exports and imports represent less than 1 per cent as much trade as the internal commerce of the United States, and, by the principles already explained in previous chapters, should count in the equation of exchange only at half its value, one of the parties in the exchange being a foreigner. In spite, however, of the diminutive character of external commerce, it is to some extent an index of internal commerce; since a vast amount of internal business is a preliminary to exports and a sequel to imports, while perhaps a still larger amount is in other ways indirectly related to such commerce. By balancing these and other considerations, the relative weights to be assigned to the external and internal trade were selected as given in column (5).
+
+[5930] Column (4) gives the sales of stocks according to the ordinary figures as given, for instance, in the Financial Review. These figures are, of course, not for values, but for amounts.
+
+[6114] Column (6) gives the figures for tons of freight carried by railroads according to Poor's Railroad Manual for fiscal years.
+
+[6239] Column (7) gives the figures for pieces of first-class mail matter carried in fiscal years. These figures were kindly supplied by the Post Office Department. They are lacking for 1896.
+
+[6425] We have still to describe the method employed for combining columns (2), (3), (4), (6), (7).
+
+[6519] The first three are regarded as constituting a group by themselves, representing direct indices of trade: and the last two are regarded as constituting another group of indirect indices.
+
+[6707] The direct indices are combined by weighting the internal commerce, twenty, the exports and imports, three, and sales of stocks, one. These weights are, of course, merely matters of opinion, but, as is well known, wide differences in systems of weighting make only slight differences in the final averages.
+
+[7015] In this way, column (5) is found.
+
+[7050] As to the relative weights to be given to the railroad and post office statistics, the former were weighted as two and the latter as one. Railway tonnage represents almost every conceivable commodity in commerce and comes far closer to actual trade than post office letters.
+
+[7326] After railroad and post office indexes are thus combined, the transition from fiscal to calendar years is made on the assumption that the figures for a calendar year are the mean of the figures for the fiscal years ending June 30 of that year and June 30 of the next year.
+
+[7600] In this way column (9) is obtained.
+
+[7637] From columns (5) and (9) column (10) is obtained by weighting (5) two, and (9) one.
+
+[7722] Finally, column (11) is found by magnifying the figure of column (10) in the ratio 399/155 in order to make the figure for the base year, 1909, equal to 399 billions of dollars,—the total value of the left side of the equation (MV + M'V').
+
+[7963] The probable errors in the values of T which have been calculated are believed to be some 5 to 10 per cent for the years 1900-1909 and 10 to 15 per cent for the years 1896-1900.

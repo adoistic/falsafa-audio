@@ -1,0 +1,35 @@
+WORK: Poetics  (slug: aristotle-poetics-6c4430)
+
+CHAPTER: 09
+
+
+
+[0] What we have said already makes it further clear that a poet’s object is not to tell what actually happened but what could and would happen either probably or inevitably.
+
+[172] The difference between a historian and a poet is not that one writes in prose and the other in verse— indeed the writings of Herodotus could be put into verse and yet would still be a kind of history, whether written in metre or not. The real difference is this, that one tells what happened and the other what might happen.
+
+[498] For this reason poetry is something more scientific and serious than history, because poetry tends to give general truths while history gives particular facts.
+
+[659] By a general truth I mean the sort of thing that a certain type of man will do or say either probably or necessarily. That is what poetry aims at in giving names to the characters. A particular fact is what Alcibiades did or what was done to him.
+
+[907] In the case of comedy this has now become obvious, for comedians construct their plots out of probable incidents and then put in any names that occur to them. They do not, like the iambic satirists, write about individuals.
+
+[1132] In tragedy, on the other hand, they keep to real names. The reason is that what is possible carries conviction. If a thing has not happened, we do not yet believe in its possibility, but what has happened is obviously possible. Had it been impossible, it would not have happened.
+
+[1413] It is true that in some tragedies one or two of the names are familiar and the rest invented; indeed in some they are all invented, as for instance in Agathon’s Antheus, where both the incidents and the names are invented and yet it is none the less a favourite.
+
+[1677] One need not therefore endeavor invariably to keep to the traditional stories with which our tragedies deal. Indeed it would be absurd to do that, seeing that the familiar themes are familiar only to a few and yet please all.
+
+[1904] It is clear, then, from what we have said that the poet must be a maker not of verses but of stories, since he is a poet in virtue of his representation, and what he represents is action.
+
+[2093] Even supposing he represents what has actually happened, he is none the less a poet, for there is nothing to prevent some actual occurrences being the sort of thing that would probably or inevitably happen, and it is in virtue of that that he is their maker.
+
+[2353] Of simple plots and actions the worst are those which are episodic. By this I mean a plot in which the episodes do not follow each other probably or inevitably.
+
+[2515] Bad poets write such plays because they cannot help it, and good poets write them to please the actors. Writing as they do for competition, they often strain a plot beyond its capacity and are thus obliged to sacrifice continuity.
+
+[2747] But this is bad work, since tragedy represents not only a complete action but also incidents that cause fear and pity, and this happens most of all when the incidents are unexpected and yet one is a consequence of the other.
+
+[2973] For in that way the incidents will cause more amazement than if they happened mechanically and accidentally, since the most amazing accidental occurrences are those which seem to have been providential, for instance when the statue of Mitys at Argos killed the man who caused Mitys’s death by falling on him at a festival. Such events do not seem to be mere accidents.
+
+[3343] So such plots as these must necessarily be the best.

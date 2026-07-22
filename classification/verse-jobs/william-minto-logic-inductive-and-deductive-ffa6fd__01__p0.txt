@@ -1,0 +1,319 @@
+WORK: Logic, Inductive and Deductive  (slug: william-minto-logic-inductive-and-deductive-ffa6fd)
+
+CHAPTER: 01
+
+
+
+[0] THE ELEMENTS OF PROPOSITIONS.
+
+[31] CHAPTER I.
+
+[43] GENERAL NAMES AND ALLIED DISTINCTIONS.
+
+[83] To discipline us against the errors we are liable to in receiving knowledge through the medium of words--such is one of the objects of Logic, the main object of what may be called the Logic of Consistency.
+
+[290] Strictly speaking, we may receive knowledge about things through signs or single words, as a nod, a wink, a cry, a call, a command. But an assertory sentence, proposition, or predication, is the unit with which Logic concerns itself--a sentence in which a subject is named and something is said or predicated about it. Let a man once understand the errors incident to this regular mode of communication, and he may safely be left to protect himself against the errors incident to more rudimentary modes.
+
+[795] A proposition, whether long or short, is a unit, but it is an analysable unit. And the key to syllogistic analysis is the General Name. Every proposition, every sentence in which we convey knowledge to another, contains a general name or its equivalent. That is to say, every proposition may be resolved into a form in which the predicate is a general name. A knowledge of the function of this element of speech is the basis of all logical discipline. Therefore, though we must always remember that the proposition is the real unit of speech, and the general name only an analytic element, we take the general name and its allied distinctions in thought and reality first.
+
+[1469] How propositions are analysed for syllogistic purposes will be shown by-and-by, but we must first explain various technical terms that logicians have devised to define the features of this cardinal element. The technical terms CLASS, CONCEPT, NOTION, ATTRIBUTE, EXTENSION or DENOTATION, INTENSION or CONNOTATION, GENUS, SPECIES, DIFFERENTIA, SINGULAR NAME, COLLECTIVE NAME, ABSTRACT NAME, all centre round it.
+
+[1880] A general name is a name applicable to a number of different things on the ground of some likeness among them, as *man*, *ratepayer*, _man of courage*, *man who fought at Waterloo_.
+
+[2063] From the examples it will be seen that a general name logically is not necessarily a single word. Any word or combination of words that serves a certain function is technically a general name. The different ways of making in common speech the equivalent of a general name logically are for the grammarian to consider.
+
+[2382] In the definition of a general name attention is called to two distinct considerations, the individual objects to each of which the name is applicable, and the points of resemblance among them, in virtue of which they have a common name. For those distinctions there are technical terms.
+
+[2671] CLASS is the technical term for the objects, different yet agreeing, to each of which a general name may be applied.
+
+[2789] The points of resemblance are called the common ATTRIBUTES of the class.
+
+[2863] A class may be constituted on one attribute or on several. *Ratepayer*, *woman ratepayer*, *unmarried woman ratepayer*; *soldier*, *British soldier*, *British soldier on foreign service*. But every individual to which the general name can be applied must possess the common attribute or attributes.
+
+[3163] These common attributes are also called the NOTION of the class, inasmuch as it is these that the mind notes or should note when the general name is applied. CONCEPT is a synonym perhaps in more common use than notion; the rationale of this term (derived from *con* and *capere*, to take or grasp together) being that it is by means of the points of resemblance that the individuals are grasped or held together by the mind. These common points are the one in the many, the same amidst the different, the identity signified by the common name. The name of an attribute as thought of by itself without reference to any individual or class possessing it, is called an ABSTRACT name. By contradistinction, the name of an individual or a class is CONCRETE.
+
+[3917] Technical terms are wanted also to express the relation of the individuals and the attributes to the general name. The individuals jointly are spoken of as the DENOTATION, or EXTENSION or SCOPE of the name; the common attributes as its CONNOTATION, INTENSION, COMPREHENSION, or GROUND. The whole denotation, etc., is the class; the whole connotation, etc., is the concept. The limits of a "class" in Logic are fixed by the common attributes. Any individual object that possesses these is a member. The statement of them is the DEFINITION.
+
+[4457] To predicate a general name of any object, as, "This is a cat," "This is a very sad affair," is to refer that object to a class, which is equivalent to saying that it has certain features of resemblance with other objects, that it reminds us of them by its likeness to them. Thus to say that the predicate of every proposition is a general name, expressed or implied, is the same as to say that every predication may be taken as a reference to a class.
+
+[4911] Ordinarily our notion or concept of the common features signified by general names is vague and hazy. The business of Logic is to make them clear. It is to this end that the individual objects of the class are summoned before the mind. In ordinary thinking there is no definite array or muster of objects: when we think of "dog" or "cat," "accident," "book," "beggar," "ratepayer," we do not stop to call before the mind a host of representatives of the class, nor do we take precise account of their common attributes. The concept of "house" is what all houses have in common. To make this explicit would be no easy matter, and yet we are constantly referring objects to the class "house". We shall see presently that if we wish to make the connotation or concept clear we must run over the denotation or class, that is to say, the objects to which the general name is applied in common usage. Try, for example, to conceive clearly what is meant by house, tree, dog, walking-stick. You think of individual objects, so-called, and of what they have in common.
+
+[5972] A class may be constituted on one property or on many. There are several points common to all houses, enclosing walls, a roof, a means of exit and entrance. For the full concept of the natural kinds, *men*, *dogs*, *mice*, etc., we should have to go to the natural historian.
+
+[6249] DEGREES OF GENERALITY. One class is said to be of higher generality than another when it includes that other and more. Thus animal includes man, dog, horse, etc.; man includes Aryan, Semite, etc.; Aryan includes Hindoo, Teuton, Celt, etc.
+
+[6489] The technical names for higher and lower classes are GENUS and SPECIES. These terms are not fixed as in Natural History to certain grades, but are purely relative one to another, and movable up and down a scale of generality. A class may be a species relatively to one class, which is above it, and a genus relatively to one below it. Thus Aryan is a species of the genus man, Teuton a species of the genus Aryan.
+
+[6904] In the graded divisions of Natural History genus and species are fixed names for certain grades. Thus: Vertebrates form a "division"; the next subdivision, *e.g.*, Mammals, Birds, Reptiles, etc., is called a "class"; the next, *e.g*., Rodents, Carnivora, Ruminants, an "order"; the next, *e.g.*, Rats, Squirrels, Beavers, a "genus"; the next, *e.g.*, Brown rats, Mice, a "species".
+
+[7287] Vertebrates (division). | Mammals, Birds, Reptiles, etc. (class). | Rodents, Ruminants, Carnivors, etc. (order). | Rats, Squirrels, Beavers, etc. (genus). | Brown rats, Mice, etc. (species).
+
+[7479] If we subdivide a large class into smaller classes, and, again, subdivide these subdivisions, we come at last to single objects.
+
+[7609] A table of higher and lower classes arranged in order has been known from of old as a *tree* of division or classification. The following is Porphyry's "tree":--
+
+[7772] Being / \ Corporeal Incorporeal \ / (Body) / \ Animate Inanimate \ / (Living Being) / \ Sensible Insensible \ / (Animal) / \ Rational Irrational \ / (Man) | --------------------------------------- Socrates, Plato, and other individuals.
+
+[8010] The single objects are called INDIVIDUALS, because the division cannot be carried farther. The highest class is technically the SUMMUM GENUS, or *Genus generalissimum*; the next highest class to any species is the PROXIMUM GENUS; the lowest group before you descend to individuals is the INFIMA SPECIES, or *Species specialissima*.
+
+[8343] The attribute or attributes whereby a species is distinguished from other species of the same genus, is called its DIFFERENTIA or DIFFERENTIAE. The various species of houses are differentiated by their several uses, dwelling-house, town-house, ware-house, public-house. Poetry is a species of Fine Art, its differentia being the use of metrical language as its instrument.
+
+[8717] A lower class, indicated by the name of its higher class qualified by adjectives or adjective phrases expressing its differential property or properties, is said to be described PER GENUS ET DIFFERENTIAM. Examples: "Black-bird," "note-book," "clever man," "man of Kent," "eminent British painter of marine subjects". By giving a combination of attributes common to him with nobody else, we may narrow down the application of a name to an individual: "The Commander-in-Chief of the British forces at the battle of Waterloo".
+
+[9242] Other attributes of classes as divided and defined, have received technical names.
+
+[9326] An attribute common to all the individuals of a class, found in that class only, and following from the essential or defining attributes, though not included among them, is called a PROPRIUM.
+
+[9519] An attribute that belongs to some, but not to all, or that belongs to all, but is not a necessary consequence of the essential attributes, is called an ACCIDENT.
+
+[9682] The clearest examples of Propria are found in mathematical figures. Thus, the defining property of an equilateral triangle is the equality of the sides: the equality of the angles is a proprium. That the three angles of a triangle are together equal to two right angles is a proprium, true of all triangles, and deducible from the essential properties of a triangle.
+
+[10050] Outside Mathematics, it is not easy to find *propria* that satisfy the three conditions of the definition. It is a useful exercise of the wits to try for such. Educability--an example of the proprium in mediaeval text-books--is common to men, and results from man's essential constitution; but it is not peculiar; other animals are educable. That man cooks his food is probably a genuine proprium.
+
+[10449] That horses run wild in Thibet: that gold is found in California: that clergymen wear white ties, are examples of Accidents. Learning is an accident in man, though educability is a proprium.
+
+[10641] What is known technically as an INSEPARABLE ACCIDENT, such as the black colour of the crow or the Ethiopian, is not easy to distinguish from the Proprium. It is distinguished only by the third character, deducibility from the essence.
+
+[10877] Accidents that are both common and peculiar are often useful for distinguishing members of a class. Distinctive dresses or badges, such as the gown of a student, the hood of a D.D., are accidents, but mark the class of the individual wearer. So with the colours of flowers.
+
+[11152] *Genus*, *Species*, *Differentia*, *Proprium*, and *Accidens* have been known since the time of Porphyry as the FIVE PREDICABLES. They are really only terms used in dividing and defining. We shall return to them and endeavour to show that they have no significance except with reference to fixed schemes, scientific or popular, of Division or Classification.
+
+[11512] Given such a fixed scheme, very nice questions may be raised as to whether a particular attribute is a defining attribute, or a proprium, or an accident, or an inseparable accident. Such questions afford great scope for the exercise of the analytic intellect.
+
+[11773] We shall deal more particularly with degrees of generality when we come to Definition. This much has been necessary to explain an unimportant but much discussed point in Logic, what is known as the inverse variation of Connotation and Denotation.
+
+[12021] Connotation and Denotation are often said to vary inversely in quantity. The larger the connotation the smaller the denotation, and *vice versa*. With certain qualifications the statement is correct enough, but it is a rough compendious way of expressing the facts and it needs qualification.
+
+[12315] The main fact to be expressed is that the more general a name is, the thinner is its meaning. The wider the scope, the shallower the ground. As you rise in the scale of generality, your classes are wider but the number of common attributes is less. Inversely, the name of a species has a smaller denotation than the name of its genus, but a richer connotation. *Fruit-tree* applies to fewer objects than *tree*, but the objects denoted have more in common: so with *apple* and *fruit-tree*, *Ribston Pippin* and *apple*.
+
+[12837] Again, as a rule, if you increase the connotation you contract the area within which the name is applicable. Take any group of things having certain attributes in common, say, *men of ability*: add *courage*, *beauty*, *height of six feet*, _chest measurement of 40 inches_, and with each addition fewer individuals are to be found possessing all the common attributes.
+
+[13208] This is obvious enough, and yet the expression inverse variation is open to objection. For the denotation may be increased in a sense without affecting the connotation. The birth of an animal may be said to increase the denotation: every year thousands of new houses are built: there are swarms of flies in a hot summer and few in a cold. But all the time the connotation of *animal*, *house*, or *fly* remains the same: the word does not change its meaning.
+
+[13668] It is obviously wrong to say that they vary in inverse proportion. Double or treble the number of attributes, and you do not necessarily reduce the denotation by one-half or one-third.
+
+[13854] It is, in short, the meaning or connotation that is the main thing. This determines the application of a word. As a rule if you increase meaning, you restrict scope. Let your idea, notion, or concept of *culture* be a knowledge of Mathematics, Latin and Greek: your _men of culture_ will be more numerous than if you require from each of them these qualifications *plus* a modern language, an acquaintance with the Fine Arts, urbanity of manners, etc.
+
+[14307] It is just possible to increase the connotation without decreasing the denotation, to thicken or deepen the concept without diminishing the class. This is possible only when two properties are exactly co-extensive, as equilaterality and equiangularity in triangles.
+
+[14574] SINGULAR and PROPER NAMES. A Proper or Singular name is a name used to designate an individual. Its function, as distinguished from that of the general name, is to be used purely for the purpose of distinctive reference.
+
+[14796] A man is not called Tom or Dick because he is like in certain respects to other Toms or other Dicks. The Toms or the Dicks do not form a logical class. The names are given purely for purposes of distinction, to single out an individual subject. The Arabic equivalent for a Proper name, *alam*, "a mark," "a sign-post," is a recognition of this.
+
+[15142] In the expressions "a Napoleon," "a Hotspur," "a Harry," the names are not singular names logically, but general names logically, used to signify the possession of certain attributes.
+
+[15327] A man may be nicknamed on a ground, but if the name sticks and is often used, the original meaning is forgotten. If it suggests the individual in any one of his qualities, any point in which he resembles other individuals, it is no longer a Proper or Singular name logically, that is, in logical function. That function is fulfilled when it has called to mind the individual intended.
+
+[15713] To ask, as is sometimes done, whether Proper names are connotative or denotative, is merely a confusion of language. The distinction between connotation and denotation, extension and intension, applies only to general names. Unless a name is general, it has neither extension nor intension: a Proper or Singular name is essentially the opposite of a general name and has neither the one nor the other.
+
+[16116] A nice distinction may be drawn between Proper and Singular names, though they are strict synonyms for the same logical function. It is not essential to the discharge of that function that the name should be strictly appropriated to one object. There are many Toms and many Dicks. It is enough that the word indicates the individual without confusion in the particular circumstances.
+
+[16501] This function may be discharged by words and combinations of words that are not Proper in the grammatical sense. "This man," "the cover of this book," "the Prime Minister of England," "the seer of Chelsea," may be Singular names as much as Honolulu or Lord Tennyson.
+
+[16769] In common speech Singular names are often manufactured *ad hoc* by taking a general name and narrowing it down by successive qualifications till it applies only to one individual, as "The leading subject of the Sovereign of England at the present time". If it so happens that an individual has some attribute or combination peculiar to himself, he may be suggested by the mention of that attribute or combination:--"the inventor of the steam-engine," "the author of Hudibras".
+
+[17247] Have such names a connotation? The student may exercise his wits on the question. It is a nice one, an excellent subject of debate. Briefly, if we keep rigid hold of the meaning of connotation, this Singular name has none. The combination is a singular name only when it is the subject of a predication or an attribution, as in the sentences, "The position of the leading subject of etc., is a difficult one," or "The leading subject of etc., wears an eyeglass". In such a sentence as "So-and-so is the leading subject of etc.," the combined name has a connotation, but then it is a general and not a singular name.
+
+[17864] COLLECTIVE NAMES, as distinguished from General Names. A collective name is a name for a number of similar units taken as a whole--a name for a totality of similar units, as army, regiment, mob, mankind, patrimony, personal estate.
+
+[18097] A group or collection designated by a collective name is so far like a class that the individual objects have something in common: they are not heterogeneous but homogeneous. A mob is a collection of human beings; a regiment of soldiers; a library of books.
+
+[18356] The distinction lies in this, that whatever is said of a collective name is said about the collection as a whole, and does not apply to each individual; whatever is said of a general name applies to each individual. Further, the collective name can be predicated only of the whole group, as a whole; the general name is predicable of each, distributively. "Mankind has been in existence for thousands of years;" "The mob passed through the streets." In such expressions as "An honest man's the noblest work of God," the subject is functionally a collective name.
+
+[18920] A collective name may be used as a general name when it is extended on the ground of what is common to all such totalities as it designates. "An excited mob is dangerous;" "An army without discipline is useless." The collective name is then "connotative" of the common characters of the collection.
+
+[19220] MATERIAL OR SUBSTANTIAL NAMES. The question has been raised whether names of material, gold, water, snow, coal, are general or collective singular. In the case of pieces or bits of a material, it is true that any predicate made concerning the material, such as "Sugar is sweet," or "Water quenches thirst," applies to any and every portion. But the separate portions are not individuals in the whole signified by a material name as individuals are in a class. Further, the name of material cannot be predicated of a portion as a class name can be of an individual. We cannot say, "This is a sugar". When we say, "This is a piece of sugar," sugar is a collective name for the whole material. There are probably words on the borderland between general names and collective names. In such expressions as "This is a *coal*," "The bonnie *water* o' Urie," the material name is used as a general name. The real distinction is between the distributive use and the collective use of a name; as a matter of grammatical usage, the same word may be used either way, but logically in any actual proposition it must be either one or the other.
+
+[20352] ABSTRACT NAMES are names for the common attributes or concepts on which classes are constituted. A concrete name is a name directly applicable to an individual in all his attributes, that is, as he exists in the concrete. It may be written on a ticket and pinned to him. When we have occasion to speak of the point or points in which a number of individuals resemble one another, we use what is called an abstract name. "Generous man," "clever man," "timid man," are concrete names; "generosity," "cleverness," "timidity," are abstract names.
+
+[20896] It is disputed whether abstract names are connotative. The question is a confused one: it is like asking whether the name of a town is municipal. An abstract name is the name of a connotation as a separate object of thought or reference, conceived or spoken of in abstraction from individual accidents. Strictly speaking it is notative rather than *con*notative: it cannot be said to have a connotation because it is itself the symbol of what is called the connotation of a general name.
+
+[21385] The distinction between abstract names and concrete names is virtually a grammatical distinction, that is, a distinction in mode of predication. We may use concrete names or abstract names at our pleasure to express the same meaning. To say that "John is a timid man" is the same thing as saying that "Timidity is one of the properties or characteristics or attributes of John". "Pride and cruelty generally go together;" "Proud men are generally cruel men."
+
+[21845] General names are predicable of individuals because they possess certain attributes: to predicate the possession of those attributes is the same thing as to predicate the general name.
+
+[22031] Abstract forms of predication are employed in common speech quite as frequently as concrete, and are, as we shall see, a great source of ambiguity and confusion.
+
+[22194] ) the subject of inhesion". The truth is that Mansel's view was a theory of usage not a statement of actual usage, and he had good reason for putting it doubtfully.
+
+[22360] As a matter of fact, the history of the distinction follows the simple type of increasing precision and complexity, and Mill was in strict accord with standard tradition. By the Nominalist commentators on the *Summulae* of Petrus Hispanus certain names, adjectives grammatically, are called *Connotativa* as opposed to *Absoluta*, simply because they have a double function. White is connotative as signifying both a subject, such as Socrates, of whom "whiteness" is an attribute, and an attribute "whiteness": the names "Socrates" and "whiteness" are Absolute, as having but a single signification. Occam himself speaks of the subject as the primary signification, and the attribute as the secondary, because the answer to "What is white?" is "Something informed with whiteness," and the subject is in the nominative case while the attribute is in an oblique case (*Logic*, part I. chap. x.). Later on we find that Tataretus (_Expositio in Summulas*, A.D. 1501), while mentioning (Tract. Sept. *De Appellationibus_) that it is a matter of dispute among Doctores whether a connotative name *connotat* the subject or the attribute, is perfectly explicit in his own definition, "Terminus connotativus est qui praeter illud pro quo supponit connotat aliquid adjacere vel non adjacere rei pro qua supponit" (Tract. Sept. *De Suppositionibus*). And this remained the standard usage as long as the distinction remained in logical text-books. We find it very clearly expressed by Clichtoveus, a Nominalist, quoted as an authority by Guthutius in his *Gymnasium Speculativum*, Paris, 1607 (_De Terminorum Cognitione_, pp. 78-9). "Terminus absolutus est, qui solum illud pro quo in propositione supponit, significat. Connotativus autem, qui ultra idipsum, aliud importat." Thus *man* and *animal* are absolute terms, which simply stand for (supponunt pro) the things they signify. *White* is a connotative name, because "it stands for (supponit pro) a subject in which it is an accident: and beyond this, still signifies an accident, which is in that subject, and is expressed by an abstract name". Only Clichtoveus drops the verb *connotat*, perhaps as a disputable term, and says simply *ultra importat*.
+
+[24559] So in the Port Royal Logic (1662), from which possibly Mill took the distinction: "Les noms qui signifient les choses comme modifiees, marquant premierement et directement la chose, quoique plus confusement, et indirectement le mode, quoique plus distinctement, sont appeles *adjectifs* ou *connotatifs*; comme rond, dur, juste, prudent" (part i. chap ii.).
+
+[24918] What Mill did was not to invert Scholastic usage but to revive the distinction, and extend the word connotative to general names on the ground that they also imported the possession of attributes. The word has been as fruitful of meticulous discussion as it was in the Renaissance of Logic, though the ground has changed. The point of Mill's innovation was, premising that general names are not absolute but are applied in virtue of a meaning, to put emphasis on this meaning as the cardinal consideration. What he called the connotation had dropped out of sight as not being required in the Syllogistic Forms. This was as it were the point at which he put in his horn to toss the prevalent conception of Logic as Syllogistic.
+
+[25646] The real drift of Mill's innovation has been obscured by the fact that it was introduced among the preliminaries of Syllogism, whereas its real usefulness and significance belongs not to Syllogism in the strict sense but to Definition. He added to the confusion by trying to devise forms of Syllogism based on connotation, and by discussing the Axiom of the Syllogism from this point of view. For syllogistic purposes, as we shall see, Aristotle's forms are perfect, and his conception of the proposition in extension the only correct conception. Whether the centre of gravity in Consistency Logic should not be shifted back from Syllogism to Definition, the latter being the true centre of consistency, is another question. The tendency of Mill's polemic was to make this change. And possibly the secret of the support it has recently received from Mr. Bradley and Mr. Bosanquet is that they, following Hegel, are moving in the same direction.
+
+[26592] In effect, Mill's doctrine of Connotation helped to fix a conception of the general name first dimly suggested by Aristotle when he recognised that names of genera and species signify Quality, in showing what sort a thing is. Occam carried this a step farther towards clear light by including among Connotative Terms such general names as "monk," name of classes that at once suggest a definite attribute. The third step was made by Mill in extending the term Connotation to such words as "man," "horse," the *Infimae Species* of the Schoolmen, the Species of modern science.
+
+[27169] Whether connotation was the best term to use for this purpose, rather than extension, may be questioned: but at least it was in the line of tradition through Occam.]
+
+[27336] was an attribute, such as the laugh of the man or the bark of the dog, common to all of a class and peculiar to the class (*quod convenit omni soli et semper*) yet not comprised in the definition of the class. Porphyry recognised three varieties of [Greek: idia] besides this, four in all, as follows:--(1) an attribute peculiar to a species but not possessed by all, as knowledge of medicine or geometry; (2) possessed by a whole species but not peculiar to it, as being a biped in man; (3) peculiar to a species, and possessed by all at a certain time, as turning grey in old age; (4) Aristotle's "proprium," peculiar and possessed by all, as risibility. The idea of the Proprium as deducible from or consequent on the essence would seem to have originated in the desire to find something common to all Poryphyry's four varieties.]
+
+[28171] CHAPTER II.
+
+[28184] THE SYLLOGISTIC ANALYSIS OF PROPOSITIONS INTO TERMS.
+
+[28238] I.--THE BARE ANALYTIC FORMS.
+
+[28268] The word "term" is loosely used as a mere synonym for a name: strictly speaking, a term ([Greek: horos], a boundary) is one of the parts of a proposition as analysed into Subject and Predicate. In Logic, a term is a technical word in an analysis made for a special purpose, that purpose being to test the mutual consistency of propositions.
+
+[28610] For this purpose, the propositions of common speech may be viewed as consisting of two TERMS, a linkword called the copula (positive or negative) expressing a relation between them, and certain symbols of quantity used to express that relation more precisely.
+
+[28871] Let us indicate the Subject term by S, and the Predicate term by P.
+
+[28940] All propositions may be analysed into one or other of four forms:--
+
+[29009] All S is P, No S is P, Some S is P, Some S is not P.
+
+[29063] All S is P is called the UNIVERSAL AFFIRMATIVE, and is indicated by the symbol A (the first vowel of Affirmo).
+
+[29175] No S is P is called the UNIVERSAL NEGATIVE, symbol E (the first vowel of Nego).
+
+[29256] Some S is P is called the PARTICULAR AFFIRMATIVE, symbol I (the second vowel of *aff*Irmo).
+
+[29349] Some S is not P is called the PARTICULAR NEGATIVE, symbol O (the second vowel of *neg*O).
+
+[29440] The distinction between Universal and Particular is called a distinction in QUANTITY; between Affirmative and Negative, a distinction in QUALITY. A and E, I and O, are of the same quantity, but of different quality: A and I, E and O, same in quality, different in quantity.
+
+[29715] In this symbolism, no provision is made for expressing degrees of particular quantity. *Some* stands for any number short of all: it may be one, few, most, or all but one. The debates in which Aristotle's pupils were interested turned mainly on the proof or disproof of general propositions; if only a proposition could be shown to be not universal, it did not matter how far or how little short it came. In the Logic of Probability, the degree becomes of importance.
+
+[30184] Distinguish, in this Analysis, to avoid subsequent confusion, between the Subject and the Subject Term, the Predicate and the Predicate Term. The Subject is the Subject Term quantified: in A and E, "All S"; in I and O, "Some S". The Predicate is the Predicate Term with the Copula, positive or negative: in A and I, "is P"; in E and O, "is not P".
+
+[30533] It is important also, in the interest of exactness, to note that S and P, with one exception, represent general names. They are symbols for classes. P is so always: S also except when the Subject is an individual object. In the machinery of the Syllogism, predications about a Singular term are treated as Universal Affirmatives. "Socrates is a wise man" is of the form All S is P.
+
+[30916] S and P being general names, the signification of the symbol "is" is not the same as the "is" of common speech, whether the substantive verb or the verb of incomplete predication. In the syllogistic form, "is" means *is contained in*, "is not," *is not contained in*.
+
+[31185] The relations between the terms in the four forms are represented by simple diagrams known as Euler's circles.
+
+[31297] Diagram 5 is a purely artificial form, having no representative in common speech. In the affirmations of common speech, P is always a term of greater extent than S.
+
+[31463] No. 2 represents the special case where S and P are coextensive, as in All equiangular triangles are equilateral.
+
+[31578] S and P being general names, they are said to be DISTRIBUTED when the proposition applies to them in their whole extent, that is, when the assertion covers every individual in the class.
+
+[31766] In E, the Universal Negative, both terms are distributed: "No S is P" wholly excludes the two classes one from the other, imports that not one individual of either is in the other.
+
+[31948] In A, S is distributed, but not P. S is wholly in P, but nothing is said about the extent of P beyond S.
+
+[32054] In O, S is undistributed, P is distributed. A part of S is declared to be wholly excluded from P.
+
+[32153] In I, neither S nor P is distributed.
+
+[32192] It will be seen that the Predicate term of a Negative proposition is always distributed, of an Affirmative, always undistributed.
+
+[32323] A little indistinctness in the signification of P crept into mediaeval text-books, and has tended to confuse modern disputation about the import of Predication. Unless P is a class name, the ordinary doctrine of distribution is nonsense; and Euler's diagrams are meaningless. Yet many writers who adopt both follow mediaeval usage in treating P as the equivalent of an adjective, and consequently "is" as identical with the verb of incomplete predication in common speech.
+
+[32797] It should be recognised that these syllogistic forms are purely artificial, invented for a purpose, namely, the simplification of syllogising. Aristotle indicated the precise usage on which his syllogism is based (*Prior Analytics*, i. 1 and 4). His form for All S is P, is S is wholly in P; for No S is P, S is wholly not in P. His copula is not "is," but "is in," and it is a pity that this usage was not kept. "All S is in P" would have saved much confusion. But, doubtless for the sake of simplicity, the besetting sin of tutorial handbooks, All S is P crept in instead, illustrated by such examples as "All men are mortal".
+
+[33427] Thus the "is" of the syllogistic form became confused with the "is" of common speech, and the syllogistic view of predication as being equivalent to inclusion in, or exclusion from a class, was misunderstood. The true Aristotelian doctrine is not that predication consists in referring subjects to classes, but only that for certain logical purposes it may be so regarded. The syllogistic forms are artificial forms. They were not originally intended to represent the actual processes of thought expressed in common speech. To argue that when I say "All crows are black," I do not form a class of black things, and contemplate crows within it as one circle is within another, is to contradict no intelligent logical doctrine.
+
+[34154] The root of the confusion lies in quoting sentences from common speech as examples of the logical forms, forgetting that those forms are purely artificial. "Omnis homo est mortalis," "All men are mortal," is not an example formally of All S is P. P is a symbol for a substantive word or combination of words, and mortal is an adjective. Strictly speaking, there is no formal equivalent in common speech, that is, in the forms of ordinary use--no strict grammatical formal equivalent--for the syllogistic propositional symbols. We can make an equivalent, but it is not a form that men would use in ordinary intercourse. "All man is in mortal being" would be a strict equivalent, but it is not English grammar.
+
+[34864] Instead of disputing confusedly whether All S is P should be interpreted in extension or in comprehension, it would be better to recognise the original and traditional use of the symbols S and P as class names, and employ other symbols for the expression in comprehension or connotation. Thus, let *s* and *p* stand for the connotation. Then the equivalent for All S is P would be All S has *p*, or *p* always accompanies *s*, or *p* belongs to all S.
+
+[35317] It may be said that if predication is treated in this way, Logic is simplified to the extent of childishness. And indeed, the manipulation of the bare forms with the help of diagrams and mnemonics is a very humble exercise. The real discipline of Syllogistic Logic lies in the reduction of common speech to these forms.
+
+[35638] This exercise is valuable because it promotes clear ideas about the use of general names in predication, their ground in thought and reality, and the liabilities to error that lurk in this fundamental instrument of speech.
+
+[35862] II.--THE PRACTICE OF SYLLOGISTIC ANALYSIS.
+
+[35906] The basis of the analysis is the use of general names in predication. To say that in predication a subject is referred to a class, is only another way of saying that in every categorical sentence the predicate is a general name express or implied: that it is by means of general names that we convey our thoughts about things to others.
+
+[36244] "Milton is a great poet." "Quoth Hudibras, *I smell a rat*." _Great poet_ is a general name: it means certain qualities, and applies to anybody possessing them. *Quoth* implies a general name, a name for persons *speaking*, connoting or meaning a certain act and applicable to anybody in the performance of it. *Quoth* expresses also past time: thus it implies another general name, a name for persons _in past time_, connoting a quality which differentiates a species in the genus persons speaking, and making the predicate term "persons speaking in past time". Thus the proposition *Quoth Hudibras*, analysed into the syllogistic form S is in P, becomes S (Hudibras) is in P (persons speaking in past time). The Predicate term P is a class constituted on those properties. *Smell a rat* also implies a general name, meaning an act or state predicable of many individuals.
+
+[37119] Even if we add the grammatical object of *Quoth* to the analysis, the Predicate term is still a general name. Hudibras is only one of the persons speaking in past time who have spoken of themselves as being in a certain mood of suspicion.
+
+[37359] The learner may well ask what is the use of twisting plain speech into these uncouth forms. The use is certainly not obvious. The analysis may be directly useful, as Aristotle claimed for it, when we wish to ascertain exactly whether one proposition contradicts another, or forms with another or others a valid link in an argument. This is to admit that it is only in perplexing cases that the analysis is of direct use. The indirect use is to familiarise us with what the forms of common speech imply, and thus strengthen the intellect for interpreting the condensed and elliptical expression in which common speech abounds.
+
+[37986] There are certain technical names applied to the components of many-worded general names, CATEGOREMATIC and SYNCATEGOREMATIC, SUBJECT and ATTRIBUTIVE. The distinctions are really grammatical rather than logical, and of little practical value.
+
+[38230] A word that can stand by itself as a term is said to be Categorematic. *Man*, *poet*, or any other common noun.
+
+[38343] A word that can only form part of a term is Syncategorematic. Under this definition come all adjectives and adverbs.
+
+[38461] The student's ingenuity may be exercised in applying the distinction to the various parts of speech. A verb may be said to be *Hypercategorematic*, implying, as it does, not only a term, but also a copula.
+
+[38668] A nice point is whether the Adjective is categorematic or syncategorematic. The question depends on the definition of "term" in Logic. In common speech an adjective may stand by itself as a predicate, and so might be said to be Categorematic. "This heart is merry." But if a term is a class, or the name of a class, it is not Categorematic in the above definition. It can only help to specify a class when attached to the name of a higher genus.
+
+[39115] Mr. Fowler's words SUBJECT and ATTRIBUTIVE express practically the same distinction, except that Attributive is of narrower extent than syncategorematic. An Attributive is a word that connotes an attribute or property, as *hot*, *valorous*, and is always grammatically an adjective.
+
+[39399] The EXPRESSION OF QUANTITY, that is, of Universality or non-universality, is all-important in syllogistic formulae. In them universality is expressed by *All* or *None*. In ordinary speech universality is expressed in various forms, concrete and abstract, plain and figurative, without the use of "all" or "none".
+
+[39714] Uneasy lies the head that wears a crown. He can't be wrong whose life is in the right. What cat's averse to fish? Can the leopard change his spots? The longest road has an end. Suspicion ever haunts the guilty mind. Irresolution is always a sign of weakness. Treason never prospers.
+
+[39998] A proposition in which the quantity is not expressed is called by Aristotle INDEFINITE ([Greek: adioristos]). For "indefinite" Hamilton suggests PREINDESIGNATE, undesignated, that is, before being received from common speech for the syllogistic mill. A proposition is PREDESIGNATE when the quantity is definitely indicated. All the above propositions are "Predesignate" universals, and reducible to the form All S is P, or No S is P.
+
+[40433] The following propositions are no less definitely particular, reducible to the form I or O. In them as in the preceding quantity is formally expressed, though the forms used are not the artificial syllogistic forms:--
+
+[40652] Afflictions are often salutary. Not every advice is a safe one. All that glitters is not gold. Rivers generally run into the sea.
+
+[40783] Often, however, it is really uncertain from the form of common speech whether it is intended to express a universal or a particular. The quantity is not formally expressed. This is especially the case with proverbs and loose floating sayings of a general tendency. For example:--
+
+[41064] Haste makes waste. Knowledge is power. Light come, light go. Left-handed men are awkward antagonists. Veteran soldiers are the steadiest in fight.
+
+[41212] Such sayings are in actual speech for the most part delivered as universals. It is a useful exercise of the Socratic kind to decide whether they are really so. This can only be determined by a survey of facts. The best method of conducting such a survey is probably (1) to pick out the concrete subject, "hasty actions," "men possessed of knowledge," "things lightly acquired"; (2) to fix the attribute or attributes predicated; (3) to run over the individuals of the subject class and settle whether the attribute is as a matter of fact meant to be predicated of each and every one.
+
+[41797] This is the operation of INDUCTION. If one individual can be found of whom the attribute is not meant to be predicated, the proposition is not intended as Universal.
+
+[41964] Mark the difference between settling what is intended and settling what is true. The conditions of truth and the errors incident to the attempt to determine it, are the business of the Logic of Rational Belief, commonly entitled Inductive Logic. The kind of "induction" here contemplated has for its aim merely to determine the quantity of a proposition in common acceptation, which can be done by considering in what cases the proposition would generally be alleged. This corresponds nearly as we shall see to Aristotelian Induction, the acceptance of a universal statement when no instance to the contrary is alleged.
+
+[42585] It is to be observed that for this operation we do not practically use the syllogistic form All S is P. We do not raise the question Is All S, P? That is, we do not constitute in thought a class P: the class in our minds is S, and what we ask is whether an attribute predicated of this class is truly predicated of every individual of it.
+
+[42925] Suppose we indicate by *p* the attribute, knot of attributes, or concept on which the class P is constituted, then All S is P is equivalent to "All S has *p*": and Has All S *p*? is the form of a question that we have in our minds when we make an inductive survey on the above method. I point this out to emphasise the fact that there is no prerogative in the form All S is P except for syllogistic purposes.
+
+[43335] This inductive survey may be made a useful COLLATERAL DISCIPLINE. The bare forms of Syllogistic are a useless item of knowledge unless they are applied to concrete thought. And determining the quantity of a common aphorism or saw, the limits within which it is meant to hold good, is a valuable discipline in exactness of understanding. In trying to penetrate to the inner intention of a loose general maxim, we discover that what it is really intended to assert is a general connexion of attributes, and a survey of concrete cases leads to a more exact apprehension of those attributes. Thus in considering whether *Knowledge is power* is meant to be asserted of all knowledge, we encounter along with such examples as the sailor's knowledge that wetting a rope shortens it, which enabled some masons to raise a stone to its desired position, or the knowledge of French roads possessed by the German invaders,--along with such examples as these we encounter cases where a knowledge of difficulties without a knowledge of the means of overcoming them is paralysing to action. Samuel Daniel says:--
+
+[44434] Where timid knowledge stands considering Audacious ignorance has done the deed.
+
+[44515] Studying numerous cases where "Knowledge is power" is alleged or denied, we find that what is meant is that a knowledge of the right means of doing anything is power--in short, that the predicate is not made of all knowledge, but only of a species of knowledge.
+
+[44778] Take, again, *Custom blunts sensibility*. Putting this in the concrete, and inquiring what predicate is made about "men accustomed to anything" (S), we have no difficulty in finding examples where such men are said to become indifferent to it. We find such illustrations as Lovelace's famous "Paradox":--
+
+[45084] Through foul we follow fair For had the world one face And earth been bright as air We had known neither place. Indians smell not their nest The Swiss and Finn taste best The spices of the East.
+
+[45280] So men accustomed to riches are not acutely sensible of their advantages: dwellers in noisy streets cease to be distracted by the din: the watchmaker ceases to hear the multitudinous ticking in his shop: the neighbours of chemical works are not annoyed by the smells like the casual passenger. But we find also that wine-tasters acquire by practice an unusual delicacy of sense; that the eyes once accustomed to a dim light begin to distinguish objects that were at first indistinguishable; and so on. What meanings of "custom" and of "sensibility" will reconcile these apparently conflicting examples? What are the exact attributes signified by the names? We should probably find that by sensibility is meant emotional sensibility as distinguished from intellectual discrimination, and that by custom is meant familiarity with impressions whose variations are not attended to, or subjection to one unvarying impression.
+
+[46202] To verify the meaning of abstract proverbs in this way is to travel over the road by which the Greek dialecticians were led to feel the importance of definition. Of this more will be said presently. If it is contended that such excursions are beyond the bounds of Formal Logic, the answer is that the exercise is a useful one and that it starts naturally and conveniently from the formulae of Logic. It is the practice and discipline that historically preceded the Aristotelian Logic, and in the absence of which the Aristotelian formulae would have a narrowing and cramping effect.
+
+[46786] CAN ALL PROPOSITIONS BE REDUCED TO THE SYLLOGISTIC FORM? Probably: but this is a purely scientific inquiry, collateral to Practical Logic. The concern of Practical Logic is chiefly with forms of proposition that favour inaccuracy or inexactness of thought. When there is no room for ambiguity or other error, there is no virtue in artificial syllogistic form. The attempt so to reduce any and every proposition may lead, however, to the study of what Mr. Bosanquet happily calls the "Morphology" of Judgment, Judgment being the technical name for the mental act that accompanies the utterance of a proposition. Even in such sentences as "How hot it is!" or "It rains," the rudiment of subject and predicate may be detected. When a man says "How hot it is," he conveys the meaning, though there is no definitely formed subject in his mind, that the outer world at the moment of his speaking has a certain quality or attribute. So with "It rains". The study of such examples in their context, however, reveals the fact that the same form of Common speech may cover different subjects and predicates in different connexions. Thus in the argument:--
+
+[47933] "Whatever is, is best. It rains!"--
+
+[47970] the Subject is *Rain* and the Predicate *is now*, "is at the present time," "is in the class of present events".
+
+[48084] III.--SOME TECHNICAL DIFFICULTIES.
+
+[48120] *The formula for* EXCLUSIVE PROPOSITIONS. "None but the brave deserve the fair": "No admittance except on business": "Only Protestants can sit on the throne of England".
+
+[48291] These propositions exemplify different ways in common speech of naming a subject *exclusively*, the predication being made of all outside a certain term. "None that are not brave, etc.;" "none that are not on business, etc.;" "none that are not Protestants, etc.". No not-S is P. It is only about all outside the given term that the universal assertion is made: we say nothing universally about the individuals within the term: we do not say that all Protestants are eligible, nor that all persons on business are admitted, nor that every one of the brave deserves the fair. All that we say is that the possession of the attribute named is an indispensable condition: a person may possess the attribute, and yet on other grounds may not be entitled to the predicate.
+
+[49059] The justification for taking special note of this form in Logic is that we are apt by inadvertence to make an inclusive inference from it. Let it be said that None but those who work hard can reasonably expect to pass, and we are apt to take this as meaning that all who work hard may reasonably expect to pass. But what is denied of every Not-S is not necessarily affirmed of every S.
+
+[49446] *The expression of* TENSE or TIME *in the Syllogistic Forms*. Seeing that the Copula in S is P or S is in P does not express time, but only a certain relation between S and P, the question arises Where are we to put time in the analytic formula? "Wheat is dear;" "All had fled;" time is expressed in these propositions, and our formula should render the whole content of what is given. Are we to include it in the Predicate term or in the Subject term? If it must not be left out altogether, and we cannot put it with the copula, we have a choice between the two terms.
+
+[50017] It is a purely scholastic question. The common technical treatment is to view the tense as part of the predicate. "All had fled," All S is P, *i.e.*, the whole subject is included in a class constituted on the attributes of flight at a given time. It may be that the Predicate is solely a predicate of time. "The Board met yesterday at noon." S is P, *i.e.*, the meeting of the Board is one of the events characterised by having happened at a certain time, agreeing with other events in that respect.
+
+[50519] But in some cases the time is more properly regarded as part of the subject. *E.g.*, "Wheat is dear". S does not here stand for wheat collectively, but for the wheat now in the market, the wheat of the present time: it is concerning this that the attribute of dearness is predicated; it is this that is in the class of dear things.
+
+[50852] *The expression of* MODALITY *in the Syllogistic Forms*. Propositions in which the predicate is qualified by an expression of necessity, contingency, possibility or impossibility [*i.e.*, in English by *must*, *may*, *can*, or *cannot*], were called in Mediaeval Logic *Modal* Propositions. "Two and two *must* make four." "Grubs *may* become butterflies." "Z *can* paint." "Y *cannot* fly."
+
+[51245] There are two recognised ways of reducing such propositions to the form S is P. One is to distinguish between the *Dictum* and the *Mode*, the proposition and the qualification of its certainty, and to treat the *Dictum* as the Subject and the *Mode* as the Predicate. Thus: "That two and two make four is necessary"; "That Y can fly is impossible".
+
+[51596] The other way is to treat the Mode as part of the predicate. The propriety of this is not obvious in the case of Necessary propositions, but it is unobjectionable in the case of the other three modes. Thus: "Grubs are things that have the potentiality of becoming butterflies"; "Z has the faculty of painting"; "Y has not the faculty of flying".
+
+[51943] The chief risk of error is in determining the quantity of the subject about which the Contingent or Possible predicate is made. When it is said that "Victories may be gained by accident," is the predicate made concerning All victories or Some only? Here we are apt to confuse the meaning of the contingent assertion with the matter of fact on which in common belief it rests. It is true only that some victories have been gained by accident, and it is on this ground that we assert in the absence of certain knowledge concerning any victory that it may have been so gained. The latter is the effect of the contingent assertion: it is made about any victory in the absence of certain knowledge, that is to say, formally about all.
+
+[52674] The history of Modals in Logic is a good illustration of intricate confusion arising from disregard of a clear traditional definition. The treatment of them by Aristotle was simple, and had direct reference to tricks of disputation practised in his time. He specified four "modes," the four that descended to mediaeval logic, and he concerned himself chiefly with the import of contradicting these modals. What is the true contradictory of such propositions as, "It is possible to be" ([Greek: dynaton einai]), "It admits of being" ([Greek: endechetai einai]), "It must be" ([Greek: anankaion einai]), "It is impossible to be" ([Greek: adynaton einai])? What is implied in saying "No" to such propositions put interrogatively? "Is it possible for Socrates to fly?" "No." Does this mean that it is not possible for Socrates to fly, or that it is possible for Socrates not to fly?
+
+[53554] A disputant who had trapped a respondent into admitting that it is possible for Socrates not to fly, might have pushed the concession farther in some such way as this: "Is it possible for Socrates not to walk?" "Certainly." "Is it possible for him to walk?" "Yes." "When you say that it is possible for a man to do anything do you not believe that it is possible for him to do it?" "Yes." "But you have admitted that it is possible for Socrates not to fly?"
+
+[54013] It was in view of such perplexities as these that Aristotle set forth the true contradictories of his four Modals. We may laugh at such quibbles now and wonder that a grave logician should have thought them worth guarding against. But historically this is the origin of the Modals of Formal Logic, and to divert the names of them to signify other distinctions than those between modes of qualifying the certainty of a statement is to introduce confusion.
+
+[54469] Thus we find "Alexander was a great general," given as an example of a Contingent Modal, on the ground that though as a matter of fact Alexander was so he might have been otherwise. It was not *necessary* that Alexander should be a great general: therefore the proposition is *contingent*. Now the distinction between Necessary truth and Contingent truth may be important philosophically: but it is merely confusing to call the character of propositions as one or the other by the name of Modality. The original Modality is a mode of expression: to apply the name to this character is to shift its meaning.
+
+[55077] A more simple and obviously unwarrantable departure from tradition is to extend the name Modality to any grammatical qualification of a single verb in common speech. On this understanding "Alexander conquered Darius" is given by Hamilton as a *Pure* proposition, and "Alexander conquered Darius honourably" as a *Modal*. This is a merely grammatical distinction, a distinction in the mode of composing the predicate term in common speech. In logical tradition Modality is a mode of qualifying the certainty of an affirmation. "The conquest of Darius by Alexander was honourable," or "Alexander in conquering Darius was an honourable conqueror," is the syllogistic form of the proposition: it is simply assertory, not qualified in any "mode".
+
+[55820] There is a similar misunderstanding in Mr. Shedden's treatment of "generally" as constituting a Modal in such sentences, as "Rivers *generally* flow into the sea". He argues that as *generally* is not part either of the Subject term or of the Predicate term, it must belong to the Copula, and is therefore a *modal* qualification of the whole assertion. He overlooked the fact that the word "generally" is an expression of Quantity: it determines the quantity of the Subject term.
+
+[56302] Finally it is sometimes held (*e.g.*, by Mr. Venn) that the question of Modality belongs properly to Scientific or Inductive Logic, and is out of place in Formal Logic. This is so far accurate that it is for Inductive Logic to expound the conditions of various degrees of certainty. The consideration of Modality is pertinent to Formal Logic only in so far as concerns special perplexities in the expression of it. The treatment of it by Logicians has been rendered intricate by torturing the old tradition to suit different conceptions of the end and aim of Logic.

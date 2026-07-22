@@ -1,0 +1,121 @@
+WORK: Rhetoric  (slug: aristotle-rhetoric-6b9325)
+
+CHAPTER: 01
+
+
+
+[110569] And in relation to persons, there is a twofold division of law; for what one ought to do or ought not to do is concerned with the community generally, or one of its members.
+
+[110744] Therefore there are two kinds of just and unjust acts, since they can be committed against a definite individual or against the community; he who commits adultery or an assault is guilty of wrong against a definite individual, he who refuses to serve in the army of wrong against the State.
+
+[111036] All kinds of wrong acts having been thus distinguished, some of which affect the State, others one or several individuals, let us repeat the definition of being wronged, and then go on to the rest.
+
+[111235] Being wronged is to suffer injustice at the hands of one who voluntarily inflicts it, for it has been established that injustice is a voluntary act.
+
+[111385] And since the man who suffers injustice necessarily sustains injury and that against his will, it is evident from what has been said in what the injuries consist; for things good and bad have already been distinguished in themselves, and it has been said that voluntary acts are all such as are committed with knowledge of the case.
+
+[111719] Hence it necessarily follows that all accusations concern the State or the individual, the accused having acted either ignorantly and against his will, or voluntarily and with knowledge, and in the latter case with malice aforethought or from passion.
+
+[111972] We will speak of anger when we come to treat of the passions, and we have already stated in what circumstances and with what dispositions men act with deliberate purpose.
+
+[112144] But since a man, while admitting the fact, often denies the description of the charge or the point on which it turns—for instance, admits that he took something, but did not steal it; that he was the first to strike, but committed no outrage; that he had relations, but did not commit adultery, with a woman; or that he stole something but was not guilty of sacrilege, since the object in question was not consecrated; or that he trespassed, but not on public land; or that he held converse with the enemy, but was not guilty of treason—for this reason it will be necessary that a definition should be given of theft, outrage, or adultery, in order that, if we desire to prove that an offence has or has not been committed, we may be able to put the case in a true light.
+
+[112917] In all such instances the question at issue is to know whether the supposed offender is a wrongdoer and a worthless person, or not; for vice and wrongdoing consist in the moral purpose, and such terms as outrage and theft further indicate purpose; for if a man has struck, it does not in all cases follow that he has committed an outrage, but only if he has struck with a certain object, for instance, to bring disrepute upon the other or to please himself. Again, if a man has taken something by stealth, it is by no means certain that he has committed theft, but only if he has taken it to injure another or to get something for himself. It is the same in all other cases as in these.
+
+[113605] We have said that there are two kinds of just and unjust actions (for some are written, but others are unwritten), and have spoken of those concerning which the laws are explicit; of those that are unwritten there are two kinds.
+
+[113835] One kind arises from an excess of virtue or vice, which is followed by praise or blame, honor or dishonor, and rewards; for instance, to be grateful to a benefactor, to render good for good, to help one's friends, and the like; the other kind contains what is omitted in the special written law.
+
+[114132] For that which is equitable seems to be just, and equity is justice that goes beyond the written law. These omissions are sometimes involuntary, sometimes voluntary, on the part of the legislators; involuntary when it may have escaped their notice, voluntary when, being unable to define for all cases, they are obliged to make a universal statement, which is not applicable to all, but only to most, cases; and whenever it is difficult to give a definition owing to the infinite number of cases, as, for instance, the size and kind of an iron instrument used in wounding; for life would not be long enough to reckon all the possibilities.
+
+[114773] If then no exact definition is possible, but legislation is necessary, one must have recourse to general terms; so that, if a man wearing a ring lifts up his hand to strike or actually strikes, according to the written law he is guilty of wrongdoing, but in reality he is not; and this is a case for equity.
+
+[115082] If then our definition of equity is correct, it is easy to see what things and persons are equitable or not.
+
+[115192] Actions which should be leniently treated are cases for equity; errors, wrong acts, and misfortunes, must not be thought deserving of the same penalty. Misfortunes are all such things as are unexpected and not vicious; errors are not unexpected, but are not vicious; wrong acts are such as might be expected and vicious, for acts committed through desire arise from vice.
+
+[115565] And it is equitable to pardon human weaknesses, and to look, not to the law but to the legislator; not to the letter of the law but to the intention of the legislator; not to the action itself, but to the moral purpose;
+
+[115786] not to the part, but to the whole; not to what a man is now, but to what he has been, always or generally; to remember good rather than ill treatment, and benefits received rather than those conferred; to bear injury with patience; to be willing to appeal to the judgement of reason rather than to violence;
+
+[116095] to prefer arbitration to the law court, for the arbitrator keeps equity in view, whereas the dicast looks only to the law, and the reason why arbitrators were appointed was that equity might prevail. Let this manner of defining equity suffice.
+
+[116340] Wrong acts are greater in proportion to the injustice from which they spring. For this reason the most trifling are sometimes the greatest, as in the charge brought by Callistratus against Melanopus that he had fraudulently kept back three consecrated half-obols from the temple-builders; whereas, in the case of just actions, it is quite the contrary. The reason is that the greater potentially inheres in the less; for he who has stolen three consecrated half-obols will commit any wrong whatever. Wrong acts are judged greater sometimes in this way, sometimes by the extent of the injury done.
+
+[116938] A wrong act is greater when there is no adequate punishment for it, but all are insufficient; when there is no remedy, because it is difficult if not impossible to repair it; and when the person injured cannot obtain legal satisfaction, since it is irremediable; for justice and punishment are kinds of remedies.
+
+[117252] And if the sufferer, having been wronged, has inflicted some terrible injury upon himself, the guilty person deserves greater punishment; wherefore Sophocles, when pleading on behalf of Euctemon, who had committed suicide after the outrage he had suffered, declared that he would not assess the punishment at less than the victim had assessed it for himself.
+
+[117612] A wrong act is also greater when it is unprecedented, or the first of its kind, or when committed with the aid of few accomplices; and when it has been frequently committed; or when because of it new prohibitions and penalties have been sought and found: thus, at Argos the citizen owing to whom a new law has been passed, is punished, as well as those on whose account a new prison had to be built.
+
+[118013] The crime is greater, the more brutal it is; or when it has been for a long time premeditated; when the recital of it inspires terror rather than pity. Rhetorical tricks of the following kind may be used:—the statement that the accused person has swept away or violated several principles of justice, for example, oaths, pledges of friendship, plighted word, the sanctity of marriage; for this amounts to heaping crime upon crime.
+
+[118445] Wrong acts are greater when committed in the very place where wrongdoers themselves are sentenced, as is done by false witnesses; for where would a man not commit wrong, if he does so in a court of justice? They are also greater when accompanied by the greatest disgrace; when committed against one who has been the guilty person's benefactor, for in that case, the wrongdoer is guilty of wrong twice over, in that he not only does wrong, but does not return good for good.
+
+[118920] So too, again, when a man offends against the unwritten laws of right, for there is greater merit in doing right without being compelled; now the written laws involve compulsion, the unwritten do not. Looked at in another way, wrongdoing is greater, if it violates the written laws; for a man who commits wrongs that alarm him and involve punishment, will be ready to commit wrong for which he will not be punished. Let this suffice for the treatment of the greater or less degree of wrongdoing.
+
+[119417] Following on what we have just spoken of, we have now briefly to run over what are called the inartificial proofs, for these properly belong to forensic oratory.
+
+[119580] These proofs are five in number: laws, witnesses, contracts, torture, oaths.
+
+[119658] Let us first then speak of the laws, and state what use should be made of them when exhorting or dissuading, accusing or defending.
+
+[119791] For it is evident that, if the written law is counter to our case, we must have recourse to the general law and equity, as more in accordance with justice;
+
+[119948] and we must argue that, when the dicast takes an oath to decide to the best of his judgement, he means that he will not abide rigorously by the written laws;
+
+[120107] that equity is ever constant and never changes, even as the general law, which is based on nature, whereas the written laws often vary (this is why Antigone in Sophocles justifies herself for having buried Polynices contrary to the law of Creon, but not contrary to the unwritten law: For this law is not of now or yesterday, but is eternal... this I was not likely [to infringe through fear of the pride] of any man);
+
+[120527] and further, that justice is real and expedient, but not that which only appears just; nor the written law either, because it does not do the work of the law; that the judge is like an assayer of silver, whose duty is to distinguish spurious from genuine justice;
+
+[120792] that it is the part of a better man to make use of and abide by the unwritten rather than the written law.
+
+[120900] Again, it is necessary to see whether the law is contradictory to another approved law or to itself; for instance, one law enacts that all contracts should be binding, while another forbids making contracts contrary to the law.
+
+[121129] If the meaning of the law is equivocal, we must turn it about, and see in which way it is to be interpreted so as to suit the application of justice or expediency, and have recourse to that.
+
+[121321] If the conditions which led to the enactment of the law are now obsolete, while the law itself remains, one must endeavor to make this clear and to combat the law by this argument.
+
+[121503] But if the written law favors our case, we must say that the oath of the dicast to decide to the best of his judgement does not justify him in deciding contrary to the law, but is only intended to relieve him from the charge of perjury, if he is ignorant of the meaning of the law; that no one chooses that which is good absolutely, but that which is good for himself; that there is no difference between not using the laws and their not being enacted; that in the other arts there is no advantage in trying to be wiser than the physician, for an error on his part does not do so much harm as the habit of disobeying the authority; that to seek to be wiser than the laws is just what is forbidden in the most approved laws. Thus much for the laws.
+
+[122252] Witnesses are of two kinds, ancient and recent; of the latter some share the risk of the trial, others are outside it. By ancient I mean the poets and men of repute whose judgements are known to all; for instance, the Athenians, in the matter of Salamis, appealed to Homer as a witness, and recently the inhabitants of Tenedos to Periander of Corinth against the Sigeans. Cleophon also made use of the elegiacs of Solon against Critias, to prove that his family had long been notorious for licentiousness, otherwise Solon would never have written: Bid me the fair-haired Critias listen to his father.
+
+[122854] One should appeal to such witnesses for the past, but also to interpreters of oracles for the future; thus, for instance, Themistocles interpreted the wooden wall to mean that they must fight at sea. Further, proverbs, as stated, are evidence; for instance, if one man advises another not to make a friend of an old man, he can appeal to the proverb, Never do good to an old man. And if he advises another to kill the children, after having killed the fathers, he can say, Foolish is he who, having killed the father, suffers the children to live.
+
+[123403] By recent witnesses I mean all well-known persons who have given a decision on any point, for their decisions are useful to those who are arguing about similar cases. Thus for instance, Eubulus, when attacking Chares in the law courts, made use of what Plato said against Archibius, namely, that the open confession of wickedness had increased in the city.
+
+[123761] And those who share the risk of the trial, if they are thought to be perjurers. Such witnesses only serve to establish whether an act has taken place or not, whether it is or is not the case; but if it is a question of the quality of the act, for instance, whether it is just or unjust, expedient or inexpedient, they are not competent witnesses; but witnesses from a distance are very trustworthy even in regard to this. But ancient witnesses are the most trustworthy of all, for they cannot be corrupted. In regard to the confirmation of evidence, when a man has no witnesses, he can say that the decision should be given in accordance with probabilities, and that this is the meaning of the oath according to the best of one's judgement; that probabilities cannot be bribed to deceive, and that they cannot be convicted of bearing false witness. But if a man has witnesses and his adversary has none, he can say that probabilities incur no responsibility, and that there would have been no need of evidence, if an investigation according to the arguments were sufficient.
+
+[124837] Evidence partly concerns ourselves, partly our adversary, as to the fact itself or moral character; so that it is evident that one never need lack useful evidence. For, if we have no evidence as to the fact itself, neither in confirmation of our own case nor against our opponent, it will always be possible to obtain some evidence as to character that will establish either our own respectability or the worthlessness of our opponent.
+
+[125274] As for all the other questions relative to a witness, whether he is a friend, an enemy, or neutral, of good or bad or middling reputation, and for all other differences of this kind, we must have recourse to the same topics as those from which we derive our enthymemes.
+
+[125545] As for contracts, argument may be used to the extent of magnifying or minimizing their importance, of proving that they do or do not deserve credit. If we have them on our side, we must try to prove them worthy of credit and authoritative; but if they are on the side of our opponent, we must do the opposite.
+
+[125856] In view of rendering them worthy or unworthy of credit, the method of procedure is exactly the same as in the case of witnesses; for contracts are trustworthy according to the character of their signatories or depositaries. When the existence of the contract is admitted, if it is in our favor, we must strengthen it by asserting that the contract is a law, special and partial; and it is not the contracts that make the law authoritative, but it is the laws that give force to legal contracts. And in a general sense the law itself is a kind of contract, so that whoever disobeys or subverts a contract, subverts the laws.
+
+[126481] Further, most ordinary and all voluntary transactions are carried out according to contract; so that if you destroy the authority of contracts, the mutual intercourse of men is destroyed. All other arguments suitable to the occasion are easy to see.
+
+[126732] But if the contract is against us and in favor of our opponents, in the first place those arguments are suitable which we should oppose to the law if it were against us; that it would be strange if, while we consider ourselves entitled to refuse to obey ill-made laws, whose authors have erred, we should be obliged to consider ourselves always bound by contracts.
+
+[127098] Or, that the judge is the dispenser of justice; so that it is not the contents of the contract that he has to consider, but what is juster.
+
+[127239] Further, that one cannot alter justice either by fraud or compulsion, for it is based upon nature, whereas contracts may be entered into under both conditions. In addition to this, we must examine whether the contract is contrary to any written law of our own or foreign countries, or to any general law, or to other previous or subsequent contracts. For either the latter are valid and the former not, or the former are right and the latter fraudulent; we may put it in whichever way it seems fit. We must also consider the question of expediency—whether the contract is in any way opposed to the interest of the judges. There are a number of other arguments of the same kind, which are equally easy to discern.
+
+[127953] Torture is a kind of evidence, which appears trustworthy, because a sort of compulsion is attached to it. Nor is it difficult to see what may be said concerning it, and by what arguments, if it is in our favor, we can exaggerate its importance by asserting that it is the only true kind of evidence; but if it is against us and in favor of our opponent, we can destroy its value by telling the truth about all kinds of torture generally; for those under compulsion are as likely to give false evidence as true, some being ready to endure everything rather than tell the truth, while others are equally ready to make false charges against others, in the hope of being sooner released from torture. It is also necessary to be able to quote actual examples of the kind with which the judges are acquainted. It may also be said that evidence given under torture is not true; for many thick-witted and thick-skinned persons, and those who are stout-hearted heroically hold out under sufferings, while the cowardly and cautious, before they see the sufferings before them, are bold enough; wherefore evidence from torture may be considered utterly untrustworthy.
+
+[129111] As to oaths four divisions may be made; for either we tender an oath and accept it, or we do neither, or one without the other, and in the last case we either tender but do not accept, or accept but do not tender. Besides this, one may consider whether the oath has already been taken by us or by the other party.
+
+[129426] If you do not tender the oath to the adversary, it is because men readily perjure themselves, and because, after he has taken the oath, he will refuse to repay the money, while, if he does not take the oath, you think that the dicasts will condemn him; and also because the risk incurred in leaving the decision to the dicasts is preferable, for you have confidence in them, but not in your adversary.
+
+[129829] If you refuse to take the oath yourself, you may argue that the oath is only taken with a view to money; that, if you had been a scoundrel, you would have taken it at once, for it is better to be a scoundrel for something than for nothing; that, if you take it, you will win your case, if not, you will probably lose it; consequently, your refusal to take it is due to moral excellence, not to fear of committing perjury. And the apophthegm of Xenophanes is apposite— that it is unfair for an impious man to challenge a pious one, for it is the same as a strong man challenging a weak one to hit or be hit.
+
+[130437] If you accept the oath, you may say that you have confidence in yourself, but not in your opponent, and, reversing the apophthegm of Xenophanes, that the only fair way is that the impious man should tender the oath and the pious man take it; and that it would be monstrous to refuse to take the oath yourself, while demanding that the judges should take it before giving their verdict.
+
+[130824] But if you tender the oath, you may say that it is an act of piety to be willing to leave the matter to the gods; that your opponent has no need to look for other judges, for you allow him to make the decision himself;
+
+[131044] and that it would be ridiculous that he should be unwilling to take an oath in cases where he demands that the dicasts should take one.
+
+[131181] Now, since we have shown how we must deal with each case individually, it is clear how we must deal with them when taken two and two; for instance, if we wish to take the oath but not to tender it, to tender it but not to take it, to accept and tender it, or to do neither the one nor the other. For such cases, and similarly the arguments, must be a combination of those already mentioned. And if we have already taken an oath which contradicts the present one, we may argue that it is not perjury; for whereas wrongdoing is voluntary, and perjury is wrongdoing, what is done in error or under compulsion is involuntary.
+
+[131804] Here we must draw the conclusion that perjury consists in the intention, not in what is said. But if the opponent has taken such an oath, we may say that one who does not abide by what be has sworn subverts everything, for this is the reason why the dicasts take an oath before applying the laws; and [we may make this appeal]: They demand that you abide by your oath as judges, while they themselves do not abide by theirs. Further, we should employ all means of amplification. Let this suffice for the inartificial proofs.

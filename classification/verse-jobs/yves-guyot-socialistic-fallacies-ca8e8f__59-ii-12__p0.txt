@@ -1,0 +1,75 @@
+WORK: Socialistic Fallacies  (slug: yves-guyot-socialistic-fallacies-ca8e8f)
+
+CHAPTER: 59-ii-12
+
+
+
+[0] The distribution of industries according to the census of 1900, is as follows:—
+
+[81] Leaving out of account classes (b), (d) and (e) the figures for 1850 to 1900 are:—
+
+[165] But it is obvious that the number of small establishments under the 500 dollar limit and of hand trades is less than it is in fact, and that the difficulty and expenses of including them in the census will cause them to be eliminated, a measure which is formally suggested by Mr. North.
+
+[453] In his analysis of the census, Mr. North says: “It is obviously impossible to determine from the census dates how the actual number of establishments engaged in productive industry in the United States has been affected by the consolidation of industries and the concentration of employment in large mills and factories.” Undoubtedly small establishments are closed; one sees deserted mills on the river banks. Changes in the place of production and of destination involve disturbances to the advantage or disadvantage of particular localities. New establishments spring up in the same industry every day. Many employers, instead of renewing their old establishments, put up entirely new ones. Nevertheless the number of establishments, in fact, increases in every one of the States of the Union.
+
+[1251] Table XI. gives us the number of existing establishments and the total number of new ones opened in 1900:—
+
+[1359] Mr. North, in putting forward this table, further states that some of the agents of the census did not exercise sufficient care in the collection of their information. Nevertheless, we gather that the new enterprises opened in 1900 represent 8 or 9 per cent. of the total existing enterprises, and that there is an increase without exception in every industry as well as an increase in every State of the Union.
+
+[1772] Table XII. gives us the number of establishments and their output, classified according to the nature of their ownership. The 512,254 are distributed as follows:—
+
+[1936] The number of establishments owned by individuals represents 72.8 of the total, i.e., nearly three-fourths; of this number 183,500, or nearly one half, were engaged in hand trades. Their output represents 20.6 per cent. of the total, and the average output of each establishment is $7,176. Firms with two or three partners represent 18.9 per cent. of the total, with an output of 19.7 per cent. These two forms of establishment therefore constitute 91.7 per cent. of the total number, with an output of 40.3 per cent. Co-operative societies may be disregarded, their number as well as their output being insignificant.
+
+[2556] Limited companies, which represent 8 per cent. of the number of establishments, produce 59.5 per cent. of the output.
+
+[2675] The four great industries which are concerned with foodstuffs, textiles, iron and steel, and lumber are primarily represented by limited companies. Nevertheless in the cotton trade 72.8 per cent. of the establishments are owned by individuals or private firms; in the silk trade 27.3 per cent. are owned by individuals and 31.9 by firms, so that only 40.8 per cent. are owned by companies; similarly in the hosiery and lace trade 38.3 per cent. are owned by individuals and 27.4 per cent. by firms.
+
+[3175] In the iron and steel industries, only 4,843 establishments out of 13,896, or 34.9 per cent., are owned by companies; but they produce $1,508,493,000 or 84 per cent. of the total output of $1,793,490,000.
+
+[3381] In the timber trade, 28,470 establishments are owned by individuals, 13,906 by firms, and only 4,675 by companies, the value of the output of the first two classes being 521 million dollars and that of the third 508,383 millions.
+
+[3612] Of the 16,989 establishments in the leather trade, 12,906 are owned by individuals, 2,990 by firms, and 1,091 by companies. The output of the latter is $257,808,000, that of the firms $208,571,000. The census does not state the output of the establishments owned by individuals.
+
+[3892] The paper and printing trades comprise 26,747 establishments, of which 16,332 are owned by individuals, 5,682 by firms and only 4,490 by companies. The output of the first two classes is 233 million dollars out of a total of 606 millions, or 38 per cent.
+
+[4148] The manufacture of wood pulp is almost entirely in the hands of companies; it is otherwise in the case of printing works and periodical publications.
+
+[4299] The liquor trade numbers 7,861 establishments, of which 1,333 are owned by companies, with an output of 305 million dollars, or 81 per cent. of a total of 425 millions.
+
+[4469] The number of establishments in the chemical industries includes 2,206 companies out of a total of 5,444, with an output of 450 million dollars, out of a total of 553 millions.
+
+[4647] In the pottery and glass trades, the small establishments predominate, 8,760 being owned by individuals, 3,890 by firms and only 2,200 by companies, out of a total of 14,800. The output of the companies is $157,336,000, or 53 per cent. of the total output of $293,564,000.
+
+[4921] In the metal trades, other than iron and steel, out of 16,300 establishments there are 10,060 owned by individuals and 4,167 by firms. The census does not state the output of the privately-owned establishments, but the companies produce 578 million dollars out of an estimated total output of 749 millions.
+
+[5229] Of 15,520 establishments dealing with tobacco, 12,800 are owned by individuals, 2,080 by firms, and 358 by companies, producing 128 million dollars, or 45 per cent. of a total of 283 millions.
+
+[5423] Carriage builders and wheelwrights, including builders of railway waggons, number 10,113 establishments, of which 2,283 are companies producing $430,885,000 out of a total of 508 millions. The astonishing thing is not that these 2,283 companies have an output of 84 per cent. of the total, but that there should still be more than 7,000 establishments owned by individuals or by firms. Anyone possessed by the idea of concentration would imagine that there was only one waggon builder, Pullman, in the United States. It is to be observed that there are competitors.
+
+[5990] Shipbuilding comprises 1,116 establishments, of which 151 are companies with an output in 1900 of $55,571,000 out of a total of $74,578,000.
+
+[6132] Of the miscellaneous industries, numbering 29,479 establishments, 4,750 are owned by companies with an output of 641 million dollars out of a total of 1,004 millions.
+
+[6300] The hand trades only number 2,690 establishments owned by companies out of a total of 215,800, with an output of $100,646,000 out of a total of $1,183,615,000, but, as Mr. North explains, a considerable number of these establishments are unknown, so that their output is still more decidedly an unknown quantity.
+
+[6614] Marx' theory of concentration premises a decrease in the number of establishments. Now out of seventeen classes of industry, grouped without refining upon the character of an establishment in 1850 as compared with 1900, we find that there has been a decrease in only five—agricultural implements, boots, tobacco, woollens and worsteds, and, to an inconsiderable degree, cotton. In every other instance there has been a concurrent increase in the number of establishments, and in the output of each, except in the case of worsteds. According to Marx and his followers, all industry is bound to become concentrated in a small number of establishments. The worsted industry presents a phenomenon of a precisely opposite character. The number of establishments increases, but the number of employees per establishment decreases. In 1850 there were only three, each with a capital of 35 per cent. more than the capital of each of the existing establishments, and a staff which is more numerous by 60 per cent.
+
+[7620] Mr. North puts forward a table (p. lxxii.) of sixteen industries. I take the two extreme periods, 1850 and 1900. This is what we find.
+
+[7756] In the twelve other industrial classes we see the extent of the establishments growing larger, while their capital and the number of their employees increases as well as their output, but so far from establishments, which existed in 1850, having monopolised production, they have stimulated competition, since we find a greater number of establishments in 1900 than in 1850. The industries which employ the largest number of workmen per establishment are those which already employed the greatest number in 1850, such as the woollen trade, the metal trade, and the cotton and cloth factories.
+
+[8350] According to Table XXXIV. (p. civ.) the total number of wage-earners is:—
+
+[8425] Dividing this total by 640,000, the number of establishments, we have 8.90 per establishment. Deducting the 127,000 establishments with an output of less than $500, we have 5,705,000/513f000 = 11 workmen and clerks for each establishment.
+
+[8665] While in the eyes of those who only judge by appearances the whole of the industries of the United States are concentrated in a few gigantic establishments, the average number of wage-earners—clerks and workmen—is 11 per establishment, after eliminating the quite small ones and including the trusts.
+
+[8967] The total number of wage-earners—clerks and workmen—is distributed among the different establishments as follows:—
+
+[9083] In the 215,814 hand trades, 68,800 employ no hands; 106,000 employ from 1 to 5; 32,000 employ from 5 to 20; and 7,700 employ more than 20. The latter include the building trade and its allied trades. In the manufacturing industries properly so called, there were 41,700 establishments out of 246,000 whose owners employed no workmen at all.
+
+[9425] Of the 443 establishments employing more than 1,000 wage-earners, the class of textile industries contains 120, of which the one with the greatest number of workmen is a cotton-mill in New Hampshire, employing 7,268.
+
+[9643] The second class of those in which each establishment employs the greatest number of workmen is the metal trades, in which 103 employ more than 1,000. We find one in Ohio with more than 7,400; two in Pennsylvania, which includes Pittsburg, with more than 5,800 and 4,537 respectively; one in Massachusetts with 5,190, and another in Illinois with 5,119.
+
+[9998] If we add to these establishments employing more than 1,000 workmen, the 245 others which are distributed among various classes, we find a total of 468 employing more than 1,000 workmen. There are only a few isolated ones which exceed 7,000.

@@ -1,0 +1,335 @@
+WORK: Metaphysics  (slug: aristotle-metaphysics-2428b9)
+
+CHAPTER: 01
+
+
+
+[0] All men naturally desire knowledge. An indication of this is our esteem for the senses; for apart from their use we esteem them for their own sake, and most of all the sense of sight. Not only with a view to action, but even when no action is contemplated, we prefer sight, generally speaking, to all the other senses.
+
+[320] The reason of this is that of all the senses sight best helps us to know things, and reveals many distinctions.
+
+[433] Now animals are by nature born with the power of sensation, and from this some acquire the faculty of memory, whereas others do not. Accordingly the former are more intelligent and capable of learning than those which cannot remember.
+
+[669] Such as cannot hear sounds (as the bee, and any other similar type of creature) are intelligent, but cannot learn; those only are capable of learning which possess this sense in addition to the faculty of memory.
+
+[883] Thus the other animals live by impressions and memories, and have but a small share of experience; but the human race lives also by art and reasoning.
+
+[1035] It is from memory that men acquire experience, because the numerous memories of the same thing eventually produce the effect of a single experience. Experience seems very similar to science and art, but actually it is through experience that men acquire science and art; for as Polus rightly says, experience produces art, but inexperience chance. Art is produced when from many notions of experience a single universal judgement is formed with regard to like objects.
+
+[1505] To have a judgement that when Callias was suffering from this or that disease this or that benefited him, and similarly with Socrates and various other individuals, is a matter of experience; but to judge that it benefits all persons of a certain type, considered as a class, who suffer from this or that disease (e.g. the phlegmatic or bilious when suffering from burning fever) is a matter of art.
+
+[1906] It would seem that for practical purposes experience is in no way inferior to art; indeed we see men of experience succeeding more than those who have theory without experience.
+
+[2085] The reason of this is a that experience is knowledge of particulars, but art of universals; and actions and the effects produced are all concerned with the particular. For it is not man that the physician cures, except incidentally, but Callias or Socrates or some other person similarly named, who is incidentally a man as well.
+
+[2416] So if a man has theory without experience, and knows the universal, but does not know the particular contained in it, he will often fail in his treatment; for it is the particular that must be treated.
+
+[2619] Nevertheless we consider that knowledge and proficiency belong to art rather than to experience, and we assume that artists are wiser than men of mere experience (which implies that in all cases wisdom depends rather upon knowledge);
+
+[2854] and this is because the former know the cause, whereas the latter do not. For the experienced know the fact, but not the wherefore; but the artists know the wherefore and the cause. For the same reason we consider that the master craftsmen in every profession are more estimable and know more and are wiser than the artisans, because they know the reasons of the things which are done; but we think that the artisans, like certain inanimate objects, do things, but without knowing what they are doing (as, for instance, fire burns);
+
+[3388] only whereas inanimate objects perform all their actions in virtue of a certain natural quality, artisans perform theirs through habit. Thus the master craftsmen are superior in wisdom, not because they can do things, but because they possess a theory and know the causes.
+
+[3662] In general the sign of knowledge or ignorance is the ability to teach, and for this reason we hold that art rather than experience is scientific knowledge; for the artists can teach, but the others cannot.
+
+[3869] Further, we do not consider any of the senses to be Wisdom. They are indeed our chief sources of knowledge about particulars, but they do not tell us the reason for anything, as for example why fire is hot, but only that it is hot.
+
+[4102] It is therefore probable that at first the inventor of any art which went further than the ordinary sensations was admired by his fellow-men, not merely because some of his inventions were useful, but as being a wise and superior person.
+
+[4341] And as more and more arts were discovered, some relating to the necessities and some to the pastimes of life, the inventors of the latter were always considered wiser than those of the former, because their branches of knowledge did not aim at utility.
+
+[4595] Hence when all the discoveries of this kind were fully developed, the sciences which relate neither to pleasure nor yet to the necessities of life were invented, and first in those places where men had leisure. Thus the mathematical sciences originated in the neighborhood of Egypt, because there the priestly class was allowed leisure.
+
+[4933] The difference between art and science and the other kindred mental activities has been stated in the Ethics; the reason for our present discussion is that it is generally assumed that what is called Wisdom is concerned with the primary causes and principles, so that, as has been already stated, the man of experience is held to be wiser than the mere possessors of any power of sensation, the artist than the man of experience, the master craftsman than the artisan; and the speculative sciences to be more learned than the productive. Thus it is clear that Wisdom is knowledge of certain principles and causes.
+
+[5548] Since we are investigating this kind of knowledge, we must consider what these causes and principles are whose knowledge is Wisdom. Perhaps it will be clearer if we take the opinions which we hold about the wise man.
+
+[5766] We consider first, then, that the wise man knows all things, so far as it is possible, without having knowledge of every one of them individually; next, that the wise man is he who can comprehend difficult things, such as are not easy for human comprehension (for sense-perception, being common to all, is easy, and has nothing to do with Wisdom); and further that in every branch of knowledge a man is wiser in proportion as he is more accurately informed and better able to expound the causes.
+
+[6263] Again among the sciences we consider that that science which is desirable in itself and for the sake of knowledge is more nearly Wisdom than that which is desirable for its results, and that the superior is more nearly Wisdom than the subsidiary; for the wise man should give orders, not receive them; nor should he obey others, but the less wise should obey him.
+
+[6628] Such in kind and in number are the opinions which we hold with regard to Wisdom and the wise. Of the qualities there described the knowledge of everything must necessarily belong to him who in the highest degree possesses knowledge of the universal, because he knows in a sense all the particulars which it comprises. These things, viz. the most universal, are perhaps the hardest for man to grasp, because they are furthest removed from the senses.
+
+[7079] Again, the most exact of the sciences are those which are most concerned with the first principles; for those which are based on fewer principles are more exact than those which include additional principles; e.g., arithmetic is more exact than geometry.
+
+[7335] Moreover, the science which investigates causes is more instructive than one which does not, for it is those who tell us the causes of any particular thing who instruct us. Moreover, knowledge and understanding which are desirable for their own sake are most attainable in the knowledge of that which is most knowable. For the man who desires knowledge for its own sake will most desire the most perfect knowledge, and this is the knowledge of the most knowable, and the things which are most knowable are first principles and causes; for it is through these and from these that other things come to be known, and not these through the particulars which fall under them.
+
+[8007] And that science is supreme, and superior to the subsidiary, which knows for what end each action is to be done; i.e. the Good in each particular case, and in general the highest Good in the whole of nature.
+
+[8216] Thus as a result of all the above considerations the term which we are investigating falls under the same science, which must speculate about first principles and causes; for the Good, i.e. the end, is one of the causes.
+
+[8438] That it is not a productive science is clear from a consideration of the first philosophers.
+
+[8532] It is through wonder that men now begin and originally began to philosophize; wondering in the first place at obvious perplexities, and then by gradual progression raising questions about the greater matters too, e.g. about the changes of the moon and of the sun, about the stars and about the origin of the universe.
+
+[8851] Now he who wonders and is perplexed feels that he is ignorant (thus the myth-lover is in a sense a philosopher, since myths are composed of wonders); therefore if it was to escape ignorance that men studied philosophy, it is obvious that they pursued science for the sake of knowledge, and not for any practical utility.
+
+[9173] The actual course of events bears witness to this; for speculation of this kind began with a view to recreation and pastime, at a time when practically all the necessities of life were already supplied. Clearly then it is for no extrinsic advantage that we seek this knowledge; for just as we call a man independent who exists for himself and not for another, so we call this the only independent science, since it alone exists for itself.
+
+[9614] For this reason its acquisition might justly be supposed to be beyond human power, since in many respects human nature is servile; in which case, as Simonides says, God alone can have this privilege, and man should only seek the knowledge which is within his reach.
+
+[9881] Indeed if the poets are right and the Deity is by nature jealous, it is probable that in this case He would be particularly jealous, and all those who excel in knowledge unfortunate. But it is impossible for the Deity to be jealous (indeed, as the proverb says, poets tell many a lie), nor must we suppose that any other form of knowledge is more precious than this; for what is most divine is most precious.
+
+[10291] Now there are two ways only in which it can be divine. A science is divine if it is peculiarly the possession of God, or if it is concerned with divine matters. And this science alone fulfils both these conditions; for (a) all believe that God is one of the causes and a kind of principle, and (b) God is the sole or chief possessor of this sort of knowledge. Accordingly, although all other sciences are more necessary than this, none is more excellent.
+
+[10747] The acquisition of this knowledge, however, must in a sense result in something which is the reverse of the outlook with which we first approached the inquiry. All begin, as we have said, by wondering that things should be as they are, e.g. with regard to marionettes, or the solstices, or the incommensurability of the diagonal of a square; because it seems wonderful to everyone who has not yet perceived the cause that a thing should not be measurable by the smallest unit.
+
+[11225] But we must end with the contrary and (according to the proverb) the better view, as men do even in these cases when they understand them; for a geometrician would wonder at nothing so much as if the diagonal were to become measurable.
+
+[11462] Thus we have stated what is the nature of the science which we are seeking, and what is the object which our search and our whole investigation must attain.
+
+[11620] It is clear that we must obtain knowledge of the primary causes, because it is when we think that we understand its primary cause that we claim to know each particular thing. Now there are four recognized kinds of cause. Of these we hold that one is the essence or essential nature of the thing (since the reason why of a thing is ultimately reducible to its formula, and the ultimate reason why is a cause and principle); another is the matter or substrate; the third is the source of motion; and the fourth is the cause which is opposite to this, namely the purpose or good;
+
+[12198] for this is the end of every generative or motive process. We have investigated these sufficiently in the Physics; however, let us avail ourselves of the evidence of those who have before us approached the investigation of reality and philosophized about Truth. For clearly they too recognize certain principles and causes, and so it will be of some assistance to our present inquiry if we study their teaching; because we shall either discover some other kind of cause, or have more confidence in those which we have just described.
+
+[12733] Most of the earliest philosophers conceived only of material principles as underlying all things. That of which all things consist, from which they first come and into which on their destruction they are ultimately resolved, of which the essence persists although modified by its affections—this, they say, is an element and principle of existing things. Hence they believe that nothing is either generated or destroyed, since this kind of primary entity always persists. Similarly we do not say that Socrates comes into being absolutely when he becomes handsome or cultured, nor that he is destroyed when he loses these qualities; because the substrate, Socrates himself, persists.
+
+[13417] In the same way nothing else is generated or destroyed; for there is some one entity (or more than one) which always persists and from which all other things are generated.
+
+[13591] All are not agreed, however, as to the number and character of these principles. Thales, the founder of this school of philosophy, says the permanent entity is water (which is why he also propounded that the earth floats on water). Presumably he derived this assumption from seeing that the nutriment of everything is moist, and that heat itself is generated from moisture and depends upon it for its existence (and that from which a thing is generated is always its first principle). He derived his assumption, then, from this; and also from the fact that the seeds of everything have a moist nature, whereas water is the first principle of the nature of moist things.
+
+[14262] There are some who think that the men of very ancient times, long before the present era, who first speculated about the gods, also held this same opinion about the primary entity. For they represented Oceanus and Tethys to be the parents of creation, and the oath of the gods to be by water— Styx, as they call it. Now what is most ancient is most revered, and what is most revered is what we swear by.
+
+[14667] Whether this view of the primary entity is really ancient and time-honored may perhaps be considered uncertain; however, it is said that this was Thales’ opinion concerning the first cause. (I say nothing of Hippo, because no one would presume to include him in this company, in view of the paltriness of his intelligence.)
+
+[14992] Anaximenes and Diogenes held that air is prior to water, and is of all corporeal elements most truly the first principle. Hippasus of Metapontum and Heraclitus of Ephesus hold this of fire; and Empedocles —adding earth as a fourth to those already mentioned—takes all four. These, he says, always persist, and are only generated in respect of multitude and paucity, according as they are combined into unity or differentiated out of unity.
+
+[15433] Anaxagoras of Clazomenae—prior to Empedocles in point of age, but posterior in his activities—says that the first principles are infinite in number. For he says that as a general rule all things which are, like fire and water, homoeomerous, are generated and destroyed in this sense only, by combination and differentiation; otherwise they are neither generated nor destroyed, but persist eternally.
+
+[15834] From this account it might be supposed that the only cause is of the kind called material. But as men proceeded in this way, the very circumstances of the case led them on and compelled them to seek further; because if it is really true that all generation and destruction is out of some one entity or even more than one, why does this happen, and what is the cause?
+
+[16202] It is surely not the substrate itself which causes itself to change. I mean, e.g., that neither wood nor bronze is responsible for changing itself; wood does not make a bed, nor bronze a statue, but something else is the cause of the change. Now to investigate this is to investigate the second type of cause: the source of motion, as we should say.
+
+[16553] Those who were the very first to take up this inquiry, and who maintained that the substrate is one thing, had no misgivings on the subject; but some of those who regard it as one thing, being baffled, as it were, by the inquiry, say that that one thing (and indeed the whole physical world) is immovable in respect not only of generation and destruction (this was a primitive belief and was generally admitted) but of all other change. This belief is peculiar to them.
+
+[17024] None of those who maintained that the universe is a unity achieved any conception of this type of cause, except perhaps Parmenides; and him only in so far as he admits, in a sense, not one cause only but two.
+
+[17234] But those who recognize more than one entity, e.g. hot and cold, or fire and earth, are better able to give a systematic explanation, because they avail themselves of fire as being of a kinetic nature, and of water, earth, etc., as being the opposite.
+
+[17487] After these thinkers and the discovery of these causes, since they were insufficient to account for the generation of the actual world, men were again compelled (as we have said) by truth itself to investigate the next first principle.
+
+[17724] For presumably it is unnatural that either fire or earth or any other such element should cause existing things to be or become well and beautifully disposed; or indeed that those thinkers should hold such a view. Nor again was it satisfactory to commit so important a matter to spontaneity and chance.
+
+[18028] Hence when someone said that there is Mind in nature, just as in animals, and that this is the cause of all order and arrangement, he seemed like a sane man in contrast with the haphazard statements of his predecessors.
+
+[18249] We know definitely that Anaxagoras adopted this view; but Hermotimus of Clazomenae is credited with having stated it earlier. Those thinkers, then, who held this view assumed a principle in things which is the cause of beauty, and the sort of cause by which motion is communicated to things.
+
+[18542] It might be inferred that the first person to consider this question was Hesiod, or indeed anyone else who assumed Love or Desire as a first principle in things; e.g. Parmenides. For he says, where he is describing the creation of the universe, Love she created first of all the gods... And Hesiod says, First of all things was Chaos made, and then/Broad-bosomed Earth.../And Love, the foremost of immortal beings, thus implying that there must be in the world some cause to move things and combine them.
+
+[19048] The question of arranging these thinkers in order of priority may be decided later. Now since it was apparent that nature also contains the opposite of what is good, i.e. not only order and beauty, but disorder and ugliness; and that there are more bad and common things than there are good and beautiful: in view of this another thinker introduced Love and Strife as the respective causes of these things— because if one follows up and appreciates the statements of Empedocles with a view to his real meaning and not to his obscure language, it will be found that Love is the cause of good, and Strife of evil. Thus it would perhaps be correct to say that Empedocles in a sense spoke of evil and good as first principles, and was the first to do so—that is, if the cause of all good things is absolute good.
+
+[19858] These thinkers then, as I say, down to the time of Empedocles, seem to have grasped two of the causes which we have defined in the Physics: the material cause and the source of motion; but only vaguely and indefinitely. They are like untrained soldiers in a battle, who rush about and often strike good blows, but without science; in the same way these thinkers do not seem to understand their own statements, since it is clear that upon the whole they seldom or never apply them.
+
+[20340] Anaxagoras avails himself of Mind as an artificial device for producing order, and drags it in whenever he is at a loss to explain some necessary result; but otherwise he makes anything rather than Mind the cause of what happens. Again, Empedocles does indeed use causes to a greater degree than Anaxagoras, but not sufficiently; nor does he attain to consistency in their use.
+
+[20719] At any rate Love often differentiates and Strife combines: because whenever the universe is differentiated into its elements by Strife, fire and each of the other elements are agglomerated into a unity; and whenever they are all combined together again by Love, the particles of each element are necessarily again differentiated.
+
+[21050] Empedocles, then, differed from his predecessors in that he first introduced the division of this cause, making the source of motion not one but two contrary forces.
+
+[21217] Further, he was the first to maintain that the so-called material elements are four—not that he uses them as four, but as two only, treating fire on the one hand by itself, and the elements opposed to it—earth, air and water—on the other, as a single nature. This can be seen from a study of his writings.
+
+[21524] Such, then, as I say, is his account of the nature and number of the first principles.
+
+[21612] Leucippus, however, and his disciple Democritus hold that the elements are the Full and the Void—calling the one what is and the other what is not. Of these they identify the full or solid with what is, and the void or rare with what is not (hence they hold that what is not is no less real than what is, because Void is as real as Body); and they say that these are the material causes of things.
+
+[22011] And just as those who make the underlying substance a unity generate all other things by means of its modifications, assuming rarity and density as first principles of these modifications, so these thinkers hold that the differences are the causes of everything else.
+
+[22280] These differences, they say, are three: shape, arrangement, and position; because they hold that what is differs only in contour, inter-contact, and inclination. (Of these contour means shape, inter-contact arrangement, and inclination position.) Thus, e.g., A differs from N in shape, AN from NA in arrangement, and Z from N in position.
+
+[22620] As for motion, whence and how it arises in things, they casually ignored this point, very much as the other thinkers did. Such, then, as I say, seems to be the extent of the inquiries which the earlier thinkers made into these two kinds of cause.
+
+[22868] At the same time, however, and even earlier the so-called Pythagoreans applied themselves to mathematics, and were the first to develop this science; and through studying it they came to believe that its principles are the principles of everything.
+
+[23118] And since numbers are by nature first among these principles, and they fancied that they could detect in numbers, to a greater extent than in fire and earth and water, many analogues of what is and comes into being—such and such a property of number being justice, and such and such soul or mind, another opportunity, and similarly, more or less, with all the rest—and since they saw further that the properties and ratios of the musical scales are based on numbers, and since it seemed clear that all other things have their whole nature modelled upon numbers, and that numbers are the ultimate things in the whole physical universe, they assumed the elements of numbers to be the elements of everything, and the whole universe to be a proportion or number. Whatever analogues to the processes and parts of the heavens and to the whole order of the universe they could exhibit in numbers and proportions, these they collected and correlated;
+
+[24062] and if there was any deficiency anywhere, they made haste to supply it, in order to make their system a connected whole. For example, since the decad is considered to be a complete thing and to comprise the whole essential nature of the numerical system, they assert that the bodies which revolve in the heavens are ten; and there being only nine that are visible, they make the antichthon the tenth.
+
+[24464] We have treated this subject in greater detail elsewhere; but the object of our present review is to discover from these thinkers too what causes they assume and how these coincide with our list of causes.
+
+[24671] Well, it is obvious that these thinkers too consider number to be a first principle, both as the material of things and as constituting their properties and states. The elements of number, according to them, are the Even and the Odd. Of these the former is limited and the latter unlimited; Unity consists of both (since it is both odd and even); number is derived from Unity; and numbers, as we have said, compose the whole sensible universe.
+
+[25116] Others of this same school hold that there are ten principles, which they enunciate in a series of corresponding pairs: (1.) Limit and the Unlimited; (2.) Odd and Even; (3.) Unity and Plurality; (4.) Right and Left; (5.) Male and Female; (6.) Rest and Motion; (7.) Straight and Crooked; (8.) Light and Darkness; (9.) Good and Evil; (10.) Square and Oblong.
+
+[25474] Apparently Alcmaeon of Croton speculated along the same lines, and either he derived the theory from them or they from him; for [Alcmaeon was contemporary with the old age of Pythagoras, and] his doctrines were very similar to theirs. He says that the majority of things in the world of men are in pairs; but the contraries which he mentions are not, as in the case of the Pythagoreans, carefully defined, but are taken at random, e.g. white and black, sweet and bitter, good and bad, great and small.
+
+[25977] Thus Alcmaeon only threw out vague hints with regard to the other instances of contrariety, but the Pythagoreans pronounced how many and what the contraries are. Thus from both these authorities we can gather thus much, that the contraries are first principles of things; and from the former, how many and what the contraries are.
+
+[26309] How these can be referred to our list of causes is not definitely expressed by them, but they appear to reckon their elements as material; for they say that these are the original constituents of which Being is fashioned and composed.
+
+[26545] From this survey we can sufficiently understand the meaning of those ancients who taught that the elements of the natural world are a plurality. Others, however, theorized about the universe as though it were a single entity; but their doctrines are not all alike either in point of soundness or in respect of conformity with the facts of nature.
+
+[26893] For the purposes of our present inquiry an account of their teaching is quite irrelevant, since they do not, while assuming a unity, at the same time make out that Being is generated from the unity as from matter, as do some physicists, but give a different explanation; for the physicists assume motion also, at any rate when explaining the generation of the universe; but these thinkers hold that it is immovable. Nevertheless thus much is pertinent to our present inquiry.
+
+[27370] It appears that Parmenides conceived of the Unity as one in definition, but Melissus as materially one. Hence the former says that it is finite, and the latter that it is infinite. But Xenophanes, the first exponent of the Unity (for Parmenides is said to have been his disciple), gave no definite teaching, nor does he seem to have grasped either of these conceptions of unity; but regarding the whole material universe he stated that the Unity is God.
+
+[27825] This school then, as we have said, may be disregarded for the purposes of our present inquiry; two of them, Xenophanes and Melissus, may be completely ignored, as being somewhat too crude in their views. Parmenides, however, seems to speak with rather more insight. For holding as he does that Not-being, as contrasted with Being, is nothing, he necessarily supposes that Being is one and that there is nothing else (we have discussed this point in greater detail in the Physics); but being compelled to accord with phenomena, and assuming that Being is one in definition but many in respect of sensation, he posits in his turn two causes, i.e. two first principles, Hot and Cold; or in other words, Fire and Earth. Of these he ranks Hot under Being and the other under Not-being.
+
+[28607] From the account just given, and from a consideration of those thinkers who have already debated this question, we have acquired the following information. From the earliest philosophers we have learned that the first principle is corporeal (since water and fire and the like are bodies); some of them assume one and others more than one corporeal principle, but both parties agree in making these principles material. Others assume in addition to this cause the source of motion, which some hold to be one and others two.
+
+[29131] Thus down to and apart from the Italian philosophers the other thinkers have expressed themselves vaguely on the subject, except that, as we have said, they actually employ two causes, and one of these—the source of motion —some regard as one and others as two. The Pythagoreans, while they likewise spoke of two principles, made this further addition, which is peculiar to them: they believed, not that the Limited and the Unlimited are separate entities, like fire or water or some other such thing, but that the Unlimited itself and the One itself are the essence of those things of which they are predicated, and hence that number is the essence of all things.
+
+[29797] Such is the nature of their pronouncements on this subject. They also began to discuss and define the what of things; but their procedure was far too simple. They defined superficially, and supposed that the essence of a thing is that to which the term under consideration first applies—e.g. as if it were to be thought that double and 2 are the same, because 2 is the first number which is double another.
+
+[30205] But presumably to be double a number is not the same as to be the number 2. Otherwise, one thing will be many—a consequence which actually followed in their system. This much, then, can be learned from other and earlier schools of thought.
+
+[30446] The philosophies described above were succeeded by the system of Plato, which in most respects accorded with them, but contained also certain peculiar features distinct from the philosophy of the Italians.
+
+[30653] In his youth Plato first became acquainted with Cratylus and the Heraclitean doctrines—that the whole sensible world is always in a state of flux, and that there is no scientific knowledge of it—and in after years he still held these opinions. And when Socrates, disregarding the physical universe and confining his study to moral questions, sought in this sphere for the universal and was the first to concentrate upon definition, Plato followed him and assumed that the problem of definition is concerned not with any sensible thing but with entities of another kind; for the reason that there can be no general definition of sensible things which are always changing.
+
+[31325] These entities he called Ideas, and held that all sensible things are named after them sensible and in virtue of their relation to them; for the plurality of things which bear the same name as the Forms exist by participation in them. (With regard to the participation, it was only the term that he changed; for whereas the Pythagoreans say that things exist by imitation of numbers, Plato says that they exist by participation—merely a change of term.
+
+[31779] As to what this participation or imitation may be, they left this an open question.)
+
+[31865] Further, he states that besides sensible things and the Forms there exists an intermediate class, the objects of mathematics, which differ from sensible things in being eternal and immutable, and from the Forms in that there are many similar objects of mathematics, whereas each Form is itself unique.
+
+[32168] Now since the Forms are the causes of everything else, he supposed that their elements are the elements of all things. Accordingly the material principle is the Great and Small, and the essence 〈or formal principle〉 is the One, since the numbers are derived from the Great and Small by participation in the the One.
+
+[32485] In treating the One as a substance instead of a predicate of some other entity, his teaching resembles that of the Pythagoreans, and also agrees with it in stating that the numbers are the causes of Being in everything else; but it is peculiar to him to posit a duality instead of the single Unlimited, and to make the Unlimited consist of the Great and Small. He is also peculiar in regarding the numbers as distinct from sensible things, whereas they hold that things themselves are numbers, nor do they posit an intermediate class of mathematical objects.
+
+[33045] His distinction of the One and the numbers from ordinary things (in which he differed from the Pythagoreans) and his introduction of the Forms were due to his investigation of logic (the earlier thinkers were strangers to Dialectic); his conception of the other principle as a duality to the belief that numbers other than primes can be readily generated from it, as from a matrix.
+
+[33428] The fact, however, is just the reverse, and the theory is illogical; for whereas the Platonists derive multiplicity from matter although their Form generates only once, it is obvious that only one table can be made from one piece of timber, and yet he who imposes the form upon it, although he is but one, can make many tables. Such too is the relation of male to female: the female is impregnated in one coition, but one male can impregnate many females. And these relations are analogues of the principles referred to.
+
+[33950] This, then, is Plato’s verdict upon the question which we are investigating. From this account it is clear that he only employed two causes: that of the essence, and the material cause; for the Forms are the cause of the essence in everything else, and the One is the cause of it in the Forms.
+
+[34245] He also tells us what the material substrate is of which the Forms are predicated in the case of sensible things, and the One in that of the Forms—that it is this the duality, the Great and Small. Further, he assigned to these two elements respectively the causation of good and of evil; a problem which, as we have said, had also been considered by some of the earlier philosophers, e.g. Empedocles and Anaxagoras.
+
+[34662] We have given only a concise and summary account of those thinkers who have expressed views about the causes and reality, and of their doctrines. Nevertheless we have learned thus much from them: that not one of those who discuss principle or cause has mentioned any other type than those which we we have distinguished in the Physics. Clearly it is after these types that they are groping, however uncertainly.
+
+[35075] Some speak of the first principle as material, whether they regard it as one or several, as corporeal or incorporeal: e.g. Plato speaks of the Great and Small; the Italians of the Unlimited; Empedocles of Fire, Earth, Water and Air; Anaxagoras of the infinity of homoeomeries.
+
+[35353] All these have apprehended this type of cause; and all those too who make their first principle air or water or something denser than fire but rarer than air (for some have so described the primary element). These, then, apprehended this cause only, but others apprehended the source of motion —e.g. all such as make Love and Strife, or Mind, or Desire a first principle.
+
+[35726] As for the essence or essential nature, nobody has definitely introduced it; but the inventors of the Forms express it most nearly. For they do not conceive of the Forms as the matter of sensible things (and the One as the matter of the Forms), nor as producing the source of motion (for they hold that they are rather the cause of immobility and tranquillity); but they adduce the Forms as the essential nature of all other things, and the One as that of the Forms.
+
+[36194] The end towards which actions, changes and motions tend they do in a way treat as a cause, but not in this sense, i.e. not in the sense in which it is naturally a cause. Those who speak of Mind or Love assume these causes as being something good; but nevertheless they do not profess that anything exists or is generated for the sake of them, but only that motions originate from them.
+
+[36581] Similarly also those who hold that Unity or Being is an entity of this kind state that it is the cause of existence, but not that things exist or are generated for the sake of it. So it follows that in a sense they both assert and deny that the Good is a cause; for they treat it as such not absolutely, but incidentally.
+
+[36904] It appears, then, that all these thinkers too (being unable to arrive at any other cause) testify that we have classified the causes rightly, as regards both number and nature. Further, it is clear that all the principles must be sought either along these lines or in some similar way.
+
+[37191] Let us next examine the possible difficulties arising out of the statements of each of these thinkers, and out of his attitude to the first principles.
+
+[37344] All those who regard the universe as a unity, and assume as its matter some one nature, and that corporeal and extended, are clearly mistaken in many respects. They only assume elements of corporeal things, and not of incorporeal ones, which also exist. They attempt to state the causes of generation and destruction, and investigate the nature of everything; and at the same time do away with the cause of motion.
+
+[37760] Then there is their failure to regard the essence or formula as a cause of anything; and further their readiness to call any one of the simple bodies—except earth—a first principle, without inquiring how their reciprocal generation is effected. I refer to fire, water, earth and air. Of these some are generated from each other by combination and others by differentiation;
+
+[38135] and this difference is of the greatest importance in deciding their relative priority. In one way it might seem that the most elementary body is that from which first other bodies are produced by combination; and this will be that body which is rarest and composed of the finest particles.
+
+[38426] Hence all who posit Fire as first principle will be in the closest agreement with this theory. However, even among the other thinkers everyone agrees that the primary corporeal element is of this kind. At any rate none of the Monists thought earth likely to be an element—obviously on account of the size of its particles— but each of the other three has had an advocate; for some name fire as the primary element, others water, and others air. And yet why do they not suggest earth too, as common opinion does? for people say Everything is earth.
+
+[38975] And Hesiod too says that earth was generated first of corporeal things—so ancient and popular is the conception found to be. Thus according to this theory anyone who suggests any of these bodies other than fire, or who assumes something denser than air but rarer than water, will be wrong.
+
+[39266] On the other hand if what is posterior in generation is prior in nature, and that which is developed and combined is posterior in generation, then the reverse will be the case; water will be prior to air, and earth to water. So much for those who posit one cause such as we have described.
+
+[39557] The same will apply too if anyone posits more than one, as e.g. Empedocles says that matter consists of four bodies;
+
+[39675] objections must occur in his case also, some the same as before, and some peculiar to him. First, we can see things being generated from each other in a way which shows that fire and earth do not persist as the same corporeal entity. (This subject has been treated in my works on Natural Science.) Again with regard to the cause of motion in things, whether one or two should be assumed, it must not be thought that his account is entirely correct or even reasonable.
+
+[40144] And in general those who hold such views as these must of necessity do away with qualitative alteration; for on such a theory cold will not come from hot nor hot from cold, because to effect this there must be something which actually takes on these contrary qualities: some single element which becomes both fire and water—which Empedocles denies.
+
+[40494] If one were to infer that Anaxagoras recognized two elements, the inference would accord closely with a view which, although he did not articulate it himself, he must have accepted as developed by others.
+
+[40700] To say that originally everything was a mixture is absurd for various reasons, but especially since (a) it follows that things must have existed previously in an unmixed state; (b) it is contrary to nature for anything to mix with anything; (c) moreover affections and attributes would then be separable from their substances (because what is mixed can also be separated). At the same time, if one were to follow his doctrine carefully and interpret its meaning, perhaps it would be seen to be more up-to-date;
+
+[41212] because when nothing was yet differentiated, obviously nothing could be truly predicated of that substance—e.g. that it was white or black or buff or any other color. It must necessarily have been colorless, since otherwise it would have had one of these colors.
+
+[41476] Similarly by the same argument it had no taste or any other such attribute; for it cannot have had any quality or magnitude or individuality. Otherwise some particular form would have belonged to it; but this is impossible on the assumption that everything was mixed together, for then the form would have been already differentiated, whereas he says that everything was mixed together except Mind, which alone was pure and unmixed.
+
+[41910] It follows from this that he recognizes as principles the One (which is simple and unmixed) and the Other, which is such as we suppose the Indeterminate to be before it is determined and partakes of some form. Thus his account is neither correct nor clear, but his meaning approximates to more recent theories and what is now more obviously true.
+
+[42258] However, these thinkers are really concerned only with the theories of generation and destruction and motion (for in general it is only with reference to this aspect of reality that they look for their principles and causes).
+
+[42485] Those, however, who make their study cover the whole of reality, and who distinguish between sensible and non-sensible objects, clearly give their attention to both kinds; hence in their case we may consider at greater length what contributions, valuable or otherwise, they make to the inquiry which is now before us.
+
+[42804] The so-called Pythagoreans employ abstruser principles and elements than the physicists. The reason is that they did not draw them from the sensible world; for mathematical objects, apart from those which are connected with astronomy, are devoid of motion.
+
+[43062] Nevertheless all their discussions and investigations are concerned with the physical world. They account for the generation of the sensible universe, and observe what happens in respect of its parts and affections and activities, and they use up their principles and causes in this connection, as though they agreed with the others—the physicists—that reality is just so much as is sensible and is contained in the so-called heavens.
+
+[43498] All the same, as we have said, the causes and principles which they describe are capable of application to the remoter class of realities as well, and indeed are better fitted to these than to their physical theories.
+
+[43717] But as to how there is to be motion, if all that is premissed is Limit and the Unlimited, and Odd and Even, they do not even hint; nor how, without motion and change, there can be generation and destruction, or the activities of the bodies which traverse the heavens.
+
+[43986] And further, assuming that it be granted to them or proved by them that magnitude is composed of these factors, yet how is it to be explained that some bodies are light, and others have weight? For in their premisses and statements they are speaking just as much about sensible as about mathematical objects; and this is why they have made no mention of fire or earth or other similar bodies, because, I presume, they have no separate explanation of sensible things.
+
+[44454] Again, how are we to understand that number and the modifications of number are the causes of all being and generation, both in the beginning and now, and at the same time that there is no other number than the number of which the universe is composed?
+
+[44708] Because when they make out that Opinion and Opportunity are in such and such a region, and a little above or below them Injustice and Separation or Mixture, and when they state as proof of this that each of these abstractions is a number; and that also in this region there is already a plurality of the magnitudes composed of number, inasmuch as these modifications of number correspond to these several regions,—is the number which we must understand each of these abstractions to be the same number which is present in the sensible universe, or another kind of number?
+
+[45281] Plato at least says that it is another. It is true that he too supposes that numbers are both these magnitudes and their causes; but in his view the causative numbers are intelligible and the others sensible.
+
+[45491] The Pythagoreans, then, may be dismissed for the present, for it is enough to touch upon them thus briefly. As for those who posit the Forms as causes, in the first place in their attempt to find the causes of things in our sensible world, they introduced an equal number of other entities—as though a man who wishes to count things should suppose that it would be impossible when they are few, and should attempt to count them when he has added to them. For the Forms are as many as, or not fewer than, the things in search of whose causes these thinkers were led to the Forms; because corresponding to each thing there is a synonymous entity apart from the substances (and in the case of non-substantial things there is a One over the Many), both in our everyday world and in the realm of eternal entities.
+
+[46301] Again, not one of the arguments by which we try to prove that the Forms exist demonstrates our point: from some of them no necessary conclusion follows, and from others it follows that there are Forms of things of which we hold that there are no Forms.
+
+[46555] For according to the arguments from the sciences there will be Forms of all things of which there are sciences; and according to the One-over-Many argument, of negations too; and according to the argument that we have some conception of what has perished, of perishable things; because we have a mental picture of these things. Again, of Plato’s more exact arguments some establish Ideas of relations, which we do not hold to form a separate genus;
+
+[47005] and others state the Third Man. And in general the arguments for the Forms do away with things which are more important to us exponents of the Forms than the existence of the Ideas; for they imply that it is not the Dyad that is primary, but Number; and that the relative is prior to the absolute; and all the other conclusions in respect of which certain persons, by following up the views held about the Ideas, have gone against the principles of the theory.
+
+[47467] Again, according to the assumption by which we hold that the Ideas exist, there will be Forms not only of substances but of many other things (since the concept is one not only in the case of substances, but also in the case of all other things; and there are sciences not only of substances but of other things as well; and there are a thousand other similar consequences); but according to logical necessity, and from the views generally held about them, it follows that if the Forms are participated in, then there can only be Ideas of substances. For they are not participated in qua accidents; each Form can only be participated in in so far as it is not predicated of a subject.
+
+[48153] I mean, e.g., that if anything participates in absolute Doubleness it participates also in eternal, but only accidentally; because it is an accident of Doubleness to be eternal.
+
+[48332] Thus the Forms must be substance. But the same names denote substance in the sensible as in the Ideal world; otherwise what meaning will there be in saying that something exists beside the particulars, i.e. the unity comprising their multiplicity?
+
+[48581] If the form of the Ideas and of the things which participate in them is the same, they will have something in common (for why should Duality mean one and the same thing in the case of perishable twos and the twos which are many but eternal, and not in the case of the Idea of Duality and a particular two?); but if the form is not the same, they will simply be homonyms; just as though one were to call both Callias and a piece of wood man, without remarking any property common to them.
+
+[49070] Above all we might examine the question what on earth the Forms contribute to sensible things, whether eternal or subject to generation and decay; for they are not the cause of any motion or change in them.
+
+[49278] Again, they are no help towards the knowledge of other things (for they are not the substance of things, otherwise they would be in things), nor to their existence, since they are not present in the things which partake of them. If they were, it might perhaps seem that they are causes, in the sense in which the admixture of white causes a thing to be white;
+
+[49639] but this theory, which was first stated by Anaxagoras and later by Eudoxus and others, is very readily refutable, for it is easy to adduce plenty of impossibilities against such a view. Again, other things are not in any accepted sense derived from the Forms.
+
+[49900] To say that the Forms are patterns, and that other things participate in them, is to use empty phrases and poetical metaphors; for what is it that fashions things on the model of the Ideas Besides, anything may both be and become like something else without being imitated from it; thus a man may become just like Socrates whether Socrates exists or not, and even if Socrates were eternal, clearly the case would be the same. Also there will be several patterns, and hence Forms, of the same thing; e.g. animal and two-footed will be patterns of man, and so too will the Idea of Man.
+
+[50485] Further, the Forms will be patterns not only of sensible things but of themselves (e.g. genus in the sense of genus of species), and thus the same thing will be both pattern and copy. Further, it would seem impossible that the substance and the thing of which it is the substance exist in separation; hence how can the Ideas, if they are the substances of things, exist in separation from them? It is stated in the Phaedo that the Forms are the causes both of existence and of generation.
+
+[50975] Yet, assuming that the Forms exist, still the things which participate in them are not generated unless there is something to impart motion; while many other things are generated (e.g. house, ring) of which we hold that there are no Forms. Thus it is clearly possible that all other things may both exist and be generated for the same causes as the things just mentioned.
+
+[51348] Further, if the Forms are numbers, in what sense will they be causes? Is it because things are other numbers, e.g. such and such a number Man, such and such another Socrates, such and such another Callias? then why are those numbers the causes of these? Even if the one class is eternal and the other not, it will make no difference.
+
+[51683] And if it is because the things of our world are ratios of numbers (e.g. a musical concord), clearly there is some one class of things of which they are ratios. Now if there is this something, i.e. their matter, clearly the numbers themselves will be ratios of one thing to another.
+
+[51967] I mean, e.g., that if Callias is a numerical ratio of fire, earth, water and air, the corresponding Idea too will be a number of certain other things which are its substrate. The Idea of Man, too, whether it is in a sense a number or not, will yet be an arithmetical ratio of certain things, and not a mere number; nor, on these grounds, will any Idea be a number.
+
+[52333] Again, one number can be composed of several numbers, but how can one Form be composed of several Forms? And if the one number is not composed of the other numbers themselves, but of their constituents (e.g. those of the number 10,000), what is the relation of the units? If they are specifically alike, many absurdities will result, and also if they are not (whether (a) the units in a given number are unlike, or (b) the units in each number are unlike those in every other number). For in what can they differ, seeing that they have no qualities? Such a view is neither reasonable nor compatible with our conception of units.
+
+[52963] Further, it becomes necessary to set up another kind of number (with which calculation deals), and all the objects which are called intermediate by some thinkers. But how or from what principles can these be derived? or on what grounds are they to be considered intermediate between things here and Ideal numbers? Further, each of the units in the number 2 comes from a prior 2; but this is impossible.
+
+[53367] Further, why should a number 〈of units〉, taken together, be one thing? And further, in addition to the above objections, if the units are unlike, they should be treated as the thinkers who assume two or four elements treat those elements; for not one of them applies the term element to the common substrate, e.g. body, but to fire and earth—whether there is a common substrate (i.e. body) or not.
+
+[53766] As it is, the One is spoken of as though it were homogeneous, like fire or water. But if this is so, the numbers will not be substances. And if there is an absolute One which is a principle, clearly the term one is ambiguous; otherwise this is impossible.
+
+[54023] When we wish to refer substances to their principles we derive lines from Long and Short, a kind of Great and Small; and the plane from Wide and Narrow, and the solid body from Deep and Shallow. But in this case how can the plane contain a line, or the solid a line and a plane? for Wide and Narrow and Deep and Shallow are different genera. Nor is Number contained in these objects (because Many and Few is yet another class); and in the same way it is clear that none of the other higher genera will be contained in the lower. Nor, again, is the Broad the genus of which the Deep is a species; for then body would be a kind of plane.
+
+[54660] Further, how will it be possible for figures to contain points? Plato steadily rejected this class of objects as a geometrical fiction, but he recognized the beginning of a line, and he frequently assumed this latter class, i.e. the indivisible lines. But these must have some limit; and so by the same argument which proves the existence of the line, the point also exists.
+
+[55036] In general, although Wisdom is concerned with the cause of visible things, we have ignored this question (for we have no account to give of the cause from which change arises), and in the belief that we are accounting for their substance we assert the existence of other substances; but as to how the latter are the substances of the former, our explanation is worthless—for participation, as we have said before, means nothing.
+
+[55466] And as for that which we can see to be the cause in the sciences, and through which all mind and all nature works—this cause which we hold to be one of the first principles—the Forms have not the slightest bearing upon it either. Philosophy has become mathematics for modern thinkers, although they profess that mathematics is only to be studied as a means to some other end.
+
+[55843] Further, one might regard the substance which they make the material substrate as too mathematical, and as being a predicate and differentia of substance or matter rather than as matter itself, I mean the Great and Small, which is like the Rare and Dense of which the physicists speak, holding that they are the primary differentiae of the substrate; because these qualities are a species of excess and defect.
+
+[56255] Also with regard to motion, if the Great and Small is to constitute motion, obviously the Forms will be moved; if not, whence did it come? On this view the whole study of physics is abolished. And what is supposed to be easy, to prove that everything is One, does not follow; because from their exposition it does not follow, even if you grant them all their assumptions that everything is One, but only that there is an absolute One— and not even this, unless you grant that the universal is a class; which is impossible in some cases. Nor is there any explanation of the lines, planes and solids which come after the Numbers: neither as to how they exist or can exist, nor as to what their importance is. They cannot be Forms (since they are not numbers) or Intermediates (which are the objects of mathematics) or perishables; clearly they form yet another fourth class.
+
+[57129] In general, to investigate the elements of existing things without distinguishing the various senses in which things are said to exist is a hopeless task; especially when one inquires along these lines into the nature of the elements of which things are composed. For (a) we cannot surely conceive of the elements of activity or passivity or straightness; this is possible, if at all, only in the case of substances. Hence to look for, or to suppose that one has found, the elements of everything that exists, is a mistake.
+
+[57654] (b) How can one apprehend the elements of everything? Obviously one could not have any previous knowledge of anything; because just as a man who is beginning to learn geometry can have previous knowledge of other facts, but no previous knowledge of the principles of that science or of the things about which he is to learn, so it is in the case of all other branches of knowledge.
+
+[58037] Hence if there is a science which embraces everything (as some say), the student of it can have no previous knowledge at all. But all learning proceeds, wholly or in part, from what is already known; whether it is through demonstration or through definition—since the parts of the definition must be already known and familiar. The same is true of induction.
+
+[58397] On the other hand, assuming that this knowledge should turn out to be innate, it is astonishing that we should possess unawares the most important of the sciences. Further, how is one to know of what elements things consist? how is it to be established?
+
+[58652] Even this presents a difficulty, because the facts might be disputed, as happens in the case of certain syllables—for some say that ZA is composed of S, D and A, while others say that it is a distinct sound and not any one of those which are familiar to us.
+
+[58911] Further, how can one gain knowledge of the objects of a particular sense-perception without possessing that sense? Yet it should be possible, that if the elements of which all things consist, as composite sounds consist of their peculiar elements, are the same.
+
+[59174] Thus it is obvious, from the statements of earlier thinkers also, that all inquiry is apparently directed towards the causes described in the Physics, and that we cannot suggest any other cause apart from these. They were, however, only vaguely conceived; and although in one sense they have all been stated before, in another they have not been stated at all.
+
+[59536] For the earliest philosophy speaks falteringly, as it were, on all subjects; being new and in its infancy. Even Empedocles says that bone exists by virtue of its ratio, which is the definition or essence of a thing.
+
+[59753] But by similar reasoning both flesh and every other thing, or else nothing at all, must be ratio; for it must be because of this, and not because of their matter—which he calls fire, earth, water and air—that flesh and bone and every other thing exists.
+
+[60008] If anyone else had stated this, he would necessarily have agreed, but his own statement was not clear.
+
+[60112] These and similar points have been explained already. We will now return to the difficulties which might be raised about these same questions, for they may throw some light upon subsequent difficulties.

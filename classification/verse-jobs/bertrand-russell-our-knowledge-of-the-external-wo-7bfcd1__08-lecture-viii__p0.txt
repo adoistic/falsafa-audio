@@ -1,0 +1,343 @@
+WORK: Our Knowledge of the External World  (slug: bertrand-russell-our-knowledge-of-the-external-wo-7bfcd1)
+
+CHAPTER: 08-lecture-viii
+
+
+
+[0] ON THE NOTION OF CAUSE, WITH APPLICATIONS TO THE FREE-WILL PROBLEM
+
+[68] The nature of philosophic analysis, as illustrated in our previous lectures, can now be stated in general terms. We start from a body of common knowledge, which constitutes our data. On examination, the data are found to be complex, rather vague, and largely interdependent logically. By analysis we reduce them to propositions which are as nearly as possible simple and precise, and we arrange them in deductive chains, in which a certain number of initial propositions form a logical guarantee for all the rest. These initial propositions are *premisses* for the body of knowledge in question. Premisses are thus quite different from data--they are simpler, more precise, and less infected with logical redundancy. If the work of analysis has been performed completely, they will be wholly free from logical redundancy, wholly precise, and as simple as is logically compatible with their leading to the given body of knowledge. The discovery of these premisses belongs to philosophy; but the work of deducing the body of common knowledge from them belongs to mathematics, if "mathematics" is interpreted in a somewhat liberal sense.
+
+[1204] But besides the logical analysis of the common knowledge which forms our data, there is the consideration of its degree of certainty. When we have arrived at its premisses, we may find that some of them seem open to doubt, and we may find further that this doubt extends to those of our original data which depend upon these doubtful premisses. In our third lecture, for example, we saw that the part of physics which depends upon testimony, and thus upon the existence of other minds than our own, does not seem so certain as the part which depends exclusively upon our own sense-data and the laws of logic. Similarly, it used to be felt that the parts of geometry which depend upon the axiom of parallels have less certainty than the parts which are independent of this premiss. We may say, generally, that what commonly passes as knowledge is not all equally certain, and that, when analysis into premisses has been effected, the degree of certainty of any consequence of the premisses will depend upon that of the most doubtful premiss employed in proving this consequence. Thus analysis into premisses serves not only a logical purpose, but also the purpose of facilitating an estimate as to the degree of certainty to be attached to this or that derivative belief. In view of the fallibility of all human beliefs, this service seems at least as important as the purely logical services rendered by philosophical analysis.
+
+[2633] In the present lecture, I wish to apply the analytic method to the notion of "cause," and to illustrate the discussion by applying it to the problem of free will. For this purpose I shall inquire: I., what is meant by a causal law; II., what is the evidence that causal laws have held hitherto; III., what is the evidence that they will continue to hold in the future; IV., how the causality which is used in science differs from that of common sense and traditional philosophy; V., what new light is thrown on the question of free will by our analysis of the notion of "cause."
+
+[3213] I. By a "causal law" I mean any general proposition in virtue of which it is possible to infer the existence of one thing or event from the existence of another or of a number of others. If you hear thunder without having seen lightning, you infer that there nevertheless was a flash, because of the general proposition, "All thunder is preceded by lightning." When Robinson Crusoe sees a footprint, he infers a human being, and he might justify his inference by the general proposition, "All marks in the ground shaped like a human foot are subsequent to a human being's standing where the marks are." When we see the sun set, we expect that it will rise again the next day. When we hear a man speaking, we infer that he has certain thoughts. All these inferences are due to causal laws.
+
+[4003] A causal law, we said, allows us to infer the existence of one *thing* (or *event*) from the existence of one or more others. The word "thing" here is to be understood as only applying to particulars, *i.e.* as excluding such logical objects as numbers or classes or abstract properties and relations, and including sense-data, with whatever is logically of the same type as sense-data. In so far as a causal law is directly verifiable, the thing inferred and the thing from which it is inferred must both be data, though they need not both be data at the same time. In fact, a causal law which is being used to extend our knowledge of existence must be applied to what, at the moment, is not a datum; it is in the possibility of such application that the practical utility of a causal law consists. The important point, for our present purpose, however, is that what is inferred is a "thing," a "particular," an object having the kind of reality that belongs to objects of sense, not an abstract object such as virtue or the square root of two.
+
+[5050] Thus we are not using "thing" here in the sense of a class of correlated "aspects," as we did in Lecture III. Each "aspect" will count separately in stating causal laws.
+
+[5221] But we cannot become acquainted with a particular except by its being actually given. Hence the particular inferred by a causal law must be only *described* with more or less exactness; it cannot be *named* until the inference is verified. Moreover, since the causal law is *general*, and capable of applying to many cases, the given particular from which we infer must allow the inference in virtue of some general characteristic, not in virtue of its being just the particular that it is. This is obvious in all our previous instances: we infer the unperceived lightning from the thunder, not in virtue of any peculiarity of the thunder, but in virtue of its resemblance to other claps of thunder. Thus a causal law must state that the existence of a thing of a certain sort (or of a number of things of a number of assigned sorts) implies the existence of another thing having a relation to the first which remains invariable so long as the first is of the kind in question.
+
+[6200] It is to be observed that what is constant in a causal law is not the object or objects given, nor yet the object inferred, both of which may vary within wide limits, but the *relation* between what is given and what is inferred. The principle, "same cause, same effect," which is sometimes said to be the principle of causality, is much narrower in its scope than the principle which really occurs in science; indeed, if strictly interpreted, it has no scope at all, since the "same" cause never recurs exactly. We shall return to this point at a later stage of the discussion.
+
+[6780] The particular which is inferred may be uniquely determined by the causal law, or may be only described in such general terms that many different particulars might satisfy the description. This depends upon whether the constant relation affirmed by the causal law is one which only one term can have to the data, or one which many terms may have. If many terms may have the relation in question, science will not be satisfied until it has found some more stringent law, which will enable us to determine the inferred things uniquely.
+
+[7315] Since all known things are in time, a causal law must take account of temporal relations. It will be part of the causal law to state a relation of succession or coexistence between the thing given and the thing inferred. When we hear thunder and infer that there was lightning, the law states that the thing inferred is earlier than the thing given. Conversely, when we see lightning and wait expectantly for the thunder, the law states that the thing given is earlier than the thing inferred. When we infer a man's thoughts from his words, the law states that the two are (at least approximately) simultaneous.
+
+[7928] If a causal law is to achieve the precision at which science aims, it must not be content with a vague *earlier* or *later*, but must state how much earlier or how much later. That is to say, the time-relation between the thing given and the thing inferred ought to be capable of exact statement; and usually the inference to be drawn is different according to the length and direction of the interval. "A quarter of an hour ago this man was alive; an hour hence he will be cold." Such a statement involves two causal laws, one inferring from a datum something which existed a quarter of an hour ago, the other inferring from the same datum something which will exist an hour hence.
+
+[8612] Often a causal law involves not one datum, but many, which need not be all simultaneous with each other, though their time-relations must be given. The general scheme of a causal law will be as follows:
+
+[8816] "Whenever things occur in certain relations to each other (among which their time-relations must be included), then a thing having a fixed relation to these things will occur at a date fixed relatively to their dates."
+
+[9036] The things given will not, in practice, be things that only exist for an instant, for such things, if there are any, can never be data. The things given will each occupy some finite time. They may be not static things, but processes, especially motions. We have considered in an earlier lecture the sense in which a motion may be a datum, and need not now recur to this topic.
+
+[9414] It is not essential to a causal law that the object inferred should be later than some or all of the data. It may equally well be earlier or at the same time. The only thing essential is that the law should be such as to enable us to infer the existence of an object which we can more or less accurately describe in terms of the data.
+
+[9750] II. I come now to our second question, namely: What is the nature of the evidence that causal laws have held hitherto, at least in the observed portions of the past? This question must not be confused with the further question: Does this evidence warrant us in assuming the truth of causal laws in the future and in unobserved portions of the past? For the present, I am only asking what are the grounds which lead to a belief in causal laws, not whether these grounds are adequate to support the belief in universal causation.
+
+[10279] The first step is the discovery of approximate unanalysed uniformities of sequence or coexistence. After lightning comes thunder, after a blow received comes pain, after approaching a fire comes warmth; again, there are uniformities of coexistence, for example between touch and sight, between certain sensations in the throat and the sound of one's own voice, and so on. Every such uniformity of sequence or coexistence, after it has been experienced a certain number of times, is followed by an expectation that it will be repeated on future occasions, *i.e.* that where one of the correlated events is found, the other will be found also. The connection of experienced past uniformity with expectation as to the future is just one of those uniformities of sequence which we have observed to be true hitherto. This affords a psychological account of what may be called the animal belief in causation, because it is something which can be observed in horses and dogs, and is rather a habit of acting than a real belief. So far, we have merely repeated Hume, who carried the discussion of cause up to this point, but did not, apparently, perceive how much remained to be said.
+
+[11457] Is there, in fact, any characteristic, such as might be called causality or uniformity, which is found to hold throughout the observed past? And if so, how is it to be stated?
+
+[11634] The particular uniformities which we mentioned before, such as lightning being followed by thunder, are not found to be free from exceptions. We sometimes see lightning without hearing thunder; and although, in such a case, we suppose that thunder might have been heard if we had been nearer to the lightning, that is a supposition based on theory, and therefore incapable of being invoked to support the theory. What does seem, however, to be shown by scientific experience is this: that where an observed uniformity fails, some wider uniformity can be found, embracing more circumstances, and subsuming both the successes and the failures of the previous uniformity. Unsupported bodies in air fall, unless they are balloons or aeroplanes; but the principles of mechanics give uniformities which apply to balloons and aeroplanes just as accurately as to bodies that fall. There is much that is hypothetical and more or less artificial in the uniformities affirmed by mechanics, because, when they cannot otherwise be made applicable, unobserved bodies are inferred in order to account for observed peculiarities. Still, it is an empirical fact that it is possible to preserve the laws by assuming such bodies, and that they never have to be assumed in circumstances in which they ought to be observable. Thus the empirical verification of mechanical laws may be admitted, although we must also admit that it is less complete and triumphant than is sometimes supposed.
+
+[13104] Assuming now, what must be admitted to be doubtful, that the whole of the past has proceeded according to invariable laws, what can we say as to the nature of these laws? They will not be of the simple type which asserts that the same cause always produces the same effect. We may take the law of gravitation as a sample of the kind of law that appears to be verified without exception. In order to state this law in a form which observation can confirm, we will confine it to the solar system. It then states that the motions of planets and their satellites have at every instant an acceleration compounded of accelerations towards all the other bodies in the solar system, proportional to the masses of those bodies and inversely proportional to the squares of their distances. In virtue of this law, given the state of the solar system throughout any finite time, however short, its state at all earlier and later times is determinate except in so far as other forces than gravitation or other bodies than those in the solar system have to be taken into consideration. But other forces, so far as science can discover, appear to be equally regular, and equally capable of being summed up in single causal laws. If the mechanical account of matter were complete, the whole physical history of the universe, past and future, could be inferred from a sufficient number of data concerning an assigned finite time, however short.
+
+[14533] In the mental world, the evidence for the universality of causal laws is less complete than in the physical world. Psychology cannot boast of any triumph comparable to gravitational astronomy. Nevertheless, the evidence is not very greatly less than in the physical world. The crude and approximate causal laws from which science starts are just as easy to discover in the mental sphere as in the physical. In the world of sense, there are to begin with the correlations of sight and touch and so on, and the facts which lead us to connect various kinds of sensations with eyes, ears, nose, tongue, etc. Then there are such facts as that our body moves in answer to our volitions. Exceptions exist, but are capable of being explained as easily as the exceptions to the rule that unsupported bodies in air fall. There is, in fact, just such a degree of evidence for causal laws in psychology as will warrant the psychologist in assuming them as a matter of course, though not such a degree as will suffice to remove all doubt from the mind of a sceptical inquirer. It should be observed that causal laws in which the given term is mental and the inferred term physical, or *vice versa*, are at least as easy to discover as causal laws in which both terms are mental.
+
+[15800] It will be noticed that, although we have spoken of causal laws, we have not hitherto introduced the word "cause." At this stage, it will be well to say a few words on legitimate and illegitimate uses of this word. The word "cause," in the scientific account of the world, belongs only to the early stages, in which small preliminary, approximate generalisations are being ascertained with a view to subsequent larger and more invariable laws. We may say, "Arsenic causes death," so long as we are ignorant of the precise process by which the result is brought about. But in a sufficiently advanced science, the word "cause" will not occur in any statement of invariable laws. There is, however, a somewhat rough and loose use of the word "cause" which may be preserved. The approximate uniformities which lead to its pre-scientific employment may turn out to be true in all but very rare and exceptional circumstances, perhaps in all circumstances that actually occur. In such cases, it is convenient to be able to speak of the antecedent event as the "cause" and the subsequent event as the "effect." In this sense, provided it is realised that the sequence is not necessary and may have exceptions, it is still possible to employ the words "cause" and "effect." It is in this sense, and in this sense only, that we shall intend the words when we speak of one particular event "causing" another particular event, as we must sometimes do if we are to avoid intolerable circumlocution.
+
+[17287] III. We come now to our third question, namely: What reason can be given for believing that causal laws will hold in future, or that they have held in unobserved portions of the past?
+
+[17472] What we have said so far is that there have been hitherto certain observed causal laws, and that all the empirical evidence we possess is compatible with the view that everything, both mental and physical, so far as our observation has extended, has happened in accordance with causal laws. The law of universal causation, suggested by these facts, may be enunciated as follows:
+
+[17852] "There are such invariable relations between different events at the same or different times that, given the state of the whole universe throughout any finite time, however short, every previous and subsequent event can theoretically be determined as a function of the given events during that time."
+
+[18154] Have we any reason to believe this universal law? Or, to ask a more modest question, have we any reason to believe that a particular causal law, such as the law of gravitation, will continue to hold in the future?
+
+[18369] Among observed causal laws is this, that observation of uniformities is followed by expectation of their recurrence. A horse who has been driven always along a certain road expects to be driven along that road again; a dog who is always fed at a certain hour expects food at that hour and not at any other. Such expectations, as Hume pointed out, explain only too well the common-sense belief in uniformities of sequence, but they afford absolutely no logical ground for beliefs as to the future, not even for the belief that we shall continue to expect the continuation of experienced uniformities, for that is precisely one of those causal laws for which a ground has to be sought. If Hume's account of causation is the last word, we have not only no reason to suppose that the sun will rise to-morrow, but no reason to suppose that five minutes hence we shall still expect it to rise to-morrow.
+
+[19268] It may, of course, be said that all inferences as to the future are in fact invalid, and I do not see how such a view could be disproved. But, while admitting the legitimacy of such a view, we may nevertheless inquire: If inferences as to the future *are* valid, what principle must be involved in making them?
+
+[19580] The principle involved is the principle of induction, which, if it is true, must be an *a priori* logical law, not capable of being proved or disproved by experience. It is a difficult question how this principle ought to be formulated; but if it is to warrant the inferences which we wish to make by its means, it must lead to the following proposition: "If, in a great number of instances, a thing of a certain kind is associated in a certain way with a thing of a certain other kind, it is probable that a thing of the one kind is always similarly associated with a thing of the other kind; and as the number of instances increases, the probability approaches indefinitely near to certainty." It may well be questioned whether this proposition is true; but if we admit it, we can infer that any characteristic of the whole of the observed past is likely to apply to the future and to the unobserved past. This proposition, therefore, if it is true, will warrant the inference that causal laws probably hold at all times, future as well as past; but without this principle, the observed cases of the truth of causal laws afford no presumption as to the unobserved cases, and therefore the existence of a thing not directly observed can never be validly inferred.
+
+[20846] It is thus the principle of induction, rather than the law of causality, which is at the bottom of all inferences as to the existence of things not immediately given. With the principle of induction, all that is wanted for such inferences can be proved; without it, all such inferences are invalid. This principle has not received the attention which its great importance deserves. Those who were interested in deductive logic naturally enough ignored it, while those who emphasised the scope of induction wished to maintain that all logic is empirical, and therefore could not be expected to realise that induction itself, their own darling, required a logical principle which obviously could not be proved inductively, and must therefore be *a priori* if it could be known at all.
+
+[21630] The view that the law of causality itself is *a priori* cannot, I think, be maintained by anyone who realises what a complicated principle it is. In the form which states that "every event has a cause" it looks simple; but on examination, "cause" is merged in "causal law," and the definition of a "causal law" is found to be far from simple. There must necessarily be *some a priori* principle involved in inference from the existence of one thing to that of another, if such inference is ever valid; but it would appear from the above analysis that the principle in question is induction, not causality. Whether inferences from past to future are valid depends wholly, if our discussion has been sound, upon the inductive principle: if it is true, such inferences are valid, and if it is false, they are invalid.
+
+[22446] IV. I come now to the question how the conception of causal laws which we have arrived at is related to the traditional conception of cause as it occurs in philosophy and common sense.
+
+[22632] Historically, the notion of cause has been bound up with that of human volition. The typical cause would be the fiat of a king. The cause is supposed to be "active," the effect "passive." From this it is easy to pass on to the suggestion that a "true" cause must contain some prevision of the effect; hence the effect becomes the "end" at which the cause aims, and teleology replaces causation in the explanation of nature. But all such ideas, as applied to physics, are mere anthropomorphic superstitions. It is as a reaction against these errors that Mach and others have urged a purely "descriptive" view of physics: physics, they say, does not aim at telling us "why" things happen, but only "how" they happen. And if the question "why?" means anything more than the search for a general law according to which a phenomenon occurs, then it is certainly the case that this question cannot be answered in physics and ought not to be asked. In this sense, the descriptive view is indubitably in the right. But in using causal laws to support inferences from the observed to the unobserved, physics ceases to be *purely* descriptive, and it is these laws which give the scientifically useful part of the traditional notion of "cause." There is therefore *something* to preserve in this notion, though it is a very tiny part of what is commonly assumed in orthodox metaphysics.
+
+[24010] In order to understand the difference between the kind of cause which science uses and the kind which we naturally imagine, it is necessary to shut out, by an effort, everything that differentiates between past and future. This is an extraordinarily difficult thing to do, because our mental life is so intimately bound up with difference. Not only do memory and hope make a difference in our feelings as regards past and future, but almost our whole vocabulary is filled with the idea of activity, of things done now for the sake of their future effects. All transitive verbs involve the notion of cause as activity, and would have to be replaced by some cumbrous periphrasis before this notion could be eliminated.
+
+[24728] Consider such a statement as, "Brutus killed Caesar." On another occasion, Brutus and Caesar might engage our attention, but for the present it is the killing that we have to study. We may say that to kill a person is to cause his death intentionally. This means that desire for a person's death causes a certain act, because it is believed that that act will cause the person's death; or more accurately, the desire and the belief jointly cause the act. Brutus desires that Caesar should be dead, and believes that he will be dead if he is stabbed; Brutus therefore stabs him, and the stab causes Caesar's death, as Brutus expected it would. Every act which realises a purpose involves two causal steps in this way: C is desired, and it is believed (truly if the purpose is achieved) that B will cause C; the desire and the belief together cause B, which in turn causes C. Thus we have first A, which is a desire for C and a belief that B (an act) will cause C; then we have B, the act caused by A, and believed to be a cause of C; then, if the belief was correct, we have C, caused by B, and if the belief was incorrect we have disappointment. Regarded purely scientifically, this series A, B, C may equally well be considered in the inverse order, as they would be at a coroner's inquest. But from the point of view of Brutus, the desire, which comes at the beginning, is what makes the whole series interesting. We feel that if his desires had been different, the effects which he in fact produced would not have occurred. This is true, and gives him a sense of power and freedom. It is equally true that if the effects had not occurred, his desires would have been different, since being what they were the effects did occur. Thus the desires are determined by their consequences just as much as the consequences by the desires; but as we cannot (in general) know in advance the consequences of our desires without knowing our desires, this form of inference is uninteresting as applied to our own acts, though quite vital as applied to those of others.
+
+[26788] A cause, considered scientifically, has none of that analogy with volition which makes us imagine that the effect is *compelled* by it. A cause is an event or group of events, of some known general character, and having a known relation to some other event, called the effect; the relation being of such a kind that only one event, or at any rate only one well-defined sort of event, can have the relation to a given cause. It is customary only to give the name "effect" to an event which is later than the cause, but there is no kind of reason for this restriction. We shall do better to allow the effect to be before the cause or simultaneous with it, because nothing of any scientific importance depends upon its being after the cause.
+
+[27528] If the inference from cause to effect is to be indubitable, it seems that the cause can hardly stop short of the whole universe. So long as anything is left out, something may be left out which alters the expected result. But for practical and scientific purposes, phenomena can be collected into groups which are causally self-contained, or nearly so. In the common notion of causation, the cause is a single event--we say the lightning causes the thunder, and so on. But it is difficult to know what we mean by a single event; and it generally appears that, in order to have anything approaching certainty concerning the effect, it is necessary to include many more circumstances in the cause than unscientific common sense would suppose. But often a probable causal connection, where the cause is fairly simple, is of more practical importance than a more indubitable connection in which the cause is so complex as to be hard to ascertain.
+
+[28472] To sum up: the strict, certain, universal law of causation which philosophers advocate is an ideal, possibly true, but not *known* to be true in virtue of any available evidence. What is actually known, as a matter of empirical science, is that certain constant relations are observed to hold between the members of a group of events at certain times, and that when such relations fail, as they sometimes do, it is usually possible to discover a new, more constant relation by enlarging the group. Any such constant relation between events of specified kinds with given intervals of time between them is a "causal law." But all causal laws are liable to exceptions, if the cause is less than the whole state of the universe; we believe, on the basis of a good deal of experience, that such exceptions can be dealt with by enlarging the group we call the cause, but this belief, wherever it is still unverified, ought not to be regarded as certain, but only as suggesting a direction for further inquiry.
+
+[29477] A very common causal group consists of volitions and the consequent bodily acts, though exceptions arise (for example) through sudden paralysis. Another very frequent connection (though here the exceptions are much more numerous) is between a bodily act and the realisation of the purpose which led to the act. These connections are patent, whereas the causes of desires are more obscure. Thus it is natural to begin causal series with desires, to suppose that all causes are analogous to desires, and that desires themselves arise spontaneously. Such a view, however, is not one which any serious psychologist would maintain. But this brings us to the question of the application of our analysis of cause to the problem of free will.
+
+[30213] V. The problem of free will is so intimately bound up with the analysis of causation that, old as it is, we need not despair of obtaining new light on it by the help of new views on the notion of cause. The free-will problem has, at one time or another, stirred men's passions profoundly, and the fear that the will might not be free has been to some men a source of great unhappiness. I believe that, under the influence of a cool analysis, the doubtful questions involved will be found to have no such emotional importance as is sometimes thought, since the disagreeable consequences supposed to flow from a denial of free will do not flow from this denial in any form in which there is reason to make it. It is not, however, on this account chiefly that I wish to discuss this problem, but rather because it affords a good example of the clarifying effect of analysis and of the interminable controversies which may result from its neglect.
+
+[31158] Let us first try to discover what it is we really desire when we desire free will. Some of our reasons for desiring free will are profound, some trivial. To begin with the former: we do not wish to feel ourselves in the hands of fate, so that, however much we may desire to will one thing, we may nevertheless be compelled by an outside force to will another. We do not wish to think that, however much we may desire to act well, heredity and surroundings may force us into acting ill. We wish to feel that, in cases of doubt, our choice is momentous and lies within our power. Besides these desires, which are worthy of all respect, we have, however, others not so respectable, which equally make us desire free will. We do not like to think that other people, if they knew enough, could predict our actions, though we know that we can often predict those of other people, especially if they are elderly. Much as we esteem the old gentleman who is our neighbour in the country, we know that when grouse are mentioned he will tell the story of the grouse in the gun-room. But we ourselves are not so mechanical: we never tell an anecdote to the same person twice, or even once unless he is sure to enjoy it; although we once met (say) Bismarck, we are quite capable of hearing him mentioned without relating the occasion when we met him. In this sense, everybody thinks that he himself has free will, though he knows that no one else has. The desire for this kind of free will seems to be no better than a form of vanity. I do not believe that this desire can be gratified with any certainty; but the other, more respectable desires are, I believe, not inconsistent with any tenable form of determinism.
+
+[32863] We have thus two questions to consider: (1) Are human actions theoretically predictable from a sufficient number of antecedents? (2) Are human actions subject to an external compulsion? The two questions, as I shall try to show, are entirely distinct, and we may answer the first in the affirmative without therefore being forced to give an affirmative answer to the second.
+
+[33239] (1) _Are human actions theoretically predictable from a sufficient number of antecedents?_ Let us first endeavour to give precision to this question. We may state the question thus: Is there some constant relation between an act and a certain number of earlier events, such that, when the earlier events are given, only one act, or at most only acts with some well-marked character, can have this relation to the earlier events? If this is the case, then, as soon as the earlier events are known, it is theoretically possible to predict either the precise act, or at least the character necessary to its fulfilling the constant relation.
+
+[33878] To this question, a negative answer has been given by Bergson, in a form which calls in question the general applicability of the law of causation. He maintains that every event, and more particularly every mental event, embodies so much of the past that it could not possibly have occurred at any earlier time, and is therefore necessarily quite different from all previous and subsequent events. If, for example, I read a certain poem many times, my experience on each occasion is modified by the previous readings, and my emotions are never repeated exactly. The principle of causation, according to him, asserts that the same cause, if repeated, will produce the same effect. But owing to memory, he contends, this principle does not apply to mental events. What is apparently the same cause, if repeated, is modified by the mere fact of repetition, and cannot produce the same effect. He infers that every mental event is a genuine novelty, not predictable from the past, because the past contains nothing exactly like it by which we could imagine it. And on this ground he regards the freedom of the will as unassailable.
+
+[35007] Bergson's contention has undoubtedly a great deal of truth, and I have no wish to deny its importance. But I do not think its consequences are quite what he believes them to be. It is not necessary for the determinist to maintain that he can foresee the whole particularity of the act which will be performed. If he could foresee that A was going to murder B, his foresight would not be invalidated by the fact that he could not know all the infinite complexity of A's state of mind in committing the murder, nor whether the murder was to be performed with a knife or with a revolver. If the *kind* of act which will be performed can be foreseen within narrow limits, it is of little practical interest that there are fine shades which cannot be foreseen. No doubt every time the story of the grouse in the gun-room is told, there will be slight differences due to increasing habitualness, but they do not invalidate the prediction that the story will be told. And there is nothing in Bergson's argument to show that we can never predict what *kind* of act will be performed.
+
+[36084] Again, his statement of the law of causation is inadequate. The law does not state merely that, if the *same* cause is repeated, the *same* effect will result. It states rather that there is a constant relation between causes of certain kinds and effects of certain kinds. For example, if a body falls freely, there is a constant relation between the height through which it falls and the time it takes in falling. It is not necessary to have a body fall through the *same* height which has been previously observed, in order to be able to foretell the length of time occupied in falling. If this were necessary, no prediction would be possible, since it would be impossible to make the height exactly the same on two occasions. Similarly, the attraction which the sun will exert on the earth is not only known at distances for which it has been observed, but at all distances, because it is known to vary as the inverse square of the distance. In fact, what is found to be repeated is always the *relation* of cause and effect, not the cause itself; all that is necessary as regards the cause is that it should be of the same *kind* (in the relevant respect) as earlier causes whose effects have been observed.
+
+[37297] Another respect in which Bergson's statement of causation is inadequate is in its assumption that the cause must be *one* event, whereas it may be two or more events, or even some continuous process. The substantive question at issue is whether mental events are determined by the past. Now in such a case as the repeated reading of a poem, it is obvious that our feelings in reading the poem are most emphatically dependent upon the past, but not upon one single event in the past. All our previous readings of the poem must be included in the cause. But we easily perceive a certain law according to which the effect varies as the previous readings increase in number, and in fact Bergson himself tacitly assumes such a law. We decide at last not to read the poem again, because we know that this time the effect would be boredom. We may not know all the niceties and shades of the boredom we should feel, but we know enough to guide our decision, and the prophecy of boredom is none the less true for being more or less general. Thus the kinds of cases upon which Bergson relies are insufficient to show the impossibility of prediction in the only sense in which prediction has practical or emotional interest. We may therefore leave the consideration of his arguments and address ourselves to the problem directly.
+
+[38617] The law of causation, according to which later events can theoretically be predicted by means of earlier events, has often been held to be _a priori_, a necessity of thought, a category without which science would be impossible. These claims seem to me excessive. In certain directions the law has been verified empirically, and in other directions there is no positive evidence against it. But science can use it where it has been found to be true, without being forced into any assumption as to its truth in other fields. We cannot, therefore, feel any *a priori* certainty that causation must apply to human volitions.
+
+[39240] The question how far human volitions are subject to causal laws is a purely empirical one. Empirically it seems plain that the great majority of our volitions have causes, but it cannot, on this account, be held necessarily certain that all have causes. There are, however, precisely the same kinds of reasons for regarding it as probable that they all have causes as there are in the case of physical events.
+
+[39651] We may suppose--though this is doubtful--that there are laws of correlation of the mental and the physical, in virtue of which, given the state of all the matter in the world, and therefore of all the brains and living organisms, the state of all the minds in the world could be inferred, while conversely the state of all the matter in the world could be inferred if the state of all the minds were given. It is obvious that there is *some* degree of correlation between brain and mind, and it is impossible to say how complete it may be. This, however, is not the point which I wish to elicit. What I wish to urge is that, even if we admit the most extreme claims of determinism and of correlation of mind and brain, still the consequences inimical to what is worth preserving in free will do not follow. The belief that they follow results, I think, entirely from the assimilation of causes to volitions, and from the notion that causes *compel* their effects in some sense analogous to that in which a human authority can compel a man to do what he would rather not do. This assimilation, as soon as the true nature of scientific causal laws is realised, is seen to be a sheer mistake. But this brings us to the second of the two questions which we raised in regard to free will, namely, whether, assuming determinism, our actions can be in any proper sense regarded as compelled by outside forces.
+
+[41055] (2) *Are human actions subject to an external compulsion?* We have, in deliberation, a subjective sense of freedom, which is sometimes alleged against the view that volitions have causes. This sense of freedom, however, is only a sense that we can choose which we please of a number of alternatives: it does not show us that there is no causal connection between what we please to choose and our previous history. The supposed inconsistency of these two springs from the habit of conceiving causes as analogous to volitions--a habit which often survives unconsciously in those who intend to conceive causes in a more scientific manner. If a cause is analogous to a volition, outside causes will be analogous to an alien will, and acts predictable from outside causes will be subject to compulsion. But this view of cause is one to which science lends no countenance. Causes, we have seen, do not *compel* their effects, any more than effects *compel* their causes. There is a mutual relation, so that either can be inferred from the other. When the geologist infers the past state of the earth from its present state, we should not say that the present state *compels* the past state to have been what it was; yet it renders it necessary as a consequence of the data, in the only sense in which effects are rendered necessary by their causes. The difference which we *feel*, in this respect, between causes and effects is a mere confusion due to the fact that we remember past events but do not happen to have memory of the future.
+
+[42588] The apparent indeterminateness of the future, upon which some advocates of free will rely, is merely a result of our ignorance. It is plain that no desirable kind of free will can be dependent simply upon our ignorance; for if that were the case, animals would be more free than men, and savages than civilised people. Free will in any valuable sense must be compatible with the fullest knowledge. Now, quite apart from any assumption as to causality, it is obvious that complete knowledge would embrace the future as well as the past. Our knowledge of the past is not wholly based upon causal inferences, but is partly derived from memory. It is a mere accident that we have no memory of the future. We might--as in the pretended visions of seers--see future events immediately, in the way in which we see past events. They certainly will be what they will be, and are in this sense just as determined as the past. If we saw future events in the same immediate way in which we see past events, what kind of free will would still be possible? Such a kind would be wholly independent of determinism: it could not be contrary to even the most entirely universal reign of causality. And such a kind must contain whatever is worth having in free will, since it is impossible to believe that mere ignorance can be the essential condition of any good thing. Let us therefore imagine a set of beings who know the whole future with absolute certainty, and let us ask ourselves whether they could have anything that we should call free will.
+
+[44122] Such beings as we are imagining would not have to wait for the event in order to know what decision they were going to adopt on some future occasion. They would know now what their volitions were going to be. But would they have any reason to regret this knowledge? Surely not, unless the foreseen volitions were in themselves regrettable. And it is less likely that the foreseen volitions would be regrettable if the steps which would lead to them were also foreseen. It is difficult not to suppose that what is foreseen is fated, and must happen however much it may be dreaded. But human actions are the outcome of desire, and no foreseeing can be true unless it takes account of desire. A foreseen volition will have to be one which does not become odious through being foreseen. The beings we are imagining would easily come to know the causal connections of volitions, and therefore their volitions would be better calculated to satisfy their desires than ours are. Since volitions are the outcome of desires, a prevision of volitions contrary to desires could not be a true one. It must be remembered that the supposed prevision would not create the future any more than memory creates the past. We do not think we were necessarily not free in the past, merely because we can now remember our past volitions. Similarly, we might be free in the future, even if we could now see what our future volitions were going to be. Freedom, in short, in any valuable sense, demands only that our volitions shall be, as they are, the result of our own desires, not of an outside force compelling us to will what we would rather not will. Everything else is confusion of thought, due to the feeling that knowledge *compels* the happening of what it knows when this is future, though it is at once obvious that knowledge has no such power in regard to the past. Free will, therefore, is true in the only form which is important; and the desire for other forms is a mere effect of insufficient analysis.
+
+[46118] What has been said on philosophical method in the foregoing lectures has been rather by means of illustrations in particular cases than by means of general precepts. Nothing of any value can be said on method except through examples; but now, at the end of our course, we may collect certain general maxims which may possibly be a help in acquiring a philosophical habit of mind and a guide in looking for solutions of philosophic problems.
+
+[46560] Philosophy does not become scientific by making use of other sciences, in the kind of way in which (*e.g.*) Herbert Spencer does. Philosophy aims at what is *general*, and the special sciences, however they may *suggest* large generalisations, cannot make them certain. And a hasty generalisation, such as Spencer's generalisation of evolution, is none the less hasty because what is generalised is the latest scientific theory. Philosophy is a study apart from the other sciences: its results cannot be established by the other sciences, and conversely must not be such as some other science might conceivably contradict. Prophecies as to the future of the universe, for example, are not the business of philosophy; whether the universe is progressive, retrograde, or stationary, it is not for the philosopher to say.
+
+[47380] In order to become a scientific philosopher, a certain peculiar mental discipline is required. There must be present, first of all, the desire to know philosophical truth, and this desire must be sufficiently strong to survive through years when there seems no hope of its finding any satisfaction. The desire to know philosophical truth is very rare--in its purity, it is not often found even among philosophers. It is obscured sometimes--particularly after long periods of fruitless search--by the desire to *think* we know. Some plausible opinion presents itself, and by turning our attention away from the objections to it, or merely by not making great efforts to find objections to it, we may obtain the comfort of believing it, although, if we had resisted the wish for comfort, we should have come to see that the opinion was false. Again the desire for unadulterated truth is often obscured, in professional philosophers, by love of system: the one little fact which will not come inside the philosopher's edifice has to be pushed and tortured until it seems to consent. Yet the one little fact is more likely to be important for the future than the system with which it is inconsistent. Pythagoras invented a system which fitted admirably with all the facts he knew, except the incommensurability of the diagonal of a square and the side; this one little fact stood out, and remained a fact even after Hippasos of Metapontion was drowned for revealing it. To us, the discovery of this fact is the chief claim of Pythagoras to immortality, while his system has become a matter of merely historical curiosity. Love of system, therefore, and the system-maker's vanity which becomes associated with it, are among the snares that the student of philosophy must guard against.
+
+[49162] The above remarks, for purposes of illustration, adopt one of several possible opinions on each of several disputed points.
+
+[49287] The desire to establish this or that result, or generally to discover evidence for agreeable results, of whatever kind, has of course been the chief obstacle to honest philosophising. So strangely perverted do men become by unrecognised passions, that a determination in advance to arrive at this or that conclusion is generally regarded as a mark of virtue, and those whose studies lead to an opposite conclusion are thought to be wicked. No doubt it is commoner to wish to arrive at an agreeable result than to wish to arrive at a true result. But only those in whom the desire to arrive at a *true* result is paramount can hope to serve any good purpose by the study of philosophy.
+
+[49973] But even when the desire to know exists in the requisite strength, the mental vision by which abstract truth is recognised is hard to distinguish from vivid imaginability and consonance with mental habits. It is necessary to practise methodological doubt, like Descartes, in order to loosen the hold of mental habits; and it is necessary to cultivate logical imagination, in order to have a number of hypotheses at command, and not to be the slave of the one which common sense has rendered easy to imagine. These two processes, of doubting the familiar and imagining the unfamiliar, are correlative, and form the chief part of the mental training required for a philosopher.
+
+[50650] The naive beliefs which we find in ourselves when we first begin the process of philosophic reflection may turn out, in the end, to be almost all capable of a true interpretation; but they ought all, before being admitted into philosophy, to undergo the ordeal of sceptical criticism. Until they have gone through this ordeal, they are mere blind habits, ways of behaving rather than intellectual convictions. And although it may be that a majority will pass the test, we may be pretty sure that some will not, and that a serious readjustment of our outlook ought to result. In order to break the dominion of habit, we must do our best to doubt the senses, reason, morals, everything in short. In some directions, doubt will be found possible; in others, it will be checked by that direct vision of abstract truth upon which the possibility of philosophical knowledge depends.
+
+[51528] At the same time, and as an essential aid to the direct perception of the truth, it is necessary to acquire fertility in imagining abstract hypotheses. This is, I think, what has most of all been lacking hitherto in philosophy. So meagre was the logical apparatus that all the hypotheses philosophers could imagine were found to be inconsistent with the facts. Too often this state of things led to the adoption of heroic measures, such as a wholesale denial of the facts, when an imagination better stocked with logical tools would have found a key to unlock the mystery. It is in this way that the study of logic becomes the central study in philosophy: it gives the method of research in philosophy, just as mathematics gives the method in physics. And as physics, which, from Plato to the Renaissance, was as unprogressive, dim, and superstitious as philosophy, became a science through Galileo's fresh observation of facts and subsequent mathematical manipulation, so philosophy, in our own day, is becoming scientific through the simultaneous acquisition of new facts and logical methods.
+
+[52624] In spite, however, of the new possibility of progress in philosophy, the first effect, as in the case of physics, is to diminish very greatly the extent of what is thought to be known. Before Galileo, people believed themselves possessed of immense knowledge on all the most interesting questions in physics. He established certain facts as to the way in which bodies fall, not very interesting on their own account, but of quite immeasurable interest as examples of real knowledge and of a new method whose future fruitfulness he himself divined. But his few facts sufficed to destroy the whole vast system of supposed knowledge handed down from Aristotle, as even the palest morning sun suffices to extinguish the stars. So in philosophy: though some have believed one system, and others another, almost all have been of opinion that a great deal was known; but all this supposed knowledge in the traditional systems must be swept away, and a new beginning must be made, which we shall esteem fortunate indeed if it can attain results comparable to Galileo's law of falling bodies.
+
+[53709] By the practice of methodological doubt, if it is genuine and prolonged, a certain humility as to our knowledge is induced: we become glad to know *anything* in philosophy, however seemingly trivial. Philosophy has suffered from the lack of this kind of modesty. It has made the mistake of attacking the interesting problems at once, instead of proceeding patiently and slowly, accumulating whatever solid knowledge was obtainable, and trusting the great problems to the future. Men of science are not ashamed of what is intrinsically trivial, if its consequences are likely to be important; the *immediate* outcome of an experiment is hardly ever interesting on its own account. So in philosophy, it is often desirable to expend time and care on matters which, judged alone, might seem frivolous, for it is often only through the consideration of such matters that the greater problems can be approached.
+
+[54616] When our problem has been selected, and the necessary mental discipline has been acquired, the method to be pursued is fairly uniform. The big problems which provoke philosophical inquiry are found, on examination, to be complex, and to depend upon a number of component problems, usually more abstract than those of which they are the components. It will generally be found that all our initial data, all the facts that we seem to know to begin with, suffer from vagueness, confusion, and complexity. Current philosophical ideas share these defects; it is therefore necessary to create an apparatus of precise conceptions as general and as free from complexity as possible, before the data can be analysed into the kind of premisses which philosophy aims at discovering. In this process of analysis, the source of difficulty is tracked further and further back, growing at each stage more abstract, more refined, more difficult to apprehend. Usually it will be found that a number of these extraordinarily abstract questions underlie any one of the big obvious problems. When everything has been done that can be done by method, a stage is reached where only direct philosophic vision can carry matters further. Here only genius will avail. What is wanted, as a rule, is some new effort of logical imagination, some glimpse of a possibility never conceived before, and then the direct perception that this possibility is realised in the case in question. Failure to think of the right possibility leaves insoluble difficulties, balanced arguments pro and con, utter bewilderment and despair. But the right possibility, as a rule, when once conceived, justifies itself swiftly by its astonishing power of absorbing apparently conflicting facts. From this point onward, the work of the philosopher is synthetic and comparatively easy; it is in the very last stage of the analysis that the real difficulty consists.
+
+[56531] Of the prospect of progress in philosophy, it would be rash to speak with confidence. Many of the traditional problems of philosophy, perhaps most of those which have interested a wider circle than that of technical students, do not appear to be soluble by scientific methods. Just as astronomy lost much of its human interest when it ceased to be astrology, so philosophy must lose in attractiveness as it grows less prodigal of promises. But to the large and still growing body of men engaged in the pursuit of science--men who hitherto, not without justification, have turned aside from philosophy with a certain contempt--the new method, successful already in such time-honoured problems as number, infinity, continuity, space and time, should make an appeal which the older methods have wholly failed to make. Physics, with its principle of relativity and its revolutionary investigations into the nature of matter, is feeling the need for that kind of novelty in fundamental hypotheses which scientific philosophy aims at facilitating. The one and only condition, I believe, which is necessary in order to secure for philosophy in the near future an achievement surpassing all that has hitherto been accomplished by philosophers, is the creation of a school of men with scientific training and philosophical interests, unhampered by the traditions of the past, and not misled by the literary methods of those who copy the ancients in all except their merits.
+
+[57997] INDEX
+
+[58004] Abstraction, principle of, 42, 124 ff.
+
+[58044] Achilles, Zeno's argument of, 173.
+
+[58080] Activity, 224 ff.
+
+[58099] Anaximander, 3.
+
+[58116] Antinomies, Kant's, 155 ff.
+
+[58145] Aquinas, 10.
+
+[58159] Arrow, Zeno's argument of, 173.
+
+[58192] Assertion, 52.
+
+[58208] Atomism, logical, 4.
+
+[58230] Atomists, 160.
+
+[58246] Belief, 58. primitive and derivative, 69 ff.
+
+[58292] Brochard, 169 n.
+
+[58310] Calderon, 95.
+
+[58325] Categories, 38.
+
+[58342] Causal laws, 109, 212 ff. evidence for, 216 ff. in psychology, 219.
+
+[58411] Change, demands analysis, 151.
+
+[58443] Classes, 202. non-existence of, 205 ff.
+
+[58484] Classical tradition, 3 ff., 58.
+
+[58517] Congruence, 195.
+
+[58535] Consecutiveness, 134.
+
+[58558] Conservation, 105.
+
+[58578] Constituents of facts, 51, 145.
+
+[58611] Construction *v.* inference, iv.
+
+[58645] Contemporaries, initial, 119, 120 n.
+
+[58683] Correlation of mental and physical, 233.
+
+[58725] Couturat, 40 n.
+
+[58742] Definition, 204.
+
+[58760] Determinism, 233.
+
+[58779] Earlier and later, 116.
+
+[58804] Eleatics, 19.
+
+[58819] Enumeration, 202.
+
+[58838] Evolutionism, 4, 11 ff.
+
+[58863] External world, knowledge of, 63 ff.
+
+[58901] Finalism, 13.
+
+[58916] Geometry, 5.
+
+[58930] Greater and less, 195.
+
+[58954] Harvard, 4.
+
+[58967] Hereditary properties, 195.
+
+[58996] Hypotheses in philosophy, 239.
+
+[59028] Illusions, 85.
+
+[59044] Incommensurables, 162 ff., 237.
+
+[59077] Independence, 73, 74. causal and logical, 74, 75.
+
+[59128] Indiscernibility, 141, 148.
+
+[59157] Indivisibles, 160.
+
+[59177] Induction, 34, 222. mathematical, 195 ff.
+
+[59220] Inductiveness, 190, 195 ff.
+
+[59249] Infinitesimals, 135.
+
+[59271] Instinct *v.* Reason, 20 ff.
+
+[59301] Intellect, 22 ff.
+
+[59320] Intelligence, how displayed by friends, 93. inadequacy of display, 96.
+
+[59392] Interpretation, 144.
+
+[59414] Jourdain, 165 n.
+
+[59432] Judgment, 58.
+
+[59447] Knowledge about, 144.
+
+[59470] Laplace, 12.
+
+[59484] Laws of nature, 218 ff.
+
+[59509] Logic, 201. analytic not constructive, 8. Aristotelian, 5. and fact, 53. inductive, 34, 222. mathematical, vi, 40 ff. mystical, 46. and philosophy, 8, 33 ff., 239.
+
+[59674] Logical constants, 208, 213.
+
+[59704] Mathematics, 40, 57.
+
+[59726] Measurement, 164.
+
+[59745] Method, deductive, 5. logical-analytic, v, 65, 211, 236 ff.
+
+[59806] Montaigne, 28.
+
+[59822] Motion, 130, 216. continuous, 133, 136. mathematical theory of, 133. perception of, 137 ff. Zeno's arguments on, 168 ff.
+
+[59944] Philoponus, 171 n.
+
+[59964] Pragmatism, 11.
+
+[59981] Predictability, 229 ff.
+
+[60006] Premisses, 211.
+
+[60023] Probability, 36.
+
+[60041] Propositions, 52. atomic, 52. general, 55. molecular, 54.
+
+[60100] Race-course, Zeno's argument of, 171 ff.
+
+[60142] Realism, new, 6.
+
+[60160] Reflexiveness, 190 ff.
+
+[60184] Relations, 45. asymmetrical, 47. Bradley's reasons against, 6. external, 150. intransitive, 48. multiple, 50. one-one, 203. reality of, 49. symmetrical, 47, 124. transitive, 48, 124.
+
+[60368] Repetitions, 230 ff.
+
+[60390] Ritter and Preller, 161 n.
+
+[60418] Rousseau, 20.
+
+[60433] Santayana, 46.
+
+[60449] Seeing double, 86.
+
+[60469] Sense-perception, 53.
+
+[60492] Simplicius, 170 n.
+
+[60512] Simultaneity, 116.
+
+[60532] Stadium, Zeno's argument of, 134 n., 175 ff.
+
+[60578] Subject-predicate, 45.
+
+[60602] Tannery, Paul, 169 n.
+
+[60625] Teleology, 223.
+
+[60642] Thales, 3.
+
+[60654] Uniformities, 217.
+
+[60674] Unity, organic, 9.
+
+[60694] Universal and particular, 39 n.
+
+[60727] Volition, 223 ff.
+
+[60746] Whitehead, vi, 207.
+
+[60767] Wittgenstein, vii, 208 n.
+
+[60794] Worlds, actual and ideal, 111. possible, 186. private, 88.
+
+[60854] PRINTED BY NEILL AND CO., LTD., EDINBURGH.
+
+[60898] [ The following is a list of corrections made to the original. The first line is the original line, the second the corrected one.
+
+[61029] Second Impression Second Impression.
+
+[61067] more often than the impossibility of alternatives which seemed _prima more often than the impossibility of alternatives which seemed _prima
+
+[61208] with it. We will call these the "initial contemporaries of the given with it. We will call these the "initial contemporaries" of the given
+
+[61348] the next are liable to fail when we come to infinite number. The first the next are liable to fail when we come to infinite numbers. The first
+
+[61492] of psychology or an outcome of pscyhical processes as the North Sea.... of psychology or an outcome of psychical processes as the North Sea....
+
+[61637] according to the length and direction of the interval. "A quarter of a according to the length and direction of the interval. "A quarter of an
+
+[61781] Intelligence, how displayed by friends, 93 Intelligence, how displayed by friends, 93.

@@ -1,0 +1,289 @@
+WORK: Noctes Atticae  (slug: gellius-aulus-noctes-atticae-13f6ae)
+
+CHAPTER: 05
+
+
+
+[0] A discourse of the philosopher Favorinus carried on in the Socratic manner with an over-boastful grammarian; and in that discourse we are told how Quintus Scaevola defined penus
+
+[179] ; and that this same definition has been criticized and rejected.
+
+[246] IN the entrance hall of the palace on the Palatine a large number of men of almost all ranks had gathered together, waiting an opportunity to pay their respects to Caesar.
+
+[419] And there in a group of scholars, in the presence of the philosopher Favorinus, a man who thought himself unusually rich in grammatical lore was airing trifles worthy of the schoolroom, discoursing on the genders and cases of nouns with raised eyebrows and an exaggerated gravity of voice and expression, as if he were the interpreter and sovereign lord of the Sibyl's oracle. Then, looking at Favorinus, although as yet he was hardly acquainted with him, he said: "Penus too is used in different genders and is variously declined. For the early writers used to say hoc penus and haec penus, and in the genitive peni and penoris; Lucilius in his sixteenth satire also used the word mundus, which describes women's ornaments, not in the masculine gender, as other writers do, but in the neuter, in these words:
+
+[1230] A man once willed his wife all ornaments (mundum omne) and stores. But what are ornaments? Who will determine that? And he kept bawling out illustrations and examples of all these usages; but while he was prating quite too tiresomely, Favorinus interrupted and quietly said: Well and good, master, whatever your name is, you have taught us more than enough about many things of which we were indeed ignorant and certainly did not ask to know. For what difference does it make to me and the one with whom I am speaking in what gender I use penus, or with what endings I inflect it, provided no one of us does this too barbarously? But this is clearly what I need to know, what penus is, and how far that word may be employed, so that I may not call a thing in everyday use by the wrong name, as those do who begin to speak their Latin in the slave-market. "
+
+[2088] Your question is not at all difficult, replied the man. Who indeed does not know that penus is wine, wheat, oil, lentils, beans, and the other things of that kind? Is not penus also, said Favorinus, millet, panic-grass, acorns and barley? for these too are almost of the same sort; and when the man hesitated and did not answer, he continued: I do not want you to trouble yourself further about the question whether those things which I have mentioned are called penus. But can you not, instead of telling me some essential part of penus, rather define the meaning of the word by stating its genus and adding its species? Good Heavens! said he, I don't understand what you mean by genus and species. You ask, replied Favorinus, to have a matter which has been stated clearly stated still more clearly, which is very difficult; for it is surely a matter of common knowledge that every definition consists of genus and species. But if you ask me to predigest it for you, as they say, I will certainly do that too, for the sake of showing you honour.
+
+[3137] And then Favorinus began in this wise: If, said he, I should now ask you to tell me, and as it were to define in words, what a man is, you would not, I suppose, reply that you and I are men. For that is to show who is a man, not to tell what a man is. But if, I say, I should ask you to define exactly what a man is, you would undoubtedly tell me that a man is a mortal living being, endowed with reason and knowledge, or you would define him in some other manner which would differentiate him from all other animals. Similarly, then, I now ask you to tell what penus is, not to name some example of penus. Then that boaster, now in humble and subdued tones, said: I have never learned philosophy, nor desired to learn it, and if I do not know whether barley is included under penus, or in what words penus is defined, I am not on that account ignorant also of other branches of learning.
+
+[4027] To know what penus is, said Favorinus, who was now laughing, is not more a part of my philosophy than of your grammar. For you remember, I suppose, that it is often inquired whether Virgil said penum struere longam or longo ordine;
+
+[4260] for you surely know that both readings are current. But to make you feel easier in mind, let me say that not even those old masters of the law who were called 'wise men' are thought to have defined penus with sufficient accuracy. For I hear that Quintus Scaevola used the following words to explain penus:
+
+[4567] Penus,' said he, 'is what is to be eaten or drunk, which is prepared for the use of the father of the family himself; or the mother of the family, or the children of the father, or the household which he has about him or his children and which is not engaged in work
+
+[4835] ... as
+
+[4843] Mucius says ought to be regarded as penus. For articles which are prepared for eating and drinking day by day, for luncheon or dinner, are not penus; but rather the articles of that kind which are collected and stored up for use during a long period are called penus, because they are not ready at hand, but are kept in the innermost part of the house.'
+
+[5198] This information, said Favorinus, although I had devoted myself to philosophy, I yet did not neglect to acquire; since for Roman citizens speaking Latin it is no less disgraceful not to designate a thing by its proper word than it is to call a man out of his own name.
+
+[5468] Thus Favorinus used to lead ordinary conversations of this kind from insignificant and trivial topics to those which were better worth hearing and knowing, topics not lugged in irrelevantly, nor by way of display, but springing from and suggested by the conversations themselves.
+
+[5749] Besides what Favorinus said, I think this too ought to be added to our consideration of penus, that Servius Sulpicius, in his Criticism of the Chapters of Scaevola, wrote that Aelius Catus believed that not only articles for eating and drinking, but also incense and wax tapers were included under the head of penus, since they were provided for practically the same purpose. But Masurius Sabinus, in the second book of his Civil Law, declares that whatever was prepared for the beasts of burden which the owner of a house used was also penus. He adds that some have thought that the term likewise included wood, faggots and charcoal, by means of which the penus was made ready for use. But of articles kept in the same place, for use or for purposes of trade, he thinks that only the amount which was sufficient for a year's needs was to be regarded as penus.
+
+[6611] On the difference between a disease and a defect, and the force of those terms in the aediles' edict; also whether eunuchs and barren women can he returned, and the various views as to that question.
+
+[6812] THE edict of the curule aediles, in the section containing stipulations about the purchase of slaves, reads as follows:
+
+[6933] See to it that the sale ticket of each slave be so written that it can be known exactly what disease or defect each one has, which one is a runaway or a vagabond, or is still under condemnation for some offence.
+
+[7146] Therefore the jurists of old raised the question of the proper meaning of a diseased slave and one that was defective, and to what degree a disease differed from a defect. Caelius Sabinus, in the book which he wrote
+
+[7363] On the Edict of t he Curule Aediles, quotes Labeo, as defining a disease in these terms: Disease is an unnatural condition of any body, which impairs its usefulness. But he adds that disease affects sometimes the whole body and at other times a part of the body. That a disease of the whole body is, for example, consumption or fever, but of a part of the body anything like blindness or lameness. But, he continues, one who stutters or stammers is defective rather than diseased, and a horse which bites or kicks has faults rather than a disease. But one who has a disease is also at the same time defective. However, the converse is not also true; for one may have defects and yet not be diseased. Therefore in the case of a man who is diseased, says he, it will be just and fair to state to what extent ' the price will be less on account of that defect.'
+
+[8223] With regard to a eunuch in particular it has been inquired whether he would seem to have been sold contrary to the aediles' edict, if the purchaser did not know that he was a eunuch. They say that Labeo ruled that he could be returned as diseased; and that Labeo also wrote that if sows were sterile and had been sold, action could be brought on the basis of the edict of the aediles. But in the case of a barren woman, if the barrenness were congenital they say that Trebatius gave a ruling opposed to that of Labeo. For while Labeo thought that she could be returned as unsound, they quote Trebatius as declaring that no action could be taken on the basis of the edict, if the woman had been born barren. But if her health had failed, and in consequence such a defect had resulted that she could not conceive, in that case she appeared to be unsound and there was ground for returning her. With regard to a short-sighted person too, one whom we call in Latin luscitiosus, there is disagreement; for some maintain that such a person should be returned in all cases, while others on the contrary hold that he can be returned only if that defect was the result of disease. Servius indeed ruled that one who lacked a tooth could be returned, but Labeo said that such a defect was not sufficient ground for a return: For, says he, many men lack some one tooth, and most of them are no more diseased on that account, and it would be altogether absurd to say that men are not born sound, because infants come into the world unprovided with teeth.
+
+[9766] I must not omit to say that this also is stated in the works of the early jurists, that the difference between a disease and a defect is that the latter is lasting, while the former comes and goes. But if this be so, contrary to the opinion of Labeo, which I quoted above, neither a blind man nor a eunuch is diseased.
+
+[10086] I have added a passage from the second book of Masurius Sabinus On Civil Law.:
+
+[10166] A madman or a mute, or one who has a broken or crippled limb, or any defect which impairs his usefulness, is diseased. But one who is by nature near-sighted is as sound as one who runs more slowly than others.
+
+[10377] That before the divorce of Carvilius there were no lawsuits about a wife's dowry in the city of Rome; further, the proper meaning of the word paelex and its derivation.
+
+[10547] IT is on record that for nearly five hundred years after the founding of Rome there were no lawsuits and no warranties in connection with a wife's dowry in the city of Rome or in Latium, since of course nothing of that kind was called for, inasmuch as no marriages were annulled during that period. Servius Sulpicius too, in the book which he compiled On Dowries, wrote that security for a wife's dower seemed to have become necessary for the first time when Spurius Carvilius, who was surnamed Ruga, a man of rank, put away his wife because, owing to some physical defect, no children were born from her; and that this happened in the five hundred and twenty-third year after the founding of the city, in the consulship of Marcus Atilius and Publius Valerius.
+
+[11309] And it is reported that this Carvilius dearly loved the wife whom he divorced, and held her in strong affection because of her character, but that above his devotion and his love he set his regard for the oath which the censors had compelled him to take, that he would marry a wife for the purpose of begetting children.
+
+[11631] Moreover, a woman was called paelex, or concubine, and regarded as infamous, if she lived on terms of intimacy with a man who had another woman under his legal control in a state of matrimony, as is evident from this very ancient law, which we are told was one of king Numa's:
+
+[11909] Let no concubine touch the temple of Juno; if she touch it, let her, with hair unbound, offer up a ewe lamb to Juno.
+
+[12027] Now paelex is the equivalent of pa/llac, that is to say, of pallaki/s.
+
+[12099] Like many other words of ours, this one too is derived from the Greek.
+
+[12171] What Servius Sulpicius wrote in his work On Dowries about the law and usage of betrothals in early times.
+
+[12278] IN the book to which he gave the title On Dowries Servius Sulpicius wrote that in the part of Italy known as Latium betrothals were regularly contracted according to the following customary and legal practice. One who wished to take a wife, says he, demanded of him from whom she was to be received a formal promise that she would be given in marriage. The man who was to take the woman to wife made a corresponding promise. That contract, based upon pledges given and received, was called sponsalia, or 'betrothal.' Thereafter, she who had been promised was called sponsa, and he who had asked her in marriage, sponsus. But if, after such an interchange of pledges, the bride to be was not given in marriage, or was not received, then he who had asked for her hand, or he who had promised her, brought suit on the ground of breach of contract. The court took cognizance of the case. The judge inquired why the woman was not given in marriage, or why she was not accepted. If no good and sufficient reason appeared, the judge then assigned a money value to the advantage to be derived from receiving or giving the woman in marriage, and condemned the one who had made the promise, or the one who had asked for it, to pay a fine of that amount.
+
+[13523] Servius Sulpicius says that this law of betrothal was observed up to the time when citizenship was given to all Latium by the Julian law.
+
+[13662] The same account as the above was given also by Neratius in the book which he wrote On Marriage.
+
+[13760] A story which is told of the treachery of Etruscan diviners; and how because of that circumstance the boys at Rome chanted this verse all over the city: Bad counsel to the giver is most ruinous.
+
+[13956] The statue of that bravest of men, Horatius Cocles, which stood in the Comitium at Rome, was struck by lightning. To make expiatory offerings because of that thunderbolt, diviners were summoned from Etruria. These, through personal and national hatred of the Romans, had made up their minds to give false directions for the performance of that rite.
+
+[14307] They accordingly gave the misleading advice that the statue in question should be moved to a lower position, on which the sun never shone, being cut off by the high buildings which surrounded the place on every side. When they had induced the Romans to take that course, they were betrayed and brought to trial before the people, and having confessed their duplicity, were put to death. And it became evident, in exact accord with what were later found to be the proper directions, that the statue ought to be taken to an elevated place and set up in a more commanding position in the area of Vulcan;
+
+[14909] and after that was done, the matter turned out happily and successfully for the Romans. At that time, then, because the evil counsel of the Etruscan diviners had been detected and punished, this clever line is said to have been composed, and chanted by the boys all over the city:
+
+[15191] Bad counsel to the giver is most ruinous.
+
+[15234] This story about the diviners and that senarius is found in the Annales Maximi, in the eleventh book, and in Verrius Flaccus' first book of Things Worth Remembering.
+
+[15401] But the verse appears to be a translation of the Greek poet Hesiod's familiar line:
+
+[15486] And evil counsel aye most evil is To him who gives it.
+
+[15542] A quotation from an early decree of the senate, which provided that sacrifice should be made with full-grown victims because the spears of Mars had moved in the sanctuary; also an explanation of the meaning of hostiae succidaneae and likewise of porca praecidanea; and further, that Ateius Capito called certain holidays praecidaneae.
+
+[15878] NOT only was an earthquake regularly reported, and expiatory offerings made on that account, but I also find it mentioned in early records, that report was made to the senate when the spears of Mars had moved in the sanctuary in the Regia.
+
+[16119] Because of such an occurrence, a decree of the senate was passed in the consulship of Marcus Antonius and Aulus Postumius, of which this is a copy: Whereas Gaius Julius, son of Lucius, the pontifex, has reported that the spears of Mars have moved in the sanctuary in the Regia, the senate has therefore decreed with reference to that matter, that Marcus Antonius the consul should make expiation to Jupiter and Mars with full-grown victims, and with unweaned victims to such of the other gods as he thought proper. They decided that it should be regarded as sufficient for him to have sacrificed with these. If there should be any need of additional victims, the additional offerings should be made with red victims.
+
+[16837] Inasmuch as the senate called some victims succidaneae, it is often inquired what that word means. Also in the comedy of Plautus which is entitled Epidicus I hear that inquiry is made about that same word, which occurs in these verses:
+
+[17074] Should I the victim of your folly be And let you sacrifice my back to it, As substitute for yours?
+
+[17174] Now it is said that the victims were called succidaneae —which is equivalent to succaedaneae, the diphthong ae, according to the custom in compound words, being changed to i —because if the expiation was not effected by the first victims, other victims were brought and killed after them; and since these, after the first had already been offered, were substituted for the sake of making atonement and were slain in succession to the others, they were called succidaneae, the letter i, of course, being pronounced long; for I hear that some barbarously shorten that letter in this word.
+
+[17762] Moreover, it is on the same linguistic principle that praecidanea is applied to those victims which are offered on the day before the regular sacrifices. Also the sow is called praecidalea which it was usual to offer up to Ceres before the harvesting of the new crops, for the sake of expiation in case any had failed to purify a defiled household, or had performed that rite in an improper manner.
+
+[18162] But that a sow and certain victims are called praecidaneae, as I have said, is a matter of common knowledge; that some festivals are called praecidaneae is a fact I think that is not known to the general public. Therefore I have quoted a passage from the fifth book of the treatise which Ateius Capito compiled On Pontifical Law:
+
+[18493] Tiberius Coruncanius, the pontifex maximus, appointed feriae praecidaneae, or a preparatory festival, for a day of ill-omen. The college of pontiffs voted that there need be no religious scruple against celebrating the feriae praecidaneae on that day.
+
+[18746] On a letter of the grammarian Valerius Probus, written to Marcellus, regarding the accent of certain Punic names.
+
+[18861] VALERIUS PROBUS the grammarian was conspicuous among the men of his time for his learning. He pronounced Hannibalem and Hasdrubalem and Hamilcarem with a circumflex accent on the penult, and there is a letter addressed To Marcellus, in which he asserts that Plautus, and Ennius and many other early writers pronounced in that way; but he quotes a single line of Ennius alone, from the book entitled Scipio.
+
+[19269] That verse, composed in octonarii,
+
+[19305] I have appended; in it, unless the third syllable of Hannibal's name is circumflexed, the metre will halt. The verse of Ennius to which I referred reads thus:
+
+[19465] And where near Hannibal's forces he had camped.
+
+[19514] What Gaius Fabricius said of Cornelius Rufinus, an avaricious man, whose election to the consulship he supported, although he hated him and was his personal enemy.
+
+[19679] FABRICIUS LUSCINUS was a man of great renown and great achievements. Publius Cornelius Rufinus was, to be sure, a man energetic in action, a good warrior, and a master of military tactics, but thievish and keen for money. This man Fabricius neither respected nor treated as a friend, but hated him because of his character. Yet when consuls were to be chosen at a highly critical period for the State, and that Rufinus was a candidate while his competitors were without military experience and untrustworthy, Fabricius used every effort to have the office given to Rufinus.
+
+[20254] When many men expressed surprise at his attitude, in wishing an avaricious man, towards whom he felt bitter personal enmity, to be elected consul, he said: I would rather be robbed by a fellow-citizen than sold by the enemy.
+
+[20480] This Rufinus afterwards, when he had been dictator and twice consul, Fabricius in his censorship expelled from the senate on the charge of extravagance, because he possessed ten pounds weight of silver plate. That remark of Fabricius about Rufinus I gave above in the form in which it appears in most historians; but Marcus Cicero, in the second book of the De Oratore, says that it was not made by Fabricius to others, but to Rufinus himself, when he was thanking Fabricius because he had been elected consul through his help.
+
+[21009] On the proper meaning of religiosus; and what changes the meaning of that word has undergone; and remarks of Nigidius Figulus on that subject, drawn from his Commentaries.
+
+[21182] NIGIDIUS FIGULUS, in my opinion the most learned of men next to Marcus Varro, in the eleventh book of his Grammatical Commentaries, quotes a truly remarkable line from an early poet:
+
+[21366] Best it is to be religious, lest one superstitious be; but he does not name the author of the poem. And in the same connection Nigidius adds: The suffix osus in words of this kind, such as vinosus, mulierosus, religiosus, always indicates an excessive amount of the quality in question. Therefore religiosus is applied to one who has involved himself in an extreme and superstitious devotion, which was regarded as a fault.
+
+[21791] But in addition to what Nigidius says, by another shift in meaning religiosus began to be used of an upright and conscientious man, who regulates his conduct by definite laws and limits. Similarly too the following terms, which have the same origin, appear to have acquired different meanings; namely, religiosus dies and religiosa delubra. For those days are called religiosi which are of ill-fame and are hampered by an evil omen, so that on them one must refrain from offering sacrifice or beginning any new business whatever; they are, namely, the days that the ignorant multitude falsely and improperly call ne fasti.
+
+[22415] Thus Marcus Cicero, in the ninth book of his Letters to Atticus, writes:
+
+[22489] Our forefathers maintained that the day of the battle at the Allia was more calamitous than that on which the city was taken; because the latter disaster was the result of the former. Therefore the one day is even now religiosus, while the other is unknown to the general public. Yet the same Marcus Tullius, in his speech On Appointing a Prosecutor, uses the term religiosa delubra of shrines which are not ill-omened and gloomy, but full of majesty and sacredness. Masurius Sabinus too, in his Notes on Native Words, says:
+
+[23015] Religiosus is that which because of some sacred quality is removed and withdrawn from us; the word is derived from relinquo, as is caerimonia from careo.
+
+[23170] According to this explanation of Sabinus, temples indeed and shrines—since an accumulation of these does not give rise to censure, as in case of things which are praised for their moderate use—since they are to be approached, not unceremoniously and thoughtlessly, but after purification and in due form, must be both revered and feared, rather than profaned; but those days are called religiosi which for the opposite reason, because they are of dire omen, we avoid.
+
+[23639] And Terence says:
+
+[23658] Then too I give her nothing, except to say All right; For I avoid confessing my impecunious plight. But if, as Nigidius says, all derivatives of that kind indicate an excessive and immoderate degree, and therefore have a bad sense, as do vinosus (fond of wine), mulierosus (fond of women), morosus (whimsical), verbosus (wordy), famosus (notorious), why are ingeniosus (talented), formosus (beautiful), officiosus (dutiful), and speciosus (showy), which are formed in the same way from ingenium, forma, officium, and species, why too are disciplinosus (well-trained), consiliosus (full of wisdom), victoriosus (victorious), words coined by Marcus Cato, why too facundiosts —for Sempronius Asellio in the thirteenth book of his History wrote, one should regard his deeds, not his words if they are less eloquent (facundiosa) —why, I say, are all these adjectives used, not in a bad, but in a good sense, although they too indicate an excessive amount of the quality which they signify? Is it because a certain necessary limit must be set for the qualities indicated by those words which I first cited? For favour if it is excessive and without limit, and habits if they are too many and varied, and words if they are unceasing, endless and deafening, and fame if it should be great and restless and begetting envy; all these are neither praiseworthy nor useful; but talent, duty, beauty, training, wisdom, victory and eloquence, being in themselves great virtues, are confined within no limits, but the greater and more extensive they are, the more are they deserving of praise.
+
+[25237] The order observed in calling upon senators for their opinions; and the altercation in the senate between Gaius Caesar, when consul, and Marcus Cato, who tried to use up the whole day in talk.
+
+[25431] BEFORE the passage of the law which is now observed in the proceedings of the senate, the order in calling for opinions varied. Sometimes the man was first called upon whom the censors had first enrolled in the senate, sometimes the consuls elect; some of the consuls, influenced by friendship or some personal relationship, used to call first upon anyone they pleased, as a compliment, contrary to the regular order. However, when the usual order was not followed, the rule was observed of not calling first upon any but a man of consular rank. It is said that Gaius Caesar, when he was consul with Marcus Bibulus, called upon only four senators out of order. The first of these was Marcus Crassus, but after Caesar had betrothed his daughter to Gnaeus Pompeius, he began to call upon Pompeius first.
+
+[26234] Caesar gave the senate his reason for this procedure, according to the testimony of Tullius Tiro, Cicero's freedman, who writes that he had the information from his patron. Ateius Capito has made the same statement in his work On Senatorial Conduct.
+
+[26485] In the same treatise of Capito is this passage:
+
+[26534] The consul Gaius Caesar called upon Marcus Cato for his opinion. Cato did not wish to have the motion before the house carried, since he did not think it for the public good. For the purpose of delaying action, he made a long speech and tried to use up the whole day in talking. For it was a senator's right, when asked his opinion, to speak beforehand on any other subject he wished, and as long as he wished. Caesar, in his capacity as consul, summoned an attendant, and since Cato would not stop, ordered him to be arrested in the full tide of his speech and taken to prison. The senate arose in a body and attended Cato to the prison. But this, he says, aroused such indignation, that Caesar yielded and ordered Cato's release.
+
+[27267] The nature of the information which Aristoxenus has handed down about Pythagoras on the ground that it was more authoritative; and also what Plutarch wrote in the same vein about that same Pythagoras.
+
+[27469] AN erroneous belief of long standing has established itself and become current, that the philosopher Pythagoras did not eat of animals: also that he abstained from the bean, which the Greeks call ku/amos. In accordance with that belief the poet Callimachus wrote:
+
+[27734] I tell you too, as did Pythagoras, Withhold your hands from beans, a hurtful food. Also, as the result of the same belief, Marcus Cicero wrote these words in the first book of his work On Didination:
+
+[27935] Plato therefore bids us go to our sleep in such bodily condition that there may be nothing to cause delusion and disturbance in our minds. It is thought to be for that reason too that the Pythagoreans were forbidden to eat beans, a food that produces great flatulency, which is disturbing to those who seek mental calm.
+
+[28256] So then Cicero. But Aristoxenus the musician, a man thoroughly versed in early literature, a pupil of the philosopher Aristotle, in the book On Pythagoras which he has left us, says that Pythagoras used no vegetable more often than beans, since that food gently loosened the bowels and relieved them. I add Aristoxenus' own words:
+
+[28588] Pythagoras among vegetables especially recommended the bean, saying that it was both digestible and loosening; and therefore he most frequently made use of it.
+
+[28749] Aristoxenus also relates that Pythagoras ate very young pigs and tender kids. This fact he seems to have learned from his intimate friend Xenophilus the Pythagorean and from some other older men, who lived not long after the time of Pythagoras. And the same information about animal food is given by the poet Alexis, in the comedy entitled The Pythagorean Bluestocking.
+
+[29120] Furthermore, the reason for the mistaken idea about abstaining from beans seems to be, that in a poem of Empedocles, who was a follower of Pythagoras, this line is found:
+
+[29292] O wretches, utter wretches, from beans withhold your hands. For most men thought that kua/mous meant the vegetable, according to the common use of the word. But those who have studied the poems of Empedocles with greater care and knowledge say that here kua/mous refers to the testicles, and that after the Pythagorean manner they were called in a covert and symbolic way ku/amoi, because they are the cause of pregnancy and furnish the power for human generation:
+
+[29758] and that therefore Empedocles in that verse desired to keep men, not from eating beans, but from excess in venery.
+
+[29874] Plutarch too, a man of weight in scientific matters, in the first book of his work On Homer wrote that Aristotle gave the same account of the Pythagoreans: namely, that except for a few parts of the flesh they did not abstain from eating animals. Since the statement is contrary to the general belief, I have appended Plutarch's own words:
+
+[30215] Aristotle says that the Pythagoreans abstained from the matrix, the heart, the a)kalh/fh and some other such things, but used all other animal food. Now the a)kalh/fh is a marine creature which is called the sea-nettle. But Plutarch in his Table Talk says that the Pythagoreans also abstained from mullets.
+
+[30523] But as to Pythagoras himself, while it is well known that he declared that he had come into the world as Euphorbus, what Cleanthes and Dicaearchus have recorded is less familiar—that he was afterwards Pyrrhus Pyranthius, then Aethalides, and then a beautiful courtesan, whose name was Alco.
+
+[30815] Instances of disgrace and punishment inflicted by the censors, found in ancient records and worthy of notice.
+
+[30926] IF anyone had allowed his land to run to waste and was not giving it sufficient attention, if he had neither ploughed nor weeded it, or if anyone had neglected his orchard or vineyard, such conduct did not go unpunished, but it was taken up by the censors, who reduced such a man to the lowest class of citizens.
+
+[31240] So too, any Roman knight, if his horse seemed to be skinny or not well groomed, was charged with inpolitiae, a word which means the same thing as negligence.
+
+[31399] There are authorities for both these punishments, and Marcus Cato has cited frequent instances.
+
+[31496] On the possibility of curing gout by certain melodies played in a special way on the flute.
+
+[31589] I RAN across the statement very recently in the book of Theophrastus On Inspiration that many men have believed and put their belief on record, that when gouty pains in the hips are most severe, they are relieved if a flute-player plays soothing measures. That snake-bites are cured by the music of the flute, when played skilfully and melodiously, is also stated in a book of Democritus, entitled On Deadly Infections, in which he shows that the music of the flute is medicine for many ills that flesh is heir to. So very close is the connection between the bodies and the minds of men, and therefore between physical and mental ailments and their remedies.
+
+[32249] A story told of Hostilius Mancinus, a curule aedile, and the courtesan Manilia; and the words of the decree of the tribunes to whom Manilia appealed.
+
+[32400] As I was reading the ninth book of the Miscellany of Ateius Capito, entitled On Public Decisions, one decree of the tribunes seemed to me full of old-time dignity. For that reason I remember it, and it was rendered for this reason and to this purport. Aulus Hostilius Mancinus was a curule aedile.
+
+[32699] He brought suit before the people against a courtesan called Manilia, because he said that he had been struck with a stone thrown from her apartment by night, and he exhibited the wound made by the stone. Manilia appealed to the tribunes of the commons. Before them she declared that Mancinus had come to her house in the garb of a reveller; that it would not have been to her advantage to admit him, and that when he tried to break in by force, he had been driven off with stones. The tribunes decided that the aedile had rightly been refused admission to a place to which it had not been seemly for him to go with a garland on his head;
+
+[33339] therefore they forbade the aedile to bring an action before the people.
+
+[33412] The defence of a passage in the historical works of Sallust, which his enemies attacked in a spirit of malicious criticism.
+
+[33537] THE elegance of Sallust's style and his passion for coining and introducing new words was met with exceeding great hostility, and many men of no mean ability tried to criticize and decry much in his writings. Many of the attacks on him were ignorant or malicious. Yet there are some things that may be regarded as deserving of censure, as for example the following passage in the History of Catiline, which has the appearance of being written somewhat carelessly. Sallust's words are these: And for myself, although I am well aware that by no means equal repute attends the narrator and the doer of deeds, yet I regard the writing of history as one of the hardest of tasks; first because the style and diction must be equal to the deeds recorded; and in the second place, because such criticisms as you make of others' shortcomings are thought by most men to be due to malice and envy. Furthermore, when you commemorate the distinguished merit and fame of good men, while everyone is quite ready to believe you when you tell of things which he thinks he could easily do himself, everything beyond that he regards as fictitious, if not false. The critics say: He declared that he would give the reasons why it appears to be ' hard ' 'to write history'; and then, after mentioning the first reason, he does not give a second, but gives utterance to complaints. For it ought not to be regarded as a reason why the work of history is 'hard,' that the reader either misinterprets what is written or does not believe it to be true. They maintain that he ought to say that such work is exposed and subject to misjudgments, rather than hard; for that which is hard is hard because of the difficulty of its accomplishment, not because of the mistaken opinions of other men.
+
+[35303] That is what those ill-natured critics say. But Sallust does not use arduus merely in the sense of hard, but as the equivalent of the Greek word xalepo/s, that is, both difficult and also troublesome, disagreeable and intractable. And the meaning of these words is not inconsistent with that of the passage which was just quoted from Sallust.
+
+[35647] On the inflection of certain words by Varro and Nigidius contrary to everyday usage; and also a quotation of some instances of the same kind from the early writers, with examples.
+
+[35828] I LEARN that Marcus Varro and Publius Nigidius, the most learned of all the Romans, always said and wrote senatuis, domuis and fluctuis as the genitive case of the words senatus, domus and fluctus, and used senatui, domui, fluctui, and other similar words, with the corresponding dative ending. There is also a line of the comic poet Terence, which in the old manuscripts is written as follows:
+
+[36224] Because, I think, of that old dame (anuis) who died. Some of the early grammarians wished to give this authority of theirs the sanction of a rule; namely, that every dative singular ending in l, if it has not the same form as the genitive singular, makes the genitive singular by adding s, as pati patris, duci ducis, caedi caedis. Therefore, they say, since we use senatui as the dative case, the genitive singular of that word is senatuis, not senatus.
+
+[36680] But all are not agreed that we should use senatui in the dative case rather than senatu. For example, Lucilius in that same case uses victu and ann, and not victui and anui, in these verses:
+
+[36872] Since you to honest fare (victu) do waste and feasts prefer, and in another place:
+
+[36956] I'm doing harm to the old girl (anu). Vergil also in the dative case writes aspectu and not aspecui:
+
+[37058] Withdraw not from our view (aspectu) and in the Georgics:
+
+[37117] Nor give themselves to love's embrace (concubitu). Gaius Caesar too, a high authority on the Latin language, says in his Speech against Cato:
+
+[37260] owing to the arrogance, haughtiness and tyranny dominateu) of one man. Also in the First Action against Dolabella, Book I:
+
+[37384] Those in whose temples and shrines they had been placed for an honour and an adornment (ornatu).
+
+[37482] Also, in his books on analogy he decides that i should be omitted in all such forms.
+
+[37568] A discussion of the natural quantity of certain particles, the long pronunciation of which, when prefixed to verbs, seems to be barbarous and ignorant; with several examples and explanations.
+
+[37761] IN the eleventh book of Lucilius are these lines:
+
+[37812] Thus base Asellus did great Scipio taunt: Unlucky was his censorship and bad. I hear that many read obiciebat with a long o, and they say that they do this in order to preserve the metre.
+
+[38001] Again farther on he says:
+
+[38028] I'd versify the words the herald Granius spoke. In this passage also they lengthen the prefix of the first word for the same reason. Again in the fifteenth book:
+
+[38191] Subicit huic humilem et suffercitus posteriorem, they read subicit with a long u, because it is not proper for the first syllable to be short in heroic verse. Likewise in the Epidicus of Plautus they lengthen the syllable con in Haste now, Epidicus, prepare yourself, And throw (conice) your mantle round about your neck. In Virgil too I hear that some lengthen the verb subicit in:
+
+[38575] Parnassian laurel too Lifts (subicit) 'neath large mother-shade its infant stem. But neither the preposition ob nor sub is long by nature, nor is con long either, except when it is followed by the letters which come directly after it in constituit and confecit, or when its n is lost, as in Sallust's faenoribus copertus.
+
+[38898] But in those instances which I have mentioned above the metre may be preserved without barbarously lengthening the prefixes; for the following letter in those words should be written with two i's, not with one. For the simple verb to which the above-mentioned particles are prefixed, is not icio, but iacio, and the perfect is not icit, but iecit. When that word is used in compounds, the letter a is changed into i, as happens in the verbs insilio and incipio, and thus the first i acquires consonantal force.
+
+[39410] Accordingly, that syllable, being pronounced a little longer and fuller, does not allow the first syllable to be short, but makes it long by position, and thus the rhythm of the verse and the correct pronunciation are preserved.
+
+[39640] What I have said leads also to a knowledge of this, that in the line which we find in the sixth book of Virgil:
+
+[39753] Unconquered chieftain, save me from these ills; Or do thou earth cast on (inice) me, iniice is to be written and pronounced as I have indicated above, unless anyone is so ignorant as to lengthen the preposition in in this word too for the sake of the metre.
+
+[40012] We ask then for what reason the letter o in obicibus is lengthened, since this word is derived from the verb obiicio, and is not at all analogous to motus, which is from moveo and is pronounced with a long o. I myself recall that Sulpicius Apollinaris, a man eminent for his knowledge of literature, pronounced obices and obicibus with a short o, and that in Virgil too he read in the same way the lines:
+
+[40418] And by what force the oceans fathomless Rise, bursting all their bounds (obicibus); but, as I have indicated, he gave the letter i, which in that word also should be doubled, a somewhat fuller and longer sound.
+
+[40630] It is consistent therefore that subices also, which is formed exactly like obices, should be pronounced with the letter u short. Ennius, in his tragedy which is entitled Achilles, uses subices for the upper air which is directly below the heavens, in these lines:
+
+[40895] By lofty, humid regions (subices) of the gods I swear, Whence comes the storm with savage roaring wind; yet, in spite of what I have said, you may hear almost everyone read subices with a long u. But Marcus Cato uses that very verb with another prefix in the speech which he delivered On his Consulship:
+
+[41200] So the wind bears them to the beginning of the Pyrenees' range, where it extends (proicit) into the deep. And so too Pacuvius in the Chryses:
+
+[41343] High Ida's cape, whose tongue into the deep extends (proicit).
+
+[41407] Some stories of the elder Publius Africanus, taken from the annals and well worth relating.
+
+[41500] How greatly the earlier Scipio Africanus excelled in the splendour of his merits, how lofty and noble of spirit he was, and to what an extent he was upheld by consciousness of his own rectitude, is evident from many of his words and acts. Among these are the following two instances of his extreme self-confidence and sense of superiority.
+
+[41841] When Marcus Naevius, tribune of the commons, accused him before the people and declared that he had received money from king Antiochus to make peace with him in the name of the Roman people on favourable and easy terms, and when the tribune added sundry other charges which were unworthy of so great a man, then Scipio, after a few preliminary remarks such as were called for by the dignity and renown of his life, said: I recall, fellow citizens, that this is the day on which in Africa in a mighty battle I conquered Hannibal the Carthaginian, the most bitter enemy of your power, and won for you a splendid peace and a glorious victory. Let us then not be ungrateful to the gods, but, I suggest, let us leave this worthless fellow, and go at once to render thanks to Jupiter, greatest and best of gods. So saying, he turned away and set out for the Capitol. Thereupon the whole assembly, which had gathered to pass judgment on Scipio, left the tribune, accompanied Scipio to the Capitol, and then escorted him to his home with the joy and expressions of gratitude suited to a festal occasion. The very speech is in circulation which is believed to have been delivered that day by Scipio, and those who deny its authenticity at least admit that these words which I have quoted were spoken by Scipio.
+
+[43144] There is also another celebrated act of his. Certain Petilii, tribunes of the commons, influenced they say by Marcus Cato, Scipio's personal enemy, and instigated to appear against him, insisted most vigorously in the senate on his rendering an account of the money of Antiochus and of the booty taken in that war; for he had been deputy to his brother Lucius Scipio Asiaticus, the commander in that campaign. Thereupon Scipio arose, and taking a roll from the fold of his toga, said that it contained an account of all the money and all the booty; that he had brought it to be publicly read and deposited in the treasury. But that, said he, I shall not do now, nor will I so degrade myself. And at once, before them all, he tore the roll across with his own hands and rent it into bits, indignant that an account of money taken in war should be required of him, to whose account the salvation of the Roman State and its power ought to be credited.
+
+[44094] What Marcus Varro wrote in his Philosophical-historical Treatise on restricting the diet of immature children.
+
+[44206] IT has been found that if immature children eat a great deal and sleep too much, they become so sluggish as to have the dulness of a sufferer from insomnia or lethargy; and their bodies are stunted and under-developed. This is stated by numerous other physicians and philosophers and also by Marcus Varro in that section of his Philosophical-historical Treatise which is entitled Catus, or On Bringing up Children.
+
+[44622] On the punishment by the censors of men who had made untimely jokes in their hearing; also a deliberation as to the punishment of a man who had happened to yawn when standing before them.
+
+[44811] AMONG the severities of the censors these three examples of the extreme strictness of their discipline are recorded in literature. The first is of this sort: The censor was administering the usual oath regarding wives, which was worded as follows: Have you, to the best of your knowledge and belief, a wife? The man who was to take the oath was a jester, a sarcastic dog, and too much given to buffoonery. Thinking that he had a chance to crack a joke, when the censor asked him, as was customary, Have you, to the best of your knowledge and belief, a wife? he replied: I indeed have a wife, but not, by Heaven! such a one as I could desire.
+
+[45454] Then the censor reduced him to a commoner for his untimely quip, and added that the reason for his action was a scurrilous joke made in his presence.
+
+[45605] Here is another instance of the sternness of the same officials. The censors deliberated about the punishment of a man who had been brought before them by a friend as his advocate, and who had yawned in court very clearly and loudly. He was on the point of being condemned for his lapse, on the ground that it was an indication of a wandering and trifling mind and of wanton and undisguised indifference. But when the man had sworn that the yawn had overcome him much against his will and in spite of his resistance, and that he was afflicted with the disorder known as oscedo, or a tendency to yawning, he was excused from the penalty which had already been determined upon. Publius Scipio Africanus, son of Paulus, included both these stories in a speech which he made when censor, urging the people to follow the customs of their forefathers.
+
+[46452] Sabinus Masurius too in the seventh book of his Memoirs relates a third instance of severity. He says: When the censors Publius Scipio Nasica and Marcus Popilius were holding a review of the knights, they saw a horse that was very thin and ill-kept, while its rider was plump and in the best of condition. 'Why is it,' said they, 'that you are better cared for than your mount?' 'Because,' he replied, 'I take care of myself, but Statius, a worthless slave, takes care of the horse.' This answer did not seem sufficiently respectful, and the man was reduced to a commoner, according to custom.
+
+[47047] Now Statius was a slave-name. In old times there were many slaves of that name. Caecilius too, the famous comic poet, was a slave and as such called Statius. But afterwards this was made into a kind of surname and he was called Caecilius Statius.

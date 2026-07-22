@@ -1,0 +1,9 @@
+WORK: The Origin of Species  (slug: charles-darwin-the-origin-of-species-75e1de)
+
+CHAPTER: 16
+
+
+
+[109260] On the principle of successive slight variations, not necessarily or generally supervening at a very early period of life, and being inherited at a corresponding period, we can understand the leading facts in embryology; namely, the close resemblance in the individual embryo of the parts which are homologous, and which when matured become widely different in structure and function; and the resemblance of the homologous parts or organs in allied though distinct species, though fitted in the adult state for habits as different as is possible. Larvae are active embryos, which have become specially modified in a greater or less degree in relation to their habits of life, with their modifications inherited at a corresponding early age. On these same principles, and bearing in mind that when organs are reduced in size, either from disuse or through natural selection, it will generally be at that period of life when the being has to provide for its own wants, and bearing in mind how strong is the force of inheritance—the occurrence of rudimentary organs might even have been anticipated. The importance of embryological characters and of rudimentary organs in classification is intelligible, on the view that a natural arrangement must be genealogical.
+
+[110523] Finally, the several classes of facts which have been considered in this chapter, seem to me to proclaim so plainly, that the innumerable species, genera and families, with which this world is peopled, are all descended, each within its own class or group, from common parents, and have all been modified in the course of descent, that I should without hesitation adopt this view, even if it were unsupported by other facts or arguments.

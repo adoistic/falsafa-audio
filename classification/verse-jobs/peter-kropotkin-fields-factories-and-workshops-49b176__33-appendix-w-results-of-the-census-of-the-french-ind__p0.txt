@@ -1,0 +1,65 @@
+WORK: Fields, Factories, and Workshops  (slug: peter-kropotkin-fields-factories-and-workshops-49b176)
+
+CHAPTER: 33-appendix-w-results-of-the-census-of-the-french-ind
+
+
+
+[0] If we consult the results of the census of 1896, that were published in 1901, in the fourth volume of Resultats statistiques du recensement des industries et des professions, preceded by an excellent summary written by M. Lucien March, we find that the general impression about the importance of the small industries in France conveyed in the text is fully confirmed by the numerical data of the census.
+
+[405] It is only since 1896, M. March says in a paper read before the Statistical Society of Paris, that a detailed classification of the workshops and factories according to the number of their operatives became possible;
+
+[623] *Journal de la Societe de Statistique de Paris, June 1901, pp. 189-192, and Resultats Generaux, in vol. iv. Of the above-mentioned publication.
+
+[770] and he gives us in this paper, in a series of very elaborate tables, a most instructive picture of the present state of industry in France.
+
+[911] For the industries proper  including the industries carried on by the State and the Municipalities, but excluding the transport trades  the results of the census can be summed up as follows:-
+
+[1106] There is, first of all, an important division of heads of establishments (patrons) working alone, independent artisans, and working-men without a permanent employment, which contains 1,530,000 persons. It has a very mixed character, as we find here, in agriculture, the small farmer, who works for himself; and the laborer, who works by the day for occasional farmers; and in industry the head of a small workshop, who works for himself (patron-ouvrier); the working-man, who on the day of the census had no regular employment; the dressmaker, who works sometimes in her own room and sometimes in a shop; and so on. It is only in an indirect way that M. March finds out that this division contains, in its industrial part, nearly 483,000 artisans (patron-ouvriers); and independent working-men and women; and about 1,047,000 persons of both sexes, temporarily attached to some industrial establishment.
+
+[2012] There are, next, 37,705 industrial establishments, of which the heads employ no hired workmen, but are aided by one or more members of their own families.
+
+[2168] We have thus, at least 520,000 workshops belonging to the very small industry.
+
+[2248] Next to them come 575,530 workshops and factories, giving occupation to more than 3,000,000 persons. They constitute the bulk of French industry, and their subdivision into small, middle-sized, and great industry is what interests us at this moment.
+
+[2499] The most striking point is the immense number of establishments having only from one to ten working-men each. No less than 539,449 such workshops and factories have been tabulated, which makes 94 percent of all the establishments in France; and we find in them more than one-third of all work people of both sexes engaged in industry  namely, 1,134,700 persons.
+
+[2863] Next comes the class, still very numerous (28,626 establishments and 585,000 operatives), where we find only from eleven to fifty workmen per establishment. Nearly two-thirds of these small factories (17,342 establishments, 240,000 workmen) are so small that they give occupation to less than twenty persons each. They thus belong still to the small industry.
+
+[3224] After that comes a sudden fall in the figures. There are only 3,865 factories having from fifty-one to 100 employes. This glass and the preceding one contain among them 5 percent of all the industrial establishments, and 27 percent f their employes.
+
+[3475] The class of factories employing from 101 to 500 workmen contain 3,145 establishments (616,000 workmen and other employes). But that of from 501-1,000 employes per factory has only 295 establishments, and a total of only 195,000 operatives. Taken together, these two classes contain less that 1 percent of all the establishments (six per 1,000), and 26 percent of all the workmen.
+
+[3857] Finally, the number of factories and works having more than a thousand workmen and employes each is very small. It is only 149. Out of them, 108 have from 1,001 to 2,000 workmen, twenty-one have from 2,001 to 5,000, and ten only have more than 5,000 workmen. These 149 very big factories and works give occupation to 313,000 persons only, out of more than 3,000,000  that is, only 10 percent of all the industrial workers.
+
+[4282] It thus appears that more than 99 percent of all the industrial establishments in France  that is, 571,940 our of 575,529  have less than 100 workmen each. They give occupation to 200,000,000 persons, and represent an army of 571,940 employers. More than that. The immense majority of that number (568,075 employers) belong to the category of those who employ less that fifty workmen each. And I do not yet count in their number 520,000 employers and artisans who work for themselves, or with the aid of a member of the family
+
+[4812] It is evident that in France, as everywhere, the petty trades represent a very important factor of the industrial life. Economists have been too hasty in celebrating their death. And this conclusion becomes still more apparent when one analyzes the different industries separately, taking advantage of the tables given in Reultats Statistiques. A very important face appears from this analysis  namely, that there are only three branches of industry in which one can speak of a strong concentration  the mines, metallurgy, and the States industries, to which one may add the textiles and ironmongery, but always remembering that in these two branches immense numbers of small factories continue to prosper by the side of the great ones.
+
+[5555] In all other branches the small trades are dominant, to such an extent that more than 95 percent of the employers employ less that fifty workmen each. In the quarries, in all branches of the alimentation, in the book trade, clothing, leather, wood, metallic goods, and even the brick-works, china and glass works, we hardly find one or two factories out of each hundred employing more than fifty workmen.
+
+[5961] The three industries that make an exception to this rule are, we have said, metallurgy, the great works of the State, and the mines. In metallurgy two-thirds of the works have more than fifty men each, and it is here that we find some twenty great works employing each of them more than one thousand men. The works of the State, which include the great shipbuilding yards, are evidently in the same case. They contain thirty-four establishments, having more than 1,000. And finally, in the mines  one hardly would believe that  more than one-half of all establishments employ less that fifty workmen each; but 15 percent of them have more than 500 workmen; forty-one mines are worked by a staff of more than 1,000 persons each, and six out of them employ even more than 5,000 miners.
+
+[6748] It is only in these three branches that one finds a rather strong concentration; and yet, the small industry continues to exist, as we saw it already in England, by the side of the great one, even in mining, and still more so in all branches of metallurgy.
+
+[7008] As to the textile industries, they have exactly the same character as in England. We find here a certain number of very large establishments (forty establishments having each of them more than 1,000 work-people), and especially we see a great development of the middle-sized factories (1,300 mills having from 100 to 500 work people). But on the other side, the small industry is also very numerous.
+
+[7409] Here is how they are distributed: Workmen working single-handed, 124,544; with their families, but without paid workmen, 8,000; less than 10 workmen, 34,433 factories; from 10 to 100 work people, 4,665 factories; from 101 to 200 work people, 746 factories; from 201 to 500 work people, 554; from 501 to 1,000, 123; from 1,001 to 2,000, 38; more than 2,000, 2 factories.
+
+[7780] Quite the same is also seen in the manufacture of all metallic goods (iron, steel, brass). Here, also, by the side of a few great works (seventeen works occupy each of them more than 1,000 work people and salaried employes; out of them five employ more than 2,000 persons, and one more than 5,000); and by the side of a great number of middle-sized works (440 establishments employing from 100 to 500 persons), we find more than 100,000 artisans who work single-handed, or with the aid of their families; and 72,600 works which have only from three to four work people.
+
+[8351] In the India-rubber works, and those for the manufacture of paper, the middle-sized factories are still well represented (13 percent of all the establishments have more than fifty workmen each); but the remainder belongs to the small industry. It is the same in the chemical works. There is in this branch some ten factories employing more than 500 persons, and 100 which employ from 101 to 500 people; but the remainder is 1,000 of small works employing from ten to fifty people, and 3,800 of the very small works (less than ten workers).
+
+[8892] In all other branches it is the small or the very small industry which dominates. Thus, in the manufacture of articles of food, there are only eight factories employing more than 500 people each, and 92,000 small establishments having less than ten work people each. In the printing industry the immense majority of establishments are very small, and employ from five to ten, or from ten to fifty work people.
+
+[9303] As to the manufacture of clothing, it entirely belongs to the small industry. Only five factories employ more than 200 each; but the remainder represents 630,000 independent artisans, men and women; 9,500 workshops where the work is done by the family; and 132,000 workshops and factories occupying less than ten work people each.
+
+[9635] In an excellent monograph dealing with this branch (Le developpement de la fabrique et la travail a domicile dans les industries de lhabillement, by Professor Albert Aftalion, Paris, 1906), the author gives most valuable data as to the proper domains of domestic work and the factory, and shows how, why, and in which domains domestic work successfully competes with the factory.
+
+[10017] The different branches dealing with straw, feathers, hair, leather, gloves, again, belong to the small and the very small industry: 125,000 artisans and 43,000 small establishments employing from three to four persons each.
+
+[10242] Shall I speak of the factories dealing with wood, furniture, brushes, and so on? True, there are in these branches two large factories employing nearly 2,000 persons; but there are also 214,260 independent artisans and 105,400 small factories and workshops employing less than ten persons each.
+
+[10538] Needless to say that jewelry, the cutting of precious stones, and stone-cutting for masonry belong entirely to the small industry, no more than ten to twenty works employing more than 100 persons each. Only in ceramics and in brick-making do we find by the side of the very small works (8,930 establishments), and the small ones (1,277 establishments employing from ten to fifty work people), 334 middle-sized works (fifty to 200 people), and seven of the very great (more than 1,000 work people).
+
+[11037] The industrial establishments having more than 1,000 employes each are distributed as follows: Mining, 41; textiles, 40 (123 have from 500 to 1,000); industries of the State and the Communes, 14; metallurgy, 17; working of metals  iron, steel, brass  17, quarries, 2; alimentation, 3; chemical industries, 2; India-rubber, paper, cardboard, 0 (9 have from 500 to 1,000); books, polygraphy, 0 (22 have from 500 to 1,000); dressing of stuffs, clothing, 2 (9 from 500 to 1,000); straw, feathers, hair, 0 (1 from 500 to 1,000); leather, skins, 2; wood, cabinetmaking, brushes, etc., 1; fine metals, jewelry, 0; cutting of precious stones, 0; stone-cutting for buildings, 0; earth-works and building, 1; bricks, ceramics, 7; preparation and distribution of food, 0; total, 149 out of 575,531 establishments. To these figures we may add six large establishments in the transports, and five in different branches of trade. We ma note also that, by means of various calculations, M. March comes to the conclusion that 91 percent of the workmen and employes in industry and 44 percent in commerce are employes  that is, clerks, managers, and so on.

@@ -1,0 +1,847 @@
+WORK: Gorgias  (slug: plato-gorgias-004473)
+
+CHAPTER: 01-gorgias
+
+
+
+[109642] Call. Oh, you most certainly do, Socrates. For how can a man be happy if he is a slave to anybody at all? No, natural fairness and justice, I tell you now quite frankly, is this—that he who would live rightly should let his desires be as strong as possible and not chasten them, and should be able to minister to them when they are at their height by reason of his manliness and intelligence, and satisfy each appetite in turn with what it desires. But this, I suppose, is not possible for the many; whence it comes that they decry such persons out of shame, to disguise their own impotence, and are so good as to tell us that licentiousness is disgraceful, thus enslaving—as I remarked before—the better type of mankind; and being unable themselves to procure achievement of their pleasures they praise temperance and justice by reason of their own unmanliness. For to those who started with the advantage of being either kings’ sons or able by their own parts to procure some authority or monarchy or absolute power, what in truth could be fouler or worse than temperance and justice in such cases? Finding themselves free to enjoy good things, with no obstacle in the way, they would be merely imposing on themselves a master in the shape of the law, the talk and the rebuke of the multitude. Or how could they fail to be sunk in wretchedness by that fairness of justice and temperance, if they had no larger portion to give to their own friends than to their enemies, that too when they were rulers in their own cities? No, in good truth, Socrates—which you claim to be seeking—the fact is this: luxury and licentiousness and liberty, if they have the support of force, are virtue and happiness, and the rest of these embellishments—the unnatural covenants of mankind—are all mere stuff and nonsense.
+
+[111448] Soc. Far from ignoble, at any rate, Callicles, is the frankness with which you develop your thesis: for you are now stating in clear terms what the rest of the world think indeed, but are loth to say. So I beg you not to give up on any account, that it may be made really evident how one ought to live. Now tell me: do you say the desires are not to be chastened if a man would be such as he ought to be, but he should let them be as great as possible and provide them with satisfaction from some source or other, and this is virtue?
+
+[111983] Call. Yes, I say that.
+
+[112007] Soc. Then it is not correct to say, as people do, that those who want nothing are happy.
+
+[112097] Call. No, for at that rate stones and corpses would be extremely happy.
+
+[112170] Soc. Well, well, as you say, life is strange. For I tell you I should not wonder if Euripides’ words were true, when he says: Who knows if to live is to be dead, And to be dead, to live?
+
+[112358] and we really, it may be, are dead; in fact I once heard sages say that we are now dead, and the body is our tomb, and the part of the soul in which we have desires is liable to be over-persuaded and to vacillate to and fro, and so some smart fellow, a Sicilian, I daresay, or Italian, made a fable in which—by a play of words —he named this part, as being so impressionable and persuadable, a jar, and the thoughtless he called uninitiate: in these uninitiate that part of the soul where the desires are, the licentious and fissured part, he named a leaky jar in his allegory, because it is so insatiate. So you see this person, Callicles, takes the opposite view to yours, showing how of all who are in Hades—meaning of course the invisible—these uninitiate will be most wretched, and will carry water into their leaky jar with a sieve which is no less leaky. And then by the sieve, as my story-teller said, he means the soul: and the soul of the thoughtless he likened to a sieve, as being perforated, since it is unable to hold anything by reason of its unbelief and forgetfulness. All this, indeed, is bordering pretty well on the absurd; but still it sets forth what I wish to impress upon you, if I somehow can, in order to induce you to make a change, and instead of a life of insatiate licentiousness to choose an orderly one that is set up and contented with what it happens to have got. Now, am I at all prevailing upon you to change over to the view that the orderly people are happier than the licentious or will no amount of similar fables that I might tell you have any effect in changing your mind?
+
+[113974] Call. The latter is more like the truth, Socrates.
+
+[114026] Soc. Come now, let me tell you another parable from the same school as that I have just told. Consider if each of the two lives, the temperate and the licentious, might be described by imagining that each of two men had a number of jars, and those of one man were sound and full, one of wine, another of honey, a third of milk, and various others of various things, and that the sources of each of these supplies were scanty and difficult and only available through much hard toil:
+
+[114509] Soc. well, one man, when he has taken his fill, neither draws off any more nor troubles himself a jot, but remains at ease on that score; whilst the other finds, like his fellow, that the sources are possible indeed, though difficult, but his vessels are leaky and decayed, and he is compelled to fill them constantly, all night and day, or else suffer extreme distress. If such is the nature of each of the two lives, do you say that the licentious man has a happier one than the orderly? Do I, with this story of mine, induce you at all to concede that the orderly life is better than the licentious, or do I fail?
+
+[115127] Call. You fail, Socrates. For that man who has taken his fill can have no pleasure any more; in fact it is what I just now called living like a stone, when one has filled up and no longer feels any joy or pain. But a pleasant life consists rather in the largest possible amount of inflow.
+
+[115417] Soc. Well then, if the inflow be large, must not that which runs away be of large amount also, and must not the holes for such outflow be of great size?
+
+[115571] Call. Certainly.
+
+[115589] Soc. Then it is a plover’s life you are describing this time, not that of a corpse or a stone. Now tell me, is the life you mean something like feeling hunger and eating when hungry?
+
+[115773] Call. Yes, it is.
+
+[115792] Soc. And feeling thirst and drinking when thirsty?
+
+[115844] Call. Yes, and having all the other desires, and being able to satisfy them, and so with these enjoyments leading a happy life.
+
+[115973] Soc. Bravo, my fine fellow! Do go on as you have begun, and mind you show no bashfulness about it. I too, it seems, must try not to be too bashful. First of all, tell me whether a man who has an itch and wants to scratch, and may scratch in all freedom, can pass his life happily in continual scratching.
+
+[116279] Call. What an odd person you are, Socrates—a regular stump-orator!
+
+[116347] Soc. Why, of course, Callicles, that is how I upset Polus and Gorgias, and struck them with bashfulness; but you, I know, will never be upset or abashed; you are such a manly fellow. Come, just answer that.
+
+[116555] Call. Then I say that the man also who scratches himself will thus spend a pleasant life.
+
+[116646] Soc. And if a pleasant one, a happy one also?
+
+[116693] Call. Certainly.
+
+[116711] Soc. Is it so if he only wants to scratch his head? Or what more am I to ask you? See, Callicles, what your answer will be, if you are asked everything in succession that links on to that statement; and the culmination of the case, as stated—the life of catamites—is not that awful, shameful, and wretched? Or will you dare to assert that these are happy if they can freely indulge their wants?
+
+[117107] Call. Are you not ashamed, Socrates, to lead the discussion into such topics?
+
+[117186] Soc. What, is it I who am leading it there, noble sir, or the person who says outright that those who enjoy themselves, with whatever kind of enjoyment, are happy, and draws no distinction between the good and bad sorts of pleasure? But come, try again now and tell me whether you say that pleasant and good are the same thing, or that there is some pleasure which is not good.
+
+[117565] Call. Then, so that my statement may not be inconsistent through my saying they are different, I say they are the same.
+
+[117686] Soc. You are spoiling your first statements, Callicles, and you can no longer be a fit partner with me in probing the truth, if you are going to speak against your own convictions.
+
+[117868] Call. Why, you do the same, Socrates.
+
+[117907] Soc. Then I am just as much in the wrong if I do, as you are. But look here, my gifted friend, perhaps the good is not mere unconditional enjoyment: for if it is, we have to face not only that string of shameful consequences I have just shadowed forth, but many more besides.
+
+[118184] Call. In your opinion, that is, Socrates.
+
+[118227] Soc. And do you, Callicles, really maintain that it is?
+
+[118284] Call. I do.
+
+[118297] Soc. Then are we to set about discussing it as your serious view?
+
+[118364] Call. Oh yes, to be sure.
+
+[118391] Soc. Come then, since that is your opinion, resolve me this: there is something, I suppose, that you call knowledge?
+
+[118509] Call. Yes.
+
+[118521] Soc. And were you not saying just now that knowledge can have a certain courage coupled with it?
+
+[118619] Call. Yes, I was.
+
+[118638] Soc. And you surely meant that they were two things, courage being distinct from knowledge?
+
+[118731] Call. Quite so.
+
+[118748] Soc. Well now, are pleasure and knowledge the same thing, or different?
+
+[118821] Call. Different, I presume, O sage of sages.
+
+[118867] Soc. And courage too, is that different from pleasure?
+
+[118923] Call. Of course it is.
+
+[118947] Soc. Come now, let us be sure to remember this, that Callicles the Acharnian said pleasant and good were the same, but knowledge and courage were different both from each other and from the good.
+
+[119144] Call. And Socrates of Alopece refuses to grant us this; or does he grant it?
+
+[119222] Soc. He does not; nor, I believe, will Callicles either, when he has rightly considered himself. For tell me, do you not regard people who are well off as being in the opposite condition to those who are badly off?
+
+[119438] Call. I do.
+
+[119451] Soc. Then if these conditions are opposite to each other, must not the same hold of them as of health and disease? For, you know, a man is never well and ill at the same time, nor gets rid of health and disease together.
+
+[119673] Call. How do you mean?
+
+[119697] Soc. Take, for instance, any part of the body you like by itself, and consider it. A man, I suppose, may have a disease of the eyes, called ophthalmia?
+
+[119850] Call. Certainly.
+
+[119868] Soc. Then I presume he is not sound also at that time in those same eyes?
+
+[119943] Call. By no conceivable means.
+
+[119975] Soc. And what say you, when he gets rid of his ophthalmia? Does he at that time get rid too of the health of his eyes, and so at last is rid of both things together?
+
+[120142] Call. Far from it.
+
+[120162] Soc. Because, I imagine, this would be an astonishing and irrational result, would it not?
+
+[120254] Call. Very much so.
+
+[120275] Soc. Whereas, I take it, he gets and loses either turn?
+
+[120332] Call. I agree.
+
+[120348] Soc. And so with strength and weakness in just the same way?
+
+[120410] Call. Yes.
+
+[120422] Soc. And speed and slowness?
+
+[120452] Call. Certainly.
+
+[120470] Soc. And so too with good things and happiness and their opposites—bad things and wretchedness—does one take on each of these in turn, and in turn put it off?
+
+[120630] Call. Absolutely, I presume.
+
+[120660] Soc. Then if we find any things that a man puts off and retains at one and the same moment, clearly these cannot be the good and the bad. Do we admit this? Now consider very carefully before you answer.
+
+[120864] Call. Oh, I admit it down to the ground.
+
+[120906] Soc. So now for our former admissions: did you say that being hungry was pleasant or painful? I mean, hunger itself.
+
+[121024] Call. Painful, I said; though eating when one is hungry I call pleasant.
+
+[121098] Soc. I see: but at all events hunger itself is painful, is it not?
+
+[121166] Call. I agree.
+
+[121182] Soc. And so too with thirst?
+
+[121212] Call. Quite so.
+
+[121229] Soc. Then am I to ask you any further questions, or do you admit that all want and desire is painful?
+
+[121332] Call. I admit it; no, do not question me further.
+
+[121383] Soc. Very good: but drinking when one is thirsty you surely say is pleasant?
+
+[121461] Call. I do.
+
+[121474] Soc. Now, in this phrase of yours the words when one is thirsty, I take it, stand for when one is in pain?
+
+[121582] Call. Yes.
+
+[121594] Soc. But drinking is a satisfaction of the want, and a pleasure?
+
+[121660] Call. Yes.
+
+[121672] Soc. So in the act of drinking, you say, one has enjoyment?
+
+[121733] Call. Quite so.
+
+[121750] Soc. When one is thirsty?
+
+[121777] Call. I agree.
+
+[121793] Soc. That is, in pain?
+
+[121817] Call. Yes.
+
+[121829] Soc. Then do you perceive the conclusion,—that you say one enjoys oneself, though in pain at the same moment, when you say one drinks when one is thirsty? Or does this not occur at once, at the same place and time—in either soul or body, as you please? For I fancy it makes no difference. Is this so or not?
+
+[122138] Call. It is.
+
+[122152] Soc. But further, you say it is impossible to be badly off, or to fare ill, at the same time as one is faring well.
+
+[122269] Call. Yes, I do.
+
+[122287] Soc. But to enjoy oneself when feeling pain you have admitted to be possible.
+
+[122366] Call. Apparently.
+
+[122385] Soc. Hence enjoyment is not faring well, nor is feeling pain faring ill, so that the pleasant is found to be different from the good.
+
+[122520] Call. I cannot follow these subtleties of yours, Socrates.
+
+[122580] Soc. You can, but you play the innocent, Callicles. Just go on a little further, that you may realize how subtle is your way of reproving me. Does not each of us cease at the same moment from thirst and from the pleasure he gets by drinking?
+
+[122823] Call. I cannot tell what you mean.
+
+[122859] Gorg. No, no, Callicles, you must answer him, for our sakes also, that the arguments may be brought to a conclusion.
+
+[122977] Call. But Socrates is always like this, Gorgias he keeps on asking petty, unimportant questions until he refutes one.
+
+[123096] Gorg. Why, what does that matter to you? In any case it is not your credit that is at stake, Callicles; just permit Socrates to refute you in such manner as he chooses.
+
+[123266] Call. Well then, proceed with those little cramped questions of yours, since Gorgias is so minded.
+
+[123366] Soc. You are fortunate, Callicles, in having been initiated into the Great Mysteries before the Little: I did not think that was the proper thing. So go on answering where you left off—as to whether each of us does not cease to feel thirst and pleasure at the same time.
+
+[123638] Call. I grant it.
+
+[123657] Soc. And so, with hunger and the rest, does he cease to feel the desires and pleasures at the same time?
+
+[123763] Call. That is so.
+
+[123782] Soc. And also ceases to feel the pains and pleasures at the same time?
+
+[123854] Call. Yes.
+
+[123866] Soc. But still he does not cease to have the good and bad at the same time, as you agreed; and now, you do not agree?
+
+[123985] Call. I do; and what then?
+
+[124013] Soc. Only that we get the result, my friend, that the good things are not the same as the pleasant, nor the bad as the painful. For with the one pair the cessation is of both at once, but with the other two it is not, since they are distinct. How then can pleasant things be the same as good, or painful things as bad? Or if you like, consider it another way—for I fancy that even after that you do not admit it. Just observe: do you not call good people good owing to the presence of good things, as you call beautiful those in whom beauty is present?
+
+[124567] Call. I do.
+
+[124580] Soc. Well now, do you give the name of good men to fools and cowards? It was not they just now but brave and wise men whom you so described. Or is it not these that you call good?
+
+[124761] Call. To be sure it is.
+
+[124786] Soc. And now, have you ever seen a silly child enjoying itself?
+
+[124851] Call. I have.
+
+[124866] Soc. And have you never seen a silly man enjoying himself?
+
+[124926] Call. I should think I have; but what has that to do with it?
+
+[124989] Soc. Nothing; only answer.
+
+[125017] Call. I have seen one.
+
+[125041] Soc. And again, a man of sense in a state of pain or enjoyment?
+
+[125106] Call. Yes.
+
+[125118] Soc. And which sort are more apt to feel enjoyment or pain, the wise or the foolish?
+
+[125204] Call. I should think there is not much difference.
+
+[125256] Soc. Well, that will suffice. In war have you ever seen a coward?
+
+[125323] Call. Of course I have.
+
+[125348] Soc. Well now, when the enemy withdrew, which seemed to you to enjoy it more, the cowards or the brave?
+
+[125453] Call. Both did, I thought; or if not that, about equally.
+
+[125512] Soc. No matter. Anyhow, the cowards do enjoy it?
+
+[125562] Call. Very much.
+
+[125580] Soc. And the fools, it would seem.
+
+[125616] Call. Yes.
+
+[125628] Soc. And when the foe advances, do the cowards alone feel pain, or the brave as well?
+
+[125715] Call. Both.
+
+[125728] Soc. Alike?
+
+[125741] Call. More, perhaps, the cowards.
+
+[125776] Soc. And when the foe withdraws, do they not enjoy it more?
+
+[125837] Call. Perhaps.
+
+[125853] Soc. So the foolish and the wise, and the cowardly and the brave, feel pain and enjoyment about equally, according to you, but the cowardly more than the brave?
+
+[126015] Call. I agree.
+
+[126031] Soc. But further, are the wise and brave good, and the cowards and fools bad?
+
+[126110] Call. Yes.
+
+[126122] Soc. Then the good and the bad feel enjoyment and pain about equally?
+
+[126193] Call. I agree.
+
+[126209] Soc. Then are the good and the bad about equally good and bad? Or are the bad in some yet greater measure good and bad?
+
+[126330] Call. Why, upon my word, I cannot tell what you mean.
+
+[126385] Soc. You are aware, are you not, that you hold that the good are good by the presence of good things, and that the bad are so by the presence of bad things? And that the pleasures are the good things, and the pains bad things?
+
+[126613] Call. Yes, I am.
+
+[126631] Soc. Hence in those who have enjoyment the good things—the pleasures—are present, so long as they enjoy?
+
+[126737] Call. Of course.
+
+[126755] Soc. Then, good things being present, those who enjoy are good?
+
+[126820] Call. Yes.
+
+[126832] Soc. Well now, in those who feel pain are not bad things present, namely pains?
+
+[126913] Call. They are.
+
+[126930] Soc. And it is by the presence of bad things, you say, that the bad are bad? Or do you no longer say so?
+
+[127036] Call. I do say so.
+
+[127056] Soc. Then whoever enjoys is good, and whoever is pained, bad?
+
+[127119] Call. Certainly.
+
+[127137] Soc. You mean, those more so who feel these things more, and those less who feel less, and those about equally who feel about equally?
+
+[127273] Call. Yes.
+
+[127285] Soc. Now you say that the wise and the foolish, the cowardly and the brave, feel enjoyment and pain about equally, or the cowards even more?
+
+[127427] Call. I do.
+
+[127440] Soc. Then just help me to reckon up the results we get from our admissions for you know they say: That which seemeth well,’tis well twice and also thrice to tell, and to examine too. We say that the wise and brave man is good, do we not?
+
+[127679] Call. Yes.
+
+[127691] Soc. And that the foolish and cowardly is bad?
+
+[127739] Call. Certainly.
+
+[127757] Soc. And again, that he who enjoys is good?
+
+[127802] Call. Yes.
+
+[127814] Soc. And that he who feels pain is bad?
+
+[127855] Call. Necessarily.
+
+[127875] Soc. And that the good and the bad feel enjoyment and pain in a like manner, or perhaps the bad rather more?
+
+[127985] Call. Yes.
+
+[127997] Soc. Then is the bad man made bad or good in a like manner to the good man, or even good in a greater measure? Does not this follow, along with those former statements, from the assumption that pleasant things and good things are the same? Must not this be so, Callicles?
+
+[128270] Call. Let me tell you, Socrates, all the time that I have been listening to you and yielding you agreement, I have been remarking the puerile delight with which you cling to any concession one may make to you, even in jest. So you suppose that I or anybody else in the world does not regard some pleasures as better, and others worse!
+
+[128606] Soc. Oh ho, Callicles, what a rascal you are, treating me thus like a child—now asserting that the same things are one way, now another, to deceive me! And yet I started with the notion that I should not have to fear any intentional deception on your part, you being my friend; but now I find I was mistaken, and it seems I must, as the old saying goes, e’en make the best of what I have got, and accept just anything you offer. Well then, what you now state, it seems, is that there are certain pleasures, some good, and some bad; is not that so?
+
+[129155] Call. Yes.
+
+[129167] Soc. Then are the beneficial ones good, and the harmful ones bad?
+
+[129234] Call. Certainly.
+
+[129252] Soc. And are those beneficial which do some good, and those evil which do some evil?
+
+[129338] Call. I agree.
+
+[129354] Soc. Now are these the sort you mean—for instance, in the body, the pleasures of eating and drinking that we mentioned a moment ago? Then the pleasures of this sort which produce health in the body, or strength, or any other bodily excellence,—are these good, and those which have the opposite effects, bad?
+
+[129663] Call. Certainly.
+
+[129681] Soc. And similarly in the case of pains, are some worthy and some base?
+
+[129754] Call. Of course.
+
+[129772] Soc. So it is the worthy pleasures and pains that we ought to choose in all our doings?
+
+[129861] Call. Certainly.
+
+[129879] Soc. And the base ones not?
+
+[129908] Call. Clearly so.
+
+[129927] Soc. Because, you know, Polus and I, if you recollect, decided. that everything we do should be for the sake of what is good. Do you agree with us in this view—that the good is the end of all our actions, and it is for its sake that all other things should be done, and not it for theirs? Do you add your vote to ours, and make a third?
+
+[130265] Call. I do.
+
+[130278] Soc. Then it is for the sake of what is good that we should do everything, including what is pleasant, not the good for the sake of the pleasant.
+
+[130425] Call. Certainly.
+
+[130443] Soc. Now is it in every man’s power to pick out which sort of pleasant things are good and which bad, or is professional skill required in each case?
+
+[130594] Call. Professional skill.
+
+[130621] Soc. Then let us recall those former points I was putting to Polus and Gorgias. I said, if you remember, that there were certain industries, some of which extend only to pleasure, procuring that and no more, and ignorant of better and worse; while others know what is good and what bad. And I placed among those that are concerned with pleasure the habitude, not art, of cookery, and among those concerned with good the art of medicine. Now by the sanctity of friendship, Callicles, do not on your part indulge in jesting with me, or give me random answers against your conviction, or again, take what I say as though I were jesting. For you see that our debate is upon a question which has the highest conceivable claims to the serious interest even of a person who has but little intelligence—namely, what course of life is best; whether it should be that to which you invite me, with all those manly pursuits of speaking in Assembly and practicing rhetoric and going in for politics after the fashion of you modern politicians, or this life of philosophy; and what makes the difference between these two. Well, perhaps it is best to do what I attempted a while ago, and distinguish them; and then, when we have distinguished them and come to an agreement with each other as to these lives being really two, we must consider what is the difference between them and which of them is the one we ought to live. Now I daresay you do not yet grasp my meaning.
+
+[132079] Call. No, I do not.
+
+[132100] Soc. Well, I will put it to you more plainly. Seeing that we have agreed, you and I, that there is such a thing as good, and such a thing as pleasant, and that the pleasant is other than the good, and that for the acquisition of either there is a certain practice or preparation—the quest of the pleasant in the one case, and that of the good in the other—but first you must either assent or object to this statement of mine: do you assent?
+
+[132542] Call. I am with you entirely.
+
+[132573] Soc. Then try and come to a definite agreement with me on what I was saying to our friends here, and see if you now find that what I then said was true. I was saying, I think, that cookery seems to me not an art but a habitude, unlike medicine, which, I argued, has investigated the nature of the person whom she treats and the cause of her proceedings, and has some account to give of each of these things; so much for medicine: whereas the other, in respect of the pleasure to which her whole ministration is given, goes to work there in an utterly inartistic manner, without having investigated at all either the nature or the cause of pleasure, and altogether irrationally—with no thought, one may say, of differentiation, relying on routine and habitude for merely preserving a memory of what is wont to result; and that is how she is enabled to provide her pleasures. Now consider first whether you think that this account is satisfactory, and that there are certain other such occupations likewise, having to do with the soul; some artistic, with forethought for what is to the soul’s best advantage, and others making light of this, but again, as in the former case, considering merely the soul’s pleasure and how it may be contrived for her, neither inquiring which of the pleasures is a better or a worse one, nor caring for aught but mere gratification, whether for better or worse. For I, Callicles, hold that there are such, and for my part I call this sort of thing flattery, whether in relation to the body or to the soul or to anything else, whenever anyone ministers to its pleasure without regard for the better and the worse; and you now, do you support us with the same opinion on this matter, or do you gainsay us?
+
+[134310] Call. Not I; I agree with you, in order that your argument may reach a conclusion, and that I may gratify Gorgias here.
+
+[134431] Soc. And is this the case with only one soul, and not with two or many?
+
+[134504] Call. No, it is also the case with two or many.
+
+[134553] Soc. Then is it possible also to gratify them all at once, collectively, with no consideration of what is best?
+
+[134666] Call. I should think it is.
+
+[134695] Soc. Then can you say what are the pursuits which effect this? Or rather, if you like, when I ask you, and one of them seems to you to be of this class, say yes, and when one does not, say no. And first let us consider flute-playing. Does it not seem to you one of this sort, Callicles, aiming only at our pleasure, and caring for naught else?
+
+[135040] Call. It does seem so to me.
+
+[135070] Soc. And so too with all similar pursuits, such as harp-playing in the contests?
+
+[135152] Call. Yes.
+
+[135164] Soc. And what of choral productions and dithyrambic compositions? Are they not manifestly, in your view, of the same kind? Or do you suppose Cinesias, son of Meles, cares a jot about trying to say things of a sort that might be improving to his audience, or only what is likely to gratify the crowd of spectators?
+
+[135479] Call. Clearly the latter is the case, Socrates, with Cinesias.
+
+[135543] Soc. And what of his father Meles? Did he ever strike you as looking to what was best in his minstrelsy? Or did he, perhaps, not even make the pleasantest his aim? For his singing used to be a pain to the audience. But consider now: do you not think that all minstrelsy and composing of dithyrambs have been invented for the sake of pleasure?
+
+[135887] Call. I do.
+
+[135900] Soc. Then what of the purpose that has inspired our stately and wonderful tragic poetry? Are her endeavor and purpose, to your mind, merely for the gratification of the spectators, or does she strive hard, if there be anything pleasant and gratifying, but bad for them, to leave that unsaid, and if there be anything unpleasant, but beneficial, both to speak and sing that, whether they enjoy it or not? To which of these two aims, think you, is tragic poetry devoted?
+
+[136370] Call. It is quite obvious, in her case, Socrates, that she is bent rather upon pleasure and the gratification of the spectators.
+
+[136500] Soc. Well now, that kind of thing, Callicles, did we say just now, is flattery?
+
+[136581] Call. Certainly.
+
+[136599] Soc. Pray then, if we strip any kind of poetry of its melody, its rhythm and its meter, we get mere speeches as the residue, do we not?
+
+[136736] Call. That must be so.
+
+[136760] Soc. And those speeches are spoken to a great crowd of people?
+
+[136824] Call. Yes.
+
+[136836] Soc. Hence poetry is a kind of public speaking.
+
+[136885] Call. Apparently.
+
+[136904] Soc. Then it must be a rhetorical public speaking or do you not think that the poets use rhetoric in the theaters?
+
+[137020] Call. Yes, I do.
+
+[137038] Soc. So now we have found a kind of rhetoric addressed to such a public as is compounded of children and women and men, and slaves as well as free; an art that we do not quite approve of, since we call it a flattering one.
+
+[137262] Call. To be sure.
+
+[137281] Soc. Very well; but now, the rhetoric addressed to the Athenian people, or to the other assemblies of freemen in the various cities—what can we make of that? Do the orators strike you as speaking always with a view to what is best, with the single aim of making the citizens as good as possible by their speeches, or are they, like the poets, set on gratifying the citizens, and do they, sacrificing the common weal to their own personal interest, behave to these assemblies as to children, trying merely to gratify them, nor care a jot whether they will be better or worse in consequence?
+
+[137872] Call. This question of yours is not quite so simple; for there are some who have a regard for the citizens in the words that they utter, while there are also others of the sort that you mention.
+
+[138068] Soc. That is enough for me. For if this thing also is twofold, one part of it, I presume, will be flattery and a base mob-oratory, while the other is noble—the endeavor, that is, to make the citizens’ souls as good as possible, and the persistent effort to say what is best, whether it prove more or less pleasant to one’s hearers. But this is a rhetoric you never yet saw; or if you have any orator of this kind that you can mention, without more ado let me know who he is!
+
+[138544] Call. No, upon my word, I cannot tell you of anyone, at least among the orators of today.
+
+[138635] Soc. Well then, can you mention one among those of older times whom the Athenians have to thank for any betterment that started at the time of his first harangues, as a change from the worse state in which he originally found them? For my part, I have no idea who the man is.
+
+[138912] Call. Why, do you hear no mention of Themistocles and what a good man he was, and Cimon and Miltiades and the great Pericles, who has died recently, and whom you have listened to yourself?
+
+[139102] Soc. Yes, Callicles, if that which you spoke of just now is true virtue—the satisfaction of one’s own and other men’s desires; but if that is not so, and the truth is—as we were compelled to admit in the subsequent discussion—that only those desires which make man better by their satisfaction should be fulfilled, but those which make him worse should not, and that this is a special art, then I for one cannot tell you of any man so skilled having appeared among them.
+
+[139574] Call. Ah, but if you search properly you will find one.
+
+[139631] Soc. Then let us just consider the matter calmly, and see if any of them has appeared with that skill. Come now: the good man, who is intent on the best when he speaks, will surely not speak at random in whatever he says, but with a view to some object? He is just like any other craftsman, who having his own particular work in view selects the things he applies to that work of his, not at random, but with the purpose of giving a certain form to whatever he is working upon.
+
+[140110] Soc. You have only to look, for example, at the painters, the builders, the shipwrights, or any of the other craftsmen, whichever you like, to see how each of them arranges everything according to a certain order, and forces one part to suit and fit with another, until he has combined the whole into a regular and well-ordered production; and so of course with all the other craftsmen, and the people we mentioned just now, who have to do with the body—trainers and doctors; they too, I suppose, bring order and system into the body. Do we admit this to be the case, or not?
+
+[140687] Call. Let it be as you say.
+
+[140716] Soc. Then if regularity and order are found in a house, it will be a good one, and if irregularity, a bad one?
+
+[140828] Call. I agree.
+
+[140844] Soc. And it will be just the same with a ship?
+
+[140892] Call. Yes.
+
+[140904] Soc. And further, with our bodies also, can we say?
+
+[140957] Call. Certainly.
+
+[140975] Soc. And what of the soul? If it shows irregularity, will it be good, or if it has a certain regularity and order?
+
+[141091] Call. Our former statements oblige us to agree to this also.
+
+[141153] Soc. Then what name do we give to the effect of regularity and order in the body?
+
+[141236] Call. Health and strength, I suppose you mean.
+
+[141284] Soc. I do. And what, again, to the effect produced in the soul by regularity and order? Try to find the name here, and tell it me as before.
+
+[141426] Call. Why not name it yourself, Socrates?
+
+[141469] Soc. Well, if you prefer it, I will; and do you, if I seem to you to name it rightly, say so; if not, you must refute me and not let me have my way. For it seems to me that any regularity of the body is called healthiness, and this leads to health being produced in it, and general bodily excellence. Is that so or not?
+
+[141790] Call. It is.
+
+[141804] Soc. And the regular and orderly states of the soul are called lawfulness and law, whereby men are similarly made law-abiding and orderly; and these states are justice and temperance. Do you agree or not?
+
+[142010] Call. Be it so.
+
+[142027] Soc. Then it is this that our orator, the man of art and virtue, will have in view, when he applies to our souls the words that he speaks, and also in all his actions, and in giving any gift he will give it, and in taking anything away he will take it, with this thought always before his mind— how justice may be engendered in the souls of his fellow-citizens, and how injustice may be removed; how temperance may be bred in them and licentiousness cut off; and how virtue as a whole may be produced and vice expelled. Do you agree to this or not?
+
+[142577] Call. I agree.
+
+[142593] Soc. For what advantage is there, Callicles, in giving to a sick and ill-conditioned body a quantity of even the most agreeable things to eat and drink, or anything else whatever, if it is not going to profit thereby any more, let us say, than by the opposite treatment, on any fair reckoning, and may profit less? Is this so?
+
+[142921] Call. Be it so.
+
+[142938] Soc. Because, I imagine, it is no gain for a man to live in a depraved state of body, since in this case his life must be a depraved one also. Or is not that the case?
+
+[143107] Call. Yes.
+
+[143119] Soc. And so the satisfaction of one’s desires—if one is hungry, eating as much as one likes, or if thirsty, drinking—is generally allowed by doctors when one is in health; but they practically never allow one in sickness to take one’s fill of things that one desires: do you agree with me in this?
+
+[143418] Call. I do.
+
+[143431] Soc. And does not the same rule, my excellent friend, apply to the soul? So long as it is in a bad state—thoughtless, licentious, unjust and unholy—we must restrain its desires and not permit it to do anything except what will help it to be better: do you grant this, or not?
+
+[143708] Call. I do.
+
+[143721] Soc. For thus, I take it, the soul itself is better off?
+
+[143779] Call. To be sure.
+
+[143798] Soc. And is restraining a person from what he desires correcting him?
+
+[143869] Call. Yes.
+
+[143881] Soc. Then correction is better for the soul than uncorrected licence, as you were thinking just now.
+
+[143983] Call. I have no notion what you are referring to, Socrates; do ask some one else.
+
+[144066] Soc. Here is a fellow who cannot endure a kindness done him, or the experience in himself of what our talk is about—a correction!
+
+[144197] Call. Well, and not a jot do I care, either, for anything you say; I only gave you those answers to oblige Gorgias.
+
+[144314] Soc. Very good. So now, what shall we do? Break off our argument midway?
+
+[144388] Call. You must decide that for yourself.
+
+[144430] Soc. Why, they say one does wrong to leave off even stories in the middle; one should set a head on the thing, that it may not go about headless. So proceed with the rest of your answers, that our argument may pick up a head.
+
+[144657] Call. How overbearing you are, Socrates! Take my advice, and let this argument drop, or find some one else to argue with.
+
+[144780] Soc. Then who else is willing? Surely we must not leave the argument there, unfinished?
+
+[144869] Call. Could you not get through it yourself, either talking on by yourself or answering your own questions?
+
+[144978] Soc. So that, in Epicharmus’s phrase, what two men spake erewhile I may prove I can manage single-handed. And indeed it looks as though it must of sheer necessity be so. Still, if we are to do this, for my part I think we ought all to vie with each other in attempting a knowledge of what is true and what false in the matter of our argument; for it is a benefit to all alike that it be revealed.
+
+[145376] Soc. Now I am going to pursue the argument as my view of it may suggest; but if any of you think the admissions I am making to myself are not the truth, you must seize upon them and refute me. For I assure you I myself do not say what I say as knowing it, but as joining in the search with you; so that if anyone who disputes my statements is found to be on the right track, I shall be the first to agree with him. This, however, I say on the assumption that you think the argument should be carried through to a conclusion; but if you would rather it were not, let us have done with it now and go our ways.
+
+[145985] Gorg. Well, my opinion is, Socrates, that we ought not to go away yet, but that you should go through with the argument; and I fancy the rest of them think the same. For I myself, in fact, desire to hear you going through the remainder by yourself.
+
+[146235] Soc. Why, to be sure, Gorgias, I myself should have liked to continue discussing with Callicles here until I had paid him an Amphion’s speech in return for his of Zethus. But since you, Callicles, are unwilling to join me in finishing off the argument, you must at any rate pull me up, as you listen, if it seems to you that my statements are wrong. And if you refute me, I shall not be vexed with you as you were with me; you will only be recorded in my mind as my greatest benefactor.
+
+[146723] Call. Proceed, good sir, by yourself, and finish it off.
+
+[146781] Soc. Give ear, then; but first I will resume our argument from the beginning. Are the pleasant and the good the same thing? Not the same, as Callicles and I agreed. Is the pleasant thing to be done for the sake of the good, or the good for the sake of the pleasant? The pleasant for the sake of the good. And is that thing pleasant by whose advent we are pleased, and that thing good by whose presence we are good? Certainly. But further, both we and everything else that is good, are good by the advent of some virtue? In my view this must be so, Callicles. But surely the virtue of each thing, whether of an implement or of a body, or again of a soul or any live creature, does not arrive most properly by accident, but by an order or rightness or art that is apportioned to each. Is that so? I certainly agree. Then the virtue of each thing is a matter of regular and orderly arrangement? I at least should say so. Hence it is a certain order proper to each existent thing that by its advent in each makes it good? That is my view. So then a soul which has its own proper order is better than one which is unordered? Necessarily. But further, one that has order is orderly? Of course it will be.
+
+[147981] Soc. And the orderly one is temperate? Most necessarily. So the temperate soul is good. For my part, I can find nothing to say in objection to this, my dear Callicles; but if you can, do instruct me.
+
+[148182] Call. Proceed, good sir.
+
+[148208] Soc. I say, then, that if the temperate soul is good, one that is in the opposite state to this sensible one is bad; and that was the senseless and dissolute one. Certainly. And further, the sensible man will do what is fitting as regards both gods and men; for he could not be sensible if he did what was unfitting. That must needs be so. And again, when he does what is fitting as regards men, his actions will be just, and as regards the gods, pious; and he who does what is just and pious must needs be a just and pious man. That is so. And surely he must be brave also: for you know a sound or temperate mind is shown, not by pursuing and shunning what one ought not, but by shunning and pursuing what one ought, whether they be things or people or pleasures or pains, and by steadfastly persevering in one’s duty; so that it follows of strict necessity, Callicles, that the temperate man, as shown in our exposition, being just and brave and pious, is the perfection of a good man; and that the good man does well and fairly whatever he does and that he who does well is blessed and happy, while the wicked man or evil-doer is wretched. And this must be the man who is in an opposite case to the temperate,—the licentious man whom you were commending.
+
+[149467] So there is my account of the matter, and I say that this is the truth; and that, if this is true, anyone, as it seems, who desires to be happy must ensue and practice temperance, and flee from licentiousness, each of us as fast as his feet will carry him, and must contrive, if possible, to need no correction; but if he have need of it, either himself or anyone belonging to him, either an individual or a city, then right must be applied and they must be corrected, if they are to be happy. This, in my opinion, is the mark on which a man should fix his eyes throughout life; he should concentrate all his own and his city’s efforts on this one business of providing a man who would be blessed with the needful justice and temperance; not letting one’s desires go unrestrained and in one’s attempts to satisfy them—an interminable trouble—leading the life of a robber. For neither to any of his fellow-men can such a one be dear, nor to God; since he cannot commune with any, and where there is no communion, there can be no friendship.
+
+[150508] Soc. And wise men tell us, Callicles, that heaven and earth and gods and men are held together by communion and friendship, by orderliness, temperance, and justice; and that is the reason, my friend, why they call the whole of this world by the name of order, not of disorder or dissoluteness. Now you, as it seems to me, do not give proper attention to this, for all your cleverness, but have failed to observe the great power of geometrical equality amongst both gods and men: you hold that self-advantage is what one ought to practice, because you neglect geometry. Very well: either we must refute this statement, that it is by the possession of justice and temperance that the happy are happy and by that of vice the wretched are wretched; or if this is true, we must investigate its consequences. Those former results, Callicles, must all follow, on which you asked me if I was speaking in earnest when I said that a man must accuse himself or his son or his comrade if he do any wrong, and that this is what rhetoric must be used for; and what you supposed Polus to be conceding from shame is after all true— that to do wrong is worse, in the same degree as it is baser, than to suffer it, and that whoever means to be the right sort of rhetorician must really be just and well-informed of the ways of justice, which again Polus said that Gorgias was only shamed into admitting.
+
+[151895] This being the case, let us consider what weight, if any, there is in the reproaches you cast upon me: is it fairly alleged or not that I am unable to stand up for myself or any of my friends and relations, or to deliver them from the sorest perils, but am exposed like an outcast to the whim of anyone who chooses to give me— the dashing phrase is yours—a box on the ear; or strip me of my substance or expel me from the city; or, worst of all, put me to death; and that to be in such a case is the lowest depth of shame, as your account has it? But mine—though it has been frequently stated already, there can be no objection to my stating it once again—is this: I deny, Callicles, that to be wrongfully boxed on the ear is the deepest disgrace, or to have either my person cut or my purse; I hold that to strike or cut me or mine wrongfully is yet more of a disgrace and an evil, and likewise stealing and kidnapping and housebreaking, and in short any wrong whatsoever done to me or mine, are both worse and more shameful to the wrongdoer than to me the wronged.
+
+[152963] Soc. All this, which has been made evident in the form I have stated some way back in our foregoing discussion, is held firm and fastened—if I may put it rather bluntly—with reasons of steel and adamant (so it would seem, at least, on the face of it) which you or somebody more gallant than yourself must undo, or else accept this present statement of mine as the only possible one. For my story is ever the same, that I cannot tell how the matter stands, and yet of all whom I have encountered, before as now, no one has been able to state it otherwise without making himself ridiculous. Well now, once more I assume it to be so; but if it is so, and injustice is the greatest of evils to the wrongdoer, and still greater than this greatest, if such can be, when the wrongdoer pays no penalty, what rescue is it that a man must be able to effect for himself if he is not to be ridiculous in very truth? Is it not one which will avert from us the greatest harm? Nay, rescue must needs be at its shamefullest, if one is unable to rescue either oneself or one’s own friends and relations, and second to it is inability in face of the second sort of evil, and third in face of the third, and so on with the rest; according to the gravity attaching to each evil is either the glory of being able to effect a rescue from each sort, or the shame of being unable. Is it so or otherwise, Callicles?
+
+[154355] Call. Not otherwise.
+
+[154377] Soc. Then of these two, doing and suffering wrong, we declare doing wrong to be the greater evil, and suffering it the less. Now with what should a man provide himself in order to come to his own rescue, and so have both of the benefits that arise from doing no wrong on the one hand, and suffering none on the other? Is it power or will? What I mean is, will a man avoid being wronged by merely wishing not to be wronged, or will he avoid it by providing himself with power to avert it?
+
+[154866] Call. The answer to that is obvious: by means of power.
+
+[154923] Soc. But what about doing wrong? Will the mere not wishing to do it suffice—since, in that case, he will not do it—or does it require that he also provide himself with some power or art, since unless he has got such learning or training he will do wrong? I really must have your answer on this particular point, Callicles—whether you think that Polus and I were correct or not in finding ourselves forced to admit, as we did in the preceding argument, that no one does wrong of his own wish, but that all who do wrong do it against their will.
+
+[155468] Call. Let it be as you would have it, Socrates, in order that you may come to a conclusion of your argument.
+
+[155578] Soc. Then for this purpose also, of not doing wrong, it seems we must provide ourselves with a certain power or art.
+
+[155696] Call. To be sure.
+
+[155715] Soc. Now what can be the art of providing so that we suffer no wrong, or as little as possible? Consider if you take the same view of it as I do. For in my view it is this: one must either be a ruler, or even a despot, in one’s city, or else an associate of the existing government.
+
+[155999] Call. Do you note, Socrates, how ready I am to praise, when you say a good thing? This seems to me excellently spoken.
+
+[156119] Soc. Then see if this next statement of mine strikes you as a good one too. It seems to me that the closest possible friendship between man and man is that mentioned by the sages of old time as like to like. Do you not agree?
+
+[156346] Call. I do.
+
+[156359] Soc. So where you have a savage, uneducated ruler as despot, if there were some one in the city far better than he, I suppose the despot would be afraid of him and could never become a friend to him with all his heart?
+
+[156579] Call. That is so.
+
+[156598] Soc. Nor a friend to anyone who was much inferior to him either; for the despot would despise him and never show him the attention due to a friend.
+
+[156747] Call. That is true also.
+
+[156773] Soc. Then the only friend of any account that remains for such a person is a man of his own temper, who blames and praises the same things, and is thus willing to be governed by him and to be subject to his rule. He is a man who will have great power in that state; him none will wrong with impunity. Is it not so?
+
+[157089] Call. Yes.
+
+[157101] Soc. Hence if one of the young men in that city should reflect: In what way can I have great power, and no one may do me wrong?—this, it would seem, is the path he must take, to accustom himself from his earliest youth to be delighted and annoyed by the same things as his master, and contrive to be as like the other as possible. Is it not so?
+
+[157447] Call. Yes.
+
+[157459] Soc. And so this man will have attained to a condition of suffering no wrong and having great power—as your party maintain—in the city.
+
+[157596] Call. Certainly.
+
+[157614] Soc. And of doing no wrong likewise? Or is it quite the contrary, if he is to be like his unjust ruler, and have great influence with him? Well, for my part, I think his efforts will be all the opposite way, that is, towards enabling himself to do as much wrong as possible and to pay no penalty for the wrong he does; will they not?
+
+[157949] Call. Apparently.
+
+[157968] Soc. And thus he will find himself possessed of the greatest evil, that of having his soul depraved and maimed as a result of his imitation of his master and the power he has got.
+
+[158149] Call. You have a strange way of twisting your arguments, at each point, this way or that, Socrates! Surely you know that this imitator will put to death anyone who does not imitate his master, if he pleases, and will strip him of his property.
+
+[158394] Soc. I know that, my good Callicles, if I am not deaf, as I have heard it so often of late from you and Polus, and from almost every one else in the town; but you in return must hear what I say—that he will put a man to death if he pleases, but it will be a villain slaying a good man and true.
+
+[158690] Call. And is not this the very thing that makes one indignant?
+
+[158754] Soc. Not if one is a man of sense, as our argument indicates. Or do you suppose that the object of a man’s efforts should be to live as long a time as possible, and to cultivate those arts which preserve us from every danger; such as that which you bid me cultivate—rhetoric, the art that preserves us in the law courts?
+
+[159076] Call. Yes, on my word I do, and sound advice it is that I give you.
+
+[159145] Soc. But now, my excellent friend, do you think there is anything grand in the accomplishment of swimming?
+
+[159253] Call. No, in truth, not I.
+
+[159281] Soc. Yet, you know, that too saves men from death, when they have got into a plight of the kind in which that accomplishment is needed. But if this seems to you too small a thing, I will tell you of a more important one, the art of piloting, which saves not only our lives but also our bodies and our goods from extreme perils, as rhetoric does. And at the same time it is plain-fashioned and orderly, not giving itself grand airs in a pretence of performing some transcendent feat; but in return for performing the same as the forensic art—bringing one safely over, it may be, from Aegina—it charges a fee, I believe, of two obols; or if it be from Egypt or the Pontus, at the very most—for this great service of bringing safe home, as I said just now, oneself and children and goods and womenfolk—on landing charges a couple of drachmae; the actual possessor of the art, after performing all this, goes ashore and strolls on the quay by his vessel’s side, with an unobtrusive demeanor. For he knows, I expect, how to estimate the uncertainty as to which of his passengers he has benefited by not letting them be lost at sea, and which he has injured, being aware that he has put them ashore not a whit better than when they came aboard, either in body or in soul.
+
+[160548] Soc. And so he reckons out how wrong it is that, whereas a victim of severe and incurable diseases of the body who has escaped drowning is miserable in not having died, and has got no benefit at his hands, yet, if a man has many incurable diseases in that part of him so much more precious than the body, his soul, that such a person is to live, and that he will be doing him the service of saving him either from the sea or from a law court or from any other peril whatsoever: no, he knows it cannot be better for a man who is vicious to live, since he must needs live ill.
+
+[161124] This is why it is not the custom for the pilot to give himself grand airs, though he does save our lives; nor for the engineer either, my admirable friend, who sometimes has the power of saving lives in no less degree than a general—to say nothing of a pilot—or anyone else: for at times he saves whole cities. Can you regard him as comparable with the lawyer? And yet, if he chose to speak as you people do, Callicles, magnifying his business, he would bury you in a heap of words, pleading and urging the duty of becoming engineers, as the only thing; for he would find reasons in plenty. But you none the less despise him and his special art, and you would call him engineer in a taunting sense, and would refuse either to bestow your daughter on his son or let your own son marry his daughter. And yet after the praises you sing of your own pursuits what fair ground have you for despising the engineer and the others whom I was mentioning just now? I know you would claim to be a better man and of better birth. But if better has not the meaning I give it, but virtue means just saving oneself and one’s belongings, whatever one’s character may be, you are merely ridiculous in cavilling at the engineer and the doctor and every other art that has been produced for our safety. No, my gifted friend, just see if the noble and the good are not something different from saving and being saved. For as to living any particular length of time, this is surely a thing that any true man should ignore, and not set his heart on mere life; but having resigned all this to Heaven and believing what the women say—that not one of us can escape his destiny—he should then proceed to consider in what way he will best live out his allotted span of life;
+
+[162872] Soc. whether in assimilating himself to the constitution of the state in which he may be dwelling— and so therefore now, whether it is your duty to make yourself as like as possible to the Athenian people, if you intend to win its affection and have great influence in the city: see if this is to your advantage and mine, so that we may not suffer, my distinguished friend, the fate that they say befalls the creatures who would draw down the moon—the hags of Thessaly; that our choice of this power in the city may not cost us all that we hold most dear. But if you suppose that anyone in the world can transmit to you such an art as will cause you to have great power in this state without conforming to its government either for better or for worse, in my opinion you are ill-advised, Callicles; for you must be no mere imitator, but essentially like them, if you mean to achieve any genuine sort of friendship with Demus the Athenian people, ay, and I dare swear, with Demus son of Pyrilampes as well. So whoever can render you most like them is the person to make you a statesman in the way that you desire to be a statesman, and a rhetorician; for everybody is delighted with words that are designed for his special temper, but is annoyed by what is spoken to suit aliens—unless you have some other view, dear creature. Have we any objection to this, Callicles?
+
+[164241] Call. It seems to me, I cannot tell how, that your statement is right, Socrates, but I share the common feeling; I do not quite believe you.
+
+[164383] Soc. Because the love of Demus, Callicles, is there in your soul to resist me: but if haply we come to examine these same questions more than once, and better, you will believe. Remember, however, that we said there were two treatments that might be used in the tendance of any particular thing, whether body or soul: one, making pleasure the aim in our dealings with it; the other, working for what is best, not indulging it but striving with it as hard as we can. Was not this the distinction we were making at that point?
+
+[164909] Call. Certainly.
+
+[164927] Soc. Then the one, aiming at pleasure, is ignoble and really nothing but flattery, is it not?
+
+[165022] Call. Be it so, if you like.
+
+[165052] Soc. And the aim of the other is to make that which we are tending, whether it be body or soul, as good as may be.
+
+[165168] Call. To be sure.
+
+[165187] Soc. Then ought we not to make it our endeavor, in tending our city and its citizens, to make those citizens as good as possible? For without this, you see, as we found in our former argument, there is no use in offering any other service, unless the intentions of those who are going to acquire either great wealth or special authority or any other sort of power be fair and honorable. Are we to grant that?
+
+[165597] Call. Certainly, if you so prefer.
+
+[165633] Soc. Then if you and I, Callicles, in setting about some piece of public business for the state, were to invite one another to see to the building part of it, say the most important erections either of walls or arsenals or temples, would it be our duty to consider and examine ourselves, first as to whether we understood the art of building or not, and from whom we had learnt it? Would we have to do this, or not?
+
+[166050] Call. Certainly.
+
+[166068] Soc. And so again, in the second place, whether we had ever erected any building privately for one of our friends or for ourselves, and whether such building was handsome or ugly? And if we found on consideration that we had been under good and reputable masters, and that there were many handsome buildings that had been erected by us with our masters’ guidance, and many also by ourselves alone, after we had dispensed with our masters, it might, in those circumstances, be open to men of sense to enter upon public works: but if we had neither a master of ourselves to point to, nor any buildings at all, or only a number of worthless ones, in that case surely it would be senseless to attempt public works or invite one another to take them in hand. Shall we agree to the correctness of this statement or not?
+
+[166883] Call. Yes, to be sure.
+
+[166907] Soc. And so too with all the rest: suppose, for instance, we had undertaken the duties of state-physicians, and were to invite one another to the work as qualified doctors, we should, I presume, have first inquired of each other, I of you and you of me: Let us see now, in Heaven’s name; how does Socrates himself stand as regards his body’s health? Or has anyone else, slave or free, ever had Socrates to thank for ridding him of a disease? And I also, I fancy, should make the same sort of inquiry about you; and then, if we found we had never been the cause of an improvement in the bodily condition of anyone, stranger or citizen, man or woman,—by Heaven, Callicles, would it not in truth be ridiculous that men should descend to such folly that, before having plenty of private practice, sometimes with indifferent results, sometimes with success, and so getting adequate training in the art, they should, as the saying is, try to learn pottery by starting on a wine-jar, and start public practice themselves and invite others of their like to do so? Do you not think it would be mere folly to act thus?
+
+[168017] Call. I do.
+
+[168030] Soc. And now, most excellent sir, since you are yourself just entering upon a public career, and are inviting me to do the same, and reproaching me for not doing it, shall we not inquire of one another: Let us see, has Callicles ever made any of the citizens better? Is there one who was previously wicked, unjust, licentious, and senseless, and has to thank Callicles for making him an upright, honorable man, whether stranger or citizen, bond or free? Tell me, if anyone examines you in these terms, Callicles, what will you say? What human being will you claim to have made better by your intercourse? Do you shrink from answering, if there really is some work of yours in private life that can serve as a step to your public practice?
+
+[168770] Call. You are contentious, Socrates!
+
+[168808] Soc. No, it is not from contentiousness that I ask you this, but from a real wish to know in what manner you can imagine you ought to conduct yourself as one of our public men. Or can it be, then, that you will let us see you concerning yourself with anything else in your management of the city’s affairs than making us, the citizens, as good as possible? Have we not more than once already admitted that this is what the statesman ought to do? Have we admitted it or not? Answer. We have: I will answer for you. Then if this is what the good man ought to accomplish for his country, recall now those men whom you mentioned a little while ago, and tell me if you still consider that they showed themselves good citizens— Pericles and Cimon and Miltiades and Themistocles.
+
+[169582] Call. Yes, I do.
+
+[169600] Soc. Then if they were good, clearly each of them was changing the citizens from worse to better. Was this so, or not?
+
+[169720] Call. Yes.
+
+[169732] Soc. So when Pericles began to speak before the people, the Athenians were worse than when he made his last speeches?
+
+[169851] Call. Perhaps.
+
+[169867] Soc. Not perhaps, as you say, excellent sir; it follows of necessity from what we have admitted, on the assumption that he was a good citizen.
+
+[170011] Call. Well, what then?
+
+[170035] Soc. Nothing: but tell me one thing in addition,—whether the Athenians are said to have become better because of Pericles, or quite the contrary, to have been corrupted by him. What I, for my part, hear is that Pericles has made the Athenians idle, cowardly, talkative, and avaricious, by starting the system of public fees.
+
+[170361] Call. You hear that from the folk with battered ears, Socrates.
+
+[170426] Soc. Ah, but what is no longer a matter of hearsay, but rather of certain knowledge, for you as well as for me, is that Pericles was popular at first, and the Athenians passed no degrading sentence upon him so long as they were worse; but as soon as they had been made upright and honorable by him, at the end of our Pericles’ life they convicted him of embezzlement, and all but condemned him to death, clearly because they thought him a rogue.
+
+[170873] Call. What then? Was Pericles a bad man on that account?
+
+[170931] Soc. Well, at any rate a herdsman in charge of asses or horses or oxen would be considered a bad one for being like that—if he took over animals that did not kick him or butt or bite, and in the result they were found to be doing all these things out of sheer wildness. Or do you not consider any keeper of any animal whatever a bad one, if he turns out the creature he received tame so much wilder than he found it? Do you, or do you not?
+
+[171372] Call. Certainly I do, to oblige you.
+
+[171410] Soc. Then oblige me still further by answering this: is man also one of the animals, or not?
+
+[171504] Call. Of course he is.
+
+[171528] Soc. And Pericles had charge of men?
+
+[171566] Call. Yes.
+
+[171578] Soc. Well now, ought they not, as we admitted this moment, to have been made by him more just instead of more unjust, if he was a good statesman while he had charge of them?
+
+[171753] Call. Certainly.
+
+[171771] Soc. And the just are gentle, as Homer said. But what say you? Is it not so?
+
+[171849] Call. Yes.
+
+[171861] Soc. But, however, he turned them out wilder than when he took them in hand, and that against himself, the last person he would have wished them to attack.
+
+[172018] Call. You wish me to agree with you?
+
+[172056] Soc. Yes, if you consider I am speaking the truth.
+
+[172108] Call. Then be it so.
+
+[172130] Soc. And if wilder, more unjust and worse?
+
+[172174] Call. Be it so.
+
+[172191] Soc. Then Pericles was not a good statesman, by this argument.
+
+[172255] Call. You at least say not.
+
+[172284] Soc. And you too, I declare, by what you admitted. And now about Cimon once more, tell me, did not the people whom he tended ostracize him in order that they might not hear his voice for ten years? And Themistocles, did they not treat him in just the same way, and add the punishment of exile? And Miltiades, the hero of Marathon, they sentenced to be flung into the pit, and had it not been for the president, in he would have gone. And yet these men, had they been good in the way that you describe them, would never have met with such a fate. Good drivers, at any rate, do not keep their seat in the chariot at their first race to be thrown out later on, when they have trained their teams and acquired more skill in driving! This never occurs either in charioteering or in any other business; or do you think it does?
+
+[173107] Call. No, I do not.
+
+[173128] Soc. So what we said before, it seems, was true, that we know of nobody who has shown himself a good statesman in this city of ours. You admitted there was nobody among those of the present day, but thought there were some amongst those of former times, and you gave these men the preference. But these we have found to be on a par with ours of the present day and so, if they were orators, they employed neither the genuine art of rhetoric—else they would not have been thrown out—nor the flattering form of it.
+
+[173642] Call. But still there can be no suggestion, Socrates, that any of the present-day men has ever achieved anything like the deeds of anyone you may choose amongst those others.
+
+[173818] Soc. My admirable friend, neither do I blame the latter, at least as servants of the state; indeed, I consider they have shown themselves more serviceable than those of our time, and more able to procure for the city the things she desired. But in diverting her desires another way instead of complying with them—in persuading or compelling her people to what would help them to be better— they were scarcely, if at all, superior to their successors; and that is the only business of a good citizen. But in providing ships and walls and arsenals, and various other things of the sort, I do grant you that they were cleverer than our leaders. Thus you and I are doing an absurd thing in this discussion: for during all the time that we have been debating we have never ceased circling round to the same point and misunderstanding each other. I at all events believe you have more than once admitted and decided that this management of either body or soul is a twofold affair, and that on one side it is a menial service, whereby it is possible to provide meat for our bodies when they are hungry, drink when thirsty, and when they are cold, clothing, bedding, shoes, or anything else that bodies are apt to desire: I purposely give you the same illustrations, in order that you may the more easily comprehend. For as to being able to supply these things, either as a tradesman or a merchant or a manufacturer of any such actual things—baker or cook or weaver or shoemaker or tanner—it is no wonder that a man in such capacity should appear to himself and his neighbors to be a minister of the body; to every one, in fact, who is not aware that there is besides all these an art of gymnastics and medicine which really is, of course, ministration to the body, and which actually has a proper claim to rule over all those arts and to make use of their works, because it knows what is wholesome or harmful in meat and drink to bodily excellence, whereas all those others know it not;
+
+[175799] Soc. and hence it is that, while those other arts are slavish and menial and illiberal in dealing with the body, gymnastics and medicine can fairly claim to be their mistresses. Now, that the very same is the case as regards the soul you appear to me at one time to understand to be my meaning, and you admit it as though you knew what I meant; but a little later you come and tell me that men have shown themselves upright and honorable citizens in our city, and when I ask you who, you seem to me to be putting forward men of exactly the same sort in public affairs; as if, on my asking you who in gymnastics have ever been or now are good trainers of the body, you were to tell me, in all seriousness, Thearion, the baker, Mithaecus, the author of the book on Sicilian cookery, Sarambus, the vintner—these have shown themselves wonderful ministers of the body; the first providing admirable loaves, the second tasty dishes, and the third wine. Now perhaps you would be indignant should I then say to you: Sir, you know nothing about gymnastics; servants you tell me of, and caterers to appetites, fellows who have no proper and respectable knowledge of them, and who peradventure will first stuff and fatten men’s bodies to the tune of their praises, and then cause them to lose even the flesh they had to start with; and these in their turn will be too ignorant to cast the blame of their maladies and of their loss of original weight upon their regalers, but any people who chance to be by at the time and offer them some advice—just when the previous stuffing has brought, after the lapse of some time, its train of disease, since it was done without regard to what is wholesome—these are the people they will accuse and chide and harm as far as they can, while they will sing the praises of that former crew who caused the mischief. And you now, Callicles, are doing something very similar to this: you belaud men who have regaled the citizens with all the good cheer they desired.
+
+[177789] Soc. People do say they have made the city great; but that it is with the swelling of an imposthume, due to those men of the former time, this they do not perceive. For with no regard for temperance and justice they have stuffed the city with harbors and arsenals and walls and tribute and suchlike trash; and so whenever that access of debility comes they will lay the blame on the advisers who are with them at the time, and belaud Themistocles and Cimon and Pericles, who caused all the trouble; and belike they will lay hold of you, if you are not on your guard, and my good friend Alcibiades, when they are losing what they had originally as well as what they have acquired, though you are not the authors, except perhaps part-authors, of the mischief. And yet there is a senseless thing which I see happening now, and hear of, in connection with the men of former times. For I observe that whenever the state proceeds against one of her statesmen as a wrongdoer, they are indignant and protest loudly against such monstrous treatment: after all their long and valuable services to the state they are unjustly ruined at her hands, so they protest. But the whole thing is a lie; since there is not a single case in which a ruler of a city could ever be unjustly ruined by the very city that he rules. For it is very much the same with pretenders to statesmanship as with professors of sophistry. The sophists, in fact, with all their other accomplishments, act absurdly in one point: claiming to be teachers of virtue, they often accuse their pupils of doing them an injury by cheating them of their fees and otherwise showing no recognition of the good they have done them. Now what can be more unreasonable than this plea? That men, after they have been made good and just, after all their injustice has been rooted out by their teacher and replaced by justice, should be unjust through something that they have not! Does not this seem to you absurd, my dear friend? In truth you have forced me to make quite a harangue, Callicles, by refusing to answer.
+
+[179851] Call. And you are the man who could not speak unless somebody answered you?
+
+[179928] Soc. Apparently I can. Just now, at any rate, I am rather extending my speeches, since you will not answer me. But in the name of friendship, my good fellow, tell me if you do not think it unreasonable for a man, while professing to have made another good, to blame him for being wicked in spite of having been made good by him and still being so?
+
+[180277] Call. Yes, I do.
+
+[180295] Soc. Well, and you hear such things said by those who profess to give men education in virtue?
+
+[180391] Call. I do; but what is one to say of such worthless people?
+
+[180453] Soc. And what is one to say of those who, professing to govern the state and take every care that she be as good as possible, turn upon her and accuse her, any time it suits them, of being utterly wicked? Do you see any difference between these men and the others? Sophist and orator, my estimable friend, are the same thing, or very much of a piece, as I was telling Polus; but you in your ignorance think the one thing, rhetoric, a very fine affair, and despise the other. Yet in reality sophistic is a finer thing than rhetoric by so much as legislation is finer than judicature, and gymnastic than medicine: in fact, for my own part, I always regarded public speakers and sophists as the only people who have no call to complain of the thing that they themselves educate, for its wickedness towards them; as otherwise they must in the same words be also charging themselves with having been of no use to those whom they say they benefit. Is it not so?
+
+[181410] Call. Certainly.
+
+[181428] Soc. And they alone, I presume, could most likely afford to give away their services without fee, if their words were true. For when a man has received any other service, for example, if he has acquired a fast pace from a trainer’s lessons, he might possibly cheat him of his due if the trainer freely offered himself and did not stipulate for a fee to be paid down by the other as nearly as possible at the moment when he imparted to him the fast pace he required; for it is not through a slow pace, I conceive, that men act unjustly, but through injustice; is it not?
+
+[181999] Call. Yes.
+
+[182011] Soc. And so whoever removes this particular thing, injustice, need never have a fear of being unjustly treated; this benefit alone may be freely bestowed without risk, granted that one really had the power of making people good. Is it not so?
+
+[182255] Call. I agree.
+
+[182271] Soc. Then this, it seems, is the reason why there is no disgrace in taking money for giving every other kind of advice, as about building or the rest of the arts.
+
+[182435] Call. It does seem so.
+
+[182459] Soc. But about this business of finding the way to be as good as possible, and of managing one’s own household or city for the best, it is recognized to be a disgrace for one to decline to give advice except for a payment in cash, is it not?
+
+[182702] Call. Yes.
+
+[182714] Soc. The reason evidently being that this is the only sort of service that makes the person so served desire to do one in return and hence it is felt to be a good sign when this service that one has done is repaid to one in kind; but when this is not so, the contrary is felt. Is the case as I say?
+
+[183014] Call. It is.
+
+[183028] Soc. Then please specify to which of these two ministrations to the state you are inviting me—that of struggling hard, like a doctor, with the Athenians to make them as good as possible, or that of seeking to serve their wants and humor them at every turn? Tell me the truth, Callicles; for it is only right that, as you began by speaking to me frankly, you should continue to tell me what you think. So now speak out like a good, generous man.
+
+[183474] Call. I say then, the way of seeking to serve them.
+
+[183527] Soc. So it is to a flatterer’s work, most noble sir, that you invite me?
+
+[183601] Call. Work for a mean Mysian, if you prefer the name, Socrates; for unless you do as I say—
+
+[183694] Soc. Do not tell me, what you have so often repeated, that anyone who pleases will put me to death, lest I on my side should have to tell you that it will be a villain killing a good man; nor that anyone may strip me of whatever I have, lest I should have to say in my turn: Well, but when he has stripped me, he will not know what use to make of his spoil, but as he stripped me unjustly so will he use his spoil unjustly, and if unjustly, foully, and if foully, ill.
+
+[184164] Call. It quite strikes me, Socrates, that you believe not one of these troubles could befall you, as though you dwelt out of the way, and could never be dragged into a law court by some perhaps utterly paltry rascal.
+
+[184382] Soc. Then I am a fool, Callicles, in truth, if I do not suppose that in this city anyone, whoever he was, might find himself, as luck should have it, in any sort of plight. Of one thing, however, I am sure—that if ever I am brought before the court and stand in any such danger as you mention, it will be some villain who brings me there, for no honest man would prosecute a person who had done no wrong; and it would be no marvel if I were put to death. Would you like me to tell you my reason for expecting this?
+
+[184898] Call. Do, by all means.
+
+[184923] Soc. I think I am one of few, not to say the only one, in Athens who attempts the true art of statesmanship, and the only man of the present time who manages affairs of state: hence, as the speeches that I make from time to time are not aimed at gratification, but at what is best instead of what is most pleasant, and as I do not care to deal in these pretty toys that you recommend, I shall have not a word to say at the bar. The same case that I made out to Polus will apply to me; for I shall be like a doctor tried by a bench of children on a charge brought by a cook.
+
+[185498] Soc. Just consider what defence a person like that would make at such a pass, if the prosecutor should speak against him thus: Children, this fellow has done you all a great deal of personal mischief, and he destroys even the youngest of you by cutting and burning, and starves and chokes you to distraction, giving you nasty bitter draughts and forcing you to fast and thirst; not like me, who used to gorge you with abundance of nice things of every sort. What do you suppose a doctor brought to this sad pass could say for himself? Or if he spoke the truth— All this I did, my boys, for your health —how great, think you, would be the outcry from such a bench as that? A loud one, would it not?
+
+[186197] Call. I daresay: one must suppose so.
+
+[186236] Soc. Then you suppose he would be utterly at a loss what to say?
+
+[186302] Call. Quite so.
+
+[186319] Soc. Such, however, I am sure would be my own fate if I were brought before the court. For not only shall I have no pleasures to plead as having been provided by me—which they regard as services and benefits, whereas I envy neither those who provide them nor those for whom they are provided—but if anyone alleges that I either corrupt the younger men by reducing them to perplexity, or revile the older with bitter expressions whether in private or in public, I shall be unable either to tell the truth and say— It is on just ground that I say all this, and it is your interest that I serve thereby, gentlemen of the jury —or to say anything else; and so I daresay any sort of thing, as luck may have it, will befall me.
+
+[187042] Call. Then do you think, Socrates, that a man in such a case and with no power of standing up for himself makes a fine figure in a city?
+
+[187180] Soc. Yes, if he had that one resource, Callicles, which you have repeatedly admitted; if he had stood up for himself by avoiding any unjust word or deed in regard either to men or to gods. For this has been repeatedly admitted by us to be the most valuable kind of self-protection. Now if I were convicted of inability to extend this sort of protection to either myself or another, I should be ashamed, whether my conviction took place before many or few, or as between man and man; and if that inability should bring about my death, I should be sorely vexed: but if I came to my end through a lack of flattering rhetoric, I am quite sure you would see me take my death easily. For no man fears the mere act of dying, except he be utterly irrational and unmanly; doing wrong is what one fears: for to arrive in the nether world having one’s soul full fraught with a heap of misdeeds is the uttermost of all evils. And now, if you do not mind, I would like to tell you a tale to show you that the case is so.
+
+[188189] Call. Well, as you have completed the rest of the business, go on and complete this also.
+
+[188280] Soc. Give ear then, as they say, to a right fine story, which you will regard as a fable, I fancy, but I as an actual account; for what I am about to tell you I mean to offer as the truth. By Homer’s account, Zeus, Poseidon, and Pluto divided the sovereignty amongst them when they took it over from their father. Now in the time of Cronos there was a law concerning mankind, and it holds to this very day amongst the gods, that every man who has passed a just and holy life departs after his decease to the Isles of the Blest, and dwells in all happiness apart from ill; but whoever has lived unjustly and impiously goes to the dungeon of requital and penance which, you know, they call Tartarus. Of these men there were judges in Cronos’ time, and still of late in the reign of Zeus—living men to judge the living upon the day when each was to breathe his last; and thus the cases were being decided amiss. So Pluto and the overseers from the Isles of the Blest came before Zeus with the report that they found men passing over to either abode undeserving. Then spake Zeus: Nay, said he, I will put a stop to these proceedings. The cases are now indeed judged ill and it is because they who are on trial are tried in their clothing, for they are tried alive. Now many, said he, who have wicked souls are clad in fair bodies and ancestry and wealth, and at their judgement appear many witnesses to testify that their lives have been just. Now, the judges are confounded not only by their evidence but at the same time by being clothed themselves while they sit in judgement, having their own soul muffled in the veil of eyes and ears and the whole body. Thus all these are a hindrance to them, their own habiliments no less than those of the judged. Well, first of all, he said, we must put a stop to their foreknowledge of their death; for this they at present foreknow. However, Prometheus has already been given the word to stop this in them. Next they must be stripped bare of all those things before they are tried; for they must stand their trial dead. Their judge also must be naked, dead, beholding with very soul the very soul of each immediately upon his death, bereft of all his kin and having left behind on earth all that fine array, to the end that the judgement may be just.
+
+[190572] Soc. Now I, knowing all this before you, have appointed sons of my own to be judges; two from Asia, Minos and Rhadamanthus, and one from Europe, Aeacus. These, when their life is ended, shall give judgement in the meadow at the dividing of the road, whence are the two ways leading, one to the Isles of the Blest, and the other to Tartarus. And those who come from Asia shall Rhadamanthus try, and those from Europe, Aeacus; and to Minos I will give the privilege of the final decision, if the other two be in any doubt; that the judgement upon this journey of mankind may be supremely just.
+
+[191165] This, Callicles, is what I have heard and believe to be true; and from these stories, on my reckoning, we must draw some such moral as this: death, as it seems to me, is actually nothing but the disconnection of two things, the soul and the body, from each other. And so when they are disconnected from one another, each of them keeps its own condition very much as it was when the man was alive, the body having its own nature, with its treatments and experiences all manifest upon it. For instance, if anyone’s body was large by nature or by feeding or by both when he was alive, his corpse will be large also when he is dead; and if he was fat, it will be fat too after his death, and so on for the rest; or again, if he used to follow the fashion of long hair, long-haired also will be his corpse. Again, if anyone had been a sturdy rogue, and bore traces of his stripes in scars on his body, either from the whip or from other wounds, while yet alive, then after death too his body has these marks visible upon it; or if anyone’s limbs were broken or distorted in life, these same effects are manifest in death. In a word, whatever sort of bodily appearance a man had acquired in life, that is manifest also after his death either wholly or in the main for some time. And so it seems to me that the same is the case with the soul too, Callicles: when a man’s soul is stripped bare of the body, all its natural gifts, and the experiences added to that soul as the result of his various pursuits, are manifest in it. So when they have arrived in presence of their judge, they of Asia before Rhadamanthus, these Rhadamanthus sets before him and surveys the soul of each, not knowing whose it is; nay, often when he has laid hold of the Great King or some other prince or potentate, he perceives the utter unhealthiness of his soul, striped all over with the scourge, and a mass of wounds, the work of perjuries and injustice;
+
+[193094] Soc. where every act has left its smirch upon his soul, where all is awry through falsehood and imposture, and nothing straight because of a nurture that knew not truth: or, as the result of an unbridled course of fastidiousness, insolence, and incontinence, he finds the soul full fraught with disproportion and ugliness. Beholding this he sends it away in dishonor straight to the place of custody, where on its arrival it is to endure the sufferings that are fitting. And it is fitting that every one under punishment rightly inflicted on him by another should either be made better and profit thereby, or serve as an example to the rest, that others seeing the sufferings he endures may in fear amend themselves. Those who are benefited by the punishment they get from gods and men are they who have committed remediable offences; but still it is through bitter throes of pain that they receive their benefit both here and in the nether world; for in no other way can there be riddance of iniquity. But of those who have done extreme wrong and, as a result of such crimes, have become incurable, of those are the examples made; no longer are they profited at all themselves, since they are incurable, but others are profited who behold them undergoing for their transgressions the greatest, sharpest, and most fearful sufferings evermore, actually hung up as examples there in the infernal dungeon, a spectacle and a lesson to such of the wrongdoers as arrive from time to time. Among them I say Archelaus also will be found, if what Polus tells us is true, and every other despot of his sort. And I think, moreover, that most of these examples have come from despots and kings and potentates and public administrators; for these, since they have a free hand, commit the greatest and most impious offences. Homer also testifies to this; for he has represented kings and potentates as those who are punished everlastingly in the nether world—Tantalus and Sisyphus and Tityus; but Thersites, or any other private person who was wicked, has been portrayed by none as incurable and therefore subjected to heavy punishment; no doubt because he had not a free hand, and therefore was in fact happier than those who had.
+
+[195313] Soc. For in fact, Callicles, it is among the powerful that we find the specially wicked men. Still there is nothing to prevent good men being found even among these, and it deserves our special admiration when they are; for it is hard, Callicles, and deserving of no slight praise, when a man with a perfectly free hand for injustice lives always a just life. The men of this sort are but few; for indeed there have been, and I expect there yet will be, both here and elsewhere, men of honor and excellence in this virtue of administering justly what is committed to their charge. One in fact there has been whose fame stands high among us and throughout the rest of Greece, Aristeides, son of Lysimachus; but most of those in power, my excellent friend, prove to be bad. So, as I was saying, whenever the judge Rhadamanthus has to deal with such a one, he knows nothing else of him at all, neither who he is nor of what descent, but only that he is a wicked person and on perceiving this he sends him away to Tartarus, first setting a mark on him to show whether he deems it a curable or an incurable case; and when the man arrives there he suffers what is fitting. Sometimes, when he discerns another soul that has lived a holy life in company with truth, a private man’s or any others—especially, as I claim, Callicles, a philosopher’s who has minded his own business and not been a busybody in his lifetime—he is struck with admiration and sends it off to the Isles of the Blest. And exactly the same is the procedure of Aeacus: each of these two holds a rod in his hand as he gives judgement; but Minor sits as supervisor, distinguished by the golden scepter that he holds, as Odysseus in Homer tells how he saw him— Holding a golden scepter, speaking dooms to the dead. Now for my part, Callicles, I am convinced by these accounts, and I consider how I may be able to show my judge that my soul is in the best of health. So giving the go-by to the honors that most men seek I shall try, by inquiry into the truth, to be really good in as high a degree as I am able, both in my life and, when I come to die, in my death. And I invite all other men likewise, to the best of my power, and you particularly I invite in return, to this life and this contest, which I say is worth all other contests on this earth; and I make it a reproach to you, that you will not be able to deliver yourself when your trial comes and the judgement of which I told you just now;
+
+[197778] Soc. but when you go before your judge, the son of Aegina, and he grips you and drags you up, you will gape and feel dizzy there no less than I do here, and some one perhaps will give you, yes, a degrading box on the ear, and will treat you with every kind of contumely.
+
+[198050] Possibly, however, you regard this as an old wife’s tale, and despise it; and there would be no wonder in our despising it if with all our searching we could somewhere find anything better and truer than this: but as it is, you observe that you three, who are the wisest of the Greeks in our day—you and Polus and Gorgias— are unable to prove that we ought to live any other life than this, which is evidently advantageous also in the other world. But among the many statements we have made, while all the rest are refuted this one alone is unshaken—that doing wrong is to be more carefully shunned than suffering it; that above all things a man should study not to seem but to be good both in private and in public; that if one becomes bad in any respect one must be corrected; that this is good in the second place,— next to being just, to become so and to be corrected by paying the penalty; and that every kind of flattery, with regard either to oneself or to others, to few or to many, must be avoided; and that rhetoric is to be used for this one purpose always, of pointing to what is just, and so in every other activity. Take my advice, therefore, and follow me where, if you once arrive, you will be happy both in life and after life’s end, as this account declares. And allow anyone to contemn you as a fool and foully maltreat you if he chooses; yes, by Heaven, and suffer undaunted the shock of that ignominious cuff; for you will come to no harm if you be really a good and upright man, practicing virtue. And afterwards, having practiced it together, we shall in due course, if we deem it right, embark on politics, or proceed to consult on whatever we may think fit, being then better equipped for such counsel than we are now. For it is disgraceful that men in such a condition as we now appear to be in should put on a swaggering, important air when we never continue to be of the same mind upon the same questions, and those the greatest of all—we are so sadly uneducated. Let us therefore take as our guide the doctrine now disclosed, which indicates to us that this way of life is best—to live and die in the practice alike of justice and of all other virtue. This then let us follow, and to this invite every one else; not that to which you trust yourself and invite me, for it is nothing worth, Callicles.

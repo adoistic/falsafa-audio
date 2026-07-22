@@ -1,0 +1,1807 @@
+WORK: Alcibiades 1  (slug: plato-alcibiades-1-517e10)
+
+CHAPTER: 01-alcibiades-1
+
+
+
+[0] Soc. Son of Cleinias, I think it must surprise you that I, the first of all your lovers, am the only one of them who has not given up his suit and thrown you over, and whereas they have all pestered you with their conversation I have not spoken one word to you for so many years. The cause of this has been nothing human, but a certain spiritual opposition, of whose power you shall be informed at some later time. However, it now opposes me no longer, so I have accordingly come to you; and I am in good hopes that it will not oppose me again in the future. Now I have been observing you all this time, and have formed a pretty good notion of your behavior to your lovers: for although they were many and high-spirited, everyone of them has found your spirit too strong for him and has run away.
+
+[798] Soc. Let me explain the reason of your spirit being too much for them. You say you have no need of any man in any matter; for your resources are so great, beginning with the body and ending with the soul, that you lack nothing. You think, in the first place, that you are foremost in beauty and stature—and you are not mistaken in this, as is plain for all to see—and in the second place, that you are of the most gallant family in your city, the greatest city in Greece, and that there you have, through your father, very many of the best people as your friends and kinsmen, who would assist you in case of need, and other connections also, through your mother, who are not a whit inferior to these, nor fewer. And you reckon upon a stronger power than all those that I have mentioned, in Pericles, son of Xanthippus, whom your father left as guardian of you and your brother when he died, and who is able to do whatever he likes not only in this city but all over Greece and among many great nations of the barbarians. And I will add besides the wealth of your house: but on this, I observe, you presume least of all. Well, you puff yourself up on all these advantages, and have overcome your lovers, while they in their inferiority have yielded to your might, and all this has not escaped you; so I am very sure that you wonder what on earth I mean by not getting rid of my passion, and what can be my hope in remaining when the rest have fled.
+
+[2247] Alc. Perhaps also, Socrates, you are not aware that you have only just anticipated me. For I, in fact, had the intention of coming and asking you first that very same question—what is your aim and expectation in bothering me by making a particular point of always turning up wherever I may be. For I really do wonder what can be your object, and should be very glad if you would tell me.
+
+[2636] Soc. Then you will listen to me, presumably, with keen attention if, as you say, you long to know what I mean, and I have in you a listener who will stay to hear me out.
+
+[2807] Alc. Why, to be sure: only speak.
+
+[2842] Soc. Look to it, then; for it would be no wonder if I should make as much difficulty about stopping as I have made about starting.
+
+[2974] Alc. My good sir, speak; for I will listen.
+
+[3019] Soc. Speak I must, I suppose. Now, although it is hard for a lover to parley with a man who does not yield to lovers, I must make bold nevertheless to put my meaning into words. For if I saw you, Alcibiades, content with the things I set forth just now, and minded to pass your life in enjoying them, I should long ago have put away my love, so at least I persuade myself: but as it is, I shall propound to your face quite another set of your thoughts, whereby you will understand that I have had you continually before my mind. For I believe, if some god should ask you: Alcibiades, do you prefer to live with your present possessions, or to die immediately if you are not to have the chance of acquiring greater things? I believe you would choose to die. But let me tell you what I imagine must be the present hope of your life. You think that if you come shortly before the Athenian Assembly—which you expect to occur in a very few days—you will stand forth and prove to the people that you are more worthy of honor than either Pericles or anyone else who has ever existed, and that having proved this you will have the greatest power in the state; and that if you are the greatest here, you will be the same among all the other Greeks, and not only Greeks, but all the barbarians who inhabit the same continent with us. And if that same god should say to you again, that you are to hold sway here in Europe, but are not to be allowed to cross over into Asia and to interfere with the affairs of that region, I believe you would be equally loth to live on those sole conditions either—if you are not to fill, one may say, the whole world with your name and your power; and I fancy that, except Cyrus and Xerxes, you think there has never existed a single man who was of any account. So then that this is your hope, I know well enough; I am not merely guessing. And I daresay you will reply, since you know that what I say is true: Well, Socrates, and what has that to do with your point? I am going to tell you, dear son of Cleinias and Deinomache. Without me it is impossible for all those designs of yours to be crowned with achievement; so great is the power I conceive myself to have over your affairs and over you, and it is for this very reason, I believe, that the god has so long prevented me from talking with you, and I was waiting to see when he would allow me. For as you have hopes of proving yourself in public to be invaluable to the state and, having proved it, of winning forthwith unlimited power, so do I hope to win supreme power over you by proving that I am invaluable to you, and that neither guardian nor kinsman nor anyone else is competent to transmit to you the power that you long for except me, with the god’s help, however. In your younger days, to be sure, before you had built such high hopes, the god, as I believe, prevented me from talking with you, in order that I might not waste my words: but now he has set me on; for now you will listen to me.
+
+[6007] Alc. You seem to me far more extraordinary, Socrates, now that you have begun to speak, than before, when you followed me about in silence; though even then you looked strange enough. Well, as to my intending all this or not, you have apparently made your decision, and any denial of mine will not avail me to persuade you. Very good: but supposing I have intended ever so much what you say, how are you the sole means through which I can hope to attain it? Can you tell me?
+
+[6483] Soc. Are you asking whether I can make a long speech, such as you are used to hearing? No, my gift is not of that sort. But I fancy I could prove to you that the case is so, if you will consent to do me just one little service.
+
+[6712] Alc. Why, if you mean a service that is not troublesome, I consent.
+
+[6781] Soc. Do you consider it troublesome to answer questions put to you?
+
+[6850] Alc. No, I do not.
+
+[6870] Soc. Then answer.
+
+[6889] Alc. Ask.
+
+[6900] Soc. Well, you have the intentions which I say you have, I suppose?
+
+[6969] Alc. Be it so, if you like, in order that I may know what you will say next.
+
+[7047] Soc. Now then: you intend, as I say, to come forward as adviser to the Athenians in no great space of time; well, suppose I were to take hold of you as you were about to ascend the platform, and were to ask you: Alcibiades, on what subject do the Athenians propose to take advice, that you should stand up to advise them? Is it something about which you have better knowledge than they? What would be your reply?
+
+[7461] Alc. I should say, I suppose, it was something about which I knew better than they.
+
+[7546] Soc. Then you are a good adviser on things about which you actually know.
+
+[7621] Alc. To be sure.
+
+[7639] Soc. And you know only the things you have learnt from others or discovered yourself?
+
+[7726] Alc. What could I know besides?
+
+[7759] Soc. And can it be that you would ever have learnt or discovered anything without being willing either to learn it or to inquire into it yourself?
+
+[7907] Alc. No.
+
+[7917] Soc. Well then, would you have been willing to inquire into or learn what you thought you knew?
+
+[8014] Alc. No, indeed.
+
+[8032] Soc. So there was a time when you did not think that you knew what you now actually know.
+
+[8123] Alc. There must have been.
+
+[8151] Soc. Well, but I know pretty nearly the things that you have learnt: tell me if anything has escaped me. You learnt, if I recollect, writing and harping and wrestling; as for fluting, you refused to learn it. These are the things that you know, unless perhaps there is something you have been learning unobserved by me; and this you were not, I believe, if you so much as stepped out of doors either by night or by day.
+
+[8572] Alc. No, I have taken no other lessons than those.
+
+[8624] Soc. Then tell me, will it be when the Athenians are taking advice how they are to do their writing correctly that you are to stand up and advise them?
+
+[8777] Alc. Upon my word, not I.
+
+[8804] Soc. Well, about strokes on the lyre?
+
+[8843] Alc. Not at all.
+
+[8861] Soc. Nor in fact are they accustomed to deliberate on throws in wrestling either at the Assembly.
+
+[8960] Alc. No, to be sure.
+
+[8982] Soc. Then what will be the subject of the advice? For I presume it will not be about building.
+
+[9078] Alc. No, indeed.
+
+[9096] Soc. For a builder will give better advice than you in that matter.
+
+[9165] Alc. Yes.
+
+[9176] Soc. Nor yet will it be about divination?
+
+[9219] Alc. No.
+
+[9229] Soc. For there again a diviner will serve better than you.
+
+[9289] Alc. Yes.
+
+[9300] Soc. Whether he be short or tall, handsome or ugly, nay, noble or ignoble.
+
+[9376] Alc. Of course.
+
+[9393] Soc. For on each subject the advice comes from one who knows, not one who has riches.
+
+[9480] Alc. Of course.
+
+[9497] Soc. And whether their mentor be poor or rich will make no difference to the Athenians when they deliberate for the health of the citizens; all that they require of their counsellor is that he be a physician.
+
+[9707] Alc. Naturally.
+
+[9724] Soc. Then what will they have under consideration if you are to be right in standing up, when you do so, as their counsellor?
+
+[9851] Alc. Their own affairs, Socrates.
+
+[9886] Soc. Do you mean with regard to shipbuilding, and the question as to what sort of ships they ought to get built?
+
+[10000] Alc. No, I do not, Socrates.
+
+[10030] Soc. Because, I imagine, you do not understand shipbuilding. Is that, and that alone, the reason?
+
+[10129] Alc. That is just the reason.
+
+[10160] Soc. Well, on what sort of affairs of their own do you mean that they will be deliberating?
+
+[10253] Alc. On war, Socrates, or on peace, or on any other of the state’s affairs.
+
+[10330] Soc. Do you mean that they will be deliberating with whom they ought to make peace, and on whom they ought to make war, and in what manner?
+
+[10471] Alc. Yes.
+
+[10482] Soc. And on whom it is better to do so, ought they not?
+
+[10539] Alc. Yes.
+
+[10550] Soc. And at such time as it is better?
+
+[10590] Alc. Certainly.
+
+[10607] Soc. And for so long as they had better?
+
+[10649] Alc. Yes.
+
+[10660] Soc. Now if the Athenians should deliberate with whom they should wrestle close, and with whom only at arm’s length, and in what manner, would you or the wrestling-master be the better adviser?
+
+[10855] Alc. The wrestling-master, I presume.
+
+[10894] Soc. And can you tell me what the wrestling-master would have in view when he advised as to the persons with whom they ought or ought not to wrestle close, and when and in what manner? What I mean is something like this: ought they not to wrestle close with those with whom it is better to do so?
+
+[11192] Alc. Yes.
+
+[11203] Soc. And so far as is better, too?
+
+[11239] Alc. So far.
+
+[11253] Soc. And at such time also as is better?
+
+[11295] Alc. Certainly.
+
+[11312] Soc. But again, when one sings, one has sometimes to accompany the song with harping and stepping?
+
+[11412] Alc. Yes, one has.
+
+[11432] Soc. And at such time as is better?
+
+[11469] Alc. Yes.
+
+[11480] Soc. And so far as is better?
+
+[11511] Alc. I agree.
+
+[11526] Soc. Well now, since you applied the term better to the two cases of harping for accompaniment of a song and close wrestling, what do you call the better in the case of harping, to correspond with what in the case of wrestling I call gymnastic? What do you call the other?
+
+[11800] Alc. I do not understand.
+
+[11827] Soc. Well, try to copy me: for my answer gave you, I think, what is correct in every instance; and that is correct, I presume, which proceeds by rule of the art, is it not?
+
+[12001] Alc. Yes.
+
+[12012] Soc. And was not the art here gymnastic?
+
+[12054] Alc. To be sure.
+
+[12072] Soc. And I said that the better in the case of wrestling was gymnastic.
+
+[12145] Alc. You did.
+
+[12160] Soc. And I was quite fair?
+
+[12188] Alc. I think so.
+
+[12206] Soc. Come then, in your turn—for it would befit you also, I fancy, to argue fairly —tell me, first, what is the art which includes harping and singing and treading the measure correctly? What is it called as a whole? You cannot yet tell me?
+
+[12448] Alc. No, indeed.
+
+[12466] Soc. Well, try another way: who are the goddesses that foster the art?
+
+[12538] Alc. The Muses, you mean, Socrates?
+
+[12575] Soc. I do. Now, just think, and say by what name the art is called after them.
+
+[12655] Alc. Music, I suppose you mean.
+
+[12688] Soc. Yes, I do. And what is that which proceeds correctly by its rule? As in the other case I was correct in mentioning to you gymnastic as that which goes by the art, so I ask you, accordingly, what you say in this case. What manner of proceeding is required?
+
+[12950] Alc. A musical one, I suppose.
+
+[12982] Soc. You are right. Come then, what is it that you term better, in respect of what is better in waging war and being at peace? Just as in our other instances you said that the better implied the more musical and again, in the parallel case, the more gymnastical, try now if you can tell me what is the better in this case.
+
+[13306] Alc. But I am quite unable.
+
+[13335] Soc. But surely that is disgraceful; for if you should speak to somebody as his adviser on food, and say that one sort was better than another, at this time and in this quantity, and he then asked you—What do you mean by the better, Alcibiades?—in a matter like that you could tell him you meant the more wholesome, although you do not set up to be a physician; yet in a case where you set up to have knowledge and are ready to stand up and advise as though you knew, are you not ashamed to be unable, as appears, to answer a question upon it? Does it not seem disgraceful?
+
+[13910] Alc. Very.
+
+[13922] Soc. Then consider and do your best to tell me the connection of better in being at peace or at war with those to whom we ought to be so disposed.
+
+[14070] Alc. Well, I am considering, but I fail to perceive it.
+
+[14127] Soc. But you must know what treatment it is that we allege against each other when we enter upon a war, and what name we give it when we do so?
+
+[14272] Alc. I do: we say we are victims of deceit or violence or spoliation.
+
+[14343] Soc. Enough: how do we suffer each of these things? Try and tell me what difference there is between one way and another.
+
+[14466] Alc. Do you mean by that, Socrates, whether it is in a just way or an unjust way?
+
+[14549] Soc. Precisely.
+
+[14566] Alc. Why, there you have all the difference in the world.
+
+[14625] Soc. Well then, on which sort are you going to advise the Athenians to make war—those who are acting unjustly, or those who are doing what is just?
+
+[14774] Alc. That is a hard question: for even if someone decides that he must go to war with those who are doing what is just, he would not admit that they were doing so.
+
+[14939] Soc. For that would not be lawful, I suppose?
+
+[14986] Alc. No, indeed; nor is it considered honorable either.
+
+[15043] Soc. So you too will appeal to these things in making your speeches?
+
+[15113] Alc. Necessarily.
+
+[15132] Soc. Then must not that better about which I was asking in reference to making or not making war, on those on whom we ought to or not, and when we ought to or not, be simply and solely the juster?
+
+[15330] Alc. Apparently it is.
+
+[15354] Soc. How now, friend Alcibiades? Have you overlooked your own ignorance of this matter, or have I overlooked your learning it and taking lessons of a master who taught you to distinguish the more just and the more unjust? And who is he? Inform me in my turn, in order that you may introduce me to him as another pupil.
+
+[15674] Alc. You are joking, Socrates.
+
+[15706] Soc. No, I swear by our common God of Friendship, whose name I would by no means take in vain. Come, if you can, tell me who the man is.
+
+[15844] Alc. But what if I cannot? Do you think I could not know about what is just and unjust in any other way?
+
+[15950] Soc. Yes, you might, supposing you discovered it.
+
+[16001] Alc. But do you not think I might discover it?
+
+[16049] Soc. Yes, quite so, if you inquired.
+
+[16087] Alc. And do you not think I might inquire?
+
+[16131] Soc. I do, if you thought you did not know.
+
+[16176] Alc. And was there not a time when I held that view?
+
+[16230] Soc. Well spoken. Then can you tell me at what time it was that you thought you did not know what is just and unjust? Pray, was it a year ago that you were inquiring, and thought you did not know? Or did you think you knew? Please answer truly, that our debates may not be futile.
+
+[16512] Alc. Well, I thought I knew.
+
+[16542] Soc. And two years, and three years, and four years back, were you not of the same mind?
+
+[16632] Alc. I was.
+
+[16645] Soc. But, you see, before that time you were a child, were you not?
+
+[16714] Alc. Yes.
+
+[16725] Soc. So I know well enough that then you thought you knew.
+
+[16785] Alc. How do you know it so well?
+
+[16819] Soc. Many a time I heard you, when as a child you were dicing or playing some other game at your teacher’s or elsewhere, instead of showing hesitation about what was just and unjust, speak in very loud and confident tones about one or other of your playmates, saying he was a rascal and a cheat who played unfairly. Is not this a true account?
+
+[17164] Alc. But what was I to do, Socrates, when somebody cheated me?
+
+[17228] Soc. Yet if you were ignorant then whether you were being unfairly treated or not, how can you ask— What are you to do?
+
+[17349] Alc. Well, but on my word, I was not ignorant: no, I clearly understood that I was being wronged.
+
+[17448] Soc. So you thought you knew, even as a child, it seems, what was just and unjust.
+
+[17532] Alc. I did; and I knew too.
+
+[17561] Soc. At what sort of time did you discover it? For surely it was not while you thought you knew.
+
+[17659] Alc. No, indeed.
+
+[17677] Soc. Then when did you think you were ignorant? Consider; I believe you will fail to find such a time.
+
+[17781] Alc. Upon my word, Socrates, I really cannot say.
+
+[17832] Soc. So you do not know it by discovery.
+
+[17874] Alc. Not at all, apparently.
+
+[17904] Soc. But you said just now that you did not know it by learning either; and if you neither discovered nor learnt it, how do you come to know it, and whence?
+
+[18062] Alc. Well, perhaps that answer I gave you was not correct, that I knew it by my own discovery.
+
+[18158] Soc. Then how was it done?
+
+[18186] Alc. I learnt it, I suppose, in the same way as everyone else.
+
+[18250] Soc. Back we come to the same argument. From whom? Please tell me.
+
+[18318] Alc. From the many.
+
+[18339] Soc. They are no very serious teachers with whom you take refuge, if you ascribe it to the many!
+
+[18437] Alc. Why, are they not competent to teach?
+
+[18481] Soc. Not how to play, or not to play, draughts; and yet that, I imagine, is a slight matter compared with justice. What? Do you not think so?
+
+[18624] Alc. Yes.
+
+[18635] Soc. Then if they are unable to teach the slighter, can they teach the more serious matter?
+
+[18728] Alc. I think so: at any rate, there are many other things that they are able to teach, more serious than draughts.
+
+[18844] Soc. What sort of things?
+
+[18871] Alc. For instance, it was from them that I learnt to speak Greek, and I could not say who was my teacher, but can only ascribe it to the same people who, you say, are not serious teachers.
+
+[19061] Soc. Ah, gallant sir, the many may be good teachers of that, and they can justly be praised for their teaching of such subjects.
+
+[19191] Alc. And why?
+
+[19206] Soc. Because in those subjects they have the equipment proper to good teachers.
+
+[19287] Alc. What do you mean by that?
+
+[19319] Soc. You know that those who are going to teach anything should first know it themselves, do you not?
+
+[19422] Alc. Of course.
+
+[19439] Soc. And that those who know should agree with each other and not differ?
+
+[19514] Alc. Yes.
+
+[19525] Soc. But if they differ upon anything, will you say that they know it?
+
+[19597] Alc. No, indeed.
+
+[19615] Soc. Then how can they be teachers of it?
+
+[19658] Alc. By no means.
+
+[19677] Soc. Well now, do you find that the many differ about the nature of stone or wood? If you ask one of them, do they not agree on the same answer, and make for the same things when they want to get a piece of stone or wood? It is just the same, too, with everything of the sort: for I am pretty nearly right in understanding you to mean just this by knowing how to speak Greek, am I not?
+
+[20064] Alc. Yes.
+
+[20075] Soc. And on these matters, as we stated, they not only agree with each other and with themselves in private, but states also use in public the same terms about them to each other, without any dispute?
+
+[20277] Alc. They do.
+
+[20292] Soc. Then naturally they will be good teachers of these matters.
+
+[20358] Alc. Yes.
+
+[20369] Soc. And if we should wish to provide anyone with knowledge of them, we should be right in sending him to be taught by the many that you speak of?
+
+[20517] Alc. Certainly.
+
+[20534] Soc. But what if we wished to know not only what men were like or what horses were like, but which of them were good runners or not? Would the many still suffice to teach us this?
+
+[20715] Alc. No, indeed.
+
+[20733] Soc. And you have ample proof that they do not know this, and are not proficient teachers of it, in their not agreeing about it at all with themselves?
+
+[20886] Alc. I have.
+
+[20900] Soc. And what if we wished to know not only what men were like, but what healthy or diseased men were like? Would the many suffice to teach us?
+
+[21045] Alc. No, indeed.
+
+[21063] Soc. And you would have proof of their being bad teachers of that, if you saw them differing about it?
+
+[21167] Alc. I should.
+
+[21183] Soc. Well then, do you now find that the many agree with themselves or each other about just and unjust men or things?
+
+[21303] Alc. Far from it, on my word, Socrates.
+
+[21344] Soc. In fact, they differ most especially on these points?
+
+[21404] Alc. Very much so.
+
+[21424] Soc. And I suppose you never yet saw or heard of people differing so sharply on questions of health or the opposite as to fight and kill one another in battle because of them.
+
+[21601] Alc. No, indeed.
+
+[21619] Soc. But on questions of justice or injustice I am sure you have; and if you have not seen them, at any rate you have heard of them from many people, especially Homer. For you have heard the Odyssey and the Iliad?
+
+[21834] Alc. I certainly have, I suppose, Socrates.
+
+[21879] Soc. And these poems are about a difference of just and unjust
+
+[21943] Alc. Yes.
+
+[21954] Soc. And from this difference arose the fights and deaths of the Achaeans, and of the Trojans as well, and of the suitors of Penelope in their strife with Odysseus.
+
+[22120] Alc. That is true.
+
+[22140] Soc. And I imagine that when the Athenians and Spartans and Boeotians lost their men at Tanagra, and later at Coronea, among whom your own father perished, the difference that caused their deaths and fights was solely on a question of just and unjust, was it not?
+
+[22405] Alc. That is true.
+
+[22425] Soc. Then are we to say that these people understand those questions, on which they differ so sharply that they are led by their mutual disputes to take these extreme measures against each other?
+
+[22622] Alc. Apparently not.
+
+[22644] Soc. And you refer me to teachers of that sort, whom you admit yourself to be without knowledge?
+
+[22742] Alc. It seems I do.
+
+[22763] Soc. Then how is it likely that you should know what is just and unjust, when you are so bewildered about these matters and are shown to have neither learnt them from anyone nor discovered them for yourself?.
+
+[22973] Alc. By what you say, it is not likely.
+
+[23014] Soc. There again, Alcibiades, do you see how unfairly you speak?
+
+[23080] Alc. In what?
+
+[23095] Soc. In stating that I say so.
+
+[23127] Alc. Why, do you not say that l do not know about the just and unjust?
+
+[23199] Soc. Not at all.
+
+[23217] Alc. Well, do I say it?
+
+[23242] Soc. Yes.
+
+[23253] Alc. How, pray?
+
+[23270] Soc. I will show you, in the following way. If I ask you which is the greater number, one or two, you will answer two?
+
+[23390] Alc. Yes, I shall.
+
+[23410] Soc. How much greater?
+
+[23434] Alc. By one.
+
+[23448] Soc. Then which of us says that two are one more than one?
+
+[23508] Alc. I.
+
+[23517] Soc. And I was asking, and you were answering?
+
+[23565] Alc. Yes.
+
+[23576] Soc. Then is it I, the questioner, or you the answerer, that are found to be speaking about these things?
+
+[23683] Alc. I.
+
+[23692] Soc. And what if I ask what are the letters in Socrates, and you tell me? Which will be the speaker?
+
+[23794] Alc. I.
+
+[23803] Soc. Come then, tell me, as a principle, when we have question and answer, which is the speaker—the questioner, or the answerer?
+
+[23933] Alc. The answerer, I should say, Socrates.
+
+[23977] Soc. And throughout the argument so far, I was the questioner?
+
+[24041] Alc. Yes.
+
+[24052] Soc. And you the answerer?
+
+[24080] Alc. Quite so.
+
+[24096] Soc. Well then, which of us has spoken what has been said?
+
+[24156] Alc. Apparently, Socrates, from what we have admitted, it was I.
+
+[24222] Soc. And it was said that Alcibiades, the fair son of Cleinias, did not know about just and unjust, but thought he did, and intended to go to the Assembly as adviser to the Athenians on what he knows nothing about; is not that so?
+
+[24454] Alc. Apparently.
+
+[24472] Soc. Then, to quote Euripides, the result is, Alcibiades, that you may be said to have heard it from yourself, not me, and it is not I who say it, but you, and you tax me with it in vain. And indeed what you say is quite true. For it is a mad scheme this, that you meditate, my excellent friend—of teaching things that you do not know, since you have taken no care to learn them.
+
+[24853] Alc. I think, Socrates, that the Athenians and the rest of the Greeks rarely deliberate as to which is the more just or unjust course: for they regard questions of this sort as obvious; and so they pass them over and consider which course will prove more expedient in the result. For the just and the expedient, I take it, are not the same, but many people have profited by great wrongs that they have committed, whilst others, I imagine, have had no advantage from doing what was right.
+
+[25342] Soc. What then? Granting that the just and the expedient are in fact as different as they can be, you surely do not still suppose you know what is expedient for mankind, and why it is so?
+
+[25531] Alc. Well, what is the obstacle, Socrates,—unless you are going to ask me again from whom I learnt it, or how I discovered it for myself?
+
+[25670] Soc. What a way of going on! If your answer is incorrect, and a previous argument can be used to prove it so, you claim to be told something new, and a different line of proof, as though the previous one were like a poor worn-out coat which you refuse to wear any longer; you must be provided instead with something clean and unsoiled in the way of evidence. But I shall ignore your sallies in debate, and shall none the less ask you once more, where you learnt your knowledge of what is expedient, and who is your teacher, asking in one question all the things I asked before; and now you will clearly find yourself in the same plight, and will be unable to prove that you know the expedient either through discovery or through learning. But as you are dainty, and would dislike a repeated taste of the same argument, I pass over this question of whether you know or do not know what is expedient for the Athenians: but why have you not made it clear whether the just and the expedient are the same or different? If you like, question me as I did you, or if you prefer, argue out the matter in your own way.
+
+[26780] Alc. But I am not sure I should be able, Socrates, to set it forth to you.
+
+[26856] Soc. Well, my good sir, imagine I am the people in Assembly; even there, you know, you will have to persuade each man singly, will you not?
+
+[26997] Alc. Yes.
+
+[27008] Soc. And the same man may well persuade one person singly, and many together, about things that he knows, just as the schoolmaster, I suppose, persuades either one or many about letters?
+
+[27196] Alc. Yes.
+
+[27207] Soc. And again, will not the same man persuade either one or many about number?
+
+[27288] Alc. Yes.
+
+[27299] Soc. And this will be the man who knows—the arithmetician?
+
+[27359] Alc. Quite so.
+
+[27375] Soc. And you too can persuade a single man about things of which you can persuade many?
+
+[27464] Alc. Presumably.
+
+[27482] Soc. And these are clearly things that you know.
+
+[27532] Alc. Yes.
+
+[27543] Soc. And the only difference between the orator speaking before the people and one who speaks in a conversation like ours is that the former persuades men in a number together of the same things, and the latter persuades them one at a time?
+
+[27785] Alc. It looks like it.
+
+[27809] Soc. Come now, since we see that the same man may persuade either many or one, try your unpracticed hand on me, and endeavor to show that the just is sometimes not expedient.
+
+[27985] Alc. You are insolent, Socrates!
+
+[28019] Soc. This time, at any rate, I am going to have the insolence to persuade you of the opposite of that which you decline to prove to me.
+
+[28156] Alc. Speak, then.
+
+[28175] Soc. Just answer my questions.
+
+[28207] Alc. No, you yourself must be the speaker.
+
+[28251] Soc. What? Do you not wish above all things to be persuaded?
+
+[28313] Alc. By all means, to be sure.
+
+[28345] Soc. And you would best be persuaded if you should say the case is so?
+
+[28417] Alc. I agree.
+
+[28432] Soc. Then answer; and if you do not hear your own self say that the just is expedient, put no trust in the words of anyone again.
+
+[28563] Alc. I will not: but I may as well answer; for I do not think I shall come to any harm.
+
+[28652] Soc. You are quite a prophet! Now tell me, do you consider some just things to be expedient, and others not?
+
+[28762] Alc. Yes.
+
+[28773] Soc. And again, some noble, and some not?
+
+[28816] Alc. What do you mean by that question?
+
+[28857] Soc. I would ask whether anyone ever seemed to you to be doing what was base and yet just.
+
+[28949] Alc. Never.
+
+[28962] Soc. Well, are all just things noble?
+
+[29001] Alc. Yes.
+
+[29012] Soc. And what of noble things, in their turn? Are they all good, or some only, while others are not?
+
+[29114] Alc. In my opinion, Socrates, some noble things are evil.
+
+[29173] Soc. And some base things are good?
+
+[29210] Alc. Yes.
+
+[29221] Soc. Do you mean as in one of the many cases where men have gone to rescue a comrade or kinsman in battle, and have been either wounded or killed, while those who did not go to the rescue, as duty bade, have got off safe and sound?
+
+[29454] Alc. Precisely.
+
+[29471] Soc. And such a rescue you call noble, in respect of the endeavor to save those whom it was one’s duty to save; and this is courage, is it not?
+
+[29616] Alc. Yes.
+
+[29627] Soc. But you call it evil, in respect of the deaths and wounds?
+
+[29692] Alc. Yes.
+
+[29703] Soc. And is not the courage one thing, and the death another?
+
+[29766] Alc. Certainly.
+
+[29783] Soc. Then it is not in the same respect that rescuing one’s friends is noble and evil?
+
+[29871] Alc. Apparently not.
+
+[29893] Soc. Then see if, inasmuch as it is noble, it is also good; for in the present case you were admitting that the rescue was noble in respect of its courage: now consider this very thing, courage, and say whether it is good or bad. Consider it in this way: which would you choose to have, good things or evil?
+
+[30202] Alc. Good.
+
+[30214] Soc. And most of all, the greatest goods, and of such things you would least allow yourself to be deprived?
+
+[30323] Alc. To be sure.
+
+[30341] Soc. Then what do you say of courage? At what price would you allow yourself to be deprived of it?
+
+[30441] Alc. I would give up life itself if I had to be a coward.
+
+[30500] Soc. Then you regard cowardice as the uttermost evil.
+
+[30555] Alc. I do.
+
+[30567] Soc. On a par with death, it seems.
+
+[30604] Alc. Yes.
+
+[30615] Soc. And life and courage are the extreme opposites of death and cowardice?
+
+[30692] Alc. Yes.
+
+[30703] Soc. And you would most desire to have the former, and least the latter?
+
+[30777] Alc. Yes.
+
+[30788] Soc. Is that because you think the former best, and the latter worst?
+
+[30859] Alc. To be sure.
+
+[30877] Soc. So you reckon courage among the best things, and death among the worst.
+
+[30955] Alc. I do.
+
+[30967] Soc. Then the rescue of one’s friends in battle, inasmuch as it is noble in respect of the working of good by courage, you have termed noble?
+
+[31110] Alc. Apparently.
+
+[31128] Soc. But evil, in respect of the working of evil by death?
+
+[31188] Alc. Yes.
+
+[31199] Soc. So we may fairly describe each of these workings as follows: as you call either of them evil because of the evil it produces, so you must call it good because of the good it produces.
+
+[31389] Alc. I believe that is so.
+
+[31417] Soc. And again, are they noble inasmuch as they are good, and base inasmuch as they are evil?
+
+[31512] Alc. Yes.
+
+[31523] Soc. Then in saying that the rescue of one’s friends in battle is noble and yet evil, you mean just the same as if you called the rescue good, but evil.
+
+[31677] Alc. I believe what you say is true, Socrates.
+
+[31725] Soc. So nothing noble, in so far as it is noble, is evil, and nothing base, in so far as it is base, is good.
+
+[31836] Alc. Apparently.
+
+[31854] Soc. Now then, consider it again in this way: whoever does nobly, does well too, does he not?
+
+[31949] Alc. Yes.
+
+[31960] Soc. And are not those who do well happy?
+
+[32003] Alc. Of course.
+
+[32020] Soc. And they are happy because of the acquisition of good things?
+
+[32088] Alc. Certainly.
+
+[32105] Soc. And they acquire these by doing well and nobly?
+
+[32159] Alc. Yes.
+
+[32170] Soc. So doing well is good?
+
+[32199] Alc. Of course.
+
+[32216] Soc. And welfare is noble?
+
+[32244] Alc. Yes.
+
+[32255] Soc. Hence we have seen again that noble and good are the same thing.
+
+[32326] Alc. Apparently.
+
+[32344] Soc. Then whatever we find to be noble we shall find also to be good, by this argument at least.
+
+[32442] Alc. We must.
+
+[32457] Soc. Well then, are good things expedient or not?
+
+[32508] Alc. Expedient.
+
+[32525] Soc. And do you remember what our admissions were about just things?
+
+[32595] Alc. I think we said that those who do just things must do noble things.
+
+[32669] Soc. And that those who do noble things must do good things?
+
+[32731] Alc. Yes.
+
+[32742] Soc. And that good things are expedient?
+
+[32784] Alc. Yes.
+
+[32795] Soc. Hence just things, Alcibiades, are expedient.
+
+[32847] Alc. So it seems.
+
+[32866] Soc. Well now, are not you the speaker of all this, and I the questioner?
+
+[32941] Alc. I seem to be, apparently.
+
+[32973] Soc. So if anyone stands up to advise either the Athenians or the Peparethians, imagining that he understands what is just and unjust, and says that just things are sometimes evil, could you do other than laugh him to scorn, since you actually say yourself that just and expedient are the same?
+
+[33269] Alc. But by Heaven, Socrates, I do not even know what I am saying, I feel altogether in such a strange state! For from moment to moment I change my view under your questioning.
+
+[33447] Soc. And are you unaware, my friend, what this feeling is?
+
+[33507] Alc. I am, quite.
+
+[33526] Soc. Well, do you suppose that if someone should ask you whether you have two eyes or three, two hands or four, or anything else of that sort, you would answer differently from moment to moment, or always the same thing?
+
+[33748] Alc. I begin to have misgivings about myself, but still I think I should make the same answer.
+
+[33844] Soc. And the reason would be, because you know?
+
+[33893] Alc. I think so.
+
+[33911] Soc. Then if you involuntarily give contradictory answers, clearly it must be about things of which you are ignorant.
+
+[34030] Alc. Very likely.
+
+[34049] Soc. And you say you are bewildered in answering about just and unjust, noble and base, evil and good, expedient and inexpedient? Now, is it not obvious that your bewilderment is caused by your ignorance of these things?
+
+[34271] Alc. I agree.
+
+[34286] Soc. Then is it the case that when a man does not know a thing he must needs be bewildered in spirit regarding that thing?
+
+[34410] Alc. Yes, of course.
+
+[34432] Soc. Well now, do you know in what way you can ascend to heaven?
+
+[34498] Alc. On my word, not I.
+
+[34523] Soc. Is that too a kind of question about which your judgement is bewildered?
+
+[34602] Alc. No, indeed.
+
+[34620] Soc. Do you know the reason, or shall I state it?
+
+[34671] Alc. State it.
+
+[34687] Soc. It is, my friend, that while not knowing the matter you do not suppose that you know it.
+
+[34782] Alc. Here again, how do you mean?
+
+[34817] Soc. Do your share, in seeing for yourself. Are you bewildered about the kind of thing that you do not know and are aware of not knowing? For instance, you know, I suppose, that you do not know about the preparation of a tasty dish?
+
+[35051] Alc. Quite so.
+
+[35067] Soc. Then do you think for yourself how you are to prepare it, and get bewildered, or do you entrust it to the person who knows?
+
+[35197] Alc. I do the latter.
+
+[35220] Soc. And what if you should be on a ship at sea? Would you think whether the tiller should be moved inwards or outwards, and in your ignorance bewilder yourself, or would you entrust it to the helmsman, and be quiet?
+
+[35438] Alc. I would leave it to him.
+
+[35469] Soc. So you are not bewildered about what you do not know, so long as you know that you do not know?
+
+[35571] Alc. It seems I am not,
+
+[35596] Soc. Then do you note that mistakes in action also are due to this ignorance of thinking one knows when one does not?
+
+[35715] Alc. Here again, how do you mean?
+
+[35750] Soc. We set about acting, I suppose, when we think we know what we are doing?
+
+[35829] Alc. Yes.
+
+[35840] Soc. But when people think they do not know, I suppose they hand it over to others?
+
+[35925] Alc. To be sure.
+
+[35943] Soc. And so that kind of ignorant person makes no mistakes in life, because they entrust such matters to others?
+
+[36057] Alc. Yes.
+
+[36068] Soc. Who then are those who make mistakes? For, I take it, they cannot be those who know.
+
+[36159] Alc. No, indeed.
+
+[36177] Soc. But since it is neither those who know, nor those of the ignorant who know that they do not know, the only people left, I think, are those who do not know, but think that they do?
+
+[36363] Alc. Yes, only those.
+
+[36386] Soc. Then this ignorance is a cause of evils, and is the discreditable sort of stupidity?
+
+[36477] Alc. Yes.
+
+[36488] Soc. And when it is about the greatest matters, it is most injurious and base?
+
+[36568] Alc. By far.
+
+[36582] Soc. Well then, can you mention any greater things than the just, the noble, the good, and the expedient?
+
+[36689] Alc. No, indeed.
+
+[36707] Soc. And it is about these, you say, that you are bewildered?
+
+[36770] Alc. Yes.
+
+[36781] Soc. But if you are bewildered, is it not clear from what has gone before that you are not only ignorant of the greatest things, but while not knowing them you think that you do?
+
+[36961] Alc. I am afraid so.
+
+[36983] Soc. Alack then, Alcibiades, for the plight you are in! I shrink indeed from giving it a name, but still, as we are alone, let me speak out. You are wedded to stupidity, my fine friend, of the vilest kind; you are impeached of this by your own words, out of your own mouth; and this, it seems, is why you dash into politics before you have been educated. And you are not alone in this plight, but you share it with most of those who manage our city’s affairs, except just a few, and perhaps your guardian, Pericles.
+
+[37500] Alc. Yes, you know, Socrates, they say he did not get his wisdom independently, but consorted with many wise men, such as Pythocleides and Anaxagoras; and now, old as he is, he still confers with Damon for that very purpose.
+
+[37726] Soc. Well, but did you ever find a man who was wise in anything and yet unable to make another man wise in the same things as himself? For instance, the man who taught you letters was wise himself, and also made you wise, and anyone else he wished to, did he not?
+
+[37991] Alc. Yes.
+
+[38002] Soc. And you too, who learnt from him, will be able to make another man wise?
+
+[38081] Alc. Yes.
+
+[38092] Soc. And the same holds of the harper and the trainer?
+
+[38148] Alc. Certainly.
+
+[38165] Soc. For, I presume, it is a fine proof of one’s knowing anything that one knows, when one is able to point to another man whom one has made to know it.
+
+[38319] Alc. I agree.
+
+[38334] Soc. Well then, can you tell me whom Pericles made wise? One of his sons, to begin with?
+
+[38424] Alc. But what if the two sons of Pericles were simpletons, Socrates?
+
+[38494] Soc. Well, Cleinias, your brother.
+
+[38530] Alc. But why should you mention Cleinias, a madman?
+
+[38583] Soc. Well, if Cleinias is mad and the two sons of Pericles were simpletons, what reason are we to assign, in your case, for his allowing you to be in your present condition?
+
+[38758] Alc. I believe I am myself to blame for not attending to him.
+
+[38821] Soc. But tell me of any other Athenian or foreigner, slave or freeman, who is accounted to have become wiser through converse with Pericles; as I can tell you that Pythodorus son of Isolochus, and Callias, son of Calliades, became through that of Zeno; each of them has paid Zeno a hundred minae, and has become both wise and distinguished.
+
+[39163] Alc. Well, upon my word, I cannot.
+
+[39199] Soc. Very good: then what is your intention regarding yourself? Will you remain as you are, or take some trouble?
+
+[39314] Alc. We must put our heads together, Socrates. And indeed, as soon as you speak, I take the point and agree. For the men who manage the city’s affairs, apart from a few, do strike me as uneducated.
+
+[39513] Soc. Then what does that mean?
+
+[39545] Alc. That if they were educated, I suppose anyone who undertook to contend against them would have to get some knowledge and practice first, as he would for a match with athletes: but now, seeing that these men have gone in for politics as amateurs, what need is there for me to practise and have the trouble of learning? For I am sure that my natural powers alone will give me an easy victory over them.
+
+[39951] Soc. Ho, ho, my good sir, what a thing to say! How unworthy of your looks and your other advantages!
+
+[40053] Alc. What is your meaning now, Socrates? What is the connection?
+
+[40119] Soc. I am grieved for you, and for my love.
+
+[40164] Alc. Why, pray?
+
+[40181] Soc. That you should expect your contest to be with the men we have here.
+
+[40256] Alc. Well, but with whom is it to be?
+
+[40295] Soc. Is that a worthy question to be asked by a man who considers himself high-spirited?
+
+[40385] Alc. How do you mean? Is not my contest with these men?
+
+[40442] Soc. Well, suppose you were intending to steer a warship into action, would you be content to be the best hand among the crew at steering or, while regarding this skill as a necessary qualification, would you keep your eye on your actual opponents in the fight, and not, as now, on your fellow-fighters? These, I conceive, you ought so far to surpass that they would not feel fit to be your opponents, but only to be your despised fellow-fighters against the enemy, if you mean really to make your mark with some noble action that will be worthy both of yourself and of the city.
+
+[41023] Alc. Why, I do mean to.
+
+[41048] Soc. So you think it quite fitting for you to be satisfied if you are better than the soldiers, but neglect to keep your eye on the enemy’s leaders with a view to showing yourself better than they are, or to plan and practise against them!
+
+[41289] Alc. Of whom are you speaking now, Socrates?
+
+[41335] Soc. Do you not know that our city makes war occasionally on the Spartans and on the Great King?
+
+[41433] Alc. That is true.
+
+[41453] Soc. And if you are minded to be the head of our state, you would be right in thinking that your contest is with the kings of Sparta and of Persia?
+
+[41602] Alc. That sounds like the truth.
+
+[41636] Soc. No, my good friend; you ought rather to keep your eye on Meidias the quail-filliper and others of his sort—who undertake to manage the city’s affairs, while they still have the slavish hair (as the women would say) showing in their minds through their lack of culture, and have not yet got rid of it; who, moreover, have come with their outlandish speech to flatter the state, not to rule it—to these, I tell you, should your eyes be turned; and then you can disregard yourself, and need neither learn what is to be learnt for the great contest in which you are to be engaged, nor practise what requires practice, and so ensure that you are perfectly prepared before entering upon a political career.
+
+[42343] Alc. Why, Socrates, I believe you are right; though I think neither the Spartan generals nor the Persian king are at all different from other people.
+
+[42494] Soc. But, my excellent friend, consider what this notion of yours means.
+
+[42568] Alc. In regard to what?
+
+[42593] Soc. First of all, do you think you would take more pains over yourself if you feared them and thought them terrible, or if you did not?
+
+[42731] Alc. Clearly, if I thought them terrible.
+
+[42774] Soc. And do you think you will come to any harm by taking pains over yourself?
+
+[42854] Alc. By no means; rather that I shall get much benefit.
+
+[42911] Soc. And on this single count that notion of yours is so much to the bad.
+
+[42986] Alc. True.
+
+[42998] Soc. Then, in the second place, observe the probability that it is false.
+
+[43073] Alc. How so?
+
+[43087] Soc. Is it probable that noble races should produce better natures, or not?
+
+[43164] Alc. Clearly, noble races would.
+
+[43198] Soc. And will not the well-born, provided they are well brought up, probably be perfected in virtue?
+
+[43300] Alc. That must be so.
+
+[43323] Soc. Then let us consider, by comparing our lot with theirs, whether the Spartan and Persian kings appear to be of inferior birth. Do we not know that the former are descendants of Hercules and the latter of Achaemenes, and that the line of Hercules and the line of Achaemenes go back to Perseus, son of Zeus?
+
+[43634] Alc. Yes, and mine, Socrates, to Eurysaces, and that of Eurysaces to Zeus!
+
+[43710] Soc. Yes, and mine, noble Alcibiades, to Daedalus, and Daedalus to Hephaestus, son of Zeus! But take the lines of those people, going back from them: you have a succession of kings reaching to Zeus—on the one hand, kings of Argos and Sparta; on the other, of Persia, which they have always ruled, and frequently Asia also, as at present; whereas we are private persons ourselves, and so were our fathers. And then, suppose that you had to make what show you could of your ancestors, and of Salamis as the native land of Eurysaces, or of Aegina as the home of the yet earlier Aeacus, to impress Artaxerxes, son of Xerxes, how you must expect to be laughed at! Why, I am afraid we are quite outdone by those persons in pride of birth and upbringing altogether. Or have you not observed how great are the advantages of the Spartan kings, and how their wives are kept under statutory ward of the ephors, in order that every possible precaution may be taken against the king being born of any but the Heracleidae? And the Persian king so far surpasses us that no one has a suspicion that he could have been born of anybody but the king before him; and hence the king’s wife has nothing to guard her except fear. When the eldest son, the heir to the throne, is born, first of all the king’s subjects who are in his palace have a feast, and then for ever after on that date the whole of Asia celebrates the king’s birthday with sacrifice and feasting: but when we are born, as the comic poet says, even the neighbors barely notice it, Alcibiades. After that comes the nurture of the child, not at the hands of a woman-nurse of little worth, but of the most highly approved eunuchs in the king’s service, who are charged with the whole tendance of the new-born child, and especially with the business of making him as handsome as possible by moulding his limbs into a correct shape; and while doing this they are in high honor. When the boys are seven years old they are given horses and have riding lessons, and they begin to follow the chase. And when the boy reaches fourteen years he is taken over by the royal tutors, as they call them there: these are four men chosen as the most highly esteemed among the Persians of mature age, namely, the wisest one, the justest one, the most temperate one, and the bravest one.
+
+[46025] Soc. The first of these teaches him the magian lore of Zoroaster, son of Horomazes; and that is the worship of the gods: he teaches him also what pertains to a king. The justest teaches him to be truthful all his life long; the most temperate, not to be mastered by even a single pleasure, in order that he may be accustomed to be a free man and a veritable king, who is the master first of all that is in him, not the slave; while the bravest trains him to be fearless and undaunted, telling him that to be daunted is to be enslaved. But you, Alcibiades, had a tutor set over you by Pericles from amongst his servants,who was old as to be the most useless of them, Zopyrus the Thracian. I might describe to you at length the nurture and education of your competitors, were it not too much of a task; and besides, what I have said suffices to show the rest that follows thereon. But about your birth, Alcibiades, or nurture or education, or about those of any other Athenian, one may say that nobody cares, unless it be some lover whom you chance to have. And again, if you chose to glance at the wealth, the luxury, the robes with sweeping trains, the anointings with myrrh, the attendant troops of menials, and all the other refinements of the Persians, you would be ashamed at your own case, on perceiving its inferiority to theirs. Should you choose, again, to look at the temperance and orderliness, the facility and placidity, the magnanimity and discipline, the courage and endurance, and the toil-loving, success-loving, honor-loving spirit of the Spartans, you would count yourself but a child in all these things. If again you regard wealth, and think yourself something in that way, I must not keep silence on this point either, if you are to realize where you stand. For in this respect you have only to look at the wealth of the Spartans, and you will perceive that our riches here are far inferior to theirs. Think of all the land that they have both in their own and in the Messenian country: not one of our estates could compete with theirs in extent and excellence, nor again in ownership of slaves, and especially of those of the helot class, nor yet of horses, nor of all the flocks and herds that graze in Messene. However, I pass over all these things: but there is more gold and silver privately held in Lacedaemon than in the whole of Greece; for during many generations treasure has been passing in to them from every part of Greece, and often from the barbarians also, but not passing out to anyone; and just as in the fable of Aesop, where the fox remarked to the lion on the direction of the footmarks, the traces of the money going into Lacedaemon are clear enough, but nowhere are any to be seen of it coming out;
+
+[48769] Soc. so that one can be pretty sure that those people are the richest of the Greeks in gold and silver, and that among themselves the richest is the king; for the largest and most numerous receipts of the kind are those of the kings, and besides there is the levy of the royal tribute in no slight amount, which the Spartans pay to their kings. Now, the Spartan fortunes, though great compared with the wealth of other Greeks, are nought beside that of the Persians and their king. For I myself was once told by a trustworthy person, who had been up to their court, that he traversed a very large tract of excellent land, nearly a day’s journey, which the inhabitants called the girdle of the king’s wife, and another which was similarly called her veil; and many other fine and fertile regions reserved for the adornment of the consort; and each of these regions was named after some part of her apparel. So I imagine, if someone should say to the king’s mother Amestris, who was wife of Xerxes, The son of Deinomache intends to challenge your son; the mother’s dresses are worth perhaps fifty minae at the outside, while the son has under three hundred acres at Erchiae, she would wonder to what on earth this Alcibiades could be trusting, that he proposed to contend against Artaxerxes; and I expect she would remark— The only possible things that the man can be trusting to for his enterprise are industry and wisdom; for these are the only things of any account among the Greeks. Whereas if she were informed that this Alcibiades who is actually making such an attempt is, in the first place, as yet barely twenty years old, and secondly, altogether uneducated; and further, that when his lover tells him that he must first learn, and take pains over himself, and practise, before he enters on a contest with the king, he refuses, and says he will do very well as he is; I expect she would ask in surprise, On what, then, can the youngster rely? And if we told her, On beauty, stature, birth, wealth, and mental gifts, she would conclude we were mad, Alcibiades, when she compared the advantages of her own people in all these respects.
+
+[50912] Soc. And I imagine that even Lampido, daughter of Leotychides and wife of Archidamus and mother of Agis, who have all been kings, would wonder in the same way, when she compared her people’s resources, at your intention of having a contest with her son despite your bad upbringing. And yet, does it not strike you as disgraceful that our enemies’ wives should have a better idea of the qualities that we need for an attempt against them than we have ourselves? Ah, my remarkable friend, listen to me and the Delphic motto, Know thyself; for these people are our competitors, not those whom you think; and there is nothing that will give us ascendancy over them save only pains and skill. If you are found wanting in these, you will be found wanting also in achievement of renown among Greeks and barbarians both; and of this I observe you to be more enamored than anyone else ever was of anything.
+
+[51811] Alc. Well then, what are the pains that I must take, Socrates? Can you enlighten me? For I must say your words are remarkably like the truth.
+
+[51954] Soc. Yes, I can: but we must put our heads together, you know, as to the way in which we can improve ourselves to the utmost. For observe that when I speak of the need of being educated I am not referring only to you, apart from myself; since my case is identical with yours except in one point.
+
+[52251] Alc. What is that?
+
+[52271] Soc. My guardian is better and wiser than your one, Pericles.
+
+[52334] Alc. Who is he, Socrates?
+
+[52361] Soc. God, Alcibiades, who until this day would not let me converse with you; and trusting in him I say that through no other man but me will you attain to eminence.
+
+[52527] Alc. You are jesting, Socrates.
+
+[52560] Soc. Perhaps; I am right, however, in saying that we need to take pains—all men rather badly, but we two very badly indeed.
+
+[52685] Alc. As to me, you are not wrong.
+
+[52720] Soc. Nor, I fear, as to myself either.
+
+[52760] Alc. Then what can we do?
+
+[52787] Soc. There must be no crying off or skulking, my good friend.
+
+[52850] Alc. No, for that would indeed be unseemly, Socrates.
+
+[52905] Soc. It would; so let us consider in common. Now tell me: we say, do we not, that we wish to be as good as possible?
+
+[53023] Alc. Yes.
+
+[53034] Soc. In what excellence?
+
+[53060] Alc. Clearly that which is the aim of good men.
+
+[53109] Soc. Good in what?
+
+[53129] Alc. Clearly, good in the management of affairs.
+
+[53179] Soc. What sort of affairs? Horsemanship?
+
+[53221] Alc. No, no.
+
+[53235] Soc. Because we should apply to horsemen?
+
+[53278] Alc. Yes.
+
+[53289] Soc. Well, seamanship, do you mean?
+
+[53326] Alc. No.
+
+[53336] Soc. Because we should apply to seamen?
+
+[53377] Alc. Yes.
+
+[53388] Soc. Well, what sort of thing? The business of what men?
+
+[53446] Alc. Of Athenian gentlemen.
+
+[53475] Soc. Do you mean by gentlemen the intelligent or the unintelligent?
+
+[53544] Alc. The intelligent.
+
+[53567] Soc. And everyone is good in that wherein he is intelligent?
+
+[53629] Alc. Yes.
+
+[53640] Soc. And bad wherein he is unintelligent?
+
+[53683] Alc. Of course.
+
+[53700] Soc. Then is the shoemaker intelligent in the making of foot-gear?
+
+[53768] Alc. Certainly.
+
+[53785] Soc. So he is good in that article?
+
+[53822] Alc. Good.
+
+[53834] Soc. Well now, is not the shoemaker unintelligent in the making of clothes?
+
+[53911] Alc. Yes.
+
+[53922] Soc. So he is bad in that?
+
+[53950] Alc. Yes.
+
+[53961] Soc. Then, on this showing, the same man is both bad and good.
+
+[54025] Alc. Apparently.
+
+[54043] Soc. Well, can you say that good men are also bad?
+
+[54095] Alc. No, indeed.
+
+[54113] Soc. But whoever do you mean by the good?
+
+[54156] Alc. I mean those who are able to rule in the city.
+
+[54209] Soc. Not, I presume, over horses?
+
+[54244] Alc. No, no.
+
+[54258] Soc. But over men?
+
+[54278] Alc. Yes.
+
+[54289] Soc. When they are sick?
+
+[54315] Alc. No.
+
+[54325] Soc. Or at sea?
+
+[54342] Alc. I say, no.
+
+[54359] Soc. Or harvesting?
+
+[54380] Alc. No.
+
+[54390] Soc. Doing nothing, or doing something?
+
+[54431] Alc. Doing something, I say.
+
+[54461] Soc. Doing what? Try and let me know.
+
+[54500] Alc. Well, men who do business with each other and make use of one another, as is our way of life in our cities.
+
+[54614] Soc. Then you speak of ruling over men who make use of men?
+
+[54675] Alc. Yes.
+
+[54686] Soc. Over boatswains who make use of rowers?
+
+[54732] Alc. No, no.
+
+[54746] Soc. Because that is the pilot’s distinction?
+
+[54793] Alc. Yes.
+
+[54804] Soc. Well, do you mean ruling over men who are flute-players, and who lead the singing and make use of dancers?
+
+[54917] Alc. No, no.
+
+[54931] Soc. Because, again, that is the chorus-teacher’s function?
+
+[54992] Alc. To be sure.
+
+[55010] Soc. But whatever do you mean by being able to rule over men who make use of men?
+
+[55093] Alc. I mean ruling over men in the city who share in it as fellow-citizens, and do business with each other.
+
+[55203] Soc. Well, what art is this? Suppose I should ask you over again, as I did just now, what art makes men know how to rule over fellow-sailors?
+
+[55346] Alc. The pilot’s.
+
+[55365] Soc. And what knowledge—to repeat what was said a moment ago—makes them rule over their fellow-singers?
+
+[55470] Alc. That which you just mentioned, the chorus-teacher’s.
+
+[55529] Soc. Well now, what do you call the knowledge of one’s fellow-citizens?
+
+[55602] Alc. Good counsel, I should say, Socrates.
+
+[55646] Soc. Well, and is the pilot’s knowledge evil counsel?
+
+[55701] Alc. No, no.
+
+[55715] Soc. Rather good counsel?
+
+[55742] Alc. So I should think, for the preservation of his passengers.
+
+[55807] Soc. Quite right. And now, for what is the good counsel of which you speak?
+
+[55884] Alc. For the better management and preservation of the city.
+
+[55946] Soc. And what is it that becomes present or absent when we get this better management and preservation? If, for example, you should ask me, What is it that becomes present or absent when the body is better managed and preserved? —I should reply, Health becomes present, and disease absent. Do not you think so too?
+
+[56262] Alc. Yes.
+
+[56273] Soc. And if, again, you asked me, What becomes present in a better condition of the eyes? —I should answer in just the same way, Sight becomes present, and blindness absent. So, in the case of the ears, deafness is caused to be absent, and hearing to be present, when they are improved and getting better treatment.
+
+[56590] Alc. Correct.
+
+[56605] Soc. Well then, what is it that becomes present or absent when a state is improved and has better treatment and management?
+
+[56730] Alc. To my mind, Socrates, friendship with one another will be there, while hatred and faction will be absent.
+
+[56842] Soc. Now, by friendship do you mean agreement or disagreement?
+
+[56906] Alc. Agreement.
+
+[56923] Soc. And what art is it that causes states to agree about numbers?
+
+[56991] Alc. Arithmetic.
+
+[57009] Soc. And what of individuals? Is it not the same art?
+
+[57064] Alc. Yes.
+
+[57075] Soc. And it makes each single person agree with himself?
+
+[57133] Alc. Yes.
+
+[57144] Soc. And what art makes each of us agree with himself as to which is the longer, a span or a cubit? Is it not mensuration?
+
+[57268] Alc. Of course.
+
+[57285] Soc. And it makes both individuals and states agree with each other?
+
+[57355] Alc. Yes.
+
+[57366] Soc. And what about the balance? Is it not the same here too?
+
+[57429] Alc. It is.
+
+[57442] Soc. Then what is that agreement of which you speak, and about what? And what art secures it? And is it the same in an individual as in a state, when one agrees with oneself and with another?
+
+[57635] Alc. Most likely.
+
+[57654] Soc. Well, what is it? Do not flag in your answers, but do your best to tell me.
+
+[57736] Alc. I suppose I mean the friendship and agreement that you find when a father and mother love their son, and between brother and brother, and husband and wife.
+
+[57898] Soc. Then do you suppose, Alcibiades, that a husband can possibly agree with his wife about woolwork, when he does not understand it, and she does?
+
+[58047] Alc. Oh, no.
+
+[58061] Soc. Nor has he any need, since that is a woman’s pursuit.
+
+[58121] Alc. Yes.
+
+[58132] Soc. Or again, could a woman agree with a man about soldiering, when she has not learnt it?
+
+[58225] Alc. Oh, no.
+
+[58239] Soc. Because, I expect you will say again, that is a man’s affair.
+
+[58307] Alc. I would.
+
+[58322] Soc. Then, by your account, there are some pursuits belonging to women, and some to men?
+
+[58412] Alc. Of course.
+
+[58429] Soc. So in these, at any rate, there is no agreement between men and women.
+
+[58506] Alc. No.
+
+[58516] Soc. And hence no friendship either, if, as we said, friendship is agreement.
+
+[58595] Alc. Apparently not.
+
+[58617] Soc. So women are not loved by men, in so far as they do their own work.
+
+[58691] Alc. It seems not.
+
+[58711] Soc. Nor are men by women, in so far as they do theirs.
+
+[58768] Alc. No.
+
+[58778] Soc. And states, therefore, are not well ordered in so far as each person does his own business?
+
+[58876] Alc. I think they are, Socrates.
+
+[58910] Soc. How can you say that? Without the presence of friendship, which we say must be there if states are well ordered, as otherwise they are not?
+
+[59056] Alc. But it seems to me that friendship arises among them just on that account—that each of the two parties does its own business.
+
+[59188] Soc. It was not so a moment since: but now, what do you mean this time? Does friendship arise where there is no agreement? And is it possible that agreement should arise where some know about the business, but others do not?
+
+[59414] Alc. Impossible.
+
+[59432] Soc. And are they doing what is just or unjust, when each man does his own business?
+
+[59518] Alc. What is just, of course.
+
+[59549] Soc. And when the citizens do what is just in the city, does not friendship arise among them?
+
+[59644] Alc. Again I think that must be so, Socrates.
+
+[59691] Soc. Then whatever do you mean by that friendship or agreement about which we must be wise and well-advised in order that we may be good men? For I am unable to learn either what it is, or in whom; since it appears that the same persons sometimes have it, and sometimes not, by your account.
+
+[59984] Alc. Well, by Heaven, Socrates, I do not even know what I mean myself, and I fear that for some time past I have lived unawares in a disgraceful condition.
+
+[60141] Soc. But you must take heart. For had you perceived your plight at fifty, it would be hard for you to take pains with yourself; whereas here you are at the time of life when one ought to perceive it.
+
+[60342] Alc. Then what should one do on perceiving it, Socrates?
+
+[60400] Soc. Answer the questions asked, Alcibiades: only do that, and with Heaven’s favor—if we are to put any trust in my divination—you and I shall both be in better case.
+
+[60568] Alc. That shall be, so far as my answering can avail.
+
+[60623] Soc. Come then, what is taking pains over oneself — for we may perchance be taking, unawares, no pains over ourselves, though we think we are—and when does a man actually do it? Does he take pains over himself at the same time as over his own things?
+
+[60875] Alc. I at least believe so.
+
+[60904] Soc. Well now, when does a man take pains over his feet? Is it when he takes pains over what belongs to his feet?
+
+[61019] Alc. I do not understand.
+
+[61046] Soc. Is there anything you can name as belonging to the hand? For instance, does a ring belong to any other part of a man but the finger?
+
+[61185] Alc. No, indeed.
+
+[61203] Soc. And so the shoe also belongs to the foot, in the same way?
+
+[61268] Alc. Yes.
+
+[61279] Soc. And likewise clothes and coverlets belong to the whole body?
+
+[61346] Alc. Yes.
+
+[61357] Soc. Now when we take pains over our shoes, we take pains over our feet?
+
+[61431] Alc. I do not quite understand, Socrates.
+
+[61474] Soc. Well, but, Alcibiades, you speak of taking proper pains over this or that matter, do you not?
+
+[61574] Alc. I do.
+
+[61586] Soc. And do you call it proper pains when someone makes a thing better?
+
+[61659] Alc. Yes.
+
+[61670] Soc. Then what art makes shoes better?
+
+[61710] Alc. Shoe-making.
+
+[61729] Soc. So by shoe-making we take pains over our shoes?
+
+[61783] Alc. Yes.
+
+[61794] Soc. And over our foot too by shoe-making? Or by that art whereby we make feet better?
+
+[61882] Alc. By that art.
+
+[61901] Soc. And is it not the same one for making our feet as for making the whole body better?
+
+[61991] Alc. I think so.
+
+[62009] Soc. And is not that gymnastic?
+
+[62042] Alc. Certainly.
+
+[62059] Soc. So by gymnastic we take pains over our foot, but by shoe-making over what belongs to our foot?
+
+[62160] Alc. Quite so.
+
+[62176] Soc. And by gymnastic over our hands, but by ring-engraving over what belongs to the hand?
+
+[62268] Alc. Yes.
+
+[62279] Soc. And by gymnastic over the body, but by weaving and the rest over what belongs to the body?
+
+[62376] Alc. Absolutely so.
+
+[62397] Soc. Then for taking pains over a thing itself and over what belongs to it we use different arts.
+
+[62496] Alc. Apparently.
+
+[62514] Soc. So when you take pains over your belongings you are not taking pains over yourself.
+
+[62604] Alc. Not at all.
+
+[62622] Soc. For the arts, it seems, that one used for taking pains over oneself and over one’s belongings would not be the same.
+
+[62745] Alc. Apparently not.
+
+[62767] Soc. Come then, whatever kind of art can we use for taking pains over ourselves?
+
+[62849] Alc. I cannot say.
+
+[62869] Soc. Well, so much at least has been admitted, that it is not one which would help us to make a single one of our possessions better, but one which would help to make ourselves so?
+
+[63051] Alc. That is true.
+
+[63071] Soc. Now, should we ever have known what art makes a shoe better, if we had not known a shoe?
+
+[63166] Alc. Impossible.
+
+[63184] Soc. Nor could we know what art makes rings better, if we had no cognizance of a ring.
+
+[63272] Alc. True.
+
+[63284] Soc. Well then, could we ever know what art makes the man himself better, if we were ignorant of what we are ourselves?
+
+[63405] Alc. Impossible.
+
+[63423] Soc. Well, and is it an easy thing to know oneself, and was it a mere scamp who inscribed these words on the temple at Delphi; or is it a hard thing, and not a task for anybody?
+
+[63602] Alc. I have often thought, Socrates, that it was for anybody; but often, too, that it was very hard.
+
+[63704] Soc. But, Alcibiades, whether it is easy or not, here is the fact for us all the same: if we have that knowledge, we are like to know what pains to take over ourselves; but if we have it not, we never can.
+
+[63911] Alc. That is so.
+
+[63929] Soc. Come then, in what way can the same-in-itself be discovered? For thus we may discover what we are ourselves; whereas if we remain in ignorance of it we must surely fail.
+
+[64105] Alc. Rightly spoken.
+
+[64127] Soc. Steady, then, in Heaven’s name! To whom are you talking now? To me, are you not?
+
+[64214] Alc. Yes.
+
+[64225] Soc. And I in turn to you?
+
+[64253] Alc. Yes.
+
+[64264] Soc. Then the talker is Socrates?
+
+[64299] Alc. To be sure.
+
+[64317] Soc. And the hearer, Alcibiades?
+
+[64351] Alc. Yes.
+
+[64362] Soc. And Socrates uses speech in talking?
+
+[64405] Alc. Of course.
+
+[64422] Soc. And you call talking and using speech the same thing, I suppose.
+
+[64493] Alc. To be sure.
+
+[64511] Soc. But the user and the thing he uses are different, are they not?
+
+[64581] Alc. How do you mean?
+
+[64604] Soc. For instance, I suppose a shoemaker uses a round tool, and a square one, and others, when he cuts.
+
+[64709] Alc. Yes.
+
+[64720] Soc. And the cutter and user is quite different from what he uses in cutting?
+
+[64799] Alc. Of course.
+
+[64816] Soc. And in the same way what the harper uses in harping will be different from the harper himself?
+
+[64917] Alc. Yes.
+
+[64928] Soc. Well then, that is what I was asking just now—whether the user and what he uses are always, in your opinion, two different things.
+
+[65065] Alc. They are.
+
+[65081] Soc. Then what are we to say of the shoemaker? Does he cut with his tools only, or with his hands as well?
+
+[65189] Alc. With his hands as well.
+
+[65219] Soc. So he uses these also?
+
+[65248] Alc. Yes.
+
+[65259] Soc. Does he use his eyes, too, in his shoe-making?
+
+[65312] Alc. Yes.
+
+[65323] Soc. And we admit that the user and what he uses are different things?
+
+[65395] Alc. Yes.
+
+[65406] Soc. Then the shoemaker and the harper are different from the hands and eyes that they use for their work?
+
+[65514] Alc. Apparently.
+
+[65532] Soc. And man uses his whole body too?
+
+[65571] Alc. To be sure.
+
+[65589] Soc. And we said that the user and what he uses are different?
+
+[65653] Alc. Yes.
+
+[65664] Soc. So man is different from his own body?
+
+[65709] Alc. It seems so.
+
+[65728] Soc. Then whatever is man?
+
+[65756] Alc. I cannot say.
+
+[65776] Soc. Oh, but you can—that he is the user of the body.
+
+[65831] Alc. Yes.
+
+[65842] Soc. And the user of it must be the soul?
+
+[65885] Alc. It must.
+
+[65900] Soc. And ruler?
+
+[65917] Alc. Yes.
+
+[65928] Soc. Now, here is a remark from which no one, I think, can dissent.
+
+[65997] Alc. What is it?
+
+[66015] Soc. That man must be one of three things.
+
+[66059] Alc. What things?
+
+[66078] Soc. Soul, body, or both together as one whole.
+
+[66127] Alc. Very well.
+
+[66144] Soc. But yet we have admitted that what actually rules the body is man?
+
+[66217] Alc. We have.
+
+[66232] Soc. And does the body rule itself?
+
+[66269] Alc. By no means.
+
+[66288] Soc. Because we have said that it is ruled.
+
+[66333] Alc. Yes.
+
+[66344] Soc. Then that cannot be what we are seeking.
+
+[66391] Alc. It seems not.
+
+[66411] Soc. Well then, does the combination of the two rule the body, so that we are to regard this as man?
+
+[66513] Alc. Perhaps it is.
+
+[66534] Soc. The unlikeliest thing in the world: for if one of the two does not share in the rule, it is quite inconceivable that the combination of the two can be ruling.
+
+[66699] Alc. You are right.
+
+[66720] Soc. But since neither the body nor the combination of the two is man, we are reduced, I suppose, to this: either man is nothing at all, or if something, he turns out to be nothing else than soul.
+
+[66918] Alc. Precisely so.
+
+[66938] Soc. Well, do you require some yet clearer proof that the soul is man?
+
+[67010] Alc. No, I assure you: I think it is amply proved.
+
+[67062] Soc. And if it is tolerably, though not exactly, we are content; exact knowledge will be ours later, when we have discovered the thing that we passed over just now because it would involve much consideration.
+
+[67272] Alc. What is that?
+
+[67292] Soc. The point suggested in that remark a moment ago, that we should first consider the same-in-itself; but so far, instead of the same, we have been considering what each single thing is in itself. And perhaps we shall be satisfied with that: for surely we cannot say that anything has more absolute possession of ourselves than the soul.
+
+[67633] Alc. No, indeed.
+
+[67651] Soc. And it is proper to take the view that you and I are conversing with each other, while we make use of words, by intercourse of soul with soul?
+
+[67800] Alc. Quite so.
+
+[67816] Soc. Well, that is just what we suggested a little while ago—that Socrates, in using words to talk with Alcibiades, is holding speech, not with your face, it would seem, but with Alcibiades—that is, with his soul.
+
+[68031] Alc. I believe so.
+
+[68051] Soc. Then he who enjoins a knowledge of oneself bids us become acquainted with the soul.
+
+[68141] Alc. So it seems.
+
+[68160] Soc. And anyone who gets to know something belonging to the body knows the things that are his, but not himself.
+
+[68274] Alc. That is so.
+
+[68292] Soc. Then no physician, in so far as he is a physician, knows himself, nor does any trainer, in so far as he is a trainer.
+
+[68416] Alc. It seems not.
+
+[68436] Soc. And farmers, and craftsmen generally, are far from knowing themselves. For these people, it would seem, do not even know their own things, but only things still more remote than their own things, in respect of the arts which they follow; since they know but the things of the body, with which it is tended.
+
+[68749] Alc. That is true.
+
+[68769] Soc. So if knowing oneself is temperance, none of these people is temperate in respect of his art.
+
+[68869] Alc. None, I agree.
+
+[68890] Soc. And that is why these arts are held to be sordid, and no acquirements for a good man.
+
+[68982] Alc. Quite so.
+
+[68998] Soc. Then once again, whoever tends his body tends his own things, but not himself?
+
+[69083] Alc. It looks rather like it.
+
+[69114] Soc. But whoever tends his money tends neither himself nor his own things, but only things yet more remote than his own things?
+
+[69243] Alc. I agree.
+
+[69258] Soc. So that the money-maker has ceased to do his own business.
+
+[69323] Alc. Correct.
+
+[69338] Soc. And if anyone is found to be a lover of Alcibiades’ body, he has fallen in love, not with Alcibiades, but with something belonging to Alcibiades?
+
+[69490] Alc. That is true.
+
+[69510] Soc. Your lover is rather he who loves your soul?
+
+[69561] Alc. He must be, apparently, by our argument.
+
+[69608] Soc. And he who loves your body quits you, and is gone, as soon as its bloom is over?
+
+[69695] Alc. Apparently.
+
+[69713] Soc. Whereas he who loves your soul will not quit you so long as it makes for what is better?
+
+[69808] Alc. So it seems.
+
+[69827] Soc. And I am he who does not quit you, but remains with you when your body’s prime is over, and the rest have departed.
+
+[69949] Alc. Yes, and I am glad of it, Socrates, and hope you will not go.
+
+[70017] Soc. Then you must endeavor to be as handsome as you can.
+
+[70076] Alc. Well, I shall endeavor.
+
+[70106] Soc. You see how you stand: Alcibiades, the son of Cleinias, it seems, neither had nor has any lover except one only, and that a cherished one, Socrates, the son of Sophroniscus and Phaenarete.
+
+[70301] Alc. True.
+
+[70313] Soc. And you said that I only just anticipated you in coming to you, for otherwise you would have come to me first for the purpose of inquiring why I am the only one who does not leave you?
+
+[70504] Alc. Yes, that was so.
+
+[70528] Soc. Then the reason was that I was the only lover of you, whereas the rest were lovers of what is yours; and that is losing its charm, while you are beginning to bloom. So now, if you are not blighted and deformed by the Athenian people, I shall never forsake you. For my chiefest fear is of your being blighted by becoming a lover of the people, since many a good Athenian has come to that ere now. For fair of face is the people of great-hearted Erechtheus; but you should get a view of it stripped: so take the precaution that I recommend.
+
+[71073] Alc. What is it?
+
+[71091] Soc. Exercise yourself first, my wonderful friend, in learning what you ought to know before entering on politics; you must wait till you have learnt, in order that you may be armed with an antidote and so come to no harm.
+
+[71315] Alc. Your advice seems to me good, Socrates; but try to explain in what way we can take pains over ourselves.
+
+[71426] Soc. Well, we have made one step in advance; for there is a pretty fair agreement now as to what we are, whereas we were afraid we might fail of this and take pains, without knowing it, over something other than ourselves.
+
+[71650] Alc. That is so.
+
+[71668] Soc. And the next step, we see, is to take care of the soul, and look to that.
+
+[71748] Alc. Clearly.
+
+[71763] Soc. While handing over to others the care of our bodies and our coffers.
+
+[71838] Alc. Quite so.
+
+[71854] Soc. Then how shall we obtain the most certain knowledge of it? For if we know that, it seems we shall know ourselves also. In Heaven’s name, do we fail to comprehend the wise words of the Delphic inscription, which we mentioned just now?
+
+[72094] Alc. With what intent do you say that, Socrates?
+
+[72144] Soc. I will tell you what I suspect to be the real advice which the inscription gives us. I rather think there are not many illustrations of it to be found, but only in the case of sight.
+
+[72333] Alc. What do you mean by that?
+
+[72365] Soc. Consider in your turn: suppose that, instead of speaking to a man, it said to the eye of one of us, as a piece of advice See thyself, how should we apprehend the meaning of the admonition? Would it not be, that the eye should look at that by looking at which it would see itself?
+
+[72651] Alc. Clearly.
+
+[72666] Soc. Then let us think what object there is anywhere, by looking at which we can see both it and ourselves.
+
+[72775] Alc. Why, clearly, Socrates, mirrors and things of that sort.
+
+[72838] Soc. Quite right. And there is also something of that sort in the eye that we see with?
+
+[72927] Alc. To be sure.
+
+[72945] Soc. And have you observed that the face of the person who looks into another’s eye is shown in the optic confronting him, as in a mirror, and we call this the pupil, for in a sort it is an image of the person looking?
+
+[73165] Alc. That is true.
+
+[73185] Soc. Then an eye viewing another eye, and looking at the most perfect part of it, the thing wherewith it sees, will thus see itself.
+
+[73319] Alc. Apparently.
+
+[73337] Soc. But if it looks at any other thing in man or at anything in nature but what resembles this, it will not see itself.
+
+[73459] Alc. That is true.
+
+[73479] Soc. Then if an eye is to see itself, it must look at an eye, and at that region of the eye in which the virtue of an eye is found to occur; and this, I presume, is sight.
+
+[73652] Alc. That is so.
+
+[73670] Soc. And if the soul too, my dear Alcibiades, is to know herself, she must surely look at a soul, and especially at that region of it in which occurs the virtue of a soul—wisdom, and at any other part of a soul which resembles this?
+
+[73904] Alc. I agree, Socrates.
+
+[73929] Soc. And can we find any part of the soul that we can call more divine than this, which is the seat of knowledge and thought?
+
+[74056] Alc. We cannot.
+
+[74073] Soc. Then this part of her resembles God, and whoever looks at this, and comes to know all that is divine, will gain thereby the best knowledge of himself.
+
+[74230] Alc. Apparently.
+
+[74248] Soc. And self-knowledge we admitted to be temperance.
+
+[74303] Alc. To be sure.
+
+[74321] Soc. So if we have no knowledge of ourselves and no temperance, shall we be able to know our own belongings, good or evil?
+
+[74445] Alc. How can that be, Socrates?
+
+[74478] Soc. For I expect it seems impossible to you that without knowing Alcibiades you should know that the belongings of Alcibiades are in fact his.
+
+[74623] Alc. Impossible indeed, upon my word.
+
+[74662] Soc. Nor could we know that our belongings are ours if we did not even know ourselves?
+
+[74750] Alc. How could we?
+
+[74770] Soc. And so, if we did not so much as know our belongings, we could not know the belongings of our belongings either?
+
+[74889] Alc. Apparently not.
+
+[74911] Soc. Then we were not quite correct in admitting just now that there are people who, without knowing themselves, know their belongings, while others know their belongings’ belongings. For it seems to be the function of one man and one art to discern all three— himself, his belongings, and the belongings of his belongings.
+
+[75236] Alc. It looks like it.
+
+[75260] Soc. And anyone who is ignorant of his belongings will be similarly ignorant, I suppose, of the belongings of others.
+
+[75379] Alc. Quite so.
+
+[75395] Soc. And if ignorant of others’ affairs, he will be ignorant also of the affairs of states.
+
+[75488] Alc. He must be.
+
+[75506] Soc. Then such a man can never be a statesman.
+
+[75554] Alc. No, indeed.
+
+[75572] Soc. No, nor an economist either.
+
+[75607] Alc. No, indeed.
+
+[75625] Soc. Nor will he know what he is doing.
+
+[75666] Alc. No, I agree.
+
+[75685] Soc. And will not he who does not know make mistakes?
+
+[75740] Alc. To be sure.
+
+[75758] Soc. And when he makes mistakes, will he not do ill both in private and in public?
+
+[75842] Alc. Of course.
+
+[75859] Soc. And doing ill he will be wretched?
+
+[75900] Alc. Yes, very.
+
+[75917] Soc. And what of those for whom he is doing so?
+
+[75966] Alc. They will be wretched also.
+
+[76000] Soc. Then it is impossible to be happy if one is not temperate and good.
+
+[76074] Alc. Impossible.
+
+[76092] Soc. So it is the bad men who are wretched.
+
+[76137] Alc. Yes, very.
+
+[76154] Soc. And hence it is not he who has made himself rich that is relieved of wretchedness, but he who has made himself temperate.
+
+[76282] Alc. Apparently.
+
+[76300] Soc. So it is not walls or warships or arsenals that cities need, Alcibiades, if they are to be happy, nor numbers, nor size, without virtue.
+
+[76443] Alc. No, indeed.
+
+[76461] Soc. And if you are to manage the city’s affairs properly and honorably, you must impart virtue to the citizens.
+
+[76575] Alc. Of course.
+
+[76592] Soc. But could one possibly impart a thing that one had not?
+
+[76654] Alc. How, indeed?
+
+[76673] Soc. Then you or anyone else who is to be governor and curator, not merely of himself and his belongings in private, but of the state and its affairs, must first acquire virtue himself.
+
+[76860] Alc. That is true.
+
+[76880] Soc. Hence it is not licence or authority for doing what one pleases that you have to secure to yourself or the state, but justice and temperance.
+
+[77028] Alc. Apparently.
+
+[77046] Soc. For you and the state, if you act justly and temperately, will act so as to please God.
+
+[77140] Alc. Naturally.
+
+[77157] Soc. And, as we were saying in what went before, you will act with your eyes turned on what is divine and bright.
+
+[77272] Alc. Apparently.
+
+[77290] Soc. Well, and looking thereon you will behold and know both yourselves and your good.
+
+[77378] Alc. Yes.
+
+[77389] Soc. And so you will act aright and well?
+
+[77432] Alc. Yes.
+
+[77443] Soc. Well now, if you act in this way, I am ready to warrant that you must be happy.
+
+[77529] Alc. And I can rely on your warranty.
+
+[77568] Soc. But if you act unjustly, with your eyes on the godless and dark, the probability is that your acts will resemble these through your ignorance of yourselves.
+
+[77731] Alc. That is probable.
+
+[77755] Soc. For if a man, my dear Alcibiades, is at liberty to do what he pleases, but is lacking in mind, what is the probable result to him personally, or to the state as well? For instance, if he is sick and at liberty to do what he pleases—without a medical mind, but with a despot’s power which prevents anyone from even reproving him—what will be the result? Will not his health, in all likelihood, be shattered?
+
+[78168] Alc. That is true.
+
+[78188] Soc. Again, in a ship, if a man were at liberty to do what he chose, but were devoid of mind and excellence in navigation, do you perceive what must happen to him and his fellow-sailors?
+
+[78376] Alc. I do: they must all perish.
+
+[78410] Soc. And in just the same way, if a state, or any office or authority, is lacking in excellence or virtue, it will be overtaken by failure?
+
+[78551] Alc. It must.
+
+[78566] Soc. Then it is not despotic power, my admirable Alcibiades, that you ought to secure either to yourself or to the state, if you would be happy, but virtue.
+
+[78724] Alc. That is true.
+
+[78744] Soc. And before getting virtue, to be governed by a superior is better than to govern, for a man as well as a child.
+
+[78862] Alc. Apparently.
+
+[78880] Soc. And the better is also nobler?
+
+[78917] Alc. Yes.
+
+[78928] Soc. And the nobler more becoming?
+
+[78964] Alc. Of course.
+
+[78981] Soc. Then it becomes a bad man to be a slave, since it is better.
+
+[79048] Alc. Yes.
+
+[79059] Soc. So vice is a thing that becomes a slave.
+
+[79106] Alc. Apparently.
+
+[79124] Soc. And virtue becomes a free man.
+
+[79161] Alc. Yes.
+
+[79172] Soc. And we should shun, my good friend, all slavishness?
+
+[79231] Alc. Most certainly, Socrates.
+
+[79263] Soc. And do you now perceive how you stand? Are you on the side of the free, or not?
+
+[79349] Alc. I think I perceive only too clearly.
+
+[79392] Soc. Then do you know how you may escape from the condition in which you now find yourself? Let us not give it a name, where a handsome person is concerned!
+
+[79550] Alc. I do.
+
+[79562] Soc. How?
+
+[79573] Alc. If it be your wish, Socrates.
+
+[79609] Soc. That is not well said, Alcibiades.
+
+[79650] Alc. Well, what should I say?
+
+[79681] Soc. If it be God’s will.
+
+[79708] Alc. Then I say it. And yet I say this besides, that we are like to make a change in our parts, Socrates, so that I shall have yours and you mine. For from this day onward it must be the case that I am your attendant, and you have me always in attendance on you.
+
+[79972] Soc. Ah, generous friend! So my love will be just like a stork; for after hatching a winged love in you it is to be cherished in return by its nestling.
+
+[80126] Alc. Well, that is the position, and I shall begin here and now to take pains over justice.
+
+[80219] Soc. I should like to think you will continue to do so; yet I am apprehensive, not from any distrust of your nature, but in view of the might of the state, lest it overcome both me and you.

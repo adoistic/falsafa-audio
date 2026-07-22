@@ -1,0 +1,57 @@
+WORK: Poetics  (slug: aristotle-poetics-6c4430)
+
+CHAPTER: 06
+
+
+
+[0] With the representation of life in hexameter verse and with comedy we will deal later. We must now treat of tragedy after first gathering up the definition of its nature which results from what we have said already.
+
+[217] Tragedy is, then, a representation of an action that is heroic and complete and of a certain magnitude—by means of language enriched with all kinds of ornament, each used separately in the different parts of the play: it represents men in action and does not use narrative, and through pity and fear it effects relief to these and similar emotions.
+
+[567] By language enriched I mean that which has rhythm and tune, i.e., song, and by the kinds separately I mean that some effects are produced by verse alone and some again by song.
+
+[745] Since the representation is performed by living persons, it follows at once that one essential part of a tragedy is the spectacular effect, and, besides that, song-making and diction. For these are the means of the representation.
+
+[977] By diction I mean here the metrical arrangement of the words; and song making I use in the full, obvious sense of the word.
+
+[1102] And since tragedy represents action and is acted by living persons, who must of necessity have certain qualities of character and thought—for it is these which determine the quality of an action; indeed thought and character are the natural causes of any action and it is in virtue of these that all men succeed or fail— it follows then that it is the plot which represents the action. By plot I mean here the arrangement of the incidents: character is that which determines the quality of the agents, and thought appears wherever in the dialogue they put forward an argument or deliver an opinion.
+
+[1702] Necessarily then every tragedy has six constituent parts, and on these its quality depends. These are plot, character, diction, thought, spectacle, and song.
+
+[1861] Two of these are the means of representation: one is the manner: three are the objects represented.
+
+[1962] This list is exhaustive, and practically all the poets employ these elements, for every drama includes alike spectacle and character and plot and diction and song and thought.
+
+[2139] The most important of these is the arrangement of the incidents, for tragedy is not a representation of men but of a piece of action, of life, of happiness and unhappiness, which come under the head of action, and the end aimed at is the representation not of qualities of character but of some action; and while character makes men what they are, it’s their actions and experiences that make them happy or the opposite.
+
+[2561] They do not therefore act to represent character, but character-study is included for the sake of the action. It follows that the incidents and the plot are the end at which tragedy aims, and in everything the end aimed at is of prime importance.
+
+[2809] Moreover, you could not have a tragedy without action, but you can have one with out character-study.
+
+[2912] Indeed the tragedies of most modern poets are without this, and, speaking generally, there are many such writers, whose case is like that of Zeuxis compared with Polygnotus. The latter was good at depicting character, but there is nothing of this in Zeuxis’s painting.
+
+[3182] A further argument is that if a man writes a series of speeches full of character and excellent in point of diction and thought, he will not achieve the proper function of tragedy nearly so well as a tragedy which, while inferior in these qualities, has a plot or arrangement of incidents.
+
+[3473] And furthermore, two of the most important elements in the emotional effect of tragedy, reversals and discoveries, are parts of the plot.
+
+[3612] And here is further proof: those who try to write tragedy are much sooner successful in language and character-study than in arranging the incidents. It is the same with almost all the earliest poets.
+
+[3814] The plot then is the first principle and as it were the soul of tragedy: character comes second.
+
+[3912] It is much the same also in painting; if a man smeared a canvas with the loveliest colors at random, it would not give as much pleasure as an outline in black and white.
+
+[4083] And it is mainly because a play is a representation of action that it also for that reason represents people.
+
+[4194] Third comes thought. This means the ability to say what is possible and appropriate. It comes in the dialogue and is the function of the statesman’s or the rhetorician’s art.
+
+[4370] The old writers made their characters talk like statesmen, the moderns like rhetoricians.
+
+[4461] Character is that which reveals choice, shows what sort of thing a man chooses or avoids in circumstances where the choice is not obvious, so those speeches convey no character in which there is nothing whatever which the speaker chooses or avoids.
+
+[4711] Thought you find in speeches which contain an argument that something is or is not, or a general expression of opinion.
+
+[4832] The fourth of the literary elements is the language. By this I mean, as we said above, the expression of meaning in words, and this is essentially the same in verse and in prose.
+
+[5012] Of the other elements which enrich tragedy the most important is song-making.
+
+[5091] Spectacle, while highly effective, is yet quite foreign to the art and has nothing to do with poetry. Indeed the effect of tragedy does not depend on its performance by actors, and, moreover, for achieving the spectacular effects the art of the costumier is more authoritative than that of the poet.

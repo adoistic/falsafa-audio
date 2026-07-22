@@ -1,0 +1,373 @@
+WORK: Sophist  (slug: plato-sophist-b8c6ad)
+
+CHAPTER: 01-sophist
+
+
+
+[111846] Str. Then let us now investigate names, just a we spoke a while ago about ideas and letters; for in that direction the object of our present search is coming in sight.
+
+[112015] Theaet. What do we need to understand about names?
+
+[112067] Str. Whether they all unite with one another, or none of them, or some will and some will not.
+
+[112163] Theaet. Evidently the last; some will and some will not.
+
+[112221] Str. This, perhaps, is what you mean, that those which are spoken in order and mean something do unite, but those that mean nothing in their sequence do not unite.
+
+[112386] Theaet. How so, and what do you mean by that?
+
+[112433] Str. What I supposed you had in mind when you assented; for we have two kinds of vocal indications of being.
+
+[112543] Theaet. How so?
+
+[112560] Str. One called nouns, the other verbs.
+
+[112601] Theaet. Define each of them.
+
+[112631] Str. The indication which relates to action we may call a verb.
+
+[112696] Theaet. Yes.
+
+[112710] Str. And the vocal sign applied to those who perform the actions in question we call a noun.
+
+[112804] Theaet. Exactly.
+
+[112822] Str. Hence discourse is never composed of nouns alone spoken in succession, nor of verbs spoken without nouns.
+
+[112934] Theaet. I do not understand that.
+
+[112969] Str. I see; you evidently had something else in mind when you assented just now; for what I wished to say was just this, that verbs and nouns do not make discourse if spoken successively in this way.
+
+[113170] Theaet. In what way?
+
+[113192] Str. For instance, walks, runs, sleeps and the other verbs which denote actions, even if you utter all there are of them in succession, do not make discourse for all that.
+
+[113365] Theaet. No, of course not.
+
+[113393] Str. And again, when lion, stag, horse, and all other names of those who perform these actions are uttered, such a succession of words does not yet make discourse; for in neither case do the words uttered indicate action or inaction or existence of anything that exists or does not exist, until the verbs are mingled with the nouns; then the words fit, and their first combination is a sentence, about the first and shortest form of discourse.
+
+[113838] Theaet. What do you mean by that?
+
+[113873] Str. When one says a man learns, you agree that this is the least and first of sentences, do you not?
+
+[113976] Theaet. Yes.
+
+[113990] Str. For when he says that, he makes a statement about that which is or is becoming or has become or is to be; he does not merely give names, but he reaches a conclusion by combining verbs with nouns. That is why we said that he discourses and does not merely give names, and therefore we gave to this combination the name of discourse.
+
+[114328] Theaet. That was right.
+
+[114353] Str. So, then, just as of things some fit each other and some do not, so too some vocal signs do not fit, but some of them do fit and form discourse.
+
+[114504] Theaet. Certainly.
+
+[114524] Str. Now there is another little point.
+
+[114565] Theaet. What is it?
+
+[114586] Str. A sentence, if it is to be a sentence, must have a subject; without a subject it is impossible.
+
+[114688] Theaet. True.
+
+[114703] Str. And it must also be of some quality, must it not?
+
+[114759] Theaet. Of course.
+
+[114779] Str. Now let us pay attention to each other.
+
+[114825] Theaet. Yes, at any rate we ought to do so.
+
+[114870] Str. Now, then, I will speak a sentence to you in which a action and the result of action are combined by means of a noun and a verb, and whatever the subject of the sentence is do you tell me.
+
+[115065] Theaet. I will, to the best of my ability.
+
+[115109] Str. Theaetetus sits. It isn’t a long sentence, is it?
+
+[115165] Theaet. No, it is fairly short.
+
+[115198] Str. Now it is for you to say what it is about and what its subject is.
+
+[115271] Theaet. Clearly it is about me, and I am its subject.
+
+[115326] Str. And how about this sentence?
+
+[115361] Theaet. What one?
+
+[115380] Str. Theaetetus, with whom I am now talking, flies.
+
+[115433] Theaet. Every one would agree that this also is about me and I am its subject.
+
+[115513] Str. But we agree that every sentence must have some quality.
+
+[115576] Theaet. Yes.
+
+[115590] Str. Now what quality shall be ascribed to each of these sentences?
+
+[115659] Theaet. One is false, I suppose, the other true.
+
+[115709] Str. The true one states facts as they are about you.
+
+[115764] Theaet. Certainly.
+
+[115784] Str. And the false one states things that are other than the facts.
+
+[115853] Theaet. Yes.
+
+[115867] Str. In other words, it speaks of things that are not as if they were.
+
+[115939] Theaet. Yes, that is pretty much what it does.
+
+[115987] Str. And states with reference to you that things are which are other than things which actually are; for we said, you know, that in respect to everything there are many things that are and many that are not.
+
+[116197] Theaet. To be sure.
+
+[116218] Str. Now the second of my sentences about you is in the first place by sheer necessity one of the shortest which conform to our definition of sentence.
+
+[116371] Theaet. At any rate we just now agreed on that point.
+
+[116426] Str. And secondly it has a subject.
+
+[116463] Theaet. Yes.
+
+[116477] Str. And if you are not the subject, there is none.
+
+[116530] Theaet. Certainly not.
+
+[116554] Str. And if there is no subject, it would not be a sentence at all; for we showed that a sentence without a subject is impossible.
+
+[116686] Theaet. Quite right.
+
+[116708] Str. Now when things are said about you, but things other are said as the same and things that are not as things that are, it appears that when such a combination is formed of verbs and nouns we have really and truly false discourse.
+
+[116943] Theaet. Yes, very truly.
+
+[116969] Str. Is it, then, not already plain that the three classes, thought, opinion, and fancy, all arise in our minds as both false and true?
+
+[117106] Theaet. How is it plain?
+
+[117132] Str. You will understand more easily if you first grap their natures and the several differences between them.
+
+[117244] Theaet. Give me an opportunity.
+
+[117277] Str. Well, then, thought and speech are the same; only the former, which is a silent inner conversation of the soul with itself, has been given the special name of thought. Is not that true?
+
+[117469] Theaet. Certainly.
+
+[117489] Str. But the stream that flows from the soul in vocal utterance through the mouth has the name of speech?
+
+[117596] Theaet. True.
+
+[117611] Str. And in speech we know there is just—
+
+[117654] Theaet. What?
+
+[117669] Str. Affirmation and negation
+
+[117700] Theaet. Yes, we know that.
+
+[117728] Str. Now when this arises in the soul silently by way of thought, can you give it any other name than opinion?
+
+[117840] Theaet. Certainly not.
+
+[117864] Str. And when such a condition is brought about in anyone, not independently, but through sensation, can it properly be called anything but seeming, or fancy?
+
+[118024] Theaet. No.
+
+[118037] Str. Then since speech, as we found, is true and false, and we saw that thought is conversation of the soul with itself, and opinion is the final result of thought, and what we mean when we say it seems is a mixture of sensation and opinion, it is inevitable that, since these are all akin to speech, some of them must sometimes be false.
+
+[118377] Theaet. Certainly.
+
+[118397] Str. Do you see, then, that false opinion and false discourse were found sooner than we expected when we feared a few moments ago that in looking for them we were undertaking an endless task?
+
+[118590] Theaet. Yes, I see.
+
+[118611] Str. Then let us not be discouraged about the rest of our search, either; for now that these points are settled, we have only to revert to our previous divisions into classes.
+
+[118788] Theaet. What divisions?
+
+[118813] Str. We made two classes of image-making, the likeness-making and the fantastic.
+
+[118895] Theaet. Yes.
+
+[118909] Str. And we said that we did not know to which of the two the sophist should be assigned.
+
+[119000] Theaet. You are right.
+
+[119024] Str. And in the midst of our perplexity about that, we were overwhelmed by a still greater dizziness when the doctrine appeared which challenges everybody and asserts that neither likeness nor image nor appearance exists at all, because falsehood never exists anywhere in any way.
+
+[119306] Theaet. True.
+
+[119321] Str. But now, since the existence of false speech and false opinion has been proved, it is possible for imitations of realities to exist and for an art of deception to arise from this condition of mind.
+
+[119525] Theaet. Yes, it is possible.
+
+[119555] Str. And we decided some time ago that the sophist was in one of those two divisions of the image-making class.
+
+[119668] Theaet. Yes.
+
+[119682] Str. Then let us try again; let us divide in two the class we have taken up for discussion, and proceed always by way of the right-hand part of the thing divided, clinging close to the company to which the sophist belongs, until, having stripped him of all common properties and left him only his own peculiar nature, we shall show him plainly first to ourselves and secondly to those who are most closely akin to the dialectic method.
+
+[120119] Theaet. Right.
+
+[120135] Str. We began by making two divisions of art, the productive and the acquisitive, did we not?
+
+[120230] Theaet. Yes.
+
+[120244] Str. And the sophist showed himself to us in the arts of hunting, contests, commerce, and the like, which were subdivisions of acquisitive art?
+
+[120389] Theaet. Certainly.
+
+[120409] Str. But now, since imitative art has taken him over, it is clear that our first step must be the division of productive art into two parts; for imitative art is a kind of production—of images, however, we say, not of real things in each case. Do you agree?
+
+[120668] Theaet. By all means.
+
+[120691] Str. Then let us first assume two parts of productive art.
+
+[120751] Theaet. What are they?
+
+[120775] Str. The divine and the human.
+
+[120807] Theaet. I don’t yet understand.
+
+[120840] Str. We said, if we remember the beginning of our conversation, that every power is productive which causes things to come into being which did not exist before.
+
+[121003] Theaet. Yes, we remember.
+
+[121030] Str. There are all the animals, and all the plants that grow out of the earth from seeds and roots, and all the lifeless substances, fusible and infusible, that are formed within the earth. Shall we say that they came into being, not having been before, in any other way than through God’s workmanship? Or, accepting the commonly expressed belief—
+
+[121379] Theaet. What belief?
+
+[121401] Str. That nature brings them forth from some self-acting cause, without creative intelligence. Or shall we say that they are created by reason and by divine knowledge that comes from God?
+
+[121590] Theaet. I, perhaps because I am young, often change from one opinion to the other; but now, looking at you and considering that you think they are created by God, I also adopt that view.
+
+[121778] Str. Well said, Theaetetus; and if I thought you were one of those who would think differently by and by, I should try now, by argument and urgent persuasion, to make you agree with my opinion; but since I understand your nature and see that it of itself inclines, without any words of mine, towards that to which you say you are at present attracted, I will let that go; for it would be a waste of time. But I will assume that things which people call natural are made by divine art, and things put together by man out of those as materials are made by human art, and that there are accordingly two kinds of art, the one human and the other divine.
+
+[122429] Theaet. Quite right.
+
+[122451] Str. Now that there are two, divide each of them again.
+
+[122508] Theaet. How?
+
+[122522] Str. You divided all productive art widthwise, as it were, before; now divide it lengthwise.
+
+[122616] Theaet. Assume that it is done.
+
+[122649] Str. In that way we now get four parts in all; two belong to us and are human, and two belong to the gods and are divine.
+
+[122772] Theaet. Yes.
+
+[122786] Str. And again, when the section is made the other way, one part of each half has to do with the making of real things, and the two remaining parts may very well be called image-making; and so productive art is again divided into two parts.
+
+[123028] Theaet. Tell me again how each part is distinguished.
+
+[123083] Str. We know that we and all the other animals, and fire, water, and their kindred elements, out of which natural objects are formed, are one and all the very offspring and creations of God, do we not?
+
+[123286] Theaet. Yes.
+
+[123300] Str. And corresponding to each and all of these there are images, not the things themselves, which are also made by superhuman skill.
+
+[123435] Theaet. What are they?
+
+[123459] Str. The appearances in dreams, and those that arise by day and are said to be spontaneous—a shadow when a dark object interrupts the firelight, or when twofold light, from the objects themselves and from outside, meets on smooth and bright surfaces and causes upon our senses an effect the reverse of our ordinary sight, thus producing an image.
+
+[123807] Theaet. Yes, these are two works of divine creation, the thing itself and the corresponding image in each case.
+
+[123920] Str. And how about our own art? Shall we not say that we make a house by the art of building, and by the art of painting make another house, a sort of man-made dream produced for those who are awake?
+
+[124121] Theaet. Certainly.
+
+[124141] Str. And in the same way, we say, all the other works of our creative activity also are twofold and go in pairs—the thing itself, produced by the art that creates real things, and the image, produced by the image-making art.
+
+[124367] Theaet. I understand better now; and I agree that there are two kinds of production, each of them twofold—the divine and the human by one method of bisection, and by the other real things and the product that consists of a sort of likenesses.
+
+[124611] Str. We must remember that there were to be two parts of the image-making class, the likeness-making and the fantastic, if we should find that falsehood really existed and was in the class of real being.
+
+[124816] Theaet. Yes, there were.
+
+[124842] Str. But we found that falsehood does exist, and therefore we shall now, without any doubts, number the kinds of image-making art as two, shall we not?
+
+[124995] Theaet. Yes.
+
+[125009] Str. Let us, then, again bisect the fantastic art.
+
+[125061] Theaet. How?
+
+[125075] Str. One kind is that produced by instruments, the other that in which the producer of the appearance offers himself as the instrument.
+
+[125212] Theaet. What do you mean?
+
+[125239] Str. When anyone, by employing his own person as his instrument, makes his own figure or voice seem similar to yours, that kind of fantastic art is called mimetic.
+
+[125404] Theaet. Yes.
+
+[125418] Str. Let us, then, classify this part under the name of mimetic art; but as for all the rest, let us be so self-indulgent as to let it go and leave it for someone else to unify and name appropriately.
+
+[125620] Theaet. Very well, let us adopt that classification and let the other part go.
+
+[125700] Str. But it is surely worth while to consider, Theaetetus, that the mimetic art also has two parts; and I will tell you why.
+
+[125826] Theaet. Please do.
+
+[125846] Str. Some who imitate do so with knowledge of that which they imitate, and others without such knowledge. And yet what division can we imagine more complete than that which separates knowledge and ignorance?
+
+[126055] Theaet. None.
+
+[126070] Str. The example I just gave was of imitation by those who know, was it not? For a man who imitates you would know you and your figure.
+
+[126207] Theaet. Of course.
+
+[126227] Str. But what of the figure of justice and, in a word, of virtue in general? Are there not many who have no knowledge of it, but only a sort of opinion, and who try with the greatest eagerness to make this which they themselves think is virtue seem to exist within them, by imitating it in acts and words to the best of their ability?
+
+[126563] Theaet. Yes, there are very many such people.
+
+[126610] Str. Do all of them, then, fail in the attempt to seem to be just when they are not so at all? Or is quite the opposite the case?
+
+[126741] Theaet. Quite the opposite.
+
+[126770] Str. Then I think we must say that such an imitator is quite distinct from the other, the one who does not know from the one who knows.
+
+[126907] Theaet. Yes.
+
+[126921] Str. Where, then, can the fitting name for each of the two be found? Clearly it is not an easy task, because there was, it seems, among the earlier thinkers a long established and careless indolence in respect to the division of classes or genera into forms or species, so that nobody even tried to make such divisions; therefore there cannot be a great abundance of names. However, even though the innovation in language be a trifle bold, let us, for the sake of making a distinction, call the imitation which is based on opinion, opinion-imitation, and that which is founded on knowledge, a sort of scientific imitation.
+
+[127545] Theaet. Agreed.
+
+[127562] Str. We mat therefore apply ourselves to the former, for we found that the sophist was among those who imitate but was not among those who know.
+
+[127708] Theaet. Very true.
+
+[127728] Str. Then let us examine the opinion-imitator as if he were a piece of iron, and see whether he is sound or there is still some seam in him.
+
+[127870] Theaet. Let us do so.
+
+[127893] Str. Well, there is a very marked seam. For some of these imitators are simple-minded and think they know that about which they have only opinion, but the other kind because of their experience in the rough and tumble of arguments, strongly suspect and fear that they are ignorant of the things which they pretend before the public to know.
+
+[128235] Theaet. Certainly the two classes you mention both exist.
+
+[128294] Str. Then shall we call one the simple imitator and the other the dissembling imitator?
+
+[128383] Theaet. That is reaonable, at any rate.
+
+[128424] Str. And shall we say that the latter forms one class or two again?
+
+[128493] Theaet. That is your affair.
+
+[128523] Str. I am considering, and I think I can see two classes I see one who can dissemble in long speeches in public before a multitude, and the other who does it in private in short speeches and forces the person who converses with him to contradict himself.
+
+[128779] Theaet. You are quite right.
+
+[128809] Str. And what name shall we give to him who makes the longer speeches? Statesman or popular orator?
+
+[128910] Theaet. Popular orator.
+
+[128935] Str. And what shall we call the other? Philosopher or sophist?
+
+[128999] Theaet. We cannot very well call him philosopher, since by our hypothesis he is ignorant; but since he is all imitator of the philosopher, he will evidently have a name derived from his, and I think I am sure at last that we must truly call him the absolutely real and actual sophist.
+
+[129285] Str. Shall we then bind up his name as we did before, winding it up from the end to the beginning?
+
+[129385] Theaet. By all means.
+
+[129408] Str. The imitative kind of the dissembling part of the art of opinion which is part of the art of contradiction and belongs to the fantastic class of the image-making art, and is not divine, but human, and has been defined in arguments as the juggling part of productive activity—he who says that the true sophist is of this descent and blood will, in my opinion, speak the exact truth.
+
+[129796] Theaet. Yes, he certainly will.

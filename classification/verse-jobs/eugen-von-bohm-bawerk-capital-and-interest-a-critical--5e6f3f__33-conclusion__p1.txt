@@ -1,0 +1,161 @@
+WORK: Capital and Interest: A Critical History of Economical Theory  (slug: eugen-von-bohm-bawerk-capital-and-interest-a-critical--5e6f3f)
+
+CHAPTER: 33-conclusion
+
+
+
+[110550] Der Kredit, part second, p. 69: "What Rodbertus brings forward as his sole reason, viz. that 'labour is the only original power, and also the only original cost with which human economy is concerned,' is simply, in point of fact, untrue. What surprising blindness it is not to see that in the case of a landlord the effectual power of the soil in our limited fields could not be allowed 'to lie dead' by uneconomic men, could not be wasted in growing weeds, etc. etc. So absurd an opinion would certainly in the long run justify any one in defending the proposition that the loss to a landlord of X acres, and the loss to a people's economy of Y square miles, represents no 'economical loss.' "
+
+[111246] See Knies, Der Kredit, part second, p. 64, etc.: "A man who wishes to 'produce' coal must not simply dig; he must dig in a particular place; in thousands of places he may perform the same material operation of digging without any result whatever. But if the difficult and necessary work of finding the proper place is undertaken by a separate person, say a geologist; if without some other and "intellectual power" no shaft is sunk, and so on, how can the 'economic' work be digging only? When the choice of materials, the decision on the proportions of the ingredients, and such like, are made by another person than by him who rolls the pills, are we to say that the economical value of this material body, this medicine, is a product of nothing but the hand labour employed in it?"
+
+[112032] Of course I do not mean to put forward the rate of interest as the cause of the smaller valuation of future goods. I know quite well that interest and rate of interest can only be a result of this primary phenomenon. I am not here explaining but only depicting facts.
+
+[112301] The appropriateness of these figures, which seem strange at the first glance, will be seen immediately.
+
+[112406] More exact criticism on this head I postpone till my second volume. To protect myself against misunderstandings, however, and particularly against the imputation of considering undertaking profit to be a "profit of plunder" when it exceeds the usual rate of interest, I may add a short note.
+
+[112699] In the total difference, between value of product and wages expended, which falls to the undertaker, there may possibly be four constituents, essentially different from each other.
+
+[112881] 1. A premium for risk, to provide against the danger of the production turning out badly. Rightly measured, this will, on an average of years, be spent in covering actual losses, and this of course involves no curtailment of the labourer.
+
+[113121] 2. A payment for the undertaker's own labour. This of course is equally unobjectionable, and in certain circumstances, as in the using of a new invention of the undertaker, may be very highly assessed without any injustice being done to the labourer.
+
+[113373] 3. The compensation referred to in the text, viz. the compensation for difference of time between the wage payment and the realising of the final product, this being afforded by the customary interest.
+
+[113576] 4. The undertaker may possibly get an additional profit by taking advantage of the necessitous condition of the labourers to usuriously force down their wages.
+
+[113737] Of these four constituents only the latter involves any violation of the principle that the labourer should receive the whole value of his product.
+
+[113886] E.g., Soziale Frage, pp. 44, 107.
+
+[113921] Soziale Frage, pp. 113, 147. Erklärung und Abhilfe, i. p. 123. In the latter Rodbertus says: "If the value of agricultural and manufacturing product is regulated by the labour incorporated in it, as always happens on the whole, even where commerce is free," etc.
+
+[114185] Ibid. p. iii. n.
+
+[114203] The above was written before the publication of Rodbertus's posthumous work, Capital, in 1884. In it Rodbertus takes an exceedingly strange position towards our question,—a position which calls rather for a strengthening than a modification of the above criticism. He strongly emphasises the point that the law of labour value is not an exact law, but simply a law that determines the point towards which value will gravitate (p. 6, etc.) He even owns in as many words that, on account of the undertaker's claim on profit, a constant divergence takes place between the actual value of the goods and their value as measured by labour (p. 11, etc.) Only he makes the extent of this concession much too trifling when he assumes that the deviation obtains only in the relations of the different stages of production of one and the same good; and that the deviation does not obtain in the case of all the stages of production as a whole. That is, if the making of a good is divided into several sections of production, of which each section develops into a separate trade, according to Rodbertus the value of the separate product which is made in each individual section cannot remain in exact correspondence with the quantity of labour expended on it; because the undertakers of the later stages of production have to make a greater outlay for material, and therefore a greater expenditure of capital, and on that account have to calculate on a higher profit, which higher profit can only be provided by a relatively higher value of the product in question.
+
+[115758] However correct this is, it is clear that it does not go far enough. The divergence of the actual value of goods from the quantity of labour expended does not take place only between the fore-products of one good in relation to each other, in such a way that, in the course of the various stages of production, it cancels itself again through reciprocal compensation, and so the final result of all the stages of production, the goods ready for consumption, obeys the law of labour-value. On the contrary, the amount and the duration of the advance of capital definitively forces the value of all goods away from exact correspondence with their labour costs. To illustrate. Say that the production of a commodity requiring ninety days for its manufacture is divided into three stages of thirty days' labour in each. Rodbertus would say that the product of the first thirty days' labour might only attain the value of twenty-five days' labour, while the second thirty attained the value of thirty days', and the third thirty of thirty-five days' labour. But on the whole the final value of the product would be equal to ninety days' labour. But it is a matter of common experience that, in normal successive production, the value of such a commodity will increase during the three stages by a definite amount, say 30 + 31 + 32, and that the final product will be equal to, say, ninety-three days of labour; i.e. a value greater than the value of the labour incorporated in it by the amount of the customary interest.
+
+[117275] Besides this, Rodbertus deserves the severest censure that, in spite of his own admission, he always persists in developing the law of the distribution of all goods in wages and rent under the theoretical hypothesis that all goods possess "normal value"; that is, a value that corresponds to their labour costs. He thinks he is justified in doing this because the "normal value, in regard to the derivation both of rent in general and of land-rent and capital-rent in particular, is the least captious; it alone does not quietly beg the question, and assume what was first to be explained by it, as every value does in which is included beforehand an element for rent."
+
+[117946] Here Rodbertus is grievously mistaken. He begs the question quite as improperly as any of his opponents ever did; only in an opposite way. His opponents, by their assumptions, have begged the question of the existence of interest. Rodbertus has begged the question of its non-existence. In taking no notice of the constant divergence from "normal value" (which divergence gives natural interest its source and its nourishment), he himself altogether abstracts the chief feature in the phenomenon of interest.
+
+[118456] Zur Kritik der politischen-Oekonomie, Berlin, 1859. Das Kapital, Kritik der politischen-Oekonomie, vol. i, first edition, Hamburg, 1867; second edition, 1872. English translation by Moore and Aveling, Sonnenschein, 1887. I quote from Das Kapital as the book in which Marx stated his views last and most in detail. On Marx also Knies has made some very valuable criticisms, of which I make frequent use in the sequel. Most of the other attempts to criticise and refute Marx's work are so far below that of Knies in value that I have not found it useful to refer to them.
+
+[119027] With Marx simply called Value.
+
+[119059] Das Kapital, second edition, p. 10, etc.
+
+[119101] Das Kapital, p. 205, etc.
+
+[119128] E.g. when in the fifth chapter of the second book he says of the farmer: "Not only his labouring servants, but his labouring cattle are productive labourers." and further, "In agriculture too Nature labours along with man, and though her labour costs no expense, its produce has its value as well as that of the most expensive workmen." See also Knies, Der Kredit, part ii p. 62.
+
+[119509] See above, p. 354 [Book VI, Chapter II, par. VI.II.72.—Econlib Ed.], and Knies as before, p. 60, etc.
+
+[119612] Wealth of Nations,book i. chap. v. (p. 13 of M'Culloch's edition); Ricardo, Principles, chap. i.
+
+[119710] Adam Smith gets rid of the difficulty mentioned in the text as follows: "If the one species of labour requires an uncommon degree of dexterity and ingenuity, the esteem which men have for such talents will naturally give a value to their produce superior to what would be due to the time employed about it. Such talents can seldom be acquired, but in consequence of long application and the superior value of their produce may frequently be more than a reasonable compensation for the time and labour which must be spent in acquiring them" (book i. chap. vi.)
+
+[120271] The insufficiency of this explanation is obvious. In the first place, it is clear that the higher value of the products of exceptionally skilled men rests on a quite different foundation from the "esteem which men have for such talents." How many poets and scholars does the public leave to starve in spite of the very high esteem which it pays to their talents, and how many unscrupulous speculators has it rewarded for their adroitness by hundreds of thousands, although it has no esteem whatever for their "talents"! But suppose esteem were the foundation of value, in that case the law that value depends on trouble would evidently not be confirmed but violated. If, again, in the second of the above sentences, Adam Smith attempts to trace that higher value to the trouble expended in acquiring the dexterity, by his insertion of the word "frequently" he confesses that it will not hold in all cases. The contradiction therefore remains.
+
+[121215] For instance, in p. 15 at the end: "Finally, nothing can be valuable without being an object of use. If it is useless the labour contained in it is also useless; it does not count as labour (sic), and therefore confers no value." Knies has already drawn attention to the logical blunder here criticised (Das Geld, Berlin, 1873, p. 123, etc.)
+
+[121558] Das Kapital, p. 17 etc.
+
+[121583] See also on the subject Knies, Das Geld, p. 121.
+
+[121633] See also Knies, Kredit, part ii, p. 61.
+
+[121674] P. 175.
+
+[121683] "The rate of surplus value and the value of labour power being given, the amounts of surplus value produced are in direct ratio with the amounts of variable capital advanced.... The value and the degree of exploitation of labour power being equal, the amounts of value and surplus value produced by various capitals stand in direct ratio with the amounts of the variable constituent of these capitals; that is, of those constituents which are converted into living labour power" (p. 311, etc.)
+
+[122178] "The value of these contributory means of production may rise, fall, remain unchanged, be little or much, it remains without any influence whatever in producing surplus value" (p. 312).
+
+[122365] Pp. 204, 312.
+
+[122380] Pp. 312, 542 at end.
+
+[122402] Fourth edition, Paris, 1865.
+
+[122432] "The costs of production are made up of (1) the recompense to the workers; (2) the profits of the capitalists," etc. (p. 93).s
+
+[122560] See also the sharp but most pertinent criticism of Pierstorff, Lehre vom Unternehmergewinn, p. 93, etc.
+
+[122665] Cours d'Economie Politique, second edition, Paris, 1863. His Productivity theory is similar to that of Say (e.g. "interest is a compensation for the productive service of capital," i. p. 302). His Abstinence theory (1, 289, 293, 300) is particularly unsatisfactory on account of the peculiar meaning he gives to the conception of "privation." He means by it what the capitalist may suffer on account of the capital sunk in production not being available for the satisfaction of pressing wants which may possibly arise in the meantime. Surely a very unsuitable foundation for a universal theory of interest!
+
+[123273] Essai sur la Répartition des Richesses, second edition, Paris, 1885. See particularly pp. 236 (Abstinence theory), 233, 238 (Productivity theory); see also above, p. 131. [Book II, Chapter II, par. II.II.38.—Econlib Ed.]
+
+[123495] On Roscher, see above, p. 129 [Book II, Chapter II, par. II.II.33.—Econlib Ed.], Schüz, Grundsätze der National-Oekonomie, Tübingen, 1843; particularly pp. 70, 285, 296, etc. Max Wirth, Grundzüge der National-Oekonomie, third edition, i. p. 324; fifth edition, i. 327. See further Huhn, Allgemeine Volkswirthschaftslehre, Leipzig, 1862, p. 204; H. Bischof, Grundzüge eines Systems der National-Oekononik, Graz, 1876, p. 459, and particularly note on p. 465; Schülze-Delitzsch, Kapitel zu einem deutschen Arbeiterkatechismus, pp. 23, 27, 28, etc.
+
+[124042] La Nozione del Capitale, in the Saggi di Economia Politica, Mailand, 1878, p. 155.
+
+[124126] Sixth edition, 1883.
+
+[124148] P. 34, and more at length in the Saggi.
+
+[124189] "The elements of interest are two: first, compensation for the non-use of capital, or, as some say, for its formation, and for its productive service" (p. 119).
+
+[124351] Theory of Political Economy, second edition, London, 1879.
+
+[124411] P. 243.
+
+[124420] P. 266. Jevons puts the same formula in other ways that need not be specified here.
+
+[124505] Thus, on one occasion, he says that, under the influence of this element of time, in the case of the distribution of a stock of goods in the present and in the future, "less commodity will be consigned to future days in some proportion to the intervening time" (p. 79).
+
+[124776] An Inquiry into the Natural Grounds of Right to Vendible Property or Wealth, Edinburgh, 1829.
+
+[124871] P. 131, and generally all through the argument against Godwin, and the anonymous tract "Labour Defended."
+
+[124978] Note to p. 247.
+
+[124995] Beitrag zur Lehre vom Kapital, Erlangen, 1857, pp. 16, 22, etc.
+
+[125060] Précis d'Economie Politique, second edition, Paris, 1881.
+
+[125119] See above, p. 304. [Book V, Chapter I, par. IV.I.26-27.—Econlib Ed.]
+
+[125189] "The principle then is that the rate of interest is a direct consequence of the productivity of capital" (ii. p. 110).
+
+[125309] "We saw that the real value of interest depended on the productive employment given to capital; since a certain surplus value is due to capital, interest is one part of that surplus value presumably fixée à forfait (without consideration of gain or loss) which the lender receives for the service rendered by him" (ii. p. 189).
+
+[125638] Traité d'Economie Politique, eighth edition, Paris, 1880.
+
+[125697] P. 47.
+
+[125705] P. 522.
+
+[125714] Kleine Schriften staatswirthschaftlichen Inhalts, Berlin, 1843, p. 566. See above, p. 312. [Book V, Chapter I, note c41.—Econlib Ed.]
+
+[125849] Principles, book iii, chap. iv. 1, 4, 6; chap. vi. 1, No. 8, etc.
+
+[125916] Book i. chap. vii. 1.
+
+[125939] Book v. 1.
+
+[125951] Book iii. chap. iv. 4.
+
+[125975] See above, p. 206. [Book III, Chapter II, par. III.II.57-58.—Econlib Ed.]
+
+[126050] See above, p. 306. [Book V, Chapter I, par. IV.I.33.—Econlib Ed.]
+
+[126117] i. pp. 258, 268, 271, etc.
+
+[126145] Bau und Leben, iii. p. 273, etc.
+
+[126179] iii. p. 266, etc.
+
+[126198] iii. p. 423, See also iii. p. 330, 386, 428, etc.
+
+[126249] By desire of the author I here omit, as of little interest to English readers, a statement and criticism of Schellwien's theory (Die Arbeti und ihr Recht, Berlin, 1882, p. 195. etc.) which occupies pp. 477-486 of the German edition.—W. S.
+
+[126489] Progress and Poverty. Kegan Paul, 1885.
+
+[126530] Capital et Rente. See above, p. 289. [Book IV, Chapter III.—Econlib Ed.]
+
+[126604] Parallel with the "vital forces of nature," according to George, works also "the utilisation of the variation in the forces of nature and of man by exchange." This too leads to "an increase which somewhat resembles that produced by the vital forces of nature" (p. 129). But I need not here enter into a more exact exposition of this somewhat obscure element, since George himself ascribes to it only a secondary rôle in the origination of interest.
+
+[127054] See my remarks on "Competition of Wealth" in Rechte und Verhältnisse, p. 80, etc.
+
+[127137] See above, p. 178. Book II, Chapter III, par. II.III.147-49.—Econlib Ed.]

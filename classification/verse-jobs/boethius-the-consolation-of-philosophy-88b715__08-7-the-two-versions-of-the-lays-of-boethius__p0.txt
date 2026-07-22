@@ -1,0 +1,33 @@
+WORK: The Consolation of Philosophy  (slug: boethius-the-consolation-of-philosophy-88b715)
+
+CHAPTER: 08-7-the-two-versions-of-the-lays-of-boethius
+
+
+
+[0] Alfred’s prose rendering of the verses of the original is often closer than that of the rest of the book. Some he omits altogether, especially towards the end, and one he amplifies to an immense extent (pp. 87-91). An interesting question arises regarding the authorship of the version of the carmina which we find in the earlier manuscript. This is in verses of the usual Old English type, each line of which consists of two half-lines separated by a pause, with one or two stressed words in the first half-line alliterating with the first stressed word in the second, as in the line:—
+
+[588] Setton suðweardes . sigeðeoda twa,
+
+[624] or, as we may render it:—
+
+[651] Two tribes victorious . tramped to the south.
+
+[698] Did King Alfred write this alliterating version as Edition: current; Page: [xxviii]well as the prose one which occurs in the later manuscript?
+
+[842] In seeking an answer to this question we will first turn to the prose preface prefixed to the work in both manuscripts (see p. 9). Here we find it stated that after King Alfred ‘had translated this book into English prose, he afterwards turned it into verse, as it is now done.’ This seems plain enough, and if we believe Alfred wrote this preface—and we have no prima facie reason to doubt it—the question is settled. The metrical preface found in the older manuscript confirms the statement as to Alfred’s authorship. But not a few scholars, after a careful comparison of the two versions of the carmina, have persuaded themselves that the King could not have been the author of the metrical version, and are consequently forced to deny him the authorship of the prefaces.
+
+[1618] What we know for certain on this question does not amount to much, and may be thus summarized.
+
+[1714] Let us in the first place for convenience indicate by the letter B the prose version of the metres of Boethius which is found only in the Bodleian or later manuscript of Alfred’s translation, and by the letter C the alliterating metrical version of the same metres which only occurs in the Cotton or older manuscript.
+
+[2033] 1. A careful comparison between the two versions clearly shows us that C was made by a person who had B before him, the former being only an expansion in metrical form of the latter.
+
+[2217] 2. It is equally certain that the Latin original was not used in the making of C. Thus we see that B represents the older version made by King Alfred.
+
+[2369] 3. Another thing to notice is that not all the metra of B have been turned into verse in C; and the omitted ones are not introduced and dismissed with the customary words ‘Then Philosophy began to sing,’ or ‘When Philosophy had sung this song.’
+
+[2615] 4. Only a few lines in C contain new thoughts. Of these additions the chief is the simile where the earth is compared to an egg (metr. xx. ll. 169-175), and this was derived from a Latin commentary.
+
+[2815] Now, putting aside the Prefaces, the opponents of the King’s authorship of C base their case on two considerations, one being the third of the abovementioned facts. (a) The King, they say, would not have omitted any metra when turning B into C. (b) Further, they object that C is but a weak diluted version of the terse and often vigorous prose of B, and more likely to have been the work of some clerical versifier than of the King himself, who shows vigour and character in his literary work, and who would have added to and improved on B if he had resolved to recast it in a metrical form.
+
+[3409] To the first of these two arguments it may be replied that as the Latin original was laid aside, and B only was used in the preparation of C, Alfred might have easily overlooked some of the metra which were not preceded nor followed by the usual formulas; or again, he might have purposely omitted them for some reason or other. The second argument takes it for granted that Alfred must have been a good poet as well as a good king; and further, it puts C in a false light. We have to bear in mind that in the days of King Alfred, poetry, if ever it had been cultivated in the Edition: current; Page: [xxx]south of England as a branch of literature, had greatly declined in form and substance from the splendour to which it had attained in the preceding century in Northumbria. The modern critic is too apt to compare C with this older poetry, much to the disadvantage of the former; whereas we should remember that C was most probably meant to be read aloud or chanted. Thus then the seemingly idle expansions and repetitions which we find in it, and the occurrence of words and phrases consecrated to the use of poetry, would have greatly added to its effect, and made it more acceptable to the illiterate but unspoiled West-Saxons, to whose ears the folk-songs were quite familiar. This is only an illustration of the fondness that all primitive races have for a regular chanted measure accompanied by a well-marked rhythm. Further, we learn from the Life attributed to Asser that Alfred loved the poetry of his native land, and learned much of it as a child, and we may well believe that he would welcome the chance of himself adding to the national store of verse. Nor should we forget that he has given us some specimens of his verses in the Preface to his Pastoral Care. To sum up then, there seems no reason to doubt the tradition of antiquity and the testimony of the prefaces, even if these were not written by the King, that it was Alfred who turned the prose of B into the verse of C. We may imagine that, having completed the prose version of the De Consolatione, he felt that by versifying the metra he should be only doing the right thing by his author, and at the same time giving the lays of Boethius a form that would readily lend itself to learning by heart and recitation. There would be no necessity for bringing Edition: current; Page: [xxxi]new thoughts into the verses. He had shown plenty of originality already in his prose version of Boethius, far more than in any of his other translations; and, besides, a fresh handling of the subject would probably have taken more time than he could spare in his busy life. His end then would be fully attained if he produced a rough metrical version with the familiar alliteration and swing of the national poetry; and in this he succeeded very fairly. His subjects may well have preferred the more long-winded verses, with their familiar poetical catchwords and reminiscences of the older poetry, to the more severe and colourless prose of his earlier version.

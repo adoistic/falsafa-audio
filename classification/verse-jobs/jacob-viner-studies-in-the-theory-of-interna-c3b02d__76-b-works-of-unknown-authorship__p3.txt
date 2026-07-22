@@ -1,0 +1,439 @@
+WORK: Studies in the Theory of International Trade  (slug: jacob-viner-studies-in-the-theory-of-interna-c3b02d)
+
+CHAPTER: 76-b-works-of-unknown-authorship
+
+
+
+[331652] Léon Walras, Etudes d'économie politique appliquée,1898, p.236
+
+[331716] Principles, Works, pp. 75-76. Assuming as he presumably does here that the proportion of labor to capital is within a country uniform in all industries, and that wages are uniform in all occupations, uniformity of the interest rate in all occupations involves proportionality of prices of domestically produced commodities to labor-time or “real” costs.
+
+[332071] Edgeworth, later, called it the “negative clause” of the principle of comparative costs, and held it to be superfluous: “that the value of articles in the international market is not proportioned to the cost—the ‘efforts and sacrifice’—incurred by the respective producers, is superfluous, if the definition here proposed is adopted. Why should there be any correspondence between cost and value in the absence of the conditions, proper to domestic trade, on which that equality depends?” Papers relating to political economy, 1925, II, 6.
+
+[332612] Cf. the report of his speech in the House of Commons, July 3, 1832, Hansard, Parliamentary debates, 3d series, XIV, 19:
+
+[332733] Now the error in this case [referring to an argument that it did not matter to England whether a foreign country took goods or money in exchange for its own goods] sprang out of another of still more universal acceptation; namely, that great maxim of the Ricardo school of economists, that as the value of a commodity in the home market depended on the cost—the labor—of production, so must it be in a foreign market. He would maintain, that though this principle was true of domestic policy, yet that it was not it that regulated the exchangeable value in a foreign market. What we received in return for our goods in foreign markets did not depend on the cost of producing these foreign articles, but on the demand that existed in the foreign market for our commodities.
+
+[333507] Cf. Mallet's account of the discussion at the Political Economy Club, April 5, 1832, Political Economy Club, Minutes of proceedings, VI (1921), 234:
+
+[333657] The discussion at last ran into a question of value, what constituted value in exchange—and on this rock it split, and left us all at sea. McCulloch, boldly standing by Ricardo's doctrine, that equal quantities of labor are equal in value all over the world—and Torrens and Malthus treating it as a ridiculous notion.
+
+[333976] In 1844 there was discussed at the Political Economy Club the question put by Torrens: “Was Ricardo correct in stating that ‘the same rule which regulates the relative value of commodities in the country, does not regulate the relative value of the commodities exchanged between two or more countries’?” Torrens was not present, but McCulloch is reported as having held that Ricardo's chapter on foreign trade was faulty, and that in practice only such commodities are imported as foreign countries produce more cheaply, whether in terms of money costs or of real costs not being indicated.—Political Economy Club, Minutes of proceedings, VI (1921), 291.—It seems that McCulloch never accepted Ricardo's doctrine that comparative disadvantage in real cost could make importation profitable even though accompanied by absolute advantage in real cost, and his exposition of the doctrine appears always to have been in terms of absolute, as well as comparative, advantage. (Cf. McCulloch, Principles of political economy, 4th ed., 1849, chap. v.)
+
+[335021] Supra, p. 470, note 4.
+
+[335045] Sidgwick, Principles, and ed., 1887, pp. 205-07.
+
+[335095] Ibid., Principles, 2d ed., p. 207, note.
+
+[335137] If it be assumed that at this stage of his argument Sidgwick has unconsciously lapsed into using the term “cost” in Mill's sense of real costs, then a suggestion by Edgeworth (Papers, II, p. 30) offers a means of reconciling his main text with this note. If “determined by cost of production,” be read to mean merely “affected or influenced by cost of production,” then, of course, the relative values of the products of different countries can be “determined” by their real costs of production without being proportional to them. This would reconcile the note with the text, but would make Sidgwick agree wholly with Mill when he was giving the same meaning to the terms he uses.
+
+[335819] Cf. Senior, Three lectures on the cost of obtaining money, 1830, p. 4:“... an equal expenditure of wages and profits, or, in my nomenclature; ... an equal sum of labor and abstinence....”
+
+[336008] Cf. Edgeworth, review of Bastable's Theory of international trade in Economic journal, VII (1897), 399, note.
+
+[336119] Cf. Marshall, Money credit & commerce, 1923, p. 323: “Differences in the skill required for different occupations, and in the amount of capital by which each man's labor needs to be assisted, are neglected (or else the values of the several classes of labor and stocks of capital are expressed in terms of the value of labor of a standard efficiency).”
+
+[336473] “Some fallacies in the interpretation of social cost,” Quarterly journal of economics, XXXVIII (1924), 599, note.
+
+[336588] See infra, p. 509.
+
+[336608] Assume that as the result of an export bounty to an industry using much land but little labor, the same imports are obtained in return for commodities containing less labor services but more land services than those previously exported. I suppose that Ricardo would say in this case that the export bounty resulted in the country getting the imports at less real cost, and was therefore beneficial, and would overlook any reduction in domestically produced income resulting from the withdrawal of land from production for domestic consumption to production for export. It is conceivable, however, that Ricardo, if the point had been raised, would have made the necessary correction in his income analysis.
+
+[337315] Ricardo expressly recognized, with special reference to taxation, that in so far as relative prices were influenced by factors not representing real cost, the case for free trade no longer held. Cf. On protection to agriculture [1822], Works, p. 463:
+
+[337567] It is only when commodities are altered in relative value, by the interference of government, that any tax, which shall act as a protection against the importation of a foreign commodity, can be justifiable. ... It may be laid down as a principle, that any cause which operates in a country to affect equally all commodities, does not alter their relative value, and can give no advantage to foreign competitors, but that any cause which operates partially on one does alter its value to others, if not countervailed by an adequate duty; it will give advantage to the foreign competitor, and tend to deprive us of a beneficial branch of trade.
+
+[338212] Three lectures on commerce, 1835, pp. 56-57. Ohlin (Interregional and international trade, 1933, p. 32) cites a similar passage from Longfield's earlier Lectures on political economy, 1834, pp. 240-41, and asks the reader to note “that Longfield does not think of cheapness relative to effectiveness, as did the classical economists.” The passage I have cited shows that Longfield, to his credit, did think of cheapness relative to effectiveness (“cheaper in proportion to its productiveness”).
+
+[338708] Three lectures on commerce, pp. 60 ff. Cf. for a similar procedure, J. S. Eisdell (Treatise on the industry of nations, 1839, I, 343) who acknowledges his indebtedness to Longfield.
+
+[338891] Some leading principles of political economy, 1874, pp. 322-24.
+
+[338956] Ibid., p. 375.
+
+[338972] Ibid., pp. 375-406.
+
+[338993] International trade, 1927; pp. 43-60. Cf. also for a similar, though less complete, treatment, his earlier “Wages and prices in relation to international trade,” Quarterly journal of economics, XX (1906), 497 ff. (reprinted in his Free trade, the tariff and reciprocity, 1920, pp. 89-94), and his Principles of economics, 1911, I, 485-86; II, 154-57.
+
+[339345] Unless the hierarchy was in each country relatively stable through time (as both Adam Smith and Ricardo believed it to be) or changed substantially only in response to world-wide forces, this would not be true. That it is substantially true in fact seems to have been the conclusion of C. F. Bickerdike from a detailed study of the wage statistics of several countries (“International comparisons of labor conditions,” Transactions of the Manchester Statistical Society, 1911-12, pp. 62-63).
+
+[339838] International trade, 1927, p. 47.
+
+[339873] B. Ohlin, “Protection and non-competing groups,” Weltwirtschaftliches Archiv, XXXIII (1931, I), 42-43.
+
+[339977] If there were more than two commodities as potential articles of trade, even the commodities imported and exported by each country would not necessarily be wholly the same in the two cases.
+
+[340168] See especially the arithmetical illustration in Taussig, International trade, p. 51.
+
+[340254] If immobility of labor were tacitly assumed in his illustrations, then the specialization posited therein would be impossible.
+
+[340382] Cf. Taussig, Principles of economics, 1911, II, chap. 47. The analysis which follows is indebted to the article by Ohlin just cited, though there is some difference in conclusions. It is in part a restatement of the argument in my review of Manoilesco, The theory of protection and international trade, 1931, in the Journal of political economy, XL (1932), 121-25. Manoilesco had shown that if under free trade money incomes of workers were higher in manufacturing than in agriculture, and if manufactured products were imported and agricultural products exported, protection to manufactures would enable the country to get its manufactured products at lower labor-time costs by domestic production than by import.
+
+[341098] In my review of Manoilesco's book, in which he argued that the higher money earnings of labor in manufacturing than in agriculture justified protection for manufacturing industries which under free trade could not survive, I had contended, along the same lines as above, that if a greater labor-time cost of obtaining manufactured products by import in exchange for exports of agricultural products instead of by domestic manufacture was more than offset by the greater disutility of labor in manufacturing than in agriculture there would be no case for an import duty on the manufactured product. In a reply to this objection, Manoilesco merely repeats his demonstration that protection may result in a saving in labor-time costs, and overlooks, or perhaps denies, the necessity of weighting the labor-time costs by what Pareto called their “ophelimity coefficients” in order to get the real costs. (Mihail Manoilesco, “Arbeitsproduktivität und Aussenhandel,” Weltuirtschaftliches Archiv, XLII (1935, I), 41-43.)
+
+[342113] Haberler has commented that it is noteworthy that I do not mention the important case of “differences in the quality of the labor supplied by the different groups.” He comments that: “It falls outside the scope of the real-cost theory, to which Viner adheres—apparently from reverence for tradition; or at least it can be included only under quite definite assumptions.” (Theory of international trade, 1936, p. 196, note 2.) There is no such omission, since “labor monopolies” would cover both those contrived and those due to scarcity of persons having the requisite qualities, and for the purpose in hand all that is relevant is the existence of monopoly, whatever be its cause.
+
+[342796] International trade, p. 61.
+
+[342825] Interregional and international trade, 1933, p. 590.
+
+[342879] Ohlin recognizes that different rates of remuneration in different industries will also be a factor in determining the nature of a country's specialization. He would grant also, I suppose, that relative differences between countries in the prices of the factors and in their effectiveness result in differences in the methods by which the same commodities are produced, as well as in differences in the commodities produced, and that the abundance and quality of “free goods” is an important element in determining the productivities of the “scarce” factors.
+
+[343439] In his general mathematical exposition of international equilibrium, Ohlin treats as the same factor in the two regions “only factors of identical quality in the two regions” (ibid., p. 560, note), thus abstracting from the necessity of dealing expressly with the role in international trade of comparative differences in “effectiveness” of the factors as between the different industries and regions. (For the purposes of international trade theory, the “effectiveness” of a factor should be understood to mean its marginal physical productivity function with respect to variations both in the amount of that factor and the amounts of the other factors associated with it in production.) Ohlin, in his criticism of Taussig's analysis, seems to forget, for the time being, that Taussig had not made the same abstraction, but that, on the contrary, he had always placed marked emphasis on the importance of comparative differences in “effectiveness.” Unless it is assumed that each factor, in each industry, has identical “quality” or effectiveness in the two regions, Ohlin's contention that international trade would be impossible if Taussig's assumption of identical relative scales of wages and interest in the two regions were applicable to all factors, or if Taussig's assumption of identical proportions of labor and capital in all industries were applicable to all factors and both regions (ibid., pp. 561–62), is incorrect in both cases. In each case, the existence of comparative differences in effectiveness would suffice to provide a basis for trade.
+
+[345002] Interregional and international trade, pp. 30–31. It obviously does not preclude the study of varying proportions between labor and land. Ohlin lays special emphasis on the variable proportions between labor and capital, as a reaction, no doubt, against the Ricardian assumption—at times—of fixed proportions between labor and capital. But the Ricardian analysis is more vulnerable in its treatment of land as an element in cost than in its treatment of capital. I venture the guess, moreover, that the relative abundance of natural resources as compared to all other factors taken together has been in the past, and continues to be today, a much more important element in determining the nature of international specialization than the relative abundance of capital as compared to labor. Cf., to the same effect, N. G. Pierson, Principles of economics (translated from the Dutch), II (1912), 195.
+
+[345901] Ibid., pp. 30–31.
+
+[345920] Cf. Wealth of nations, Cannan ed. II, 100:
+
+[345964] Our merchants frequently complain of the high wages of British labor as the cause of their manufactures being undersold in foreign markets; but they are silent about the high profits of stock. They complain of the extravagant gain of other people; but they say nothing of their own. The high profits of British stock, however, may contribute towards raising the price of British manufactures in many cases as much, and in some perhaps more, than the high wages of British labor.
+
+[346444] See supra, p. 494.
+
+[346464] Principles, Works, p. 211. In a footnote Ricardo adds: “If countries with limited capitals, but with abundance of fertile land, do not early engage in foreign trade [i.e., the carrying and entrepót trade?], the reason is, because it is less profitable to individuals, and therefore also less profitable to the State.” It was a familiar doctrine in the eighteenth century that only countries like Holland, rich in capital and poor in natural resources, could specialise in the entrepót trade.
+
+[346957] Principles, Works, pp. 100–01.
+
+[346989] Principles of political economy, 2d ed., 1836, pp. 106–07. The above quotation reproduces only part of the relevant material. See also the first edition of the Principles, 1820, pp. 104–5. Cf. also Malthus, The measure of value, 1823, p. 47: “It is evident, therefore, that the values which determine what commodities shall be exported, and what imported, depend ... partly upon the quantity of labor employed in their production, partly upon the ordinary rates of profits in each country, and partly upon the value of money.” Malthus explains that by “value of money” he means the “money price of labor.” (Ibid., p. 46.)
+
+[347612] J. R. McCulloch, Principles of political economy, 2d ed., 1830, pp. 355–56 (also in later editions). McCulloch is taking for granted, along Ricardian lines, that the quantity of money remains constant, and that a rise in money wages must consequently be accompanied by a fall in interest rates.
+
+[347908] Some leading principles of political economy, 1874, pp. 119–20.
+
+[347973] In connection with his discussion of the relation between wage levels and the course of foreign trade, Cairnes (ibid., p. 327, note) pointed out that a general change in the rate of wages in a country, by resulting in relative changes in the money cost of production as between industries in which fixed capital was important and industries in which outlays on wages were important, would affect the course of trade. On the ground that “these are details ... into which it is scarcely necessary to enter in arguing the general question of the effect of wages on foreign trade,” he did not attempt to explain in detail the nature of the changes which would occur. He claimed, however, that a fall in wages “might easily have the effect of checking instead of promoting the exportation of an article if it happened to be one in the production of which fixed capital was largely employed.”
+
+[348861] Cf., e.g., Thomas Hopkins, Economical enquiries, 1822, pp. 84–86; Lord Stourton, Three letters ... on the distresses of agriculture, new ed., 1822, pp. 62–64; John Rooke, Free trade in corn, 2d ed., 1835, pp. 22–23; J. S. Eisdell, Trentise on the industry of nations, 1839, I, 343.
+
+[349144] E. G. Wakefield cited, in 1833, the following passage from the London Times as representing a prevalent English opinion (England and America, 1833, II, 47–48):
+
+[349305] All political writers in this country have visited with censure the present policy of the American general governemnt in attempting by high protecting duties to force the establishment, or to encourage the extension, of manufactures in the United States. With the high price for labor that exists in the United States, with their scanty supply of monied capital, with their unlimited range of uncultivated or half improved soil, it was almost a crime against society to divert human industry from the fields and the forests to iron forges and cotton factories.
+
+[349867] E.g., Francis Bowen, American political economy, 1870, p. 484; N. G. Pierson, Principles of economics, II (1912), 192–95; Angell, Theory of international prices, 1926, p. 472. Ohlin (op. cit., p. 33) makes acknowledgements to an important contributions (in Swedish) by Hecksher, in 1919.
+
+[350156] Protection to young industries, 2d ed., 1884, pp. 7–12; Some aspects of the tariff question, 1915, chap. iii and passim; International trade, 1927, chap. vii.
+
+[350316] Especially in his Some aspects of the tariff question, 1915.
+
+[350378] Unless Edgeworth's vague reference to “proper index-numbers” is accepted as an explanation: “The conception [of “units of productive power” ] might be facilitated by imagining each country to employ a monetary standard corrected by proper index-numbers, so that the efforts and sacrifices incurred in procuring a unit of the standard money should be constant.” Review of Bastable, Theory of international trade, Economic journal, VII (1897), 399, note.
+
+[350832] W. Lexis, article “Handel,” in Schönberg, Handbuck der Politischen Oehonomie, 3d ed., II (1891), 902.
+
+[350935] V. Pareto, Cours d' économic politique, II (1897), 210 ff. Pareto makes acknowledgments to Barone for the extension of his cost analysis to include the “ophélimité indirect.”
+
+[351111] Pareto, ibid., p. 211. The error did not carry over, I believe, into the foreign-trade analysis of the classical school from the income side, but I can find no explicit recognition of the issue before Pareto.
+
+[351321] Ohlin, “1st eine Modernisierung der Aussenbandefstheorie erforderlich?” Weltwirtschaftliches Archiv, XXVI (1927, II), 97–115; ibid., Interregional and international trade, 1933, appendix iii, pp. 571–90, and passion.
+
+[351539] Haberler, “Die Theorie der komparativen kosten,” Weltwirtacheftlieches Archiv, XXXII (1930, II), 356–60: ibid., The theory of international trade, 1936, especially, pp. 175–98.
+
+[351717] E. S. Mason, “The doctrine of comparative cost,” Quarterly journal of economiey, XLI (1926).
+
+[351811] Taussig, International trade, 1927, chap. vii.
+
+[351859] Ibid., p. 67.
+
+[351874] Ibid., pp. 61–66.
+
+[351893] Ibid., pp. 67–68.
+
+[351912] Interregional and international trade, p. 572.
+
+[351960] Ibid.
+
+[351967] Ibid., p. 582, note.
+
+[351989] Cf. Ricardo, Notes on Malthus [1820], p. 37:
+
+[352035] Besides omitting the consideration which I have just mentioned [i.e., intensity of labor] he [i.e., Malthus] surely does not reckon on the labor bestowed on machines, such as steam engines, etc., on coal, etc., etc. Does not the labor on these constitute a part of the labor bestowed on the muslins?
+
+[352336] Cf. Taussig, International trade, 1927, pp. 68–69. Cf. also, ibid., Some aspects of the tariff question, 1915, p. 38 (italics in the original):
+
+[352481] When the effectiveness of labor is spoken of, the effectiveness of all the labor needed to bring an article to market is meant; not merely that of the labor immediately and obviously applied (like that of the farmer), but that of the inventor and maker of threshing-machines and gangplows, and that of the manager and worker on the railways and ships.
+
+[352834] Land costs are not “real” costs as the term is here used. They must be dealt with, therefore, by means of income analysis, or by adding them to the real costs, See supra, pp. 493, note 6; 509–10.
+
+[353031] For an admission of this by Böhm-Bawerk, see his “One word more on the ultimate standard of value,” Economic journal, IV (1894), 720–21.
+
+[353169] Böhm-Bawerk, as far as I know, never abandoned his original position that money costs of production are determined solely by (technological costs and) the demands for the factors of production. But if disutilities can influence values, as he conceded, they can do so only through their influence on money costs. Wieser, making concessions to the irksomeness of labor as a value-determining factor, concluded that “Services of equal utility, but of different degrees of hardship, are so regulated in regard to value that the more troublesome labor is more highly appraised” (Natural value, 1893, p. 198) but failed to explain how this extraordinary result was brought about.
+
+[353844] They assumed, for instance, uniform rates of pay in all occupations for each kind of productive service, and fixed amounts of labor irrespective of the rates at which its services were remunerated. The quantity of capital, in the sense of the amount of postponement of consumption, or, given the amounts of the other factors, in the sense of the “average length of the productive period,” they took to be a function of the rate of interest, but by confining their emphasis to the increase in product which resulted from a lengthening of the productive period they avoided the necessity of treating postponement or abstinence from immediate consumption as a cost even though it were irksome.
+
+[354536] “Commonplace book,” Berkeley, Works, Fraser ed., 1871, IV, 457.
+
+[354601] “Die Theorie der komparativen Kosten,” loc. cit., pp. 357 ff.; Der internationale Handel, 1933, pp. 132 ff.; English ed., The theory of international trade, 1936, pp. 175 ff. It had been used, as a supplement to the doctrine of comparative real cost, by Pareto, in response to a suggestion from Barone. See supra, p. 509.
+
+[354924] A. Lerner, “The diagrammatical represcntation of cost conditions in international trade,” Economica, XII (1932), 346–56.
+
+[355046] W. W. Leontief, “The use of indifference curves in the analysis of foreign trade,” Quarterly journal of economics, XLVII (1933), 493–503.
+
+[355185] Chart XI was originally prepared for and presented in a lecture given by me at the London School of Economics in January, 1931. It is in its essentials similar to the later and more elaborate constructions of Lerner and Leontief. For my present purpose, which is to stress the limitations rather than the possibilities of this approach, my simpler diagram suffices, but as exhibitions of geometrical ingenuity their constructions are far superior. No use is made here of the EE1 line in chart XI.
+
+[355683] Theory of international trade, p. 197.
+
+[355723] Lionel Robbins, “Remarks upon certain aspects of the theory of costs,” Economic journal, XLIV (1934), 2, note 5. If “forms of exchange” means “results of choices between alternatives of all kinds” and if “demand” is read to mean “preferences between alternatives of all kinds” instead of what it usually means in economic theory, I would not think of objecting to what is claimed, except for the references to the Wicksteed constructions, which, however reinterpreted, are either wrong or useless.
+
+[356222] The tendency on the part of Marshall and Edgeworth to allow cost analysis to recede into the background, and to deal with the question of gain or loss from trade primarily in terms of income analysis is in sharp contrast with Allyn Young's contention that the treatment of the problem should be solely in terms of costs: “Here again the study of costs affords the only practicable road to conclusions respecting net gains or losses. Gains come from economies. The economies of international trade are by no means an exact measure of its net benefits. But that net benefits are more or less according as the economies secured are more or less, is a justifiable assumption.” —“Marshall on consumer's surplus in international trade,” Quarterly journal of economics, XXXIX (1924), 150. (Italics in the original.)
+
+[357032] Malthus, Principles of political economy, 1st ed., 1820, pp. 461–62. (Italics in the original text.)
+
+[357134] Ibid., p. 462.
+
+[357150] Cf. ibid., p. 460.
+
+[357170] Ricardo, Principles of political economy, 1st ed., 1817, p. 107.
+
+[357236] Ibid.
+
+[357243] Notes on Malthus [1820], p. 215. Ricardo means presumably that the increased income can be saved and invested instead of being immediately consumed.
+
+[357393] Principles, Ist ed., p. 462. Ricardo would not have disputed this. Cf. Principles, Works, 260: “One set of necessaries and conveniences admits of no comparison with another set; value in use cannot be measured by any known standard; it is differently estimated by different persons.”
+
+[357678] In a limiting case, where under constant cost conditions the relative prices of all the various commodities would be the same under free trade as their relative costs of production at home, import duties could still be restrictive of import without affecting the amount of the national real income, the distribution of the national money income, or the relative prices of different commodities.
+
+[358074] The theory of international trade, 1936, pp. 193–95.
+
+[358128] “We know the nature of the gain [from trade]: it consists in extending the range of our satisfactions, and in cheapening the cost at which such as in its absence would not be beyond our reach are obtained; and we know that the amount which it brings to us under each of these categories cannot but be very great; but beyond this indefinite and vague result our data do not enable us to pass.” (Some leading principles of political economy, 1874, p. 421.)
+
+[358584] Mill first presented his analysis in Essay 1 of his Essays on some unsettled questions of political economy, written in 1829–30, when he was twenty-three years of age, but not published until 1844. He reproduced it, with extensions, but also with important omissions, in the first edition (1848) of his Principles of political economy, bk. iii, chap. xviii, “Of international values.” Edgeworth could not find terms of praise too high for this chapter; it was a “great chapter” (Papers relating to political economy, 1925, II, 7), a “stupendous chapter” (ibid., II, 10, 20), and an exposition of the general theory which was “still unsurpassed” (ibid., II, 20). Graham, on the other hand, declares that it presents doctrine which is “in its essence fallacious and should be discarded.” —“The theory of international values,” Quarterly journal of economics, XLVI (1932), 581.
+
+[359460] Graham's heaviest criticisms are directed against Mill's alleged error in assuming that the conclusions derived from this simplified case had general validity. Cf. supra, pp. 453–54.
+
+[359644] Mill does not seem to have used this term, whose first use is commonly attributed to Torrens.
+
+[359739] Cf. Mill, Principles, Ashley ed., p. 592:
+
+[359782] The law ... may be appropriately named the equation of international demand. It may be concisely stated as follows. The produce of a country exchanges for the produce of other countries at such values as are required in order that the whole of her exports may exactly pay for the whole of her imports. This law of international values is but an extension of the more general law of value, which we called the equation of supply and demand.
+
+[360223] J. L. Shadwell, A system of political economy, 1877, p. 406.
+
+[360285] “Theory of international values,” Quarterly journal of economics, XLVI (1932), 606.
+
+[360370] Bastable, Theory of international trade, 4th ed., 1903, p. 180.
+
+[360435] J. S. Mill to Cairnes, June 23, 1869, The letters of John Stuart Mill, H. S. R. Elliot ed., 1910, II, 207. (Italics in the original text.) Mill's reasoning here is clear enough, and sound enough, if it is remembered that, like all the earlier English economists, Mill distinguished in his thinking, even if not in his terminology, between “demand” as a quantity actually taken at a particular price and “demand” as a schedule of quantities which would be taken at different prices.
+
+[360918] Principles, Ashley ed., pp. 585–88, 594–95.
+
+[360963] Cf. Edgeworth, “On the application of mathematics to political economy,” Journal of the Royal Statistical Society, LII (1889), 557, fig. 3, for a similar demonstration by means of a Marshallian diagram.
+
+[361167] The differences in the methods of constructing Marshall's and my curves do not call for differences in the elasticity formulae, if the same symbols are used to represent the same variables in the two diagrams. In both diagrams each curve can be regarded either as a demand curve or as a supply curve, each with a distinct elasticity coefficient. There will thus be a total of four elasticities. Write X for the total amount of E-goods, Y for the total amount of G-goods, the subscripts E and G for the countries England and Germany respectively, y = Y/X for the price of E-goods in G-goods, and 1/y = X/Y for the price of G-goods in E-goods. Then if eDE is the elasticity of English “demand” or willingness to buy German goods, eSE is the elasticity of English willingness to sell English goods, eDG is the elasticity of German willingness to buy English goods, and eSG is the elasticity of German willingness to sell German goods, then:
+
+[362106] The demand elasticity and the supply elasticity of each country are of course closely related to each other, as they are but different aspects of the same phenomenon. The relationship between the two elasticities for England can readily be shown:
+
+[362354] Similarly,
+
+[362366] When the coefficient of demand elasticity of a country is unity, therefore, thecoefficient of its supply elasticity is zero. In the text, reciprocal-demand curves are referred to as “elastic” if the coefficient of their demand elasticity is numerically greater than unity and of their supply elasticity is algebraically greater than zero and as “inelastic” if the coefficient of their demand elasticity is numerically smaller than unity and of their supply elasticity is algebraically smaller than zero.
+
+[362871] Although expressed in different terms, this usage corresponds to Marshall's use of the terms “elastic” and “inelastic” in connection with his reciprocal demand curves. (Cf. Marshall, Money credit & commerce, pp. 337–38, note.)
+
+[363099] Mill, Principles, Ashley ed., pp. 596–604.
+
+[363143] Cf. Marshall, Money credit & commerce, p. 354, note 3.
+
+[363199] Cf. letter from Marshall to Cunynghame, June 28, 1904; “As to international trade curves:—mine were set to a definite tune, that called by Mill.” (Memorials of Alfred Marshall, A. C. Pigon ed., 1925, p. 451.)
+
+[363409] Marshall's analysis is available in his The pure theory of foreign trade (printed for private circulation in 1879, reprinted in 1930), and his Money credit & commerce (published in 1923, though in the main written much earlier), bk. III, and appendices H and J.
+
+[363672] The pure theory of foreign trade, p. 2.
+
+[363713] Marshall, Money credit & commerce, p. 178.
+
+[363757] Graham, “The theory of international values,” Quarterly journal of economics, XLVI (1932), 601.
+
+[363854] Cf., supra, p. 539, note II, and Marshall, loc. cit., p. 342.
+
+[363917] Cf. Money credit & commerce, p. 343, fig. 12.
+
+[363964] F. Y. Edgeworth, “The pure theory of international trade,” in Papers relating to political economy, 1925, II, 31–40 (first published in Economic journal, 1894, in substantially the same form).
+
+[364158] Papers, II, 32.
+
+[364175] His diagram is drawn on too small a scale to make this certain, but the absence of any statement to the contrary in his text and the fact that in all his other diagrams his reciprocal demands are drawn curvilinear from their point of origin warrants this interpretation.
+
+[364447] Cf. supra, chart X, p. 468, for a terms-of-trade diagram drawn with reference to these considerations.
+
+[364551] Edgeworth states that if production is not under conditions of constant cost, “there should be substituted for the straight line OS (and mutatis mutandis for OT) a curve of constant advantage, or indifference-curve (not shown in the figure) representing states for which the advantage to England is no greater than if there had been no trade.” (Papers, II, 33.) He must mean a curve representing states for which the importation of an additional unit of the G-good by country E would be no more advantageous than its production at home, if this curve is to be the analogue for variable costs of his OS line. In chart XV, OS is not a “no-gain from trade” curve, but is a curve of “no-gain from import as compared to domestic production of the G-good.” If country E were to export more than OL units of E-goods at the
+
+[365368] terms—or even on terms more favorable to itself—it might be incurring a loss from undue specialization of the sort discussed in the preceding chapter. (See supra, p. 451.) The location in the chart of a “no-gain from trade” curve requires knowledge of the utility functions as well as of the cost conditions. It would never fall below the OS line (or, in the case of variable costs, the OS' curve) and would never rise as high as the OE curve. (See infra, p. 572.) I have inserted in chart XV a “no-gain from import as compared to domestic production of the G-good” curve, OS', applicable to conditions of increasing costs. At any point, b, on OS', the slope with respect to OX of a tangent to OS' at that point represents the number of units of G-goods which could be produced at home by country E at a cost equal to the cost of producing a unit of E-goods in addition to what would be its output of E-goods if it was exporting Od E-goods in exchange for db G-goods. (The slope with respect to OX of the tangent to OE at a represents the number of units of G-goods per unit of E-goods in which country E would be willing to export Od units of E-goods.) Since production is under conditions of increasing cost, the number of units of the G-good which country E could produce at the same cost as an additional unit of the E-good will be greater, the greater its output of E-goods. As OS' is drawn concave upward in chart XV, it is implicitly assumed that increased export of E-goods involves increased output of E-goods, i.e., that as more E-goods are exported, the domestic consumption of E-goods decreases, if at all, by a smaller amount than the increase in exports. The OS' curve must be drawn below the OE curve at all points, and the identity of the two curves from O to C in chart XV is an error. Since in country E, for each output of E-goods corresponding to a given export by it of E-goods, its relative marginal costs of production of E-goods and G-goods must correspond to its supply-price of E-goods in terms of G-goods, a tangent to the OS' curve at any point must be parallel to a vector drawn from O to the vertically corresponding point on the OE curve. This excludes the possibility of identity of the two curves for any part of their course.
+
+[367629] “The theory of international values re-examined,” Quarterly journal of economics, XXXVIII (1923), and “The theory of international values,” ibid., XLVI (1932).
+
+[367790] Supra, pp. 453 ff. and 536 ff.
+
+[367822] “Theory of international values re-examined,” loc. cit., p. 86.
+
+[367887] “Theory of international values,” loc. cit., pp. 583–84.
+
+[367945] The nearest approach to this proposition that I have found in the literature is the following, by Haberler: “Marshall employs ... so-called reciprocal supply-and-demand curves. This theory forms an essential supplement to the theory of comparative costs; indeed, the latter, if carried through to its logical conclusion, merges into the former.” (The theory of international trade, 1936, p. 123.)
+
+[368343] Marshall, Money credit & commerce, p. 171.
+
+[368387] Edgeworth, Papers, II, 33. The sentence placed in parentheses appears in the original as a footnote.
+
+[368489] Cf., for instance, Graham's illustration (“Theory of international values re-examined,” loc. cit., p. 76) and the accompanying text, where it is assumed “that before international trade is opened up, each country devotes one third of its resources to each of the three products, and that each increases its consumption of the three products proportionately as it secures gains from international trade” (p. 70) even though important changes in relative prices are assumed to take place. With the additional information given as to the economic size of the countries, their cost conditions, and the prices within each country before trade, Graham is justified in his claim that the data given suffice to determine within narrow limits the equilibrium terms of trade when foreign trade is opened up. But he fails to substantiate his claim that it is the cost conditions alone which determine the terms of trade. If the cost conditions are left unchanged but his utility assumptions altered, the equilibrium terms of trade can be changed, within broad limits, in whatever degree and direction is desired.
+
+[369592] The same criticism applies to the interpretation given by C. F. Whittlesey—“Foreign investment and the terms of trade,” Quarterly journal of economics, XLVI (1932), 449, 459—of results similar to Graham's obtained from arithmetical illustrations involving similar assumptions.
+
+[369870] Whereas Graham criticizes the writers in the classical tradition for minimizing the influence of comparative costs on the terms of trade, Angell criticizes them for their alleged belief that comparative costs “in themselves alone, provide a sufficient a prior explanation of the course and terms of trade.” (Angell, Theory of international prices, 1926, pp. 371–73.)
+
+[370238] Cf. “Theory of international values,” loc. cit., p. 604: “If both demand schedules were elastic, movements in the terms of trade must necessarily be small.”
+
+[370396] Graham, “Theory of international values,” loc. cit., pp. 582–83. (Italics are in the original.)
+
+[370493] Ibid., p. 583.
+
+[370509] Cf. A. C. Pigou, Essays in applied economics, 1930, p. 150:
+
+[370570] The value of imports in general in terms of exports in general is a notion of exactly the same sort as the value of things in general in terms of money. No precise significance can be given to this notion, and no completely satisfactory measure of changes in it can be devised.
+
+[370849] I.e., of what I call the “double factoral terms of trade.” See infra, p. 561.
+
+[370928] Cf. Ricardo, Notes on Malthus, pp. 70 ff.
+
+[370971] Ibid., p. 76.
+
+[370986] Essays on some unsettled questions, 1844, p. 27.
+
+[371036] See supra, pp. 537 ff.
+
+[371060] Cf. Taussig, International trade, 1927, pp. 117–18.
+
+[371113] W. S. Jevons, The theory of political economy, 1871, p. 136. Cf. Edgeworth, Papers, II, 22: “It is a more serious complaint that Mill takes as the measure of the advantage which a country derives from trade, the increase in the rate of exchange of its exports against its imports. He thus confounds ‘final’ with ‘integral’ utility; ignoring the principle of ‘consumer's rent.’” Cf. also ibid., “On the application of mathematics to political economy,” Journal of the Royal Statistical Society, LII (1889), 558: “To measure the variations in the advantage accruing from trade by the variations of price—or more generally rate of exchange—is a confusion which could hardly have occurred to the mathematical economist.”
+
+[371831] I.e., the excess of the total utility accruing from imports over the total sacrifice of utility involved in the surrender of exports.
+
+[371966] Jevons, op. cit., p. 138.
+
+[371993] This reverses Taussig's procedure, where a rise in the index indicates an unfavorable movement of the terms of trade. No question of principle is involved, but it seems to me to be more convenient to represent favorable movements of the indices by rising indices. The formulae which follow are so constructed that a movement of any element in the formula favorable to the country in question operates to raise the index, and vice versa.
+
+[372431] If, when the technical coefficients of production of the exports were falling, a fall was also occurring in the actual or potential technical coefficients of home production of the import commodities, the single factoral terms of trade would send to exaggerate the trend of gain from trade by treating as a gain from trade a gain from improvement in productivity which was not dependent upon foreign trade for its realization.
+
+[372859] “Average” and not “marginal” because, whatever changes occur, in each equilibrium situation the utility of the marginal unit of what is surrendered through export will tend to be equal, on the usual “representative individual” assumptions, to the utility of what is obtained in exchange for that marginal unit. What is really significant is the effect on total utility of foreign trade, and the terms of trade index is brought closer to a total utility index if provision is made in it for changes in average relative desirability.
+
+[373392] The commodities whose domestic production is forgone as the result of the allocation of productive resources to production for export may be (1) the same in kind as those exported, or (2) the same as those imported, or (3) different from both. In the second case, the ratio of relative desirability of import and “forgone” commodities will, of course, always be unity, and the incorporation of a relative desirability index in the terms-of-trade index will then have no effect on the latter.
+
+[373885] Cf. N. W. Senior, Three lectures on the value of money, 1840, p. 66: “the demand in Europe and Asia for thé produce of Mexican labor having increased, the results of a given quantity of Mexican labor would command in exchange the results of a larger quantity of European and Asiatic labor than before.” Cf. also R. Torrens, The budget, 1841–44, p. 28: “Where any particular country imposes import duties upon the productions of other countries, while those other countries continue to receive her products duty free, then such particular country draws to herself a larger proportion of the precious metals, maintains a higher range of general prices than her neighbors, and obtains, in exchange for the produce of a given quantity of her labor, the produce of a greater quantity of foreign labor.”
+
+[374684] Cf. F. W. Taussig, International trade, pp. 113–14.
+
+[374737] The only cleat-cut cases would be losses through defaults on trade debts, through shipwreck, or through seizure of goods by a belligerent in time of war.
+
+[374892] Taussig points out some of these limitations in the gross barter terms of trade index when computed from statistics of commodity trade alone. Cf. ibid., pp. 119, 254. Cf. also Viner, “Die Theorie des auswärtigen Handel” in Die Wirtschaftstheorie der Gegenuart, II (1928), 121ff.; White, The French international accounts, 1933. pp. 238–41; Haberler, Theory of international trade, 1936, pp. 161 ff.
+
+[375292] Cf. R. F. Harrod, International economics, 1933, pp. 32 ff., where this point is emphasized.
+
+[375386] Principles, Ashley ed., p. 585.
+
+[375419] Cournot, Revue sommaire des doctrines économiques, 1877, pp. 210 ff.
+
+[375489] Cf., however, the comments of Edgeworth (Papers relating to political economy, 1925, II, 22, note) and Bastable (Theory of international trade, 4th ed., 1903, p. 44, note) on Cournot's criticism of Mill.
+
+[375694] Cf. supra, p. 472.
+
+[375714] See, however, Roland Wilson, Capital imports and the terms of trade, 1931, Chap. V, for a discussion of this problem.
+
+[375833] I.e., should the formula used in constructing the index of the commodity terms of trade of the borrowing country be
+
+[375950] or
+
+[375954] Cf. Roland Wilson, op. cit., p. 53, note.
+
+[375997] Roland Wilson (Capital imports and the terms of trade, 1931, pp. 98–100) discusses the type of index number to be used, but without reference to the influence of capital borrowings on the nature of the bias to be expected in the price indices according to the method of weighting used. He argues that when the world prices of Australia's imports are rising, Australians will tend to increase in relatively greatest degree their imports of those commodities which rise least in price. (Ibid.) This would be a valid presumption if the changes in relative prices were due primarily to the indirect effects on money costs abroad of capital movements or were due to relative changes in the world demands for the different commodities in which changes Australia did not participate, but it would not be a valid presumption if the relative changes in import prices were due primarily to relative changes in world demands in which changes Australia did participate.
+
+[376956] Marshall, Money credit & commerce, 1923, pp. 160–63, 338–40.
+
+[377018] Chart XVI is a slightly simplified reproduction of Marshall's fig. 9, ibid., p. 339.
+
+[377104] The above is Marshall's exposition (ibid., p. 339) reproduced verbatim except for the modifications made necessary by my modification of his chart and except for a few minor verbal changes in the interest of clarity.
+
+[377322] Allyn Young, “Marshall on consumer's surplus in international trade,” Quarterly journal of economics, XXXIX (1924), 144–50. The main theme of this article, however, was not the validity of the consumer's-surplus notion, which was discussed only incidentally, but some apparent errors in computation in Marshall's arithmetical illustration.
+
+[377663] Ibid., p. 149.
+
+[377679] Ibid., p. 150.
+
+[377695] And, it should be noted, taking account simultaneously of “producer's rent,” which the domestic-trade theory concept does not do.
+
+[377826] In the consumer's-surplus concept, as modified here, it is true, however, that with every change in the amount of surplus measured in G-bales as we move along the OG curve from O, there occurs a change in the average utility significance of a G-bale if no change has meanwhile occurred in G's utility functions. What the direction of this change will be will depend on the elasticity of the OG curve, i.e., on whether a movement along the OG curve from O (and therefore an increase of surplus) is associated with an increase or a decrease in the amount of G-bales expected.
+
+[378401] “The pure theory of international values,” in Papers relating to political economy, 1925, II, 31–47 (first published in Economic journal, 1894).
+
+[378547] Edgeworth, Mathematical psychics, 1881, pp. 115–16.
+
+[378600] In an earlier essay, Edgeworth had dealt graphically with the determination of the amount of gain or consumer's surplus accruing from trade before and after a disturbance (in this case an import duty, presumably a revenue duty, levied by the country, Germany, whose gain is being measured). He uses for Germany not only its reciprocal-demand curve, but also a “no-gain from trade” curve, which he calls a “collective utility curve,” and measures the gain from trade for Germany by the distance at the equillibrium point between the German “no-gain from trade” curve and the German reciprocal-demand curve. His construction is free, therefore, from the objection made above against Marshall's procedure of identifying the reciprocal-demand curve with a total-utility curve. I believe that Edgeworth's procedure here and mine in chart XVII, p. 573, supra, amount to the same thing.—Edgeworth, “On the application of mathematics to political economy,” Journal of the Royal Statistical Society, LII (1889), 555–60.
+
+[379612] Edgeworth does not himself direct attention to this aspect of his results. Cf., however, infra, pp. 580–81.
+
+[379721] This is diagram I in Edgeworth's fig. 4, Papers, II, 37.
+
+[379779] Ibid., p. 34. Edgeworth points out that disturbances of the type labeled H by him and disturbances of the type h require a different graphical procedure where OE, or country E's reciprocal-demand curve, is inelastic, but not when OE is elastic. In chart XVIII, OE is elastic, so that this chart is according to Edgeworth applicable to both types of disturbances. (Ibid., p. 38.)
+
+[380159] Ibid., p. 36.
+
+[380174] Edgeworth, papers, II, 22.
+
+[380202] Cf. ibid., p. 39, fig. 6.
+
+[380229] Cf. ibid., pp. 38, 71–72. Edgeworth remarks: “It is not contended that the exception is of any practical importance.” (ibid., p. 72.)
+
+[380364] Alfred Marshall, The pure theory of foreign trade [1879], reprint 1930, p.I: cf. also ibid., Money credit & commerce, p. 157:
+
+[380491] Thus money, even when firmly hased on gold, does not afford a good measure of international values, and it does not help to explain the changes in these values, which are caused by broad variations in international demand; but on the country it diaguiscs and concenls them. For it measures changes in values by standards which are aatomatically modified by the very variations in international demand, the effects of which are to be measured(Italics are in original.)
+
+[380960] Cf. the excellent statement by Haberler, Theory of international trade, 1936, p. 154:
+
+[381047] The material difference between the two types of curves is that the Marshallian [foreign-trade] curves give a complete picture, showing the final result of the whole international trade mechanism, and relate to representative bales, while the ordinary [domestic-trade] curves relate to the money prices of an individual commodity, upon the assumption that other things remain equal and in particular that all other prices remain the same, so that they can give only a partial picture ...” (Italics are is original.)
+
+[381564] See H. Cunynghame, A geometrical political economy, 1904, p. 97. (But cf. ibid., pp. 114 ff.)
+
+[381659] See also T.O. Yntema, A mathematical reformulation of the general theory of international trade, 1932, pp. 47–50. In a footnote (ibid., p. 48) Yntema concedes that the foreign trade curves which he derives from domestic demand and supply curves in terms of money may not be equivalent to Marshall's reciprocal demand curves:
+
+[381985] This derivation is based on the assumption that the import demand price on its fixed-height schedule is a function only of quantity imported and that the export supply price on its fixed height schedule is a function only of quantity exported. Marshall's comments on the interdependence of import demand and export supply seem to refer not to a functional interrelation of fixed-height schedules but to the interdependence which arises out of the necessity of balancing international debits and credits. Where a functional relation between fixed-height schedules does exist, Marshall's curves are still applicable, but they cannot be derived from their component elements by two-dimensional graphs.
+
+[382685] The “fixed-height schedules” referred to here are supply and demand schedules of two commodities in terms of adjusted money prices. Marshall nowhere explains the derivation of his reciprocal-demand curves from the complex factors operating within each economy. As Edgeworth comments: “A movement along a supply-and-demand curve of international trade should be considered as attended with rearrangements of internal trade; as the movement of the hand of a clock corresponds to considerable unseen movements of the machinery” (Papers, II, 32). Marshall allowed the operations of the internal machinery to remain imseen, but since his reciprocal-demand curves relate to two “commodities” taken as constituting the entire range of commodities, it seems necessary to assume that Marshall would not have regarded the demand functions and the supply functions of these respective commodities within each country as independent functions.
+
+[383618] Cf., however, J. W. Angell, The theory of international prices, 1926, p. 454: “First, the assumptions on which the [Marshallian foreign-trade] curves are based, and the limitations to which they are subject, are precisely the same as for composite demand and supply curves of the more familiar sort [i.e., the ordinary domestic-trade theory curves?]. The preference for them is based simply on their greater advantage, for certain purposes, as a graphic device.” Cf. also, ibid., pp. 456–57: “The curves also prmit an easy measurement of the direct benefits from trade....
+
+[384192] A. Cournot, Recharches sur les principes mathématiques de la théorie des richesses, 1838, pp. 173–81; Principes de la théorie des richesses, 1863, pp.316–24; Revue sommaire des doctrines kconomiques, 1877, pp.196–213.
+
+[384411] Cournot, Recherches, 1838. My subsequent references are to the translation by N.T. Bacon: Researches into the mathématical principles of the theory of wealth, 1927, pp. 150–57.
+
+[384589] Attempts have been made to explain this by the argument that Cournot is assuming that no increase takes place in the production of other commodities, i.e., that the values (2) and (4) above are therefore eliminated, and the gain (3) is offset by a corresponding reduction in the domestic consumption of other commodities than M. This interpretation has been made, by Hagen and by others, the basis for a rejection of Cournot's argument on the ground that it makes an unwarranted assumption that the productive resources released from the production of M will find no other employment. By Angell (Theory of international prices, p. 245), the only writer who finds sense and significance in Cournot's thesis, it is made the basis for a defense of the validity of Cournot's argument within the limits of his assumptions. But Cournot, in reply to Hagen, expressly rejects this interpretation and claims that his method of computation gives full consideration to any income resulting from a transfer to other employments of the resources released from the production of M. (Cournot, Principes, 1863, pp. 329–30; Revue sommaire, 1877, pp. 193–95, 205.) The only explanation I can offer, for which there seems some warrant in Cournot's exposition, is that Cournot held that since the change in the price of M and in the money income of producers of M would affect the price and the incomes of the producers of any other one commodity only to a negligible extent, it was permissible to assume that the prices and the incomes of producers in country B of other commodities than M would remain unaltered, i.e., it was permissible to ignore items (3), and (4) above. (See Cournot, Researches, pp. 130–32.) But this would be equivalent to saying that if the contents of a large tank of water were allowed to spread thinly over a great area, because at any one point the amount of water would be negligible, therefore the amount of water over the entire area could reasonably be regarded as negligible as compared to the amount of water originally in the tank.
+
+[386638] Cf. Edgeworth, Papers relating to political economy, 1925, II, 47–51; Bastable, Theory of international trade, 4th ed., 1903, pp. 173–75; A. Landry, Manuel d'économique, 1908, pp. 838–39; Irving Fisher, “Cournot and mathematical economics,” Quarterly journal of economics, XII (1898), 130–32.
+
+[386932] Revue sommaire, 1877, p. 209.
+
+[386963] H. Cunynghame, A geometrical political economy, 1904, pp. 48 ff. See especially his fig. 51, ibid., p. 98, and compare it with the Barone diagrams referred to later in the text.
+
+[387142] Enrico Barone, Grundzüge der theoretischen Nationalökonomie (German translation by Hans Staehle of the original Italian edition of 1908), 1927, pp. 101 ff. Barone does not refer to Cunynghame.
+
+[387336] Cf. Barone, Grundzüge, fig. 30, p. 102, and fig. 32, p. 105.
+
+[387398] England at this price would consume CA, but would supply TA from her own production.
+
+[387484] Germany at this price would produce AF, but would consume AE herself.
+
+[387555] Ibid., p. 105. Barone, however, had earlier stated that his diagrams deal with the problem “nicht in endgültig korrekter Weise” (ibid., p. 102), but without indicating the nature of their shortcomings.
+
+[387758] An algebraic formula introduced in 1904 by A. C. Pigon, applied statistically by Henry Schultz in 1928, and receiving authoritative acceptance today as the “correct method” of determining the effect of duties on prices and domestic output, is essentially an algebraic application of the Cunynghame-Barone graphical analysis. Frovided the method is used only to trace the effect on the price of a particular commodity of a change in the duty on that commodity, all other related circumstances meanwhile remaining substantially unchanged, it probably produces fairly reliable results, and does seem to me to be superior to other methods commonly used. The method would become seriously questionable, however, if applied to trace the effect on price of a substantial change in duty on a major commodity or group of commodities, since some of the factors supposed to be remaining unchanged in the caeteris paribus pound would then actually be undergoing substantial change and these changes would react on the price of the commodity in question. The method would be even more suspect if it purported to serve as a means of measuring the amount of gain or loss to a country resulting from a tariff change, whether the change was a major or a minor one. For the nature of the formula, and an account of the literature relating to it, see Henry Schultz, “Correct and incorrect methods of determining the effectiveness of the tariff,” Journal of form economics, XVII (1935), 625–41. Schultz makes clear that the results of the use of this formula become questionable if “the effect of the tariff on the prices of other commodities and on the balance of international payments [are] too great to be neglected” (ibid., p. 641), which is certain to be the case when the tariff changes are major ones.
+
+[389549] R. Auspitz and R. Lieben, Untersnchungen über die Theorie des Preises, 1889, pp. 408–29. Cf. the comments of Edgeworth, Papers relating to political economy, II, 58–60.
+
+[389719] Papers relating to political economy, II, 5.
+
+[389765] Political Economy Club, Minutes of proceedings, VI (1921), 291.
+
+[389830] Theory of international trade, 4th ed., 1903, p. 12, note.
+
+[389890] The ability of labor freely to choose its occupation and the ability of entrepreneurs, whatever their occupation, to hire labor at uniform rates are, of course, different, though related, concepts. Both are significant for the doctrine of comparative real costs, but only the latter is relevant for the theory of mechanism.
+
+[390215] The principles of political economy, 2d ed., 1887, p. 216.
+
+[390275] J. H. Williams, “The theory of international trade reconsidered,” Economic journal, XXXIX (1929), especially pp. 205–09. It has conspicuously failed to do so in his own case. Cf. his Argentine international trade under inconvertible paper money 1880–1900, 1920.
+
+[390538] “The theory of international trade reconsidered,” loc. cit. p. 203.
+
+[390607] This is a list of titles of works cited in the text (including the footnotes). In order to save space, a member of titles to which references of minor importance only are made are here omitted, and where a number of different items in the collected works of an author have been used, the items contained in such works are not listed here separately. Where a date is enclosed in square brackets, it represents, unless otherwise indicated, the date of first publication. Place of publication is not given for periodicals, and for other works is given only if it is not London. Since there is little overlapping between the two lists, separate listing is given for the titles cited in the first two chapters and for those cited in the remainder of the book.
