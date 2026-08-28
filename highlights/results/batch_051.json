@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "virgil-aeneid-659242",
+    "picks": [
+      {"id": "c00", "style": "roman epic invocation, lyre and low drone, resonant male recitation, stately, processional", "why": "The most famous opening in Latin literature, complete from first line to the founding of Carthage."},
+      {"id": "c10", "style": "ancient mediterranean art song, kithara and soft flute, hushed tenor, gentle, questing", "why": "The doves guiding Aeneas to the golden bough — pure image, a prayer, and a journey in one passage."},
+      {"id": "c20", "style": "latin funeral lament, muted horn and low strings, grieving baritone, slow, keening", "why": "Evander over the body of Pallas: the strongest self-contained lament in the poem."}
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-stichus-f04107",
+    "picks": [
+      {"id": "c22", "style": "roman comic drinking song, double pipes, hand drum, two rowdy male voices, brisk, tipsy", "why": "Two rival slaves sharing one cup and one girl — 'I am you, you are I' is the line the play is remembered for."},
+      {"id": "c21", "style": "tavern patter song, plucked lyre and wooden clappers, wry male voice, quick, sly", "why": "Nuts, beans, figs, olives and a Samian jug: concrete, funny, and a whole philosophy of means in eight lines."}
+    ]
+  },
+  {
+    "slug": "lady-mary-wortley-montagu-poems-da0614",
+    "picks": [
+      {"id": "c13", "style": "georgian parlour lament, harpsichord and viol, clear soprano, slow, bitter", "why": "Flavia after the smallpox — 'Beauty is fled, and dress is now no more' — her best-known and most unsparing passage."},
+      {"id": "c05", "style": "baroque love complaint, continuo and solo violin, expressive soprano, rubato, intimate", "why": "A complete love complaint built on rising verbs: 'I sigh, I faint, I tremble at your touch.'"},
+      {"id": "c20", "style": "witty georgian ballad, spinet and light strings, arch mezzo voice, trotting, comic", "why": "Trochaic ballad stanzas prescribing a lover as medicine for the spleen — already half a song."}
+    ]
+  },
+  {
+    "slug": "samuel-whyte-poems-14a16f",
+    "picks": [
+      {"id": "c00", "style": "georgian nocturne elegy, chamber strings and low flute, plaintive tenor, slow, hushed", "why": "'Tis night, dead night' — a whole nocturne of stilled forest, glow-worm and sleeping village, in clean quatrains."},
+      {"id": "c09", "style": "graveyard ballad, solo guitar and cello, low male voice, mournful, unhurried", "why": "Ends on the epitaph itself: 'He lov'd, believ'd, and was undone.'"},
+      {"id": "c18", "style": "pastoral ode with refrain, flute and harpsichord, light tenor, lilting, rueful", "why": "The bee ranging flower to flower, with a genuine four-line refrain to sing back."}
+    ]
+  },
+  {
+    "slug": "samuel-wesley-poems-9dff34",
+    "picks": [
+      {"id": "c00", "style": "grand baroque hymn, chapel organ and trumpet, full choir, broad, exalted", "why": "'Author of Being, Source of Light' — a hymn opening that names the god by every name and still holds together."},
+      {"id": "c09", "style": "solemn passion hymn, sparse organ and low strings, dark male choir, slow, grave", "why": "'Behold the Saviour of Mankind' — Wesley's best-known hymn, with the temple veil tearing at its centre."},
+      {"id": "c13", "style": "psalm paraphrase, gallery choir with viols, warm mixed voices, moderate, consoling", "why": "Psalm 116 in ballad metre: death encompassing round, then release — a complete arc."}
+    ]
+  },
+  {
+    "slug": "eduard-bernstein-cromwell-and-communism-socialism-6028c4",
+    "picks": [
+      {"id": "c00", "style": "seventeenth century english protest ballad, fiddle and bodhran, rough unison male chorus, driving, defiant", "why": "The Diggers' Song itself — built on a shouted refrain, made to be sung by a crowd."},
+      {"id": "c01", "style": "levelling folk hymn, hurdy-gurdy and hand drum, mixed rustic voices, steady, rising", "why": "'Brave Community When Vallies lye levell with Mountains' — the vision song of the English radicals."}
+    ]
+  },
+  {
+    "slug": "john-alexander-gunn-modern-french-philosophy-a-study-6b06ab",
+    "picks": [
+      {"id": "c00", "style": "contemplative art song, solo piano and cello, restrained baritone, slow, meditative", "why": "Only candidate; a chain of epigraphs on freedom and fate that reads as a coherent lyric."}
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-de-astrologia-016c38",
+    "picks": [
+      {"id": "c00", "style": "greek oracular chant, lyre and aulos, single male voice, sparse, incantatory", "why": "Only candidate; an oracle dividing wedlock from war between the gods — short but whole."}
+    ]
+  }
+]

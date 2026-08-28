@@ -1,0 +1,44 @@
+[
+  {"slug": "plautus-titus-maccius-captivi-b87441",
+   "picks": [
+     {"id": "c15", "style": "roman stage aria, lyre and low tibia, steady noble tenor, measured, defiant, rising", "why": "The slave who took his master's place refusing to recant: he who dies for virtue's sake still does not perish."},
+     {"id": "c10", "style": "latin comic patter, hand drum and pipes, fast aggrieved male voice, brisk, rueful, rattling", "why": "The parasite's failed dinner-hunt — not one of them would even grin with his teeth."},
+     {"id": "c17", "style": "swaggering comic boast song, brass-bright pipes and drums, big blustering voice, driving, mock-martial", "why": "My fist is a balista, my arm is my catapulta, my shoulder a battering-ram."}
+   ]},
+  {"slug": "plutarch-de-facie-quae-in-orbe-lunae-appa-15ffab",
+   "picks": [
+     {"id": "c09", "style": "mystery-rite chant, lyre and soft drum, hushed male voice, slow, mysterious, incantatory", "why": "Ceres on earth and Persephone in the moon, seeking one another and embracing in shadow."},
+     {"id": "c10", "style": "orphic hymn, drone and plucked strings, grave voice, slow, ethereal, receding", "why": "Daemons descending to guard oracles, and the soul that, once parted from the mind, flies quick away like a dream."},
+     {"id": "c08", "style": "contemplative chant, low strings and single flute, calm male voice, unhurried, wondering", "why": "If we only saw the sea from far off we would disbelieve its monsters — so with the inhabitants of the moon."}
+   ]},
+  {"slug": "william-mason-poems-ec0935",
+   "picks": [
+     {"id": "c23", "style": "melancholy english ode, fortepiano and viola, soft tenor, slow, hushed, twilight", "why": "Leave me, my friend — the hollow gust, the little weeping rill, and twilight waving her banners grey."},
+     {"id": "c21", "style": "aeolian harp air, sustained strings and harp harmonics, airy female vocal, drifting, delicate", "why": "Yes, magic lyre — a song addressed to the instrument itself, sent as a gift to sing for someone else."},
+     {"id": "c14", "style": "pastoral lament, cello and recorder, low male voice, slow, aggrieved, flowing", "why": "The stream forced into cascades and pent in a basin — lost is the vocal pebble's gurgling song."}
+   ]},
+  {"slug": "thomas-edwards-poems-e02caa",
+   "picks": [
+     {"id": "c00", "style": "renaissance-style art song, lute and viol, warm baritone, gentle, formal, welcoming", "why": "The inscription for the root-house: bring here no heart that swells with ambition or burns with lawless love."},
+     {"id": "c12", "style": "chamber elegy, solo piano and cello, quiet tenor, slow, bare, aching", "why": "The family picture — nine brothers and sisters gone, and the survivor left like a single standing column."},
+     {"id": "c07", "style": "graveside song, plain guitar and low fiddle, unhurried male voice, sober, tender", "why": "The sonnet to the gravedigger whose spade will make the poet's bed — near, but not in, the church."}
+   ]},
+  {"slug": "nicholas-herbert-poems-4a3988",
+   "picks": [
+     {"id": "c03", "style": "18th century satirical ballad, harpsichord and pizzicato strings, arch narrating voice, brisk, pointed", "why": "Reputation's parting instruction: if we are ever separated, mourn me as dead, for I am never found again."},
+     {"id": "c05", "style": "pastoral idyll, recorder and light strings, sweet mid-range voice, lilting, tender", "why": "The two sparrows dipping their bills together, the twig bending under their weight."},
+     {"id": "c06", "style": "fable song with a turn, strings and oboe, warm voice darkening, moderate, shadowed", "why": "Pure joy, poor mortals seldom find; her footman, Sorrow, waits behind — the hinge of the whole fable."}
+   ]},
+  {"slug": "petronius-arbiter-fragments-267825",
+   "picks": [
+     {"id": "c01", "style": "roman satiric fragment song, lyre and hand drum, dry sardonic male voice, sparse, wry, unsettled", "why": "The vulture at the liver read as envy itself, plus the old woman soaked in wine with trembling lips."}
+   ]},
+  {"slug": "francis-bacon-the-advancement-of-learning-b404cd",
+   "picks": [
+     {"id": "c00", "style": "latin gnomic chant, low drone and plucked lyre, unison male voices, slow, sententious, austere", "why": "Only candidate: a string of Latin maxims that reads as a litany, ending on fugit irreparabile tempus."}
+   ]},
+  {"slug": "st-george-william-joseph-a-guide-to-stoicism-720b0e",
+   "picks": [
+     {"id": "c00", "style": "greek epitaph song, single lyre, light rueful male voice, short, wry, plain", "why": "Philetas of Cos, killed by the Liar paradox and the sleepless nights it cost him — a joke epitaph that sings."}
+   ]}
+]

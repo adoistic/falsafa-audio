@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "euripides-heracleidae-9c65ba",
+    "picks": [
+      {
+        "id": "c13",
+        "style": "ancient greek tragic monody, lyre and soft aulos, clear female voice, grave, slow, farewell cadence",
+        "why": "Macaria's farewell — yielding her bridal bloom to die for her brothers, asking only to be remembered with a fair burial."
+      },
+      {
+        "id": "c18",
+        "style": "ancient greek chorus, aulos and frame drums, layered male voices, defiant, processional, building",
+        "why": "'O earth, and moon that shines by night' — the chorus calling the whole sky to witness a city that will not surrender suppliants."
+      }
+    ]
+  },
+  {
+    "slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+    "picks": [
+      {
+        "id": "c07",
+        "style": "gentle urdu nazm, sitar and bansuri, soft tabla, warm male vocal, nostalgic, unhurried",
+        "why": "The Age of Childhood — 'My mother's lap, a universe for me' — a built-in refrain, then the moon watched for hours."
+      },
+      {
+        "id": "c05",
+        "style": "urdu hymn, harmonium and strings with tanpura drone, resonant male vocal, majestic, slow build",
+        "why": "The hymn to the Sun as soul of the world, binding the scattered leaves of time and space — pure invocation."
+      },
+      {
+        "id": "c13",
+        "style": "urdu nazm, sarangi and harmonium, tender male vocal, luminous, moderate",
+        "why": "Nature's gifts parcelled out — burning to the moth, light to the firefly, a tongue to the rose, crimson robes to the dawn."
+      }
+    ]
+  },
+  {
+    "slug": "thomas-lisle-poems-d6a267",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "georgian drawing-room air, harpsichord and strings, light tenor, wry, dancing, moderate",
+        "why": "An Excuse for Inconstancy — Susan as the moon, Charlotte as the sun, and a defence delivered with a straight face."
+      },
+      {
+        "id": "c09",
+        "style": "english narrative ballad, acoustic guitar and low strings, baritone, stormy, steady, building",
+        "why": "The prince lost in the night storm who spots a far light and doubts it is a star — a whole song's worth of suspense."
+      }
+    ]
+  },
+  {
+    "slug": "john-dalton-poems-98baf0",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "georgian ode, chamber strings and horns, baritone with chorus, ceremonious, mid-tempo",
+        "why": "'Welcome to light, advent'rous pair!' — the return from the mines, with its own returning refrain of light and air."
+      },
+      {
+        "id": "c06",
+        "style": "pastoral folk ballad, acoustic guitar and flute, warm female vocal, unhurried, flowing",
+        "why": "The address to the Borrowdale brook — 'O soft insinuating glide, silent along the meadow's side' — with lilies resting on its breast."
+      }
+    ]
+  },
+  {
+    "slug": "william-ward-poems-01b7bd",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "18th century satirical song, harpsichord and pizzicato strings, brisk baritone, sly, dance-like",
+        "why": "The gaming table at night — dice rattling in the box, the table groaning, every bosom beating with hope or fear."
+      },
+      {
+        "id": "c10",
+        "style": "georgian love song, lute and viol, gentle tenor, intimate, slow",
+        "why": "The morning that first showed her — 'I gaz'd with Rapture, yet chastiz'd with Awe: So the First Man descending Angels saw'."
+      }
+    ]
+  },
+  {
+    "slug": "henrietta-st-john-knight-poems-f6c109",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "english winter song, spinet and viola da gamba, plaintive soprano, sparse, cold, slow",
+        "why": "Frozen brooks and pathless vales keeping the lovers apart, and the pining bird on the leafless tree — a song already in quatrains."
+      },
+      {
+        "id": "c01",
+        "style": "pastoral air, baroque flute and harpsichord, light soprano, bright, moderate",
+        "why": "The bulfinch's payoff — a well-gilt cage and faded plumes for a tune dearly bought, against fields where birds fly unfettered."
+      }
+    ]
+  },
+  {
+    "slug": "franz-oppenheimer-the-state-a06f2f",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "medieval german ballad, hurdy-gurdy and frame drum, gruff male voice, stomping, martial, mid-tempo",
+        "why": "The knight's boast of spear, sword and bull-hide shield, then the road-robber's cheerful advice to take to the greenwood."
+      }
+    ]
+  },
+  {
+    "slug": "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "german lied, solo piano, warm baritone, simple, tender, slow",
+        "why": "Only candidate, and it closes on a line worth singing: hearts never link unless the linking springs from your own."
+      }
+    ]
+  }
+]

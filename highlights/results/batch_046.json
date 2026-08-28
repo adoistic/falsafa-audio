@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "unknown-angirasa-smrti-2bf9d1",
+    "picks": [
+      {
+        "id": "c11",
+        "style": "sanskrit devotional chant, tanpura drone, dholak, warm male voice with brief female response, slow, mythic, spacious",
+        "why": "The cucumber comes down from Kailāsa with folded hands and asks Brahmā 'What is my destiny?' — a whole small myth in a few lines."
+      },
+      {
+        "id": "c03",
+        "style": "vedic recitation, deep drone, hand cymbals, low male chant, very slow, reverent, sparse",
+        "why": "A single syllable of the Veda outweighing all the endless names of Hari — one clean, repeatable idea with a chant's own logic."
+      },
+      {
+        "id": "c10",
+        "style": "sanskrit narrative chant, tanpura, tabla, mid-range male voice, measured, gently wondrous",
+        "why": "Brahmā weighing vegetables against each other on a cosmic balance is a concrete, strange, memorable image."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-cistellaria-3f92d2",
+    "picks": [
+      {
+        "id": "c03",
+        "style": "roman comic canticum, tibia double pipe, lyre, bright bittersweet duet of male and female voices, moderate, playful then rueful",
+        "why": "'Love is most fruitful both in honey and in gall' — the line the play is quoted for, and it stands alone."
+      },
+      {
+        "id": "c01",
+        "style": "latin stage lament, low tibia, plucked lyre, wry alto voice, unhurried, sardonic, intimate",
+        "why": "A sustained speech in one voice on the contempt of respectable women for courtesans — self-contained, angry, human."
+      }
+    ]
+  },
+  {
+    "slug": "hannah-cowley-poems-76f581",
+    "picks": [
+      {
+        "id": "c11",
+        "style": "georgian art song, fortepiano, chamber strings, bright soprano, graceful, quickening, ardent",
+        "why": "A complete lyric: love kindled by wit alone, for a face never seen — light, witty, immediately singable."
+      },
+      {
+        "id": "c13",
+        "style": "18th century english parlour song, harpsichord, flute, clear female voice, elegant, moderate",
+        "why": "'The Pen' entire — Apollo's quill dipped in Aonia's wave, fallen from Cupid's wing; a small myth with real momentum."
+      },
+      {
+        "id": "c00",
+        "style": "sentimental gothic ballad, harp, low strings, dramatic mezzo, slow, declamatory, candlelit",
+        "why": "The opening invocation calls its listeners by name and dismisses the rest — a natural song's opening address."
+      }
+    ]
+  },
+  {
+    "slug": "janet-little-poems-df0dac",
+    "picks": [
+      {
+        "id": "c12",
+        "style": "scots folk song, fiddle and bothy accompaniment, wry female voice, brisk, conversational, sly",
+        "why": "The milkmaid poet answering the sneer at a milkmaid printing poems — her most quoted and most alive verse."
+      },
+      {
+        "id": "c19",
+        "style": "scots reel, fiddle, bodhran, communal voices with a lead female singer, lively dance tempo, warm",
+        "why": "The cushion dance, the bolster, 'Fu' sweet that night' — a built-in refrain and a room full of people."
+      },
+      {
+        "id": "c20",
+        "style": "scots blessing song, small pipes, guitar, plain warm female voice, unhurried, kindly",
+        "why": "A traveller's blessing that ends in cakes, scones and kebbucks — concrete nouns and a benediction shape."
+      }
+    ]
+  },
+  {
+    "slug": "polybius-histories-672821",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "ancient greek threnody, lyre, low frame drum, solemn male voice with distant chorus, very slow, elegiac",
+        "why": "Scipio weeping at burning Carthage and quoting Homer on the fall of Troy — the most famous moment in the Histories."
+      },
+      {
+        "id": "c02",
+        "style": "martial epic recitation, war drums, aulos, layered declamatory male voices, driving then falling away",
+        "why": "Hannibal's last dispositions at Zama, closing on 'Though great and brave has met a greater still'."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-adversus-coloten-ac70d8",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "presocratic philosophical hymn, kithara, sustained drone, grave male voice, slow, austere, ritual",
+        "why": "Empedocles in verse: there is no Nature and no death, only mixture and its undoing."
+      },
+      {
+        "id": "c01",
+        "style": "greek didactic chant, plucked lyre, low male voice with answering chorus, measured, stern",
+        "why": "'Fools, and of little thought' — a direct address to the reader with real bite and a clean argument."
+      }
+    ]
+  },
+  {
+    "slug": "vitruvius-pollio-on-architecture-f22b40",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "arcadian pastoral epigram, pan pipes, small harp, light tenor, easy walking tempo, sunlit with a dark turn",
+        "why": "A goatherd's warning at a spring that cures madness and knocks your teeth out — comic, concrete, complete."
+      }
+    ]
+  },
+  {
+    "slug": "plato-cratylus-ebc166",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "ancient greek hymn, bowed lyre, sparse frame drum, layered low voices, very slow, hieratic",
+        "why": "Hesiod's golden race become guardian spirits under the earth — short, whole, and hymn-shaped."
+      }
+    ]
+  }
+]

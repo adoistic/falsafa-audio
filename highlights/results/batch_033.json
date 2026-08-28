@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "aeschylus-seven-against-thebes-68587f",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "archaic greek chorus, aulos and krotala, agitated female voices overlapping, urgent, driving",
+        "why": "The panic at the walls — \"Do you hear the clash of shields?\" — short breathless lines built for a chorus in flight."
+      },
+      {
+        "id": "c10",
+        "style": "martial greek chant, deep frame drums and horn, low male voices, ominous, heavy tread",
+        "why": "Hippomedon spinning his shield: Typhon breathing dark smoke, the rim braided with snakes, the warrior raving like a maenad."
+      },
+      {
+        "id": "c19",
+        "style": "greek dirge, bowed lyre over a low drone, unison voices, slow, final",
+        "why": "\"Their hatred has ceased... now truly their blood is one\" — the iron from across the sea divides the brothers' estate. A closed lament."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-bacchides-b7eafe",
+    "picks": [
+      {
+        "id": "c12",
+        "style": "roman comic canticum, double pipe and plucked lyre, brash male voice, fast patter, swaggering",
+        "why": "The clever slave's manifesto — with rogues a rogue, with thieves a thief, wise enough to shift his very skin."
+      },
+      {
+        "id": "c07",
+        "style": "mock-tragic patter song, tibia and hand drum, indignant declaiming voice, quick, exasperated",
+        "why": "\"Open and throw back this gate of hell\" — Bacchis and Bacchanals, sisters who suck the blood of men. A complete comic tirade."
+      },
+      {
+        "id": "c18",
+        "style": "burlesque epic recitation, lyre and drum, boastful male voice, strutting, mock-heroic",
+        "why": "Chrysalus casting himself as Agamemnon and Ulysses and the old man as Troy — the play's most famous conceit, self-explaining."
+      }
+    ]
+  },
+  {
+    "slug": "ovid-ars-amatoria-36e617",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "latin elegiac song, lyre and light hand percussion, wry seductive male voice, easy ambling tempo",
+        "why": "The proem: art guides the chariot, art instructs to love — and Cupid as a child to be schooled like Achilles under Chiron."
+      },
+      {
+        "id": "c05",
+        "style": "roman love song, cithara and soft flute, coaxing tenor, patient, sinuous",
+        "why": "\"Water is soft and marble hard, and yet we see soft water through hard marble eat\" — persuasion by accumulation, made of proverbs."
+      },
+      {
+        "id": "c11",
+        "style": "satirical roman air, plucked strings and tabor, sardonic voice, brisk, cutting",
+        "why": "\"This is the golden age, all worship gold\" — and Homer himself turned out of doors for arriving without a present."
+      }
+    ]
+  },
+  {
+    "slug": "amelia-opie-poems-eeda95",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "english narrative ballad, harp and fiddle, storytelling mezzo voice, steady gait, foreboding",
+        "why": "The Warrior's Return — Sir Walter home from the Holy Land with a strangely bloodied sword. Pure ballad, and it hooks in four stanzas."
+      },
+      {
+        "id": "c09",
+        "style": "island lament, solo female voice over sparse frame drum and low strings, desolate, slow",
+        "why": "\"Hail, lonely shore! hail, desert cave!... For what can misery do but die?\" — a song by title and by build."
+      },
+      {
+        "id": "c15",
+        "style": "regency parlour song, fortepiano and cello, bright soprano, buoyant, teasing",
+        "why": "Trochaic welcome-home stanzas that turn into a claim: fame is dear to you, but don't prefer it again to home and me."
+      }
+    ]
+  },
+  {
+    "slug": "john-delap-poems-113b20",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "graveyard-school elegy, viola and chamber organ, low measured male voice, slow, grey-lit",
+        "why": "Sleep refusing to come, then dawn over the flowering thorn and the miners whistling out to the pit. A complete elegiac opening."
+      },
+      {
+        "id": "c10",
+        "style": "18th century pastoral elegy, harpsichord and strings, plaintive tenor, moderate, wistful",
+        "why": "Insects sipping the rainbow shower against the dart that found its entrance near the heart before the poet was twenty-two."
+      }
+    ]
+  },
+  {
+    "slug": "horace-carmen-saeculare-525e9c",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman processional hymn, lyre and double aulos, mixed choir of boys and girls, stately, bright, ceremonial",
+        "why": "The opening invocation of Phoebus and Diana — this is literally a hymn commissioned to be sung by a chorus."
+      },
+      {
+        "id": "c02",
+        "style": "antiphonal hymn, two answering choirs of boys and girls, kithara and soft drum, alternating, solemn",
+        "why": "Boys to Apollo, girls to the Moon — the structure of the stanza is already a call and response."
+      },
+      {
+        "id": "c03",
+        "style": "roman triumph hymn, trumpets and lyre, full choir, broad, radiant, rising",
+        "why": "Faith, Peace, Honour and Modesty daring to return, and Plenty appearing with her full horn — the ode's great turn."
+      }
+    ]
+  },
+  {
+    "slug": "plato-laws-948029",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "archaic epic recitation, single lyre, grave male voice, sparse, unhurried",
+        "why": "Only candidate, but it carries the Cyclopes lines: no halls of council and no laws, each man aloft in his cave making his own law."
+      }
+    ]
+  },
+  {
+    "slug": "scriptores-historiae-aug-maximini-duo-ea7251",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman soldiers' marching chant, stamping feet and low drum, gruff male voices in unison, blunt, repetitive",
+        "why": "Only candidate, and it is already a chant — elephant, lion, tiger, all killed; beware the many if you do not fear the few."
+      }
+    ]
+  }
+]

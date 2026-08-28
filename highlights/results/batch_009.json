@@ -1,0 +1,136 @@
+[
+  {
+    "slug": "ausonius-decimus-magnus-eclogarum-liber-e5c07a",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "late antique gnomic chant, plainchant over a soft drone, weary male voice, slow, questioning, sparse",
+        "why": "'What path of life shall I follow' — every trade and every age indicted in turn, and none of them bearable."
+      },
+      {
+        "id": "c04",
+        "style": "riddling incantation, plucked lyre and small bell, low measured voice, unhurried, mounting, mythic",
+        "why": "The ladder of long lives — crow over man, stag over crow, raven, phoenix, and the nymphs above them all."
+      },
+      {
+        "id": "c02",
+        "style": "stoic hymn, bowed strings and held drone, calm grave voice, slow, level, polished",
+        "why": "The good man as a sphere of the universe, smooth and round, so nothing external can settle on him."
+      }
+    ]
+  },
+  {
+    "slug": "quintus-smyrnaeus-the-fall-of-troy-49a5ab",
+    "picks": [
+      {
+        "id": "c17",
+        "style": "greek tragic lament, aulos and frame drum, raw keening female voice, slow, wailing, unresolved",
+        "why": "Hecuba over Polyxena — 'Achilles even in death still warms his heart with our blood'."
+      },
+      {
+        "id": "c15",
+        "style": "epic apparition song, lyre and low drone, warm ghostly male voice, slow, tender, counselling",
+        "why": "The dead Achilles standing over his son's head to bless and instruct him — an entire farewell in one speech."
+      },
+      {
+        "id": "c12",
+        "style": "processional lament, layered female voices over low drone, slow, heavy, tidal",
+        "why": "The captive Trojan women driven to the ships, and Helen alone not weeping, only burning with shame."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-pseudolus-ad34cb",
+    "picks": [
+      {
+        "id": "c14",
+        "style": "roman comic complaint, reed pipe and hand drum, put-upon boyish voice, quick, grumbling, patter",
+        "why": "The slave boy's solo lament — servitude under a pimp, and a birthday present he cannot pay for."
+      },
+      {
+        "id": "c10",
+        "style": "theatrical patter song, tibia and clacking percussion, sly conspiratorial voice, brisk, winking, direct-address",
+        "why": "Pseudolus turning to the audience: he does not yet know how he will do it, only that it shall be done."
+      },
+      {
+        "id": "c07",
+        "style": "comic abuse chorus, double pipe and clappers, trading voices, fast, escalating, gleeful",
+        "why": "A ladder of insults answered by the pimp agreeing with every one, capped by 'a capital chorus'."
+      }
+    ]
+  },
+  {
+    "slug": "susanna-blamire-poems-69c0be",
+    "picks": [
+      {
+        "id": "c20",
+        "style": "scots lament, solo fiddle and small harp, plain unadorned female voice, very slow, bare, grieving",
+        "why": "'My waefu' heart lies low wi' his' — a widow's song complete in itself, no ornament anywhere."
+      },
+      {
+        "id": "c22",
+        "style": "scots comic strophic song, fiddle and bodhrán, bright sardonic female voice, brisk, dancing, refrain-driven",
+        "why": "Tibby Fowler rich and pestered — 'but 'cause I'm rich these plaguy men' comes back every stanza."
+      },
+      {
+        "id": "c21",
+        "style": "cumbrian dialect ballad, concertina and fiddle, warm old female voice, unhurried, fond, conversational",
+        "why": "The widow remembering Willy throwing her a daisy over the wall, and 'nea pleace was leyke his awn heame'."
+      }
+    ]
+  },
+  {
+    "slug": "john-wesley-poems-176469",
+    "picks": [
+      {
+        "id": "c18",
+        "style": "methodist hymn, chapel organ and unaccompanied congregation, massed voices, steady, awed, swelling",
+        "why": "'Lo God is here! Let us adore' — built for a congregation, with the angel choirs answering the stammering tongue."
+      },
+      {
+        "id": "c01",
+        "style": "german pietist hymn, harmonium and low strings, longing solo voice, slow, inward, aching",
+        "why": "'I groan, I strive, I watch, I pray: but ah! how soon it dies away' running into 'Thou hidden Love of God'."
+      },
+      {
+        "id": "c23",
+        "style": "revival hymn, hand-clapped rhythm and open-air voices, fervent male voice, driving, defiant, rousing",
+        "why": "'All hail, Reproach, and welcome Pain!' — the missionary's whole nerve in four lines."
+      }
+    ]
+  },
+  {
+    "slug": "joseph-giles-poems-17ca2e",
+    "picks": [
+      {
+        "id": "c06",
+        "style": "english winter air, guitar and recorder, gentle tenor, unhurried, hearth-warm, small",
+        "why": "The robin hopping over the threshold to peck crumbs, the one singer left when the rest have gone silent."
+      },
+      {
+        "id": "c00",
+        "style": "passing-bell elegy, tolling bell and low strings, solemn baritone, slow, arresting, spacious",
+        "why": "'Hark! — what a mournful solemn sound' — the bell itself is the refrain and the whole occasion."
+      },
+      {
+        "id": "c08",
+        "style": "graveside air, viola and harp, clear soprano, slow, tender, valedictory",
+        "why": "'Like those she bloom'd, and ah! like these she fell' — roses and lilies made to say the whole epitaph."
+      }
+    ]
+  },
+  {
+    "slug": "scriptores-historiae-aug-gordiani-tres-5fb2a3",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman prophetic dirge, low strings and struck bronze, grave male voice, slow, fated, hollow",
+        "why": "Only candidate, but it carries the Marcellus lines the old emperor sang over his own son — shown to the earth and no longer."
+      }
+    ]
+  },
+  {
+    "slug": "cicero-marcus-tullius-letters-to-his-brother-quintus-7b02ec",
+    "picks": []
+  }
+]

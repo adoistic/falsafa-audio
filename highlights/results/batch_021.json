@@ -1,0 +1,136 @@
+[
+  {
+    "slug": "euripides-medea-73521b",
+    "picks": [
+      {
+        "id": "c18",
+        "style": "ancient greek tragic lament, plaintive aulos and low lyre with drone, solo female voice, slow, keening, darkening",
+        "why": "The farewell to the children — 'the sweet embrace, the soft young cheek, the fragrant breath' — is the play's heart and needs no context."
+      },
+      {
+        "id": "c07",
+        "style": "ancient chorus, kithara and frame drum, layered female voices in unison, incantatory, striding, defiant",
+        "why": "'Back to their source the holy rivers turn their tide' — a world-reversal ode that opens with the line everyone remembers."
+      },
+      {
+        "id": "c10",
+        "style": "greek choral threnody, lyre and reed pipe, massed voices, mournful, hymn-like, unhurried",
+        "why": "'O my country, O my own dear home!' — a clean exile lament with a natural refrain shape."
+      }
+    ]
+  },
+  {
+    "slug": "euripides-iphigenia-in-aulis-cf6371",
+    "picks": [
+      {
+        "id": "c07",
+        "style": "ancient greek chorus, phrygian reed pipes and lyre, layered female voices, pastoral opening turning ominous, moderate sway",
+        "why": "Paris piping among the white heifers of Ida — a pastoral image that turns into the cause of a war, all in one breath."
+      },
+      {
+        "id": "c18",
+        "style": "greek tragic monody, solo young female voice, sparse aulos and soft kithara, free rhythm, plaintive, fading",
+        "why": "Iphigenia's monody: the snow-beat glen, the fountains of the Nymphs, hyacinths and rose-buds — grief rendered entirely as landscape."
+      },
+      {
+        "id": "c23",
+        "style": "processional greek narrative chant, low lyre and frame drum, declamatory male voice with choral answers, solemn, steadily building",
+        "why": "The messenger's account of the girl offering her own neck — the single most famous moment in the play."
+      }
+    ]
+  },
+  {
+    "slug": "joseph-addison-poems-ca1079",
+    "picks": [
+      {
+        "id": "c11",
+        "style": "baroque martial ode, natural trumpets and full strings, commanding tenor, stately, grand, processional",
+        "why": "Contains Addison's most quoted lines — the angel who 'Rides in the Whirl-wind, and directs the Storm'."
+      },
+      {
+        "id": "c21",
+        "style": "english baroque ode, harpsichord and viol consort, clear countertenor, surging, awestruck, quickening",
+        "why": "A deluge in tetrameter quatrains — 'All Nature's floating Ruins ride' — already shaped like a hymn stanza."
+      },
+      {
+        "id": "c01",
+        "style": "sacred oratorio chorus, organ and trumpets, massed voices, majestic, thunderous, slow build",
+        "why": "The last trump and the graves conceiving; 'kindred Atoms rally into Men' is a startling image for 1700."
+      }
+    ]
+  },
+  {
+    "slug": "robert-lloyd-poems-5d9a71",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "english pastoral art song, flute and harpsichord, clear soprano, nocturnal, unhurried, moonlit",
+        "why": "A proper invocation — 'All hail! majestic Queen of Night' — opening a nocturne that stands alone."
+      },
+      {
+        "id": "c02",
+        "style": "18th century fairy dance-song, pizzicato strings and tambourine, light bright voices, quick, tripping, mischievous",
+        "why": "Fairies 'beating the pansie-paven ground in frolic measures round and round' — the rhythm is already a dance."
+      },
+      {
+        "id": "c07",
+        "style": "georgian pastoral ballad, acoustic guitar and fiddle, plain tenor, lilting triple time, wistful",
+        "why": "Complete ballad stanzas ending on a clean farewell to the maiden — singable as written."
+      }
+    ]
+  },
+  {
+    "slug": "thomas-seward-poems-c8b5af",
+    "picks": [
+      {
+        "id": "c09",
+        "style": "georgian ode of encouragement, chamber strings and harpsichord, bright soprano, rising, stately, hopeful",
+        "why": "'Be ever rising, rise thou ne'er so high' — the argument for a woman's learning at its most direct and lifted."
+      },
+      {
+        "id": "c17",
+        "style": "italianate 18th century canzonetta, harpsichord and pizzicato strings, dry wry tenor, brisk, light-footed",
+        "why": "The veteran showing his scars and the freed galley-slave showing his shackles — a witty song with a real sting."
+      },
+      {
+        "id": "c12",
+        "style": "english baroque love song, lute and viola da gamba, plaintive countertenor, slow, cool, aching",
+        "why": "Warm Italian valleys, then pale sunbeams on everlasting snow — one clean simile for a woman's coldness."
+      }
+    ]
+  },
+  {
+    "slug": "william-somervile-poems-e4a6e8",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "english pastoral art song, cello and guitar, warm baritone, unhurried, contemplative, evening",
+        "why": "The pensioned sailor safe ashore, meditating on 'his great voyage, to the world unknown' — a quiet, complete ending."
+      },
+      {
+        "id": "c04",
+        "style": "18th century drinking song, boisterous strings and hand drum, rowdy male voice with chorus, fast, swaggering, refrain-driven",
+        "why": "'Haste away, haste away, lash thy tigers do not stay' — a built-in refrain and a genuine bacchic pulse."
+      },
+      {
+        "id": "c03",
+        "style": "georgian pastoral song, flute and harpsichord, sweet soprano, flowing, tender",
+        "why": "A whole small song: the paradise catalogued, then dismissed the moment she appears."
+      }
+    ]
+  },
+  {
+    "slug": "samuel-smiles-self-help-5f53da",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "victorian parlour hymn, upright piano and fiddle, plain earnest male voice, steady march, resolute",
+        "why": "Only candidate available; 'the virtue lies in the struggle, not the prize' and Burns's 'glorious privilege of being independent' carry it."
+      }
+    ]
+  },
+  {
+    "slug": "epictetus-discourses-233756",
+    "picks": []
+  }
+]

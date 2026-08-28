@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "aeschylus-eumenides-66c6fd",
+    "picks": [
+      {"id": "c08", "style": "ancient greek chorus, lyre, frame drum, layered low female voices, incantatory refrain, dark, driving", "why": "The Furies' binding hymn, with its own repeated refrain — a curse-song that names itself a song."},
+      {"id": "c12", "style": "ancient chorus, kithara, hand drum, unison voices with solo lead, solemn, measured", "why": "The gnomic chorus on fear and wisdom under strain — self-contained and quotable."},
+      {"id": "c22", "style": "ancient blessing chant, double aulos, lyre, warm women's chorus, slow, luminous, benedictory", "why": "The Furies turned to blessing: wind, buds, flocks, fruit — a fertility benediction that stands alone."}
+    ]
+  },
+  {
+    "slug": "william-dodd-poems-a7c3a0",
+    "picks": [
+      {"id": "c03", "style": "georgian art song, harpsichord and strings, plaintive tenor, stately, elegiac", "why": "The reversal at its heart — the shouted prince now a slave unknown — a complete arc in one passage."},
+      {"id": "c18", "style": "english oratorio aria, baroque strings, chamber organ, dramatic soprano, surging, storm-tossed", "why": "Hope watching from the top-mast over a drowned ship: one sustained, vivid image."},
+      {"id": "c23", "style": "gallant parlour song, fortepiano, light soprano, graceful, lilting", "why": "The moss rose-bud verses — light, anapestic, addressed to a flower; the most singable thing here."}
+    ]
+  },
+  {
+    "slug": "john-pomfret-poems-70be05",
+    "picks": [
+      {"id": "c00", "style": "english baroque air, harpsichord, viol consort, warm baritone, measured, pastoral", "why": "The famous opening of The Choice — a whole life wished for in plain, memorable couplets."},
+      {"id": "c01", "style": "english consort song, lute and bass viol, low male voice, unhurried, valedictory", "why": "The close of The Choice: a quiet death, few tears, and the line all men would wish to live and die like me."},
+      {"id": "c12", "style": "stoic hymn, chamber organ, solemn baritone, slow, resolute", "why": "What is death, we so unwisely fear — honour against disgrace, stated cleanly."}
+    ]
+  },
+  {
+    "slug": "charlotte-lennox-poems-16d8a7",
+    "picks": [
+      {"id": "c05", "style": "georgian pastoral lullaby, fortepiano, flute, clear soprano, gentle, hushed", "why": "A sleep-song to gales and streams — a true lyric, already shaped as a song."},
+      {"id": "c19", "style": "english parlour song, harpsichord, expressive mezzo, intimate, confiding", "why": "In vain I strive with female art — a compact self-contained song about a blush that betrays."},
+      {"id": "c21", "style": "chamber air, fortepiano and viola, warm female vocal, conversational, tender", "why": "The friendship idyll ending on Plato's sacred page, uncommon to our sex and age — striking and quotable."}
+    ]
+  },
+  {
+    "slug": "aristophanes-thesmophoriazusae-d8a38a",
+    "picks": [
+      {"id": "c03", "style": "greek revel chorus, aulos, frame drum, hand claps, ecstatic mixed voices, fast, whirling", "why": "The Dionysus dance-chorus with its euhoe refrain and echoing mountains — built to be sung and danced."},
+      {"id": "c05", "style": "ancient invocation hymn, lyre and aulos, women's chorus, torchlit, stately, rising", "why": "The call to Pallas and the Thesmophoroi — a clean, complete invocation."}
+    ]
+  },
+  {
+    "slug": "aeschines-against-ctesiphon-d768ac",
+    "picks": [
+      {"id": "c01", "style": "ancient elegiac epigram, kithara, solemn male chorus, slow, martial, commemorative", "why": "The inscribed epigrams for Menestheus and the band from Phyle — carved verse that stands on its own."}
+    ]
+  },
+  {
+    "slug": "plutarch-de-se-ipsum-citra-invidiam-lauda-5bda18",
+    "picks": [
+      {"id": "c00", "style": "epic recitation, lyre drone, declamatory male voice, stately, heroic", "why": "Only candidate; it is at least Homeric verse in Pope-like couplets rather than argument."}
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-dipsades-7479bb",
+    "picks": [
+      {"id": "c00", "style": "greek satirical air, lyre, dry tenor, wry, spare, moderate tempo", "why": "Only candidate; the Danaids' cask forever filling and never full is a real image."}
+    ]
+  }
+]

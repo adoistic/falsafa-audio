@@ -1,0 +1,60 @@
+[
+ {
+  "slug": "p-vergilius-maro-virgil-eclogues-87e240",
+  "picks": [
+   {"id": "c08", "style": "latin oracular pastoral, panpipes, lyre, low drone, clear male voice, slow, prophetic, widening", "why": "The Fourth Eclogue: the last age of the Sibyl's song, the golden race returning, untilled earth pouring out gifts. The most famous passage in Latin pastoral."},
+   {"id": "c19", "style": "incantation song, hand drum, plucked lyre, drone, close female voice, hypnotic, insistent refrain", "why": "Built on a repeating refrain — draw Daphnis home — with baneful herbs, a man turned wolf, ashes thrown over the shoulder. A spell already shaped as a song."},
+   {"id": "c02", "style": "pastoral lament, single shepherd's pipe, sparse strings, weathered male voice, unhurried, aching", "why": "The exile's farewell to his fields and goats, ending on my songs are sung — the emotional centre of Eclogue 1."}
+  ]
+ },
+ {
+  "slug": "plautus-titus-maccius-casina-4c7bf9",
+  "picks": [
+   {"id": "c02", "style": "roman comic love-patter, tibia pipes, plucked lyre, tambourine, leering male voice, quick, gleeful", "why": "A cascade of absurd endearments — my sparrow-chick, my dove, my leveret — sung at a rival locked behind bars."},
+   {"id": "c19", "style": "roman wedding procession, double aulos, torch-lit drums, shouted refrain, festive, striding", "why": "Ends on the actual hymenaeal cry, piper and torch and all: Io Hymen hymenaee!"},
+   {"id": "c10", "style": "comic soliloquy song, solo lyre, dry male voice, mid-tempo, rueful, deadpan", "why": "The slave who reasons himself out of hanging because rope costs money — a complete self-contained joke."}
+  ]
+ },
+ {
+  "slug": "sidonius-apollinaris-letters-727be6",
+  "picks": [
+   {"id": "c00", "style": "late antique epitaph chant, low male voices, bare drone, no percussion, very slow, grave", "why": "A whole verse epitaph: swift savage death, and a woman held together by qualities men think discordant."},
+   {"id": "c01", "style": "latin ekphrastic hymn, plainchant with organum, soft bells, luminous, slow, echoing", "why": "The church of light — sun straying over gilded panels, sapphire stone bending through leek-green glass."},
+   {"id": "c14", "style": "late roman banquet song, lyre, aulos, hand drum, warm mixed voices, mid-tempo, sensuous", "why": "A catalogue of the feast in short lines — crocus, cassia, marigolds, balsam, lamps raised into the vault. Pure rhythm and concrete nouns."}
+  ]
+ },
+ {
+  "slug": "joanna-baillie-poems-dfa2df",
+  "picks": [
+   {"id": "c22", "style": "welsh folk air, harp, soft fiddle, gentle male voice, lilting, unhurried", "why": "A finished song with a returning line: no sheep, no boat, no coin, yet the Maid of Llanwellyn smiles sweetly on me."},
+   {"id": "c17", "style": "scots folk song, fiddle and small pipes, bright female voice, brisk, teasing, dance-lilt", "why": "The wooer-at-e'en refrain drives the whole thing, and the Scots is broad, funny and singable."},
+   {"id": "c00", "style": "english pastoral ballad, acoustic guitar, low strings, warm alto, slow, homely, wintry", "why": "The cock on the roost and the ploughman waking from his dream of gold — Baillie's plain domestic realism at its best."}
+  ]
+ },
+ {
+  "slug": "george-bubb-dodington-poems-37232e",
+  "picks": [
+   {"id": "c00", "style": "georgian sacred ode, chamber organ, viols, grave baritone, slow, valedictory", "why": "His deathbed verses to Young: take the muse's latest spark, ere we drop into the dark — then the gulf, and why stand shivering on the shore."},
+   {"id": "c01", "style": "18th-century glee, harpsichord, male trio, jovial, rolling, tavern warmth", "why": "Comus speaking over the goblet — a drinking-room inscription that reads as a toast already set to music."}
+  ]
+ },
+ {
+  "slug": "frances-brooke-poems-3c7e7f",
+  "picks": [
+   {"id": "c02", "style": "georgian retirement ode, flute and harpsichord, clear soprano, graceful, moderate, pastoral", "why": "Keep avarice and ambition far off; give me the branching vine, the woodbine, the evening dew. A complete wish, cleanly turned."},
+   {"id": "c00", "style": "english baroque air, harpsichord, viola da gamba, light soprano, unhurried, bright", "why": "The Lesbian lute laid down for morning air and the verdant lawn — the ode's opening stands entirely on its own."}
+  ]
+ },
+ {
+  "slug": "plutarch-pericles-764eec",
+  "picks": [
+   {"id": "c00", "style": "greek comic anapaests, aulos, hand drum, jeering male chorus, brisk, sardonic", "why": "Hermippus' mocking verses to the king of the Satyrs, gnashing his teeth as if bitten by fiery Cleon."}
+  ]
+ },
+ {
+  "slug": "georgi-plekhanov-anarchism-and-socialism-3fcdf0",
+  "picks": [
+   {"id": "c00", "style": "german romantic lied, dark piano, low baritone, slow, sardonic, ominous", "why": "Mephistopheles' wager in five lines: despise reason, take the lying spirit, and I shall have thee fast and sure."}
+  ]
+ }
+]

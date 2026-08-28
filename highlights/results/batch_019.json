@@ -1,0 +1,96 @@
+[
+ {
+  "slug": "strabo-geography-21ef7e",
+  "picks": [
+   {"id": "c00",
+    "style": "ancient greek epic recitation, kithara, low male voice, modal drone, slow, oceanic, sunlit",
+    "why": "Sunrise on the fields, sunset dragging night behind it, and the Elysian isles where no snow falls — holds one bright image from first line to last."},
+   {"id": "c01",
+    "style": "homeric sea-chant, bowed lyre, hand drum, weathered male voice, rolling, salt-worn, building",
+    "why": "A voyage to the world's edge — Ocean thrice-swallowing, the Aeaean isle, the race the sun refuses to look upon."}
+  ]
+ },
+ {
+  "slug": "euripides-ion-55ef01",
+  "picks": [
+   {"id": "c06",
+    "style": "greek tragedy, solo tenor, aulos and lyre, modal, accusing, gathering intensity",
+    "why": "Ion arraigns his own god: if the gods paid the fine for every lawless love, their temples would stand empty."},
+   {"id": "c10",
+    "style": "ancient chorus, aulos, frame drum, layered female voices, foreboding, slow, hushed",
+    "why": "The stranger in a free city who finds himself tongue-tied, answered by a chorus that already smells the treachery coming."}
+  ]
+ },
+ {
+  "slug": "vatsyayana-the-kama-sutra-of-vatsyayana-f55b41",
+  "picks": [
+   {"id": "c02",
+    "style": "hindustani classical, sarangi, tabla, sensual ornamented female vocal, slow alap then quickening, intimate",
+    "why": "The nail-marks that make old love new again, and the vow that love so answered will not lessen in a hundred years."},
+   {"id": "c10",
+    "style": "dhrupad-tinged raga, tanpura drone, sarod, contemplative male voice, unhurried, austere",
+    "why": "The extent of a woman's love is never known even to its object — cool, unsparing, and beautifully turned."},
+   {"id": "c15",
+    "style": "devotional-erotic raga, bansuri, tanpura, tender duet, slow, closing benediction",
+    "why": "Ends on the book's most quoted line: so long as lips shall kiss and eyes shall see, so long lives This."}
+  ]
+ },
+ {
+  "slug": "helen-maria-williams-poems-8735a3",
+  "picks": [
+   {"id": "c00",
+    "style": "georgian art song, fortepiano, harp, clear soprano, graceful, ode-like, rising",
+    "why": "An invocation of Poetry against the climbing crowd and pale Avarice — a clean, sustained opening ode."},
+   {"id": "c07",
+    "style": "gothic storm ballad, cello, wind-swept strings, dramatic female vocal, turbulent, minor key",
+    "why": "The mourner begs the winds not to spare her: what shelter can despair want but the grave?"},
+   {"id": "c21",
+    "style": "abolitionist hymn, chamber organ, string quartet, earnest mixed choir, hymnal, swelling",
+    "why": "The golden rule imagined as world-law — tyrants learning the luxury to bless, avarice giving unasked."}
+  ]
+ },
+ {
+  "slug": "nathaniel-cotton-poems-076182",
+  "picks": [
+   {"id": "c01",
+    "style": "georgian pastoral minuet, harpsichord, flute, gentle soprano, courtly, serene, lilting",
+    "why": "Solitude as teacher: how short-lived the flowers are, bid me fleeting life despise, make me humble, make me wise."},
+   {"id": "c06",
+    "style": "english parlour hymn, fortepiano, warm baritone with family chorus, hearthside, contented, steady",
+    "why": "Monarchs, we envy not your state — the whole art of living reduced to wanting no more than may suffice."},
+   {"id": "c09",
+    "style": "declamatory art song, solo cello, brooding baritone, recitative, admonitory, stark",
+    "why": "To-morrow is a date found nowhere in the registers of Time except the fool's calendar — blank verse with real bite."}
+  ]
+ },
+ {
+  "slug": "ovid-medicamina-faciei-femineae-9850d0",
+  "picks": [
+   {"id": "c00",
+    "style": "roman elegiac couplets, lyre and tibia, sly warm male vocal, urbane, light, dance-like",
+    "why": "The teasing programmatic opening — art improves nature, gilded roofs over sordid earth, purple on the fleece."},
+   {"id": "c03",
+    "style": "latin love-elegy, cithara, double flute, wry tenor, unhurried, wistful, gentle close",
+    "why": "No philtre turns a river or pulls the moon down; only good humour keeps love's force when age ploughs the brow."}
+  ]
+ },
+ {
+  "slug": "cicero-marcus-tullius-de-senectute-129c39",
+  "picks": [
+   {"id": "c01",
+    "style": "roman stoic lament, solo lyre, low male voice, sparse, grave, long silences",
+    "why": "By living long, sees much he hates to see — and refuses the honour of a tear at his own bier."},
+   {"id": "c00",
+    "style": "ennian declamation, cithara, frame drum, declaiming baritone, solemn, martial undertone",
+    "why": "One man's delay restored the State: the old racehorse resting after the final lap, and the young rebuked."}
+  ]
+ },
+ {
+  "slug": "moses-maimonides-the-guide-for-the-perplexed-6da00a",
+  "picks": [
+   {"id": "c00",
+    "style": "medieval sephardic piyyut, oud, ney, cantorial male voice, modal, prayerful, slow, unmetred",
+    "why": "Three scriptural calls braided into one address — show me the way, I call to the sons of men, bow down thine ear."}
+  ]
+ }
+]

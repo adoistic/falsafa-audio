@@ -1,0 +1,658 @@
+[
+ {
+  "slug": "euripides-andromache-614cb8",
+  "title": "Andromache",
+  "author": "Euripides",
+  "language": "Greek",
+  "genre": "Classics",
+  "era": "Classical",
+  "class": "poetic",
+  "n_windows": 68,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "Andromache:\nO city of Thebes, glory of Asia, whence on a day I came to Priam’s princely home with many a rich and costly thing in my dower, affianced unto Hector to be the mother of his children,\nI Andromache, envied name in days of yore, but now of all women the most unfortunate; for I have lived to see my husband Hector slain by Achilles, and the babe Astyanax, whom I bore my lord, hurled from the towering battlements, when the Hellenes sacked our Trojan home; and I myself am come to Hellas as a slave, though I was esteemed a daughter of a race most free, given to Neoptolemus that island-prince, and set apart for him as his special prize from the spoils of Troy. And here I dwell upon the boundaries of Phthia and Pharsalia’s town, where Thetis erst, the goddess of the sea, abode with Peleus apart from the world, avoiding the throng of men; wherefore the folk of Thessaly call it the sacred place of Thetis, in honour of the goddess’s marriage. Here dwells the son of Achilles and suffers Peleus still to rule Pharsalia, not wishing to assume the sceptre while the old man lives. Within these halls have I born a boy to the son of Achilles, my master."
+   },
+   {
+    "id": "c01",
+    "at": "1:0",
+    "text": "for Peleus and his descendants hold it in honour as a symbol of his marriage with the Nereid. My only son am I secretly conveying to a neighbour’s house in fear for his life. For his sire stands not by my side to lend his aid and cannot avail his child at all, being absent in the land of Delphi, where he is offering recompense to Loxias for the madness he committed, when on a day he went to Pytho and demanded of Phoebus satisfaction for his father’s death, if haply his prayer might avert those past sins and win for him the god’s goodwill hereafter.\nMaid:\nMistress mine, be sure I do not hesitate to call thee by that name, seeing that I thought it thy right in thine own house also, when we dwelt in Troy-land: as I was ever thy friend and thy husband’s while yet he was alive, so now have I come with strange tidings, in terror lest any of our masters learn hereof but still out of pity for thee; for Menelaus and his daughter are forming dire plots against thee, whereof thou must beware."
+   },
+   {
+    "id": "c02",
+    "at": "2:16",
+    "text": "Andromache:\nDost look to that? Thou art disowning thy friends in distress.\nMaid:\nNot so; never taunt me with that. I will go, for of a truth a woman and a slave is not of much account, e’en if aught befall, me.\nAndromache:\nGo then, while I will tell to heaven the lengthy tale of lamentation, mourning, and weeping, that has ever been my hard lot; for’tis woman’s way to delight in present misfortunes even to keeping them always on her tongue and lips. But I have many reasons, not merely one for tears,–my city’s fall, my Hector’s death, the hardness of the lot to which I am bound, since I fell on slavery’s evil days undeservedly.\n’Tis never right to call a son of man happy, till thou hast seen his end, to judge from the way he passes it how he will descend to that other world."
+   },
+   {
+    "id": "c03",
+    "at": "3:6",
+    "text": "Chorus:\nYea, I did pity thee most truly, Trojan dame, when thou earnest to this house; but from fear of my mistress I hold my peace, albeit I sympathize with thee, lest she, whom Zeus’s daughter bore, discover my good will toward thee.\nHermione:\nWith a crown of golden workmanship upon my head and about my body this embroidered robe am I come hither; no presents these I wear from the palace of Achilles or Peleus, but gifts my father Menelaus gave me together with a sumptuous dower from Sparta in Laconia, to insure me freedom of speech. Such is my answer to you;\nbut as for thee, slave and captive, thou wouldst fain oust me and secure this palace for thyself, and thanks to thy enchantment I am hated by my husband; thou it is that hast made my womb barren and cheated my hopes; for Asia’s daughters have clever heads for such villainy;"
+   },
+   {
+    "id": "c04",
+    "at": "5:0",
+    "text": "’Tis not my sorcery that makes thy husband hate thee, nay, but thy own failure to prove thyself his help-meet. Herein lies love’s only charm tis not beauty, lady, but virtuous acts that win our husbands’ hearts. And though it gall thee to be told so, albeit thy city in Laconia is no doubt a mighty fact, yet thou findest no place for his Scyros, displaying wealth’midst poverty and setting Menelaus above Achilles: and that is what alienates thy lord. Take heed; for a woman, though bestowed upon a worthless husband, must be with him content, and ne’er advance presumptuous claims.\nSuppose thou hadst wedded a prince of Thrace, the land of flood and melting snow, where one lord shares his affections with a host of wives, wouldst thou have slain them? If so, thou wouldst have set a stigma of insatiate lust on all our sex."
+   },
+   {
+    "id": "c05",
+    "at": "6:10",
+    "text": "Andromache:\nAlike in Asia and in Hellas infamy attends base actions.\nHermione:\nClever, clever quibbler! yet die thou must and shalt.\nAndromache:\nDost see the image of Thetis with her eye upon thee?\nHermione:\nA bitter foe to thy country because of the death of Achilles.\nAndromache:\n’Twas not I that slew him, but Helen that mother of thine.\nHermione:\nPray, is it thy intention to probe my wounds yet deeper?\nAndromache:\nBehold, I am dumb, my lips are closed.\nHermione:\nTell me that which was my only reason for coming hither."
+   },
+   {
+    "id": "c06",
+    "at": "7:2",
+    "text": "Chorus:\nAh! what sorrows did the son of Zeus and Maia herald, in the day he came to Ida’s glen, guiding that fair young trio of goddesses, all girded for the fray in bitter rivalry about their beauty, to the shepherd’s fold, where dwelt the youthful herdsman all alone by the hearth of his lonely hut.\nChorus:\nSoon as they reached the wooded glen, in gushing mountain springs they bathed their dazzling skin, then sought the son of Priam, comparing their rival charms in more than rancorous phrase. But Cypris won the day by her deceitful promises, sweet-sounding words, but fraught with ruthless overthrow to Phrygia’s hapless town and Ilium’s towers.\nChorus:\nWould God his mother had smitten him a cruel death-blow on the head before he made his home on Ida’s slopes, in the hour Cassandra, standing by the holy bay-tree, cried out, Slay him, for he will bring most grievous bane on Priam’s town. To every prince she went, to every elder sued for the babe’s destruction."
+   },
+   {
+    "id": "c07",
+    "at": "8:0",
+    "text": "Andromache:\nO fame, fame! full many a man ere now of no account hast thou to high estate exalted. Those, indeed, who truly have a fair repute, I count blest; but those who get it by false pretences, I will never allow have aught but the accidental appearance of wisdom. Thou for instance, caitiff that thou art, didst thou ever wrest\nTroy from Priam with thy picked troops of Hellenes? thou that hast raised such a storm, at the word of thy daughter, a mere child, and hast entered the lists with a poor captive; unworthy I count thee of Troy’s capture, and Troy still more disgraced by thy victory.\nThose who only in appearance are men of sense make an outward show, but inwardly resemble the common herd, save it be in wealth, which is their chiefest strength.\nCome now, Menelaus, let us discuss this argument. Suppose I am slain by thy daughter, and she work her will on me, yet can she never escape the pollution of murder, and public opinion will make thee too an accomplice in this deed of blood, for thy share in the business must needs implicate thee. But even supposing I escape death myself, will ye kill my child? Even then, how will his father brook the murder of his child? Troy has no such coward’s tale to tell of him; nay, he will follow duty’s call; his actions will prove him a worthy scion of Peleus and Achilles. Thy daughter will he thrust forth from his house; and what wilt thou say when seeking to betroth her to another? wilt say her virtue made her leave a worthless lord? Nay, that will be false. Who then will wed her? wilt thou keep her without a husband in thy halls, grown grey in widowhood? Unhappy wretch! dost not see the flood-gates of trouble opening wide for thee?"
+   },
+   {
+    "id": "c08",
+    "at": "9:7",
+    "text": "Andromache:\nAh me!’tis a bitter lot thou art offering about my life; whether I take it or not I am equally unfortunate. Attend to me, thou who for a trifling cause art committing an awful crime. Why art thou bent on slaying me? What reason hast thou? What city have I betrayed? Which of thy children was ever slain by me?\nWhat house have I fired? I was forced to be my master’s concubine; and spite of that wilt thou slay me, not him who is to blame, passing by the cause and hurrying to the inevitable result? Ah me! my sorrows! Woe for my hapless country!\nHow cruel my fate! Why had I to be a mother too and take upon me a double load of suffering? Yet why do I mourn the past, and o’er the present never shed a tear or compute its griefs? I that saw Hector butchered and dragged behind the chariot, and Ilium, piteous sight! one sheet of flame, while I was haled away by the hair of my head to the Argive ships in I slavery, and on my arrival in Phthia was assigned to Hector’s murderer as his mistress. What pleasure then has life for me? Whither am I to turn my gaze?"
+   },
+   {
+    "id": "c09",
+    "at": "11:4",
+    "text": "Proclaim it to the world; I do not deny it\nAndromache:\nIs this counted cleverness amongst you who dwell by the Eurotas?\nMenelaus:\nYes, and amongst Trojans too, that those who suffer should retaliate.\nAndromache:\nThinkest thou God’s hand is shortened, and that thou wilt not be punished?\nMenelaus:\nWhene’er that comes, I am ready to bear it. But thy life will I have.\nAndromache:\nWilt likewise slay this tender chick, whom thou hast snatched from’neath my wing?\nMenelaus:\nNot I, but I will give him to my daughter to slay if she will.\nAndromache:\nAh me! why not begin my mourning then for thee, my child?\nMenelaus:"
+   },
+   {
+    "id": "c10",
+    "at": "12:7",
+    "text": "Chorus:\nThis Spartan, the daughter of the great chief Menelaus, proves this; for she hath kindled hot fury against a rival, and is bent on slaying the hapless Trojan maid and her child to further her bitter quarrel. Tis a murder gods and laws and kindness all forbid. Ah! lady, retribution for this deed will visit thee yet.\nChorus:\nBut lo!\nbefore the house I see those two united souls, condemned to die. Alas! for thee, poor lady, and for thee, unhappy child, who art dying on account of thy mother’s marriage, though thou hast no share therein and canst not be blamed by the royal house.\nAndromache:\nBehold me journeying on the downward path, my hands so tightly bound with cords that they bleed.\nMolossus:\nO mother, mother mine! I too share thy downward path, nestling’neath thy wing."
+   },
+   {
+    "id": "c11",
+    "at": "13:20",
+    "text": "Menelaus, hold thy hand. Seek not to outrun justice. To his attendant. Forward! faster, faster! for this matter, methinks, admits of no delay; now if ever would I fain resume the vigour of my youth. First however will I breathe new life into this captive, being to her as the breeze that blows a ship before the wind. Tell me, by what right have they pinioned thine arms and are dragging thee and thy child away? like a ewe with her lamb art thou led to the slaughter, while I and thy lord were far away.\nAndromache:\nBehold them that are haling me and my child to death, e’en as thou seest, aged prince. Why should I tell thee? For not by one urgent summons alone but by countless messengers have I sent for thee. No doubt thou knowest by hearsay of the strife in this house with this man’s daughter, and the reason of my ruin."
+   },
+   {
+    "id": "c12",
+    "at": "15:0",
+    "text": "No! a Spartan! maid could not be chaste, e’en if she would, who leaves her home and bares her limbs and lets her robe float free, to share; with youths their races and their sports,-- customs I cannot away with. Is it any wonder then that ye fail to educate your women in virtue? Helen might have asked thee this, seeing that she said goodbye to thy affection and tripped off with her young gallant to a foreign land.\nAnd yet for her sake thou didst marshal all the hosts of Hellas and lead them to Ilium, whereas thou shouldst have shown thy loathing for her by refusing to stir a spear, once thou hadst found her false; yea, thou shouldst have let her stay there, and even paid a price to save ever having her back again.\nBut that was not at all the way thy thoughts were turned; wherefore many a brave life hast thou ended, and many an aged mother hast thou left childless in her home, and grey-haired sires of gallant sons hast reft. Of that sad band am I a member, seeing in thee"
+   },
+   {
+    "id": "c13",
+    "at": "16:0",
+    "text": "Chorus:\nThe tongue from trifling causes contrives to breed great strife’mongst men; wherefore are the wise most careful not to bring about a quarrel with their friends.\nMenelaus:\nWhy, pray, should one call these old men wise, or those who once had a reputation in Hellas for being so? when thou, the great Peleus, employest language disgraceful to thyself and abusive of me because of a barbarian woman, though thou shouldst have banished her far beyond the streams of Nile or Phasis, and ever encouraged me; seeing that she comes from Asia’s continent where fell so many of the sons of Hellas, victims to the spear; and likewise because she shared in the spilling of thy son’s blood;\nfor Paris who slew thy son Achilles, was brother to Hector, whose wife she was. And dost thou enter the same abode with her, and deign to let her share thy board, and suffer her to rear her brood of vipers in thy house?"
+   },
+   {
+    "id": "c14",
+    "at": "17:4",
+    "text": "Cease now from idle words,’twere better far, for fear ye both alike go wrong.\nPeleus:\nAlas! what evil customs now prevail in Hellas! Whene’er the host sets up a trophy o’er the foe, men no more consider this the work of those who really toiled, but the general gets the credit for it. Now he was but one among ten thousand others to brandish his spear; he only did the work of one; but yet he wins more praise than they. Again, as magistrates in all the grandeur of office they scorn the common folk, though they are naught themselves; whereas those others are ten thousand times more wise than they, if daring combine with judgment. Even so thou and thy brother, now take your seats in all the swollen pride of Trojan fame and Trojan generalship, exalted by the toilsome efforts of others. But I will teach thee henceforth to consider Idaean Paris a foe less terrible than Peleus, unless forthwith thou pack from this roof, thou and thy childless daughter too, whom my own true son will hale through his halls by the hair of her head; for her barrenness will not let her endure fruitfulness in others, because she has no children herself. Still if she is unlucky in the matter of offspring, is that a reason why we should be left childless?"
+   },
+   {
+    "id": "c15",
+    "at": "18:9",
+    "text": "Peleus:\nLead on, my child, safe beneath my sheltering wing, and thou too, poor lady; for thou art come into a quiet haven after the rude storm.\nAndromache:\nHeaven reward thee and all thy race, old sire, for having saved my child and me his hapless mother! Only beware lest they fall upon us twain in some lonely spot upon the road and force me from thee, when they see thy age, my weakness, and this child’s tender years; take heed to this, that we be not a second time made captive, after escaping now.\nPeleus:\nForbear such words, prompted by a woman’s cowardice. Go on thy way; who will lay a finger on you? Methinks he will do it to his cost. For by heaven’s grace I rule o’er many a knight and spearman bold in my kingdom of Phthia; yea, and myself can still stand straight, no bent old man as thou dost think; such a fellow as that a mere look from me will put to flight in spite of my years. For e’en an old man, be he brave, is worth a host of raw youths;"
+   },
+   {
+    "id": "c16",
+    "at": "20:0",
+    "text": "Chorus:\nAh yes! I hear an outcry in the house amongst the servants, confirming the news thou hast brought. Poor sufferer! she seems about to show a lively grief for her grave crimes; for she has escaped her servants’ hands and is rushing from the house, eager to end her life.\nHermione:\nrushing wildly on to the stage. Woe, woe is me! I will tear my hair and scratch cruel furrows in my cheeks.\nNurse:\nMy child, what wilt thou do? Wilt thou disfigure thyself?\nHermione:\nAh me! ah me!\nBegone, thou fine-spun veil! float from my head away!\nNurse:\nDaughter, cover up thy bosom, fasten thy robe.\nHermione:\nWhy should I cover it?\nMy crimes against my lord are manifest and clear, they cannot be hidden.\nNurse:\nArt so grieved at having devised thy rival’s death?"
+   },
+   {
+    "id": "c17",
+    "at": "21:2",
+    "text": "Chorus:\nLo! a stranger of foreign appearance from some other land comes hurrying towards us.\nOrestes:\nLadies of this foreign land! is this the home, the palace of Achilles’ son?\nChorus:\nThou hast it; but who art thou to ask such a question?\nOrestes:\nThe son of Agamemnon and Clytemnestra, by name Orestes, on my way to the oracle of Zeus at Dodona. But now that I am come to Phthia, I am resolved to inquire about my kinswoman, Hermione of Sparta; is she alive and well? for though she dwells in a land far from my own, I love her none the less.\nHermione:\nSon of Agamemnon, thy appearing is as a haven from the storm to sailors; by thy knees I pray, have pity on me in my distress, on me of whose fortunes thou art inquiring. About thy knees\nI twine my arms with all the force of sacred fillets."
+   },
+   {
+    "id": "c18",
+    "at": "22:24",
+    "text": "Orestes:\nAnd was he after all defeated by that old man’s prowess?\nHermione:\nOh no! but by shame; and he hath gone and left me all alone.\nOrestes:\nI understand; thou art afraid of thy husband for that thou hast done.\nHermione:\nThou hast guessed it; for he will have a right to me. What can I say for myself? Yet I beseech thee by Zeus the god of our family, send me to a land as far as possible from this, or to my father’s house; for these very walls seem to cry out Begone!\nand all the land of Phthia bates me. But if my lord return ere that from the oracle of Phoebus, he will put me to death on a shameful charge, or enslave me to his mistress, whom I ruled before. Maybe some one will say, How was it thou didst go thus astray?\nI was ruined by mischievous women who came to me and puffed me up with words like these: What! wilt thou suffer that vile captive, a mere bondmaid, to dwell within thy house and share thy wedded rights? By Heaven’s queen! if it were my house she should not live to reap my marriage-harvest! And I listened to the words of these Sirens, the cunning, knavish, subtle praters, and was filled with silly thoughts. What need had I to care about my lord?"
+   },
+   {
+    "id": "c19",
+    "at": "23:4",
+    "text": "Orestes:\n’Twas sage counsel he gave who taught men to hear the arguments on both sides. I, for instance, though aware of the confusion in this house, the quarrel between thee and Hector’s wife, waited awhile and watched to see whether thou wouldst stay here or from fear of that captive art minded to quit these halls. Now it was not so much regard for thy message that brought me hither, as the intention of carrying thee away from this house, if, as now, thou shouldst grant me a chance of saying so. For thou wert mine formerly, but art now living with thy present husband through thy father’s baseness; since he, before invading Troy’s domains, betrothed thee to me, and then afterwards promised thee to thy present lord, provided he captured the city of Troy.\nSo, as soon as Achilles’ son returned hither, I forgave thy father, but entreated the bridegroom to forego his marriage with thee, telling him all I had gone through and my present misfortune; I might get a wife, I said, from amongst friends, but outside their circle’twas no easy task for one exiled like myself from home. Thereat he grew abusive, taunting me with my mother’s murder and those blood-boltered fiends. And I was humbled by the fortunes of my house, and though’tis true, I grieved, yet did I endure my sorrow, and reluctantly departed, robbed of thy promised hand. Now therefore, since thou findest thy fortune so abruptly changed and art fallen thus on evil days and hast no help, I will take thee hence and place thee in thy father’s hands."
+   },
+   {
+    "id": "c20",
+    "at": "24:12",
+    "text": "The son of Atreus is no more, slain by the hand of his wife, and she herself hath paid the debt of blood by death, and from her children’s hands received her doom. The god’s own bidding from his oracle was levelled against her, in the day that Agamemnon’s son set forth from Argos and visited his shrine;\nso he slew her, aye, spilt his own mother’s blood. O Phoebus, O thou power divine, how can I believe the story?\nChorus:\nAnon wherever Hellenes gather, was heard the voice of lamentation, mothers weeping o’er their children’s fate, as they left their homes to mate with strangers. Ah! thou art not the only one, nor thy dear ones either, on whom the cloud of grief hath fallen. Hellas had to bear the visitation, and thence the scourge crossed to Phrygia’s fruitful fields, raining the bloody drops the; death-god loves."
+   },
+   {
+    "id": "c21",
+    "at": "26:3",
+    "text": "Aged Peleus, hearken! Thy grandson is no more; so grievously is he smitten by the men of Delphi and the stranger from Mycenae.\nChorus:\nAh! what wilt thou do, old man? Fall not; uplift thyself.\nPeleus:\nI am a thing of naught; death is come upon me. My voice is choked, my limbs droop beneath me.\nMessenger:\nHearken; if thou art eager also to avenge thy friends, lift up thyself and hear what happened.\nPeleus:\nAh, destiny! how tightly hast thou caught me in thy toils, a poor old man at life’s extremest verge! But tell me how he was taken from me, my one son’s only child; unwelcome as such news is, I fain would hear it.\nMessenger:\nAs soon as we reached the famous soil of Phoebus, for three whole days were we feasting our eyes with the sight. And this, it seems, caused suspicion; for the folk, who dwell near the god’s shrine, began to collect in groups, while Agamemnon’s son, going to and fro through the town, would whisper in each man’s ear malignant hints: Do ye see yon fellow, going in and out of the god’s treasure-chambers, which are full of the gold stored there by all mankind? He is come hither a second time on the same mission as before, eager to sack the temple of Phoebus. Thereon there ran an angry murmur through the city, and the magistrates flocked to their council-chamber, while those, who have charge of the god’s treasures, had a guard privately placed amongst the colonnades."
+   },
+   {
+    "id": "c22",
+    "at": "27:2",
+    "text": "and terrible was the war-dance thou hadst then seen thy grandson dance to avoid their marksmanship. At last, when they were hemming him in on all sides, allowing him no breathing space, he left the shelter of the altar, the hearth where victims are placed, and with one bound was on them as on the Trojans of yore;\nand they turned and fled like doves when they see the hawk. Many fell in the confusion; some wounded, and others trodden down by one another along the narrow passages; and in that hushed holy house uprose unholy din and echoed back from the rocks. Calm and still my master stood there in his gleaming harness like a flash of light, till from the inmost shrine there came a voice of thrilling horror, stirring the crowd to make a stand. Then fell Achilles’ son, smitten through the flank by some Delphian’s biting blade, some fellow that slew him with a host to help; and as he fell, there was not one that did not stab him, or cast a rock and batter his corpse. So his whole body, once so fair, was marred with savage wounds. At last they cast the lifeless clay, lying near the altar, forth from the fragrant fane. And we gathered up his remains forthwith and are bringing them to thee, old prince, to mourn and weep and honour with a deep-dug tomb."
+   },
+   {
+    "id": "c23",
+    "at": "28:17",
+    "text": "Peleus:\nO darling child, thou hast left me all alone in my halls, old and childless by thy loss.\nChorus:\nThou shouldst have died, old sire, before thy children.\nPeleus:\nShall I not tear my hair, and smite upon my head with grievous blows? O city! of both my children hath Phoebus robbed me.\nChorus:\nWhat evils thou hast suffered, what sorrows thou hast seen, thou poor old man!\nwhat shall be thy life hereafter?\nPeleus:\nChildless, desolate, with no limit to my grief, I must drain the cup of woe, until I die.\nChorus:\n’Twas all in vain the gods wished thee joy on thy wedding day.\nPeleus:\nAll my hopes have flown away, fallen short of my high boasts.\nChorus:"
+   }
+  ]
+ },
+ {
+  "slug": "sophocles-philoctetes-9468b4",
+  "title": "Philoctetes",
+  "author": "Sophocles",
+  "language": "Greek",
+  "genre": "Classics",
+  "era": "Classical",
+  "class": "poetic",
+  "n_windows": 88,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "Odysseus:\nThis is the headland of sea-washed Lemnos, land untrodden by men and desolate. It was here, child bred of the man who was the noblest of the Greeks, Neoptolemus son of Achilles, that I exposed long ago the native of Malis, Poeas’ son, on the express command of the two chieftains to do so, because his foot was all running with a gnawing disease. Neither libation nor burnt sacrifice could be attempted by us in peace, but with his wild, ill-omened cries he filled the whole camp continually with shrieking, moaning. But what need is there to speak of that? The time is not ripe for too many words, lest he even learn that I am here, and I so waste the whole ruse whereby I think soon to take him.\nCome, it is your task to serve as my ally in what remains, and to seek where in this region there is a cave with two mouths. During cold weather it provides two seats facing the sun, while in summer a breeze wafts sleep through the tunnelled chamber."
+   },
+   {
+    "id": "c01",
+    "at": "1:13",
+    "text": "Odysseus:\nSon of Achilles, you must be loyal to the goals of your mission—and not with your body alone. Should you hear some new plan unknown to you till now, you must serve it, since it is to serve that you are here.\nNeoptolemus:\nThen what are your orders?\nOdysseus:\nYou must cheat the mind of Philoctetes by means of a story told as you converse with him. When he asks you who and from where you are, say that you are the son of Achilles—it is not in that detail that you will cheat him. But tell him you are sailing homeward, and have left the fleet of the Achaean warriors, after coming to hate them with unbounded hatred.\nGive him this reason: when, with no other hope of taking Ilium, they had summoned you by their prayers to come from home, they judged you not worthy of the arms of Achilles, not worthy to receive them—even though you had come and were claiming them by right—but instead handed them over to Odysseus. Say what you will of me—even the vilest of vile insults. You will not harm me at all by that. But if you fail to do as I say, you will inflict pain on all the Argives, for if that man’s bow is not seized, you can never sack the realm of Dardanus."
+   },
+   {
+    "id": "c02",
+    "at": "3:10",
+    "text": "Odysseus:\nNo, not if the falsehood yields deliverance.\nNeoptolemus:\nAnd with what expression on his face will anyone dare mouth those lies?\nOdysseus:\nWhen what you do promises gain, it is wrong to shrink back.\nNeoptolemus:\nAnd what gain is it for me that he should come to Troy?\nOdysseus:\nHis arrows alone will capture Troy.\nNeoptolemus:\nThen I am not to be the conqueror, as you said?\nOdysseus:\nNeither will you be without them, nor they without you.\nNeoptolemus:\nIt would seem, then, that we must track them down, if things stand as you say."
+   },
+   {
+    "id": "c03",
+    "at": "5:0",
+    "text": "Chorus:\nThat man—inferior in no way, probably, to any man belonging to the oldest families—lies alone without companions and stripped of all life’s gifts among the dappled or shaggy beasts. He is a man to be pitied for his torments and his hunger alike, enduring anguish that has no cure. But to his bitter cries the mountain nymph, babbling Echo, coming from afar, gives answer.\nNeoptolemus:\nNo part of this is a marvel to me. God-sent—if a man such as I may judge—are both those sufferings which attacked him from savage Chryse, and those with which he now toils untended. Surely he toils by the plan of some god so that he may not bend against Troy the invincible arrows divine, until the time be fulfilled at which, men say, by those arrows Troy is fated to fall.\nChorus:\nHush,boy!"
+   },
+   {
+    "id": "c04",
+    "at": "6:5",
+    "text": "Neoptolemus:\nMy birthplace is the island Scyros, and I am sailing homeward. I am the son of Achilles, by name Neoptolemus. Now you know everything.\nPhiloctetes:\nO son of a father I loved, and of soil I cherished! Ward of aged Lycomedes, on what mission have you touched this shore? From where are you sailing?\nNeoptolemus:\nWell, since you ask, it is from Ilium that I am now guiding my ship.\nPhiloctetes:\nWhat? You were certainly not our shipmate at the beginning of the expedition there.\nNeoptolemus:\nAnd did you have a part in that toil?\nPhiloctetes:\nThen you do not know who I am?\nNeoptolemus:\nHow should I know one whom I have never seen before?\nPhiloctetes:\nThen you have not even heard my name, or any rumor of those sufferings under which I have been perishing?"
+   },
+   {
+    "id": "c05",
+    "at": "8:4",
+    "text": "Philoctetes:\nWell said, son! Now what is the reason that you have come complaining against them with this fierce wrath?\nNeoptolemus:\nI will tell you—and yet it is hard to tell— the outrage that I suffered from them upon my arrival there. For when fate decreed that Achilles should die—\nPhiloctetes:\nAh, me! Tell me no more, until I first know this—is the son of Peleus dead?\nNeoptolemus:\nDead—not by a mortal hand, but by a god’s.\nHe was brought down, as men say, by the arrow of Phoebus.\nPhiloctetes:\nWell, noble alike are the slayer and the slain. But I am at a loss to know, son, whether I should first inquire into the wrong done you, or mourn the dead.\nNeoptolemus:\nYour own sorrows, I think, are enough for you, unhappy man, without mourning for those of your neighbor.\nPhiloctetes:"
+   },
+   {
+    "id": "c06",
+    "at": "9:6",
+    "text": "Your story is in harmony with mine, so that I can recognize the work of the Atreids and of Odysseus. For well I know that he would put his tongue to any base tale and to any mischief-making, if thereby he could hope to accomplish something criminal in the end.\nNo, that is not at all a wonder to me, but rather that the elder Ajax, if he was there, could bear to see this.\nNeoptolemus:\nAh, friend, he was no longer alive—I would never have been plundered like that while he lived.\nPhiloctetes:\nWhat do you say? Is he, too, dead and gone?\nNeoptolemus:\nThink of him as of one who sees the sun’s light no more.\nPhiloctetes:\nOh, no! But the son of Tydeus, and Sisyphus’ offspring that was bought by Laertes—they will not die, since they do not deserve to live!\nNeoptolemus:\nNo, indeed, be sure of it. On the contrary, they prosper now"
+   },
+   {
+    "id": "c07",
+    "at": "11:4",
+    "text": "Neoptolemus:\nI, at least, son of Oetean Poeas, will be on my guard hereafter against Ilium and the Atreids, and look on them only from afar. And where the worse man is stronger than the good, where nobility goes to ruin and the vile man dominates—among such men I will never make my friends. No, rocky Scyros shall suffice for me from now on to make me delight in my home. Now to my ship! And you, son of Poeas, farewell—as best you can, farewell! May the gods free you of your disease, just as you wish! But we must be going, so that we may set sail whenever the god permits our voyage.\nPhiloctetes:\nAre you setting out already, son?\nNeoptolemus:\nYes, since opportunity bids us watch near our ship for a fair wind, rather than from afar.\nPhiloctetes:\nNow by your father and by your mother, son, by all that you cherish at home—"
+   },
+   {
+    "id": "c08",
+    "at": "13:4",
+    "text": "Philoctetes:\nO day of joy unsurpassed! Most delightful man, and you good sailors! If only I could show you in deeds what a true friend you have made in me! Let us be going, my son, when we two have made a solemn farewell to my homeless home inside, so that you may also learn by what means I sustained my life, and how stout of heart I was born. For I believe that the mere sight would have deterred any other man but me from enduring these sufferings. But I have been slowly schooled by necessity to endure misery. Neoptolemus is about to follow Philoctetes into the cave.\nChorus:\nWait, let us listen to the two men who are coming!\nOne is a crewman of your ship, the other a stranger. Go in after you hear their report.\nEnter the Merchant, on the spectators’ left, accompanied by a Sailor."
+   },
+   {
+    "id": "c09",
+    "at": "15:0",
+    "text": "Merchant:\nBeware of what you are doing, boy.\nNeoptolemus:\nI am well aware.\nMerchant:\nI will hold you accountable.\nNeoptolemus:\nDo so, but speak.\nMerchant:\nI will. It is after this man that those two whom I named to you, Diomedes and forceful Odysseus, are sailing. They are oath-bound to retrieve him, either by winning words or by overpowering might.\nAnd all the Achaeans heard this clearly from the mouth Odysseus, for his confidence of success in this action was higher than his comrade’s.\nNeoptolemus:\nAnd for the sake of what did the Atreids after so long a time turn their thoughts so urgently towards this man, whom they were long since keeping an outcast? What was the desire that came over them, or what force? What avenging spirit sent by the gods to exact payment for evil deeds?"
+   },
+   {
+    "id": "c10",
+    "at": "16:4",
+    "text": "Come, son, let us be moving, so that a wide sea may part us from the ship of Odysseus. Let us go! Good speed in good season brings sleep and rest when toil is finished.\nNeoptolemus:\nThen as soon as the wind is not at our prow, we will sail. At present it blows against us.\nPhiloctetes:\nThe sailing is always fair, when you flee trouble.\nNeoptolemus:\nNot so; this weather is against them also.\nPhiloctetes:\nNo wind stands in the way of pirates who sense a chance to steal and plunder by force.\nNeoptolemus:\nWell, if you are so resolved, let us go, once you have taken from the cave whatever you need or desire most.\nPhiloctetes:\nYes, there are some things that I need, though the choice is not large.\nNeoptolemus:\nWhat is there that will not be available on board my ship?\nPhiloctetes:"
+   },
+   {
+    "id": "c11",
+    "at": "18:0",
+    "text": "Chorus:\nFor food he did not gather the fruit of holy Earth, nor anything else that we mortals feed on by our labor, except when on occasion he obtained food to ease his hunger by means of feathered shafts from his swift-striking bow. Ah, joyless was his life, who for ten years never knew the delight of wine, but ever directed his path towards any stagnant pool that he could find as he gazed around him.\nChorus:\nBut now, after those troubles, he will attain happiness and heartiness in the end because of his meeting with this son of a noble race, who after the fullness of many months carries him aboard our sea-crossing hull to his ancestral home, the haunt of Malian nymphs, and to the banks of the Spercheius in that very land where, above Oeta’s heights, the hero of the brazen shield approached the gods, illuminated by his father’s divine fire."
+   },
+   {
+    "id": "c12",
+    "at": "19:22",
+    "text": "Neoptolemus:\nHave no fears as to my caution. The bow shall pass into no hands but yours and mine. Give it to me, and may good luck accompany it!\nPhiloctetes:\nThere, take it boy. And humble yourself before the jealous gods, so that the bow may not prove baneful for you, as it did for me and for him who owned it before me.\nNeoptolemus:\nO gods, grant this to the two of us! And grant us a voyage prosperous and unimpeded, to whatever goal the god may deem right and that our mission provides!\nPhiloctetes:\nFutile, I fear, are your prayers, boy. Look, once again the dark blood is oozing drop by drop from deep in the wound, and I look for worse to come.\nAh, me, oh, oh! Cursed foot, what torment you cause me! It creeps on me, it is coming near! Ah, misery! Now you know my condition. Do not flee, no!"
+   },
+   {
+    "id": "c13",
+    "at": "20:22",
+    "text": "Neoptolemus:\nWhere do you mean?\nPhiloctetes:\nUp there!\nNeoptolemus:\nWhat is this new delirium? Why do you gaze at the dome above us?\nPhiloctetes:\nLet me go, let me go!\nNeoptolemus:\nWhere will you go, if I do so?\nPhiloctetes:\nLet me go, I say!\nNeoptolemus:\nI will not.\nPhiloctetes:\nYou will kill me, if you touch me further."
+   },
+   {
+    "id": "c14",
+    "at": "22:0",
+    "text": "Neoptolemus:\nIt pleases me to see you living unpained and breathing still, however contrary to my expectation. For in view of your persistent sufferings, your symptoms seemed to speak of death. But now lift yourself, or, if you prefer, these men will carry you. The labor will not be grudged, since you and I are of one mind.\nPhiloctetes:\nThank you, son, and help me up, as you will.\nYet do not trouble your men, so that they may not suffer from the foul stench before it is necessary. It will be trial enough for them to live on board with me.\nNeoptolemus:\nSo be it. Now stand up, and take hold of me.\nPhiloctetes:\nDo not worry, my habitual method will help me to my feet.\nNeoptolemus:\nGod! What am I to do next?\nPhiloctetes:\nWhat is the matter? Where strays your speech?\nNeoptolemus:"
+   },
+   {
+    "id": "c15",
+    "at": "23:22",
+    "text": "He looks away, as if he will never give it up! O you inlets and headlands, you wild creatures of the hills who have shared my life, and you jagged cliffs, to you—for you alone hear me—to you my accustomed companions,\nI bewail the treacherous treatment I have received from the son of Achilles. Although he swore to take me to my home, it is to Troy that he takes me. Although he gave me his right hand in pledge of his word, he has taken my bow, the sacred bow, once belonging to Zeus’s son Heracles, and he keeps it, and wants to show it to the Argives as his own.\nBy force he drags me away, as if he had captured a strong man, and does not see that he is cutting down a corpse, the shadow of smoke, a mere phantom. In my strength he could not have taken me—no!—nor even in my present condition, save by deceit. But now, because of my rotten fate, I have been tricked. What should I do?"
+   },
+   {
+    "id": "c16",
+    "at": "25:2",
+    "text": "Odysseus:\nYes, Odysseus, be sure of it. Here I am before your eyes.\nPhiloctetes:\nAh, me, I am sold, destroyed! It was he, then, who entrapped me and robbed me of my arms.\nOdysseus:\nYes, I and no other. I avow it.\nPhiloctetes:\nGive back my bow, boy, give it up.\nOdysseus:\nThat he shall never do, even if he wished to. And, what is more, you must come along with it, or my men will bring you by force.\nPhiloctetes:\nMe, you basest and boldest of scoundrels, they will take me by force?\nOdysseus:\nUnless you come of your own free will.\nPhiloctetes:\nO Lemnos, and you all-conquering flame kindled by Hephaestus, will you indeed endure it that this man should take me from your domain by force?"
+   },
+   {
+    "id": "c17",
+    "at": "26:3",
+    "text": "A cruel death for you!—and die you shall for your unjust treatment of me, if the gods care for justice. But I know that they do care for it, since you would never have made this voyage for one so miserable, unless some god-sent goad had driven you after me.\nO, fatherland, and you watchful gods, bring your vengeance, bring your vengeance on them all after so long, if at all you pity me! Yes, my life merits pity. Yet if I were to see those men overthrown, I would believe that I had escaped my plague.\nChorus:\nBitter is the stranger, and bitter his words, Odysseus. They do not bend before the storm of his troubles.\nOdysseus:\nI could say much in answer to his claims, if time allowed; but now I can say one thing only. What kind of man the occasion demands, that kind of man am I."
+   },
+   {
+    "id": "c18",
+    "at": "28:4",
+    "text": "Chorus:\nDoom, god-sent doom constrained you to suffer this, not, I tell you, any treachery to which my hand was lent.\nAim your hate-filled, baneful curse elsewhere, since I prefer that you not reject my friendship.\nPhiloctetes:\nAlas! No doubt sitting on the white ocean shore he mocks me, brandishing the weapon that nourished my unhappy life, the weapon which no one else had carried! Cherished bow, ah, friend forced from my loving hands, if you have the power to feel, surely you see with pity that the comrade of Heracles will now no longer use you anymore!\nNow you are handled by another, a man of craftiness; you see the shameless deceptions and the face of that hated enemy by whom countless wrongs, springing from shameless designs, have been contrived against me. O Zeus!"
+   },
+   {
+    "id": "c19",
+    "at": "29:16",
+    "text": "Come, let us be going, each to his station in the ship!\nPhiloctetes:\nBy Zeus who hears men’s curses, do not go, I implore you!\nChorus:\nBe moderate.\nPhiloctetes:\nFriends, in the name of the gods, stay!\nChorus:\nWhy do you call?\nPhiloctetes:\nAyee, ayee! Doom, Doom! My suffering kills me! Foot, my foot, what shall I do with you in the days to come?\nO friends, return, come back to me!\nChorus:\nTo do what that has a different spirit from that of your former commands?\nPhiloctetes:\nThere is no reason for indignation when the words of one crazed by a storm of pain are senseless."
+   },
+   {
+    "id": "c20",
+    "at": "30:44",
+    "text": "Yes, I do, because disgracefully and unjustly I got hold of it.\nOdysseus:\nIn the name of the gods, are you saying this to mock me?\nNeoptolemus:\nIf it is mockery to speak the truth.\nOdysseus:\nWhat do you mean, Neoptolemus? What are you saying?\nNeoptolemus:\nMust I repeat the same words twice and three times?\nOdysseus:\nI would not have wished to hear them even once.\nNeoptolemus:\nKnow for certain that I have nothing more to say.\nOdysseus:\nThere is someone, I tell you, who will prevent your deed.\nNeoptolemus:"
+   },
+   {
+    "id": "c21",
+    "at": "32:11",
+    "text": "Philoctetes:\nStop, not another word! Whatever you may say will be said in vain.\nNeoptolemus:\nYou are so resolved?\nPhiloctetes:\nMore firmly, believe me, than words can say.\nNeoptolemus:\nWell, I could have wished that you had listened to my words, but if nothing that I say will help,then I am finished.\nPhiloctetes:\nYes, all your pleas will be in vain.\nYou will never gain my mind’s good will, since first you fraudulently seized my means of life and robbed me of it, and then you have come here to admonish me, you most hateful descendant of so noble a father!\nRuin seize you all, the Atreids first, and next the son of Laertes, and you!\nNeoptolemus:\nSpeak no more curses, and instead receive these weapons from my hand.\nPhiloctetes:\nWhat did you say? Am I being tricked a second time?"
+   },
+   {
+    "id": "c22",
+    "at": "33:22",
+    "text": "And you remember these words and write them in your heart: you suffer this plague’s affliction in accordance with god-sent fate, because you came near to Chryse’s guardian, the serpent who secretly watches over her home and guards her roofless sanctuary. Know also that you will never gain relief from this grave sickness, as long as the sun still rises in the east and sets in the west, until of your own free will you come to the plains of Troy, find there the sons of Asclepius, our comrades, be relieved of this infection, and, with this bow’s aid and mine, be hailed as the sacker of Troy’s towers. How I know these things are so ordained, I will tell you. We have a Trojan prisoner, Helenus, foremost among seers, who says plainly that all this must come to pass, and further, that this very summer must see the complete capture of Troy. Otherwise he willingly gives himself over for execution, if these prophecies of his prove false. Therefore, now that you understand everything, give way graciously. It is a glorious addition to your gain to be singled out as best of the Greeks—first, for coming into healing hands, and then for taking Troy rich in tears, and so winning a matchless renown."
+   },
+   {
+    "id": "c23",
+    "at": "35:22",
+    "text": "Philoctetes:\nNever—if I must first consent to see Troy.\nNeoptolemus:\nWhat can I do, then if my pleading fails to persuade you of anything that I recommend?\nThe easiest course for me is to stop talking, and for you to live, just as you do now, without deliverance.\nPhiloctetes:\nLet me bear the sufferings that are fated me. But what you promised me with your right hand in mine—to bring me home,—that promise fulfil for me, son, and do not delay, or remind me further of Troy. I have had my fill of grief and lamentations.\nNeoptolemus:\nIf it is your will, let us go.\nPhiloctetes:\nO noble words!\nNeoptolemus:\nNow lean your steps firmly upon mine.\nPhiloctetes:\nAs far as my strength allows.\nNeoptolemus:"
+   }
+  ]
+ },
+ {
+  "slug": "sneyd-davies-poems-848580",
+  "title": "Poems",
+  "author": "Sneyd Davies",
+  "language": "English",
+  "genre": "Poetry",
+  "era": "18th Century",
+  "class": "poetic",
+  "n_windows": 40,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "VACUNA.\nBy Mr. D—.\nSCEPTRE of ease! whose calm domain extends\nO'er the froze Chronian, or where lagging gales\nFan to repose the Southern realms. O! whom\nMore slaves obey than swarm about the courts\nPekin, or Agra — universal queen!\nMe hap'ly slumb'ring all a summer's day,\nThy meanest subject, often hast thou deign'd\nGracious to visit. If thy poppy then\nWas e'er infus'd into my gifted quill,\nIf e'er my nodding Muse was blest with pow'r,\nTo doze the reader with her opiate verse —\nCome, goddess; but be gentle; not as when\nOn studious heads attendant thou art seen\nFast by the twinkling lamp, poring and pale"
+   },
+   {
+    "id": "c01",
+    "at": "0:16",
+    "text": "Immers'd in meditation, sleep's great foe?\nWhere the clue-guided casuist unwinds\nPerplexities; or Halley from his tower\nConverses with the stars: In other guize\nThy presence I invoke. Serene approach,\nWith forehead smooth, and sauntring gait; put on\nThe smile unmeaning, or in sober mood\nFix thy flat, musing, leaden eye: as looks\nSimplicius, when he stares and seems to think.\nPrompted by thee, Reservo keeps at home,\nIntent on books: he when alone applies\nThe needle's reparation to his hose,\nOr studious slices paper. Taught by thee\nDullman takes snuff, and ever and anon\nTurns o'er the page unread. Others more sage,\nPlace, year, and printer not unnoted, well"
+   },
+   {
+    "id": "c02",
+    "at": "0:48",
+    "text": "Is solitude less thy peculiar sphere;\nThere unattended you vouchsafe to shroud\nYour beauties, gentle Potentate; with me\nBy vale or brook to loiter not displeas'd:\nHear the stream's pebbled roar, and the sweet bee\nHumming her fairy-tunes, in praise of flowers;\nOr clam'rous rooks, on aged elm or oak,\nAloft the cawing legislators sit,\nDebating, in full senate, points of state.\nMy bower, my walks, my study all are thine,\nFor thee my yews project their shade: my green\nSpreads her soft lap, my waters whisper sleep.\nHere thou may'st reign secure, nor hostile thought,\nNor argument, nor logick's dire array\nMake inroad on thy kingdom's peace. — What tho'\nMalicious tongues me harmless represent,"
+   },
+   {
+    "id": "c03",
+    "at": "1:23",
+    "text": "And grey, and blue's battalion trim; and who\nIn marbled regimentals, some in vest\nGay edg'd with gold; of various garb, and tongue,\nAnd clime; extended o'er the wooden plain.\nNot force more numerous from her teeming loins\nPours forth Hungaria to the Danube's bank\nCroats and Pandeurs: nor the swarming war\nOf Turk and Nadir, nodding opposite\nWith particolour'd turbans. Sing, O Muse,\nTheir marshal'd numbers, and puissance. First,\nWith sable shield, and arms opaque, advance\nDivinity polemic, sober rage,\nYet deadly! (and can rage in minds divine\nInhabit!) councils, synods, cloysters, schools,\nCowl beats off cowl, and mitre mitre knocks.\nPresbyt'ry here with wither'd face askew,"
+   },
+   {
+    "id": "c04",
+    "at": "1:39",
+    "text": "Vengeance demure; and there devoutly fierce\nCatholicos, in lawn sprinkled with blood.\nNot far behind with her divided troops\nComes Policy, with democratic shouts\nOn one hand, on the other loud acclaim\nFor pow'r hereditary, and right divine:\nI see the various portraiture display'd,\nBrutus and Nimrod, libertines, and slaves,\nAnd crowns, and breeches flutter in the air.\nWho next with aspect sage and parchment wav'd\nVoluminous come on? I know their beards\nHistoric, see the style acute, with which\nThey fight old Time, maugre his desp'rate scythe,\nAnd as he cleaves the pyramid, apply\nTheir puny prop. Hence annals, journals hence,\nAnd memoirs, doubtful truth, and certain lies,"
+   },
+   {
+    "id": "c05",
+    "at": "2:23",
+    "text": "Posting succinct. He gives the word, which way\nThe squadrons to advance, where wheel their course.\n\"Vanguard to right and left.\" Forthwith the bands,\nAs at the sound of trump, obedient move\nIn perfect phalanx. Each their station knows\nAnd quarters, as the general's will ordains.\nFirst to its place spontaneous Verse repairs,\nKnowing the call, and practis'd to obey\nHis summons. Peaceful Controversy sheaths\nHer claws, contracted to make room for Scot\nAnd Tom. Aquinas, slumb'ring side by side;\nAnd Bellarmine, and Luther, heard no more\nThan Delphi's shrine, or Memnon's statue dumb.\nAll, all, in order due and silence, look\nA modern convocation. Hist'ry lies\nBy hist'ry, — Hyde and Oldmixon agree."
+   },
+   {
+    "id": "c06",
+    "at": "3:13",
+    "text": "Your master lend you to some neighb'ring state\nAuxiliaries; remember ye preserve\nYour first allegiance pure, and chearful home\nReturn, when summon'd by your natural prince.\nBe humble, nor repine, tho' smear'd with ink\nAnd dust inglorious; know your birth and end,\nFor rags ye were, and must to rags return.\nEPITHALAMIUM.\nBy the Same.\nYE nymphs, that from Diana's sport retir'd,\nYon forest leave awhile, and love to haunt\nThe bord'ring vallies; saw ye, as they pass'd,\nA chosen pair, the glory of your plains,\nArray'd in youth's full bloom, and nature's prime?\nSaw ye the glance of beauty, when the fair,\nQuiver'd with charms, and by the Graces dress'd,"
+   },
+   {
+    "id": "c07",
+    "at": "3:29",
+    "text": "March'd on: with joy the bridegroom flush'd, beyond\nWhat liveliest fancy, unpossess'd, can dream?\nHeard ye the music of the groves around\nWarbling, while choirs of gratulation rung\nFrom ev'ry spray; and nightingales, soft tun'd,\nIn notes peculiar thrill'd the nuptial song!\nSuch as in neighb'ring Windsor's fav'rite shade\nThey chaunt; and, if their Handel's ear be true,\nNo where on silence steal with lay so sweet.\nAuspicious omens brood on the fair hour!\nDid ever Hymen's look more fresh appear,\nOr his bright vest with deeper yellow flow?\nThe vest that on occasions high and rare\nPontifical he wears, when hearts sincere\nCombine; of healthy cheek, and sparkling eye\nAs in the state of nature, ere his shafts"
+   },
+   {
+    "id": "c08",
+    "at": "4:7",
+    "text": "Each blast unkind, and Zephyr's gale alone\nBlow there, and genial suns for ever smile.\nWho not applaud thy vow? hereafter who\nDispute thy palate, judging and exact,\nOwner of curious bliss? — Nor thou, fair bride,\nRepine, nor homeward cast thy longing eye;\n'Twas time to sever from the virgin choir.\nWhat joy in loneliness to waste the hours\nUnfruitful? see, hard by, Loddona's stream\nCold and inactive creep along; her face\nShaded with pensive willow, — till anon\nMarried to jovial Thames, briskly she glides\nO'er many a laughing mead. — 'Tis nature wills\nSuch union: blest society! where souls\nMove, as in dance, to melody divine\nFit partners. (How unlike the noisy broils"
+   },
+   {
+    "id": "c09",
+    "at": "4:39",
+    "text": "Under his sliding course of hours and days\nThe artist's labour mellows or decays.\nThen, let me see, what my fond wish bespoke,\nThe lively colouring, and manly stroke.\nIs there the sweetness, easiness, and grace,\nMaternal beauties, shed upon his face?\nIs there the frank benevolence; the fire\nSincere and gen'rous, darted from his sire?\nThe judging Muse, where lines like these must strike,\nWill eye the copy, — own, — 'tis very like:\nPoint out each virtue, each resemblance tell\nPleas'd, that the parents drew themselves so well.\nOn two FRIENDS born on the same Day.\nBy the Same.\nTHERE are it seems who think the natal star\nSostens to peace, or animates to war;"
+   },
+   {
+    "id": "c10",
+    "at": "5:4",
+    "text": "That yon bright orbs, as in their course they roll,\nDart their strong influence on the dawning soul;\nWhether to empire led by shining Jove,\nOr lull'd to pleasure by the queen of love:\nWhether Mercurius gently wave his hand;\nAnd point to arts and sciences the wand;\nOr angry Mars inspiring warlike heat,\nAlarm the pulse, and at the bosom beat.\nIf so: then why the Muse a contrast finds\nIn Palamon's and Arcite's various minds?\nThe one of nature easy and compos'd,\nUntoss'd by passion, and in arts repos'd;\nT' other of eager and impetuous soul,\nStarting in Honour's race, and stretching to the goal.\nOne calm, like Theodosius, to desire;\nThe other glowing with Varanes' fire:"
+   },
+   {
+    "id": "c11",
+    "at": "5:36",
+    "text": "And waft to views romantic; there present\nSome motley vision, shade and sun: the cliff\nO'erhanging, sparkling brooks, and ruins grey;\nBad me meanders trace, and catch the form\nOf varying clouds, and rainbows learn to paint.\nSometimes ambition, brushing by, wou'd twitch\nMy mantle, and with winning look sublime\nAllure to follow. What tho' steep the track,\nHer mountain's top wou'd overpay when climb'd\nThe scaler's toil; her temple there was fine,\nAnd lovely thence the prospects. She cou'd tell\nWhere laurels grew, whence many a wreath antique;\nBut more advis'd to shun the barren twig,\n(What is immortal verdure without fruit?)\nAnd woo some thriving art: her num'rous mines\nWere open to the searcher's skill and pains."
+   },
+   {
+    "id": "c12",
+    "at": "6:16",
+    "text": "Obscurity her curtain round me drew,\nAnd syren Sloth a dull quietus sung.\nSithence no fairy lights, no quick'ning ray,\nNor stir of pulse, nor objects to entice\nAbroad the spirits; but the cloyster'd heart\nSits squat at home, like pagod in a nitch\nObscure, or grandees with nod-watching eye,\nAnd folded arms, in presence of the throne,\nTurk, or Indostan. — Cities, forums, courts\nAnd prating sanhedrims, and drumming wars,\nAffect no more than stories told to bed\nLethargic, which at intervals the sick\nHears and forgets, and wakes to doze again.\nInstead of converse and variety,\nThe same trite round, the same stale silent scene:\nSuch are thy comforts, blessed Solitude!"
+   },
+   {
+    "id": "c13",
+    "at": "6:32",
+    "text": "But Innocence is there, but Peace all kind,\nAnd simple Quiet with her downy couch,\nMeads lowing, tune of birds, and lapse of streams,\nAnd Saunter, with a book, and warbling Muse,\nIn praise of hawthorns. — Life's whole business this!\nIs it to bask i' th' sun, if so, a snail\nWere happy crawling on a southern wall.\nWhy sits Content upon a cottage-sill\nAt eventide, and blesseth the coarse meal\nIn sooty corner? why sweet slumbers wait\nTh' hard pallet? not because from haunt remote\nSequester'd in a dingle's bushy lap:\n'Tis labour makes the peasant's sav'ry fare,\nAnd works out his repose: for ease must ask\nThe leave of diligence to be enjoy'd.\nOh! listen not to that enchantress Ease"
+   },
+   {
+    "id": "c14",
+    "at": "7:17",
+    "text": "Sluggards are nature's rebels, slight her laws,\nNor live up to the terms on which they hold\nTheir vital lease. Laborious terms and hard,\nBut such the tenure of our earthly state!\nRiches and fame are Industry's reward;\nThe nimble runner courses Fortune down,\nAnd then he banquets, for she feeds the bold.\nThink what you owe your country, what yourself.\nIf splendor charm not, yet avoid the scorn\nThat treads on lowly stations. Think of some\nAssiduous booby mounting o'er your head,\nAnd thence with saucy grandeur looking down:\nThink of (Reflection's stab!) the pitying friend\nWith shoulder shrug'd, and sorry. Think that Time\nHas golden minutes, if discreetly seiz'd:\nAnd if some sad example, indolent,"
+   },
+   {
+    "id": "c15",
+    "at": "7:49",
+    "text": "Free as the air they cut; sip'd purest rills,\nDin'd with the Thames, or bath'd in crystal lakes.\nWe wear no badges, no dependence own:\nWho truly loves thee, dearest Liberty,\nA silken fetter will uneasy sit.\nHeav'n knows it is not Insolence that speaks!\nThe tribute of respect to greatness due\nNot the brib'd sycophant more willing pays.\nStill, still as much of party be retain'd,\nAs principle requires, and sense directs:\nElse our vain bark, without a rudder, floats\nThe scorn and pastime of each veering gale.\nThis gentle ev'ning let the sun descend\nUntroubled, while it paints your ambient hills\nWith faded lustre, and a sweet farewel.\nHere is our seat: that castle opposite,"
+   },
+   {
+    "id": "c16",
+    "at": "8:14",
+    "text": "Proud of its woody brow, adorns the scene,\nDictate, O vers'd in books, and just of taste,\nDictate the pleasing theme of our discourse.\nShall we trace Science from her Eastern home\nChaldaean; or the banks of Nile, where Thebes,\nNursing her daughter arts, majestic stood,\nAnd pour'd forth knowledge from an hundred gates?\nThere first the marble learn'd to mimic life,\nThe pillar'd temple rose, and pyramids,\nWhose undecaying grandeur laughs at Time;\nBirth-place of letters, where the sun was shewn\nHis radiant way, and heav'ns were taught to roll.\nThere too the Muses tun'd their earliest lyre,\nWarbling soft numbers to Serapis' ear;\n'Till chac'd by tyrants, or a milder clime\nInviting, they remov'd with pilgrim harps,"
+   },
+   {
+    "id": "c17",
+    "at": "9:4",
+    "text": "And the world bow'd to legislative verse.\nAs states increas'd, and governments were form'd,\nHer aid less useful, she retir'd to grots\nAnd shady bow'rs, content to teach and please.\nUnder her laurel frequent bards repos'd;\nVoluble Pindar troll'd his rapid song,\nOr Sappho breath'd her spirited complaint:\nHere the stage buskin, there the lyric choir,\nAnd Homer's epic trumpet. Happy Greece,\nBless'd in her offspring! Seat of eloquence,\nOf arts and reason; patriot-virtue's seat!\nDid the sun thither dart uncommon rays!\nDid some presiding genius hover o'er\nThat animated soil with brooding wings!\nThe sad reverse might start a gentle tear —\nGo, search in Athens for herself, enquire"
+   },
+   {
+    "id": "c18",
+    "at": "9:36",
+    "text": "That ever flow'd, to such a puddle turn?\nShe ends, like her long Appian, in a marsh;\nOr Jordan's river pouring his clear urn\nInto the black Asphaltus' slimy lap.\nPatrons of wit, and victors of mankind,\nBards, warriors, worthies (revolution strange)\nAre pimps and fidlers, mountebanks and monks.\nIn Tully's beehive, magazine of sweets,\nThe lazy drones are buzzing or asleep.\nBut we forgive the living for the dead;\nIndebted more to Rome than we can pay.\nOf a long dearth prophetic, she lay'd in\nA feast for ages. — O thou banquet nice,\nWhere the soul riots with secure excess!\nWhat felt delight! what pleasing useful hours\nRepeated owe we to her letter'd sons!"
+   },
+   {
+    "id": "c19",
+    "at": "10:7",
+    "text": "We by their favour Tiber's walks enjoy,\nTheir temples trace, and share their noble games;\nEnter the crowded theatre at will,\nGo to the forum, hear the consul plead,\nAre present in the thund'ring Capitol\nWhen Tully speaks; at softer hours attend\nHarmonious Virgil to his Mantuan farm,\nOr Baian; and with happy Horace talk\nIn myrtle groves by Teverone's cascade.\nHail, precious pages! that amuse and teach,\nExalt the genius, and improve the breast.\nYe sage historians all your stores unfold,\nReach your clear steady mirror — in that glass\nThe forms of good and ill are well portray'd.\nBut chiefly thou, divine Philosophy,\nShed thy bless'd influence; with thy train appear"
+   },
+   {
+    "id": "c20",
+    "at": "10:39",
+    "text": "To C***, Esq;\nFROM friendship's cradle up the verdant paths\nOf youth, life's jolly spring; and now sublim'd\nTo its full manhood and meridian strength,\nHer latest stage, (for friendship ever hale\nKnows not old age, diseases, and decay,\nBut burning keeps her sacred fire, 'till death's\nCold hand extinguish) at this spot, this point,\nHere P***, we social meet, and gaze about,\nAnd look back to the scenes our pastime trod\nIn nature's morning, when the gamesome hours\nHad sliding feet, and laugh'd themselves away.\nLuxurious season! vital prime! where Thames\nFlows by Etona's walls, and cheerful sees\nHer sons wide swarming; or where sedgy Cam\nBathes with slow pace his academic grove,"
+   },
+   {
+    "id": "c21",
+    "at": "11:5",
+    "text": "Exact the balance of our loss and gain?\nWho knows how far a rattle may outweigh\nThe mace or scepter? But as boys resign\nThe play-thing, bauble of their infancy,\nSo fares it with maturer years: they sage,\nImagination's airy regions quit,\nAnd under Reason's banner take the field,\nWith resolution face the cloud or storm,\nWhile all their former rainbows die away.\nSome to the palace with regardful step,\nAnd courtly blandishment resort, and there\nAdvance obsequious; in the sunshine bask\nOf princely grace, catch the creating eye,\nParent of honours: — in the senate some\nHarangue the full-bench'd auditory, and wield\nTheir list'ning passion (such the pow'r, the sway"
+   },
+   {
+    "id": "c22",
+    "at": "11:21",
+    "text": "Of Reason's eloquence!) — or at the bar,\nWhere Cowper, Talbot, Somers, Yorke before\nPleaded their way to glory's chair supreme,\nAnd worthy fill'd it. Let not these great names\nDamp, but incite: nor Murray's praise obscure\nThy younger merit. Know, these lights, ere yet\nTo noon-day lustre kindled, had their dawn.\nProceed familiar to the gate of Fame,\nNor think the task severe, the prize too high\nOf toil and honour, for thy father's son.\nAt seeing Archbishop WILLIAMS'S Monument in CARNARVONSHIRE.\nIN that remote and solitary place,\nWhich the seas wash, and circling hills embrace,\nWhere those lone walls amid the groves arise,\nAll that remains of thee, fam'd Williams, lies.\nThither, sequester'd shade, creation's nook,"
+   },
+   {
+    "id": "c23",
+    "at": "12:7",
+    "text": "Caress'd by monarchs and by crowds ador'd?\nFor this, thy hand o'er rivals cou'd prevail,\nGrasping by turns the crosier and the seal?\nWho dar'd on Laud's meredian pow'r to frown,\nAnd on aspiring Buckingham look down.\nThis thy gay morn, — but ere the day decline\nClouds gather, and adversity is thine.\nDoom'd to behold thy country's fierce alarms,\nWhat had thy trembling age to do with arms?\nThy lands dragoon'd, thy palaces in dust,\nWhy was thy life protracted to be curst?\nThy king in chains, — thyself by lawless might\nStrip't of all pow'r, and exil'd from thy right.\nAwhile the venerable hero stood,\nAnd stemm'd with quiv'ring limbs the boist'rous flood;\nAt length, o'er-match'd by injuries and time,"
+   }
+  ]
+ },
+ {
+  "slug": "william-congreve-poems-d6b91f",
+  "title": "Poems",
+  "author": "William Congreve",
+  "language": "English",
+  "genre": "Poetry",
+  "era": "18th Century",
+  "class": "poetic",
+  "n_windows": 51,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "PROLOGUE TO THE COURT; On the QUEEN's Birth-Day, 1704.\nTHE Happy Muse to this high Scene preferr'd,\nHereafter shall in Loftier Strains be heard;\nAnd, soaring to transcend her usual Theme,\nShall Sing of Virtue and Heroick Fame.\nNo longer shall she Toil upon the Stage,\nAnd fruitless War with Vice and Folly wage;\nNo more in mean Disguise she shall appear,\nAnd Shapes she would reform be forc'd to wear:\nWhile Ignorance and Malice join to blame,\nAnd break the Mirror that reflects their Shame.\nHenceforth she shall pursue a Nobler Task,\nShew her bright Virgin Face, and scorn the Satyr's Mask.\nHappy her future Days! which are design'd\nAlone to Paint the Beauties of the Mind.\nBy Just Originals to draw with Care,"
+   },
+   {
+    "id": "c01",
+    "at": "0:32",
+    "text": "Bore, with One Sacred Birth, an equal Date;\nWhence we derive whatever we possess,\nBy Foreign Conquest, or Domestick Peace.\nThen, Britain, then thy Dawn of Bliss begun!\nThen broke the Morn that lighted up this Sun!\nThen was it doom'd whose Councils should succeed;\nAnd by whose Arm the Christian World be freed;\nThen the fierce Foe was pre-ordain'd to yield,\nAnd then the Battel won at BLENHEIM'S Glorious Field.\nTHE TEARS OF AMARYLLIS FOR AMYNTAS.\nA PASTORAL.\n'TWAS at the Time, when new returning Light,\nWith welcome Rays begins to chear the Sight;\nWhen grateful Birds prepare their Thanks to pay,\nAnd warble Hymns to hail the dawning Day;\nWhen woolly Flocks their bleating Cries renew,"
+   },
+   {
+    "id": "c02",
+    "at": "1:23",
+    "text": "The very Morning Wind with-held his Breeze,\nNor fann'd with fragrant Wings the noiseless Trees;\nAs if the gentle Zephyr had been dead,\nAnd in the Grave with lov'd Amyntas laid.\nNo Voice, no whisp'ring Sigh, no murm'ring Groan,\nPresum'd to mingle with a Mother's Moan;\nHer Cries alone her Anguish could express,\nAll other Mourning would have made it less.\nHear me, she cry'd, ye Nymphs and Silvan Gods,\nInhabitants of these once lov'd Abodes;\nHear my Distress, and lend a pitying Ear,\nHear my Complaint — you would not hear my Pray'r;\nThe Loss which you prevented not, deplore,\nAnd mourn with me Amyntas now no more.\nHave I not Cause, ye cruel Pow'rs, to mourn?\nLives there like me another Wretch forlorn?"
+   },
+   {
+    "id": "c03",
+    "at": "1:55",
+    "text": "Within whose darksome Womb the Grave is made,\nWhere all my Joys are with Amyntas laid.\nWhat is't to me, tho' on thy naked Head\nEternal Winter should his Horror shed?\nTho' all thy Nerves were numm'd with endless Frost,\nAnd all thy Hopes of future Spring were lost;\nTo me what Comfort can the Spring afford?\nCan my Amyntas be with Spring restor'd?\nCan all the Rains that fall from weeping Skies,\nUnlock the Tomb where my Amyntas lies?\nNo, never! never! — Say then, rigid Earth,\nWhat is to me thy everlasting Dearth?\nTho' never Flow'r again its Head should rear,\nTho' never Tree again should Blossom bear;\nTho' never Grass should cloath the naked Ground,\nNor ever healing Plant or wholesome Herb be found."
+   },
+   {
+    "id": "c04",
+    "at": "1:87",
+    "text": "For then the Air was fill'd with dreadful Cries,\nAnd sudden Night o'erspread the darken'd Skies;\nPhantoms, and Fiends, and wand'ring Fires appear'd,\nAnd Skreams of ill-presaging Birds were heard.\nThe Forest shook, and flinty Rocks were cleft,\nAnd frighted Streams their wonted Channels left;\nWith frantick Grief o'erflowing fruitful Ground,\nWhere many a Herd and harmeless Swain was drown'd.\nWhile I forlorn and desolate was left,\nOf ev'ry Help, of ev'ry Hope bereft;\nTo ev'ry Element expos'd I lay,\nAnd to my Griefs a more defenceless Prey.\nFor thee, Amyntas, all these Pains were born,\nFor thee these Hands were wrung, these Hairs were torn;\nFor thee my Soul to sigh shall never leave,\nThese Eyes to weep, this throbbing Heart to heave."
+   },
+   {
+    "id": "c05",
+    "at": "1:119",
+    "text": "Their pleasing Task the weeping Virgins leave,\nAnd with unfinish'd Garlands strew thy Grave.\nThere let me fall, there, there lamenting lie,\nThere grieving grow to Earth, despair, and die.\nThis said, her loud Complaint of force she ceas'd,\nExcess of Grief her faultring Speech suppress'd.\nAlong the Ground her colder Limbs she laid,\nWhere late the Grave was for Amyntas made;\nThen from her swimming Eyes began to pour,\nOf softly falling Rain a Silver Show'r;\nHer loosely flowing Hair, all radiant bright,\nO'er-spread the dewy Grass like Streams of Light.\nAs if the Sun had of his Beams been shorn,\nAnd cast to Earth the Glories he had worn.\nA Sight so lovely sad, such deep Distress\nNo Tongue can tell, no Pencil can express."
+   },
+   {
+    "id": "c06",
+    "at": "2:28",
+    "text": "Such, if not sweeter, was the rich Perfume\nWhich swift ascended from Amyntas's Tomb;\nAs if th' Arabian Bird her Nest had fir'd,\nAnd on the spicy Pile were new expir'd.\nAnd now the Turf, which late was naked seen,\nWas sudden spread with lively springing Green;\nAnd Amaryllis saw, with wond'ring Eyes,\nA flow'ry Bed, where she had wept, arise;\nThick as the pearly Drops the Fair had shed,\nThe blowing Buds advanc'd their Purple Head;\nFrom ev'ry Tear that fell, a Violet grew,\nAnd thence their Sweetness came, and thence their mournful Hew.\nRemember this, ye Nymphs and gentle Maids,\nWhen Solitude ye seek in gloomy Shades;\nOr walk on Banks where silent Waters flow,\nFor there this lonely Flow'r will love to grow."
+   },
+   {
+    "id": "c07",
+    "at": "3:12",
+    "text": "Striving to rise in vain:\nNor e'er can hope with equal Lays\nTo celebrate bright Virtue's Praise.\nThy Aid obtain'd, even I, the humblest Swain,\nMay climb Pierian Heights, and quit the lowly Plain.\nHigh in the Starry Orb is hung,\nAnd next Alcides Guardian Arm,\nThat Harp to which thy Orpheus Sung,\nWho Woods, and Rocks, and Winds cou'd Charm.\nThat Harp which on Cyllenes shady Hill,\nWhen first the Vocal Shell was found,\nWith more than Mortal Skill\nInventer Hermes taught to sound.\nHermes on bright Latona's Son,\nBy sweet Persuasion won,\nThe wond'rous Work bestow'd;"
+   },
+   {
+    "id": "c08",
+    "at": "4:2",
+    "text": "Unshaken sees against her Silver Shoars\nHis foaming Billows beat;\nSo Britain's QUEEN, amidst the Jars\nAnd Tumults of a World in Wars,\nFix'd on the Base of Her well-founded State,\nSerene and safe looks down, nor feels the Shocks of Fate.\nBut Greatest Souls, tho' blest with sweet Repose,\nAre soonest touch'd with Sense of others Woes.\nThus ANNA's mighty Mind,\nTo Mercy and soft Pity prone,\nAnd mov'd with Sorrows not her own,\nHas all her Peace and downy Rest resign'd,\nTo wake for Common Good, and succour Human-kind.\nFly, Tyranny, no more be known\nWithin Europa's blissful Bound;\nFar as th' unhabitable Zone"
+   },
+   {
+    "id": "c09",
+    "at": "4:37",
+    "text": "Far as the Seven-mouth'd Ister's secret Head,\nTo save th' Imperial State, Her hardy Britons led.\nNor there thy Song should end; tho' all the Nine\nMight well their Harps and Heav'nly Voices join\nTo Sing that Glorious Day,\nWhen Bold Bavaria fled the Field,\nAnd Veteran Gauls unus'd to yield,\nOn Blenheim's Plain imploring Mercy lay;\nAnd Spoils and Trophies won, perplex'd the Victors way.\nBut cou'd thy Voice of Blenheim Sing,\nAnd with Success that Song pursue;\nWhat Art cou'd Aid thy weary Wing\nTo keep the Victor still in view?\nFor as the Sun ne'er stops his radiant Flight,\nNor Sets, but with impartial Ray\nTo all who want his Light"
+   },
+   {
+    "id": "c10",
+    "at": "5:11",
+    "text": "What Verse such Worth can Raise?\nLustre and Life, the Poet's Art\nTo middle Vertue may impart;\nBut Deeds sublime, exalted high like These,\nTranscend his utmost Flight; and mock his distant Praise.\nStill wou'd the willing Muse aspire,\nWith Transport still her Strains prolong;\nBut Fear unstrings the trembling Lyre,\nAnd Admiration stops her Song.\nGo on, Great Chief, in ANNA's Cause proceed;\nNor sheath the Terrors of thy Sword,\n'Till Europe thou hast freed,\nAnd Universal Peace restor'd.\nThis mighty Work when thou shalt End,\nEqual Rewards attend,\nOf Value far above"
+   },
+   {
+    "id": "c11",
+    "at": "5:45",
+    "text": "All Hail to thee\nAll-pow'rful Harmony!\nThy Voice, O Harmony, with awful Sound\nCould penetrate th' Abyss profound,\nExplore the Realms of ancient Night,\nAnd search the living Source of unborn Light.\nConfusion heard thy Voice and fled,\nAnd Chaos deeper plung'd his vanquish'd Head.\nThen didst thou, Harmony, give birth\nTo this fair form of Heav'n and Earth;\nThen all those Shining Worlds above\nIn Mystick Dance began to move\nAround the radiant Sphere of Central Fire,\nA never ceasing, never silent Choir.\nCHORUS.\nConfusion heard thy Voice and fled,"
+   },
+   {
+    "id": "c12",
+    "at": "6:19",
+    "text": "Hark, hark, again Urania sings!\nAgain Apollo strikes the trembling Strings!\nAnd see, the list'ning Deities around\nAttend insatiate, and devour the Sound.\nDescend Urania, Heav'nly Fair,\nTo the relief of this afflicted World repair;\nSee how with various Woes opprest,\nThe wretched Race of Men is worn;\nConsum'd with cares, with doubts distrest\nOr by conflicting Passions torn.\nReason in vain employs her Aid,\nThe furious Will on Fancy waits;\nWhile Reason still by Hopes or Fears betray'd,\nToo late advances or too soon retreats.\nMusick alone with suddain Charms can bind\nThe wand'ring Sense, and calm the troubled Mind."
+   },
+   {
+    "id": "c13",
+    "at": "6:53",
+    "text": "By Musick lull'd to pleasing Rest.\nCHORUS.\n'Tis done; and now tumultuous Passions cease;\nAnd all is husht, and all is Peace.\nThe weary World with welcome Ease is blest,\nBy Musick lull'd to pleasing Rest.\nAh, sweet Repose, too soon expiring!\nAh, foolish Man, new Toils requiring!\nCurs'd Ambition, Strife pursuing,\nWakes the World to War and Ruin.\nSee, see, the Battle is prepar'd!\nBehold the Hero comes!\nLoud Trumpets with shrill Fifes are heard,\nAnd hoarse resounding Drums.\nWar, with discordant Notes and jarring Noise,\nThe Harmony of Peace destroys."
+   },
+   {
+    "id": "c14",
+    "at": "7:33",
+    "text": "CHORUS.\nLet Victory and Peace restore\nHer faithful Lover to her tender Breast,\nWithin her folding Arms to rest,\nThence never to be parted more,\nNo never to be parted more.\nEnough, Urania, heav'nly fair,\nNow to thy Native Skies repair,\nAnd rule again the Starry Sphere;\nCecilia comes, with holy Rapture fill'd,\nTo ease the World of Care.\nCecilia, more than all the Muses skill'd!\nPhoebus himself to her must yield,\nAnd at her Feet lay down\nHis Golden Harp and Lawrel Crown;\nThe soft enervate Lyre is drown'd"
+   },
+   {
+    "id": "c15",
+    "at": "7:66",
+    "text": "Who form'd the tuneful Frame,\nTh' immortal Musick never dies.\nA LETTER FROM Mr. Congreve, &c.\nSINCEREST Critick of my Prose, or Rhime,\nTell how thy pleasing STOWE employs thy Time,\nSay, COBHAM, what amuses thy Retreat?\nOr Stratagems of War, or Schemes of State?\nDost thou recal to Mind with Joy, or Grief,\nGreat MALBRO's Actions? That immortal Chief,\nWhose slightest Trophy rais'd in each Campaign,\nMore than suffic'd to signalize a Reign?\nDoes thy remembrance rising warm thy Heart,\nWith Glory past, where Thou thy self hadst Part,\nOr dost thou grieve indignant, now to see,\nThe fruitless End of all thy Victory?\nTo see th' Audacious Foe, so late subdu'd,"
+   },
+   {
+    "id": "c16",
+    "at": "8:46",
+    "text": "A Table free, and eloquently neat.\nWhat can be added more to mortal Bliss?\nWhat can he want who stands possest of this?\nWhat can the fondest wishing Mother more\nOf Heaven attentive for her Son implore?\nAnd yet a Happiness remains unknown,\nOr to Philosophy reveal'd alone;\nA Precept, which unpractis'd renders vain,\nThy flowing Hopes, and Pleasure turns to Pain.\nShou'd Hope, and Fear thy Heart alternate tear,\nOr Love, or Hate, or Rage, or anxious Care,\nWhatever Passions may thy Mind infest,\n(Where is that Mind which Passions ne'er molest?)\nAmidst the Pangs of such intestine Strife,\nStill think the present Day, the last of Life;\nDefer not till to Morrow to be wise,"
+   },
+   {
+    "id": "c17",
+    "at": "8:78",
+    "text": "Compar'd with those of our Fore-fathers Days,\nFor Virtue now is neither more or less,\nAnd Vice is only varied in the Dress;\nBelieve it, Men have ever been the same,\nAnd all the Golden Age, is but a Dream.\nAN IMPOSSIBLE THING.\nA TALE.\nTO thee, Dear Dick, this Tale I send,\nBoth as a Critick and a Friend.\nI tell it with some Variation\n(Not altogether a Translation)\nFrom La Fontaine; an Author, Dick,\nWhose Muse would touch thee to the quick.\nThe Subject is of that same kind\nTo which thy Heart seems most inclin'd:\nHow Verse may alter it, God knows,"
+   },
+   {
+    "id": "c18",
+    "at": "9:27",
+    "text": "(To serve his Friend and shew his Art,)\nThat Madam shou'd by twelve a Clock,\nTho' hitherto as hard as Rock,\nBecome as gentle as a Glove,\nAnd kiss and coo like any Dove.\nIn short, the Woman should be his,\nThat is, upon Condition — Viz;\nThat He, the Lover, after tasting\nWhat one wou'd wish were everlasting;\nShould, in Return for such Enjoyment,\nSupply the Fiend with fresh Employment:\nThat's all, quoth Pug; my poor Request\nIs, only never to have Rest;\nYou thought, 'tis like, with Reason too,\nThat I should have been serv'd, not You:\nBut what? upon my Friend impose!"
+   },
+   {
+    "id": "c19",
+    "at": "9:59",
+    "text": "To be dispos'd as he thinks meet.\nAt once the Lover all approves:\nFor who can hesitate that loves?\nAnd thus he argues in his Thought:\nWhy, after all, I venture nought;\nWhat Mystery is in Commanding?\nDoes that require Much Understanding?\nIndeed, wer't my Part to Obey,\nHe'd go the better of the Lay:\nBut he must do what I think fit —\nPshaw, pshaw, young Belzebub is bit.\nThus pleas'd in Mind, he calls a Chair;\nAdjusts, and combs, and courts the Fair:\nThe Spell takes Place, and all goes right,\nAnd happy he, employs the Night\nIn sweet Embraces, balmy Kisses;"
+   },
+   {
+    "id": "c20",
+    "at": "10:31",
+    "text": "Which the next Moment are appeas'd.\nNow Show'rs of Gold and Gems are rain'd,\nAs if each India had been drain'd:\nAnd He, in one astonish'd View,\nSees both Golconda and Peru.\nThese Things, and stranger Things than these,\nWere done with equal Speed and Ease.\nAnd now to Rome poor Pug he'll send:\nAnd Pug soon reach'd his Journey's End.\nAnd soon return'd with such a Pack\nOf Bulls and Pardons at his Back,\nThat now, the Squire (who had some Hope\nIn holy Water and the Pope,)\nWas out of Heart, and at a Stand\nWhat next to wish, and what command;\nInvention flags, his Brain grows muddy,"
+   },
+   {
+    "id": "c21",
+    "at": "11:1",
+    "text": "That Thing so shining, crisp and small,\nWhich round his Finger strove to twine?\nA Tendril of the Cyprian Vine?\nOr Sprig from Cytherea's Grove;\nShade of the Labyrinth of Love!\nWith Awe, he now takes from her Hand\nThat Fleece-like Flow'r of fairy Land:\nLess precious, whilom, was the Fleece\nWhich drew the Argonauts from Greece;\nOr that, which modern Ages see\nThe Spur and Prize of Chivalry,\nWhose Curls of kindred Texture, grace\nHeroes and Kings of Spanish Race.\nThe Spark prepar'd, and Pug at Hand,\nHe issues, thus, his strict Command.\nThis Line, thus Curve and thus Orbicular,"
+   },
+   {
+    "id": "c22",
+    "at": "11:33",
+    "text": "When laid (said he) to soak in Ooze.\nPoor foolish Fiend! he little knew\nWhence Venus and her Garden grew.\nOld Ocean, with paternal Waves\nThe Child of his own Bed receives;\nWhich oft as dipt new Force exerts,\nAnd in more vig'rous Curls reverts.\nSo, when to Earth, Alcides flung\nThe huge Antëus, whence he sprung,\nFrom ev'ry Fall fresh Strength he gain'd,\nAnd with new Life the Fight maintain'd.\nThe bafled Goslin grows perplex'd,\nNor knows what Sleight to practise next:\nThe more he trys, the more he fails;\nNor Charm, nor Art, nor Force avails.\nBut all concur his Shame to show,"
+   },
+   {
+    "id": "c23",
+    "at": "11:65",
+    "text": "Knew all his Fame and Labour lost.\nSubdu'd, abash'd, he gave it o'er;\n'Tis said, he blush'd; 'tis sure, he swore\nNot all the Wiles that Hell could hatch\nCould conquer that SUPERB MUSTACH.\nDefeated thus, thus discontent,\nBack to the Man the Demon went:\nI grant, quoth he, our Contract null,\nAnd give you a Discharge in full.\nBut tell me now, in Name of Wonder,\n(Since I so candidly knock under,)\nWhat is this Thing? Where could it grow?\nPray take it — 'tis in Statu quo.\nMuch Good may't do you; for my Part,\nI wash my Hands of't from my Heart.\nIn Truth, Sir Goblin or Sir Fairy,"
+   }
+  ]
+ },
+ {
+  "slug": "ausonius-decimus-magnus-ludus-septem-sapientum-4cb3b9",
+  "title": "Ludus Septem Sapientum",
+  "author": "Ausonius, Decimus Magnus",
+  "language": "Latin",
+  "genre": "Classics",
+  "era": "Late Antiquity",
+  "class": "poetic",
+  "n_windows": 9,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "1. AUSONIUS THE CONSUL TO DREPANIUS THE PROCONSUL, greeting. Whether you think these things should be pardoned or examined, read them through, Drepanius, with attentive judgement. I shall be content with you as judge, whether you think the verses I have given should be read or covered up; for the first thing is to have earned your favour, Pacatus: the next will be the care of a vindicated modesty. I can bear the censure of a severe reader, and I can please myself with a modest praise. The horse knows how to love the sound of his patted neck; he knows too, undismayed, how to endure the slow blows of the whip. What discipline did the censor Aristarchus and the standard of Zenodotus seek for Maeonian Homer! Set down your obeli, then, the marks against the first poets: I shall think them palms, not faults of mine; and I shall call them corrected rather than condemned, the touches which the file of a learned man will apply to me. Meanwhile, about to undergo the weight of so great a judgement, I shall wish that I may please; if not, that I may lie hidden."
+   },
+   {
+    "id": "c01",
+    "at": "0:1",
+    "text": "2. Prologue. The Seven Sages, to whom an earlier age gave that name, and a following age did not take it away, come forth today onto the stage in their Greek cloaks. Why do you blush, you toga-clad Roman, that men so famous will enter the stage? For us this is something to be ashamed of, but not for the Athenians too, for whom the theatre serves in place of the senate-house. To our affairs their own places have been allotted: the field of Mars for the assemblies, as the senate-house for the enrolled senators; the forum and the rostra the law of the citizens keeps apart. At Athens, and in all Greece, there is one seat of a public place for taking counsel, which in our city luxury established late. Of old the aedile gave a planked stage, raised on a sudden with no mass of stone. So did Murena and Gallius — I tell what is known. Afterward the powerful, not fearing expense, believed they would gain an everlasting name, if once a mass, built on a foundation of stone, should establish a place for the games for all time: this wedge-banked vastness of the theatre grew up. Pompey gave it, and Balbus, and Caesar Octavian, vying in expenses. But why do I tell these things? I came forth hither not for this cause, to set forth who built the theatres, who the forum, who the several parts of the walls: but that I might go before, and open up, men to be revered and praised by the gods, and what they wish for themselves. They are wont to pronounce their own sayings, which each of the wise men has already brought forth. You surely know what they are; but if memory halts at old matters, the player will come, the expounder of those which I hold less well."
+   },
+   {
+    "id": "c02",
+    "at": "1:0",
+    "text": "3. THE PLAYER. The story is that Solon the Athenian wrote at Delphi γνῶθι σεαυτόν, which in Latin is: \"Know yourself.\" Many think this belongs to Chilon the Laconian. Spartan Chilon, whether it be yours or not, they dispute, that which is reported next, ὅρα τέλος μακροῦ βίου, you who bid us look to the end of a long life. Many judge that Solon said this to Croesus. And fame says that Pittacus the Lesbian said γίγνωσκε καιρόν: he bids you know the time. But that καιρός is the timely time. Bias of Priene said οἱ πλεῖστοι κακοί, which in Latin is: \"the greater part of men are bad\"; but know that he called bad the unskilled. μελέτη τὸ πᾶν, that is Periander's of Corinth, who thinks that practice can do everything. Cleobulus of Lindus says ἄριστον μέτρον is best: that is, \"measure is best for all things.\" But Thales brought forth ἐγγύα, πάρα δ' ἄτα, who forbids us to stand surety, because the bondsman is harm. This warning of ours does not please those who lend at interest. I have spoken; I shall withdraw. Solon the lawgiver comes."
+   },
+   {
+    "id": "c03",
+    "at": "1:1",
+    "text": "4. SOLON. By Greek custom I, Solon, come forth onto the stage, to whom fame gave the palm of the Seven Sages. But fame has not the severity of judgement; for I think myself not the first, but one of them, since equality knows not how to endure rank. Rightly once the Delphic god counselled the foolish man who asked which of the sages should be first, that he set the garland of names in a smooth circle, lest any be first, or any be last. From the middle of their ring I, Solon, come forth, that what I am thought to have said to King Croesus, every sect of men may think said for itself. In Greek it has been compressed: ὅρα τέλος μακροῦ βίου, which becomes longer if you say it in Latin: I bid all men look to the end of life. Therefore avoid calling men wretched or blessed, because they are ever in a doubtful state. So it is, indeed. If I can, I will tell it in few words. Croesus, king or tyrant of Lydia, was among these blessed ones, rich beyond madness, who gave the gods temples with golden walls. He summoned me. I come, obedient to his word, that the Lydians might use a better king. He asks that I declare a blessed man, if I know any. I name Tellus, a citizen not ignoble: he, fighting for his homeland, had given up his life. He scorned this, seeks another. I found Aglaus: he had never gone beyond the bounds of his own little field. But he, laughing: \"In what place do you then put me, who alone am called blessed in the whole world?\" I say the end of life must first be looked to; then it must be judged, if the happiness remains. Croesus took the saying ill: I leave the king; he prepares war against the Persians. Setting out, conquered, bound, given over to the king, he stands, awaiting now the likeness of his own funeral, where the flame gave itself through the whole compass, rolling on high its swelling globes in the heat. And almost too late Croesus, with a mighty sound, \"O truly a prophet,\" he says, \"O Solon, Solon\" — and with a great cry thrice he calls Solon by name. Moved by this voice, Cyrus bids the burning pyre be extinguished throughout its whole ring and destroyed: and just in time a shower poured from the clouds checked the fire. Croesus is straightway led to the king through a chosen band of soldiers: he is asked what Solon he meant, and what cause he had for crying out the name. He sets forth all to the king, through the whole sequence. The king pities him, and, seeing the force of fortune, praises Solon; thereafter holds Croesus among his friends, and bids him pass the whole of what was left of his life with him, bound with golden fetters. I, by the testimony of two kings, was praised and approved by both. And what was said to one, let each think said for himself. I have now finished the cause for which I came forth hither. Lo, Chilon comes. Farewell, you all, and applaud."
+   },
+   {
+    "id": "c04",
+    "at": "2:0",
+    "text": "5. CHILON. My loins ache from sitting, my eyes from watching, while I wait for Solon, until he should take himself off. Ah, how few words, you gods, the Attic men speak! He has at last finished one saying in three hundred verses, and, looking back at me, departs. I am the Spartan Chilon, who now come forth. With the well-known brevity which we Laconians use, I commend our γνῶθι σεαυτόν, \"Know yourself,\" which is now held on the Delphic column. That troublesome labour is of the best fruit: to discern what you can bear and what you cannot; by night and by day, what you do and what you have done, to examine right to the likeness of the finest point. All duties — modesty, honour, steadfastness — are in this; and any glory has been scorned by us. I have spoken. Farewell, and remember; I do not wait for applause."
+   },
+   {
+    "id": "c05",
+    "at": "2:1",
+    "text": "6. CLEOBULUS. I am Cleobulus, citizen of a small island, but the author of a great saying, by which I am renowned: ἄριστον μέτρον, which they think I said. Interpret it, you who sit nearest the orchestra, on the neighbouring steps, among the fourteen rows: whether ἄριστον μέτρον is \"measure is best,\" tell! You have nodded? I am grateful; I will follow it through in order. He has already said from that place — your African poet (Terence) — ut ne quid nimis (\"that nothing be in excess\"); and a certain one of ours, μηδὲν ἄγαν (\"nothing too much\"). Both senses bear on this, whether Italian or Dorian. Of speaking, of being silent, of sleep, of waking, this is the measure; of benefits, of thanks, of injury, of zeal, of labours: whatever there is in all of life requires that measure of the best moderation. I have spoken; I shall withdraw — let there be a measure. Thales comes."
+   },
+   {
+    "id": "c06",
+    "at": "2:2",
+    "text": "7. THALES. I am Thales of Miletus, who said that water is the first principle for the creating of things, as the prophet Pindar did; and to whom once, by Apollo's command, the fishermen gave a golden tripod, drawn up from the sea; for they, at the bidding of the Delian god, had chosen me, because he had sent this gift to the wise. I, refusing, did not accept it, but gave it back to be borne to others, whom I believed my betters. Then, sent and sent back through all the seven sages, again they bring it to me. I, having received it, consecrated it to Apollo; for if Phoebus bids a wise man be chosen, it is fitting that no man be believed wise, but a god. That, then, is who I am. But there was a cause for my coming onto the stage, the same as for the two before me, that I might become the defender of my saying. It will displease — not, however, the prudent, whom use has taught and made skilled. Lo, ἐγγύα, πάρα δ' ἄτα, we say in Greek: in Latin it is, \"Stand surety, but harm is at hand for you.\" Through a thousand examples I could run, to prove that bondsmen and sureties are defendants of repentance. But I will name no one by name: let each of you say it to himself and think within himself to how great a loss and ill standing surety has been to him. Yet let this office remain welcome to both parties. Applaud, then, you one part; you the other, offended, hiss."
+   },
+   {
+    "id": "c07",
+    "at": "3:0",
+    "text": "8. BIAS. Because I, Bias of Priene, said οἱ πλεῖστοι κακοί, I suspect it is rendered in Latin as: \"the greater part are bad.\" I would not have said it; truth begets hatred. But I called bad the unskilled and the barbarous, who neglect law and equity and sacred ways. For this people, by which the theatre is girt, is wholly of the good. The land of our enemies holds those whom you believe I called the greater part bad. But let no one be so bad a judge as not now to couple himself to the parties of the good, whether he is truly good or eager to be called so. Now that hated name of \"bad\" has fled. I go. Farewell, and applaud, you greater part who are good.\n9. PITTACUS. Sprung of Mytilene, I am Pittacus the Lesbian, who taught the saying γίνωσκε καιρόν. But that καιρός warns you to know the time, and that there is a καιρός which they call the timely. So too there is a Roman saying: \"Come in good time.\" Your comic poet Terence too declares that of all things the time is first, when the slave Dromo had come to Antiphila, finding her hindered by nothing, watching the turn of the time. Reflect, all of you, how often offence occurs to one for whom the opportunity has not been watched for. The time warns me not to be tiresome. Applaud."
+   },
+   {
+    "id": "c08",
+    "at": "3:2",
+    "text": "10. PERIANDER. Born of Ephyra (Corinth), I, Periander, come forth hither, who said μελέτη τὸ πᾶν, and I now approve the saying — that it belongs to practice, what you do rightly. For he alone is effective in managing an affair who first reflects on the whole business. The comic poet Terence declares that the adverse or the favourable in affairs must be reflected on by all. Whoever wishes to place his abode, to wage war or to lay it down, to manage great or moderate things, even small ones too, it ever befits him to reflect; for all are too sluggish in new undertakings if reflection on the affair to be managed has been wanting. There is nothing that demands a fuller care than to consider what is to be done. Thereafter chance, not counsel, rules the unreflecting. But I now betake myself to my exit. Applaud, and, by reflecting, may you care for your commonwealth."
+   }
+  ]
+ },
+ {
+  "slug": "dewitt-h-parker-the-principles-of-aesthetics-d4e238",
+  "title": "The Principles of Aesthetics",
+  "author": "DeWitt H. Parker",
+  "language": "English",
+  "genre": "Aesthetics",
+  "era": "20th Century",
+  "class": "mixed",
+  "n_windows": 4,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "8:0",
+    "text": "We are such stuff As dreams are made of, and our little life Is rounded with a sleep;\nExegi monumentum aere perennius Regalique situ pyramidum altius * * * * * Non omnis moriar.\nCharm'd magic casements, opening on the foam Of perilous seas, in fairy lands forlorn\nTo-morrow, and to-morrow, and to-morrow, Creeps in this petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death.\nUn grand sommeil noir Tombe sur ma vie; Dormez toute espoir, Dormez toute envie!\nJe ne vois plus rien, Je perds la memoire Du mal et du bien.... Oh, la triste histoire!\nO, for a draught of vintage! that hath been Cool'd a long age in the deep-delved earth.\nOh, my love's like a red, red rose That's newly sprung in June.\nIn the case of the imitative arts, taking the given unity of the objects represented as a basis, the superior unity of the image is partly due to the singleness of the artist's interest. For art, as we know, is never the expression of mere things, but of things so far as they have value. Out of the infinite fullness of nature and of life, the artist selects those elements that have a unique significance for him."
+   },
+   {
+    "id": "c01",
+    "at": "85:0",
+    "text": "She lived unknown, and few could know When Lucy ceased to be; But she is in her grave, and O! The difference to me!\nFreeze, freeze, thou bitter sky, Thou dost not bite so nigh As benefits forgot,\nFear no more the heat o' the sun Nor the furious winter's rages; Thou thy worldly task hast done, Home art gone and ta'en thy wages; Golden lads and girls all must, As chimney sweepers, come to dust.\nSwept by confused alarms of struggle and flight Where ignorant armies crash by night,\nBlow, blow, thou winter wind, Thou art not so unkind As man's ingratitude.\nThy bosom | is endeared | with all hearts Which I by lacking | have supposed | dead; And there | reigns love, | and all love's loving parts, And all those friends | which I thought | buried.\nOnce up | on a | mid-night | drear-y;"
+   },
+   {
+    "id": "c02",
+    "at": "100:0",
+    "text": "Hot cross buns, hot cross buns, If your daughters don't like 'em, Give 'em to your sons. One a penny, two a penny, Hot cross buns,\nBreak, | break, | break, On thy cold, | grey stones, | O sea! And I would | that my tongue | might utter The thoughts | That arise | in me.\nBlow, blow, thou winter wind, Thou art not so unkind As man's ingratitude;\nThy tooth is not so keen Because thou art not seen, Although thy breath be rude.\nFreeze, freeze, thou bitter sky, Thou dost not bite so nigh As benefits forgot;\nThough thou the waters warp, Thy sting is not so sharp As friend remembered not.\n... on the shore Of the wide world I stand and think Till Love and Fame to nothingness do sink,\nLes femmes passent sous les arbres En martre, hermine et menu-vair Et les deesses, frileux marbres, Ont pris aussi l'abit d'hiver."
+   },
+   {
+    "id": "c03",
+    "at": "110:1",
+    "text": "La Venus Anadyomene Est en pelisse a capuchon: Flore, que la brise malmene, Plonge ses mains dans son manchon.\nEt pour la saison, les bergeres De Coysevox et de Coustou, Trouvant leures echarpes legeres Ont des boas autour du cou.\nSur le coteau, la-bas ou sont les tombes, Un beau palmier, comme un panache vert, Dresse sa tete, ou le soir les colombes Viennent nicher et se mettre a couvert,\nMais le matin elles quittent les branches; Comme un collier qui s'egrene, on les voit\nS'eparpiller dans Fair bleu, toutes blanches, Et se poser plus loin sur quelque toil.\nMon ame est l'arbre ou tous les soirs, comme elles, De blancs essaims de folles visions Tombent des cieux, en palpitant des ailes, Pour s'envoler des les premiers rayons."
+   }
+  ]
+ },
+ {
+  "slug": "scriptores-historiae-aug-alexander-severus-d95b45",
+  "title": "Alexander Severus",
+  "author": "Scriptores Historiae Augustae",
+  "language": "Latin",
+  "genre": "History",
+  "era": "Late Antiquity",
+  "class": "mixed",
+  "n_windows": 2,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "5:0",
+    "text": "\"Others shall hammer the breathing bronze more softly — I believe it well —\nshall draw living faces out of marble,\nshall plead causes better, and trace the courses of the sky\nwith the rod, and tell the rising stars;\nbut you, O Roman, remember to rule the peoples with your sway —\nthese shall be your arts — to impose the law of peace,\nto spare the conquered and to war down the proud.\"\n\"When you send me a hare, Gellia, you always charge me:\n'For seven days, Marcus, you will be handsome.'\nIf you speak truth, if you charge truth, Gellia,\nyou, Gellia, have never eaten a hare.\"\n\"That you see our king to be handsome,\nhandsome whom the Syrian stock brought forth —\nhunting does it, and the eaten hare,\nfrom which he gets a continual hare.\"\n\"That you think your king handsome,"
+   },
+   {
+    "id": "c01",
+    "at": "18:1",
+    "text": "out of a common little tale, you wretch —\nif you think it true, I am not angry;\nonly I would have you eat the little hares,\nthat you become, your soul's ills driven off,\nnor envy the handsome with malice of mind.\""
+   }
+  ]
+ },
+ {
+  "slug": "john-emerich-edward-dalb-letters-of-lord-acton-to-mary-gl-faa6fd",
+  "title": "Letters of Lord Acton to Mary Gladstone",
+  "author": "John Emerich Edward Dalberg-Acton (Lord Acton)",
+  "language": "English",
+  "genre": "History",
+  "era": "20th Century",
+  "class": "mixed",
+  "n_windows": 1,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "122:0",
+    "text": "Non equidera invideo; miror magis.\n“And to party gave up what was meant for mankind.”\n“Like some tall bully, lifts its head and lies.”\n“Ah, this thou should'st have done and not have spoken on't.\nIn me 'tis villainy. in thee it had been good service.”\n“Steersman, be not precipitate,” etc."
+   }
+  ]
+ }
+]

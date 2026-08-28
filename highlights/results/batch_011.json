@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "catullus-c-valerius-carmina-e8bcbc",
+    "picks": [
+      {
+        "id": "c16",
+        "style": "roman wedding prophecy, kithara and low frame drum, layered male and female voices, spinning-wheel pulse, incantatory, building to dread",
+        "why": "The Fates' song with its hammering refrain 'run, drawing the thread, run, spindles!' — a built-in chorus wrapped around the birth of Achilles."
+      },
+      {
+        "id": "c06",
+        "style": "latin epithalamium, antiphonal choirs of youths and maidens, aulos and lyre, alternating, evening-lit, tender then keen",
+        "why": "The walled-garden flower — untouched, then plucked and wanted by no one — Catullus's most quoted image, inside an answering-song already built for two choirs."
+      },
+      {
+        "id": "c12",
+        "style": "latin tragic lament, solo female voice, lyre and low bowed strings, rubato, bitter, keening",
+        "why": "Ariadne abandoned: 'let no woman give credence to man's oath' — a complete, furious aria that needs no context."
+      }
+    ]
+  },
+  {
+    "slug": "theocritus-idylls-641bde",
+    "picks": [
+      {
+        "id": "c10",
+        "style": "greek pastoral idyll, syrinx and lyre over soft drone, warm tenor, unhurried, sunlit, drowsy",
+        "why": "The harvest-home grove — cicadas, bees, pears at the feet, 'all breathed of rich summer' — the most beautiful landscape in Greek pastoral."
+      },
+      {
+        "id": "c13",
+        "style": "amoebean shepherd's song, twin panpipes and hand drum, two answering male voices, call-and-response, lilting, rustic",
+        "why": "'Spring everywhere, everywhere the meadows' — an antiphonal duet with the refrain shape already in the text, each stanza turning on 'but if she goes away'."
+      },
+      {
+        "id": "c14",
+        "style": "sicilian pastoral air, single reed pipe and plucked lyre, plain low voice, slow, sea-facing, contented",
+        "why": "'May I not have the land of Pelops, nor talents of gold... but under this rock will I sing, holding you in my arms' — a whole ethic of love in one refusal."
+      }
+    ]
+  },
+  {
+    "slug": "mary-tighe-poems-fb2218",
+    "picks": [
+      {
+        "id": "c20",
+        "style": "georgian devotional air, chamber organ and viola da gamba, frail warm soprano, slow, hymn-like, consoling",
+        "why": "'Domestic Love! assuasive power! Life's ruby gem' — an invocation written from a sickbed, plain and steady where the epic verse is ornate."
+      },
+      {
+        "id": "c19",
+        "style": "english pastoral lyric, harp and flute, clear female voice, flowing, gentle, riverine",
+        "why": "The Vartree at morning and noon — dew, silver tide, chesnut glooms; a clean landscape song with real light in it."
+      },
+      {
+        "id": "c23",
+        "style": "irish ballad, uilleann pipes and bodhran, keening female voice, modal, mournful, strophic",
+        "why": "'Remember still in fury's hour the murdered youths of Glenmalure' — a rebellion ballad that ends on a plea a listener can carry away whole."
+      }
+    ]
+  },
+  {
+    "slug": "mark-akenside-poems-7a5821",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "english nocturne, chamber organ and muted strings, hushed baritone, very slow, floating, becalmed",
+        "why": "A hymn to Sleep: midnight looking down on earth and main, birds hushed, only the brook still murmuring — the quietest thing in the book."
+      },
+      {
+        "id": "c00",
+        "style": "georgian ode setting, harpsichord and oboe, light tenor, pastoral, lilting, chamber",
+        "why": "Horace in the garden with the wandering bee — a clean opening, concrete, and short-lined enough to sing."
+      },
+      {
+        "id": "c01",
+        "style": "baroque dramatic aria, agitated strings and continuo, urgent alto, minor key, stalking, unsettled",
+        "why": "Suspicion arriving as a sorceress with her torch steeped in gall and her garments dripping — a real personification with menace."
+      }
+    ]
+  },
+  {
+    "slug": "elizabeth-carter-poems-503c4f",
+    "picks": [
+      {
+        "id": "c15",
+        "style": "eighteenth-century hymn-ode, harpsichord and strings, clear soprano, stately, nocturnal, measured",
+        "why": "The Ode to Wisdom — 'the solitary bird of night... quits his time-shook tow'r' — Carter's best-known lyric, and it was set to music in her own century."
+      },
+      {
+        "id": "c08",
+        "style": "english art song, fortepiano and cello, reflective mezzo, gently rocking, tidal, introspective",
+        "why": "'Thou restless fluctuating deep... in thy for ever varying form my own inconstant self I find' — the whole conceit lands in four lines."
+      },
+      {
+        "id": "c00",
+        "style": "georgian ode, viola da gamba and chamber organ, contralto, slow, shadowed, processional",
+        "why": "'Come, Melancholy! silent power, companion of my lonely hour' — a clean invocation with the yew grove and the retreat from folly's noisy stream."
+      }
+    ]
+  },
+  {
+    "slug": "columella-lucius-junius--res-rustica-2dc1aa",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "roman georgic, shepherd's pipe and plucked lyre, warm baritone, unhurried, sunlit, rustic",
+        "why": "Driving the flock out at first light while the turf is still hoary, then into the shade of Jove's great oak — the one passage here that is pure landscape."
+      },
+      {
+        "id": "c04",
+        "style": "latin bee-hymn, soft aulos and shaken rattle, murmuring male voices, humming drone, light, midsummer",
+        "why": "New kings leading out the infant swarms under a wild-olive, bees resting on bridges to dry their wings — concrete and strangely tender."
+      }
+    ]
+  },
+  {
+    "slug": "frederick-engels-the-condition-of-the-working-cla-2d9e0a",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "chartist protest ballad, industrial folk, anvil percussion and fiddle, gritty male chorus, driving, marching",
+        "why": "The Steam King as a one-armed Moloch fed on children — a factory-age ballad already written in singable quatrains."
+      },
+      {
+        "id": "c01",
+        "style": "workers' anthem, hammered percussion, massed unison voices, insurgent, accelerating, defiant",
+        "why": "'Then down with the King, the Moloch King, ye working millions all' — the rallying half of the same song, built to be shouted back."
+      }
+    ]
+  },
+  {
+    "slug": "richard-falckenberg-history-of-modern-philosophy-fro-e856c2",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "german classical lied, fortepiano and light strings, wry baritone, epigrammatic, brisk, chamber",
+        "why": "Schiller's joke on Kantian duty — serve your friends only after learning to despise them — a complete two-voice epigram."
+      }
+    ]
+  }
+]

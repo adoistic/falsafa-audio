@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "appendix-vergiliana-culex-4b5c58",
+    "picks": [
+      {
+        "id": "c16",
+        "style": "latin orphic lament, single lyre and low bowed drone, high plaintive voice, slow, spellbound, suspended",
+        "why": "Orpheus stops the rivers and the beasts, and the Moon reins in her horses to listen — and it still is not enough."
+      },
+      {
+        "id": "c12",
+        "style": "latin underworld song, hollow flute and dark strings, thin spectral voice, slow, hushed, reproachful",
+        "why": "The ghost of the gnat wakes the shepherd to accuse him: 'I am driven, the prey of Charon.'"
+      },
+      {
+        "id": "c22",
+        "style": "roman pastoral farewell, reed pipe and soft lyre, warm baritone, unhurried, tender, fading",
+        "why": "The parting line is a small perfect blessing: 'I depart, never to return. You, tend the spring and the green woods.'"
+      }
+    ]
+  },
+  {
+    "slug": "james-thomson-poems-24b480",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "georgian pastoral ode, baroque strings and flute, warm tenor, flowing, bright, welcoming",
+        "why": "'Come, gentle Spring, aethereal mildness, come' — an invocation built to be sung, with Winter walking off north behind it."
+      },
+      {
+        "id": "c16",
+        "style": "spenserian song of temptation, harp and viol, low seductive voice, languid, drowsy, hypnotic",
+        "why": "The enchanter's call from the Castle of Indolence — 'O come, ye weary Wights, to me!' — a refrain with a hook already in it."
+      },
+      {
+        "id": "c12",
+        "style": "english winter ballad, low strings and sparse piano, grave baritone, slow, bleak, closing in",
+        "why": "The man lost in the snow: 'the thoughts of home / Rush on his nerves,' and night shuts round him anyway."
+      }
+    ]
+  },
+  {
+    "slug": "oliver-goldsmith-poems-7b74c6",
+    "picks": [
+      {
+        "id": "c11",
+        "style": "english pastoral elegy, acoustic guitar and soft strings, warm tenor, unhurried, nostalgic, evening-lit",
+        "why": "The brook, the mill, the church on the hill, the hawthorn 'for talking age and whispering lovers made.'"
+      },
+      {
+        "id": "c14",
+        "style": "village ballad, fiddle and tabor, genial baritone, brisk, affectionate, tavern-warm",
+        "why": "'And still they gaz'd, and still the wonder grew, / That one small head could carry all he knew.'"
+      },
+      {
+        "id": "c00",
+        "style": "english narrative ballad, harp and fiddle, two answering voices, plaintive, measured, candle-lit",
+        "why": "'Turn, gentle Hermit of the dale' — a ballad opening that sets a whole story going in eight lines."
+      }
+    ]
+  },
+  {
+    "slug": "unknown-slokantara-d7a628",
+    "picks": [
+      {
+        "id": "c15",
+        "style": "javanese-sanskrit recitation, gamelan gongs and bamboo flute, measured male chant, slow, ceremonial, resonant",
+        "why": "Gold burned, sandalwood ground, sugarcane cut — three hammer-blows of repetition, then the wheel of joy and grief turning."
+      },
+      {
+        "id": "c09",
+        "style": "kawi didactic chant, soft gong and drone, low even voice, steady, wry, unhurried",
+        "why": "A litany of the flaws of the sun, the moon, the ocean and the gods, ending: how much more so will people have flaws?"
+      },
+      {
+        "id": "c10",
+        "style": "devotional sanskrit chant, tanpura drone and small bell, warm male voice, slow, luminous, sparse",
+        "why": "'The lamp of the night is the moon... in the three worlds, the lamp is dharma' — a built refrain on one image."
+      }
+    ]
+  },
+  {
+    "slug": "homer-epigrams-4a5bfa",
+    "picks": [
+      {
+        "id": "c05",
+        "style": "greek curse song, aulos and clattering percussion, ragged gleeful chorus, fast, wild, mocking",
+        "why": "The poet's revenge on the cheating potters — Shatter, Smash, Charr, Crash and Crudebake summoned by name."
+      },
+      {
+        "id": "c06",
+        "style": "greek folk begging-song, syrinx and hand drum, bright chorus of young voices, quick, festive, door-to-door",
+        "why": "'I come, and I come yearly, like the swallow' — a real doorstep song, blessing and threat in the same breath."
+      },
+      {
+        "id": "c00",
+        "style": "archaic greek epitaph chant, single lyre, clear distant voice, still, timeless, sparse",
+        "why": "The bronze maiden on Midas' tomb, speaking for as long as water flows and tall trees flourish."
+      }
+    ]
+  },
+  {
+    "slug": "scriptores-historiae-aug-tyranni-triginta-a2ddc3",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "late latin funerary declamation, low brass drone and frame drum, sombre baritone, slow, martial, grim",
+        "why": "The only candidate; its core is a real tomb-epigram — the victor burying the rival he would rather have kept alive."
+      }
+    ]
+  },
+  {
+    "slug": "thucydides-history-of-the-peloponnesian-war-af5aa9",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "greek epitaph song, lyre and soft drone, clear female voice, slow, dignified, spare",
+        "why": "Archedice's epitaph — daughter, sister, wife and mother of tyrants, and never once lifted up with pride."
+      }
+    ]
+  },
+  {
+    "slug": "max-stirner-the-ego-and-its-own-f98f48",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "defiant romantic art song, piano and low strings, bold baritone, martial, rising, brief",
+        "why": "The only candidate, and it stands as a boast: every foeman he can see and measure with his eye."
+      }
+    ]
+  }
+]

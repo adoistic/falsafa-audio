@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "hesiod-theogony-26bbaf",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "archaic greek hymn, phorminx lyre and low drone, rhapsode tenor, stately, incantatory, processional",
+        "why": "The Muses washing in the spring and dancing on soft feet before they go abroad by night, veiled in mist."
+      },
+      {
+        "id": "c17",
+        "style": "cold underworld chant, bowed drone and distant bell, low male voice, very slow, vast, echoing",
+        "why": "The great gulf where a falling man needs a whole year to reach the floor, and Night and Day greet each other on the bronze threshold."
+      },
+      {
+        "id": "c16",
+        "style": "thunderous epic chant, deep drums and low brass drone, massed male voices, fast, cataclysmic, roaring",
+        "why": "Zeus opening on the Titans — the sea seething, heat seizing Chaos, earth and heaven sounding as if hurled together."
+      }
+    ]
+  },
+  {
+    "slug": "ann-yearsley-poems-4d0e6f",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "georgian nocturne, harp and low strings, soft female voice, hushed, moonlit, slow",
+        "why": "'At this lone hour, when Nature silent lies' — and Hydra-headed Care drops his galling chain for one moment."
+      },
+      {
+        "id": "c11",
+        "style": "melancholy english art song, viola and piano, low female voice, brooding, spare, unresolved",
+        "why": "'I sicken at the Sun, and fly his beams, / Like some sad ghost which loves the moonless night.'"
+      },
+      {
+        "id": "c13",
+        "style": "gothic ballad, harpsichord and tremolo strings, urgent female voice, eerie, quick, shivering",
+        "why": "A reader frightened by her own book — the fleshless form rising as the taper sinks, in tight singable quatrains."
+      }
+    ]
+  },
+  {
+    "slug": "mary-collier-poems-04c1fc",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "english work song, bare frame drum and fiddle, plain strong female voice, steady, driving, unadorned",
+        "why": "'No Learning ever was bestow'd on me; / My Life was always spent in Drudgery' — the whole address lands in ten lines."
+      },
+      {
+        "id": "c03",
+        "style": "winter labour ballad, low fiddle and hand drum, weathered female voice, slow, cold, insistent",
+        "why": "Rising under Orion in the snow while 'you on easy Beds may lie and sleep' — the contrast is the song."
+      },
+      {
+        "id": "c04",
+        "style": "kitchen work chant, clattering percussion and drone fiddle, rough female chorus, brisk, relentless, wry",
+        "why": "Pots, kettles, saucepans, skillets, skimmers and ladles — a catalogue that beats like a work rhythm, ending on lost perfections."
+      }
+    ]
+  },
+  {
+    "slug": "richard-graves-poems-ea0032",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "english pastoral air, recorder and harpsichord, light soprano, gentle, springlike, lilting",
+        "why": "An invitation sung to birds — hop from spray to spray, weave the mossy nest, sing the live-long day."
+      },
+      {
+        "id": "c03",
+        "style": "reflective baroque air, solo lute, quiet tenor, slow, still, meditative",
+        "why": "The stream and the hour-glass in eight lines: 'each falling sand his folly chides, / Who lets one precious moment run to waste.'"
+      },
+      {
+        "id": "c13",
+        "style": "georgian song of absence, guitar and viola, warm male voice, plaintive, unhurried, evening-toned",
+        "why": "Larks and flowery fields turned unbearable by one absence — 'Sick of the world I muse alone.'"
+      }
+    ]
+  },
+  {
+    "slug": "ausonius-decimus-magnus-griphus-ternarii-numeri-dee749",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "latin drinking incantation, hand drums and low pipes, chanting male voices, insistent, hypnotic, accelerating",
+        "why": "The only candidate, and it is already a chant: 'Drink thrice' opening and closing a hammering litany of threes."
+      }
+    ]
+  },
+  {
+    "slug": "victor-cousin-lectures-on-the-true-the-beautif-ab35d3",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "french baroque funeral air, viol consort and chamber organ, grave baritone, slow, dignified, austere",
+        "why": "The epitaph at its centre stands alone — wandering, poor, banished, and even his ashes hidden from the wolves."
+      }
+    ]
+  },
+  {
+    "slug": "cicero-marcus-tullius-brutus-be99b0",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "early latin saturnian chant, plucked lyre and hand drum, rough low voice, archaic, measured, sparse",
+        "why": "The old Ennian praise of Cethegus — 'the chosen flower of the people, and the marrow of Persuasion.'"
+      }
+    ]
+  },
+  {
+    "slug": "cicero-marcus-tullius-orator-a10c4c",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "latin epigram song, single lute and light hand percussion, wry tenor, light, quick, brief",
+        "why": "One barbed image, whole in itself: phrases laid like the little cubes of a mosaic pavement."
+      }
+    ]
+  }
+]

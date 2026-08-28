@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "sophocles-trachiniae-27fd36",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "ancient greek tragedy, kithara and low aulos, solo female voice over dark drone, grave, unhurried",
+        "why": "Deianeira's opening: the river-god suitor who came as bull, as coiled serpent, as ox-faced man with springwater in his beard."
+      },
+      {
+        "id": "c19",
+        "style": "ancient greek tragic monody, aulos and heavy frame drum, anguished baritone, keening chorus, slow building to violent",
+        "why": "Heracles begging Hades for sleep, then counting the labours that could not kill him against the woman who did."
+      }
+    ]
+  },
+  {
+    "slug": "euripides-iphigenia-in-tauris-51b6ae",
+    "picks": [
+      {
+        "id": "c17",
+        "style": "ancient greek monody, lyre and soft aulos, high female voice with birdlike melisma, longing, gentle, slow",
+        "why": "The halcyon chorus — 'I, wingless bird that I am, compare my laments with yours' — homesickness turned into birdsong."
+      },
+      {
+        "id": "c02",
+        "style": "greek chorus with anatolian colour, aulos, frame drum, layered female voices, keening, ritual, slow",
+        "why": "Libations of milk, wine and the labour of the tawny bees, answered by a barbarian cry of Asian hymns for the fallen Atreidae."
+      },
+      {
+        "id": "c21",
+        "style": "delphic hymn, kithara and lyre, mixed chorus, modal, processional, mysterious",
+        "why": "Earth breeding dream-visions to steal prophecy back from Apollo, and Zeus smiling as the child clutches his throne."
+      }
+    ]
+  },
+  {
+    "slug": "lucretius-de-rerum-natura-4543ca",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman hymn, lyre and low flutes, warm male soloist with chorus, flowing, radiant, moderate",
+        "why": "The invocation of Venus — the most famous opening in Latin verse, and pure incantatory repetition: 'For thee... for thee...'."
+      },
+      {
+        "id": "c10",
+        "style": "epicurean meditation, plucked lyre over soft drone, calm baritone, slow, consoling",
+        "why": "Life given to none in fee-simple, only in usufruct; death as a mirror of the time before we were born, serener far than sleep."
+      },
+      {
+        "id": "c04",
+        "style": "latin philosophical chant, steady hand drums, sparse strings, level male voice, hypnotic, mid-tempo",
+        "why": "The swerve — atoms falling like raindrops through the unbottomed void until one of them declines a little."
+      }
+    ]
+  },
+  {
+    "slug": "euripides-rhesus-be0bd9",
+    "picks": [
+      {
+        "id": "c09",
+        "style": "greek war-hymn chorus, bronze bells and frame drums, layered male voices, driving, exultant",
+        "why": "'Thou Rider golden and swift and sheer, Achilles falters: appear! appear!' — rhymed, chanting, made for a chorus."
+      },
+      {
+        "id": "c22",
+        "style": "greek lament, solo mezzo over drone, sparse lyre, keening, slow, curse-refrain",
+        "why": "The Muse mourning her son and cursing Odysseus, Diomede and Helen who emptied a thousand cities of good men."
+      },
+      {
+        "id": "c06",
+        "style": "hymn to apollo, kithara and aulos, mixed chorus, luminous, processional, steady",
+        "why": "Apollo's music rolling stone on stone to raise young Ilion into towers of light — one clean image, well-shaped."
+      }
+    ]
+  },
+  {
+    "slug": "ausonius-decimus-magnus-technopaegnion-d2d748",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "late roman chant, sparse lyre and low drone, single male voice, chain-refrain, hypnotic, slow",
+        "why": "The chained verse: Chance to Hope to Death to Night to Light to Sun — each word handed to the next, a built-in refrain."
+      }
+    ]
+  },
+  {
+    "slug": "friedrich-schiller-philosophical-letters-c69c0d",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "german romantic ode, strings and piano, soaring tenor with rising chorus, exalted, building",
+        "why": "'Lifeless masses are we, when we hate; Gods, when we cling' — the ladder from savage to seraph, dancing until time itself sinks."
+      },
+      {
+        "id": "c00",
+        "style": "german art song turning to chorale, piano and horns, ardent tenor, warm, quickening",
+        "why": "'Happy! happy! I have found thee... Let the wild chaos return' — friendship set against the collapse of the atoms."
+      }
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-de-morte-peregrini-51e3d7",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "mock-oracular chant, aulos drone and finger cymbals, sonorous male voice, solemn with a sardonic edge, slow",
+        "why": "The fake Sibylline oracle for Peregrinus' pyre — hexameters that sound holy and end on fifteen talents of usury."
+      }
+    ]
+  },
+  {
+    "slug": "chariton-of-aphrodisias-callirhoe-8d335b",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "ancient greek epic recitation, kithara over soft drone, warm male voice, calm, mysterious, slow",
+        "why": "Only candidate, and a good one: the gods walking as strangers from afar to watch the violence and good order of men."
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "slug": "ausonius-decimus-magnus-commemoratio-professorum-burdiga-dc61ad",
+  "picks": [
+   {"id": "c20", "style": "late antique latin elegy, bowed lyre, low strings, grave male voice, slow processional, restrained lament", "why": "The closing envoi to the dead teachers — a farewell that stands entirely on its own, ending on memory outliving the ash."},
+   {"id": "c05", "style": "roman funeral lament, single flute, muted strings, tenor with chorus response, slow, mournful", "why": "The solstitial-grass image and the Horace tag 'Nothing is in every part blessed' give it a real turn and a closing line."}
+  ]
+ },
+ {
+  "slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "picks": [
+   {"id": "c20", "style": "melancholy urdu ghazal, harmonium, tabla, sarangi, expressive male vocal, rubato, intimate", "why": "A complete ghazal built on the refrain 'Where now' — Ghalib's great ubi sunt, coherent from first line to last."},
+   {"id": "c14", "style": "classical ghazal, sarangi and harmonium, low male voice with slow tabla, brooding, cyclical", "why": "The 'Again... again...' anaphora returns love, wounds and salt in cycles — made for a repeating musical figure."},
+   {"id": "c08", "style": "qawwali-inflected ghazal, harmonium, dholak, handclaps, layered male voices, rising, elegiac", "why": "Every couplet lands on 'now I am gone' — a posthumous refrain with the momentum of a lament sung after the funeral."}
+  ]
+ },
+ {
+  "slug": "charlotte-smith-poems-775ddd",
+  "picks": [
+   {"id": "c00", "style": "late georgian art song, fortepiano, cello, plaintive soprano, unhurried, elegiac", "why": "Sonnet I entire, closing on the famous line that those paint sorrow best who feel it most."},
+   {"id": "c08", "style": "english parlour song, square piano, viola, warm mezzo, slow, resigned", "why": "A whole sonnet on imagination burning out — self-contained, and the 'robe of flow'rs' image carries it."},
+   {"id": "c11", "style": "gothic ballad, minor-key piano, tremolo strings, dramatic soprano, storm-driven, urgent", "why": "A single unbroken storm-lament over a drowning lover; dramatic voice, lightning, and a refrain-like address to the waters."}
+  ]
+ },
+ {
+  "slug": "christian-carstairs-poems-cdca30",
+  "picks": [
+   {"id": "c18", "style": "scots folk song, fiddle, small harp, clear female voice, lilting, plaintive", "why": "An actual song with a named tune and a repeating 'through the lang muir I'll think o' my Willie' line."},
+   {"id": "c08", "style": "georgian parlour air, guitar, gentle female vocal, slow, reflective", "why": "The beech tree whose leaves revive while the speaker goes down to the grave — the one genuine image in the book."}
+  ]
+ },
+ {
+  "slug": "thomas-hudson-poems-e5f3ae",
+  "picks": [
+   {"id": "c00", "style": "georgian ode, baroque strings and harpsichord, declamatory tenor, stately, gathering", "why": "Night's dragon-drawn car retreating before the cock-crow — the strongest single image in the collection."},
+   {"id": "c11", "style": "english pastoral ode, chamber strings, oboe, warm baritone, moderate, contented", "why": "The death's-head flag against 'mine be the low and level way' — a clean contrast that a song can turn on."},
+   {"id": "c16", "style": "baroque hymn to harmony, organ and strings, choir with soprano solo, radiant, processional", "why": "Concord chaining the wandering orbs, then riding out on the morning's wings — cosmic and singable."}
+  ]
+ },
+ {
+  "slug": "suetonius-the-lives-of-the-twelve-caesars-4c36b5",
+  "picks": [
+   {"id": "c01", "style": "roman satiric elegy, lyre and low flute, wry spoken-sung baritone, measured, dry", "why": "The one coherent passage among Latin tags and apparatus: Terence courted by nobles, then dying too poor for a hired house."}
+  ]
+ },
+ {
+  "slug": "hugo-grotius-the-rights-of-war-and-peace-0db900",
+  "picks": [
+   {"id": "c00", "style": "greek tragic chorus, lyre, frame drum, layered female voices, solemn, defiant", "why": "Antigone's unwritten laws, not of today or yesterday but from all eternity — the most quoted defiance in Greek drama."}
+  ]
+ },
+ {
+  "slug": "appianus-of-alexandria-macedonian-affairs-db8fa4",
+  "picks": [
+   {"id": "c00", "style": "oracular chant, hollow drone, bone flute, whispered layered voices, slow, ominous", "why": "A Sibylline prophecy, short and complete, with the built-in cadence of an oracle."}
+  ]
+ }
+]

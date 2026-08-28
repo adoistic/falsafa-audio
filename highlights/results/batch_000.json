@@ -1,0 +1,136 @@
+[
+  {
+    "slug": "ausonius-decimus-magnus-epistulae-909cf4",
+    "picks": [
+      {
+        "id": "c22",
+        "style": "late antique latin prayer-hymn, unaccompanied plainchant with soft drone, low male voice, slow, reverent, sparse",
+        "why": "A complete morning prayer — 'let no day be passed by me in sadness' — self-contained and quietly devastating."
+      },
+      {
+        "id": "c17",
+        "style": "late roman elegiac song, cithara and low strings, warm tenor, building anaphora, yearning, rubato",
+        "why": "The 'now he leaves Spain, now he approaches, now he beats at thy door' build is pure refrain, ending on a heartbreak."
+      },
+      {
+        "id": "c18",
+        "style": "latin rhetorical lament, lyre and frame drum, declamatory male voice, insistent, gathering, measured",
+        "why": "'Nature made nothing dumb' — a whole catalogue of the world's noises marshalled against one friend's silence."
+      }
+    ]
+  },
+  {
+    "slug": "seneca-lucius-annaeus-apocolocyntosis-1cb5a3",
+    "picks": [
+      {
+        "id": "c19",
+        "style": "mock funeral dirge, roman satire, low brass and reedy flutes, ironic massed chorus, processional, slow and swaggering",
+        "why": "A parody lament with real dirge shape — 'Mourn, mourn, pettifoggers, ye venal crew' is a made refrain."
+      },
+      {
+        "id": "c23",
+        "style": "sardonic latin cabaret, plucked lyre and hand percussion, dry male voice, jaunty, looping, unresolved",
+        "why": "The bottomless dice-box is the sharpest image in the satire and the verse already circles like the punishment."
+      },
+      {
+        "id": "c04",
+        "style": "classical spinning-song, kithara and light strings, bright interlacing female voices, lilting, incantatory",
+        "why": "The Fates pulling golden thread while Phoebus plays — a genuine lyric interlude in a prose satire."
+      }
+    ]
+  },
+  {
+    "slug": "aristophanes-birds-8b2032",
+    "picks": [
+      {
+        "id": "c11",
+        "style": "ancient greek comic chorus, aulos and lyre, frame drum, layered voices with birdcall syllables, lively, dancing",
+        "why": "The swan chorus on the Hebrus with its tiotiotiotinx refrain — the play's one true song, already built to be sung."
+      },
+      {
+        "id": "c19",
+        "style": "mock dithyramb, aulos and shimmering strings, high wavering male voice, floating, airy, absurdly grand",
+        "why": "'Give me wings and I will fly into the topmost airs to gather fresh songs in the clouds' — the line the play is remembered by."
+      }
+    ]
+  },
+  {
+    "slug": "richard-jago-poems-57279a",
+    "picks": [
+      {
+        "id": "c03",
+        "style": "english pastoral elegy, harpsichord and recorder, plaintive soprano, strophic, grieving, unhurried",
+        "why": "The goldfinch's lament built on a hammering 'Was it for this' — refrain, grief, and concrete nest-making detail."
+      },
+      {
+        "id": "c05",
+        "style": "georgian pastoral air, baroque guitar and flute, warm tenor, courting, lilting, springlike",
+        "why": "The blackbird's wooing song — 'the wintry storms are flown, and gentle Zephyrs fan the air' — a clean, singable love lyric."
+      },
+      {
+        "id": "c13",
+        "style": "english georgian hymn-air, chamber organ and viola, reflective tenor, slow, valedictory",
+        "why": "'To-morrow on my roof your guests no more' turns departing swallows into a whole theory of mortality in four lines."
+      }
+    ]
+  },
+  {
+    "slug": "henry-carey-poems-65d065",
+    "picks": [
+      {
+        "id": "c13",
+        "style": "english broadside ballad, fiddle and hurdy-gurdy, comic male-female duet, bouncing, nonsense refrain, brisk",
+        "why": "Roger tapping at Dolly's window with thumpaty-thump — the nonsense refrain is already a hook."
+      },
+      {
+        "id": "c19",
+        "style": "georgian ballad-opera air, harpsichord and violin, plain sincere tenor, tender, strophic with refrain",
+        "why": "Sally of our Alley — the refrain repeats, the devotion is comic and real, and it was written to be sung."
+      },
+      {
+        "id": "c20",
+        "style": "london street ballad, fiddle and tabor, bright saucy female voice, brisk, defiant, strophic",
+        "why": "Sally's answering ballad gives the woman the voice and the same 'in spite of all our Alley' refrain."
+      }
+    ]
+  },
+  {
+    "slug": "4th-earl-of-chesterfield-poems-5d0ffd",
+    "picks": [
+      {
+        "id": "c06",
+        "style": "georgian drawing-room song, harpsichord and cello, wry baritone, elegant, moderate, lightly mocking",
+        "why": "'To die's a lesson we shall know too soon without a master' — a complete, epigrammatic argument against sermons on death."
+      },
+      {
+        "id": "c09",
+        "style": "restoration catch, lute and viol, sly tenor, light, teasing, dance-like",
+        "why": "The Chloe song is a whole seduction argument in four neat stanzas, blasphemous and self-contained."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-de-communibus-notitiis-adversus--e6d970",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "ancient greek philosophical chant, lyre and low drone, grave male voice, slow, declamatory, austere",
+        "why": "Carries the Sophoclean quatrain — 'neither now nor yesterday these deep conceits of God began' — the best line available in this work."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-de-sera-numinis-vindicta-864a5e",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "greek gnomic verse, kithara and hand drum, stern male voice, measured, oracular, sparse",
+        "why": "Only candidate, but a real gnomic couplet: the man who plots his neighbour's harm plots it against his own heart."
+      }
+    ]
+  },
+  {
+    "slug": "john-milton-areopagitica-0f564e",
+    "picks": []
+  }
+]

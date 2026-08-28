@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "valmiki-ramayana",
+    "picks": [
+      {"id": "c00", "style": "sanskrit invocation, tanpura drone and bamboo flute, deep male voice, slow, questioning", "why": "The question that starts the whole epic — 'Who in this world today is truly virtuous?' — a litany of questions that stands alone."},
+      {"id": "c12", "style": "soaring sanskrit chant, tanpura and rapid tabla, bright male voice, fast, exhilarated", "why": "Hanumān flying the moon's path, bursting in and out of cloud-banks, with Siṃhikā waiting below."},
+      {"id": "c19", "style": "sanskrit lament, sarangi and low drone, grieving male voice, slow, heavy", "why": "Rāvaṇa over Indrajit, each line beginning 'Today' and ending 'where have you gone, abandoning us all?'"}
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-persa-3c8744",
+    "picks": [
+      {"id": "c00", "style": "roman comic aria, double pipes and hand drum, exasperated male voice, brisk, mock-heroic", "why": "The penniless lover claiming his labours outdo Hercules' — lion, Hydra, stag, boar, birds of Stymphalus."},
+      {"id": "c02", "style": "patter song, plucked lyre and clappers, fast male voice, rattling, boastful", "why": "The parasite's ancestral trade recited down the generations: 'just like mice, always fed on the victuals of others.'"},
+      {"id": "c21", "style": "roman banquet duet, tibiae and tambourine, two warm voices, lilting, amorous", "why": "'Why am I without you? And why are you without me?' — a love duet that walks straight to the couches."}
+    ]
+  },
+  {
+    "slug": "lady-mary-chudleigh-poems-f0cfc5",
+    "picks": [
+      {"id": "c06", "style": "baroque dramatic aria, harpsichord and strings, steady soprano, measured, unflinching", "why": "Arria stabs herself first and hands back the dagger smiling: 'O Petus, thus, thy Fate command.'"},
+      {"id": "c04", "style": "visionary art song, chamber organ and viol, clear high voice, slow, rising", "why": "The soul climbing away from earth — 'Yonder's the little Ball of Earth, it lessens as I rise.'"},
+      {"id": "c00", "style": "pindaric sea ode, cello and harpsichord, warm alto, swelling, restless", "why": "A whole storm-at-sea figure for a life of business, ending in the plea for a safe retreat."}
+    ]
+  },
+  {
+    "slug": "thomas-holcroft-poems-91e9ea",
+    "picks": [
+      {"id": "c02", "style": "village lament ballad, solo fiddle and guitar, aged male voice, slow, rueful", "why": "The old athlete counting what his arm could once lift, now 'wither'd, weak' — plain quatrains, real grief."},
+      {"id": "c19", "style": "skeptic's air, spare piano and cello, dry baritone, unhurried, wry", "why": "'Our joys are false, and false our tears' — and the rainbow that vanishes when you reach it."},
+      {"id": "c00", "style": "georgian elegy, string quartet, plaintive tenor, slow, formal", "why": "A clean elegy opening: 'His Wisdom Folly, Length of Time a Span, his Life is Vanity, his Death is Woe.'"}
+    ]
+  },
+  {
+    "slug": "plutarch-quaestiones-convivales-2765f8",
+    "picks": [
+      {"id": "c01", "style": "greek symposium song, lyre and soft aulos, conversational tenor, easy, reflective", "why": "A run of pungent quoted verses on old age, buried grief, and the sweetness of remembering past toils."},
+      {"id": "c02", "style": "banquet air, kithara and hand drum, light male voice, gentle, abundant", "why": "Ends on the orchard line — 'The fig-trees sweet, the apple-trees that bear fair fruit, and olives green through all the year.'"}
+    ]
+  },
+  {
+    "slug": "longinus-on-the-sublime-61bbc7",
+    "picks": [
+      {"id": "c00", "style": "sublime greek hymn, deep drone and struck strings, resonant male voice, vast, surging", "why": "Poseidon striding, the sea-beasts gambolling from their lairs, the sea parting for joy — then Sappho's 'he seems to me equal to the gods'."},
+      {"id": "c02", "style": "storm ode, low strings and rolling percussion, urgent voice, driving, fearful", "why": "The Homeric wave burying the ship in foam, the sailors borne a little way out of reach of death."}
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-de-saltatione-ce33bf",
+    "picks": [
+      {"id": "c00", "style": "greek dance song, aulos and finger cymbals, light voices, quick, circling", "why": "Only candidate; a chain of lines about dancing, with 'their dainty feet round the dark waters dance, about the altar of Zeus.'"}
+    ]
+  },
+  {
+    "slug": "gaius-institutes-of-roman-law-09683f",
+    "picks": [
+      {"id": "c00", "style": "sea-trader's chant, bowed lyre and low drum, rough male voice, steady, working", "why": "Only candidate; three lines of barter at a harbour — copper, steel, hides, cattle, slaves — concrete and chantable."}
+    ]
+  }
+]

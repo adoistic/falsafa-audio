@@ -1,0 +1,136 @@
+[
+  {
+    "slug": "claudian-panegyricus-de-sexto-consulatu-h-baa73a",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "late antique lament, low bowed strings and sparse frame drum, weary baritone, slow, bitter, unresolved",
+        "why": "Alaric alone after the rout: 'I fear my friends more than my foes ... my life is a burden; why prolong it?' — the one human voice in the panegyric."
+      },
+      {
+        "id": "c06",
+        "style": "roman civic invocation, cithara and low horns, commanding female voice, stately, reproachful, processional",
+        "why": "Rome herself speaking as a slighted mother, counting the white horses and the arch she built for a son who would not come."
+      }
+    ]
+  },
+  {
+    "slug": "statius-thebais-c8a661",
+    "picks": [
+      {
+        "id": "c23",
+        "style": "latin epic defiance, war horns and thunderous drums, roaring bass over massed voices, driving, blasphemous, building to a crack",
+        "why": "Capaneus shouting at Jupiter to come down and fight him, and Jove laughing — the most electric moment in the poem."
+      },
+      {
+        "id": "c03",
+        "style": "dream-shadow lullaby, bowed vibraphone and soft harp, breathy low voice, very slow, drifting, narcotic",
+        "why": "The House of Sleep: dreams true and false clinging to the doorposts, lamps breathing out from their sinking flames."
+      },
+      {
+        "id": "c21",
+        "style": "latin grief-lament, solo viola and skin drum, raw contralto, slow, keening, animal",
+        "why": "The tigress licking the warm rock where her cubs lay, watching herds walk past unhunted — grief made into a hunger with nothing to eat."
+      }
+    ]
+  },
+  {
+    "slug": "cynewulf-andreas-07b573",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "nordic folk, bowed lyre and frame drum, low male chant, stark, cold, alliterative and measured",
+        "why": "'We have heard of heroes in ages past, of twelve true thanes under the turning stars' — the opening does everything an opening should."
+      },
+      {
+        "id": "c17",
+        "style": "old english winter chant, bowed lyre and bone flute, hoarse male voice, very slow, glacial, sparse",
+        "why": "Rime and frost as 'the hoar-frost warriors' locking the homeland, ice bridging the pale brine-road — pure Old English cold."
+      },
+      {
+        "id": "c21",
+        "style": "grim mead-hall dirge, bowed lyre and deep drum, layered male voices, heavy, ironic, tolling",
+        "why": "The drowning told as a feast: 'a bitter beer-serving. The cup-bearers did not fail ... a drink ready at once.'"
+      }
+    ]
+  },
+  {
+    "slug": "callimachus-epigrams-e3edaf",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "hellenistic lyre song, solo kithara, clear tenor, gentle, elegiac, unhurried",
+        "why": "'Your nightingales live on, and on them Hades ... shall never lay his hand' — the most quoted couplet in Greek epigram."
+      },
+      {
+        "id": "c04",
+        "style": "greek call-and-response dirge, low aulos and hand drum, two alternating voices, spare, uncanny, dry",
+        "why": "The dialogue with the dead Charidas: 'And the ways up?' 'A lie.' 'And Pluto?' 'A tale.' — already written as call and response."
+      },
+      {
+        "id": "c19",
+        "style": "greek doorstep serenade, plucked lyre and soft reed, wounded tenor, slow, insomniac, repeating",
+        "why": "'So may you sleep, Conopion' — the sleepless lover on the cold porch, with a refrain and a curse for an ending."
+      }
+    ]
+  },
+  {
+    "slug": "elizabeth-craven-poems-7a848f",
+    "picks": [
+      {
+        "id": "c19",
+        "style": "english thanksgiving hymn, acoustic guitar and chamber strings, warm female vocal, unhurried, grateful, building",
+        "why": "A litany of concrete blessings — hay, moonlight on the sea, the faithful eyes of dogs — that reads as one long grace."
+      },
+      {
+        "id": "c09",
+        "style": "georgian dramatic air, harpsichord and cello, agitated soprano, insistent, questioning, quickening",
+        "why": "The heart interrogated at her own feet: a whole stanza of 'Why dost thou...' — anaphora already written for singing."
+      },
+      {
+        "id": "c17",
+        "style": "comic drawing-room ballad, fortepiano and pizzicato strings, arch soprano, brisk, deadpan, quatrain-strophic",
+        "why": "The Pope refusing his pills: 'Whoever spoke — the Pope replied, Butter and Margravine.' A complete joke in singable quatrains."
+      }
+    ]
+  },
+  {
+    "slug": "constantine-barber-poems-8e9f11",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "georgian reflective air, chamber organ and viola, grave tenor, slow, wistful, measured",
+        "why": "The echo that revives a dying note set against the life that cannot be revived — one clean image carrying the whole poem."
+      },
+      {
+        "id": "c05",
+        "style": "english anapaestic compliment-song, baroque guitar and flute, light tenor, tripping, gallant, brisk",
+        "why": "'The Plumb, and the Peach, with Apollo conspire' — a four-line compliment that dances in its own metre."
+      }
+    ]
+  },
+  {
+    "slug": "scriptores-historiae-aug-opilius-macrinus-104a63",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman street lampoon, reedy pipes and hand drum, sneering male voice, jaunty, mocking, quick",
+        "why": "Only candidate, but it carries a real forum-lampoon: the emperor who wanted to be Felix and refused to be Pius, and his worse reply."
+      }
+    ]
+  },
+  {
+    "slug": "desiderius-erasmus-in-praise-of-folly-6833be",
+    "picks": []
+  },
+  {
+    "slug": "plutarch-non-posse-suaviter-vivi-secundum-62dbd8",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "ancient greek lament, single lyre and low drone, solo male voice, very slow, hollow, sparse",
+        "why": "Two lines only, but they are the Homeric ones: the breath that leaves the lips and never comes back to wake the dead."
+      }
+    ]
+  }
+]

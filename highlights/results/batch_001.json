@@ -1,0 +1,147 @@
+[
+  {
+    "slug": "claudian-de-consulatu-stilichonis-92c379",
+    "picks": [
+      {
+        "id": "c11",
+        "style": "late roman peace-hymn, cithara and soft low strings, clear tenor, flowing, pastoral, unhurried",
+        "why": "The sword beaten into a curved sickle and the traveller asking which bank Rome rules — the one passage here that is an image rather than a boast."
+      },
+      {
+        "id": "c04",
+        "style": "late antique epithalamium, aulos and lyre with light hand drums, bright massed voices, processional, joyful",
+        "why": "A wedding song complete in itself: pools of honey, rivers of milk, and Europe and Asia lifting torches against each other."
+      },
+      {
+        "id": "c06",
+        "style": "late roman martial ode, war horns and deep frame drums, declamatory bass, cold, driving, stark",
+        "why": "Winter campaign verse that ends on ploughshares ringing against the bones of buried kings — concrete and terrible."
+      }
+    ]
+  },
+  {
+    "slug": "statius-achilleis-095f27",
+    "picks": [
+      {
+        "id": "c07",
+        "style": "latin epic recitation, kithara and bowed strings, warm baritone, supple, tender, hushed",
+        "why": "Thetis dressing her son as a girl, 'even as the wax that shall live beneath an artist's thumb' — a whole transformation in one image."
+      },
+      {
+        "id": "c05",
+        "style": "greek-latin pastoral lament, panpipe and low lyre, mournful mixed voices, slow, receding, elegiac",
+        "why": "Chiron watching the wake die on the water while the Fauns ask for the boy's songs — the saddest thing in the poem."
+      },
+      {
+        "id": "c21",
+        "style": "latin farewell aria, harp and sustained strings, grieving soprano, slow, swelling, salt-heavy",
+        "why": "Deidamia on the tower going out with the strait until only the poop is left — a departure scene that needs no context."
+      }
+    ]
+  },
+  {
+    "slug": "william-melmoth-poems-87b019",
+    "picks": [
+      {
+        "id": "c05",
+        "style": "english renaissance-revival hymn, viol consort and recorder, pure tenor, stately, archaic, strophic",
+        "why": "Mercy at Jove's right hand wafting Virtue's silent tear to heaven's star-throne — a complete Spenserian stanza that stands alone."
+      },
+      {
+        "id": "c07",
+        "style": "archaic pastoral ballad, lute and bowed lyre, plain male voice, measured, fable-telling, cool",
+        "why": "Two transformations in one breath: 'A wolf in form as erst a wolf in soul' and the good man set among the stars."
+      },
+      {
+        "id": "c21",
+        "style": "georgian reflective air, harpsichord and cello, grave baritone, measured, sombre, inward",
+        "why": "'The mind not taught to think ... dreads the vacant hour' — the mighty void within, in clean couplets."
+      }
+    ]
+  },
+  {
+    "slug": "joseph-warton-poems-369668",
+    "picks": [
+      {
+        "id": "c14",
+        "style": "english pastoral folk ballad, acoustic guitar and low flute, warm female vocal, lilting, dreaming, unhurried",
+        "why": "The moss-floored cottage, the nightingale on the roof, roving with Spenser through a fairy grove — octosyllabics already built to be sung."
+      },
+      {
+        "id": "c08",
+        "style": "georgian pastoral ode, chamber strings and oboe, declamatory tenor, spacious, blank-verse cadence, sunlit",
+        "why": "'Ye green-rob'd Dryads' — the thrush-haunted copse and the bees humming drowsy lullabies out of a hollow oak."
+      },
+      {
+        "id": "c05",
+        "style": "gothic lament, solo viola and dark harp, low troubled voice, slow, unsettled, funereal",
+        "why": "The address to Despair: the poisoned dagger, the sea-beat mountain's height, the cave to starve and die in."
+      }
+    ]
+  },
+  {
+    "slug": "john-gay-poems-1b43b7",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "english ballad air, fiddle and plucked cittern, plain warm tenor, brisk, strophic, storytelling",
+        "why": "'Remote from citys liv'd a Swain' — four-beat couplets, a whole portrait in ten lines, an opening that opens."
+      },
+      {
+        "id": "c23",
+        "style": "wry moral ballad, harpsichord and pizzicato strings, sly baritone, trotting, epigrammatic, light",
+        "why": "The crab beside the coral grove deciding the ocean was made for his pleasure — the fable's whole point in one image."
+      },
+      {
+        "id": "c22",
+        "style": "macabre processional ballad, low organ and muffled drum, dark chorus, slow, tolling, ceremonious",
+        "why": "Death holding court in his pomp of terrors with Diseases crowding the hall — a court scene that sings itself."
+      }
+    ]
+  },
+  {
+    "slug": "richard-berenger-poems-8c5b99",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "english comic ballad, fiddle and hurdy-gurdy, dry mocking tenor, bouncing, brisk, punchline-timed",
+        "why": "The suicide talked out of the pond because his lice depend on him — a complete joke with a real sting: 'On great folks thus the little live.'"
+      },
+      {
+        "id": "c08",
+        "style": "renaissance art song, lute and viol, countertenor, reverent, chamber, gently building",
+        "why": "The Shakespeare cento closing on 'we ne'er shall look upon his like again' — borrowed lines, but it lands as a finished elegy."
+      }
+    ]
+  },
+  {
+    "slug": "valerius-maximus-facta-et-dicta-memorabilia-86155b",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "ancient greek hymnic chant, lyre and deep drone, grave male voice, slow, awestruck, sparse",
+        "why": "Phidias naming his master: the nod of Cronos' son, the ambrosial locks streaming, Olympus made to tremble."
+      }
+    ]
+  },
+  {
+    "slug": "john-alexander-gunn-bergson-and-his-philosophy-6671b6",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "victorian devotional hymn, chamber organ and viola, plaintive alto, slow, aching, congregational",
+        "why": "'Our past still travels with us from afar' into 'a thousand years in Thy sight are but as yesterday' — three quotations that make one song about time."
+      }
+    ]
+  },
+  {
+    "slug": "unknown-san-hyan-tattvajnana-1f29bd",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "balinese kidung chant, gender wayang metallophones and bamboo flute, low male recitation, slow, hypnotic, ritual",
+        "why": "The only candidate, but a true sloka: matter the cart, the soul the bull, the Lord the charioteer, the world a spinning wheel."
+      }
+    ]
+  }
+]

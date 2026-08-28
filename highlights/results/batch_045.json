@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "samaveda",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "vedic sāman chant, tanpura drone, deep male voice, slow, reverent, sparse",
+        "why": "The opening call to Agni to come and sit on the sacred grass — the collection's own first verses."
+      },
+      {
+        "id": "c12",
+        "style": "soma chant, drone and clay pot percussion, layered male voices, hypnotic, building",
+        "why": "Soma the begetter of heaven, of earth, of fire, of the sun — anaphora made to be sung."
+      },
+      {
+        "id": "c15",
+        "style": "sunrise hymn, tanpura and bansuri, bright male voice, rising, radiant, unhurried",
+        "why": "The Sun rising toward gods and men, harnessing seven shining mares, measuring out the days."
+      }
+    ]
+  },
+  {
+    "slug": "erasmus-darwin-poems-9a92ee",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "enlightenment ode, glass harmonica and strings, clear soprano, shimmering, unhurried",
+        "why": "Memnon's statue ringing at the first sunbeam, and the glow-worm and marsh-lights of the science verse."
+      },
+      {
+        "id": "c05",
+        "style": "mythological narrative song, harpsichord and low strings, arch tenor, quickening, sly",
+        "why": "Vulcan weaving the invisible steel net and locking Venus and Mars on their bed."
+      },
+      {
+        "id": "c19",
+        "style": "gothic ballad, bowed bass and tolling bell, hushed baritone, eerie, deliberate",
+        "why": "The sorceress striking the tomb — pale stars, screaming bats, and two imps rising on broad wings."
+      }
+    ]
+  },
+  {
+    "slug": "aeschylus-agamemnon-3e20d0",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "ancient chorus, lyre and frame drum, layered male voices, solemn, weighty, slow",
+        "why": "Zeus who appoints that suffering shall teach, and wisdom dropped like dew on the sleeping heart."
+      },
+      {
+        "id": "c15",
+        "style": "ritual lament, aulos and struck bronze, wailing female voice against low chorus, keening, stark",
+        "why": "Kassandra's cry — Otototoi, Apollon, guard of the ways, my destroyer — a refrain already written."
+      },
+      {
+        "id": "c21",
+        "style": "tragic chorus, kithara and drum, dark layered voices, mourning, incantatory",
+        "why": "Helen who alone undid so many souls, and the curse flowering red with blood no rain disperses."
+      }
+    ]
+  },
+  {
+    "slug": "hannah-brand-poems-11e826",
+    "picks": [
+      {
+        "id": "c14",
+        "style": "convent ballad, chamber organ and women's choir, clear alto, processional, hushed, slow",
+        "why": "The black altar, the white veil sweeping the ground, and the crown of thorns on the novice's temples."
+      },
+      {
+        "id": "c03",
+        "style": "english ballad, acoustic guitar and viol, warm baritone, gentle, steady",
+        "why": "The monk's welcome: God is the parent of us all, and you have a brother's rightful share."
+      },
+      {
+        "id": "c21",
+        "style": "ode to adversity, strings and timpani, strong female voice, stern, mounting",
+        "why": "The thunder that scathes the mountain pine and does not turn aside to spare the lily of the vale."
+      }
+    ]
+  },
+  {
+    "slug": "phillis-wheatley-poems-6ba250",
+    "picks": [
+      {
+        "id": "c03",
+        "style": "gospel-inflected hymn, hand claps and organ, strong female voice with responding choir, mounting, fervent",
+        "why": "Take HIM ye wretched, ye starving, ye thirsty, ye Africans — a refrain built into the lines."
+      },
+      {
+        "id": "c01",
+        "style": "colonial hymn, chamber organ and small choir, clear soprano, bright, soaring",
+        "why": "Whitefield winging his course and sailing to Zion through vast seas of day."
+      },
+      {
+        "id": "c08",
+        "style": "processional anthem, brass and drum, confident female voice, stately, celebratory",
+        "why": "Freedom descending with olive and laurel in her golden hair — a march that announces itself."
+      }
+    ]
+  },
+  {
+    "slug": "diodorus-siculus-historical-library-3031ad",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "memorial epigram, single lyre and low male chorus, austere, slow, unadorned",
+        "why": "Stranger, announce to the Lacedaemonians that here we lie, obedient to their commands."
+      },
+      {
+        "id": "c02",
+        "style": "comic tetrameter chant, aulos and hand drum, jeering male voice, brisk, rhythmic",
+        "why": "Aristophanes on how the war began — a small spark of a decree blown into smoke over all Greece."
+      }
+    ]
+  },
+  {
+    "slug": "demosthenes-against-meidias-4f10a1",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "festival oracle, aulos and tambourine, chanting mixed voices, ceremonial, dance-like",
+        "why": "The god's own instruction: dance down the broad streets, set out wine-bowls, crown every head."
+      }
+    ]
+  },
+  {
+    "slug": "suetonius-caligula-3902f8",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman martial verse, low drum and horn, grave male voice, measured, ominous",
+        "why": "The camp-born child marked by omen for empire — the one piece of verse in the life."
+      }
+    ]
+  }
+]

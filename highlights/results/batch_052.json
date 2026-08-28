@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "pausanias-description-of-greece-ff35dc",
+    "picks": [
+      {"id": "c17", "style": "greek oracular chant, lyre and low drone, veiled female voice, slow, incantatory", "why": "The Sibyl names her own half-mortal birth, then speaks from her tombstone: 'A maiden once gifted with voice, but now for ever voiceless.'"},
+      {"id": "c09", "style": "delphic prophecy chant, aulos and hand drum, harsh male voice, ominous, building", "why": "Demeter's threat to the acorn-eaters of Phigaleia — famine, cannibalism, and a bargain, all in hexameters."},
+      {"id": "c18", "style": "votive hymn, kithara and soft percussion, clear tenor, measured, elegiac", "why": "A dead man's shield speaks from the wall, and Homer is told he has no fatherland, only a motherland."}
+    ]
+  },
+  {
+    "slug": "cynewulf-juliana-9a2157",
+    "picks": [
+      {"id": "c00", "style": "old english scop, bowed lyre and frame drum, low male chant, stark, declamatory", "why": "'Hark! We have heard it' — the alliterative opening sets the persecution and the whole world of the poem in sixteen lines."},
+      {"id": "c16", "style": "dark ritual chant, bowed lyre and rasping drone, growling male voice, ominous, driving", "why": "The devil's inventory of his own work: strife poured from a cup in the wine-hall, souls sent out by the sword."},
+      {"id": "c22", "style": "anglo-saxon elegy, solo bowed lyre, hollow male voice, slow, cold", "why": "Drowned on the swan's road, with no treasure-giver to hand them apple-gold from the beer-bench — the great Old English image of the lost hall."}
+    ]
+  },
+  {
+    "slug": "thomas-warton-poems-277148",
+    "picks": [
+      {"id": "c21", "style": "gothic chamber song, viola da gamba and chamber organ, dark tenor, slow, brooding", "why": "The invocation of Melancholy from her yew-bowered cave, with Ruin sitting among sunk magnificence."},
+      {"id": "c19", "style": "winter nocturne, solo cello and muted piano, low male voice, unhurried, wistful", "why": "'I choose the pale December's foggy glooms' — dying embers and the cricket's drowsy dirge, a complete mood in itself."},
+      {"id": "c18", "style": "gothic ode, tremolo strings and distant horn, urgent tenor, restless, eerie", "why": "The traveller shut alive in a catacomb while the mummies seem to rise — the strongest image in the poems."}
+    ]
+  },
+  {
+    "slug": "mary-matilda-betham-poems-3bacb3",
+    "picks": [
+      {"id": "c18", "style": "pastoral folk ballad, acoustic guitar and fiddle, warm female vocal, unhurried, sweet", "why": "Built on 'Sweet is...' anaphora — village dance, labourer's fire, concrete and already half a song."},
+      {"id": "c16", "style": "hymn-metre reflection, parlour piano and soft strings, gentle soprano, steady, hopeful", "why": "Clean common-metre stanzas on light breaking through cloud, ending 'Hope's bright torch more clearly shines, amidst surrounding gloom.'"},
+      {"id": "c02", "style": "gothic ballad, harp and low strings, hushed female voice, mysterious, slow", "why": "The white-robed bard appearing out of black night with a flaming brand — the one genuinely visual passage."}
+    ]
+  },
+  {
+    "slug": "charles-parrott-poems-c4582c",
+    "picks": [
+      {"id": "c04", "style": "georgian nocturne ode, chamber strings and flute, calm tenor, slow, tender", "why": "Night falling over the plain, the woodman's axe silent, and the slave briefly forgetting his chains."},
+      {"id": "c12", "style": "valentine air with refrain, harpsichord and recorder, light soprano, dancing, playful", "why": "Real refrain lines that circle back: 'Only while we love we live, love alone can pleasure give.'"},
+      {"id": "c05", "style": "baroque love song, lute and viol, ardent tenor, flowing, warm", "why": "Leander crossing the roaring sea for the torch hung out of the tower — a whole myth in six lines."}
+    ]
+  },
+  {
+    "slug": "cicero-marcus-tullius-de-officiis-c325e6",
+    "picks": [
+      {"id": "c00", "style": "roman martial recitation, war horn and low drum, commanding baritone, stately, resolute", "why": "Pyrrhus refusing ransom — 'the sword, not gold, weigh the outcome' — and then the lamp lit from another's lamp."}
+    ]
+  },
+  {
+    "slug": "john-morley-burke-cfb4a4",
+    "picks": [
+      {"id": "c00", "style": "revolutionary art song, solo piano and cello, declamatory baritone, slow, gathering", "why": "Only candidate; the Coleridge lines on France stamping her strong foot carry it."}
+    ]
+  },
+  {
+    "slug": "plato-protagoras-e23675",
+    "picks": [
+      {"id": "c00", "style": "greek lyric fragment, solo lyre, single unaccompanied male voice, sparse, aphoristic", "why": "Only candidate; the Simonides fragment on the foursquare man and Pittacus' 'Hard to be good' — the axis of the dialogue."}
+    ]
+  }
+]

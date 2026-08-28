@@ -1,0 +1,136 @@
+[
+  {
+    "slug": "ausonius-decimus-magnus-epigrammaton-liber-edc4fe",
+    "picks": [
+      {
+        "id": "c08",
+        "style": "late antique riddle-dialogue, plucked lyre and light frame drum, two alternating voices, quick, restless, quicksilver",
+        "why": "Opportunity on her wheel, winged, bald behind — and gone from your hands while you stand there asking questions."
+      },
+      {
+        "id": "c11",
+        "style": "doric war epitaph, low male voices in unison, bone flute and slow drum, austere, stony, unhurried",
+        "why": "'Return with this, or upon it' — and the father who tells the mourners to weep for other men's sons."
+      },
+      {
+        "id": "c09",
+        "style": "late roman love elegy, soft cithara and low strings, ageing wistful voice, slow, rueful, intimate",
+        "why": "'Galla, we grow old' — and the terrible closing bargain: I will take, not what I would, but what I once would."
+      }
+    ]
+  },
+  {
+    "slug": "sophocles-ajax-beefc9",
+    "picks": [
+      {
+        "id": "c14",
+        "style": "greek tragic monody, solo male voice with aulos and low drum, slow, resolute, sun-struck, final",
+        "why": "The last speech: the Erinyes summoned, Helios asked to carry the news home, then 'O light! O sacred soil'."
+      },
+      {
+        "id": "c11",
+        "style": "greek choral meditation, lyre and soft aulos, calm baritone, cyclical, seasonal, deceptively serene",
+        "why": "Winter yielding to summer, night to day, the winds letting the sea rest — the great deception speech."
+      },
+      {
+        "id": "c20",
+        "style": "soldiers' lament chorus, frame drum and reed pipe, weary massed male voices, slow, damp, homesick",
+        "why": "No garlands, no wine-cups, no flutes, no love — only heavy dew wetting their hair year after year at Troy."
+      }
+    ]
+  },
+  {
+    "slug": "soame-jenyns-poems-cf7af8",
+    "picks": [
+      {
+        "id": "c03",
+        "style": "english pastoral song, guitar and recorder, easy tenor, lilting, contented, unhurried",
+        "why": "'Busily idle, calmly gay; nor great, nor mean, nor rich, nor poor' — a whole philosophy in four tetrameters."
+      },
+      {
+        "id": "c11",
+        "style": "minuet turned reflective, harpsichord and strings, wry baritone, dance tempo, circling, resigned",
+        "why": "The dance as an image of a life: 'quite tir'd sit down, just where we first begun'."
+      },
+      {
+        "id": "c02",
+        "style": "hudibrastic patter song, harpsichord and fiddle, fast comic voice, headlong, clattering, farcical",
+        "why": "'Pigs squeak, fowls scream, and green geese flutter' — a country visit as pure comic momentum."
+      }
+    ]
+  },
+  {
+    "slug": "mary-chandler-poems-1ab8c5",
+    "picks": [
+      {
+        "id": "c19",
+        "style": "english hymn in common metre, chapel organ and small choir, clear female voice, steady, luminous, ascending",
+        "why": "'Then swift, to find our Fellow-souls, as Light, we haste away' — already in hymn metre and already a hymn."
+      },
+      {
+        "id": "c20",
+        "style": "georgian retirement song, guitar and flute, warm alto, gentle amble, homely, contented",
+        "why": "The whole wish for a life: a hill, a brook, good neighbours, a useful book, and time to mend one's ways."
+      },
+      {
+        "id": "c11",
+        "style": "devotional ode, harpsichord and viol, bright soprano, measured, plain, radiant",
+        "why": "'Wisdom is Truth without Disguise: clear as the Sun in cloudless Skies' — plain and hard to improve on."
+      }
+    ]
+  },
+  {
+    "slug": "appendix-vergiliana-catalepton-6c1fa6",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "latin farewell song, solo cithara over a low drone, young resolved male voice, steady, valedictory, brightening",
+        "why": "Away with the rhetoricians — sails set for the blessed harbours, and the reluctant goodbye to the sweet Camenae."
+      },
+      {
+        "id": "c03",
+        "style": "roman pastoral miniature, single reed pipe and soft strings, quiet tenor, tender, small-scale, homely",
+        "why": "'Little farm, that were Siro's, and you, poor little field' — a poet commending his father to a scrap of land."
+      },
+      {
+        "id": "c01",
+        "style": "roman moral elegy, low strings and slow drum, grave baritone, stately then abrupt, stark",
+        "why": "The man who had shaken the globe collapsing headlong: 'the deceitful hour, in a moment of time, wears away mortal things'."
+      }
+    ]
+  },
+  {
+    "slug": "aristotle-constitution-of-the-athenians-7282b2",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "archaic greek elegy, lyre over a low drone, grave male voice, measured, declamatory, earth-rooted",
+        "why": "Solon calling black Earth as witness that he tore up her boundary-stones and brought the sold-away home."
+      },
+      {
+        "id": "c00",
+        "style": "archaic greek elegy, aulos and lyre, sorrowing male voice, slow, admonitory, unresolved",
+        "why": "'I stood casting my strong shield about both, and allowed neither to win an unjust victory.'"
+      },
+      {
+        "id": "c04",
+        "style": "athenian drinking skolion, lyre passed hand to hand, lead voice with answering chorus, short, convivial, defiant",
+        "why": "Two real drinking songs — the lament for Leipsydrion and 'pour for Cedon too, servant, and do not forget'."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-titus-flamininus-bdc3e1",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "greek cult hymn, girls' chorus with lyre and aulos, bright unison voices, processional, joyous, refrain-driven",
+        "why": "Only candidate, but it ends on a real cult refrain: 'hail, Paean Apollo! hail, Titus our saviour!'"
+      }
+    ]
+  },
+  {
+    "slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+    "picks": []
+  }
+]

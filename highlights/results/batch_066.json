@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "homeric-hymns-hymn-4-to-hermes-b34461",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "archaic greek hymn, phorminx lyre and frame drum, bright rhapsode tenor, steady processional, incantatory",
+        "why": "The invocation plus the litany of epithets — robber, cattle driver, bringer of dreams, watcher by night — is a built-in refrain."
+      },
+      {
+        "id": "c02",
+        "style": "playful greek lyre song, solo kithara with hand percussion, light agile tenor, quick, mischievous, dancing",
+        "why": "The birth of the lyre itself: strings tried one by one, and the god singing his own begetting in sweet random snatches."
+      },
+      {
+        "id": "c18",
+        "style": "greek hymn of wonder, layered lyre and soft aulos, warm high voice, slow, rapt, swelling",
+        "why": "Apollo undone by music — 'mirth, and love, and sweet sleep' is the line the whole hymn turns on."
+      }
+    ]
+  },
+  {
+    "slug": "cynewulf-elene-d2d132",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "old english alliterative chant, bowed lyre and low drone, deep male voice, hushed then rising, visionary",
+        "why": "The dream of the Rood in the night camp — a tree of glory with letters of light laced upon it."
+      },
+      {
+        "id": "c00",
+        "style": "nordic folk war-verse, bowed lyre and frame drum, stark low chant, driving, cold, martial",
+        "why": "Banners billowing, byrnies glittering, oaths of slaughter on the Danube's dark bank — hard alliterative drive."
+      },
+      {
+        "id": "c22",
+        "style": "solitary old english lament, single bowed lyre, aged male voice, very slow, bare, inward",
+        "why": "The poet's own signature: old and ready for his journey, weaving word-craft in the narrow night."
+      }
+    ]
+  },
+  {
+    "slug": "mary-leapor-poems-1431de",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "georgian pastoral air, harpsichord and recorder, clear light soprano, lilting, gentle, dancing",
+        "why": "A true song in tetrameter — rivers, roses, woodbine, and Zephyr called to waft rest to Mira's breast."
+      },
+      {
+        "id": "c00",
+        "style": "georgian parlour song, harpsichord and viola da gamba, expressive mezzo, measured, wistful, chamber",
+        "why": "Dorinda at her glass: 'the fading Roses die, / And the last Sparkles tremble in her Eye.'"
+      },
+      {
+        "id": "c17",
+        "style": "english baroque devotional air, chamber organ and lute, warm soprano, unhurried, bright, contemplative",
+        "why": "'There's not a Seed but what contains a Flower' — and with each plump fruit we swallow down a tree."
+      }
+    ]
+  },
+  {
+    "slug": "francis-coventry-poems-309f66",
+    "picks": [
+      {
+        "id": "c08",
+        "style": "georgian pastoral ode, baroque strings and recorder, warm tenor, flowing, fresh, morning-bright",
+        "why": "Milk-maid, flail, and the lark that soars upright and sings at the gate of heaven."
+      },
+      {
+        "id": "c15",
+        "style": "english pastoral ballad, acoustic strings and soft flute, warm low voice, unhurried, dusk-lit, fading",
+        "why": "New-mown hay, blackbird on the spray, 'the calm farewel of parting light, / And Ev'ning sad'ning into Night.'"
+      },
+      {
+        "id": "c16",
+        "style": "sublime baroque ode, full strings and chamber organ, declamatory tenor, stately, swelling, awed",
+        "why": "The moon as empress with a thousand hand-maid stars, stirring the ocean to rebel against her sister Earth."
+      }
+    ]
+  },
+  {
+    "slug": "ausonius-decimus-magnus-liber-protrepticus-ad-nepotem-9405a2",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "late antique latin recitation, soft harp and low strings, avuncular baritone, measured, warm, conversational",
+        "why": "The only candidate, and it carries a real turn: a grandfather telling a frightened boy that the schoolmaster's terror is only painted scenery."
+      }
+    ]
+  },
+  {
+    "slug": "bion-of-smyrna-epithalamium-achillis-et-deidame-1e4d08",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "hellenistic bucolic idyll, panpipes and soft lyre, high tenor, languid, honeyed, tender",
+        "why": "Achilles veiled among the girls at the loom — 'the heart of a man he had, and the love of a man he had.'"
+      },
+      {
+        "id": "c00",
+        "style": "sicilian pastoral duet, syrinx and plucked lyre, two soft voices trading lines, gentle, sunlit, unhurried",
+        "why": "A shepherd asking for a song and naming exactly what he wants: the Scyrian love, the secret kisses, the secret bed."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-instituta-laconia-42032a",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "archaic greek soldier's song, aulos and hand drum, wry baritone, brisk, marching, defiant",
+        "why": "Archilochus thrown out of Sparta, with the shield poem itself intact — 'no worse surely I'll get the next time.'"
+      }
+    ]
+  },
+  {
+    "slug": "karl-marx-capital-volume-one-the-process-o-cceb48",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "latin epode dirge, low male chorus and sparse frame drum, slow, ominous, unresolved",
+        "why": "The only candidate in the work — a bleak Horatian tag on fratricide that at least stands alone as a line."
+      }
+    ]
+  }
+]

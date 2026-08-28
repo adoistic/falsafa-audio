@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "unknown-yama-smrti-552f8d",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "sanskrit recitation, tanpura drone, deep male voice, slow, reverent, sparse",
+        "why": "The sages approaching Yama in his hermitage, and water made pure by wind, sun, stars and the two twilights."
+      },
+      {
+        "id": "c02",
+        "style": "dark ascetic chant, damaru and low drone, rough male voice, grave, hypnotic, slow",
+        "why": "For each single sin a penance is known; when all sins converge, only the skull-bowl of the Kāpālika remains."
+      }
+    ]
+  },
+  {
+    "slug": "callimachus-hymn-to-delos-9fd159",
+    "picks": [
+      {
+        "id": "c17",
+        "style": "hellenistic hymn, kithara and double aulos, radiant female chorus, building, luminous, ceremonial",
+        "why": "The swans circling seven times, the birth, and the whole island turning gold — lake, olive, river and all."
+      },
+      {
+        "id": "c00",
+        "style": "invocation hymn, solo lyre, clear male voice, sea-wind atmosphere, measured, reverent",
+        "why": "The opening address to Delos, windswept and barren, haunt of gulls, fixed fast in the deep."
+      },
+      {
+        "id": "c21",
+        "style": "island dance hymn, aulos, frame drum and foot-stamping, mixed chorus, circling, joyous",
+        "why": "No sailor passes without furling sail to dance round the altar and bite the holy olive; ends on a hail."
+      }
+    ]
+  },
+  {
+    "slug": "callimachus-epigrams-and-fragments-fb73af",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "greek elegy, single lyre, intimate male voice, quiet, unhurried, mournful",
+        "why": "Heraclitus is ash, but his nightingales live and Hades will never lay a hand on them."
+      },
+      {
+        "id": "c05",
+        "style": "graveyard dialogue song, plucked lyre and low drone, two voices trading lines, dry, dark, spare",
+        "why": "Charidas answering from the grave: the ways up are a lie, and Pluto is a tale."
+      },
+      {
+        "id": "c09",
+        "style": "sardonic epigram song, lyre and hand drum, wry male voice, clipped, brisk",
+        "why": "I hate the cyclic poem and drink from no public fountain — the poet's manifesto in six lines."
+      }
+    ]
+  },
+  {
+    "slug": "robert-merry-poems-f2c622",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "georgian parlour song, fortepiano and flute, light tenor, tripping, mock-defiant",
+        "why": "Go, idle Boy! I quit thy pow'r — a dismissal of Cupid with a ready-made refrain of freedom."
+      },
+      {
+        "id": "c10",
+        "style": "romantic art song, piano and cello, warm baritone, unhurried, sea-lit",
+        "why": "Standing on the shore at sunset, crimson on the flood and gold on the curling surf, when the song reaches him."
+      },
+      {
+        "id": "c08",
+        "style": "anti-war ballad, solo fiddle and muted drum, grave male voice, slow, bitter",
+        "why": "Conquest distilling a general poison from the laurel leaf, and the line that victory is defeat."
+      }
+    ]
+  },
+  {
+    "slug": "bacchylides-dithyrambs-62b277",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "ancient chorus, kithara and aulos, layered voices with soprano lead, shimmering, building, awed",
+        "why": "Theseus among the Nereids, Amphitrite's purple cloak and rose wreath, and his rise from the sea unwetted."
+      },
+      {
+        "id": "c02",
+        "style": "heroic chorus, lyre and frame drum, firm male voice against chorus, defiant, steady",
+        "why": "Theseus refusing Minos: he would not want to see the light of Dawn if a girl were forced."
+      },
+      {
+        "id": "c07",
+        "style": "narrative ode, aulos and lyre, bright male voice, portrait-like, animated, moderate",
+        "why": "The stranger described head to foot — Lemnian fire flashing from his eyes — closing on the paths of song."
+      }
+    ]
+  },
+  {
+    "slug": "august-bebel-woman-and-socialism-842b3e",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "tragic aria, solo cello and low drone, strong female voice, slow, indignant, mounting",
+        "why": "Medea's complaint, ending on the line that she would rather fight three times than give birth once."
+      },
+      {
+        "id": "c01",
+        "style": "comic women's chorus, aulos and tambourine, sharp female voices, quick, sardonic",
+        "why": "The women's counter-attack on Euripides — every broken dish now proof of a lover from Corinth."
+      }
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-pro-imaginibus-8cc1f8",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "encomium in the high style, lyre, declamatory male voice, grand, ironic, measured",
+        "why": "The least-bad passage: praise pitched above the gods, closing on the weeping dame, a match for goddesses."
+      }
+    ]
+  },
+  {
+    "slug": "st-george-william-joseph-deductive-logic-2f2706",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "oracular chant, low drone and single bell, ambiguous whispered-then-declaimed male voice, slow, uneasy",
+        "why": "The two-faced prophecies — Pyrrhus and the Romans, the duke who shall depose Henry — riddles built to be sung."
+      }
+    ]
+  }
+]

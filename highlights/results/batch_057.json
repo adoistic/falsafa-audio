@@ -1,0 +1,44 @@
+[
+  {"slug": "unknown-viramitrodaya-d4b632",
+   "picks": [
+     {"id": "c00", "style": "sanskrit invocation chant, tanpura drone, mridangam, fierce deep male voice, building, ritual, incantatory", "why": "The opening benediction to Nṛsiṃha — mane, frown, tongue like sacrificial flame, the cosmic egg splitting."},
+     {"id": "c01", "style": "sanskrit court panegyric, sitar and tabla, ornamented male voice, moderate, courtly, flowing", "why": "Sarasvatī dancing on the poet's tongue, and sacrifice-smoke read as a line of collyrium on the horizon's face."},
+     {"id": "c22", "style": "vedic litany chant, drone and hand cymbals, unison male voices, slow, hypnotic, repetitive", "why": "The yuga refrain — austerity, knowledge, sacrifice, charity — restated four ways, a chant by construction."}
+   ]},
+  {"slug": "thomas-chatterton-poems-a2db0f",
+   "picks": [
+     {"id": "c00", "style": "ossianic bardic chant, bowed lyre and low drone, grave male voice, slow, stark, windswept", "why": "A complete Saxon homily: thunder, wolf, flying deer, and the promise that thy rock shall stand."},
+     {"id": "c10", "style": "graveyard elegy, viol and chamber organ, dark tenor, slow, mounting, funereal", "why": "A litany of apostrophes turned self-destructive — noxious vapours, adders, toads, blasting meteors called down on the mourner."},
+     {"id": "c22", "style": "african eclogue, hand drums and kora, urgent male vocal, driving, cinematic, hot", "why": "The tiger hunt told as a love gift — I stripped his carcase, on this shall my loved Cawna lie."}
+   ]},
+  {"slug": "assorted-eighteenth-century-poetry-353ac8",
+   "picks": [
+     {"id": "c21", "style": "english drinking-song, fiddle and box accordion, hearty male vocal, brisk, lilting, refrain-driven", "why": "The impossibility-oath — mackerel on the vines, the sun burning blue — before the heart proves untrue."},
+     {"id": "c06", "style": "georgian parlour ballad, harpsichord and viola, cool female vocal, plain, unhurried, wry", "why": "A clear-eyed falling-out-of-love: scenes of dullness, even with thee, are scenes of dullness still."},
+     {"id": "c18", "style": "pastoral elegy, acoustic guitar and soft strings, warm tenor, gentle, elegiac", "why": "No sculptured marble, only cottage tears and a briar bound fresh each spring — we were the happiest pair of human kind."}
+   ]},
+  {"slug": "mary-alcock-poems-e4bcfc",
+   "picks": [
+     {"id": "c09", "style": "18th century parlour lament, fortepiano and cello, plaintive female vocal, slow, tender, refrain", "why": "Like as the dove I sit alone — every stanza falling back onto the lost Marianne."},
+     {"id": "c17", "style": "comic patter song, harpsichord and pizzicato strings, bright arch soprano, brisk, buoyant, refrain", "why": "The balloon ascent as satire, with its returning boast: and leave the wondering multitude below."},
+     {"id": "c21", "style": "spa-town drinking ballad, fiddle and tabor, cheerful female vocal, jaunty, internal-rhyme swing", "why": "Swandling Bar's cast of tars, lords and nymphs, carried on a strong internal-rhyme refrain."}
+   ]},
+  {"slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+   "picks": [
+     {"id": "c00", "style": "buddhist tantric chant, bronze bell and drone, low male voice, slow, solemn, initiatory", "why": "The teacher's opening address — come, child — naming the vajra path and the breaking of Māra's army."},
+     {"id": "c02", "style": "javanese esoteric chant, singing bowls and gong, hushed male voice, sparse, luminous, unhurried", "why": "The eye-opening rite: remove the veil in the heart, phenomena are like reflections."},
+     {"id": "c06", "style": "consecration chant, gamelan gongs and hand drum, layered male voices, rising, triumphal, ceremonial", "why": "Anaphora on 'today' — today your birth is fruitful, today, having conquered Māra, you have entered the supreme city."}
+   ]},
+  {"slug": "julian-the-heroic-deeds-of-the-emperor--2fbab1",
+   "picks": [
+     {"id": "c00", "style": "homeric rhapsody, phorminx lyre, resonant male voice, measured, formal, hall-lit", "why": "The sceptre passed hand to hand from Hephaestus down to Agamemnon — the one fully coherent stretch among these quotations."}
+   ]},
+  {"slug": "suetonius-divus-augustus-9e67ae",
+   "picks": [
+     {"id": "c00", "style": "roman satiric epigram, tibia pipes and lyre, sardonic male voice, brisk, mocking, tavern-loud", "why": "The street lampoon on the banquet of the twelve gods — at the foul sight the gods avert their eyes."}
+   ]},
+  {"slug": "aelius-aristides-orationes-25-e3167a",
+   "picks": [
+     {"id": "c00", "style": "greek oracular chant, single lyre, clear high voice, slow, hieratic, sparse", "why": "Only candidate, but a complete oracle: Asclepius shall heal you, by the streams of the Caicus."}
+   ]}
+]

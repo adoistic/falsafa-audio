@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "homeric-hymns-hymn-3-to-delian-and-pythian-apo-303bdb",
+    "picks": [
+      {"id": "c00", "style": "ancient greek hymn, kithara and aulos, single male voice over drone, processional, reverent", "why": "The gods springing from their seats as Apollo bends his bow, and Leto quietly hanging it on a golden peg."},
+      {"id": "c05", "style": "birth hymn, lyre and frame drum, women's voices rising, luminous, gathering joy", "why": "Leto's arms around the palm tree, the earth laughing beneath her, and the cry of all the goddesses."},
+      {"id": "c08", "style": "olympian hymn, lyre and light percussion, layered voices, dancing, bittersweet", "why": "The Muses singing the gifts of gods against men who can find no healing for death or defence against old age."}
+    ]
+  },
+  {
+    "slug": "sophocles-antigone-c9ff3f",
+    "picks": [
+      {"id": "c06", "style": "ancient chorus, lyre and frame drum, layered male voices, solemn, building", "why": "Wonders are many, and none is more wonderful than man — the ode everyone quotes."},
+      {"id": "c08", "style": "solo tragic aria, aulos and low drone, defiant female voice, steady, unflinching", "why": "The unwritten and unfailing statutes of the gods, against a mortal's decree — Antigone's whole case."},
+      {"id": "c15", "style": "tragic bridal lament, single female voice, aulos, muted drum, slow, processional", "why": "Her last sunlight, no marriage hymn, the lord of Acheron for a groom — a wedding song inverted."}
+    ]
+  },
+  {
+    "slug": "george-monck-berkeley-poems-edabab",
+    "picks": [
+      {"id": "c09", "style": "ossianic elegy, celtic harp and bodhran, keening voices, windswept, slow", "why": "The maids of Morven tearing their golden hair over Oscar while the caverns ring with the dirge."},
+      {"id": "c07", "style": "english folk lament, harp and fiddle, soft female voice, mournful, simple", "why": "Nancy weeping over the grave among cowslip, violet and wild rose, asking for a charm to heal her heart."},
+      {"id": "c12", "style": "chamber inscription song, viol and lute, low male voice, hushed, contemplative", "why": "A carved inscription in trochaics — this is Contemplation's court — complete in itself."}
+    ]
+  },
+  {
+    "slug": "jonathan-swift-poems-9e2e4c",
+    "picks": [
+      {"id": "c22", "style": "augustan patter song, harpsichord and strings, dry witty tenor, brisk, gathering weather", "why": "The opening of the City Shower: the pensive cat giving over her frolics, the double stink of the sink."},
+      {"id": "c23", "style": "storm ballad, harpsichord, snare and low strings, rapid baritone, clattering, driving", "why": "Tories and Whigs forgetting their feuds under a shed to save their wigs — the poem's best turn."},
+      {"id": "c00", "style": "satirical chamber song, harpsichord and viol, arch mezzo, clipped, sly", "why": "The lady's table-book, with love notes and shoe accounts alternating line by line."}
+    ]
+  },
+  {
+    "slug": "callimachus-hymn-to-apollo-a2a359",
+    "picks": [
+      {"id": "c00", "style": "hellenistic processional hymn, kithara and aulos, young chorus, ecstatic, ringing, quickening", "why": "The laurel shakes, the palm nods, the swan sings — the god is at the door. Nothing better in the batch."},
+      {"id": "c01", "style": "ritual hymn with refrain, lyre and hand drum, layered voices, hushed then crying out", "why": "Even the sea and the weeping rock fall silent at the paean — with the Hie Paieon refrain built in."},
+      {"id": "c07", "style": "spare lyric, solo kithara, clear tenor, poised, aphoristic, unhurried", "why": "The Assyrian river of refuse against the little pure drip the bees carry — Callimachus's poetic creed."}
+    ]
+  },
+  {
+    "slug": "pseudo-plutarch-placita-philosophorum-2a1067",
+    "picks": [
+      {"id": "c01", "style": "presocratic chant, drone and hand drum, grave male voice, slow, elemental", "why": "The Empedocles quatrain — nature gives neither life nor death, only mixture and separation."}
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-necyomantia-cf44bd",
+    "picks": [
+      {"id": "c00", "style": "mock-tragic aria, lyre and low drone, theatrical baritone, wry, declamatory", "why": "Only candidate; Menippus back from the dark gates, hailing his own roof and the light."}
+    ]
+  },
+  {
+    "slug": "wordsworth-donisthorpe-individualism-a-system-of-politi-ce6e15",
+    "picks": [
+      {"id": "c00", "style": "latin motet, small a cappella choir, austere, slow, sustained", "why": "Only candidate; a single Latin line on the secret ballot that opens men's faces and hides their minds."}
+    ]
+  }
+]

@@ -1,0 +1,623 @@
+[
+ {
+  "slug": "unknown-angirasa-smrti-2bf9d1",
+  "title": "Āṅgirasa Smṛti",
+  "author": "Aṅgirasa",
+  "language": "Sanskrit",
+  "genre": "Law",
+  "era": "Ancient",
+  "class": "poetic",
+  "n_windows": 250,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:3",
+    "text": "The twice-born, prostrating themselves before the sage Āṅgirasa, who was the very image of fire, said to him: \"Tell us all the righteous laws (*dharma*).\" // Ang_1.1 //\nOut of affection for them, he then declared: \"Listen! I shall proclaim all those supreme Vedic laws which lead to liberation.\" // Ang_1.2 //\n*Dharma* is said to be that which is a scriptural injunction (*codanā*); anything else is so only by extension. That *codanā* is to be known by its indicators and other such signs; when enjoined by the *Śruti* (the revealed scriptures), it grants liberation. // Ang_1.3 //\nThat alone is *codanā* which is characterized by the indicators found in the *Śruti*, such as the optative mood (Liṅ), the imperative mood (Loṭ), and the gerundive suffix (Tavya)—not that which is enjoined by the Purāṇas (a class of post-Vedic narrative scriptures) or the *Smṛtis* (Codes of Tradition). // Ang_1.4 //"
+   },
+   {
+    "id": "c01",
+    "at": "5:0",
+    "text": "there is no partaking of solid food, and the *sandhyā* prayer must be a rite performed in water.\nFor one who lives in a village of a hundred kinsmen and is in a state of continuous sin, // Ang_1.49 //\nand for whom *sūtaka* arises again immediately after a previous *sūtaka* ends, without interruption, // Ang_1.50 //\nafter observing this for a year, he should then diligently and respectfully leave that village. It is the rule that the *śrāddha* for his parents should be performed immediately in another region. // Ang_1.51 //\nWhen a continuous chain of sin that obstructs the *śrāddha* occurs for him, then after observing it for a year, he should immediately go to another region. // Ang_1.52 //\nIf, however, no obstacle to the *śrāddha* arises, then he should perform the *śrāddha* right there, wearing the sacred thread. // Ang_1.53 //"
+   },
+   {
+    "id": "c02",
+    "at": "9:13",
+    "text": "For the sake of these things, a mortal should not commit this kind of sin. Knowing that *sūtaka* is approaching, for one who has already begun a rite, // Ang_1.101 //\nthere should be no abbreviation of its parts; this is the opinion of Manu. Even when *sūtaka* has arrived for one who has begun a rite, // Ang_1se.102 //\nhe should perform the parts of the rite at their proper times. He is not in a state of *sūtaka* then. Immediately after it has passed, he is so again. // Ang_1.103 //\nEven one whose father is alive should perform the Piṇḍapitṛyajña. The monthly *śrāddha*, the fire-offering, the Aṣṭakā, and the Pitṛyajña— // Ang_1.104 //\nafter the passing of his father, he should perform the offering of the rice ball (*piṇḍa*). By this, he becomes a performer of *śrāddha*, not by offering the *piṇḍa* for his mother. // Ang_1.105 //"
+   },
+   {
+    "id": "c03",
+    "at": "15:6",
+    "text": "A complete recitation of the *Śruti*, or a recitation of the *Vyāhṛtis*, or a recitation of the Gāyatrī, or else a recitation of the Mahārudra, // Ang_1.155 //\nor a recitation of the Puruṣasūkta, or a single recitation of the Saṃhitā—these are prescribed by the good as expiation even for great sinners. // Ang_1.156 //\nBy uttering a single syllable of the Veda, one obtains the fruit of all divine names. However many names of Hari are recited by the twice-born, // Ang_1.157 //\nthough they be innumerable, endless, and removers of all stains, a single syllable of the Veda is equal to them. With such divine syllables, // Ang_1.158 //\nwhich are immeasurable, the Veda is composed, being the very embodiment of Nārāyaṇa. By reciting such a Veda, a sinner // Ang_1.159 //\nis immediately freed from all sins; of this there is no doubt."
+   },
+   {
+    "id": "c04",
+    "at": "20:8",
+    "text": "He should reside constantly in holy places and wander the earth with devotion. If a widow is given in marriage by deceivers through great delusion, // Ang_1.210 //\nand one marries her, upon knowing the truth, he immediately falls to the level of a *caṇḍāla*. To appease that fault, he should act as before. // Ang_1.211 //\nThe entire rite should be understood by the wise as doubled.\nA woman who has been married one, two, three, four, or five times, // Ang_1.212 //\nin very vile times that are full of sin—if she is discovered, one should question her well, investigate, and deliberate. // Ang_1.213 //\nHaving ascertained the truth about her, one should then perform the *prāyaścitta*. Wherever she went and whomever, along with her relatives, // Ang_1.214 //\nshe deluded by trickery and deceived by her excessive conduct, having identified each one and spoken with them, and having sufficiently heard their accounts, // Ang_1.215 //"
+   },
+   {
+    "id": "c05",
+    "at": "25:14",
+    "text": "It is indeed sufficient for the performer of the Sodakumbha and Nāndī *śrāddhas*.\nOne should not perform the *śrāddha* for one's parents after bathing in a river that is a *krośa* (about two miles) away. // Ang_1.266 //\nAfter a great Avabhṛtha bath, a bath for a corpse, or a bath in the rains, or a bath that is part of such a rite, one should immediately perform the rite called *śrāddha*. // Ang_1.267 //\nFor every rite, everywhere, having controlled the breath with mantras, one should make the *saṃkalpa* (formal declaration of intent) in the form of the spoken words, \"I shall perform.\" // Ang_1.268 //\nOne should not perform any daily or optional rite without a *saṃkalpa*. That *saṃkalpa* may be mental, but the verbal one is superior. // Ang_1.269 //\nThe auspicious *Śruti* has said so with the words \"of which...\". The place and time must be stated in the *saṃkalpa*. If, in that, // Ang_1.270 //"
+   },
+   {
+    "id": "c06",
+    "at": "31:1",
+    "text": "One without a fire cannot be one with a son; one without a son is considered to be without a fire. Through a son, the gift of immovable property and other fruitful gifts, // Ang_1.320 //\nand whatever is great and difficult for all to obtain in this world, a man with a son should perform. One should always perform Vedic, worldly, and auspicious rites for a son. // Ang_1.321 //\nTherefore, a healthy man should never neglect his wife when she is in her fertile period. If a fool neglects her, he incurs the sin of killing an embryo. // Ang_1.322 //\nOn the day of the bath after menstruation, that man, whether young or a *śrotriya*, is not fit for the ancestral offerings; if he has a son, he becomes fit. // Ang_1.323 //\nBy the mere birth of a son, a man is freed from his debts. Therefore, a man should immediately look at the face of his newborn son. // Ang_1.324 //"
+   },
+   {
+    "id": "c07",
+    "at": "35:15",
+    "text": "if the wife or son, out of foolishness, speaks a falsehood prompted by foolishness, saying, \"That was misheard, harsh, cruel, and against our interests,\" // Ang_1.374 //\nor \"We did not even make the adoption\"—these wicked-souled speakers, after rebuking them with words, scorning them, and slapping them on the cheeks, // Ang_1.375 //\none should quickly banish from the country and properly honor the good.\nFor an adopted brother's son and for a biological son born afterwards, an equal share is always prescribed. For another, however, // Ang_1.376 //\na quarter share is for one of the same *gotra* and others. Thus says the Grandsire (Brahmā). // Ang_1.377 //\nAn *aurasa*, though younger in age, is undoubtedly the elder. An adopted son, though older in age, after the death of the adoptive father, // Ang_1.378 //"
+   },
+   {
+    "id": "c08",
+    "at": "41:4",
+    "text": "the sons of the second wife and others immediately suffer a reduction in status, as declared in the *Śruti*. If he becomes the performer of the rites for that wife, he is the son of the second wife. // Ang_1.433 //\nIf an adopted son is superior, and if the father is still alive, whether he is near or far, that adopted son, // Ang_1.434 //\nif he is the performer of the rites for the father's wife, is desired as the master of her sons. But if the son of the second wife is the performer of the rites, then the adopted son // Ang_1.435 //\nimmediately attains a lower status, provided there is no son of the eldest wife. The father and his *dharmapatnī* (धर्मपत्नी) are always equal for the adopted son. // Ang_1.436 //\nHis other wives are to be given the sacraments if there is no son. If there is a son, he alone shall be the performer of their rites, and no other. // Ang_1.437 //"
+   },
+   {
+    "id": "c09",
+    "at": "46:2",
+    "text": "The *śrāddha* (श्राद्ध) in Phālgunī is gratifying. The *śrāddha* (श्राद्ध) that is performed with one hundred and eight vegetables is a singular savior. // Ang_1.481 //\nThe gift of a *gaurī* (गौरी), the release of a bull (*vṛṣotsarga*), this fortnightly *mahālaya* (महालय), the planting of the tree named *panasa* (पनस)—these are remembered. // Ang_1.482 //\nThey are declared to be beloved of all the ancestors. The five 'J's, O child, are for the satisfaction and swift salvation of one who has gone to the next world; thus it has been said, and not otherwise. // Ang_1.483 //\n* *jalārdhaṃ* (जलार्धं, a half-handful of water)\n* *jāhnavītīraṃ* (जान्हवीतीरं, the bank of the Ganges)\n* *janārdanamahāsmṛtiḥ* (जनार्दनमहास्मृतिः, the great remembrance of Janārdana/Viṣṇu) // Ang_1.484 //"
+   },
+   {
+    "id": "c10",
+    "at": "51:4",
+    "text": "Placing all these in one scale-pan, the lotus-born (Brahmā), placing the *panasa* (पनस) in the other pan, weighed them with his hand. // Ang_1.531 //\nThen the *panasa* (पनस) became slightly heavier.\nThe *bṛhatī* (बृहती, eggplant) then became equal to three hundred, in the sight of all. // Ang_1.532 //\nGinger (*ārdraka*) was equal to six hundred, and sesame (*tila*) was equal to one hundred. Thus, this trio was established on the balance scale from that day onwards. // Ang_1.533 //\nOn earth, virtuous Brahmins, in the sacred rite of *śrāddha* (श्राद्ध), with effort, procure the trio of sesame, ginger, and eggplant, which is equal to a thousand vegetables, for the extreme satisfaction of the ancestors. // Ang_1.534 //\nSesame, black gram, rice, barley, green gram, wheat, and vegetables; // Ang_1.535 //"
+   },
+   {
+    "id": "c11",
+    "at": "55:12",
+    "text": "Among them, those that are cruel shall be supreme in the rite for the deceased (*preta-karma*), but not in others. This is the boundary I have set. // Ang_1.585 //\nIn the meantime, created by the gods, very beautiful, covered with leaves, flowers, great vines, unripe and ripe fruits, // Ang_1.586 //\nthe *urvāru* (उर्व्वारु, cucumber) came with great haste from the Kailāsa mountain, bowed with folded hands, and said, \"What is my destiny?\" // Ang_1.587 //\nThus it spoke to the Lord of the worlds, the blessed Grandsire (Brahmā). Seeing it in that state, created by Śambhu, the Lord of the worlds, at the mere word of Gaurī, // Ang_1.588 //\na pure embodiment, who had come with great humility, affectionate to the great elders, // Ang_1.589 //\nof pure essence, free from pride, knowing it to be beautiful in every way, the Lord, praising it highly, spoke before the gods: // Ang_1.590 //"
+   },
+   {
+    "id": "c12",
+    "at": "61:1",
+    "text": "When the sun's transit occurs at night, there is a rule for all rites. // Ang_1.642 //\nFor the pair of solstices, the northern and southern, a special rule is stated. The auspicious time is declared to be after the event for one and before it for the other. // Ang_1.643 //\nIn all *saṃkrāntis* (संक्रान्ति), that specific time is remembered as conferring merit. The *nāḍīs* (नाडी, periods of 24 minutes) that are closest to the event are remembered as the most auspicious. // Ang_1.644 //\nTwo solstices (*ayana*), two equinoxes (*viṣuva*), four *ṣaḍaśītis* (षडशीति), and four *viṣṇupadīs* (विष्णुपदी)—these twelve transits (*saṃkrama*) are remembered. // Ang_1.645 //\nThirty *nāḍīs* are remembered for Cancer, and twenty for Capricorn. For Libra and Aries, ten *nāḍīs* on either side are the rule. // Ang_1.646 //"
+   },
+   {
+    "id": "c13",
+    "at": "65:10",
+    "text": "It is thus proclaimed everywhere that from greater effort comes a very great fruit; on this, there should be no deliberation. // Ang_1.693 //\nThis fortnightly *mahālaya* is proclaimed to be of two kinds: with a single Brahmin and with multiple Brahmins. // Ang_1.694 //\nFirst, I shall state the nature of the single-Brahmin option. For all the *mahālayas*, until the end of the fortnight, only those // Ang_1.695 //\nwho were chosen on the first day, or for the others, should be fed.\nThey alone, and no others, should be employed. At the end of the fortnight, the *śrāddha* fee // Ang_1.696 //\nshould be given only once; it should not be given on each occasion. But in the multiple-Brahmin option, different Brahmins // Ang_1.697 //\nshould be employed every day, separately. And the fee should be given separately for each ancestor, // Ang_1.698 //"
+   },
+   {
+    "id": "c14",
+    "at": "70:12",
+    "text": "a seller of the Veda, a village priest, one who hates Brahmins, and one intent on seizing the property of Brahmins, // Ang_1.747 //\none who covets another's wife, a wicked person, one who thinks only of another's wife, one who has abandoned his wife, an adopted son, and a seller of his son, // Ang_1.748 //\none who starves his parents, and a betrayer of his teacher, one whose mind is intent on hoarding wealth, a harsh rich man, // Ang_1.749 //\na merciless person, one who is averse to charity, an atheist, a slanderer of others, a priest for jewelers, goldsmiths, washermen, and others, // Ang_1.750 //\none who eats too much and is insatiable, one who speaks ill, a hypocrite, a dull-witted person, one who has abandoned Vedic rites and toils only in other scriptures, // Ang_1.751 //"
+   },
+   {
+    "id": "c15",
+    "at": "76:0",
+    "text": "it becomes somewhat faulty. Due to that very fault, having made a new *saṃkalpa*, one should perform the preceding rite. // Ang_1.804 //\nOne should know this to be the case in all such rites with a *saṃkalpa*. If not, a single *saṃkalpa* would be for a single purpose. // Ang_1.805 //\nIn the case of the regular ancestral rite, until its completion according to the rule, if an unstated mantra is recited, one should make a new *saṃkalpa*. // Ang_1.806 //\nIf a rite proceeds with only the stated mantras, a new *saṃkalpa* should not be made in the middle of that rite. // Ang_1.807 //\nTherefore, having made the *saṃkalpa*, one should begin the *agnaukaraṇa*.\nHaving spread *darbha* grass with tips pointing south according to the rule, // Ang_1.808 //\nand having taken food from the cooked portion and spread a base of ghee, then taking food with a ladle, one should offer the oblation with the mantra from the *Śruti* that is recited in each school, // Ang_1.809 //"
+   },
+   {
+    "id": "c16",
+    "at": "80:10",
+    "text": "Then again '*Punarna...*' and '*Yadantarikṣam...*'. Having recited these mantras in order, one should then worship those rice balls. // Ang_1.859 //\nBy whom the worship of the ancestral rice balls is done with blades of *darbha* grass, with rice grains, whole grains, flowers, sesame seeds, and barley, // Ang_1.860 //\nthe ancestors are pleased by that for as long as the moon, sun, and earth exist.\nA wise person should worship the rice balls with clothes according to his ability. // Ang_1.861 //\nAnd with fees, betel leaves, incense, lamps, and so on. With circumambulations and prostrations, along with sons, grandsons, and others, // Ang_1.862 //\nwith wives and family members. If not, his family will not prosper, but will decline slowly over time. // Ang_1.863 //\nThose very rice balls are the ancestors, residing in that form for the sake of worship; on this, there should be no deliberation. // Ang_1.864 //"
+   },
+   {
+    "id": "c17",
+    "at": "86:2",
+    "text": "The great-grandfathers attain union with the supreme Lord (Pārameśvara). Even others born in the lineage, for a thousand generations of that family, // Ang_1.912 //\nwill be brought to the abode of Viṣṇu at that very moment. Rivers grant fruit for three nights during the two sacred solstices (*ayana* (अयन)), // Ang_1.913 //\nduring an *ardhodaya* (अर्धोदय) or *mahodaye* (महोदये) conjunction, a circular eclipse (*cākrike grahaṇe* (चाक्रिके ग्रहणे)), or on a *padmakāpilaṣaṣṭhī* (पद्मकापिलषष्ठी). But for other occasions, // Ang_1.914 //\nrivers grant fruit only through bathing (*avagāhana* (अवगाहन)), recitation (*japa* (जप)), and other rites performed with effort according to the rules. But the auspicious Jāhnavī is not so. // Ang_1.915 //\nBy seeing, touching, and meditating upon her, she liberates beings from the cycle of birth. From the moment after that, the Gaṅgā, born from the body of Bhārgava, // Ang_1.916 //"
+   },
+   {
+    "id": "c18",
+    "at": "90:12",
+    "text": "The recitation of the *Somasūkta* (सोमसूक्त) for Indra and the meal—this threefold procedure has been properly stated. The rule here is also stated. // Ang_1.963 //\nIf any Brahmin vomits after the *piṇḍadāna* (पिण्डदान), causing an obstruction to the *śrāddha* (श्राद्ध), then by the recitation of that hymn, // Ang_1.964 //\nthe completion of the *śrāddha* (श्राद्ध) is to be known. If it is before that, during the rite for the gods,\nor if there is vomiting during the portion for the grandfather, the one after him, or Viṣṇu, // Ang_1.965 //\nthen the completion is known to be through a *homa* (होम) alone. If it is for both, then again, the completion of the *śrāddha* (श्राद्ध) is remembered as being through the recitation of that hymn and a *homa* (होम). // Ang_1.966 //\nIf the Brahmin in the place of the father vomits during a *darśa* (दर्श) rite, the meal of that *śrāddha* (श्राद्ध) is then prescribed to be with freshly cooked food. // Ang_1.967 //"
+   },
+   {
+    "id": "c19",
+    "at": "96:1",
+    "text": "Sesame (*tila* (तिल)), black gram (*māṣa* (माष)), rice, barley, jaggery, green gram, and honey;\ncertain tubers, roots, and so on; cloth, cotton, and so on— // Ang_1.1013 //\nhaving collected these, one should carefully store a piece of divine sandalwood, divine vetiver, and guggul resin, and bury them in the earth. // Ang_1.1014 //\nOne should hide some dried unripe fruits for the sake of the *śrāddha* (श्राद्ध). Some he should carefully place in trees, and some underground in the earth, // Ang_1.1015 //\nin grain bins, in fine cloths, and again in pots and jars. He should store and place them thus, and even bury some. // Ang_1.1016 //\nIf excellent things are seen, then deciding, \"This is for the *śrāddha* (श्राद्ध),\" and speaking only with his own people, // Ang_1.1017 //"
+   },
+   {
+    "id": "c20",
+    "at": "101:6",
+    "text": "He who thereafter performs such a *śrāddha* (श्राद्ध) every year is to be known as a *tyaktapitā* (त्यक्तपिता). These sons, always, // Ang_1.1067 //\nand others of this kind, all of them being devoted to *dharma* (धर्म), should perform the death anniversary *śrāddha* (श्राद्ध) after the *darśa* (दर्श) and other *śrāddhas* (श्राद्धस्). // Ang_1.1068 //\nThe performance of their *śrāddha* (श्राद्ध) is for their own sake alone, to be free from any negative consequence; if not, a great fault will arise. // Ang_1.1069 //\nOr, it is for the removal of the great fault that has arisen from them, or for the attainment of the status of a performer of rites; if not for this, then for him alone, // Ang_1.1070 //\na negative consequence would arise from the abandonment of the *śrāddha* (श्राद्ध); therefore, one should act thus. On their death anniversaries, one should always perform charity, acts of *dharma* (धर्म), and so on. // Ang_1.1071 //"
+   },
+   {
+    "id": "c21",
+    "at": "106:8",
+    "text": "Penance (*prāyaścitta* (प्रायश्चित्त)) is prescribed by the law-givers as having four feet. The assembly (*pariṣad* (परिषद्)) is said to be tenfold, or threefold in summary. // Ang_2,1.3 //\nWhatever has been stated by authority, all that was stated by Aṅgiras. The authority of the immeasurable is attained with difficulty. // Ang_2,1.4 //\nTherefore, Aṅgiras created this holy Dharmaśāstra,\nwhich illuminates the approach, the vow, the injunction, the practice, and the purification. // Ang_2,1.5 //\nThat *dharma* (धर्म) is to be known as created, based on its own foundation. And by four instruments, the eternal *dharma* (धर्म) has been proclaimed. // Ang_2,1.6 //\nHaving first declared what has been said by the law-givers, they should afterwards grant grace according to the deed and the person's ability. // Ang_2,1.7 //"
+   },
+   {
+    "id": "c22",
+    "at": "111:9",
+    "text": "Where the assembly (*pariṣad* (परिषद्)) is incompetent, or there is a rule without an assembly, or the act is stated otherwise, his purification is difficult to obtain. // Ang_2,6.2 //\nWhen the assembly and the rule are both strong, the sin does not descend upon that union. // Ang_2,6.3 //\nHaving encountered this union, the sin perishes, just as a little salt does when thrown into a great body of water. // Ang_2,6.4 //\nFor the purification of deeds, this union is primary. That substance, through contact with the ear, purifies the speakers. // Ang_2,6.5 //\nThe sin of the performer, which is being appeased by *dharma* (धर्म) according to scripture, goes entirely to the prescriber; I shall tell you the parts. // Ang_2,6.6 //\nThe Guru is the chastiser of the self-controlled; the king is the chastiser of the wicked."
+   },
+   {
+    "id": "c23",
+    "at": "116:4",
+    "text": "One morsel is to be diminished each day of the lunar month; otherwise, he becomes fallen. Or, for a *śrotriya* (श्रोत्रिय), this may be done for a whole year. // Ang_2,9.8 //\nA student (*brahmecārī* (ब्रह्मचारी)), an ascetic, one seeking knowledge, one who supports his Guru, a traveler, and one of diminished livelihood—these six are remembered as mendicants. // Ang_2,9.9 //\nFor one who is sick, poor, or separated from his family, or who has gone on a journey, the life of a mendicant is ordained. // Ang_2,9.10 //\nA student (*brahmacārī* (ब्रह्मचारी)) bitten by a dog should perform this penance for three days.\nA householder for two nights, or a fire-keeper for one day. // Ang_2,9.11 //\nIf bitten above the navel, the penance is doubled. On the face, it is double that, and on the head, it is fourfold. // Ang_2,9.12 //"
+   }
+  ]
+ },
+ {
+  "slug": "plautus-titus-maccius-cistellaria-3f92d2",
+  "title": "Cistellaria",
+  "author": "Plautus, Titus Maccius",
+  "language": "Latin",
+  "genre": "Classics",
+  "era": "Hellenistic",
+  "class": "mixed",
+  "n_windows": 53,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "1:0",
+    "text": "(Enter SILENIUM, GYMNASIUM, and PROCURESS, from the house of SILENIUM.\nSILENIUM:\nInasmuch as hitherto I have loved you, and have deemed you to be my friend, my dear Gymnasium, and your mother as well; so have you shown it to me this day, both you and she. If you had been my own sister, how more you two could possibly have held me in esteem\nI know not; but, according as is my way of thinking, I conceive it could not possibly be, such ready assistance, all other things laid aside, have you given me. For this reason do I love you, and for it a vast obligation have you both conferred upon me.\nGYMNASIUM:\nI’ faith, at such a price as this, indeed, it’s easy for us to give you our attendance and to do you good offices;\nso handsomely and so elegantly have you entertained us at breakfast at your house, as we shall ever remember."
+   },
+   {
+    "id": "c01",
+    "at": "1:23",
+    "text": "I’ faith, my dear Silenium, it befits this class to be kindly disposed among themselves, and carefully to keep up friendships, when you see these matrons of elevated rank, born of the noblest families, how they value friendship, and how carefully they keep it united between themselves. If we do that same thing, if we imitate the same example, still as it is, with difficulty do we exist with their extreme dislike. Of their own enjoyments they would have us to be in want, in resources of our own they would have us not to possess any power, and to stand in need of them in all matters, that we may be their humble servants. If you wait upon them, you’d rather be giving your room than your company. So very kind are they before the world to our class; in private, if ever there’s the opportunity, underhandedly they pour cold water upon us. They declare that we are in the habit of having commerce with their husbands; they say that we are their supplanters; they attempt to crush us. Because we are the free daughters of slaves, both I and your mother, we became Courtesans; she brought up yourself, and I this girl (pointing to GYMNASIUM), by chance-fathers. Nor yet for the sake of vanity have I driven her to the calling of a Courtesan, but that I mightn’t starve."
+   },
+   {
+    "id": "c02",
+    "at": "2:10",
+    "text": "May the Gods grant it.\nA PROCURESS:\nWithout your own energies, the Gods cannot possibly do anything in this.\nGYMNASIUM:\nI’ faith, for my own part, I’ll zealously devote my energies to it. But what mean you amid this conversation, apple of my eye, my own Silenium? (never did I see you more sad); prithee, do tell me, why does mirth so shun you?\nAnd you are not so neat as you usually are. (SILENIUM sighs.) Do look at that, please, how deep a sigh she heaved. You are pale too. Tell us both what’s the matter with you, and in what you want our aid; so that we may know. Prithee, don’t by your tears be causing me anxiety.\nSILENIUM:\nMy dear Gymnasium, I’m sadly affected; I feel ill, I am shockingly distrest;\nI am pained in spirits, I feel pain in my eyes, I am in pain from faintness. What shall I say, but that my own folly drives me to sadness?"
+   },
+   {
+    "id": "c03",
+    "at": "3:10",
+    "text": "Come now, to begin to be in love, is it bitter, prithee?\nA PROCURESS:\nWhy, troth, love is most fruitful both in honey and in gall;\ninasmuch as it produces sweetness in a mere taste, but causes bitterness even to repletion.\nSILENIUM:\nOf that character is the malady that afflicts me, my dear Gymnasium.\nGYMNASIUM:\nLove is full of treachery.\nSILENIUM:\nHe’s taking his spoils of me, then.\nGYMNASIUM:\nBe of good courage, you’ll get the better of this malady.\nSILENIUM:\nI trust it will be so, if the physician comes that can administer the medicine to this malady.\nGYMNASIUM:\nHe will come."
+   },
+   {
+    "id": "c04",
+    "at": "3:33",
+    "text": "to allow me to live with him alone whom I so ardently loved.\nA PROCURESS:\nI’ faith, she acted foolishly. But look, have you ever kept company with any man?\nSILENIUM:\nWith no one, indeed, except Alcesimarchus; nor has any other person whatever committed an infringement on my chastity.\nA PROCURESS:\nPrithee, by what means did this man gain your good graces?\nSILENIUM:\nAt the festival of Bacchus my mother took me to see the procession. While I was returning home, from a secret look-out he secretly traced me even to the door; after that, he insinuated himself into the friendship of my mother and myself as well, by endearments, presents, and gifts.\nA PROCURESS:\nI should like a man of that sort to be offered me. How I’d work him.\nSILENIUM:\nWhat need is there of words? Through intercourse, I on the other hand began to love him, and he myself."
+   },
+   {
+    "id": "c05",
+    "at": "5:10",
+    "text": "GYMNASIUM:\nAt least do lift up that outer garment.\nSILENIUM:\nLet it be dragged, while I myself am being dragged down.\nGYMNASIUM:\nSince so it pleases you, fare you well and prosper.\nSILENIUM:\nIf I could, I would.\n(Exit.)\nGYMNASIUM:\nMother, do you wish anything of me, before I go indoors? Upon my faith, to me she does seem to be in love.\nA PROCURESS:\nFor this reason, then, it is, that I’m repeatedly dinning it into your ears, not to be in love with any man. Go in-doors.\nGYMNASIUM:\nDo you wish anything of me?\nA PROCURESS:"
+   },
+   {
+    "id": "c06",
+    "at": "6:0",
+    "text": "his father, of a very high family, is living at Sicyon;\nhe is dying desperately in love for this young woman, who has just. now gone hence in tears; on the other hand, she is smitten with love.\nI made a present of her to my friend, this Courtesan: who had often made mention of it to me that somewhere I must find for her a boy or a girl, just born, that she herself might pass it off as her own. As soon as ever the opportunity befell me, I immediately granted her request in that which she had asked of me.\nAfter she had received this female child from me, at once she was brought to bed of the same female child which she had received from me, without the aid of a midwife and without pain, just as other women bring forth, who seek a trouble to themselves; but she said that her lover was a foreigner, and that by reason of that circumstance she was palming it off."
+   },
+   {
+    "id": "c07",
+    "at": "7:0",
+    "text": "He, as he knew that he was deserving of a heavy punishment, at once found shelter with his heels, and made off for Lemnos, where he then lived. She whom he had ravished, the ninth ensuing month completed, brought forth a daughter here. Since she did not know the person guilty of this deed, who he was, she made the servant of her father partaker of her counsels, and gave to that servant the child to be exposed to death. He exposed it; this woman took up the child; that servant, who had exposed it, secretly took note whither or to what house she carried away the child.\nAs you have heard her own self confess, she gave this child to the Courtesan Melaenis; and she brought her up as being her own daughter, honestly and virtuously. But then, this Lemnian married a neighbour there, his relation, for his wife."
+   },
+   {
+    "id": "c08",
+    "at": "7:3",
+    "text": "A young man is here at Sicyon, his father is alive; with affection he distractedly dotes upon this exposed girl, who just now went hence in tears unto her mother; and she loves him in return, which is the most delightful love of all. As human matters go, nothing is granted for everlasting:\nthe father is wishful to give the young man a wife. When the mother came to know of this, she ordered her to be sent for home. Thus have these matters come to pass. Kindly fare you well, and conquer by inborn valour, as you have done before; defend your allies, both ancient ones and new;\nincrease resources by your righteous laws; destroy your foes; laud and laurels gather; that, conquered by you, the Pœni may suffer the penalty.\n(Exit.)\n(Enter ALCESIMARCHUS and MELAENIS.)\nALCESIMARCHUS:"
+   },
+   {
+    "id": "c09",
+    "at": "8:7",
+    "text": "After the manner of the sea is it experienced by me; so much does it distract my enamoured feelings; and only in that, in my misery, I do not sink utterly, is there any evil removed from me thus ruined;\nin such a way has my father detained me these six days running in the country, at his house there; nor has it been allowed me in the meantime to visit my mistress. Isn’t this dreadful to relate?\nMELAENIS:\nAre you joking for this reason, because you’ve got another wife engaged, a rich lady of Lemnos? Have her then! We are neither of a family so great as you are, nor is our wealth so substantial as yours; but still\nI have no fears that any one will impeach our oath; you then, if you shall feel any pain, will know for what reason you do feel pain.\nALCESIMARCHUS:\nMay the Gods confound me—"
+   },
+   {
+    "id": "c10",
+    "at": "9:35",
+    "text": "Not hear? Why, what are you doing?\nMELAENIS:\nThen do you give heed at once, that you may know what you are doing.\nALCESIMARCHUS:\nThen, so may the Gods and Goddesses of above and below, and of middle rank, and so may Juno the queen and the daughter of supreme Jove, and so may Saturn his uncle—\nMELAENIS:\nI’ troth, his father—\nALCESIMARCHUS:\nAnd so may Ops the opulent, his grandam—\nMELAENIS:\nIndeed, his mother, rather.\nALCESIMARCHUS:\nJuno his daughter, and Saturn his uncle, supreme Jove—You are maddening me; it’s through you I make these mistakes.\nMELAENIS:\nGo on saying so.\nALCESIMARCHUS:"
+   },
+   {
+    "id": "c11",
+    "at": "10:11",
+    "text": "He’s gone in-doors in a rage. What shall I do now? If she comes back to him, matters will be just in the same position. When satiety begins to take possession;\nhe’ll be turning her out of doors, when he shall be bringing home this Lemnian wife. But still I’ll go and follow him; there’s necessity for caution, lest he, in love, should be doing some mischief. In fine, since with strict justice a poor person’s not allowed to contend with a rich one, I’ll lose my labour rather than lose my daughter. But who’s this that straight along the street is directing his course this way?\nBoth the other matter do I fear, and this do I dread; so utterly in trepidation am wretched I.\n(She stands aside.)\n(Enter LAMPADISCUS.)\nLAMPADISCUS:\n(to himself.)\nI’ve followed the old woman with my clamour through the streets; I’ve kept her most dreadfully plagued. In what a multitude of ways has she, this day, kept guard upon herself, and been able to remember nothing. How many alluring things, what advantages I’ve promised her."
+   },
+   {
+    "id": "c12",
+    "at": "11:16",
+    "text": "A little while ago, I saw a woman coming out of that house there.\nPHANOSTRATA:\nHer that took up my daughter?\nLAMPADISCUS:\nYou have the matter rgiht.\nPHANOSTRATA:\nWhat after that?\nLAMPADISCUS:\nI told her in what way I had seen her take up the daughter of my mistress from the Hippodrome.\nThen she was in a fright.\nMELAENIS:\n(apart.) Now my body’s in a shudder, my heart is throbbing; for I recollect that from the Hippodrome the little female infant was brought to me, and that I brought it up as my own.\nPHANOSTRATA:\nCome, prithee, do go on; my soul’s longing to hear how the matter proceeded.\nMELAENIS:\n(apart.) I only wish you couldn’t hear."
+   },
+   {
+    "id": "c13",
+    "at": "12:0",
+    "text": "Her, said she, whom you are in search of, I gave to a friend of mine to bring her up as her own daughter; and she is alive, said she. Where is she? immediately said I.\nPHANOSTRATA:\nPreserve me, ye Gods, I do entreat you.\nMELAENIS:\n(apart.)\nBut me you are undoing!\nPHANOSTRATA:\nYou ought to have enquired to whom she gave it.\nLAMPADISCUS:\nI did enquire, and she said to the Courtesan Melaenis.\nMELAENIS:\n(apart.)\nHe has mentioned my name? I’m utterly undone!\nLAMPADISCUS:\nWhen she mentioned her, I straightway asked, Where does she live? said I; take and show me. She has been carried off hence, says she, to live abroad.\nMELAENIS:"
+   },
+   {
+    "id": "c14",
+    "at": "12:30",
+    "text": "PHANOSTRATA:\nLampadio, prithee, do take care.\nLAMPADISCUS:\nI’ll have this matter well managed.\nPHANOSTRATA:\nI trust in the Gods and in yourself.\nLAMPADISCUS:\nAnd I in the same.—that you’ll now go home.\n(PHANOSTRATA goes into her house.)\nMELAENIS:\n(coming forward.)\nYoung man, stay and listen.\nLAMPADISCUS:\nWhat, are you calling to me, woman?\nMELAENIS:\nTo you."
+   },
+   {
+    "id": "c15",
+    "at": "13:34",
+    "text": "I was on the look-out; after that, my master married her. That girl, her daughter, we are now in search of. (MELAENIS turns aside her head.) Why now, with face upturned, are you looking up towards the heavens?\nMELAENIS:\nNow, then, be off at once whither you were hastening; I won’t detain you; I understand it now.\nLAMPADISCUS:\nI’ troth, to the Deities I do give thanks;\nfor if you hadn’t understood me, I do think you would never have let me go.\n(Exit.)\nMELAENIS:\n(to herself.)\nNow it’s necessary for me to be honest, whether I will or no, although I had rather not; I find the thing is discovered. Now will I myself lay them under an obligation to me, rather than she shall peach upon me. I’ll go home, and I’ll bring Silenium to her parents.\n(Exit.)\n(Enter MELAenis, SILENIUM, and HALISCA.)"
+   },
+   {
+    "id": "c16",
+    "at": "14:14",
+    "text": "SILENIUM:\nMy mother, to our sorrow, we are undone!\nALCESIMARCHUS:\n(aloud, to himself.)\nWhether shall I pierce my side here (striking his right side) or on the left.\nMELAENIS:\n(to SILENIUM.)\nWhat’s the matter with you?\nSILENIUM:\n(pointing.)\nDon’t you see Alcesimarchus? He’s grasping a sword.\nALCESIMARCHUS:\n(aloud, in a frantic manner.)\nWhat art about? Thou art delaying. Quit the light of day.\nSILENIUM:\nDo run and aid him, pray, that he mayn’t kill himself."
+   },
+   {
+    "id": "c17",
+    "at": "15:8",
+    "text": "(Goes into the house.)\n(Enter LAMPADISCUS.)\nLAMPADISCUS:\nI do believe I never saw a more tormenting old nag than this is. What she just now confessed to me, is she to be denying it?\nBut look, I see my mistress. Why (seeing the casket on the ground), how’s this, that this casket is lying here with these trinkets, and that I see no other person in the street? I must act the child’s part; I’ll stoop to pick up the casket.\n(Picks it up.)\nPHANOSTRATA:\n(from her house.)\nWhat are you about, Lampadio?\nLAMPADISCUS:\n(giving the casket to PHANOSTRATA.)\nIs this casket from out of our house here, I wonder. For I picked it up, lying here near the door.\nPHANOSTRATA:\nWhat news do you bring about the old woman?\nLAMPADISCUS:\nThat there’s not one other on earth more wicked. She denies all those things which she just now confessed to me. But, i’ faith, for me to allow that old jade to be laughing at me, it’s preferable for me to die by any kind of death."
+   },
+   {
+    "id": "c18",
+    "at": "16:11",
+    "text": "Do you persist?\nPHANOSTRATA:\nThese are they.\nLAMPADISCUS:\nIf any other woman were to speak to me after that fashion, I should say she was drunk.\nPHANOSTRATA:\nBy heaven! I’m talking no nonsense.\nBut prithee, whence in the world did these come, or what Deity placed this before our door? As though for a given purpose, at the very instant sacred Hope comes to my aid?\n(Enter HALISCA, at a distance, from the house of the FATHER of ALCESIMARCHUS.)\nHALISCA:\n(to herself.)\nUnless the Gods give me some aid, I’m utterly undone; nor do I know whence I am to seek for aid. To such a degree does carelessness possess wretched me in mind, which I sadly fear may be lighting upon my own back, if my mistress knows that I’m so negligent as I really am.\nThe casket which I took and held in my hands here before the door, where it is I know not; except, as I fancy, it was dropt by me about this spot. (Looks about on the ground.) My good sirs (to the AUDIENCE), my kind Spectators, do give me information if any one has seen it, if any one has taken it away, or any one picked it up; and whether in this direction or that he has taken his departure?"
+   },
+   {
+    "id": "c19",
+    "at": "17:1",
+    "text": "LAMPADISCUS:\n(apart, at a distance.)\nMistress!\nPHANOSTRATA:\n(apart.)\nWell, what’s the matter?\nLAMPADISCUS:\n(apart.)\nThat’s she.\n(Pointing at HALISCA.)\nPHANOSTRATA:\n(apart.)\nWho?\nLAMPADISCUS:\n(apart.)\nShe who let fall the casket."
+   },
+   {
+    "id": "c20",
+    "at": "18:4",
+    "text": "HALISCA:\nTo my sorrow, I’m utterly undone. What shall I say to my mistress, who bade me with such earnestness take care of it, through which Silenium might the more readily recognize her parents—who, when little, was adopted by my mistress as her own, and whom a certain Courtesan gave to her?\nLAMPADISCUS:\n(aside.) She’s talking about this matter of ours. According as she gives these indications by her talk, she must surely know where your daughter is.\nHALISCA:\nNow is she desirous of her own accord to restore her to her father and mother, whose daughter she is; prithee, my good sir, you are attending to something else; I commend my matter to you.\nLAMPADISCUS:\nI’m giving my attention to this, and this is as good as food to me, that you are talking of; but amid my attending to this matter, I was answering this mistress of mine what she was enquiring; now I return to you. If you have need of anything, say you, and give your orders. What were you looking, for?"
+   },
+   {
+    "id": "c21",
+    "at": "18:28",
+    "text": "(aside.)\nI’ faith, and so she seems.\nLAMPADISCUS:\n(aside.)\nShe imitates a worthless animal and a mischievous.\nPHANOSTRATA:\n(aside.)\nWhich one, prithee?\nLAMPADISCUS:\n(aside.)\nA caterpillar, which twisting about winds itself in the leaf of the vine;\njust in the same way does she begin a story that twists about. (To HALISCA.) What are you looking for?\nHALISCA:\nA casket, my good young man, has flown away from me here.\nLAMPADISCUS:\nYou ought to have put it in a cage."
+   },
+   {
+    "id": "c22",
+    "at": "19:27",
+    "text": "But, by my faith, he’ll confer an obligation on a certain woman if he’ll discover it.\nLAMPADISCUS:\nBut this certain man wishes a reward to be given to him.\nHALISCA:\nBut, by my faith, this certain woman, that has lost this casket, declares that she has nothing to give to this certain man.\nLAMPADISCUS:\nBut still this certain man looks for some money.\nHALISCA:\nBut still he looks for it in vain.\nLAMPADISCUS:\nBut, by my faith, good woman, in no matter does this certain man give his pains for nothing.\nPHANOSTRATA:\nLend me your conversation: it will now be for your own advantage. We confess that we have got the casket.\nHALISCA:\nThen may Salvation preserve you; where is it now?\nPHANOSTRATA:"
+   },
+   {
+    "id": "c23",
+    "at": "20:5",
+    "text": "Don’t interrupt.\nLAMPADISCUS:\nI’ll be mum.\nPHANOSTRATA:\nGood woman, go on speaking. Where is she who had them?\nHALISCA:\n(pointing to the house of ALCESIMARCHUS.)\nHere, next door.\nPHANOSTRATA:\nBy the powers, surely the son-in-law of my husband is living there.\nLAMPADISCUS:\nSurely—\nPHANOSTRATA:\n(to LAMPADISCUS.)\nInterrupting again? (To HALISCA.) Go on relating it. How many years old is she said to be?\nHALISCA:"
+   }
+  ]
+ },
+ {
+  "slug": "hannah-cowley-poems-76f581",
+  "title": "Poems",
+  "author": "Hannah Cowley",
+  "language": "English",
+  "genre": "Poetry",
+  "era": "18th Century",
+  "class": "poetic",
+  "n_windows": 199,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "THE MAID OF ARRAGON.\nOH, ye! whose sympathetic hearts are form'd\nTo woe responsive, and whose trem'lous nerves\nVibrate to Sorrow's mournful airs — attend!\nNot you, ye gay! not you, ye vacant crouds!\nWho labour through the pleasures of the world,\nNor feel existence when they cease t'impel;\nI call not you! — for, oh, your callous bosoms\nFell Dissipation steels, and robs your minds\nOf the sweet energies bestow'd by Heaven:\nBut, come, ye few! who love the lonely hour;\nWho know the sense refin'd, the charming agony,\nWhich Pity gives the hallow'd hearts she fills;\nTo you I call! oh, come, and trace with me\n(Whilst glitt'ring Hesperus holds high his torch)\nThe mazy windings of yon solemn wood."
+   },
+   {
+    "id": "c01",
+    "at": "3:0",
+    "text": "Unhappy Youth! breath'd forth the sad OSMIDA;\nAnd is Affliction's appetite so vast,\nThat daily victims can't allay her rage?\nBut, gentle Knight! where will your journey end?\nWhat Porter waits to hear your bugle sound,\nAnd ope the gates, with welcome in his face\nTo greet his honour'd Lord's expected guest?\nAlas! sweet Maid! no hospitable gate\nDE COURCI seeks; no welcome waits his steps:\nTo Eastern climes I bend my weary course;\n— Jerusalem the home which ends my progress.\nThere let me bear your woes. Instruct me, Lady!\nThat at the Holy Sepulchre your name\nMay animate my pray'rs; that there your griefs\nMay, sanctify'd, ascend the porch of heav'n,\nAnd, in their stead, soft peace, and blooming joy,"
+   },
+   {
+    "id": "c02",
+    "at": "5:24",
+    "text": "That first enerv'd, next lent their courage fury:\nLead us! they cry'd — lead to the Moorish camp!\nWhat are their numbers, single as they come?\nWith us, our parents, children, lovers, laws,\nReligion, liberty — all join the battle,\n— Brace our firm arms, and give ten thousand points,\nTen thousand deaths, to ev'ry Christian sword.\nThis holy rage, like sparks electric, flew\nFrom man to man. Each urg'd his valiant friend,\nTo save their city, matrons, daughters, wives,\n— As if on each their preservation hung.\nScarce could the pious King restrain their ardor,\nSo sure they seem'd of conquest and revenge.\nBut he, who knew that from th'almighty arm\nTheir foes' destruction only could proceed,\nThe gates of every temple open threw,"
+   },
+   {
+    "id": "c03",
+    "at": "7:34",
+    "text": "Extends its rich campaign, the army grew\nIn form. Pardon if I, a simple Maid,\nCannot relate, Sir Knight! in artful terms,\nHow, in what order grew. I have not skill\nTo use the phrases chance hath giv'n mine ear.\nWere I to speak of flank, and rear, and van,\nYou'd find my tongue to wild confusion lead.\n— Learn then but this: the King the centre kept;\nMONTENOS, stately pine! led on the front.\nThe Stranger bow'd reply, in mute respect.\nOSMIDA, gently pausing, thus resum'd:\nThe tender Twilight, which till now had look'd\nWith timid eye upon the martial plain,\nWithdrew her beam, to follow distant day:\nNight, oft invok'd, advanc'd her ebon standard,\nTo which all Nature yields well-pleas'd obeisance:"
+   },
+   {
+    "id": "c04",
+    "at": "10:44",
+    "text": "The glorious devastation of his peers.\nJust so MONTENOS shone among the heroes\nWhose bitter chastisement the Moors endured.\nWhere'er he mov'd, destruction mark'd his progress,\nAnd death seem'd couchant on his pond'rous axe.\nThe Night, so dreadful! lengthen'd out her hours,\nAs though she staid to view the battle's conflict,\nOr hide its horrors from the springing day.\nAt length the glowing portals of the East\nDisclos'd the Morn — in splendor she arose;\nBut, as if grief-struck at the murd'rous scene,\nHer face in humid clouds she instant wrapt,\nAnd seem'd to weep in drops of sacred pity.\nYet Conquest ceas'd not, with her vig'rous arm,\nTo plant her banners o'er the reeking field:\n— For us her banners wav'd — for us she triumph'd,"
+   },
+   {
+    "id": "c05",
+    "at": "13:9",
+    "text": "First taught ZORADOR that he was a man;\nAnd now your Daughter's still more powerful eyes\nHave taught ZORADOR, that he is a slave.\nMaster and tyrant of a thousand beauties,\nWho court my passions, live for my delight,\nI breath'd, unknowing that I had a heart,\nTill cruel love, wrapt in Despair's wild torments,\nGave all its nerves a sense of curst existence!\nI love — with agony — with madness, love!\nOh, spare me then the horror of a sight\nMy fiery brain splits but to think on! Save,\n— Father of her whose charms thus abject make me,\nSave from the tortures of her marriage rites,\nThe heart which burns and wastes with hopeless ardors!\nThe ling'ring moon has number'd all the hours\nThat I allotted for my fleet's return:"
+   },
+   {
+    "id": "c06",
+    "at": "16:6",
+    "text": "Clos'd their dim lids in everlasting sleep.\nHere paus'd the Virgin, as immers'd in thought;\nThe story, fraught with woe, had cast a shade\nOf deeper sorrow o'er her pensive brow:\nHer lab'ring bosom sent forth heavy sighs,\nAnd her sad mind seem'd lost in one idea.\nThe Knight, who eager grew to know the tale\nShe promis'd of herself, presum'd at length\nTo bring her recollection to the point;\nAt which her rosy lips their portal clos'd,\nAnd ceas'd to charm him with their touching accents.\nI will not, Stranger! said the fair narrator,\nTax your attention with events unneedful,\nThe Court's distress, the sorrow of the King,\nThe Bride's, th'unwedded Bride's, forlorn distraction.\nLong tedious months led round their joyless suns,"
+   },
+   {
+    "id": "c07",
+    "at": "19:9",
+    "text": "With tender talk the tedious way she shorten'd;\nAnd, when exhausted Nature ask'd recruit,\nHymn'd him to sleep beneath umbrageous trees.\nA whole day's sun beheld her duteous cares:\nThe moon arose, and still they journey'd on;\nBut the succeeding sun, with earliest beam,\nGuided the travellers to a forest's verge.\nHere GONZALES the steeds unrein'd, and drove,\nIn envied freedom, to a neighb'ring mountain,\nLest their betraying hoofs should guide pursuers\nTo the asylum of the hunted King.\nIn the wood's centre they a cottage found,\nForm'd, by Misfortune's hand, of humble clay:\nTwo rooms it had, in each a rustic bed;\nFor stately chairs, a bench; a rough-hewn table,\nThat ne'er with other dainties had been fill'd,"
+   },
+   {
+    "id": "c08",
+    "at": "22:9",
+    "text": "Had not the group of Moors — who yet approach'd not,\nExplain'd the dreadful purport of the visit.\nUnhappy Monarch! said the soft-tongued Knight,\nMuch it afflicts me that my barb'rous fortune,\nFrom all ZORADOR's court, DE COURCI chose\nT'explore the sacred spot of your retirement.\nHad not the tyrant at his hateful nod\nDevoted Moors enough, and callous slaves,\nUs'd to the work of infamy and guilt,\nBut I, a Christian knight, must be selected,\nTo guide an enterprise so curst? — Oh Fate!\nThou never loadedst me with ills till now!\nThe King, experienc'd in mankind, saw through\nThe thin disguise of this most florid speech:\nHe saw the serpent in the spicy shrub;\n— He saw the villain in the gentle eye."
+   },
+   {
+    "id": "c09",
+    "at": "24:29",
+    "text": "And kiss'd the foldings of her flowing robe.\nSuch was the Princess; whom a Moor now seiz'd,\nAnd on DE COURCI's steed securely fix'd.\nA silken sash, held by the treach'rous Knight,\nPass'd through OSMIDA's girdle, and enchain'd\nThe mourning Virgin, and her deadliest foe.\nUpon another steed was plac'd ALMANZOR,\nBehind a guiding Moor. This was the state\nThe kingdom's Monarch, and the kingdom's Heir,\nWere now constrain'd to use. No pompous guards,\nNo blessing populace, no proud grandees,\nTheir steps attend; — but oh! how small that grief,\nWeigh'd with the horrid fears, the tort'ring doubts,\nWhich fill their bosoms, and absorb their thoughts!\nThe leafy desert — which so long had seem'd\nA cheerless prison to th' illustrious pair"
+   },
+   {
+    "id": "c10",
+    "at": "27:27",
+    "text": "Or undivided kept. Two forc'd their way\nTowards the spot where, guarded by her Knight,\nThe Princess stood; three of the foe pursu'd,\nAnd made the path which led to her, the road\nTo death inglorious. The remaining Saracens\nFought as those fight, who, knowing they must die,\nResolve the victors shall buy conquest dearly.\nBut he who at his crupper held the King,\nMore fiercely than the rest — more madly fought.\nHis fellows too hemm'd in the struggling Monarch;\nAnd, turning to the Prince their horses haunches,\nForm'd with their spears a threat'ning glory round him.\nWhen he who held him — watching for the moment,\nBroke from the rest, and on the distant winds\nSeem'd borne away. The demon who presides\nO'er evil acts, and aids the deeds that most"
+   },
+   {
+    "id": "c11",
+    "at": "30:27",
+    "text": "LINES IN IMITATION OF COWLEY.\nTOUCH'D by thy wit, my soul's on fire,\nMy bosom throbs with young desire.\nWhat! though thy form I never saw,\nIs there to man divulg'd a law\nThat only what he sees must touch his heart?\nThe vulgar rule I disallow,\nAnd in my passion feel e'en now,\nThat wit, like beauty, gives the tender smart.\nMethinks thy form I would not know,\nNor to thy face the pleasure owe\nOf these delicious melting pains,\nWhich when a mortal once attains,\nHe knows the greatest bliss for man design'd.\nNo, to my fancy I'll apply,\nThere find thy form, thy air, thy eye,"
+   },
+   {
+    "id": "c12",
+    "at": "32:56",
+    "text": "Nor taste the sweets the garden yields;\nHeed not our meadows' gaudy charms,\nBut dart, with vigour, to my arms!\nADDRESS TO TWO CANDLES.\nBURN — lucid tapers! fiercer burn!\nRefine each ray to purer light,\nPervade the circumambient air\nAnd pierce the closest robe of Night!\nWhy faintly glow your spiral fires,\nWhilst Charity invokes your beams?\nWhy, inauspicious to my prayer, —\nStill faint and fainter are your gleams?\nOh think, that on the distant heath,\nWhose canopy's a sombre sky,\nSome weary traveller may roam —\nNo hut, no guide, no shelter nigh!"
+   },
+   {
+    "id": "c13",
+    "at": "35:23",
+    "text": "THE PEN.\nO! SEIZE again thy golden quill,\nAnd with its point my bosom thrill;\nWith magic touch explore my heart,\nAnd bid the tear of passion start.\nThy golden quill APOLLO gave —\nDrench'd first in bright Aonia's wave:\nHe snatch'd it flutt'ring thro' the sky,\nBorne on the vapour of a sigh:\nIt fell from Cupid's burnish'd wing\nAs forcefully he drew the string\nWhich sent his keenest, surest dart\nThro' a rebellious frozen heart;\nThat had till then defy'd his pow'r,\nAnd vacant beat thro' each dull hour.\nBe worthy then the sacred loan!"
+   },
+   {
+    "id": "c14",
+    "at": "38:20",
+    "text": "Let vulgar souls stoop to the fever's rage,\nOr slow, beneath pale atrophy depart,\nWith Gout and Scrophula weak variance wage,\nOr sink, with sorrow cank'ring at the heart;\nThese, be to common Minds, th' unwish'd decree!\nThe FIRM select an illness more sublime;\nBy languid pains, scorn their high souls to free,\nBut seek the Sword's swift edge, and spurn at Time.\nTO DELLA CRUSCA.\nI HATE the tardy Elegiac lay —\nChoose me a measure jocund as the day!\nSuch days as near the ides of June\nMeet the Lark's elab'rate tune,\nWhen his downy fringed breast\nAmbitious on a cloud to rest\nHe soars aloft; and from his gurgling throat"
+   },
+   {
+    "id": "c15",
+    "at": "40:49",
+    "text": "The Angels of his wrath bid fly!\nThen, HORROR! thou presided'st o'er the whole,\nAnd fill'd, and rapt, each self-accusing soul!\nThou did'st ascend to guide the burning shower —\nOn THEE th' Omnipotent bestow'd the hour!\n'Twas thine to scourge the sinful land,\n'Twas thine to toss the fiery brand;\nBeneath thy glance the temples fell,\nAnd mountains crumble at thy yell.\nONCE MORE thou'lt triumph in a fiery storm;\nONCE MORE the Earth behold thy direful form;\nThen shalt thou seek, as holy prophets tell,\nThy native throne amidst th' eternal shades of HELL!\nTO REUBEN.\nMIDST the proud fervor of the day,\nWhilst the sun darts a torrid ray,"
+   },
+   {
+    "id": "c16",
+    "at": "42:50",
+    "text": "Where'er thou art, in earth or air,\nOh! come, and chase the fiend DESPAIR!\nHave I not mark'd thee on the green\nRoving, by vulgar eyes unseen?\nHave I not watch'd thy lightsome dance\nWhen Evening's soften'd glows advance?\nDear Goddess, yes! and whilst the Rustic's mirth\nProclaims the hour which gives wild gambols birth,\nSupine, I've found thee in the elm-row's shade,\nLull'd by the hum returning bees have made,\nWho, chary of their golden spoils,\nFinish their fragrant, rosy toils,\nWith rest-inviting, slumb'rous song,\nAs to their waxen couch they throng.\nChaste Nymph! the Temple let me seek\nWhere thou resid'st in lustre meek;"
+   },
+   {
+    "id": "c17",
+    "at": "45:28",
+    "text": "There may'st thou meet the Maid serene,\nOr trace her on the zephyr'd green\nWhilst Day's carnation gently fades.\nDoth Nature make the prospect vast,\nWith rocks o'erhang, and rivers cast\nTumbling headlong to their base?\nDo seas stretch out their foamy plains,\nCompelling with their chrystal chains\nWide Continents t' embrace?\nAll these attract the smooth-brow'd fair; —\nOr where can Art evince her powers,\nWhere, Science strew immortal flowers,\nAnd gay Indifference — haste not there?\nWhilst PASSION narrows up the heart,\nTASTE can no ray of bliss impart,\nOne strong idea grasps the mind —"
+   },
+   {
+    "id": "c18",
+    "at": "47:50",
+    "text": "To where the Medicean Urn,\nThe once proud City hallows still,\nThere thy fine taste may drink its fill. —\nTo FLORENCE fly —\nO, no! for ever shun her tempting skies,\nFor there, if right I ween, the Maid INDIFFERENCE dies!\nTO DELLA CRUSCA.\nOH stay, oh stay! thy rash speed check,\nNot yet ascend the flying deck;\nNor Europe's Hemisphere forsake,\nNor from THY NATION's pleasures take\nA bliss so exquisite and chaste —\nA feast so dear to polish'd taste,\nAs that thy Lyre correctly flings,\nAs that they feel when DELLA CRUSCA sings.\nAlas! thou'rt gone, and to my straining eye"
+   },
+   {
+    "id": "c19",
+    "at": "50:17",
+    "text": "His favourite, from th' obsequious train\nWas to his inmost closet led;\nThere heard confess'd the am'rous pain\nWhich tore him from his midnight bed.\nOh, thou wert near, Alphonso cries,\nWhen in the progress late we made,\nGonsalvo's daughter in our eyes\nMade every other virgin fade.\nHer noble mien, her blushes mild,\nThe burnish of her tresses bright;\nHer age — but just no longer Child,\nHer rosy mouth, her graceful height;\nAll these have in my time-worn heart,\nLighted a youthful, am'rous fire —\nI sink beneath the poignant smart,\nI faint with eager, strong desire."
+   },
+   {
+    "id": "c20",
+    "at": "52:40",
+    "text": "'Twas Julia's brother whom she saw,\n'Twas Julia whom her brother press'd;\nBoth dear by Nature's dearest law,\nFor twins they were, who thus caress'd.\nFrom Calpe's glorious rock he came —\nImmortal monument decreed\nOf English ELLIOT's laurel'd name;\nWhere English heroes oft shall bleed.\nAnd there his blood did Gusman shed\nAmongst the boldest ever found,\nBy sacred thirst of honour led —\nNor shun'd the deaths that flew around.\nBut when bright Peace her silver flute\nHad sounded thro' wide Europe's skies,\nAnd when the voice of war was mute,\nSped by fond duty, home he flies."
+   },
+   {
+    "id": "c21",
+    "at": "55:32",
+    "text": "Happy to gambol secret and unseen.\nHere calmest zephires waft their airy wings,\nAnd birds of solitude flit musing by,\nAnd sometimes too the bird that sweetly sings,\nChants forth its pleasures to the lucid sky; —\nWhilst in the blushing chambers of the west,\nA thousand tender dies their tints prepare,\nWhich rapidly th' horizon round invest,\nStreaming prismatic glories thro' the air!\nThat russet mountain, on whose farthest side\nThe modest beams of morn first ever play,\nTill from its top the ardent sun looks down,\nAnd gilds the valley with a bolder ray —\nOwns in its riven base a cavern dank,\nWhere oozing, filter'd drops of doubtful green,\nHarden'd, suspended, hang like willows lank,"
+   },
+   {
+    "id": "c22",
+    "at": "58:26",
+    "text": "Which late from Belgia, distant kingdoms sought,\nBut now 'tis Caledonia grants the prize!\nThere the rich damask spread its fruit and flowers,\nFor royal tables, and for halls of state:\nThere the transparent lawn display its powers,\nTo soften beauty, and new charms create.\nProud Manchester will here her fame divide,\nHer varied works, her fashion, and her taste;\nThis, bind in snowy vest Horatio's side,\nThat, flow in graceful folds from Chloe's waist.\nThe stripe so well dispos'd, the glowing bloom\nWhich overspreads the whole, shall here be seen:\nGo MANCHESTER, and weep thy slighted loom —\nIts arts are cherish'd now on PI'TCAIRNE GREEN!\nFor these, whilst Labour chants her jocund song,\nShall foreign prows be pointed to our shores;"
+   },
+   {
+    "id": "c23",
+    "at": "60:54",
+    "text": "What, the vast prospects of the unborn NOW\nAnd all its figures, in her magic glass.\nShe'll shew that land which when beneath the skies\nOf soft Italia, bloom'd in scented flowers,\nPainted its surface with the richest dyes,\nAnd burst in hills, and gave its shade in bowers; —\nShe'll shew it then, divest of ev'ry sweet\nThat once endear'd it to the eye of taste;\nNo flowers, no rills, the wand'ring eye shall meet —\nNo soft embroid'ry o'er the snowy waste.\nBut tho' not sweet, the scen'ry will be grand!\nNot rills but torrents, will her muse display;\nThat roar when rigid winds become more bland —\nGrow dumb and stiffen, in the wint'ry ray.\nNo gentle hill, but mountains vast she'll shew,\nWhose cracking pines confess strong Boreas' arm,"
+   }
+  ]
+ },
+ {
+  "slug": "janet-little-poems-df0dac",
+  "title": "Poems",
+  "author": "Janet Little",
+  "language": "English",
+  "genre": "Poetry",
+  "era": "18th Century",
+  "class": "poetic",
+  "n_windows": 180,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "TO THE COUNTESS OF LOUDOUN.\nWILL gentle LOUDOUN deign to lend an ear,\nWhen nature speaks, and sorrow drops a tear?\nWithin your walls my happiness I found\nLuxuriant flourish, like the plants around:\nBlithe as the birds that perch on yonder spray,\nIn joyous notes, I pour'd the willing lay.\nBeneath your roof there humble lines had birth,\nWhose honour'd Patrons now lie low in earth;\nOr borne by Fate far from their native shore,\nWith smiles auspicious glad my heart no more.\nHere youth and beauty, innocence and love,\nI joy'd to see, to serve, and to approve:\nHere honour'd Age to all around did show,\nThat virtue's paths alone can bliss bestow:\nHere moral lessons spoke from ev'ry part,"
+   },
+   {
+    "id": "c01",
+    "at": "2:4",
+    "text": "Depriv'd of thee, how lovers mourn\nDejected, restless and forlorn,\nIn unfrequented bow'rs!\nAttending still on Hymen's rites,\nThou decorates the chain;\nThy smile the sprightly maid invites\nAnd lures the youthful swain:\nStill easing, and pleasing,\nWhen stern misfortune stares,\n'Mid losses, and crosses,\nThou lightens all their cares.\nFrom life's fair dawn to liart eve,\nWe all thy flatt'ring tales believe,\nEnamour'd of thy art:\nThy soft and salutary voice\nGives birth to unexpected joys,"
+   },
+   {
+    "id": "c02",
+    "at": "4:30",
+    "text": "Absorb'd in grief we still her absence mourn,\nOr beg that heaven would smile upon our plains,\nAnd grant a blessing in her swift return.\nTHE FICKLE PAIR.\nDAMON and Phillis, 'tother day,\nTo Hymen's altar hasten'd;\nThey talk'd of love along the way,\nAnd wish'd the knot well fasten'd.\nA church the willing pair perceiv'd,\nWith portals wide expanded;\nThe priest a speedy audience crav'd,\nAnd in the bride was handed.\nWhen lo! a tremor seiz'd the fair,\nIn marriage robes adorned;\nShe left the youth perplex'd with care,\nThe rites yet unperformed."
+   },
+   {
+    "id": "c03",
+    "at": "6:51",
+    "text": "I felt his tyrannical sway;\nThe time I remember too well;\nIt was a long month and a day.\nThe youth, I'll not mention his name,\nWho was the sole cause of my smart,\nHis deeds were unnotic'd by fame,\nHis manners unpolish'd by art.\nHis person could boast of no charm,\nHis words of no conquering power;\nYet his footsteps did give the alarm,\nWhich made my heart beat for an hour.\nWhen absent from him I ador'd,\nOne minute as ages did prove;\nThough plenty replenish'd my board,\nI fasted and feasted on love.\nMy couch but augmented my pain;"
+   },
+   {
+    "id": "c04",
+    "at": "9:31",
+    "text": "Still she is right, and ever in the wrong,\nSuch elocution dwells upon her tongue.\nBut if assisted by the Muse's skill,\nHe sure may dread the poison of her quill;\nShe with keen satire lashes all around,\nAnd with the rest her husband feels the wound.\nShould poverty, by sudden threats alarm,\nCan wit with all its power now prove a charm?\nThe fairest flowers Parnassus ere could boast,\nYield to the treasures of the golden coast.\nThe maid who comes fraught with that precious ore,\nBrings virtue, wit, and beauty all in store;\nThis gives the palid cheek a crimson glow,\nThe tawny skin the tincture of the snow.\nThis makes the dwarf complete in ev'ry part:\nShe wounds most sure who throws the golden dart."
+   },
+   {
+    "id": "c05",
+    "at": "11:46",
+    "text": "Say, dear Almeda, why this pensive mood,\nWhich does thy wonted cheerfulness exclude?\nALMEDA.\nThe cause of this to Flavia I'll reveal:\nIt is a youth whose power I can't conceal.\n'Tis Strephon, who long since obtain'd my heart,\nWhen artful Cupid gave the killing dart.\nWhen Strephon's near, no anxious cares molest,\nNor access find to my enraptur'd breast;\nBut when he's gone, his absence still I mourn,\nAnd spend my hours in sighs till he return.\nFLAVIA.\nYou kindle into rapture at his name;\nBe wise in time, and guard against a flame,\nWhich cherish'd, hopeless, will your charms efface,\nAnd rob your features of each blooming grace."
+   },
+   {
+    "id": "c06",
+    "at": "14:26",
+    "text": "With pleasure I've por'd on the stream:\nYoung Strephon then with me did stray,\nAnd of nought but delight I could dream.\nWhile he by my side did recline,\nThe flowers seem'd to brighten their bloom;\nThe sun with more lustre did shine,\nAnd fragrance the fields did perfume.\nStill pleas'd with his whispers of love,\nStill charm'd with his amorous tale;\nNow beauty's forsaken the grove,\nAnd his absence I'll ever bewail.\nHow gloomy and dismal the shade,\nWhere Strephon was wont to appear,\nWhere oft his addresses he made,\nAnd his accents delighted my ear.\nThose paths I revisit in pain;"
+   },
+   {
+    "id": "c07",
+    "at": "16:36",
+    "text": "Fairer than fam'd, of old, Arcadia's race:\nAn easy shape, and graceful in her air,\nThe virgins' envy, and the swains' despair.\nHer name was Mary, from the banks of Clyde,\nShe came to taste the summer in its pride.\nOne fatal eve, this charming youth pass'd by,\nAnd on this blooming damsel cast his eye:\nHer charms, resistless, smote his gen'rous heart,\nSurpris'd, confounded, then he felt the smart.\nSometime with wonder on the maid he gaz'd,\nThen silence broke, and thus, like one amaz'd:\n\"What do I feel! from whence this magic spell!\nIs this that love of which the poets tell?\nIt must be so; else why this pleasing pain,\nThese sweet enchanting hopes the nymph to gain?\nThis fear, this dread, which does my soul molest?"
+   },
+   {
+    "id": "c08",
+    "at": "19:6",
+    "text": "Supinely basking in the transient gleam,\nA sudden blast dispels the glimm'ring ray.\nAmanda, late the fairest of the throng,\nOf all our rural nymphs she was the pride:\nI saw, I lov'd, nor did I languish long,\nWith modest blushes she became my bride.\nWe then the sweets of social life did prove,\nBlest in our lot, nor did we sigh for fame.\nA comely boy, the pledge of mutual love,\nEnhanc'd our pleasure, and our care did claim.\nWhat words can paint the horrors of my breast,\nWhile briefly I the tragic scene disclose?\nPale death our darling infant did arrest,\nOne direful night when sunk in soft repose.\nNo tender guardian mark'd his latest sigh;\nNo cordial did his quiv'ring lips receive;"
+   },
+   {
+    "id": "c09",
+    "at": "21:17",
+    "text": "Her stars malignant cursed;\nHer looking-glass cast on the floor,\nAnd into tears she bursted.\nShe would have died, but Claudius came,\nPreventing all her fears;\nHe wed the pensive, weeping dame,\nAnd wip'd away her tears.\nTHE UNFORTUNATE RAMBLER.\nLATE on an evening I chanced to roam,\nThe night it was dark, and the streets they were dirty;\nIt was to attend the lov'd Celia home,\nEngag'd in a company jovial and hearty.\nI instantly hasten'd to put on my shield,\nThe shield of indiff'rence, perhaps you may know it;\nAppriz'd of the danger attending the field,\nI judg'd it a piece of high prudence to shew it."
+   },
+   {
+    "id": "c10",
+    "at": "24:1",
+    "text": "Thou mak'st such stubborn hearts to yield,\nWhat conquests do thy charms await,\nWhen ripen'd beauties grace the field?\nDoes baleful Envy rear its crest,\nFor this one favour now obtain'd?\nSure rage will swell each female breast,\nWhen o'er mankind thy empire's gain'd.\nThen gentle charmer pity have,\nNor sigh for conquests ever new:\nIn haste some fond Amyntor save,\nAnd let us hear no more of you.\nTHE YOUNG MAN'S RESOLUTION.\nBY Cupid and Bacchus I'm sadly perplex'd,\nBoth parties to hear I incline:\nThe urchin for ever comments on this text,\nBeware of the juice of the vine."
+   },
+   {
+    "id": "c11",
+    "at": "26:17",
+    "text": "Distant her air, staid, sapient, mild,\nA figure fine and tall;\nBy Wisdom own'd, her legal child,\nWho did her Prudence call.\nWith vermil lips, in accents sweet,\nSoft as that falling snow,\nThere words I heard the nymph repeat,\nAddress'd to all below:\n\"In Virtue's cause exert your pow'rs,\nLet her your actions sway;\nEmploy with speed the passing hours,\nNor trust another day.\"\nOn his left hand, with tardy pace,\nHere walks a maid forlorn;\nLank hunger painted on her face,\nHer scanty raiment torn:"
+   },
+   {
+    "id": "c12",
+    "at": "28:30",
+    "text": "They may thank heav'n, auld Sam's asleep:\nFor could he ance but get a peep,\nHe, wi' a vengeance wad them sen'\nA' headlong to the dunces' den.\nYet Burns, I'm tauld, can write wi' ease,\nAn' a' denominations please;\nCan wi' uncommon glee impart\nA usefu' lesson to the heart;\nCan ilka latent thought expose,\nAn' Nature trace whare'er she goes:\nOf politics can talk wi' skill,\nNor dare the critics blame his quill.\nBut then a rustic country quean\nTo write – was e'er the like o't seen?\nA milk maid poem-books to print;\nMair fit she wad her dairy tent;"
+   },
+   {
+    "id": "c13",
+    "at": "30:30",
+    "text": "WHILE Phoebus did our summer arbours cheer,\nAnd joys Autumnal crown'd our circling year;\nEven then my thoughts to you excursions made,\nAnd ardently the bypast scenes survey'd;\nWhere oft we met in Eccles' peaceful bow'rs,\nWhile social pleasure mark'd the passing hours.\nFrom there sweet scenes I found myself remov'd,\nI fear'd no more remember'd or belov'd.\nForgot by Nell, whose friendship seem'd sincere,\nSuch cold neglect, who undisturb'd could bear?\nMild Autumn now resigns to rougher skies,\nAnd frightful storms, in wild commotion, rise.\nThe tempest howls, while dark December reigns,\nAnd scatters desolation o'er the plains.\nJust as the sun bursts from the wintry cloud,\nWhich oft does now his native glory shroud,"
+   },
+   {
+    "id": "c14",
+    "at": "33:8",
+    "text": "ON THE DEATH OF J—. H—. ESQ.\nJUNE, 1790.\nERE Phoebus' beams exhal'd the pearly dew,\nWhile hoary moisture all the fields o'erspread,\nWhere ozier cypress, and the drooping yew,\nHad form'd a musing melancholy shade.\nBelinda sat, bedew'd with briny tears,\nThe echoing grove her deep-fetch'd sighs retain;\nHer plaintive note distress'd my list'ning ears,\nWhile in low accents thus she did complain.\n\"And is the pleasing scene, alas! no more!\nCorrosive grief now on my vitals prey!\nDistress'd, in sighs I spend the heavy hour,\nNor feel of comfort one auspicious ray!\nNow gloomy visions hover round my bed,\nMore sadd'ning thoughts my waking hours employ!"
+   },
+   {
+    "id": "c15",
+    "at": "35:34",
+    "text": "May he, on whom her hope relies,\nProtect thy lovely form,\nWhile sudden blasts impetuous rise\nIn life's tempestuous storm.\nFor thee, be calm the rolling flood,\nBe still the blust'ring wave:\nMay'st thou be bless'd with every good\nA mother's heart can crave.\nON A GENTLEMAN'S PROPOSING TO TRAVEL 300 MILES TO SEE J—. H—. ESQ.'S CHILD.\nIS it true! does Alonzo from London propose\nA visit to Scotia's bleak plain,\nEre the beams of bright Sol have dispersed our snows,\nOr the warblers enliven'd their strain?\nDoes the city prove irksome, insipid the ball,\nNor the theatre claim a delay?\nIs it friendship or int'rest that ushers the call,"
+   },
+   {
+    "id": "c16",
+    "at": "38:18",
+    "text": "'Mong all the nymphs assembl'd there.\nNot Philomel's delightful strain\nCould such extatic joys impart,\nAs did thy notes, O darling swain!\nWhich well can cheer the anxious heart.\nHis count'nance as Aurora bright,\nHis smiles gave joy to all around:\nIn virtue, wit, and all that's right,\nAlonzo's equal ne'er was found.\nTo Anna's banks, alas! he's gone;\nTo Eccles fam'd for maidens fair;\nAnd, to augment my grievous moan,\nI dread some pow'rful rival there.\nARMEDA.\nO Sylvia, all your fears are vain;\nI've seen the nymphs display their art,"
+   },
+   {
+    "id": "c17",
+    "at": "40:19",
+    "text": "The rheum on a neglected eye;\nThe hoary hair or wrinkle.\nLong time it did the chimney grace,\nSo awkward now and empty;\nIts with a vengeance chang'd its place,\nAnd broke in pieces twenty.\nO Delia! mourn thy direful fate,\nA thousand ills portending!\nBlack omens now thy stars await,\n'Gainst which there's no defending.\nPoor Delia now, bedew'd with tears\nAnd piti'd by acquaintance,\nResolv'd to spend full fifteen years,\nIn doleful, deep repentance.\nDo tears these lovely cheeks distain,\nBy thousand charms surrounded!"
+   },
+   {
+    "id": "c18",
+    "at": "42:39",
+    "text": "Some anxious cares within my breast\nWere silently consign'd to rest;\nYet did in sleep their pow'r retain,\nAs shews the visions of my brain.\nMy works I thought appear'd in print,\nAnd were to diff'rent corners sent,\nWhare patrons kind, but scant o' skill,\nHad sign'd my superscription bill.\nVoratious critics by the way,\nLike eagles watching for their prey,\nSoon caught the verse wi' aspect sour,\nAn' did ilk feeble thought devour;\nNor did its humble, helpless state,\nOne fraction of their rage abate.\nTom Touchy, one of high pretence\nTo taste an' learning, wit an' sense,"
+   },
+   {
+    "id": "c19",
+    "at": "44:34",
+    "text": "The consequence he feared\nSae much that night.\nWi' heartsome glee the minutes past,\nEach act to mirth conspired:\nThe cushion dance perform'd at last,\nWas most of all admired.\nFrom Janet's bed a bolster came,\nNor lad nor lass was missing;\nBut ilka ane wha caught the same,\nWas pleas'd wi' routh o' kissing,\nFu' sweet that night.\nSoon as they heard the forward clock\nProclaim 'twas nine, they started,\nAn' ilka lass took up her rock;\nReluctantly they parted,\nIn hopes to meet some other time,"
+   },
+   {
+    "id": "c20",
+    "at": "46:51",
+    "text": "Wash-balls, perfumes, and mirrors bright.\nThe Miser hopes his joys to hold,\nFast lock'd within his bags of gold:\nThieves, moth and rust, corrupt his rest;\nMay all his sorrows be your jest.\nThe plodding sage long years has spent\nIn searching for the gem content,\nWhich often does, I know not why,\nIn heaps of rustic rubbish lie.\nAnd may my honest friend just now,\nWithout much quest be found by you;\nMay your old shoes, your staff and plaidy,\nBe always for the journey ready:\nAnd blithly may ilk neighbour greet you;\nMay cakes, and scones, and kibbocks meet you;\nAnd may they weel ilk pocket cram,"
+   },
+   {
+    "id": "c21",
+    "at": "48:41",
+    "text": "The lover home, and wed them with a ring.\nEight children too, he plac'd before their sight\nWill seem'd well pleased, and bade them all good night.\nThis might have pass'd, had he the fact conceal'd;\nBut O 'twas cruel! Willy all reveal'd.\nHe thought indeed, but all his thoughts were vain,\nThe fam'd Alcanzar's character to stain.\nFor one spoil'd dish who would a meal despise!\nOr for one small mistake condemn the wise?\nFROM ALONZO TO DELIA.\nTO you my fair, the empress of my heart,\nI'm urg'd to vent my pure, untainted flame;\nTho' language faintly can my thoughts impart,\nMy swelling sighs, your kind attention claim.\nSee Venus self outrival'd by your charms:\nVain my attempt thy virtues to portray"
+   },
+   {
+    "id": "c22",
+    "at": "51:27",
+    "text": "To give me pain:\nI wish you, sir, so much distress'd,\nSoon well again.\nFROM FLAVIA TO CARLOS.\nDEAR sir, accept this missive sent\nFrom one whose mind's sincerely bent,\nOn ever acting so with you,\nAs shall evince her friendship true.\nBut how shall Carlos really know,\nThat friendship in her breast doth glow?\nA friend is more than empty name:\nFew justly can the title claim.\nWere Flavia born in station high,\nHer friendship soon you would descry;\nHer op'lence quickly would reveal,\nWhat pen'ry bids her now conceal."
+   },
+   {
+    "id": "c23",
+    "at": "53:17",
+    "text": "Indiff'rence was our favourite shield;\nBut by some fatal destiny,\nMy sister languish'd in the field.\nDepriv'd of all defensive arms,\n(I sigh, my tears begin to flow)\nAnd slain by a sea captain's charms,\nShe married was a month ago.\nIn an unlucky moment he,\nFrom Plutus sure had learn'd the art,\nMade his empoison'd arrows flee,\nTill one of them did pierce her heart.\nShe did not wish to find relief,\nBut an ignoble victim fell,\nWhich fill'd our parents' hearts with grief;\nTheir sorrows great what tongue can tell?\nThe balsam of advice was brought,"
+   }
+  ]
+ },
+ {
+  "slug": "polybius-histories-672821",
+  "title": "Histories",
+  "author": "Polybius",
+  "language": "Greek",
+  "genre": "Classics",
+  "era": "Hellenistic",
+  "class": "mixed",
+  "n_windows": 5,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "263:0",
+    "text": "Who would not disapprove of such bitterness and intemperance of language in an historian? It is not only because his words contradict his opening statement that he deserves stricture; but also because he has libelled the king and his friends; and still more because his falsehood is expressed in disgusting and unbecoming words. If he had been speaking of Sardanapalus, or one of his associates, he could hardly have ventured to use such foul language; and what that monarch’s principles and debauchery were in his lifetime we gather from the inscription on his tomb, which runs thus: The joys I had from love or wine Or dainty meats—those now are mine. But when speaking of Philip and his friends, a man ought to be on his guard, not so much of accusing them of effeminacy and want of courage, or still more of shameless immorality, but on the contrary lest he should prove unequal to express their praises in a manner worthy of their manliness, indefatigable energy, and the general virtue of their character. It is notorious that by their energy and boldness they raised the Macedonian Empire from a most insignificant monarchy to the first rank in reputation and extent. And, putting aside the achievements of Philip, what was accomplished by them after his death, under the rule of Alexander, has secured for them a reputation for valour with posterity universally acknowledged. For although a large share of the credit must perhaps be given to Alexander, as the presiding genius of the whole, though so young a man; yet no less is due to his coadjutors and friends, who won many wonderful victories over the enemy; endured numerous desperate labours, dangers and sufferings; and, though put into possession of the most ample wealth, and the most abundant means of gratifying all their desires, never lost their bodily vigour by these means, or contracted tastes for violence or debauchery. On the contrary, all those who were associated with Philip, and afterwards with Alexander, became truly royal in greatness of soul, temperance of life, and courage. Nor is it necessary to mention any names: but after Alexander’s death, in their mutual rivalries for the possession of various parts of nearly all the world, they filled a very large number of histories with the record of their glorious deeds. We may admit then that the bitter invective of the historian Timaeus against Agathocles, despot of Sicily, though it seems unmeasured, has yet some reason in it,—for it is directed against a personal enemy, a bad man, and a tyrant; but that of Theopompus is too scurrilous to be taken seriously."
+   },
+   {
+    "id": "c01",
+    "at": "364:0",
+    "text": "All arrangements for the battle being complete, and the two opposing forces of Numidian cavalry having been for some time engaged in skirmishing attacks upon each other, Hannibal gave the word to the men on the elephants to charge the enemy. But as they heard the horns and trumpets braying all round them, some of the elephants became unmanageable and rushed back upon the Numidian contingents of the Carthaginian army; and this enabled Massanissa with great speed to deprive the Carthaginian left wing of its cavalry support. The rest of the elephants charged the Roman velites in the spaces between the maniples of the line, and while inflicting much damage on the enemy suffered severely themselves; until, becoming frightened, some of them ran away down the vacant spaces, the Romans letting them pass harmlessly along, according to Scipio’s orders, while others ran away to the right under a shower of darts from the cavalry, until they were finally driven clear off the field. It was just at the moment of this stampede of the elephants, that Laelius forced the Carthaginian cavalry into headlong flight, and along with Massanissa pressed them with a vigorous pursuit. While this was going on, the opposing lines of heavy infantry were advancing to meet others with deliberate step and proud confidence, except Hannibal’s army of Italy, which remained in its original position. When they came within distance the Roman soldiers charged the enemy, shouting as usual their war-cry, and clashing their swords against their shields: while the Carthaginian mercenaries uttered a strange confusion of cries, the effect of which was indescribable, for, in the words of the poet, the voice of all was not one — nor one their cry: But manifold their speech as was their race."
+   },
+   {
+    "id": "c02",
+    "at": "366:0",
+    "text": "Still Hannibal took his measures against each of these difficulties in a manner that could not be surpassed. He provided himself with those numerous elephants, and put them in the van, for the express purpose of throwing the enemy’s ranks into confusion and breaking their order. Again he stationed the mercenaries in front and the Carthaginians behind them, in order to wear out the bodies of the enemy with fatigue beforehand, and to blunt the edge of their swords by the numbers that would be killed by them; and moreover to compel the Carthaginians, by being in the middle of the army, to stay where they were and fight, as the poet says — That howsoe'er unwilling fight he must. But the most warlike and steady part of his army he held in reserve at some distance, in order that they might not see what was happening too closely, but, with strength and spirit unimpaired, might use their courage to the best advantage when the moment arrived. And, if in spite of having done everything that could be done, he who had never been beaten before failed to secure the victory now, we must excuse him. For there are times when chance thwarts the plans of the brave; and there are others again, when a man Though great and brave has met a greater still. And this we might say was the case with Hannibal on this occasion...."
+   },
+   {
+    "id": "c03",
+    "at": "498:0",
+    "text": "When the shipmaster had everything ready, and nothing remained except for Demetrius to do his part, he sent Diodorus to Syria to gather information, and to watch the disposition of the people there. His foster-brother Apollonius took part in this expedition; and Demetrius also confided his secret to the two brothers of Apollonius, Meleager and Menestheus, but to no one else of all his suite, though that was numerous. These three brothers were the sons of the Apollonius who occupied so important a position at the court of Seleucus, but who had removed to Miletus at the accession of Antiochus Epiphanes. As the day agreed upon with the sailors approached, it was arranged that one of his friends should give an entertainment to serve as an excuse for Demetrius going out. For it was impossible that he should sup at home; as it was his constant habit, when he did so, to invite all his suite. Those who were in the secret were to leave the house after supper and go to the ship, taking one slave each with them; the rest they had sent on to Anagnia, saying that they would follow next day. It happened that at this time Polybius was ill and confined to his bed; but he was kept acquainted with all that was going on by constant communications from Menyllus. He was therefore exceedingly anxious, knowing Demetrius to be fond of conviviality and full of youthful wilfulness, lest, by the entertainment being unduly prolonged, some difficulty should arise from over-indulgence in wine to prevent his getting away. He therefore wrote and sealed a small tablet; and just as it was getting dusk sent a servant of his own, with orders to ask for Demetrius’s cupbearer and give him the tablet, without saying who he was or from whom he came, and to bid the cupbearer to give it to Demetrius to read at once. His orders were carried out, and Demetrius read the tablet, which contained the following apophthegms:— The ready hand bears off the sluggard’s prize. Night favours all, but more the daring heart. Be bold: front danger: strike! then lose or win, Care not, so you be true unto yourself. Cool head and wise distrust are wisdom’s sinews."
+   },
+   {
+    "id": "c04",
+    "at": "536:0",
+    "text": "At the sight of the city utterly perishing amidst the flames Scipio burst into tears, and stood long reflecting on the inevitable change which awaits cities, nations, and dynasties, one and all, as it does every one of us men. This, he thought, had befallen Ilium, once a powerful city, and the once mighty empires of the Assyrians, Medes, Persians, and that of Macedonia lately so splendid. And unintentionally or purposely he quoted,—the words perhaps escaping him unconsciously,— The day shall be when holy Troy shall fall And Priam, lord of spears, and Priam’s folk. And on my asking him boldly (for I had been his tutor) what he meant by these words, he did not name Rome distinctly, but was evidently fearing for her, from this sight of the mutability of human affairs...."
+   }
+  ]
+ },
+ {
+  "slug": "plutarch-adversus-coloten-ac70d8",
+  "title": "Adversus Coloten",
+  "author": "Plutarch",
+  "language": "Greek",
+  "genre": "Classics",
+  "era": "Imperial",
+  "class": "mixed",
+  "n_windows": 2,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "1:0",
+    "text": "But yet since you command me to make the election, How can I think a better choice to make Than the divine Ulysses?\nBut is it in this alone, that this excellent man shows himself To others a physician, whilst himself Is full of ulcers?\nBut Colotes, as if he were speaking to some ignorant and unlettered king, again attacks Empedocles for breathing forth the same thought: I’ve one thing more to say.’Mongst mortals there No Nature is; nor that grim thing men fear So much, called death. There only happens first A mixture, and mixt things asunder burst Again, when them disunion does befall. And this is that which men do Nature call.\nso do most men attribute generation and corruption to things that are contracted together and dissolved. But so far has he been from stirring and taking away that which is, or contradicting that which evidently appears, that he casts not so much as one single word out of the accustomed use; but taking away all figurative fraud that might hurt or endamage things, he again restored the ordinary and useful signification to words in these verses: When from mixed elements we sometimes see A man produced, sometimes a beast, a tree, Or bird, this birth and geniture we name; But death, when this so well compacted frame And juncture is dissolved. This use I do approve."
+   },
+   {
+    "id": "c01",
+    "at": "13:0",
+    "text": "And it seems to me, indeed, that Empedocles did not aim in this place at the disturbing the common form of expression, but that he really, as it has been said, had a controversy about generation from things that have no being, which some call Nature. Which he manifestly shows by these verses: Fools, and of little thought, we well may deem Those, who so silly are as to esteem That what ne’er was may now engendered be, And that what is may perish utterly.\nFor these are the words of one who cries loud enough to those which have ears, that he takes not away generation, but procreation from nothing; nor corruption, but total destruction, that is, reduction to nothing. For to him who would not so savagely and foolishly but more gently calumniate, the following verses might give a colorable occasion of charging Empedocles with the contrary, when he says: No prudent man can e’er into his mind Admit that, whilst men living here on earth (Which only life they call) both fortunes find, They being have, but that before the birth They nothing were, nor shall be when once dead."
+   }
+  ]
+ },
+ {
+  "slug": "vitruvius-pollio-on-architecture-f22b40",
+  "title": "On Architecture",
+  "author": "Vitruvius Pollio",
+  "language": "Latin",
+  "genre": "Classics",
+  "era": "Imperial",
+  "class": "mixed",
+  "n_windows": 1,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "95:0",
+    "text": "When with thy flocks to Cleitor's bounds thou'st hied,\nTake from this fount a draught, and grant a rest\nTo all thy goats the water nymphs beside.\nBut bathe not in't when full of drunken cheer,\nLest the mere vapour may bring thee to bane;\nShun my vine-hating spring—Melampus here\nFrom madness once washed Proetus' daughters sane,\nAnd all th' offscouring here did hide, when they\nFrom Argos came to rugged Arcady.\nBut stone his wits become who doth it sip.\nIn which 't is safe for men their hands to lave;\nBut if the weedy basin entering\nYou drink of its unpalatable wave,\nYour grinders tumble out that self-same day\nFrom jaws that orphaned sockets will display."
+   }
+  ]
+ },
+ {
+  "slug": "plato-cratylus-ebc166",
+  "title": "Cratylus",
+  "author": "Plato",
+  "language": "Greek",
+  "genre": "Classics",
+  "era": "Classical",
+  "class": "mixed",
+  "n_windows": 1,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "9:0",
+    "text": "Socrates. Well, he says of it: But since Fate has covered up this race,\nThey are called holy spirits under the earth, Noble, averters of evil, guardians of mortal men."
+   }
+  ]
+ }
+]

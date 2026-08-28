@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "aeschylus-prometheus-bound-c87c47",
+    "picks": [
+      {
+        "id": "c09",
+        "style": "ancient greek tragedy, lyre and aulos, low frame drum, single grave male voice, measured, incantatory, slow build",
+        "why": "Prometheus' unbroken account of men who had eyes but saw nothing and dwelt like ants in sunless caves — a tagless monologue with real images."
+      },
+      {
+        "id": "c23",
+        "style": "ancient greek tragic finale, aulos, thunderous frame drums, defiant baritone over layered chorus, slow then storming",
+        "why": "The closing defiance — let the lightning come, let the sea mingle with the stars — the most quoted moment in the play."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-rudens-34188a",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman stage prologue, tibia pipes, plucked lyre, declamatory male voice with a wry lilt, stately, moderate",
+        "why": "Arcturus the star introduces himself and Jove's ledger of perjurers — a self-contained speech with a genuinely strange conceit."
+      }
+    ]
+  },
+  {
+    "slug": "cicero-marcus-tullius-de-divinatione-9e626f",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "latin didactic verse set to music, lyre and low winds, swelling strings, grave male voice, slow, ominous",
+        "why": "The weather-omens: heaving sea, herons fleeing the abyss, the nightingale pouring predictions of evil — pure image, no argument."
+      },
+      {
+        "id": "c13",
+        "style": "prophetic lament, aulos and frame drum, wild high female voice, accelerating, ecstatic dread",
+        "why": "Cassandra's raving — 'It comes! it comes! that bloody torch' — urgent, repetitive, made to be sung."
+      },
+      {
+        "id": "c17",
+        "style": "roman satiric song, plucked lyre and hand drum, sardonic baritone, brisk, mock-solemn opening",
+        "why": "Opens on the power that creates all things and takes all back, then turns to the fig Cicero doesn't give for astrologers and dream-sellers."
+      }
+    ]
+  },
+  {
+    "slug": "catherine-rebecca-grey-manners-poems-07fd49",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "georgian parlour ballad, fortepiano and harp, clear soprano, minor key, unhurried",
+        "why": "The close of the Two Lovers tale — lilies cropt by an untimely storm, one common tomb, the chapel that still bears their name."
+      },
+      {
+        "id": "c16",
+        "style": "melancholy english art song, harpsichord and viol da gamba, plaintive soprano, slow, elegiac",
+        "why": "Invocation of Death as the certain cure and kind soother — clean quatrains with a refrain-like address."
+      }
+    ]
+  },
+  {
+    "slug": "dionysius-of-halicarnass-on-literary-composition-1d20aa",
+    "picks": [
+      {
+        "id": "c15",
+        "style": "ancient greek lament, kithara and soft drone, low female voice, rocking lullaby pulse, hushed, sorrowful",
+        "why": "Danaë adrift in the chest with the sleeping Perseus — 'let the sea sleep, let the measureless evil sleep'."
+      },
+      {
+        "id": "c11",
+        "style": "ancient greek lyric, barbitos lyre, single female voice, intimate, invocatory, slow",
+        "why": "Sappho's Aphrodite answering with a smile — 'if she flees, soon she shall pursue' — the most famous lyric in the treatise."
+      }
+    ]
+  },
+  {
+    "slug": "demosthenes-on-the-false-embassy-ef3411",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "greek elegiac declamation, aulos and lyre, stern male chorus, marching cadence, gathering force",
+        "why": "Carries Solon's elegy whole — not by Zeus but by her own citizens shall Athens fall — rhymed, driving, quotable."
+      }
+    ]
+  },
+  {
+    "slug": "unknown-select-letters-73fa24",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "late antique latin plainchant, sparse organum drone, solo male voice, austere, very slow",
+        "why": "Only candidate; the Virgilian tags it strings together ('Let each man be drawn by his own pleasure') still carry a chantable line."
+      }
+    ]
+  },
+  {
+    "slug": "john-stuart-mill-autobiography-fd9256",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "victorian art song, piano and cello, subdued baritone, slow, desolate",
+        "why": "The Coleridge lines Mill reached for in his breakdown — grief without a pang, work without hope drawing nectar in a sieve."
+      }
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "slug": "plutarch-quomodo-adolescens-poetas-audire-d720d8",
+    "picks": [
+      {
+        "id": "c03",
+        "style": "ancient greek threnody, lyre and low reed, grave male voice, slow, pleading, shadowed",
+        "why": "Almost pure quoted verse — the unburied dead begging for a grave and a tear, and the boy pleading to keep the light."
+      },
+      {
+        "id": "c21",
+        "style": "gnomic chant, kithara and hand drum, stern measured voice, moderate, admonitory, turning",
+        "why": "The Atreus lines inverted into their better form — joy and grief by turns, and no one an unchanged favourite of Fate."
+      }
+    ]
+  },
+  {
+    "slug": "tibullus-elegiae-21c385",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman rustic elegy, lyre and soft double pipe, warm intimate male voice, unhurried, pastoral, contented",
+        "why": "'Let another heap up riches' against a life of quiet poverty and a steady hearth-fire — the whole Tibullan creed, and his most famous opening."
+      },
+      {
+        "id": "c15",
+        "style": "latin elegy of consolation, plucked lyre and low drone, weary tender voice, slow, building through repetition",
+        "why": "Hope feeds the farmers, catches the birds, consoles the fettered man who sings at his work — anaphora made for a refrain."
+      },
+      {
+        "id": "c10",
+        "style": "roman peace-hymn, aulos and frame drum, pleading male voice with soft chorus, moderate, aching, resolving",
+        "why": "'Four times blessed is he at whom a tender girl can weep' turning into the invocation of Peace with her corn-ear."
+      }
+    ]
+  },
+  {
+    "slug": "ovid-remedia-amoris-ad7507",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "augustan comic recitative, harpsichord and pizzicato strings, sly conversational tenor, brisk, mock-serious",
+        "why": "Cupid reading the title and crying 'Treason!' — a complete comic scene that sets up the whole poem."
+      },
+      {
+        "id": "c17",
+        "style": "tragic ballad, solo cello and guitar, low grieving female voice, slow, unsteady, hushed",
+        "why": "Phyllis on the ninth day at the shore — 'She offers, and flies back, dreads what she dares' — devastating and self-contained."
+      },
+      {
+        "id": "c21",
+        "style": "resolute farewell air, lute and viol, firm baritone, measured, ceremonial, cold",
+        "why": "Burning the old love-letters: 'Be this the fun'ral pile of my desire; Perish, my love, in this just flame expire.'"
+      }
+    ]
+  },
+  {
+    "slug": "elizabeth-hands-poems-def5d6",
+    "picks": [
+      {
+        "id": "c11",
+        "style": "georgian satirical patter song, harpsichord and pizzicato strings, arch narrating soprano, brisk, gossipy, biting",
+        "why": "The drawing-room demolishing a servant's book — 'there's something about a mad cow' — the poem she is remembered for."
+      },
+      {
+        "id": "c10",
+        "style": "drawing-room comedy song, spinet and clattering percussion, quick wry female voice, chattering, clipped, ironic",
+        "why": "The tea-party opening of the same satire — cowslip wine that would pass for Champaign, and crests instead of poetry."
+      },
+      {
+        "id": "c17",
+        "style": "rustic courtship ballad, fiddle and hammered dulcimer, plain country voice, jog-trot, dry, strophic",
+        "why": "The clumsy love letter and two apples: 'Which Nell receiv'd, and read the letter, (But she lik'd the apples better)'."
+      }
+    ]
+  },
+  {
+    "slug": "david-garrick-poems-5df7b4",
+    "picks": [
+      {
+        "id": "c09",
+        "style": "georgian theatre song, harpsichord and flute, sincere clear tenor, gentle, strophic, courting",
+        "why": "A real song to Sylvia, turning on blossoms falling so the ripening fruit appears — beauty decaying while the mind improves."
+      },
+      {
+        "id": "c13",
+        "style": "comic macabre ballad, bassoon and plucked strings, dry conspiratorial baritone, moderate, sardonic, sidling",
+        "why": "Death drops in on a struggling doctor for a friendly chat — 'we both are losers if you fail'."
+      },
+      {
+        "id": "c15",
+        "style": "mock-epitaph air, spinet and recorder, light mischievous soprano, quick, teasing, birdlike",
+        "why": "The dead bullfinch promising to haunt the household as a tell-tale bird and sing every tale to Lucy."
+      }
+    ]
+  },
+  {
+    "slug": "john-ellis-poems-9c7f5a",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "english satirical ballad, fiddle and hurdy-gurdy, sardonic male voice, rolling anapestic swing, strophic with refrain",
+        "why": "Every profession excused by the same closing line — 'he but lives by his trade' — a refrain that is already written."
+      },
+      {
+        "id": "c06",
+        "style": "broadside ballad finale, fiddle and drum, wry male voice, rolling, resigned, closing hard",
+        "why": "The satire turns on its author — 'Cheat myself by my rhyming, and starve by my trade'."
+      },
+      {
+        "id": "c07",
+        "style": "georgian parlour song, lute and viola, tender light tenor, gentle, courting, small-scale",
+        "why": "Chloe's pricked finger made into Cupid's arrow, then the sharper joke of venal Belinda and Charon's fee."
+      }
+    ]
+  },
+  {
+    "slug": "isvarakrsna-samkhyakarika-d0d300",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "sanskrit philosophical chant, tanpura drone and small cymbals, deep steady male voice, slow, austere, sparse",
+        "why": "The one candidate with a real image — the whole vast doctrine held brief and undiminished, as in a mirror."
+      }
+    ]
+  },
+  {
+    "slug": "vladimir-lenin-what-the-friends-of-the-people-a-df3f3e",
+    "picks": []
+  }
+]

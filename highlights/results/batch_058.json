@@ -1,0 +1,44 @@
+[
+  {"slug": "euripides-phoenissae-6c6027",
+   "picks": [
+     {"id": "c11", "style": "ancient greek chorus, lyre and frame drum, layered female voices, solemn, keening, building", "why": "The Cithaeron ode — the exposed child with the golden brooch, and the Sphinx's inharmonious song."},
+     {"id": "c14", "style": "tragic chorus, aulos and low drums, massed voices with a lead, driving, incantatory, dark", "why": "You came, you came, O winged creature — the Sphinx ode, built on repetition and mourning of mothers, mourning of maidens."},
+     {"id": "c20", "style": "solo tragic lament, single lyre, unaccompanied female voice, slow, raw, echoing", "why": "Antigone over three bodies, asking what bird on the high branches will come to mourn with her."}
+   ]},
+  {"slug": "plautus-titus-maccius-curculio-5a150c",
+   "picks": [
+     {"id": "c05", "style": "roman comic serenade, tibia pipes and lyre, tipsy tenor, swaying, mock-passionate, theatrical", "why": "The serenade to the door-bolts — Plautus's famous drunken paraclausithyron, marked in the text as sung."},
+     {"id": "c15", "style": "latin patter song, hand drum and pipes, fast wry male vocal, brisk, streetwise, rattling", "why": "The tour of Rome by vice — the Etrurian street, the Velabrum, the perjurers behind Castor's temple."},
+     {"id": "c08", "style": "comic lament, plucked lyre and clacking percussion, groaning bass voice, mock-tragic, lurching", "why": "The pimp's catalogue of ailments, spleen to intestines, answered with the advice to take a walk."}
+   ]},
+  {"slug": "john-gambold-poems-c6ea61",
+   "picks": [
+     {"id": "c00", "style": "english hymn, chamber organ and viol, plain tenor, slow, questioning, devotional", "why": "So many years I've seen the sun — the poem's anaphora and its refrain of unanswered questions."},
+     {"id": "c02", "style": "funeral hymn, low organ and cello, grave baritone, hushed, resolving, benedictory", "why": "The close of the same poem into the epitaph: his name, reproach and praise, was Man."},
+     {"id": "c11", "style": "common-meter hymn, four-part voices and harmonium, sober, steady, austere", "why": "Here from afar the finished height of holiness is seen — and the deserts that lie between."}
+   ]},
+  {"slug": "james-boswell-poems-8ba996",
+   "picks": [
+     {"id": "c00", "style": "mock-heroic drawing-room ode, harpsichord and strings, arch male vocal, brisk, satirical, sparkling", "why": "The burlesque ode in Johnson's voice — behold him as your very Scrub, 'tis I myself am Thrale's Entire."},
+     {"id": "c04", "style": "18th century elegy, fortepiano and viola, soft tenor, slow, tender, valedictory", "why": "No monument, no panegyric — only flowers strewn yearly and the wish that the turf lie easy."},
+     {"id": "c20", "style": "pindaric ode, baroque orchestra with trumpet, declamatory tenor, stately, rising", "why": "Hail, father of the British stage — the Shakespeare strophe, Melpomene smiling over Avon."}
+   ]},
+  {"slug": "bion-of-smyrna-fragmenta-cb6cb4",
+   "picks": [
+     {"id": "c05", "style": "hellenistic bucolic hymn, single lyre and syrinx, warm tenor, slow, luminous, evening-lit", "why": "Blessed are they who love and are loved in return, then the hymn to Hesperus asked to light a lover's way."},
+     {"id": "c01", "style": "pastoral idyll, syrinx and soft frame drum, bright male voice, unhurried, sunlit, dancing", "why": "Spring thrice-longed-for, all things conceiving — then the boy who tries to snare Love with birdlime."},
+     {"id": "c02", "style": "greek bucolic song, kithara and pipes, gentle mid-range voice, lilting, wry, tender", "why": "Cypris hands the infant Love to a herdsman to be taught song, and Love does the teaching instead."}
+   ]},
+  {"slug": "hastings-rashdall-philosophy-and-religion-six-lect-6529d8",
+   "picks": [
+     {"id": "c00", "style": "pastoral blank-verse setting, acoustic guitar and soft strings, warm narrating voice, unhurried, sunlit", "why": "Only candidate, and a strong one: how pagan Greece peopled its hills with Apollo, Diana, naiads and Pan."}
+   ]},
+  {"slug": "john-marshall-a-short-history-of-greek-philoso-70c117",
+   "picks": [
+     {"id": "c00", "style": "stoic hymn, low drone and plucked lyre, steady male voice, austere, resolute, slow", "why": "Only candidate, but it carries Cleanthes' prayer — lead me, O Zeus, that way I'll follow without fret or cavil."}
+   ]},
+  {"slug": "simon-dubnow-jewish-history-an-essay-in-the-p-c6003c",
+   "picks": [
+     {"id": "c00", "style": "eastern european folk lament, solo violin and low male voice, sparse, minor key, resolute", "why": "The hammer shivers glass but iron by its blows is forged — a whole philosophy of history in a couplet."}
+   ]}
+]

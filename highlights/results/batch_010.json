@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "pindar-nemean-2497ce",
+    "picks": [
+      {
+        "id": "c10",
+        "style": "doric victory ode, kithara and low drone, layered male chorus, stately, awed, spacious",
+        "why": "'One race of men, one race of gods' — and man is nothing, while the bronze sky stands forever. Pindar's most quoted lines."
+      },
+      {
+        "id": "c22",
+        "style": "greek heroic lament, lyre and frame drum, grieving tenor answered by a low voice, slow, tender, dialogic",
+        "why": "Polydeuces weeping over the dying Castor and asking Zeus to let him die too — a complete scene with a god's reply."
+      },
+      {
+        "id": "c12",
+        "style": "gnomic ode, plucked lyre and soft aulos, wry knowing male voice, measured, sardonic, level",
+        "why": "Homer's lies given their solemnity, Ajax undone by a vote, and rich and poor travelling together to the boundary of death."
+      }
+    ]
+  },
+  {
+    "slug": "nonnus-of-panopolis-dionysiaca-3222bb",
+    "picks": [
+      {
+        "id": "c20",
+        "style": "late antique pastoral lament, solo reed pipe and soft harp, dying tenor, very slow, tender, fading",
+        "why": "The dying shepherd asking for anemones over his grave and one tear, enough to wet her cheek — flawless and self-contained."
+      },
+      {
+        "id": "c11",
+        "style": "greek elegiac aria, lyre and low strings, raw grieving voice, slow, imploring, broken",
+        "why": "Dionysus begging Zeus for one hour of Ampelos's speech — 'I have eyes, and I do not see you grieving'."
+      },
+      {
+        "id": "c01",
+        "style": "dionysiac hymn, double aulos, hand drums and cymbals, ecstatic massed voices, driving, whirling, ecstatic",
+        "why": "The prophecy of wine: the reddening vine, the treaders at the press, the Bassarids shaking their hair and shouting Euoi."
+      }
+    ]
+  },
+  {
+    "slug": "george-crabbe-poems-eb1984",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "english elegiac air, cello and harpsichord, grave tenor, slow, brooding, unresolved",
+        "why": "'Where shall affliction from itself retire?' — care blotting the sun, sighing in the grove, murmuring in the stream."
+      },
+      {
+        "id": "c04",
+        "style": "rural ballad, fiddle and low guitar, weathered male voice, slow, plain, unsparing",
+        "why": "The old ploughman who once made the straightest furrow, now disdained by the rich and by the poor alike."
+      },
+      {
+        "id": "c20",
+        "style": "english hymn-tune, chamber organ and viola, plain steady voice, moderate, reflective, settled",
+        "why": "'When all the fiercer passions cease' — proper quatrains, and the whole of late wisdom in eight lines."
+      }
+    ]
+  },
+  {
+    "slug": "anna-laetitia-barbauld-poems-8731a3",
+    "picks": [
+      {
+        "id": "c07",
+        "style": "english ballad, guitar and flute, small clear female voice, gentle, pleading, strophic",
+        "why": "The mouse's petition from the trap — 'never let thine heart be shut against the prisoner's cries' — her best-known poem."
+      },
+      {
+        "id": "c20",
+        "style": "dissenting hymn, unaccompanied voices with soft organ, warm alto, slow, resolute, building",
+        "why": "Every crop and flock and rain taken away, and the last line still 'love thee — for thyself alone'."
+      },
+      {
+        "id": "c23",
+        "style": "night meditation, sustained strings and soft bells, hushed contralto, very slow, spacious, luminous",
+        "why": "'How deep the silence, yet how loud the praise!' and a tongue in every star — the midnight as the noon of thought."
+      }
+    ]
+  },
+  {
+    "slug": "richard-shepherd-poems-f9bdd8",
+    "picks": [
+      {
+        "id": "c11",
+        "style": "gothic ode, low strings and distant horn, dark contralto, slow, airless, oppressive",
+        "why": "Melancholy's country where gales forget to blow and currents cease to flow, and Care lies down on Grief's lap."
+      },
+      {
+        "id": "c14",
+        "style": "dramatic ode, tremolo strings and hissing percussion, urgent male voice, taut, sinister, building",
+        "why": "Envy's cell under the barren rocks — 'at Merit's name prepar'd to shed their influence all her snaky tresses hiss'."
+      },
+      {
+        "id": "c08",
+        "style": "english devotional ode, chamber organ and strings, declamatory tenor, measured, mounting, questioning",
+        "why": "The owl shutting its eyes against the day, then the sky and the flowers each summoned to answer who made them."
+      }
+    ]
+  },
+  {
+    "slug": "adisesa-paramarthasara-67524a",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "vedantic chant, tanpura drone and small cymbals, deep male voice, very slow, austere, sparse",
+        "why": "No fear even of death from death itself, and the reed and plantain that perish once they have flowered."
+      },
+      {
+        "id": "c01",
+        "style": "sanskrit devotional recitation, drone and soft bell, calm low voice, slow, unfolding, still",
+        "why": "Release with no place to go to — only the knot of ignorance split — and the lotus-leaf untouched by the water."
+      }
+    ]
+  },
+  {
+    "slug": "claudius-aelianus-on-the-nature-of-animals-4de941",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "greek sea-hymn, lyre and hand drum, clear ringing male voice, rolling, buoyant, ceremonial",
+        "why": "Only candidate, but it carries Arion's whole hymn to Poseidon — the dolphins dancing in a ring and carrying him ashore."
+      }
+    ]
+  },
+  {
+    "slug": "william-minto-logic-inductive-and-deductive-ffa6fd",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "english gnomic air, lute and hand drum, bold plain voice, brisk, epigrammatic, spurring",
+        "why": "Only candidate: three epigraphs that happen to agree — audacious ignorance beats timid knowledge, so spur boldly on."
+      }
+    ]
+  }
+]

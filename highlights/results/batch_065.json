@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "unknown-yajnavalkya-smrti-cb88d6",
+    "picks": [
+      {"id": "c20", "style": "sanskrit shloka chant, tanpura drone, deep male voice, slow, austere, unadorned", "why": "The forest ascetic in five fires and wet winter cloth, the same to thorns and to sandalwood."},
+      {"id": "c22", "style": "sanskrit recitation, drone and small hand cymbals, grave male voice, measured, hypnotic", "why": "The rebirth verses — the slanderer among beasts and birds, the thief among immovable things."},
+      {"id": "c23", "style": "upanishadic chant, tanpura and bansuri, low voice, spacious, reverent, slow", "why": "The catalogue of inner signs closing on a Self beyond the body, all-pervading, seated in all beings."}
+    ]
+  },
+  {
+    "slug": "terence-adelphi-944586",
+    "picks": [
+      {"id": "c00", "style": "roman comic recitative, tibia and lyre, warm conversational baritone, wry, unhurried", "why": "Micio waiting up for his son, marvelling that a man can find something dearer to him than himself."},
+      {"id": "c01", "style": "roman comic patter, tibiae and light drum, quick tenor, brisk, arch", "why": "The liberal father's defence — it was poverty, not virtue, that kept us from doing the same."},
+      {"id": "c20", "style": "roman recitative, solo tibia and low strings, rueful baritone, slow, self-mocking", "why": "Demea's turn: a whole life of thrift and rigour repaid with dislike, renounced in one speech."}
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-mostellaria-651c20",
+    "picks": [
+      {"id": "c01", "style": "plautine song, tibiae and hand drum, boisterous baritone, patter, comic, bouncing", "why": "Philolaches announcing his great discovery — that a man newly born is like a new house."},
+      {"id": "c17", "style": "servant's aria, tibia and plucked strings, sly tenor, jaunty, conspiratorial", "why": "The slave's philosophy of the whip — as servants wish their master to be, such is he wont to be."},
+      {"id": "c21", "style": "comic monologue song, tibiae and tambourine, breathless baritone, fast, farcical", "why": "Tranio convening a senate of his fellow slaves, who promptly banish him from it."}
+    ]
+  },
+  {
+    "slug": "william-gerard-hamilton-poems-ad0994",
+    "picks": [
+      {"id": "c00", "style": "english ode, chamber strings and flute, gentle tenor, hushed, nocturnal", "why": "The Ode to Sleep's invocation, reaching from Indian hills to snow-girt Zembla — a proper hymn opening."},
+      {"id": "c10", "style": "gothic ode, low strings and chamber organ, dark baritone, storm-driven, eerie", "why": "Spectres, opening charnels and blustering winds, ending on pour thy loved horrors o'er my soul."},
+      {"id": "c22", "style": "graveside elegy, solo viola and harp, mourning female voice, slow, austere", "why": "The voice in the shade warning the daughter of Joy back from the hallowed rite of grief."}
+    ]
+  },
+  {
+    "slug": "cicero-marcus-tullius-tusculan-disputations-3b9c3b",
+    "picks": [
+      {"id": "c00", "style": "roman tragic aria, low strings and drone, anguished bass, slow, harrowing", "why": "Hercules in the burning robe — no giant, no centaur, but a woman's hand kills him."},
+      {"id": "c02", "style": "tragic lament, bowed drone and struck metal, deep male voice, stark, chained, slow", "why": "Prometheus wedged into the Caucasus, moored like a ship by frightened sailors on a roaring strait."},
+      {"id": "c03", "style": "tragic aria, low strings and sparse percussion, ravaged baritone, grinding, unrelenting", "why": "The eagle fawning on his blood, the liver renewed, the drops melting onto the rock forever."}
+    ]
+  },
+  {
+    "slug": "suetonius-tiberius-6262d9",
+    "picks": [
+      {"id": "c01", "style": "roman satirical ballad, lyre and drum, sneering tenor, driving, caustic", "why": "The street lampoon on Tiberius in full — the golden age exchanged for iron, wine for human gore."}
+    ]
+  },
+  {
+    "slug": "plato-lesser-hippias-4e5df1",
+    "picks": [
+      {"id": "c00", "style": "epic recitation, lyre drone, stern male voice, measured, adamant", "why": "Achilles' line — hateful as the gates of Hades is the man who hides one thing and says another."}
+    ]
+  },
+  {
+    "slug": "francis-amasa-walker-the-wages-question-b128f3",
+    "picks": [
+      {"id": "c00", "style": "english folk air, solo lute, light tenor, sprightly, brief", "why": "Only candidate; from the rising of the lark to the lodging of the lamb is at least a real line of verse."}
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "homeric-hymns-hymn-2-to-demeter-1c9cbc",
+    "picks": [
+      {"id": "c00", "style": "ancient greek hymn, lyre and aulos, single male voice over drone, processional, reverent, unhurried", "why": "The invocation and the meadow of narcissus at which heaven, earth and sea laughed for joy."},
+      {"id": "c01", "style": "ancient dramatic hymn, frame drum and low aulos, urgent male voice, dark, propulsive", "why": "The earth yawns, Hades springs out, and the girl's cry is heard by no one but Hecate and the Sun."},
+      {"id": "c23", "style": "mystery-rite chant, deep drone, layered voices, torchlit, slow, initiatory", "why": "The Eleusinian blessing — happy is he who has seen these mysteries — the hymn's most quoted lines."}
+    ]
+  },
+  {
+    "slug": "william-diaper-poems-001ac5",
+    "picks": [
+      {"id": "c05", "style": "winter sea lament, bowed strings and low whistle, cold male voice, stark, shivering, slow", "why": "The fisher's frozen night against the soft beds of the town — a complete, bitter contrast."},
+      {"id": "c04", "style": "baroque sea eclogue, viol consort and recorder, plaintive tenor, rolling, wistful", "why": "The rainbow arch drinking up the sea, turned into a warning that beauty is as quickly gone."},
+      {"id": "c13", "style": "english pastoral air, harpsichord and cello, wry warm baritone, steady, homely", "why": "The lobster carried off who finds his own rock again — the love of country is not confined to man."}
+    ]
+  },
+  {
+    "slug": "james-scott-poems-af3a56",
+    "picks": [
+      {"id": "c03", "style": "sacred anthem, chapel organ and choir, high trebles over full voices, radiant, building", "why": "The tuneful planets and cherubim singing holy, holy, holy — built for a choir."},
+      {"id": "c00", "style": "english ode, chamber strings and continuo, troubled tenor, restless, nocturnal", "why": "Sleepless on the bed with thoughts like hornets, asking whether goodness gets any reward."},
+      {"id": "c10", "style": "ode to music, lute and strings, rapt soprano, flowing, luminous", "why": "Sappho's lute complaining and Anacreon's honeyed tongue — a vision made entirely of sound."}
+    ]
+  },
+  {
+    "slug": "mary-robinson-poems-8abf50",
+    "picks": [
+      {"id": "c00", "style": "english pastoral ballad, guitar and flute, plaintive female voice, lilting, simple", "why": "A true ballad opening: the ribbons bought at the fair for Phillis, the nymph that I hate."},
+      {"id": "c10", "style": "folk hymn, acoustic guitar, warm female vocal, unhurried, contented", "why": "The Wish — a cottage far from ball and masquerade, ending life without a tear."},
+      {"id": "c13", "style": "spring carol with refrain, fiddle and tambourine, bright soprano with small chorus, buoyant", "why": "Every stanza closes on hail, genial goddess of the blooming spring — a built-in refrain."}
+    ]
+  },
+  {
+    "slug": "samuel-henley-poems-ef4485",
+    "picks": [
+      {"id": "c00", "style": "georgian ballad, harpsichord and flute, light tenor, tripping anapests, playful", "why": "Meeting the god of Love by the stream, who sorts his arrows by the bird each feather came from."},
+      {"id": "c04", "style": "elegiac air, viola and fortepiano, mournful soprano, slow, resigned", "why": "The drooping sunflower and trailing woodbine, closing on the epitaph — Iris loved Philus, and she died sincere."}
+    ]
+  },
+  {
+    "slug": "cicero-marcus-tullius-on-oratory-6f2b26",
+    "picks": [
+      {"id": "c00", "style": "roman tragic declamation, timpani and low strings, dramatic bass, stormy, surging", "why": "Only candidate; the quoted storm — the sea bristles, the sky trembles, the winds burst forth — is real verse."}
+    ]
+  },
+  {
+    "slug": "franz-mehring-absolutism-and-revolution-in-ger-6d03ed",
+    "picks": [
+      {"id": "c00", "style": "german revolutionary ballad, marching drum and accordion, gritty male chorus, defiant, grim, driving", "why": "Only candidate; the barricade dead calling the king down to bare his head — a full, ferocious stanza."}
+    ]
+  },
+  {
+    "slug": "james-connolly-the-re-conquest-of-ireland-059d10",
+    "picks": [
+      {"id": "c00", "style": "irish protest ballad, bodhran and fiddle, stern male voice, driving, defiant", "why": "Only candidate, but a complete quatrain of curse with real force."}
+    ]
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "slug": "boethius-de-consolatione-philosophiae-905cdc",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "late antique consolation lament, bowed viol and small harp, grave low male voice, slow, elegiac, sparse",
+        "why": "The book's opening cry — 'My days are numbered not by time but Grief' — the most famous lament in the work and complete in itself."
+      },
+      {
+        "id": "c13",
+        "style": "orphic ballad, solo lyre and low drone, keening tenor, unhurried, spellbinding, building to a break",
+        "why": "The Orpheus meter, ending on 'Love hath no law but her own will' and the fatal backward look."
+      },
+      {
+        "id": "c18",
+        "style": "cosmic hymn, chamber organ and viols, layered choir over a held drone, measured, luminous, processional",
+        "why": "'This mutual love courses eternal makes' — the concord of the elements laid out season by season, pure refrain material."
+      }
+    ]
+  },
+  {
+    "slug": "juvenal-satires-dd8241",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman satiric declamation, plucked lyre and hand drum, sardonic biting male voice, brisk, driving, insolent",
+        "why": "'Must I be always only a listener? Never strike back' — the line that opens satire as a genre, and it opens itself."
+      },
+      {
+        "id": "c06",
+        "style": "urban street rant, low strings and clattering percussion, hoarse restless male voice, hurried, jostling, claustrophobic",
+        "why": "Rome by night — carts, curses, elbows — landing on 'Only with great wealth can one sleep in the city.'"
+      },
+      {
+        "id": "c18",
+        "style": "grave latin moral chant, cello drone and struck bronze, stern baritone, slow, admonitory, gathering weight",
+        "why": "The tower image from Satire X: the higher the wish, the vaster the fall — the passage the whole vanity-of-wishes tradition rests on."
+      }
+    ]
+  },
+  {
+    "slug": "edward-jerningham-poems-659c4b",
+    "picks": [
+      {
+        "id": "c21",
+        "style": "gothic elegy, sustained strings and distant bell, cold clear soprano, slow, desolate, echoing",
+        "why": "The nun's despair told through what she hears — the midnight bell, the hollow gale, the hoarse resounding flood."
+      },
+      {
+        "id": "c00",
+        "style": "graveyard-school elegy, harpsichord and viola da gamba, plaintive tenor, unhurried, solemn, sea-wind atmosphere",
+        "why": "Ruined abbey above the sea with a fourfold 'Far other' refrain already built into the stanza."
+      },
+      {
+        "id": "c13",
+        "style": "sentimental english air, guitar and flute, tender mezzo, gentle, grieving, strophic",
+        "why": "The lament over the dead turtle-dove — 'How silent is the voice... How still, how frozen is the constant heart'."
+      }
+    ]
+  },
+  {
+    "slug": "william-whitehead-poems-1bdb04",
+    "picks": [
+      {
+        "id": "c15",
+        "style": "georgian pleasure-garden song, harpsichord and violin, arch witty soprano, brisk, dancing, teasing",
+        "why": "Written as a song for Ranelagh, with the cocked hat and the masculine air — the one candidate built to be sung."
+      },
+      {
+        "id": "c00",
+        "style": "english pastoral ode, recorder and lute, warm tenor, lilting, springlike, unhurried",
+        "why": "'When Spring gives up the reins of Time to Summer's glowing hand' — clean singable six-line stanzas and a real image."
+      },
+      {
+        "id": "c16",
+        "style": "ruins ode, low strings and chamber organ, declamatory baritone, slow, questioning, hollow",
+        "why": "An ubi sunt over the Roman campagna — 'Where are the bold, the busy throngs' — repeated question as refrain."
+      }
+    ]
+  },
+  {
+    "slug": "david-mallet-poems-ce2ee9",
+    "picks": [
+      {
+        "id": "c09",
+        "style": "border ghost ballad, fiddle and bodhrán, stark unaccompanied opening female voice, slow, uncanny, strophic",
+        "why": "'In glided Margaret's grimly ghost, and stood at William's feet' — the most famous ballad opening in the book."
+      },
+      {
+        "id": "c10",
+        "style": "accusing ballad, plucked harp and drone, wounded female voice, insistent, rising, strophic",
+        "why": "The ghost's reproach is a hammering chain of 'Why did you' questions — refrain-shaped already."
+      },
+      {
+        "id": "c06",
+        "style": "english pastoral ballad, acoustic guitar and whistle, warm clear female vocal, moderate, tender, storytelling",
+        "why": "Edwin and Emma's opening — cottage, sheltering wood, and a mother whose only wish is to see her blest and die."
+      }
+    ]
+  },
+  {
+    "slug": "george-keate-poems-f150b3",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "georgian drawing-room air, harpsichord and cello, light amused soprano, moderate, elegant, ending on a wink",
+        "why": "The moral of the sea-bathing poem, closing on 'Plunge — and a new-born Venus rise'."
+      },
+      {
+        "id": "c00",
+        "style": "comic english art song, plucked strings and bassoon, dry playful tenor, bouncing, mock-learned",
+        "why": "Venus out of the sea-froth used to tease a lady into the water — a complete conceit in one turn."
+      },
+      {
+        "id": "c06",
+        "style": "theatrical patter song, fortepiano and pit strings, bold brassy female voice, quick, defiant, comic",
+        "why": "Constance after the play — 'a bustling woman lives thro' every storm... I had no weapon left me but my tongue'."
+      }
+    ]
+  },
+  {
+    "slug": "alexander-bogdanov-proletarian-poetry-843e6f",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "revolutionary industrial anthem, anvil percussion and low brass, massed male chorus, marching, iron, rousing",
+        "why": "Factory whistles as a morning hymn to unity, then the 'Comrade, comrade, have no fear' refrain arrives."
+      },
+      {
+        "id": "c01",
+        "style": "workers' chorus, hammered percussion and accordion, layered voices, steady driving pulse, defiant, building",
+        "why": "The refrain doubles and closes — 'You're a new link forged in here — have no fear!'"
+      }
+    ]
+  },
+  {
+    "slug": "abhinavagupta-paramarthasara-3b0d5e",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "shaiva devotional chant, tanpura drone and small bell, deep male voice, very slow, reverent, sparse",
+        "why": "Only candidate, but a real closing benediction: meditate on this and Śiva-hood enters your own heart."
+      }
+    ]
+  }
+]

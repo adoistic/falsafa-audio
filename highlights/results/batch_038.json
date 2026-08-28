@@ -1,0 +1,61 @@
+[
+ {
+  "slug": "simananda-samkhyatattvavivecana-69b94a",
+  "picks": [
+   {"id": "c08", "style": "sanskrit philosophical recitation, tanpura drone, hand cymbals, deep male voice, slow, austere, cutting", "why": "The one flash of scorn in the whole treatise: a man who cannot hold a hair's tip in his belly says all this was done by me — and who is more deluded than one who fancies himself learned?"},
+   {"id": "c10", "style": "vedic-style chant, drone, low male voices in unison, no percussion, very slow, expansive", "why": "The śruti passage carried inside it — that alone is fire, that the sun, that the wind, that the moon — pure anaphora, built for chanting."},
+   {"id": "c09", "style": "gita recitation setting, tanpura and bansuri, warm male voice, measured, contemplative", "why": "Three Gītā verses in a row on the constituents doing the acting while the deluded self says I am the agent — the most quotable material present."}
+  ]
+ },
+ {
+  "slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "picks": [
+   {"id": "c00", "style": "urdu ghazal, harmonium, tabla, sitar, expressive male vocal, rubato, yearning, intimate", "why": "Lightning, moon, ocean, shore — then the turn: I am the merchant who has found his profit in despair. Every couplet stands alone."},
+   {"id": "c09", "style": "urdu nazm, bansuri and sitar, soft tanpura, hushed male voice, very slow, nocturnal", "why": "Iqbal's evening poem entire: the stream stilled, the bell-less caravan of stars, and the last line telling the heart to take its sorrow into sleep."},
+   {"id": "c08", "style": "urdu song for young voices, light harmonium and dholak, bright unison chorus, lilting, walking pace", "why": "The stars complaining to the moon, with a built-in refrain — to journey, journey, ever on."}
+  ]
+ },
+ {
+  "slug": "james-beattie-poems-1f9abb",
+  "picks": [
+   {"id": "c00", "style": "scottish pastoral ballad, harp and fiddle, tenor voice, slow, nocturnal, elegiac", "why": "The Hermit's opening — hamlet still, torrent on the hill, nightingale in the grove — a poem already famous as a song in its own century."},
+   {"id": "c01", "style": "scottish air, clarsach, low strings, tenor, unhurried, mournful, spacious", "why": "The moon rolls on and returns to splendour; man's faded glory does not. Ends on the mouldering urn and the gloom of the grave."},
+   {"id": "c02", "style": "georgian ode, chamber strings, chamber organ, clear tenor, gentle, twilight, flowing", "why": "Shook from the purple wings of Even — short alternating lines, a star of love, a plaintive stream. Perfect ballad-metre singing shape."}
+  ]
+ },
+ {
+  "slug": "isaac-hawkins-browne-poems-cb8854",
+  "picks": [
+   {"id": "c06", "style": "18th-century catch, harpsichord and cello, jaunty male trio, quick, playful, tavern", "why": "Little tube of mighty pow'r, lip of wax and eye of fire — the most quoted lines Browne wrote, in tight singable tetrameter."},
+   {"id": "c10", "style": "georgian glee, harpsichord, viols, warm baritone, mid-tempo, wry, convivial", "why": "The mock-Pope panegyric to tobacco, ending on the famous line about tasting it unexcis'd by kings."},
+   {"id": "c00", "style": "english baroque ode, flute and harpsichord, light soprano, graceful, moderate, bright", "why": "Come, rosy Health, celestial maid — a clean invocation with a rolling catalogue of rural attendants."}
+  ]
+ },
+ {
+  "slug": "surendranath-dasgupta-a-history-of-indian-philosophy-v-f7aab9",
+  "picks": [
+   {"id": "c00", "style": "vedic hymn, tanpura drone, deep male chant, sparse frame drum, very slow, reverent", "why": "The Hiraṇyagarbha hymn with its returning question — what god shall we adore with our oblations? — five times over. A refrain already built in."},
+   {"id": "c01", "style": "cosmic invocation, low drone, layered male voices, no percussion, hushed, vast, weightless", "why": "The creation hymn: neither being nor not-being, darkness hidden in darkness, and desire as the first germ of mind."},
+   {"id": "c04", "style": "upanishadic chant, tanpura, soft bell, single voice with distant echo, slow, luminous", "why": "The two birds on one tree — one eating the sweet berries, the other only gazing — the single most memorable image in the Upanishads."}
+  ]
+ },
+ {
+  "slug": "friedrich-nietzsche-thus-spake-zarathustra-125858",
+  "picks": [
+   {"id": "c00", "style": "late-romantic art song, solo piano, dramatic baritone, rubato, by turns mocking and tender", "why": "Gazing into Life's eye and sinking; she pulls him out with a golden angle and laughs. A complete dramatic scene between two figures."},
+   {"id": "c02", "style": "chamber lied, piano and low strings, weary baritone, slow, dusk-lit, questioning", "why": "Ends on the evening's interrogation — why, wherefore, whither, how — and the sun long set over a damp meadow."}
+  ]
+ },
+ {
+  "slug": "unknown-ecclesiastical-history-of-the-en-4806a5",
+  "picks": [
+   {"id": "c00", "style": "medieval latin chant, male schola, bare drone, no percussion, solemn, slow", "why": "The only verse in the passage — the fruitful land bringing forth Alban, and the snake of envy reared against Augustine."}
+  ]
+ },
+ {
+  "slug": "plutarch-de-stoicorum-repugnantiis-145216",
+  "picks": [
+   {"id": "c00", "style": "greek tragic chorus, lyre, aulos, layered male voices, solemn, questioning, building", "why": "A whole self-contained Euripidean stanza on mortals understanding nothing and depending wholly on Zeus."}
+  ]
+ }
+]

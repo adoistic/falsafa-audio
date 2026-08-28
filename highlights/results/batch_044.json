@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "atharvaveda-ps",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "vedic hymn, tanpura drone, deep male voice, slow, reverent, sparse",
+        "why": "The hymn to the Waters — within them immortality, within them medicine — with a mother-and-milk refrain."
+      },
+      {
+        "id": "c05",
+        "style": "monsoon invocation, low drone, mridangam and rain-stick, layered male voices, building, elated",
+        "why": "The rain hymn ending with the frogs who kept silence a year like vow-keeping Brahmins and then spoke."
+      },
+      {
+        "id": "c18",
+        "style": "sunrise chant, tanpura and bansuri, bright male voice, rising, radiant, unhurried",
+        "why": "The stars slipping away like thieves before the all-seeing Sun, drawn by seven tawny mares."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-aulularia-389df7",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman comic patter, tibia and clappers, snarling old man's voice, fast, cantankerous",
+        "why": "The miser's opening tirade driving the old slave out of the house — pure kinetic comedy."
+      },
+      {
+        "id": "c11",
+        "style": "comic monologue song, tibia and hand drum, agitated male voice, jittery, quickening",
+        "why": "Euclio and the cock that scratched too near the buried pot, and lost its head for it."
+      },
+      {
+        "id": "c22",
+        "style": "slave's protest song, low strings and drum, sardonic male voice, steady, mounting",
+        "why": "Masters called Harpies and Tantali, poor amid wealth, thirsty in the middle of the ocean."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-epidicus-12565f",
+    "picks": [
+      {
+        "id": "c10",
+        "style": "trickster's aria, tibia and plucked strings, sly male voice, brisk, gleeful",
+        "why": "No soil in Attica so fertile as this old man — silver summoned out of a locked and sealed chest."
+      },
+      {
+        "id": "c04",
+        "style": "comic soliloquy, low tibia and drum, anxious male voice, urgent, restless",
+        "why": "The slave alone, with mountains of misfortune about to tumble on him and no plan that pleases."
+      },
+      {
+        "id": "c12",
+        "style": "reflective roman song, lyre and soft flute, older male voice, measured, rueful",
+        "why": "The wish for a mirror that shows the heart rather than the face, and one's own youth reflected back."
+      }
+    ]
+  },
+  {
+    "slug": "horace-carmina-13e18b",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "roman lyric, lyre and soft aulos, warm baritone, unhurried, wine-lit",
+        "why": "Ask not what the morning brings; count each day as gain — carpe diem in its home register."
+      },
+      {
+        "id": "c09",
+        "style": "sympotic song, kithara and low drum, relaxed male voice, easy, sunlit, ambling",
+        "why": "Grey heads under the plane tree, roses and Syrian scent, drinking while we may."
+      },
+      {
+        "id": "c11",
+        "style": "bacchic ode, frame drum, pipes and shivering strings, ecstatic male voice, wild, accelerating",
+        "why": "No one leaps the tomb — then the sudden vision of Bacchus teaching Dryads, and the cry Evoe."
+      }
+    ]
+  },
+  {
+    "slug": "joseph-cockfield-poems-b070f1",
+    "picks": [
+      {
+        "id": "c14",
+        "style": "english hymn, chamber organ and small choir, steady, plain, resolute",
+        "why": "Though fig and vine and fold all fail — yet still to Thee; a complete hymn of defiant trust."
+      },
+      {
+        "id": "c10",
+        "style": "autumn air, acoustic guitar and viola, warm alto, slow, wistful",
+        "why": "Swallows leaving, flowers on their stems declining, and the line that life's a flower, a day a span."
+      },
+      {
+        "id": "c13",
+        "style": "exile lament, solo harp and low male voice, mournful, spare, deliberate",
+        "why": "How shall the captive people sing in a strange clime — the psalm of the hung-up harps in full voice."
+      }
+    ]
+  },
+  {
+    "slug": "eduard-bernstein-ferdinand-lassalle-as-a-social-r-a97060",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "revolutionary declamation, martial drum and brass, forceful male voice, driving, anthemic",
+        "why": "The sword lifted for freedom as the Word made flesh — a marching catalogue that builds line by line."
+      },
+      {
+        "id": "c01",
+        "style": "verse-drama monologue, low strings and timpani, grave male voice, deliberate, swelling",
+        "why": "Wear the colour of your own flag; show not the end but the way — counsel written to be spoken aloud."
+      }
+    ]
+  },
+  {
+    "slug": "j-b-s-haldane-daedalus-or-science-and-the-futu-c0c1e3",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "visionary folk ballad, bodhran and bouzouki, low male voice, hypnotic, strange, mid-tempo",
+        "why": "Rivers running with red beer and brown, and the black-robed rider singing his song of deicides."
+      }
+    ]
+  },
+  {
+    "slug": "jerome-saint-letters-3da553",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "pastoral lament, single lute, aging male voice, quiet, faltering, slow",
+        "why": "Time bears all things away, the mind as well — and now the songs are gone and the voice fails."
+      }
+    ]
+  }
+]

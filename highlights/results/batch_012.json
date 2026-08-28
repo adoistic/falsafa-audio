@@ -1,0 +1,136 @@
+[
+  {
+    "slug": "hesiod-works-and-days-d62d49",
+    "picks": [
+      {
+        "id": "c07",
+        "style": "archaic greek fable-chant, single lyre and hand drum, storyteller's baritone, sparse, hard, unsettling",
+        "why": "The hawk carrying the nightingale in his talons and telling her why she should not cry out — the oldest fable in Greek, and it needs nothing around it."
+      },
+      {
+        "id": "c09",
+        "style": "greek gnomic chant, plucked lyre over low drone, stern male voice, measured, climbing, austere",
+        "why": "'Badness can be got easily and in shoals... but between us and Goodness the gods have placed the sweat of our brows' — the long steep path, the line the poem is remembered for."
+      },
+      {
+        "id": "c00",
+        "style": "archaic greek hymn-proem, phorminx and drone, grave male voice, slow, invocatory, swelling",
+        "why": "The opening call to the Muses, with its hammering 'easily... easily... easily' — Zeus raising and levelling men, built as anaphora already."
+      }
+    ]
+  },
+  {
+    "slug": "aurelius-prudentius-clem-apotheosis-669c1f",
+    "picks": [
+      {
+        "id": "c15",
+        "style": "latin christian hymn, plainchant over organum drone, male schola, slow, luminous, awed",
+        "why": "'I see the raging winds suddenly grow gentle... he himself walks over the flowing waves on shining soles' — an anaphoric catalogue of miracles that is already a hymn."
+      },
+      {
+        "id": "c04",
+        "style": "late antique narrative chant, low male voices and struck bell, kindling, dramatic, fire-lit",
+        "why": "The furnace: three men thrown in, a fourth walking laughing through the flames, and the king's 'I confess it, and, vanquished, I adore.'"
+      },
+      {
+        "id": "c17",
+        "style": "latin funerary chant, deep unison voices and sparse drone, hollow, echoing, slow with a sudden call",
+        "why": "'Come forth from the tomb, Lazarus, tell whose voice beneath the deepest earth you heard' — direct address to a dead man, and the gates of darkness opening."
+      }
+    ]
+  },
+  {
+    "slug": "daniel-defoe-poems-9cbf10",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "english broadside ballad, fiddle and side drum, mocking male voice, jaunty, brisk, jeering",
+        "why": "'Come hither ye Dreamers of Dreams, ye Soothsayers, Vizards and Witches' — a proper street-ballad opening with a hook in the first line."
+      },
+      {
+        "id": "c18",
+        "style": "georgian ballad of defiance, plain guitar and bass viol, weathered baritone, slow, unrepentant, plainspoken",
+        "why": "Defoe on his own muse: 'Satyr has been her Talent, Truth her Song... For this they've damn'd the Poet and his Rimes' — the pillory speaking."
+      },
+      {
+        "id": "c07",
+        "style": "north-sea hymn, low strings and bodhran, granite bass voice, slow, immovable, storm-battered",
+        "why": "Sea-cliffs as the ocean's bridle and 'the Warts and Wrinkles plac'd on Natures Brow' — one sustained image, and it holds."
+      }
+    ]
+  },
+  {
+    "slug": "robert-craggs-nugent-poems-84926b",
+    "picks": [
+      {
+        "id": "c17",
+        "style": "english liberty ode, martial drum and trumpet, ringing baritone with chorus, driving trochaic pulse, defiant",
+        "why": "'Let the stupid flock obey! Pent within a narrow fold, / Ty'd, and stript, and slain, and sold' — short lines, hard consonants, made for shouting."
+      },
+      {
+        "id": "c16",
+        "style": "georgian pastoral ode, harpsichord and flute, genial tenor, flowing, sunlit, courtly",
+        "why": "The Lonsdale ode's landscape stanza — the crystal maze of the flood, the swan moving slow, the herds grazing on either side."
+      },
+      {
+        "id": "c15",
+        "style": "georgian satirical air, plucked strings and light percussion, dry alto, clipped, epigrammatic, brisk",
+        "why": "'Happy they whom crowds befriend, / Curs'd who on the crowd depend' — tight antithetical couplets that snap shut like a lid."
+      }
+    ]
+  },
+  {
+    "slug": "william-hall-poems-8be186",
+    "picks": [
+      {
+        "id": "c20",
+        "style": "georgian drawing-room song, harpsichord and violin, teasing soprano, lilting anapests, light, arch",
+        "why": "'Prythee why so fantastick and vain! What charms can the toilet supply?' — a complete, funny, perfectly metrical lyric with a question in every stanza."
+      },
+      {
+        "id": "c22",
+        "style": "anacreontic song, lute and light strings, warm storytelling tenor, brisk, candlelit, mischievous",
+        "why": "Cupid knocking at the door on a wet night, wings dripping, asking to be let in — the most charming small story in the book."
+      },
+      {
+        "id": "c15",
+        "style": "english country dance tune, fiddle and tabor, bright chorus, jig time, foot-stamping, rustic",
+        "why": "The country wake with nimble Marian matchless in the jig and the lout winking at her blue stocking — pure dance-floor."
+      }
+    ]
+  },
+  {
+    "slug": "tobias-smollett-poems-7805f1",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "scottish lament, fiddle and low drone, keening male voice, slow, mournful, strophic",
+        "why": "'Mourn, hapless Caledonia, mourn thy banish'd peace, thy laurels torn' — Smollett's Culloden song, and a real refrain."
+      },
+      {
+        "id": "c07",
+        "style": "highland elegy, clarsach and bodhran, grieving contralto, slow air, bleak, closing on the refrain",
+        "why": "The mother dying on the heath with her orphans crying for bread, and then the refrain returning to close the poem."
+      },
+      {
+        "id": "c00",
+        "style": "english invocation-ode, chamber strings and lute, soft baritone, hushed, drowsy, lulling",
+        "why": "'Soft Sleep, profoundly pleasing power... charm the canker Care away' — a clean short-lined invocation that could be a lullaby unaltered."
+      }
+    ]
+  },
+  {
+    "slug": "thomas-taylor-introduction-to-the-philosophy-a-3fcd63",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "english neoclassical recitation, solo harp over low drone, grave baritone, spacious, oracular, sparse",
+        "why": "Weak field, but this one holds real lines — 'Endure my heart' and Denham's 'strong without rage, without o'erflowing full' — and the sea questions close it."
+      }
+    ]
+  },
+  {
+    "slug": "jean-jacques-rousseau-emile-or-on-education-edc0fe",
+    "picks": []
+  }
+]

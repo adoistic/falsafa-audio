@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "aeschylus-persians-42a872",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "archaic greek chorus, aulos and low drone, elders' voices in unison, foreboding, measured",
+        "why": "\"What mortal man can escape the guile of god?\" — Delusion's fair face, the emptied city, the army gone off like bees in a swarm."
+      },
+      {
+        "id": "c12",
+        "style": "greek threnody, bowed lyre and frame drum, mixed voices, slow, desolate then defiant",
+        "why": "The empire ending in one image: the blood-stained soil of Salamis holds all that once was Persia, and tongues go free."
+      },
+      {
+        "id": "c13",
+        "style": "necromantic invocation, deep drone, struck bronze, chanting male voices, ritual, hypnotic",
+        "why": "The summoning of Darius from the tomb — libations poured, Earth and Hermes called, a chant with its own liturgy."
+      }
+    ]
+  },
+  {
+    "slug": "seneca-lucius-annaeus-hercules-oetaeus-935564",
+    "picks": [
+      {
+        "id": "c08",
+        "style": "roman chorus, plucked lyre and low strings, calm unison voices, plain, steady, consoling",
+        "why": "Beechwood cups held without a trembling hand against blood mingled with golden ones — the whole moral fits in the images."
+      },
+      {
+        "id": "c13",
+        "style": "orphic hymn, solo lyre and soft drone, warm baritone, spellbound, slow",
+        "why": "Orpheus in the underworld: the wheel stilled, Tityos' liver healed, Tantalus forgetting his thirst while the song lasts."
+      },
+      {
+        "id": "c19",
+        "style": "apotheosis hymn, harp and strings with rising choir, radiant, broad, exalted",
+        "why": "Spring, summer, autumn, winter turning past a fixed star — \"sooner shall the harvest be born in the deep\" than his praises fall silent."
+      }
+    ]
+  },
+  {
+    "slug": "gilbert-west-poems-0d6c1e",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "philosophical hymn, chamber organ and strings, noble tenor, broad, reverent",
+        "why": "The Hymn of Cleanthes in couplets — one god under many names, and every living thing an embodied portion of the soul divine."
+      },
+      {
+        "id": "c05",
+        "style": "baroque masque chorus, recorders, harpsichord and light strings, treble voices, airy, quick",
+        "why": "\"From the moon's relucent horn, from the star that wakes the morn\" — spirits summoned in trochaics, with a chorus already written in."
+      },
+      {
+        "id": "c17",
+        "style": "spenserian pastoral, lute and viol, gentle baritone, flowing, archaic",
+        "why": "Two clean Spenserian stanzas on a long marriage and the grove of children around the sacred olive."
+      }
+    ]
+  },
+  {
+    "slug": "thomas-gray-poems-f921bb",
+    "picks": [
+      {
+        "id": "c12",
+        "style": "english elegy, solo cello and chamber organ, low unhurried baritone, hushed, twilit",
+        "why": "The curfew, the lowing herd, the ploughman — the most famous opening in English elegy, and it needs nothing around it."
+      },
+      {
+        "id": "c06",
+        "style": "welsh bardic lament, harp alone then storm of strings, wild declaiming male voice, building, tempestuous",
+        "why": "The Bard on the rock above Conway, beard streaming like a meteor, striking the deep sorrows of his lyre."
+      },
+      {
+        "id": "c01",
+        "style": "nordic war chant, bowed lyre and heavy drums, layered female voices with a repeating refrain, driving, grim",
+        "why": "The Fatal Sisters weaving: \"Pikes must shiver, javelins sing\" and the bracketed refrain \"Weave the crimson web of war\"."
+      }
+    ]
+  },
+  {
+    "slug": "john-straight-poems-92ad55",
+    "picks": [
+      {
+        "id": "c13",
+        "style": "georgian comic air, harpsichord and flute, arch light tenor, trotting, teasing",
+        "why": "Cupid stepping out of the rose bush: if so small a dart in the finger smarts, what if I had pierced your heart?"
+      },
+      {
+        "id": "c15",
+        "style": "18th century dramatic air, strings and continuo, biting baritone, urgent, imperious",
+        "why": "The poet revoking the beauty he claims to have lent — pagan priests dressing the wood, then falling before the senseless god."
+      }
+    ]
+  },
+  {
+    "slug": "pliny-the-younger-letters-3236cd",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "roman drinking epigram set to music, lyre and hand drum, playful tenor, loose, late-night swing",
+        "why": "Martial sending his Muse only after dark — when Lyaeus rages, the rose reigns and the hair is dripping — then even rigid Catos may read."
+      }
+    ]
+  },
+  {
+    "slug": "flavius-philostratus-heroicus-b1daab",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "greek heroic lyric, solo lyre with sea-drone, clear resonant male voice, echoing, slow, luminous",
+        "why": "Achilles' own song to Echo across the Black Sea, asking her to sing Homer back to him — a complete lyric with a real conceit."
+      }
+    ]
+  },
+  {
+    "slug": "john-maynard-keynes-economic-possibilities-for-our-g-d2df8d",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "music hall ballad, upright piano and banjo, wry working-class voice, jaunty, deadpan",
+        "why": "Only candidate, and it is a complete four-line epitaph — the heavens ringing with psalms while she does nothing for ever and ever."
+      }
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "aeschylus-supplices-99ccb8",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "ancient greek hymn-chorus, bowed lyre, deep drone, layered women's voices, slow, awed, spacious",
+        "why": "The hymn to an unsearchable Zeus — 'the pathways of his understanding stretch dark and tangled' — one voice, one thought, complete."
+      },
+      {
+        "id": "c18",
+        "style": "tragic lament, aulos, low frame drum, keening female voices, slow then agitated, desolate",
+        "why": "The maidens would rather hang, or fall from a vulture-haunted crag, than be married — terror in concrete images."
+      },
+      {
+        "id": "c13",
+        "style": "greek processional chorus, lyre, hand drum, unison female voices, steady walking pulse, hypnotic",
+        "why": "Io driven by the gadfly across Phrygia, Lydia, Cilicia and the wheat-lands of Aphrodite — a place-name litany that moves."
+      }
+    ]
+  },
+  {
+    "slug": "euripides-orestes-366b9a",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "greek chorus of furies, aulos, rattles, low drum, layered whispering-to-shrieking female voices, urgent, unnerving",
+        "why": "'You goddesses swiftly careering on your wings, whose lot it is to hold a revel, not with Bacchic rites, in tears and groans.'"
+      },
+      {
+        "id": "c00",
+        "style": "tragic prologue, solo lyre, sparse drone, grave female voice, slow, weary, direct address",
+        "why": "Electra opening the play with Tantalus quailing beneath his rock — the whole cursed house named in one speech."
+      },
+      {
+        "id": "c14",
+        "style": "greek monody, kithara, low strings, soaring then breaking female voice, slow, ominous, cosmic",
+        "why": "The golden lamb, and Strife turning the sun's chariot back toward the dawn — the myth at its strangest and most vivid."
+      }
+    ]
+  },
+  {
+    "slug": "anna-seward-poems-4e63bb",
+    "picks": [
+      {
+        "id": "c10",
+        "style": "nordic ballad, nyckelharpa, bowed lyre, frame drum, fierce female voice, incantatory, cold, gathering",
+        "why": "'Argantyr, wake! — to thee I call, / Hear from thy dark sepulchral hall!' — a daughter raising her father from the grave."
+      },
+      {
+        "id": "c14",
+        "style": "norse incantation, low drone, war drum, hard female chant with male answering voice, driving, repetitive, blazing",
+        "why": "'Scorns the car... scorns the helmet, scorns the spear' — repetition built for chanting, and the sword demanded from a dead hand."
+      },
+      {
+        "id": "c16",
+        "style": "nordic lullaby for the dead, bowed strings, soft drum, low female voice, very slow, hushed, restorative",
+        "why": "'Sleep, Argantyr, — Chief of might, / Thro' the long, the dreary night' — the closing of the tomb; a natural song's ending."
+      }
+    ]
+  },
+  {
+    "slug": "hannah-more-poems-d873ef",
+    "picks": [
+      {
+        "id": "c22",
+        "style": "abolitionist anthem, chamber organ, low strings, grave female voice with chorus, slow, indignant, building",
+        "why": "'Sense is as keen where Congo's sons preside, / As where proud Tiber rolls his classic tide' — the argument at its sharpest."
+      },
+      {
+        "id": "c21",
+        "style": "protest lament, cello, sparse piano, anguished mezzo, slow, unflinching",
+        "why": "The burning village, the shrieking babe, the wife dragged off — 'the fibres twisting round a parent's heart... bleeding as they part'."
+      },
+      {
+        "id": "c01",
+        "style": "18th century satirical air, harpsichord, oboe, arch light tenor, brisk, drawing-room wit",
+        "why": "'Small habits, well pursued betimes, / May reach the dignity of crimes' — the whole poem's comic method in two lines."
+      }
+    ]
+  },
+  {
+    "slug": "unknown-vratisasana-d0fe75",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "balinese kidung chant, gender wayang gamelan, suling flute, male chant, slow, ceremonial, incense-heavy",
+        "why": "The opening benediction and oṁ namaḥ śivāya, then the five yamas and niyamas laid out cleanly — a proper invocation."
+      },
+      {
+        "id": "c02",
+        "style": "kawi didactic chant, metallophone, small gong, steady male voice, measured, instructive, two-part answering shape",
+        "why": "The undisciplined child who shames his father set against the disciplined one who honours him — a built-in parallel structure."
+      },
+      {
+        "id": "c04",
+        "style": "javanese-balinese devotional chant, gamelan drone, kendang, unison male voices, slow, serene",
+        "why": "The tenfold mark of dharma closing on the ascetic whose bearing is as constant as sun and moon, day and night."
+      }
+    ]
+  },
+  {
+    "slug": "leon-trotsky-literature-and-revolution-9b02a3",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "russian revolutionary song, accordion, balalaika, ragged male chorus, marching, raw, defiant",
+        "why": "Blok's 'At Holy Russia let's fire a shot... eh, eh, unhallowed, unblessed' beside words settling like halcyon birds on branches."
+      }
+    ]
+  },
+  {
+    "slug": "john-maynard-keynes-the-economic-consequences-of-the-8e91dc",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "english romantic art song, piano, cello, dark baritone, slow, sombre, resigned",
+        "why": "Shelley on the wise wanting love and the loving wanting wisdom, 'and all best things are thus confused to ill' — whole and quotable."
+      }
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-gallus-49cb3b",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "pindaric victory ode, kithara, aulos, bright male voice with small chorus, stately, radiant, ceremonial",
+        "why": "Pindar's opening — water best of all things, gold blazing like fire in the night — the most famous line in Greek lyric."
+      }
+    ]
+  }
+]

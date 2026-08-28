@@ -1,0 +1,628 @@
+[
+ {
+  "slug": "unknown-yajnavalkya-smrti-cb88d6",
+  "title": "Yājñavalkya Smṛti",
+  "author": "Yājñavalkya",
+  "language": "Sanskrit",
+  "genre": "Law",
+  "era": "Ancient",
+  "class": "poetic",
+  "n_windows": 192,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "Chapter on Conduct\n1. Introduction (upodghātaprakaraṇam)\nHaving honored Yājñavalkya, the lord of yogis, the sages spoke:\nDeclare to us in their entirety the `*dharma*`[1] of the `*varṇa*`s,[2] the life-stages, and the others. // Yj_1.1 //\nResiding in Mithilā, that king of yogis, having meditated for a moment, said to the sages:\nIn the land where the black antelope is found, there you should learn the `*dharma*`s. // Yj_1.2 //\nThe Purāṇas, Nyāya, Mīmāṃsā, Dharmaśāstra, and the Aṅgas, together with the Vedas,\nare the fourteen sources of knowledge and of `*dharma*`. // Yj_1.3 //\nManu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras,\nYama, Āpastamba, Saṃvarta, Kātyāyana, and Bṛhaspati, // Yj_1.4 //\nParāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, and Gautama,\nŚātātapa, and Vasiṣṭha are the promulgators of the Dharmaśāstras. // Yj_1.5 //"
+   },
+   {
+    "id": "c01",
+    "at": "3:12",
+    "text": "Up to the sixteenth, the twenty-second, and the twenty-fourth year,\nis the secondary period for the `*upanayana*` of Brāhmaṇas, Kṣatriyas, and Vaiśyas, respectively. // Yj_1.37 //\nAfter this, they fall, excluded from all `*dharma*`,\nfallen from the Sāvitrī, they are Vrātyas, until the Vrātyastoma rite is performed. // Yj_1.38 //\nBecause they are first born from their mother, and a second time from the tying of the muñja grass girdle,\nBrāhmaṇas, Kṣatriyas, and Vaiśyas are therefore known as the twice-born. // Yj_1.39 //\nOf sacrifices, of austerities, and of all auspicious actions,\nthe Veda alone is the supreme means of ultimate bliss for the twice-born. // Yj_1.40 //\nWith honey and milk, the twice-born who studies the Ṛg-Veda daily\ngratifies the gods, and the Ancestors with honey and ghee. // Yj_1.41 //"
+   },
+   {
+    "id": "c02",
+    "at": "7:1",
+    "text": "Where there is harmony between husband and wife, there the three aims of life flourish. // Yj_1.74 //\nShe who does not go to another man, whether her husband is alive or dead,\nattains fame in this world and rejoices with Umā in the next. // Yj_1.75 //\nA man who abandons a wife who is obedient to his commands, skillful, who has borne heroic sons, and is sweet-spoken,\nshall be made to pay a third of his property, or if he has no property, to provide for her maintenance. // Yj_1.76 //\nA wife must carry out her husband's word; this is the highest `*dharma*` for a woman.\nShe must wait for a husband tainted by a great sin until he is purified. // Yj_1.77 //\nBecause endless worlds and attainment of heaven come through sons, grandsons, and great-grandsons,\ntherefore women are to be cherished, served, and well-protected. // Yj_1.78 //"
+   },
+   {
+    "id": "c03",
+    "at": "10:12",
+    "text": "One should prepare a great ox or a great goat for a śrotriya.\nRespectful treatment, a seat, delicious food, and pleasant speech are due. // Yj_1.109 //\nA graduate, a teacher, a king are to be honored with the Arghya offering annually;\nso too a dear friend and a bridegroom, and priests at every sacrifice. // Yj_1.110 //\nA traveler is to be known as a guest, as is a śrotriya who has mastered the Vedas.\nThese two are to be honored by a householder who desires the world of Brahma. // Yj_1.111 //\nOne should not be fond of eating food cooked by another, except by a blameless invitation.\nOne should avoid fickleness of speech, hands, and feet, and also overeating. // Yj_1.112 //\nHe should follow a gratified śrotriya guest to the boundary of the village.\nHe should spend the rest of the day with learned men, cherished friends, and relatives. // Yj_1.113 //"
+   },
+   {
+    "id": "c04",
+    "at": "14:3",
+    "text": "and likewise at the initiation and conclusion of Vedic study, and for a śrotriya of one's own branch.[*] // Yj_1.144 //\nUpon hearing twilight thunder, a loud crash, an earthquake, or the fall of a meteor,\none should stop study for a day and a night after finishing the Veda or reciting the Āraṇyaka. // Yj_1.145 //\nOn the fifteenth, fourteenth, and eighth days of the lunar fortnight, during an eclipse,\nat the junction of seasons, after eating, or after accepting a śrāddha meal. // Yj_1.146 //\nWhen a dog, frog, mongoose, snake, cat, or mouse passes between the teacher and pupil,\nit is a holiday for a day and a night; likewise on the fall or raising of Indra's banner. // Yj_1.147 //\nUpon hearing the cry of a dog, jackal, donkey, or owl, the sound of a Sāma chant, an arrow, or a person in pain;"
+   },
+   {
+    "id": "c05",
+    "at": "17:15",
+    "text": "for as many days as there are hairs on the animal's body. // Yj_1.180 //\nA Brāhmaṇa who abstains from meat, even while living in his home,\nobtains all his desires and the fruit of a horse sacrifice, like a sage. // Yj_1.181 //\n8. The Purification of Things (dravyaśuddhiprakaraṇam)\nOf gold, silver, conch shells, water vessels, sacrificial cups, and stones,\nand of vegetables, ropes, roots, fruits, clothes, split bamboo, and leather; // Yj_1.182 //\nof vessels and ladles, purification is ordained by water.\nPots for sacrificial porridge (caru), ladles (sruk, sruva), and greasy vessels are purified with hot water. // Yj_1.183 //\nOf the sphya (wooden sword), winnowing basket, animal skin, and grains, of the pestle, mortar, and cart,\npurification is by sprinkling; also for heaps of things, and large quantities of grain and clothes. // Yj_1.184 //"
+   },
+   {
+    "id": "c06",
+    "at": "21:6",
+    "text": "For the sake of worshipping gods and guests, or for teachers and dependents,\nand also for one's own livelihood, one may accept gifts from anyone. // Yj_1.216 //\n10. The Rite of Śrāddha (śrāddhaprakaraṇam)\nThe new moon day, the Aṣṭakā days, a prosperous occasion, the dark fortnight, the two solstices,\nthe availability of proper materials and a worthy Brāhmaṇa, the equinoxes, and the sun's passage into a new sign. // Yj_1.217 //\nThe Vyatīpāta conjunction, the Gajacchāyā yoga, an eclipse of the moon or sun,\nand a personal inclination for performing a `*śrāddha*`—these are declared to be the proper times for a `*śrāddha*`. // Yj_1.218 //\nOne pre-eminent in all the Vedas, a śrotriya, a knower of Brahman, a youth,\none who knows the meaning of the Veda, a singer of the Jyeṣṭhasāman, a Trimadhu, and a Trisuparṇa. // Yj_1.219 //"
+   },
+   {
+    "id": "c07",
+    "at": "24:13",
+    "text": "the rites are performed with barley, and the Piṇḍas are mixed with yogurt and jujube fruits. // Yj_1.250 //\nThe `*ekoddiṣṭa*` rite (for a single deceased person) is without the rite to the gods, has one Arghya offering and one Pavitraka,\nand is without the invocation and the oblation into the fire, and is performed with the sacred thread over the right shoulder. // Yj_1.251 //\nIn place of the \"akṣayya\" water, he should say, \"Upatishthatām.\" At the dismissal of the Brāhmaṇas,\nhe should say, \"Abhiramyatām\" (Be pleased), and they should reply, \"Abhiratāḥ sma ha\" (We are pleased). // Yj_1.252 //\nHe should prepare four vessels for the Arghya offering, containing perfume, water, and sesame seeds.\nHe should pour the contents of the vessel for the deceased into the vessels for the Ancestors. // Yj_1.253 //"
+   },
+   {
+    "id": "c08",
+    "at": "28:1",
+    "text": "cooked and raw fish, and an equal amount of meat. // Yj_1.287 //\nVariegated and fragrant flowers, three kinds of liquor,\nradish, pūrikā cakes, apūpa cakes, and a garland of uṇḍeraka cakes. // Yj_1.288 //\nCurd-rice, milk-rice, and a sweetmeat of molasses and flour with water;\nhaving gathered all these, he should then place his head on the ground. // Yj_1.289 //\nThen he should worship Ambikā, the mother of Vināyaka,\nhaving offered a handful of Arghya with dūrvā grass, mustard seeds, and flowers. // Yj_1.290 //\n\"Give me beauty, give me fame, O revered one, give me fortune.\nGive me sons, give me wealth, and give me all my desires.\" // Yj_1.291 //\nThen, wearing white garments, a white garland, and white ointment,\nhe should feed Brāhmaṇas and give a pair of garments to his teacher. // Yj_1.292 //"
+   },
+   {
+    "id": "c09",
+    "at": "31:15",
+    "text": "one who has turned back from the fight, a spectator, and the like. // Yj_1.326 //\nHaving arranged for his protection, he should rise and personally inspect the income and expenditure.\nThen, having looked into legal disputes, he should bathe and eat as he pleases. // Yj_1.327 //\nHe should deposit gold brought by his agents into the treasury.\nThen he should see his spies and dispatch envoys in consultation with his ministers. // Yj_1.328 //\nThen he may engage in personal recreation or meet with his ministers.\nHaving reviewed his forces, he should deliberate with his commander. // Yj_1.329 //\nHaving performed the evening worship, he should listen to the secret reports of his spies.\nHe should dine while enjoying music and dance, and also perform his Vedic recitation. // Yj_1.330 //"
+   },
+   {
+    "id": "c10",
+    "at": "35:3",
+    "text": "Two `kṛṣṇala`s are a silver `māṣa`, and sixteen of those are a `dharaṇa`. // Yj_1.364 //\nA `śatamāna` is ten `dharaṇa`s, which is also a `pala`.\nA `niṣka` is four `suvarṇa`s. A copper `paṇa` is one `kārṣika`. // Yj_1.365 //\nA fine of one thousand and eighty `paṇa`s is the highest amercement;\nhalf of that is said to be the middle, and half of that is known as the lowest. // Yj_1.366 //\nCensure, verbal rebuke, a monetary fine, and corporal punishment—\nthese may be applied separately or together, according to the offense. // Yj_1.367 //\nHaving considered the offense, the place, the time, the strength, the age, the occupation, and the wealth,\nhe should inflict punishment on the punishable. // Yj_1.368 //\n*[Here ends the Chapter on Conduct]*\nCHAPTER II: ON LEGAL PROCEDURE (vyavahārādhyāya)"
+   },
+   {
+    "id": "c11",
+    "at": "38:13",
+    "text": "If the owner cannot prove his claim by marks, he deserves a fine equal to its value. // Yj_2.33 //\nA king, having found a treasure, should give half to Brāhmaṇas. If a Brāhmaṇa finds it,\na learned one may take the whole, for he is the lord of all. // Yj_2.34 //\nWhen a treasure is found by another person, the king shall take a sixth part.\nIf it is discovered without being reported, the finder shall be made to pay that amount and also a fine. // Yj_2.35 //\nProperty stolen by a thief must be restored by the king to his subject;\nfor by not restoring it, he incurs the sin of that theft. // Yj_2.36 //\n3. The Recovery of Debts (ṛṇādānaprakaraṇam)\nAn eightieth part is the interest per month when there is a pledge;\notherwise, it is two, three, four, or five percent, according to the order of the `*varṇa*`s. // Yj_2.37 //"
+   },
+   {
+    "id": "c12",
+    "at": "42:4",
+    "text": "they should be of the same caste and `*varṇa*` as the parties, or all may be witnesses for all. // Yj_2.69 //\nWomen, children, the aged, gamblers, the intoxicated, the insane, those accused of a great sin,\nactors, heretics, forgers, and those with defective sense organs are not competent as witnesses. // Yj_2.70 //\nOutcastes, friends, those with a pecuniary interest, associates, enemies, thieves,\nperpetrators of violence, those convicted of a crime, and the banished are also not competent as witnesses. // Yj_2.71 //\nEven one witness who knows `*dharma*` and is approved by both parties is acceptable;\nanyone can be a witness in cases of adultery, theft, assault, and violence. // Yj_2.72 //\nThe judge should admonish the witnesses in the presence of the plaintiff and defendant, saying:"
+   },
+   {
+    "id": "c13",
+    "at": "45:16",
+    "text": "Having made the accused utter the imprecation, \"O Varuṇa, protect me with truth,\"\nhe should enter the water and hold the thighs of a man standing in navel-deep water. // Yj_2.108 //\nAt the same time, a swift man should fetch a discharged arrow;\nif, upon his return, the accused is still seen submerged, he attains purity. // Yj_2.109 //\n\"O Poison, you are the son of Brahmā, established in the `*dharma*` of truth.\nSave me from this accusation; through truth, become nectar for me.\" // Yj_2.110 //\nHaving spoken thus, he should eat the Śārṅga poison from the Himalayan mountains;\nhe whose body digests it without ill effects, his purity should be declared. // Yj_2.111 //\nHaving worshipped the fierce deities, one should take the water from their bathing;\nhaving strained it, he should make the accused drink three handfuls of that water. // Yj_2.112 //"
+   },
+   {
+    "id": "c14",
+    "at": "49:4",
+    "text": "The `*strīdhana*` of a childless woman married in one of the four forms beginning with the Brāhma goes to her husband;\nif she has issue, it goes to her daughters, and in the remaining forms of marriage, it goes to her father. // Yj_2.145 //\nOne who takes back a maiden after having given her is to be fined and must also pay the expenses with interest;\nif she dies, he may take back what was given, after deducting the expenses of both sides. // Yj_2.146 //\nIn a famine, for a religious duty, during illness, or while imprisoned,\na husband who has taken `*strīdhana*` is not obliged to return it to his wife. // Yj_2.147 //\nTo a superseded wife, he should give a gift on supersession of equal value,\nif no `*strīdhana*` had been given to her; if some had been given, he should allot half that amount. // Yj_2.148 //"
+   },
+   {
+    "id": "c15",
+    "at": "52:14",
+    "text": "In coarse woolen or cotton fabrics, the increase in value is ten percent;\nin medium quality, the increase is five percent; and in fine quality, it is considered to be three percent. // Yj_2.179 //\nIn silk fabrics and those made with hair, a loss of one-thirtieth is considered;\nthere is no loss or increase in fabrics of Kusa grass or tree bark. // Yj_2.180 //\nHaving considered the country, time, and use, and the strength or weakness of the goods that have perished,\nexperts should declare what is to be paid, without a doubt. // Yj_2.181 //\n14. Breach of the Contract of Service (abhyupetyāśuśrūṣāprakaraṇam)\nOne who has been forcibly enslaved or sold by thieves is to be set free;\nas is one who saves his master's life, or one who is released from his servitude, or by paying the redemption price. // Yj_2.182 //"
+   },
+   {
+    "id": "c16",
+    "at": "56:3",
+    "text": "For touching another with ashes, mud, or dust, the fine is declared to be ten `paṇa`s;\nfor touching with an impure substance, spittle from the heel, or phlegm, the fine is double that. // Yj_2.213 //\nThis is for equals; for insults against other men's wives and superiors, the fine is doubled;\nfor inferiors, it is half; there is no punishment for acts done through intoxication, madness, and the like. // Yj_2.214 //\nThe limb of a non-Brāhmaṇa with which he injures a Brāhmaṇa should be cut off;\nfor raising a weapon, the lowest amercement; for touching with it, half of that. // Yj_2.215 //\nFor raising a hand or foot, the fines are ten and twenty `paṇa`s respectively;\nfor mutual assault with a weapon among all classes, the middle amercement. // Yj_2.216 //\nFor pulling by the foot, hair, garment, or hand, the fine is ten `paṇa`s;"
+   },
+   {
+    "id": "c17",
+    "at": "59:12",
+    "text": "For merchants who, acting in concert, obstruct the sale of goods at a fair price,\nor who sell them at such a price, the highest amercement is prescribed as the fine. // Yj_2.250 //\nThe price that is fixed daily by the king—with that, sale\nor purchase should be made; the surplus from that is known as the profit for merchants. // Yj_2.251 //\nOn domestic goods, a merchant may take five percent;\non foreign goods, ten percent, if he is a seller who buys and sells immediately. // Yj_2.252 //\nHaving added the expenses incurred on the goods to their cost,\na price should be fixed that is favorable to both the buyer and the seller. // Yj_2.253 //\n21. Non-delivery of Sold Goods (vikrīyāsaṃpradānaprakaraṇam)\nHe who, having received the price, does not deliver the goods to the buyer,"
+   },
+   {
+    "id": "c18",
+    "at": "63:1",
+    "text": "If both forbid it, the punishment is the same as for illicit intercourse. // Yj_2.285 //\nFor intercourse with a woman of the same caste, the fine is the highest; in the direct order of castes, the middle;\nin the reverse order, death for the man, and the cutting off of the woman's ears and so on. // Yj_2.286 //\nFor abducting an adorned maiden, the highest fine; otherwise, the lowest.\nHe shall pay this fine for maidens of his own caste; in the reverse order, death is prescribed. // Yj_2.287 //\nIn the case of willing women of the direct order of castes, there is no offense; otherwise, a fine.\nFor raping a maiden, the cutting off of the hand; for raping a woman of the highest caste, death. // Yj_2.288 //\nOne shall pay one hundred for defiling a woman, and two hundred for falsely accusing her."
+   },
+   {
+    "id": "c19",
+    "at": "66:12",
+    "text": "A student observing a vow, having carried out his teacher, father, or preceptor, remains a student;\nhe should not eat food from a restricted source, nor should he live with them. // Yj_3.15 //\nThey should sleep on the ground, on separate mats, eating food that is bought or received as a gift;\nfor three days, food should be given for the deceased, in the manner of the Piṇḍayajña. // Yj_3.16 //\nFor one day, water should be placed in the open air, and milk in an earthen vessel.\nThe Śrauta and Smārta rites should be performed, as enjoined by revelation. // Yj_3.17 //\nThe impurity from a death is desired to last for three nights or ten nights;\nfor a child under two, the impurity from birth affects the mother alone. // Yj_3.18 //\nThe impurity from birth for the parents is due to the mother's seeing of the blood;"
+   },
+   {
+    "id": "c20",
+    "at": "70:0",
+    "text": "He should sleep on the pure ground at night, and pass the day by constant movement;\nor by standing, sitting, and walking, or by the practice of yoga. // Yj_3.51 //\nIn summer, he should be in the midst of five fires; in the rainy season, he should lie on the bare ground;\nin winter, he should wear wet clothes, or perform austerities according to his ability. // Yj_3.52 //\nHe who is pricked with thorns and he who is anointed with sandalwood—\nhe who is neither angry with the one nor pleased with the other is the same to both. // Yj_3.53 //\nHaving placed the fires within himself, living under a tree, eating moderately,\nhe may beg for alms for his subsistence only in the houses of forest-dwellers. // Yj_3.54 //\nOr, having brought eight mouthfuls from a village, he may eat them in silence;"
+   },
+   {
+    "id": "c21",
+    "at": "73:12",
+    "text": "Two temporal bones, four cranial bones of the head;\nthe chest has seventeen bones; this is the collection of a man's bones. // Yj_3.90 //\nSmell, form, taste, touch, and sound are known as the objects of sense;\nthe nose, eyes, tongue, skin, and ear are the sense organs. // Yj_3.91 //\nThe hands, the anus, the generative organ, the tongue, and the feet are the five\norgans of action; the mind is to be known as belonging to both. // Yj_3.92 //\nThe navel, the vital essence, the anus, semen, blood, and the two temporal bones,\nthe head, shoulders, throat, and heart are the seats of the vital breath. // Yj_3.93 //\nThe omentum, the fat, the diaphragm, the navel, the pancreas, the liver, the spleen,\nthe small intestine, the two kidneys, the bladder, and the receptacle of feces; // Yj_3.94 //"
+   },
+   {
+    "id": "c22",
+    "at": "77:0",
+    "text": "Just as the conditions of embodied beings in their bodies are endless,\nso too are the forms of those beings here in all wombs. // Yj_3.132 //\nFor some, the fruition of `*karma*` occurs after death; for others, it is born here in this life.\nFor still others, it is here or in the hereafter; one's state of being is the determining factor. // Yj_3.133 //\nOne who covets the property of others, contemplates evil,\nand adheres to falsehood is born into other wombs. // Yj_3.134 //\nA man who speaks untruth, is a slanderer, is harsh in speech,\nand engages in idle talk is born among beasts and birds. // Yj_3.135 //\nOne who delights in taking what is not given, who commits adultery with another's wife,\nand who unlawfully inflicts harm is born among immovable things. // Yj_3.136 //\nA knower of the Self, pure, self-restrained, ascetic, with conquered senses,"
+   },
+   {
+    "id": "c23",
+    "at": "80:13",
+    "text": "through these, the Self is known as the wealth and cause of the world. // Yj_3.173 //\nEgo, memory, intelligence, aversion, intellect, happiness, fortitude,\nthe activity of the inner sense, desire, retention, and life; // Yj_3.174 //\nheaven, dream, the impulse of thoughts, the movement of the mind,\nthe blinking of an eye, consciousness, effort, and the taking on of the five elements— // Yj_3.175 //\nbecause these signs of the supreme Self are seen,\ntherefore there exists a Self beyond the body, all-pervading, the Lord. // Yj_3.176 //\nThe organs of knowledge with their objects, the mind, the organs of action,\nthe ego, the intellect, and the elements beginning with earth; // Yj_3.177 //\nthe Unmanifest, and the Self, the knower of the field—this is said of this field.\nHe is the Lord, situated in all beings, who is being, non-being, and both being and non-being. // Yj_3.178 //"
+   }
+  ]
+ },
+ {
+  "slug": "terence-adelphi-944586",
+  "title": "Adelphi",
+  "author": "Terence",
+  "language": "Latin",
+  "genre": "Classics",
+  "era": "Hellenistic",
+  "class": "mixed",
+  "n_windows": 110,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "2:0",
+    "text": "(Enter MICIO, calling to a servant within.)\nMICIO:\nStorax! Aeschinus has not returned home from the entertainment last night, nor any of the servants who went to fetch him. (To himself.) Really, they say it with reason, if you are absent anywhere, or if you stay abroad at any time,’twere better for that to happen which your wife says against you, and which in her passion she imagines in her mind, than the things which fond parents fancy. A wife, if you stay long abroad, either imagines that you are in love or are beloved, or that you are drinking and indulging your inclination, and that you only are taking your pleasure, while she herself is miserable.\nAs for myself, in consequence of my son not having returned home, what do I imagine? In what ways am I not disturbed? For fear lest he may either have taken cold, or have fallen down somewhere, or have broken some limb. Oh dear! that any man should take it into his head, or find out what is dearer to him than he is to himself!"
+   },
+   {
+    "id": "c01",
+    "at": "4:8",
+    "text": "He has broken open a door, and forced his way into another person’s house, beaten to death the master himself, and all the household, and carried off a wench whom he had a fancy for. All people are exclaiming that it was a most disgraceful proceeding. How many, Micio, told me of this as I was coming here? It is in everybody’s mouth. In fine, if an example must be cited, does he not see his brother giving his attention to business, and living frugally and soberly in the country? No action of his is like this. When I say this to him, Micio, I say it to you. You allow him to be corrupted.\nMICIO:\nNever is there any thing more unreasonable than a man who wants experience, who thinks nothing right except what he himself has done.\nDEMEA:\nWhat is the meaning of that?\nMICIO:\nBecause, Demea, you misjudge these matters. It is no heinous crime, believe me, for a young man to intrigue or to drink; it is not; nor yet for him to break open a door. If neither I nor you did so, it was poverty that did not allow us to do so. Do you now claim that as a merit to yourself which you then did from necessity? That is unfair; for if we had had the means to do so, we should have done the same. And, if you were a man, you would now suffer that other son of yours to act thus now, while his age will excuse it, rather than, when he has got you, after long wishing it, out of the way, he should still do so, at a future day, and at an age more unsuited."
+   },
+   {
+    "id": "c02",
+    "at": "6:4",
+    "text": "(Exit.)\n(Enter AESCHINUS and PARMENO with the MUSIC-GIRL, followed by SANNIO and a crowd of people.)\nSANNIO:\nI beseech you, fellow-citizens, do give aid to a miserable and innocent man; do assist the distressed.\nAESCHINUS:\n(to the GIRL.)\nBe quiet, and now then stand here just where you are. Why do you look back? There’s no danger; he shall never touch you while I am here.\nSANNIO:\nI’ll have her, in spite of all.\nAESCHINUS:\nThough he is a villain, he’ll not risk, to-day, getting a second beating.\nSANNIO:\nHear me, Aeschinus, that you may not say that you were in ignorance of my calling; I am a Procurer.\nAESCHINUS:\nI know it.\nSANNIO:"
+   },
+   {
+    "id": "c03",
+    "at": "7:47",
+    "text": "AESCHINUS:\nI don’t want to.\nSANNIO:\nHave I touched any thing of yours?\nAESCHINUS:\nIf you had touched it, you’d have got a drubbing.\nSANNIO:\nWhat greater right then have you to take my property, for which I paid my money?\nAnswer me that.\nAESCHINUS:\nIt were better for you not to be making a disturbance here before the house; for if you persist in being impertinent, you shall be dragged in at once, and there you shall be lashed to death with whips.\nSANNIO:\nA free man, with whips?\nAESCHINUS:\nSo it shall be.\nSANNIO:"
+   },
+   {
+    "id": "c04",
+    "at": "9:7",
+    "text": "SYRUS:\nYour own fault.\nSANNIO:\nWhat could I do?\nSYRUS:\nYou ought to have yielded to the young man.\nSANNIO:\nHow could I more so, when to-day I have even afforded my face to his blows?\nSYRUS:\nWell—are you aware of what I tell you? To slight money on some occasions is sometimes the surest gain.\nWhat!— were you afraid, you greatest simpleton alive, if you had parted with ever so little of your right, and had humored the young man, that he would not repay you with interest?\nSANNIO:\nI do not pay ready money for hope.\nSYRUS:\nThen you’ll never make a fortune. Get out with you, Sannio; you don’t know how to take in mankind.\nSANNIO:"
+   },
+   {
+    "id": "c05",
+    "at": "11:6",
+    "text": "(Enter CTESIPHO, at the other side of the stage.)\nCTESIPHO:\nFrom any man, when you stand in need of it, you are glad to receive a service;\nbut of a truth it is doubly acceptable, if he does you a kindness who ought to do so. O brother, brother, how can I sufficiently commend you? This I am quite sure of; I can never speak of you in such high terms but that your deserts will surpass it. For I am of opinion that I possess this one thing in especial beyond all others, a brother than whom no individual is more highly endowed with the highest qualities.\nSYRUS:\nO Ctesipho!\nCTESIPHO:\nO Syrus, where is Aeschinus?\nSYRUS:\nWhy, look—he’s at home, waiting for you.\nCTESIPHO:\n(speaking joyously.)\nHa!\nSYRUS:\nWhat’s the matter?\nCTESIPHO:"
+   },
+   {
+    "id": "c06",
+    "at": "13:0",
+    "text": "SOSTRATA:\nPrithee, my dear nurse, how is it like to end?\nCANTHARA:\nLike to end, do you ask? I’ troth, right well, I trust.\nSOSTRATA:\nHer pains are just beginning, my dear.\nCANTHARA:\nYou are in a flight, now, just as though you had never been present on such an occasion—never been in labor yourself.\nSOSTRATA:\nUnfortunate woman that I am! I have not a person at home; we are quite alone; Geta too is absent. I have no one to go for the midwife, or to fetch Aeschinus.\nCANTHARA:\nI’ faith, he’ll certainly be here just now, for he never lets a day pass without visiting us.\nSOSTRATA:\nHe is my sole comfort in my afflictions.\nCANTHARA:\nThings could not have happened, mistress, more for the advantage of your daughter than they have, seeing that violence was offered her; so far as he is concerned, it is most lucky,—such a person, of such disposition and feelings, a member of so respectable a family."
+   },
+   {
+    "id": "c07",
+    "at": "14:41",
+    "text": "GETA:\nAeschinus—\nSOSTRATA:\nWhat about him?\nGETA:\nHas abandoned our family.\nSOSTRATA:\nThen I am undone! Why so?\nGETA:\nHe has attached himself to another woman.\nSOSTRATA:\nWoe unto wretched me!\nGETA:\nAnd he makes no secret of it; he himself has carried her off openly from a procurer.\nSOSTRATA:\nAre you quite sure of this?"
+   },
+   {
+    "id": "c08",
+    "at": "16:15",
+    "text": "that profligate has persuaded him, I’m quite sure. But look—I see Syrus coming this way, I shall now know from him where he is. But, i’faith, he is one of the gang; if he perceives that I am looking for him, the rascal will never tell me. I’ll not let him know what I want.\n(Enter SYRUS, at the other side of the stage.)\nSYRUS:\n(to himself.)\nWe just now told the old gentleman the whole affair just as it happened;\nI never did see any one more delighted.\nDEMEA:\n(apart.)\nO Jupiter! the folly of the man!\nSYRUS:\n(continuing.)\nHe commended his son. To me, who put them upon this project, he gave thanks—\nDEMEA:\n(apart.)\nI shall burst asunder.\nSYRUS:"
+   },
+   {
+    "id": "c09",
+    "at": "18:15",
+    "text": "Oh dear, he didn’t at all mince the matter; for just as the money was being counted out, the gentleman came upon us by chance, and began exclaiming, Oh Aeschinus, that you should perpetrate these enormities! that you should be guilty of actions so disgraceful to our family!\nDEMEA:\nOh, I shall weep for joy.\nSYRUS:\nBy this you are not squandering your money only, but your reputation.\nDEMEA:\nMay he be preserved to me! I trust he will be like his forefathers.\n(Weeping.)\nSYRUS:\n(aside.)\nHeyday!\nDEMEA:\nSyrus, he is full of these maxims.\nSYRUS:\n(aside.)\nStrange, indeed! He had the means at home of learning them."
+   },
+   {
+    "id": "c10",
+    "at": "19:13",
+    "text": "How glad I am to find some remnants of this race even still remaining; now I feel some pleasure in living. I’ll wait here for him, to ask him how he is, and have some conversation with him.\n(Enter HEGIO and GETA, conversing, at a distance.)\nHEGIO:\nOh immortal Gods! a disgraceful action, Geta! What is it you tell me?\nGETA:\nSuch is the fact.\nHEGIO:\nThat so ignoble a deed should come from that family! Oh Aeschinus, assuredly you haven’t taken after your father in that!\nDEMEA:\n(apart.)\nWhy surely, he has heard this about the Music-girl; that gives him concern, though a stranger; this father of his thinks nothing of it. Ah me! I wish he were somewhere close at hand to overhear this.\nHEGIO:\nUnless they do as they ought to do, they shall not come off so easily.\nGETA:\nAll our hopes, Hegio, are centred in you; you we have for our only friend; you are our protector, our father. The old man, Simulus, when dying, recommended us to you; if you forsake us, we are undone."
+   },
+   {
+    "id": "c11",
+    "at": "21:16",
+    "text": "DEMEA:\nGo back now; every thing shall be done that is proper to be done.\nHEGIO:\nIt becomes you to act thus. Geta, show me in to Sostrata.\n(Follows GETA into SOSTRATA’S house.)\nDEMEA:\n(to himself.)\nNot without warning on my part have these things happened: I only wish it may end here; but this immoderate indulgence will undoubtedly lead to some great misfortune.\nI’ll go find my brother, and vent these feelings upon him.\n(Exit.)\n(Enter HEGIO, from SOSTRATA’S house, and speaking to her within.)\nHEGIO:\nBe of good heart, Sostrata, and take care and console her as far as you can. I’ll go find Micio, if he is at the Forum, and acquaint him with the whole circumstances in their order; if so it is that he will do his duty by you, let him do so; but if his sentiments are otherwise about this matter, let him give me his answer, that I may know at once what I am to do."
+   },
+   {
+    "id": "c12",
+    "at": "23:37",
+    "text": "(apart.)\nNay, do be of good heart.\nDEMEA:\n(to himself.)\nPlague on it! what ill luck is this? I can not really account for it, unless I suppose myself only born for the purpose of enduring misery. I am the first to feel our misfortunes; the first to know of them all; then the first to carry the news; I am the only one, if any thing does go wrong, to take it to heart.\nSYRUS:\n(apart.)\nI’m amused at him; he says that he is the first to know of every thing, while he is the only one ignorant of every thing.\nDEMEA:\n(to himself.)\nI’ve now come back; and I’ll go see whether perchance my brother has yet returned.\nCTESIPHO:\n(apart.)\nSyrus, pray do take care that he doesn’t suddenly rush in upon us here.\nSYRUS:\n(apart.)"
+   },
+   {
+    "id": "c13",
+    "at": "24:42",
+    "text": "SYRUS:\nHe is not.\nDEMEA:\nI’m thinking where to look for him.\nSYRUS:\nI know where he is—but I shall not tell you at present.\nDEMEA:\nHa! what’s that you say?\nSYRUS:\nI do say so.\nDEMEA:\nThen I’ll break your head for you this instant.\nSYRUS:\nI can’t tell the person’s name he’s gone to, but I know the place where he lives.\nDEMEA:\nTell me the place then."
+   },
+   {
+    "id": "c14",
+    "at": "26:16",
+    "text": "Alas! how to extricate myself from this perplexity I know not; so strong a suspicion has taken possession of them about me; not without some reason too: Sostrata believes that I have purchased this Music-girl for myself: the old woman informed me of that. For by accident, when she was sent for the midwife, I saw her, and at once went up to her. How is Pamphila? I inquired; is her delivery at hand? Is it for that she is sending for the midwife? Away, away, Aeschinus, cries she; you have deceived us long enough; already have your promises disappointed us sufficiently. Ha! said I; pray what is the meaning of this? Farewell, she cries; keep to her who is your choice. I instantly guessed what it was they suspected, but still I checked myself, that I might not be telling that gossip any thing about my brother, whereby it might be divulged. Now what am I to do? Shall I say she is for my brother, a thing that ought by no means to be repeated any where? However, let that pass. It is possible it might go no further. I am afraid they would not believe it, so many probabilities concur against it;’twas I myself carried her off;’twas I, my own self, that paid the money for her;’twas my own house she was carried to."
+   },
+   {
+    "id": "c15",
+    "at": "28:8",
+    "text": "AESCHINUS:\n(aside.)\nUndone!\nMICIO:\nWhat’s the matter?\nAESCHINUS:\nNothing. Very well: proceed.\nMICIO:\nHe has come to take her with him; for he lives at Miletus.\nAESCHINUS:\nWhat! To take the girl away with him?\nMICIO:\nSuch is the act.\nAESCHINUS:\nAll the way to Miletus, pray?\nMICIO:"
+   },
+   {
+    "id": "c16",
+    "at": "30:6",
+    "text": "AESCHINUS:\nNow?\nMICIO:\nNow, as soon as possible.\nAESCHINUS:\nMay all the Gods detest me, father, if I do not love you better than even my very eyes!\nMICIO:\nWhat! better than her?\nAESCHINUS:\nQuite as well.\nMICIO:\nVery kind of you!\nAESCHINUS:\nWell, where is this Milesian?\nMICIO:\nDeparted, vanished, gone on board ship; but why do you delay?"
+   },
+   {
+    "id": "c17",
+    "at": "31:21",
+    "text": "Why not put up with it?\nDEMEA:\nTell me, pray, don’t you exclaim about it? Don’t you go distracted?\nMICIO:\nNot I: certainly I had rather —\nDEMEA:\nThere has been a child born.\nMICIO:\nMay the Gods be propitious to it.\nDEMEA:\nThe girl has no fortune.\nMICIO:\nSo I have heard.\nDEMEA:\nAnd he—must he marry her without one?\nMICIO:"
+   },
+   {
+    "id": "c18",
+    "at": "32:38",
+    "text": "DEMEA:\n(apart.)\nJust look at that—there’s an instance of their good training!\nSYRUS:\n(to himself.)\nBut see, here comes our old man. (Addressing him.) What’s the matter? Why out of spirits?\nDEMEA:\nOh you rascal!\nSYRUS:\nHold now; are you spouting your sage maxims here?\nDEMEA:\nIf you were my servant—\nSYRUS:\nWhy, you would be a rich man, Demea, and improve your estate.\nDEMEA:\nI would take care that you should be an example to all the rest."
+   },
+   {
+    "id": "c19",
+    "at": "34:10",
+    "text": "MICIO:\nYou don’t reason fairly.\nDEMEA:\nNo?\nMICIO:\nFor surely it is a maxim of old, that among themselves all things are common to friends.\nDEMEA:\nSmartly said; you’ve got that speech up for the occasion.\nMICIO:\nListen to a few words, unless it is disagreeable, Demea. In the first place, if the extravagance your sons are guilty of distresses you, pray do reason with yourself.\nYou formerly brought up the two suitably to your circumstances, thinking that your own property would have to suffice for them both; and, of course, you then thought that I should marry. Adhere to that same old rule of yours,—save, scrape together, and be thrifty for them; take care to leave them as much as possible, and take that credit to yourself: my fortune, which has come to them beyond their expectation, allow them to enjoy; of your capital there will be no diminution; what comes from this quarter, set it all down as so much gain. If you think proper impartially to consider these matters in your mind, Demea, you will save me and yourself, and them, considerable uneasiness."
+   },
+   {
+    "id": "c20",
+    "at": "36:15",
+    "text": "and this is my case at present: for the rigid life I have hitherto led, my race nearly run, I now renounce. Why so?—I have found, by experience, that there is nothing better for a man than an easy temper and complacency. That this is the truth, it is easy for any one to understand on comparing me with my brother. He has always spent his life in ease and gayety;\nmild, gentle, offensive to no one, having a smile for all, he has lived for himself, and has spent his money for himself; all men speak well of him, all love him. I, again, a rustic, a rigid, cross, self-denying, morose and thrifty person, married a wife; what misery I entailed in consequence! Sons were born—a fresh care. And just look, while I have been studying to do as much as possible for them,\nI have worn out my life and years in saving; now, in the decline of my days, the return I get from them for my pains is their dislike. He, on the other hand, with out any trouble on his part, enjoys a father’s comforts; they love him; me they shun; him they trust with all their secrets, are fond of him, are always with him. I am forsaken;"
+   },
+   {
+    "id": "c21",
+    "at": "38:26",
+    "text": "DEMEA:\nPull down the wall: and you, Geta, go and bring them across.\nGETA:\nMay the Gods bless you, Demea, as I see you so sincere a well-wisher to our family.\n(GETA and SYRUS go into MICIO’S house.)\nDEMEA:\nI think they deserve it. What say you, Aeschinus, as to this plan?\nAESCHINUS:\nI quite agree to it.\nDEMEA:\nIt is much more proper than that she, being sick and lying-in, should be brought hither through the street.\nAESCHINUS:\nWhy, my dear father, I never did see any thing better contrived.\nDEMEA:\nIt’s my way; but see, here’s Micio coming out.\n(Enter MICIO, from his house.)"
+   },
+   {
+    "id": "c22",
+    "at": "39:51",
+    "text": "You are mad!\nAESCHINUS:\nDo let me prevail on you, my father.\nMICIO:\nAre you out of your senses? Take yourself off.\nDEMEA:\nCome, do oblige your son.\nMICIO:\nAre you quite in your right mind? Am I, in my five-and-sixtieth year, to be marrying at last?\nA decrepit old woman too? Do you advise me to do this?\nAESCHINUS:\nDo; I have promised it.\nMICIO:\nPromised, indeed; be generous at your own cost, young man.\nDEMEA:\nCome, what if he should ask a still greater favor?"
+   },
+   {
+    "id": "c23",
+    "at": "41:0",
+    "text": "DEMEA:\nThe thing is evident; and then, besides all this, to cater for them, secretly bring, home a wench, prepare a morning entertainment; these are the accomplishments of no ordinary person.\nSYRUS:\nO, what a delightful man!\nDEMEA:\nLast of all, he assisted to-day in purchasing this Music-wench—he had the management of it; it is right he should be rewarded; other servants will be encouraged thereby: besides, he (pointing to AESCHINUS) desires it to be so.\nMICIO:\n(to AESCHINUS.)\nDo you desire this to be done?\nAESCHINUS:\nI do wish it.\nMICIO:\nWhy then, if you desire it, just come hither, Syrus, to me (performing the ceremony of manumission); be a free man.\nSYRUS:\nYou act generously; I return my thanks to you all;—and to you, Demea, in particular.\nDEMEA:"
+   }
+  ]
+ },
+ {
+  "slug": "plautus-titus-maccius-mostellaria-651c20",
+  "title": "Mostellaria",
+  "author": "Plautus, Titus Maccius",
+  "language": "Latin",
+  "genre": "Classics",
+  "era": "Hellenistic",
+  "class": "mixed",
+  "n_windows": 136,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "1:0",
+    "text": "(Enter, from the house of THEUROPIDES, GRUMIO, pushing out TRANIO.\nGRUMIO:\nGet out of the kitchen, will you; out of it, you whip-scoundrel, who are giving me your cavilling talk amid the platters; march out of the house, you ruin of your master. Upon my faith, if I only live, I’ll be soundly revenged upon you in the country. Get out, I say, you steam of the kitchen.\nWhy are you skulking thus?\nTRANIO:\nWhy the plague are you making this noise here before the house? Do you fancy yourself to be in the country? Get out of the house; be off into the country. Go and hang yourself. Get away from the door.\n(Striking him.) There now, was it that you wanted?\nGRUMIO:\n(running away.)\nI’m undone! Why are you beating me?\nTRANIO:\nBecause you want it.\nGRUMIO:\nI must endure it. Only let the old gentleman return home; only let him come safe home, whom you are devouring in his absence."
+   },
+   {
+    "id": "c01",
+    "at": "3:16",
+    "text": "(Enter PHILOLACHES, from the house of THEUROPIDES.)\nPHILOLACHES:\n(to himself.)\nI’ve often thought and long reflected on it, and in my breast have held many a debate, and in my heart (if any heart I have) have revolved this matter, and long discussed it, to what thing I’m to consider man as like, and what form he has when he is born?\nI’ve now discovered this likeness. I think a man is like unto a new house when he is born. I’ll give my proofs of this fact. (To the AUDIENCE.) And does not this seem to you like the truth? But so I’ll manage that you shall think it is so.\nBeyond a doubt I’ll convince you that it is true what I say. And this yourselves, I’m sure, when you have heard my words, will say is no otherwise than just as I now affirm that it is. Listen while I repeat my proofs of this fact;"
+   },
+   {
+    "id": "c02",
+    "at": "6:25",
+    "text": "PHILOLACHES:\n(apart.)\nNow then, for that expression, Scapha, I’ll make you some present or other to-day, and I won’t allow you to have praised her for nothing who is so pleasing to me.\nPHILEMATIUM:\nI don’t want you to flatter me.\nSCAPHA:\nReally you are a very simple woman. Come now, would you rather be censured undeservedly, than be praised with truth? Upon my faith, for my own part, even though undeservedly, I’d much rather be praised than be found fault with with reason, or that other people should laugh at my appearance.\nPHILEMATIUM:\nI love the truth; I wish the truth to be told me; I detest a liar.\nSCAPHA:\nSo may you love me, and so may your Philolaches love you, how charming you are.\nPHILOLACHES:\n(apart.)\nHow say you, you hussy? In what words did you adjure? So may I love her? Why wasn’t So may she love me added as well? I revoke the present."
+   },
+   {
+    "id": "c03",
+    "at": "9:8",
+    "text": "They’ll love me the more when they see me displaying gratitude to one who has done me services.\nPHILOLACHES:\n(apart.)\nI do wish that news were brought me now that my father’s dead, that I might disinherit myself of my property, and that she might be my heir.\nSCAPHA:\nThis property of his will certainly soon be at an end; day and night there’s eating and drinking, and no one displays thriftiness;’tis downright cramming.\nPHILOLACHES:\n(apart.)\nI’ faith, I’m determined to make trial on yourself for the first to be thrifty; for you shall neither eat nor drink anything at my house for the next ten days.\nPHILEMATIUM:\nIf you choose to say anything good about him, you shall be at liberty to say it;\nif you speak otherwise than well, on my word you shall have a beating instantly.\nPHILOLACHES:"
+   },
+   {
+    "id": "c04",
+    "at": "11:8",
+    "text": "PHILOLACHES:\n(apart.)\nHow very cleverly she does understand everything! There’s nothing more knowing than this knowing woman!\n(To the AUDIENCE.) This is the truth, and a very great portion, in fact, of you know it, who have old women for wives at home who purchased you with their portions.\nPHILEMATIUM:\nCome now, examine my golden trinkets and my mantle; does this quite become me, Scapha?\nSCAPHA:\nIt befits not me to concern myself about that.\nPHILEMATIUM:\nWhom then, prithee?\nSCAPHA:\nI’ll tell you;\nPhilolaches; so that he may not buy anything except that which he fancies will please you. For a lover buys the favours of a mistress for himself with gold and purple garments. What need is there for that which he doesn’t want as his own, to be shown him still? Age is to be enveloped in purple; gold ornaments are unsuitable for a woman. A beautiful woman will be more beautiful naked than drest in purple."
+   },
+   {
+    "id": "c05",
+    "at": "13:36",
+    "text": "(giving his hand.)\nThere now, take it.\nDELPHIUM:\nCome, move on with me.\nCALLIDAMATES:\nWhere am I going, do you know?\nDELPHIUM:\nI know.\nCALLIDAMATES:\nIt has just come into my head:\nwhy, of course I’m going home for a booze.\nDELPHIUM:\nWhy yes, really now I do remember that.\nPHILOLACHES:\nWon’t you let me go to find them, my life? Of all persons I wish well to him especially. I’ll return just now.\n(Goes forward towards the door.)"
+   },
+   {
+    "id": "c06",
+    "at": "15:32",
+    "text": "TRANIO:\nWhy the plague now do you ask me what you are about? Taking your place at table, of course.\nPHILOLACHES:\nDid you see him?\nTRANIO:\nI my own self, I tell you.\nPHILOLACHES:\nFor certain?\nTRANIO:\nFor certain, I tell you.\nPHILOLACHES:\nI’m undone, if you are telling the truth.\nTRANIO:\nWhat good could it be to me if I told a lie?\nPHILOLACHES:\nWhat shall I do now?"
+   },
+   {
+    "id": "c07",
+    "at": "16:34",
+    "text": "Ah me! I’m in a sweat with fear as to how these fine words are to end!\nTRANIO:\nCan you not be tranquil in your mind, and do as I bid you?\nPHILOLACHES:\nI can be.\nTRANIO:\nIn the first place of all, Philematium, do you go in-doors; and you, Delphium.\nDELPHIUM:\nWe’ll both be obedient to you.\n(They go into the house.)\nTRANIO:\nMay Jupiter grant it so! Now then, do you give attention as to what I’d have attended to.\nIn the first place, then, before anything, cause the house to be shut up at once. Take care and don’t let any one whisper a word indoors.\nPHILOLACHES:\nCare shall be taken.\nTRANIO:"
+   },
+   {
+    "id": "c08",
+    "at": "19:7",
+    "text": "Why so?\nTRANIO:\nBy heavens!’twas ill done.\nTHEUROPIDES:\nWhat is the matter?\nTRANIO:\nIt cannot be expressed, how shocking and dreadful a mischief you’ve been guilty of.\nTHEUROPIDES:\nHow so?\nTRANIO:\nTake to flight, I beseech you, and get away from the house. Fly in this direction, fly closer to me. (He runs to wards TRANIO.) What, did you touch the door?\nTHEUROPIDES:\nHow could I knock, if I didn’t touch it?\nTRANIO:\nBy all that’s holy, you’ve been the death—\nTHEUROPIDES:"
+   },
+   {
+    "id": "c09",
+    "at": "20:34",
+    "text": "Hush, hush!\n(He starts.)\nTHEUROPIDES:\nTroth now, what has happened, prithee?\nTRANIO:\nThe door made a noise.\nWas it he that was knocking?\nTHEUROPIDES:\n(turning pale.)\nI have not one drop of blood! Dead men are come to fetch me to Acheron, while alive!\nTRANIO:\n(aside.)\nI’m undone! those people there will mar my plot. (A noise is heard from within.) How much I dread, lest he should catch me in the fact.\nTHEUROPIDES:\nWhat are you talking about to yourself? (Goes near the door.)\nTRANIO:"
+   },
+   {
+    "id": "c10",
+    "at": "22:20",
+    "text": "TRANIO:\nWhy nothing. But tell me, prithee, did you really tell him?\nTHEUROPIDES:\nI told him everything in its order, I tell you.\nTRANIO:\nDoes he, then, confess about the guest?\nTHEUROPIDES:\nWhy no; he utterly denies it.\nTRANIO:\nDoes he deny it?\nTHEUROPIDES:\nDo you ask me again?\nI should tell you if he had confessed it. What now are you of opinion ought to be done?\nTRANIO:\nWhat is my opinion? By my troth, I beg of you, appoint an arbitrator together with him; but take you care that you appoint one who will believe me; you’ll overcome him as easily as a fox eats a pear.\nA BANKER:"
+   },
+   {
+    "id": "c11",
+    "at": "24:11",
+    "text": "TRANIO:\n(pretending to offer it him.)\nThen, take the principal.\nA BANKER:\n(aloud.)\nWhy no, the interest; I want that first.\nTRANIO:\nWhat? Have you, you fellow most foul of all fellows, come here to burst yourself? Do what lies in your power.\nHe’s not going to pay you; he doesn’t owe it.\nA BANKER:\nNot owe it?\nTRANIO:\nNot a tittle, indeed, can you get from here. Would you prefer for him to go abroad, and leave the city in exile, driven hence for your sake? Why then, in preference let him pay the principal.\nA BANKER:\nBut I don’t ask for it.\nTHEUROPIDES:"
+   },
+   {
+    "id": "c12",
+    "at": "26:1",
+    "text": "Your son has bought a house.\nTHEUROPIDES:\nA house?\nTRANIO:\nA house.\nTHEUROPIDES:\nBravo! Philolaches is taking after his father! The fellow now turns to merchandize.\nA house, say you?\nTRANIO:\nA house, I tell you. But do you know of what sort?\nTHEUROPIDES:\nHow can I know?\nTRANIO:\nOut with you!\nTHEUROPIDES:\nWhat’s the matter?"
+   },
+   {
+    "id": "c13",
+    "at": "27:23",
+    "text": "TRANIO:\nWhy yes, in a very good one.\nTHEUROPIDES:\nI’ faith, I should like to look over this house; just knock at the door, and call some one to you from within, Tranio.\nTRANIO:\n(aside.)\nWhy just look now, again I don’t know what I’m to say. Once more, now, are the surges bearing me upon the self-same rock. What now? I’ faith, I can’t discover what I am now to do; I’m caught in the fact.\nTHEUROPIDES:\nJust call some one out of doors;\nask him to show us round.\nTRANIO:\n(going to the door of SIMO’s house.)\nHallo there, you! (Turning round) But there are ladies here; we must first see whether they are willing or unwilling.\nTHEUROPIDES:\nYou say what’s good and proper; just make enquiry, and ask. I’ll wait here outside until you come out.\nTRANIO:"
+   },
+   {
+    "id": "c14",
+    "at": "29:45",
+    "text": "Won’t you hold your tongue? Everything has gone on prosperously with you hitherto.\nTRANIO:\nI don’t deny that it has been as you say; undoubtedly, we have lived heartily, just as we pleased; but, Simo, in such a way has the breeze now forsaken our ship—\nSIMO:\nWhat’s the matter? In what way?\nTRANIO:\nIn a most shocking way.\nSIMO:\nWhat, wasn’t it hauled ashore in safety?\nTRANIO:\nAh me!\nSIMO:\nWhat’s the matter?\nTRANIO:\nAh wretched me! I’m utterly undone!\nSIMO:"
+   },
+   {
+    "id": "c15",
+    "at": "32:0",
+    "text": "TRANIO:\nCome and look, and inspect it at your own pleasure.\nTHEUROPIDES:\nVery well, you go before me.\nTRANIO:\nAm I delaying to do so?\nTHEUROPIDES:\nI’ll follow after you.\nTRANIO:\n(as they advance.)\nLook, the old gentleman himself is awaiting you before the door, but he is concerned that he has sold this house.\nTHEUROPIDES:\nWhy so?\nTRANIO:\nHe begs me to persuade Philolaches to let him off.\nTHEUROPIDES:"
+   },
+   {
+    "id": "c16",
+    "at": "33:25",
+    "text": "(aside, whispering.)\nDon’t you hear— They were once? He seems hardly able to refrain from tears.\nTHEUROPIDES:\nAt what price did you purchase them?\nSIMO:\nI gave three minae for the two, besides the carriage.\n(He retires to some distance.)\nTHEUROPIDES:\n(after looking close at them, to TRANIO.)\nWhy, upon my word, they are much more unsound than I thought them at first.\nTRANIO:\nWhy so?\nTHEUROPIDES:\nBecause, i’ faith, the woodworm has split them both from the bottom.\nTRANIO:\nI think they were cut at an improper season; that fault damages them; but even as it is, they are quite good enough, if they are covered with pitch. But it was no foreign pulse-eating artisan did this work. Don’t you see the joints in the door? (Pointing.)"
+   },
+   {
+    "id": "c17",
+    "at": "35:14",
+    "text": "Servants who, though they are free from fault, still stand in awe of punishment, those same are wont to be serviceable to their masters.\nBut those who fear nothing, after they have merited punishment, hit upon foolish plans for themselves: they exercise themselves in running; they take to flight. But, if they are caught, they acquire from punishment a hoard, which by good means they cannot.\nThey increase from a very little, and from that they lay by a treasure. The resolution that’s in my mind is to be determined to be on my guard against punishment, before my back comes to lose its state of soundness. As hitherto it has been, so does it become my hide still to be, without a bruise, and such that I should decline its being beaten.\nIf I have any control over it, I shall keep it well covered up. When punishment is being showered down on others, don’t let it be showered down on me. But as servants wish their master to be, such is he wont to be. He is good to the good, bad to the bad. But now at our house at home there do live so many rogues, lavish of their property, bearers of stripes. When they are called to go fetch their master, I shan’t go; don’t be plaguing me; I know where you are hurrying off to, is the reply. Now, faith, you mule, you’re longing to go to pasturage out of doors. With better deserts, this advantage have I reaped from them, and, in consequence, I have come from home."
+   },
+   {
+    "id": "c18",
+    "at": "37:33",
+    "text": "THEUROPIDES:\nYou’ve saved the whole ship. Eighty minae, you say, are owing for it?\nTRANIO:\nNot a coin more.\nTHEUROPIDES:\nHe may have it to-day.\nTRANIO:\nBy all means so, that there may be no dispute arising; or else pay them over to me, I’ll then pay them over to him.\nTHEUROPIDES:\nBut still, don’t let there be any taking me in, if I do give them to you.\nTRANIO:\nCould I venture to deceive you in deed or word even in jest only?\nTHEUROPIDES:\nCould I venture not to be on my guard against you, so as not to trust anything to you?\nTRANIO:\nWhy, have I ever imposed upon you in anything, since I was your servant?"
+   },
+   {
+    "id": "c19",
+    "at": "39:21",
+    "text": "PHANISCUS:\nNo one lives there? O dear—\nTHEUROPIDES:\nIt’s the fact.\nPHANISCUS:\nReally! why, yesterday and the day before, four, five, six days ago, all along, in fact, since his father went abroad from here, eating and drinking have never ceased for a single three days here.\nTHEUROPIDES:\nWhat is it you say?\nPHANISCUS:\nThat eating and drinking have never stopped for a single three days here, bringing in wenches, living like Greeks, hiring harpists and music-girls.\nTHEUROPIDES:\nWho was it did this?\nPHANISCUS:\nPhilolaches.\nTHEUROPIDES:\nWhat Philolaches?"
+   },
+   {
+    "id": "c20",
+    "at": "41:17",
+    "text": "THEUROPIDES:\nWhat are you about?\nSIMO:\nI’m coming home from the Forum.\nTHEUROPIDES:\nHas anything new been going on at the Forum to-day?\nSIMO:\nWhy yes.\nTHEUROPIDES:\nWhat is it, pray?\nSIMO:\nI saw a dead man being carried to burial.\nTHEUROPIDES:\nDear me!\nthat is something new!\nSIMO:"
+   },
+   {
+    "id": "c21",
+    "at": "43:13",
+    "text": "I went that way (pointing) slily through the lane to our garden. At the entrance to the garden that’s in the lane, I opened the door; and by that road I led out all the troop, both men and women. After, from being in a state of siege, I had led out my troops to a place of safety, I adopted the plan of convoking a senate of my comrades, and when I had convoked it, they forthwith banished me from the senate. When I myself perceived that the matter must be decided by my own judgment, as soon as ever I could, I did the same as many others do, whose affairs are in a critical or a perplexed state; they proceed to render them more perplexed, so that nothing can be settled.\nBut I know full well, that now by no means can this be concealed from the old man.\nBut how’s this, that our next neighbour’s door makes a noise? Why, surely this is my master: I’d like to have a taste of his talk."
+   },
+   {
+    "id": "c22",
+    "at": "45:9",
+    "text": "THEUROPIDES:\nWhat then, if I go fetch some men?\nTRANIO:\nIt ought to have been done already;\nor else bid the young man to demand possession of the house.\nTHEUROPIDES:\nWhy no, I want to do this first—to put the servants under examination.\nTRANIO:\nI’ faith, I think it ought to be done.\nMeantime, I’ll take possession of this altar.\n(Runs to the altar.)\nTHEUROPIDES:\nWhy so?\nTRANIO:\nYou can understand nothing.\nWhy, that those may not be able to take refuge here whom he shall give up for examination, I’ll keep guard here for you; so that the examination may not come to nothing."
+   },
+   {
+    "id": "c23",
+    "at": "47:13",
+    "text": "Why are you silent?\nCALLIDAMATES:\n(to TRANIO.)\nBut why, you greatest of simpletons, have you taken refuge at the altar?\nTRANIO:\nHe frightened me on his arrival. (To THEUROPIDES.) Say now, what I have done amiss. Look, now there’s an umpire for us both; come, discuss the matter.\nTHEUROPIDES:\nI say that you have corrupted my son.\nTRANIO:\nOnly listen. I confess that he has done amiss; that he has given freedom to his mistress; that in your absence he has borrowed money at interest; that, I admit, is squandered away. Has he done anything different to what sons of the noblest families do?\nTHEUROPIDES:\nUpon my faith, I must be on my guard with you; you are too clever a pleader.\nCALLIDAMATES:\nJust let me be umpire in this matter. (TO TRANIO.) Get up; I’ll seat myself there.\nTHEUROPIDES:"
+   }
+  ]
+ },
+ {
+  "slug": "william-gerard-hamilton-poems-ad0994",
+  "title": "Poems",
+  "author": "William Gerard Hamilton",
+  "language": "English",
+  "genre": "Poetry",
+  "era": "18th Century",
+  "class": "poetic",
+  "n_windows": 34,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "ODE TO SLEEP.\nBY MR. H—.\nFRIEND to the gloomy shade of night!\nVast source of fanciful delight!\nPower! whose care-dissolving sway,\nThe slave that pants o'er Indian hills,\nThe wretch whom snow-girt Zembla chills,\nAnd wide creation's fertile race obey;\nThe joyous choristers that flit in air,\nThe mutes that dwell beneath the silver flood,\nThe savage howling o'er th' affrighted wood,\nAnd man, th' imperious lord of all, thy power declare.\nThy magic wand can oft restrain\nThe miser's sordid hopes of pain;\nCan make each heart-felt trouble cease:\nOr from the sickening thought suspend"
+   },
+   {
+    "id": "c01",
+    "at": "0:18",
+    "text": "The image of a dying friend;\nAnd lull Suspicion's wakeful eyes in peace.\nIf thou but soothe the faithful lover's rest,\nNo fond remembrance of each parting sigh.\nOf beauty's smile, or pity's streaming eye,\nIn grief's soft moments steal around his asking breast.\nFair virtue's friend! thou ne'er shalt shed\nThy blessings o'er the impious head,\nOr 'midst the noise of crowds be found;\nThy balm-distilling sweets alone\nTo ermin'd Innocence are known,\nAnd gay Content with rural garlands crown'd.\nBy thee the shadow-trembling murderer's guilt\nWith doubled terror wrings the tortur'd soul,\nThe purpled steel, the life-destructive bowl,\nRecall the baleful horrors of the blood he spilt."
+   },
+   {
+    "id": "c02",
+    "at": "0:36",
+    "text": "When by some pale and livid light\nI cheat the tedious hours of night,\nIndulging o'er the Attic page:\nThe dying taper warns to rest,\nThy visions seize my ravish'd breast,\nAnd pictur'd beauties real woes assuage.\nO'er Helicon my bleating lambs I guard,\nOr mix'd with dull Boeotia's simple swains\nProtect my flocks in humble Ascra's plains,\nAnd view the sky-born sisters hail their favourite bard.\nMethinks I hear the Theban lyre:\nI feel my ravish'd soul aspire:\nThe nymphs surround the infant boy.\nAlready conscious of his fame\nThe sestive choirs their hopes proclaim,\nWhile Pan exults with uncouth signs of joy;"
+   },
+   {
+    "id": "c03",
+    "at": "1:14",
+    "text": "The honeys of the tragic bee;\nWhose strains could every tempest quell,\nCould every noxious blast dispell,\nAnd still the hollow roaring of the sea.\nWhose powerful fancy, whose exhaustless vein,\nWhose daring genius, whose triumphant wing,\nDeep source from whence ten thousand rivers spring,\nJust bounds could limit, and each rigid rule restrain.\nHow oft inspir'd with magic dread,\nBy fancy to the cave I'm led\nWhere sits the wise Piérian sage;\nWith piercing eye, with pensive mind,\nIn attic solitude reclin'd,\nStern virtue's precepts chill the poet's rage.\nBlest bard! whose muse, mid mildest morals strong,\nCould each rebellious appetite controul,"
+   },
+   {
+    "id": "c04",
+    "at": "1:31",
+    "text": "Could wake each tender feeling of the soul,\nAnd deck instruction in the pleasing charms of song.\nWith patriot ardor I behold\nThe mirthful muse for freedom bold;\nTho' chaste, severe; tho' poignant, sweet;\nFor long uncertain where to rest,\nAt length upon the poet's breast\nThe sportive Graces fix'd their gay retreat.\nWith simpler strains the Doric muses charm,\nAnd oft to nobler themes of heavenly praise\nAs Lybia's poet hymns his solemn lays,\nThe wanton Teïan loves each chaster thought disarm.\nThus may thy languid charms dispense\nTheir blessings o'er my ravish'd sense\nBy thee to Attic worlds convey'd.\nThus if at Juno's fond request"
+   },
+   {
+    "id": "c05",
+    "at": "2:12",
+    "text": "The tenderest passions of the mind\nWith frugal hands dispense:\nFor faithless I can ne'er believe,\nThat rude untutor'd hearts perceive\nThe finer joys of sense.\nMark but the ruthless Indian's soul,\nWhich no ingenuous thoughts controul,\nWhere Pity never dwelt:\nBy Beauty, Fancy's loveliest child,\nMid lorn Savannahs waste and wild,\nWith human feelings melt!\nBehold the powerful charm assuage\nThe hoary lion's lawless rage:\nHe owns the wanton fire;\nAnd lordly roaming o'er the plain\nSingles the fairest of his train"
+   },
+   {
+    "id": "c06",
+    "at": "2:30",
+    "text": "To feed the loose desire!\nBut would'st thou feel a purer flame\nThan ev'n the warmest wish can frame,\nBy much too fine to cloy;\nFar, far beyond that aking breast,\nWith which the village-hind's opprest,\nWho idly terms it joy?\nHas heaven indulgent to thy make\nForm'd thee to every sense awake,\nBlithe hope, or frantic fear?\nCan human miseries steal a sigh,\nOr from thy soft consenting eye\nCan pity draw the tear?\nCanst thou with wild Othello glow\nIn all his maddening jealous woe,\nBy Love's dark doubts distrest?"
+   },
+   {
+    "id": "c07",
+    "at": "2:49",
+    "text": "With treacherous Jaffier dost thou feel\nTh' impending tortures of the wheel,\nThat wound his guilty breast?\nTell me, can Pindar's lofty strain,\nLuxuriant Fancy's fruitful vein,\nThe noblest thoughts infuse?\nSay, do you taste his generous fire,\nOr canst thou feelingly expire\nTo Sappho's plaintive muse?\nSee'st thou the warmth, the grace divine,\nThat breathes thro' mild Correggio's line,\nBy heaven's peculiar care:\nDoes Guido wrap thee in delight?\nCan Titian's colours charm thy sight?\nOr Julio's godlike air?\nSay, does thy heart with rapture spring,"
+   },
+   {
+    "id": "c08",
+    "at": "3:20",
+    "text": "A nobler flame impart?\nThe Muse in mild melodious lays\nInstruction's awful voice conveys,\nAnd each wild wish disarms:\nWhile picture's arts alone can trace\nEach soften'd line, each secret grace,\nAnd add to Beauty's charms.\nShould Hope her lenient aid refuse,\nTho' each disasterous day renews\nOne sadden'd scene of woe,\nFrom pleasing symphony of sound,\nWhen melting notes dissolve around,\nUnnumber'd raptures flow.\nMusic her sister arts may aid,\nAnd Poetry o'er light and shade\nReflect her mutual fire;"
+   },
+   {
+    "id": "c09",
+    "at": "3:39",
+    "text": "Meek suppliants all at Beauty's shrine\nIn one united there shall join\nThe Pencil, Muse, and Lyre.\nODE TO TASTE.\nBY THE SAME.\nSAY, Goddess, wilt thou never smile\nIndulgent on Britannia's isle!\nHither thy gentie footsteps bend,\nOn Albion's sea-girt cliffs descend;\nO come, and with thy genial ray\nChase every gloomy cloud away:\nNo more shall Ignorance preside,\nOr Gothic Rage in triumph ride.\nLet Judgment, thy unshaken friend,\nWith polish'd Elegance attend:\nSimplicity, meek rural queen,"
+   },
+   {
+    "id": "c10",
+    "at": "4:9",
+    "text": "Or animate his purer page.\nDo'st thou his savage wrath appease,\nEv'n Terror's giant-form can please;\n'Mid shadowy shapes in dead of night,\nThat shoot across my dazzled sight;\n'Mid spectres of enormous size,\n'Mid ghosts that from their charnels rise,\n'Mid shrouded friends who solemn stalk,\nAnd haunt me in my midnight walk;\nWhile wild winds blustering round my head,\nInspire me with poetic dread;\nThro' closing shades o'er valleys green,\nMay'st thou still solemnize the scene;\nAnd as the storms innoxious roll,\nPour thy lov'd horrors o'er my soul.\nYet not alone Britannia's shore"
+   },
+   {
+    "id": "c11",
+    "at": "4:25",
+    "text": "Thy fatal absence shall deplore.\nSee old Achaia's genius mourn,\nHis bosom bare, his garments torn;\nSee his generous patriot breast\nBy all his country's wrongs opprest.\nSee him with haughty fix'd disdain\nLament his dastard sons in vain!\nTo fairer happier climes belong\nThe painter's tints, the poet's song.\nLo! conscious of approaching night:\nWhere Picture wings her destin'd flight.\nBehold dejected Sculpture stand\nPrepar'd to leave our desart land.\nYet, Goddess, yet thy secret fire\nWith wondering rapture we admire.\nBy thee 'mid rugged rocks we find"
+   },
+   {
+    "id": "c12",
+    "at": "4:57",
+    "text": "And sink beneath the Vandal foe.\nOnce more the Arts began to spread;\nOnce more gay Science rear'd her head:\nAlas! in vain she strove t' assuage\nThe enthusiast zealot's bigot rage.\nWilt thou, O Taste, again appear,\nProtectress of each circling year!\nWilt thou in all thy wonted prime\nReview this lost unhallow'd clime;\nOr where far distant regions lie,\n'Mid dreary desarts bloom and die!\nSay, shall the stern Olympian god\nNo more in living marble nod!\nShall never Raphael charm the heart,\nShall never Nature yield to Art,\nShall never Maro's beauties shine,"
+   },
+   {
+    "id": "c13",
+    "at": "4:73",
+    "text": "Except in Armstrong's classic line!\nAnd does no Leo now remain,\nWho yet shall chear thy drooping train!\nThere are, who still thy aid implore,\nWho still thy sovereign power adore,\nThy relicts with religious fear\nFond Italy shall yet revere.\nSweet power, in simple pomp array'd\nBe all thy native charms display'd.\nAgain reviving Sculpture breathes;\nFair Science trims her blasted wreaths;\nWith suppliant willing hand to thee\nThe pencil Picture shall decree:\nWith one consent the Muse's choir\nTo thee shall dedicate the Lyre.\nCome, Goddess, feast my longing sight,"
+   },
+   {
+    "id": "c14",
+    "at": "5:9",
+    "text": "Let me direct thy pleasing flight;\nWhate'er voluptuous slaves could boast\nOn fair Phaeacia's sunny coast,\nWhate'er the poet's fancy taught,\nOr imag'd to his wanton thought:\nFor thee a happier fate remains;\nYou still shall view more blissful plains,\nWhere the soft guardian of thy charms\nExpects thee to his longing arms:\nHe shall with fixt attention gaze,\nShall crown thee with immortal bays,\nWith lenient hand thy cares assuage,\nProtect thee from Time's lawless rage,\nThe taunt of scorn, the dark revile,\nThe languid, faint-approving smile,\nThe noise of Mirth, the plaintive sigh,"
+   },
+   {
+    "id": "c15",
+    "at": "5:41",
+    "text": "Where Darkness holds her barren sway,\nWhere ne'er the Muse's chaplet blew,\nWhere Learning's laurel never grew;\nWhere Nature to our wondering eyes\nEach salutary herb supplies:\nWhere flowers their fragrant sweets diffuse,\nWhere trees distil their kindly dews;\nAnd blest with every power to heal,\nSoft slumbers o'er the senses steal.\nIn such enchanting, artless scenes,\n'Mid bowery mazes, spreading greens,\nSooth'd by the breezy western gale,\nIn scented grove, or rocky dale,\nOr wandering from the russet cot,\nTo seek the deep embosom'd grot,\nBeneath the orange shade inclos'd,"
+   },
+   {
+    "id": "c16",
+    "at": "5:57",
+    "text": "Or in the myrtle bower repos'd,\nOr where the flaunting flowers have wove\nWith mingled sweets the high alcove,\nEach Indian wooes his favourite mate;\nWhat Nature dictates they relate:\nNo youths by love's cold arts are won;\nNor maids by easy faith undone;\nWith eye up-rais'd the simple swain\nDreads not the tortures of disdain,\nBut, kneeling at his fair one's feet,\nBreathes vows unconscious of deceit:\nEach pleasing sound she sighs to hear\nRepeated on her longing ear;\nAmaz'd, nor anxious to controul\nThe mutual wishes of her soul,\nAttests each unknown power above,"
+   },
+   {
+    "id": "c17",
+    "at": "6:11",
+    "text": "His channels from a thousand hills,\nAnd with regardless rage destroys;\nWhile twenty mouths with hideous noise,\nFrom some immense Peruvian steep,\nSpout his vex'd billows to the deep.\nThus while you view the tyrant flood,\nWild dread shall chill thy loitering blood;\nAnd frighted Fancy, self-amaz'd,\nStart at the phantom she had rais'd.\nShould Nature's simple beauties fail,\nAnd Art's gay structures more prevail,\nHere too the polish'd dome is plac'd,\nWith each Vitruvian beauty grac'd:\nOr wouldst thou at the early dawn\nTransport thee to the dew-clad lawn;\nOr from the mid-day fervor rove"
+   },
+   {
+    "id": "c18",
+    "at": "6:27",
+    "text": "Beneath the silent plantane grove:\nOr with the fairy elves be seen\nIn dances on the level green:\nShould baleful War, 'mid loud alarms,\n'Mid vanquish'd foes, and conquering arms,\n'Mid hosts o'erthrown, and myriads slain,\nOn Britain fix his iron reign;\nShould Jove's fair daughter, oliv'd Peace,\nBid the wild battle's tumult cease;\nIn polish'd ease you still shall share\nThy kind protector's fostering care;\nHis faithful love shall still appear,\nHis friendly aid shall still be near,\nHis constant, his unweary'd power\nShall lull thee in the balmy bower;\nShall watch thee o'er the dewy glade,"
+   },
+   {
+    "id": "c19",
+    "at": "6:43",
+    "text": "And guard thee from the midnight shade.\nThou too shalt all his toils repay,\nSlow-lingering here with fond delay;\nHere shalt thou choose thy favourite seat,\nHere fix thy last, thy blest retreat;\nEach old Athenian bloom regain,\nAnd here in Attic splendor reign.\nODE TO THE Right Honourable the Lady ****, ON THE DEATH OF HER SON.\nBY THE SAME.\nWHILE you 'mid spring's gay months deplore,\nTill lessening Grief's exhausted store,\nBy Time subsiding fail;\nThe Muse, Affliction's constant friend,\nWith social woe shall still attend,\nIf aught her aid avail.\n'Tis hers in life's most ruffled scene"
+   },
+   {
+    "id": "c20",
+    "at": "7:25",
+    "text": "Of Sappho's love-sick soul.\nOn you propitious she bestows\nA mind too chaste for Sappho's woes,\nUnstain'd by wild desire;\nShe Sappho's charms in you supplies,\nTo me the partial power denies\nThe Lesbian's purer fire.\nDid bounteous heaven, profusely kind,\nTo frame the favourite infant mind\nIts fondest care employ;\nHow idle yet the hopes you raise\nIn planning of his future days,\nHow vain each fancy'd joy!\nHad Fate prolong'd th' uncertain flame,\nNor from the weak enfeebled frame\nHad life's fleet vision past;"
+   },
+   {
+    "id": "c21",
+    "at": "7:41",
+    "text": "Who knows but angry heaven had still\nWith every baleful bitter ill\nEach future day o'ercast!\nSince awful Prudence ne'er appears,\nTill calmer thoughts and milder years\nEach lawless wish assuage;\nA fruit unknown to summer's heat,\nThat buds alone in life's retreat,\nAnd only blooms in age.\n'Mid Solitude's sequester'd joy\nMay no rude cares thy peace destroy\nBy sure Remembrance brought:\nNor e'er from Grief's abundant source\nMay dark Reflection's secret force\nRecall one aching thought.\nOft as to each regardless wind"
+   },
+   {
+    "id": "c22",
+    "at": "8:17",
+    "text": "Shall whisper thro' the shade:\n\"Stranger, draw near! — To Sorrow true\n\" With me these lonesome walks review,\n\"Where Horror's charms invite;\n\" Daughter of Joy! — I know thy air!\n\"Retract thy hurry'd steps! — nor dare\n\" Profane each hallow'd rite!\n\"To mix with Mirth's mad train be thine:\n\" The dismal drearier task be mine\n\"'Mid these lorn scenes to weep!\n\" My days in these still bowers immur'd,\n\"By no false flattering hopes allur'd,\n\" Shall one sad tenor keep.\n\"Let Grief no more thy youth consume,\n\" Nor sighing o'er the silent tomb\n\"Thy piteous murmurs breathe."
+   },
+   {
+    "id": "c23",
+    "at": "8:33",
+    "text": "\" Reject the gloomy cypress bough,\n\"Each airy form to grace thy brow\n\" Shall twine the festive wreath.\n\"The Infant Shade, where-e'er you rove,\n\" Shall faithful to that sacred grove\n\"With sure return appear;\n\" Nor e'er his filial love shall cease,\n\"He still with soothing sounds of peace\n\" Shall charm thy listening ear.\n\"At morn, when deep sepulcral caves,\n\" When opening vaults, and yawning graves\n\"Their wandering dead recall;\n\" He ne'er shall quit that sainted place\n\"Till lingering in thy fond embrace\n\" The shadowy tear shall fall.\n\"May'st thou, 'mid Pleasure's sons rejoice,"
+   }
+  ]
+ },
+ {
+  "slug": "cicero-marcus-tullius-tusculan-disputations-3b9c3b",
+  "title": "Tusculan Disputations",
+  "author": "Cicero, Marcus Tullius",
+  "language": "Latin",
+  "genre": "Philosophy",
+  "era": "Hellenistic",
+  "class": "mixed",
+  "n_windows": 5,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "30:0",
+    "text": "20. But let us look at Hercules himself, who was broken by pain at the very time when by death itself he was seeking immortality. What words does he utter in Sophocles, in the Trachiniae! When Deianira had put upon him the tunic dyed with the Centaur's blood, and it had cleaved to his flesh, he says: \\\"O things grievous to tell, harsh to endure, / Which, drained out, I have borne in body and in soul! / Neither did Juno's relentless terror, / Nor sullen Eurystheus, bring me so much ill / As one frenzied woman, the child of Oeneus' birth. / She has snared me unawares in a robe of madness, / Which, clinging to my sides, rends my flesh with its bite / And, pressing hard, draws off the breath of my lungs: / Already it has sucked up all my discoloured blood. / Thus my body, consumed by horrible ruin, has wasted away; / I myself, fast bound, am slain by a woven plague. / This neither an enemy's hand, nor the Earth-born / Mass of the Giants, nor the Centaur with his double-formed onset / Inflicted upon my body, / No power of Greece, no barbarian savagery, / No fierce race banished to the ends of the earth, / Through all of which, ranging, I drove out every wildness — / But I, a man, am slain by a woman, by a woman's hand. / O son, lay true claim to this name for your father, / Let not a mother's love prevail over my death. / Snatch her hither to me, torn from those dutiful hands; / Now shall I see whether you hold her or me the dearer."
+   },
+   {
+    "id": "c01",
+    "at": "30:1",
+    "text": "21. Go on, dare, my son! weep over your father's torments, / Have pity: nations shall bewail our miseries. / Alas, that I should send forth a maiden's wailing from my mouth, / I whom no one ever saw groaning at any ill! / Effeminate, my virtue, struck down, perishes. / Come near, my son, stand by, look upon the piteous / Disembowelled body of your mangled father! / Behold, all of you, and you, Father of the heavenly ones, / Hurl, I beseech, upon me the flashing force of your thunderbolt! / Now, now the anguished crests of my pains torment me, / Now creeps the burning. O hands once victorious,\n22. O breasts, O back, O muscled brawn of my arms, / Was it by your crushing that once the Nemean lion, / Gnashing, breathed out heavily his last breath? / Did this right hand, with the foul she-serpent slain, / Pacify Lerna? Did this lay low the two-bodied band? / Did this cast down the Erymanthian, the ravaging beast? / Did this draw up from the dark Tartarean region / The three-headed dog, born of the Hydra's brood? / Did this slay, with its manifold coils, / The dragon that guarded with watchful eye the gold-bearing tree? / Many other things has our victorious hand visited, / Nor did anyone take spoils from our glories.\\\" Can we, then, despise pain, when we see Hercules himself grieving so beyond endurance?"
+   },
+   {
+    "id": "c02",
+    "at": "31:1",
+    "text": "23. Let Aeschylus come forward, who was not a poet only, but a Pythagorean too — for so we have been told. How, in him, does Prometheus bear the pain which he undergoes for the theft from Lemnos — \\\"whence fire is famed to have been secretly parcelled out to mortals; the cunning Prometheus stole it by guile, and paid the penalties to Jove by supreme decree\\\"? Paying these penalties, then, fastened to the Caucasus, he says this: \\\"Offspring of the Titans, sharers of our blood, / Begotten of Heaven, behold me bound to the rugged / And fettering rocks, as on a roaring strait / Timid sailors, fearing the night, make fast their ship. / Thus has Saturnian Jupiter fixed me, / And the will of Jove enlisted the hands of Mulciber. / These wedges, driving them in by cruel craft, / He drove through my limbs; whereby, wretched, by such skill / Transfixed, I dwell in this fortress of the Furies."
+   },
+   {
+    "id": "c03",
+    "at": "31:2",
+    "text": "24. Now too, on this third dread day, / With grim swoop, tearing me with his hooked talons, / Jove's minion mangles me with savage feeding. / Then, glutted and sated to the full on my rich liver, / He pours forth a vast cry and, soaring on high, / With feathered tail he fawns upon my blood. / But when the gnawed liver is renewed by swelling, / Then again, greedy, he betakes himself to his foul repasts. / Thus I feed this guardian of my mournful torment, / Which fouls me, living, with unending misery. / For, as you see, fettered by Jove's chains, / I cannot keep the dread bird from my breast.\n25. Thus, bereft, I myself receive these anxious plagues, / Seeking in love of death an end to my ill; / But far from death I am driven back by the will of Jove, / And this ancient, doom-laden calamity, heaped up through ages of horror, / Is fixed upon my body; / From which there fall drops melted by the sun's heat, / Which drip without ceasing upon the rocks of Caucasus.\\\" We seem, then, scarcely able to say that a man so afflicted is not wretched — and, if now wretched, then surely pain is an evil. — You are still pleading my case; but this I shall see to presently;"
+   },
+   {
+    "id": "c04",
+    "at": "48:0",
+    "text": "29. This forethought, then, of future evils softens their coming, when you have seen them coming long before. And so among Euripides the words spoken by Theseus are praised; for it is permitted, as we often do, to turn them into Latin: \\\"For I, remembering what I had heard from a learned man, used to ponder with myself the miseries to come: either bitter death, or the sad flight of exile, or some weight of ill I ever pondered, that, if some calamity should chance to be brought in, no sudden care might rend me unprepared.\\\"\n67. that we have already said above: that a contraction of the mind can never rightly come about, but an elation can. For in one way that Naevian Hector rejoices: \\\"I am glad to be praised by you, father, by a praised man\\\"; in another way that man in Trabea: \\\"The bawd, soothed by silver, will watch my nod — what I wish, what I am bent on. Coming up, I shall push the door with my finger; the gates will open. When Chrysis catches sight of me unawares, eager she will come to meet me, longing for my embrace, will give herself to me. How beautiful she thinks this, he himself will now say: I shall outstrip Fortune herself by my fortunes.\\\""
+   }
+  ]
+ },
+ {
+  "slug": "suetonius-tiberius-6262d9",
+  "title": "Tiberius",
+  "author": "Suetonius",
+  "language": "Latin",
+  "genre": "Classics",
+  "era": "Imperial",
+  "class": "mixed",
+  "n_windows": 3,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "17:0",
+    "text": "He was besides guilty of many barbarous actions, under the pretence of strictness\nand reformation of manners, but more to gratify his own savage disposition. Some\nverses were published, which displayed the present calamities of his reign, and\nanticipated the future.\nAsper et immitis, breviter vis omnia dicam?\nDispeream si te mater amare potest.\nNon es eques, quare? non sunt tibi millia centum?\nOmnia si quaras, et Rhodos exsilium est.\nAurea mutasti Saturni saecula, Caesar:\nIncolumi nam te, ferrea semper erunt.\nFastidit vinum, quia jam sitit iste cruorem:\nTam bibit hunc avide, quam bibit ante merum.\nAdspice felicem sibi, non tibi, Romule, Sullam:\nEt Marium, si vis, adspice, sed reducem.\nNec non Antoni civilia bella moventis\nNec semel infectas adspice cada manus,"
+   },
+   {
+    "id": "c01",
+    "at": "17:16",
+    "text": "Et dic, Roma perit: regnabit sanguine multo,\nAd regnum quisquis venit ab exsilio.\nObdurate wretch! too fierce, too fell to move\nThe least kind yearnings of a mother's love!\nNo knight thou art, as having no estate;\nLong suffered'st thou in Rhodes\nan exile's fate,\nNo more the happy Golden Age we see;\nThe Iron's come, and sure to last with thee.\nInstead of wine he thirsted for before,\nHe wallows now in floods of human gore.\nReflect, ye Romans, on the dreadful times,\nMade such by Marius, and by Sylla's crimes.\nReflect how Antony's ambitious rage\nTwice scar'd with horror a distracted age.\nAnd say, Alas! Rome 's blood in"
+   },
+   {
+    "id": "c02",
+    "at": "17:32",
+    "text": "streams will flow,\nRectique cultus pectora roborant:\nUtcumque defecere mores,\nDedecorant bene nata culpae.\nYet sage instructions to refine the soul\nAnd raise the genius, wondrous aid impart,\nConveying inward, as they purely roll,\nStrength to the mind and vigour to the heart:\nWhen mortals fail, the stains of vice disgrace\nThe fairest honours of the noblest race."
+   }
+  ]
+ },
+ {
+  "slug": "plato-lesser-hippias-4e5df1",
+  "title": "Lesser Hippias",
+  "author": "Plato",
+  "language": "Greek",
+  "genre": "Classics",
+  "era": "Classical",
+  "class": "mixed",
+  "n_windows": 1,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "2:0",
+    "text": "Zeus-born son of Laertes, wily Odysseus, I must speak out the word without refraining, as I shall act and think will be accomplished. For hateful to me as the gates of Hades is he who hides one thing in his heart and says another. But I shall speak that which shall be accomplished. In these lines he makes plain the character of each of the men, that Achilles is true and simple, and Odysseus wily and false for he represents Achilles as saying these lines to Odysseus."
+   }
+  ]
+ },
+ {
+  "slug": "francis-amasa-walker-the-wages-question-b128f3",
+  "title": "The Wages Question",
+  "author": "Francis Amasa Walker",
+  "language": "English",
+  "genre": "Economics",
+  "era": "19th Century",
+  "class": "mixed",
+  "n_windows": 1,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "18:0",
+    "text": "\"Upon one pair of English legs did march three Frenchmen.\"\n\"From the rising of the lark to the lodging of the lamb,\""
+   }
+  ]
+ }
+]

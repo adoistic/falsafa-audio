@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "unknown-manusmrti-347b76",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "vedic recitation, tanpura drone, low male chant with distant chorus, very slow, austere, cosmic",
+        "why": "The sages approach Manu and he answers with the world before the world: 'darkness, unperceived, as if wholly asleep on all sides'."
+      },
+      {
+        "id": "c08",
+        "style": "sanskrit didactic chant, tanpura, hand cymbals, clear male voice, measured, steady, aphoristic",
+        "why": "'A sacrifice perishes through falsehood; tapas perishes through pride' — and dharma accumulated slowly, as termites build an anthill."
+      },
+      {
+        "id": "c23",
+        "style": "upanishadic chant, deep drone, sparse bell, grave male voice, slow, inward, spacious",
+        "why": "The triple staff of speech, mind and body, and the knower of the field distinguished from the doer — the metaphysical close of the book."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-truculentus-ebcfdf",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman comic monologue, tibia double pipe, lyre, rueful tenor, moderate, worldly, mock-tragic",
+        "why": "A whole life is not enough for a lover to learn how many ways he can be ruined — one voice, one theme, complete."
+      },
+      {
+        "id": "c10",
+        "style": "latin comic aria, aulos, hand drum, knowing alto, brisk, conspiratorial, direct to the audience",
+        "why": "Phronesium explains her faked childbirth straight to the crowd — 'to a female it is a much less burden to do bad than good'."
+      }
+    ]
+  },
+  {
+    "slug": "john-brown-poems-2f91fc",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "baroque sacred oratorio, harpsichord, strings, timpani, dramatic tenor with full chorus, handelian, building to a blaze",
+        "why": "Chaos, clashing atoms, then 'Let there be light!' and the sun flaming from his orient bed — written to be sung and knows it."
+      },
+      {
+        "id": "c00",
+        "style": "oratorio opening, low strings, thundering timpani, chorus of furies, ominous, accelerating",
+        "why": "'Vengeance, arise from thy infernal bed' — a curse, an unchaining of Furies, and a king possessed; a real dramatic opening."
+      },
+      {
+        "id": "c06",
+        "style": "consolatory anthem, harp, chamber organ, treble voices with soft chorus, slow, radiant, healing",
+        "why": "'Angels, heal his anguish! Your harps and voices join!' — short lines, refrain shape, pure hymn material."
+      }
+    ]
+  },
+  {
+    "slug": "john-trumbull-poems-e451f6",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "colonial american elegy, viola da gamba, acoustic guitar, plaintive tenor, slow, moonlit, tidal",
+        "why": "Night on the sea-beat shore, the broad moon through broken clouds, anchored navies lifting their shrouds — genuine lyric weather."
+      },
+      {
+        "id": "c21",
+        "style": "comic patter song, harpsichord, fiddle, arch soprano, brisk, coy, tart",
+        "why": "The belle fishing for compliments and closing on 'You're only joking, Mr. Brainless' — a perfect small comic scene in one voice."
+      },
+      {
+        "id": "c10",
+        "style": "18th century satirical air, oboe, fiddle, jaunty baritone, brisk, strutting",
+        "why": "'The modish hat, whose breadth contains / The measure of its owner's brains' — the whole beau assembled item by item."
+      }
+    ]
+  },
+  {
+    "slug": "herodotus-the-histories-ecffbd",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "delphic oracle chant, aulos, deep drone, breathy female voice answered by low male chorus, slow, uncanny",
+        "why": "'I know the number of the grains of sand and the extent of the sea' — the tortoise boiling in bronze; the most famous oracle in the book."
+      },
+      {
+        "id": "c08",
+        "style": "spartan war elegy, bowed lyre, single war drum, stark male chorus, very slow, grave, stone-cold",
+        "why": "Either Sparta wasted or a king of Heracles' line dead — closing on 'go tell the Spartans that we lie here obedient to their commands'."
+      },
+      {
+        "id": "c06",
+        "style": "apocalyptic oracle, wailing aulos, low drone, keening female voice, unsettled, gathering dread",
+        "why": "'Wretches, why do you linger here?' — the body dismembered limb by limb, roofs running with gore; terrifying and rhythmically relentless."
+      }
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-alexander-93c65b",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "mock-oracular chant, aulos, tambourine, theatrical male voice with heavy reverb, ceremonial, faintly absurd",
+        "why": "The new god introducing himself — 'Glycon my name, man's light, son's son to Zeus' — pomp with the fraud audible underneath."
+      },
+      {
+        "id": "c01",
+        "style": "hieratic incantation, plucked lyre, small cymbals, incense-hazed male voice, slow, portentous",
+        "why": "'First thou wast Peleus' son, and next Menander; then thine own self; next, a sunbeam shalt be' — transmigration as sales pitch."
+      }
+    ]
+  },
+  {
+    "slug": "john-stuart-mill-a-system-of-logic-ratiocinative--879415",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "mock-scholastic latin chorus, chamber organ, plucked strings, deadpan male voices in unison, moderate, wry, ceremonial",
+        "why": "Virgil's returning golden age beside Molière's doctors solemnly explaining that opium sends you to sleep by its dormitive virtue."
+      }
+    ]
+  },
+  {
+    "slug": "scriptores-historiae-aug-de-vita-hadriani-5fbb9f",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "late roman lament, solo lyre, one fragile tenor, very slow, hushed, valedictory, almost unaccompanied",
+        "why": "Hadrian's dying address to his own soul — five short lines, complete, and among the most quoted in Latin."
+      }
+    ]
+  }
+]

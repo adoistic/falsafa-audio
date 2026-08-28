@@ -1,0 +1,137 @@
+[
+ {
+  "slug": "claudian-de-raptu-proserpinae-0a159e",
+  "picks": [
+   {
+    "id": "c04",
+    "style": "late antique latin epithalamium, lyre and reed pipes, low male chorus under a high solo voice, torchlit processional, stately, uncanny",
+    "why": "The wedding hymn sung by the dead under Pluto's roof — a complete, self-contained marriage blessing in the underworld."
+   },
+   {
+    "id": "c02",
+    "style": "latin pastoral hymn, panpipes, harp, kithara, bright female voice with soft choir, unhurried, flowering, building",
+    "why": "Zephyrus' prayer and the flower-gathering in Henna: pure sensory spring, with Hyacinthus and Narcissus woven in as omens."
+   },
+   {
+    "id": "c00",
+    "style": "orphic invocation, solo lyre, sustained drone, warm baritone, slow, spellbound, gathering",
+    "why": "Orpheus lays down his lyre and nature turns savage again; when he takes it up, wolves lie down with lambs — the poem's own myth of song."
+   }
+  ]
+ },
+ {
+  "slug": "euripides-electra-04bbb9",
+  "picks": [
+   {
+    "id": "c02",
+    "style": "greek tragic monody, aulos, frame drum, keening female voice, rubato, funereal, raw",
+    "why": "Electra's night-lament for her father — repetition, self-wounding, and a direct address to the dead: built to be wailed."
+   },
+   {
+    "id": "c21",
+    "style": "ancient tragic chorus, low drums, aulos drone, layered voices, dark, inexorable, slow build",
+    "why": "The matricide heard from offstage, the chorus turning it into judgment: no house more pitiable than the race of Tantalus."
+   },
+   {
+    "id": "c16",
+    "style": "greek victory ode, kithara, lyre, hand drum, layered female chorus, dancing, celebratory with an undertow",
+    "why": "The garlanding of Orestes — a genuine victory ode with dance, crown, and shout, before the horror lands."
+   }
+  ]
+ },
+ {
+  "slug": "charles-churchill-poems-f35dae",
+  "picks": [
+   {
+    "id": "c21",
+    "style": "georgian satirical ballad, harpsichord, cello, plucked strings, wry baritone, brisk, declamatory",
+    "why": "The sermon of Prudence — keep up appearances, sin in secret, vice is virtue when well concealed. Perfectly quotable hypocrisy."
+   },
+   {
+    "id": "c06",
+    "style": "grim georgian broadside ballad, fiddle, snare drum, stern male voice, marching tempo, bitter",
+    "why": "Empire indicted in couplets: she explains the worth of freedom while loading their necks with chains."
+   },
+   {
+    "id": "c05",
+    "style": "18th century english declamatory air, chamber organ, viola da gamba, insistent tenor, measured, accusatory",
+    "why": "The hammering anaphora of 'Think' — a whole argument driven by one repeated imperative."
+   }
+  ]
+ },
+ {
+  "slug": "john-hoadly-poems-2a6e4f",
+  "picks": [
+   {
+    "id": "c18",
+    "style": "georgian pastoral ballad, baroque strings, harpsichord continuo, clear soprano, lilting, plaintive",
+    "why": "Colin as breeze, as flower, as stream — a whole ballad of comparisons with its own built-in refrain."
+   },
+   {
+    "id": "c16",
+    "style": "english drawing-room song, lute and viol, light tenor, gentle, teasing, chamber",
+    "why": "A neat, complete conceit: worshipping Chloe's likeness in another woman — idol-worship, have mercy on me."
+   },
+   {
+    "id": "c21",
+    "style": "english pastoral hymn, chamber organ, viol consort, warm tenor, unhurried, domestic, contented",
+    "why": "The country parson's household in Spenserian stanzas — two roses on one stalk, and seasons that change without changing them."
+   }
+  ]
+ },
+ {
+  "slug": "robert-burns-poems-a27207",
+  "picks": [
+   {
+    "id": "c23",
+    "style": "scots folk song, fiddle, small pipes, guitar, warm male voice with a lilt, walking pace, open air",
+    "why": "Now Westlin Winds: the evening walk with Peggy, internal rhyme throughout, already half a song on the page."
+   },
+   {
+    "id": "c16",
+    "style": "scots lament ballad, solo fiddle, bodhran, grave male voice, slow, refrain-driven",
+    "why": "Man was made to mourn — a true recurring refrain, the most singable structure in the whole set."
+   },
+   {
+    "id": "c07",
+    "style": "scots tavern ballad, fiddle and cittern, buoyant baritone, brisk, wry, defiant",
+    "why": "Fate snapping the brittle thread, then the turn: this life is a' enchanted fairy-land, heave care o'er-side."
+   }
+  ]
+ },
+ {
+  "slug": "parthenius-of-nicaea-narrationes-amatoriae-ba182d",
+  "picks": [
+   {
+    "id": "c00",
+    "style": "hellenistic elegy, low aulos, kithara, layered female voices, sparse, mournful, slow",
+    "why": "Byblis weeping more thickly than the nightingales' brood, then the headband on the oak — a compact, devastating arc."
+   },
+   {
+    "id": "c04",
+    "style": "greek narrative lament, plain male voice over lyre and hand drum, austere, cold, inevitable",
+    "why": "The girl who opened her city's gates for Achilles and got a wedding of stones — a whole tragedy in fifteen lines."
+   }
+  ]
+ },
+ {
+  "slug": "thomas-hodgskin-a-lecture-on-free-trade-in-conne-ebb361",
+  "picks": [
+   {
+    "id": "c00",
+    "style": "georgian hymn tune, chamber organ, string quartet, earnest male choir, measured, hopeful, congregational",
+    "why": "Trade as the golden girdle of the globe — the one passage here that is verse rather than lecture, and it sings like a hymn."
+   }
+  ]
+ },
+ {
+  "slug": "david-hume-the-natural-history-of-religion-5e0aa3",
+  "picks": [
+   {
+    "id": "c00",
+    "style": "solemn enlightenment art song, fortepiano, cello, dark baritone, sparse, unsettled, slow",
+    "why": "The gods toss all life into confusion and mix everything with its reverse — a single unnerving sentence about worship born of ignorance."
+   }
+  ]
+ }
+]

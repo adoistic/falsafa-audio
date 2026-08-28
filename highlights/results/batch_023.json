@@ -1,0 +1,131 @@
+[
+  {
+    "slug": "ausonius-decimus-magnus-parentalia-89f869",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "late antique funeral rite, unaccompanied male voice over a low drone, slow, ceremonial, name-calling cadence",
+        "why": "'The buried ashes rejoice to have their own names spoken' — the whole argument for a book of the dead, in one breath."
+      },
+      {
+        "id": "c06",
+        "style": "latin lament, solo viol and low drone, aching baritone, very slow, bare, unresolved",
+        "why": "Thirty-six years a widower: the silent house, the cold bed, and every other wife a torment whether good or bad."
+      },
+      {
+        "id": "c07",
+        "style": "pastoral dirge, single shepherd's pipe and low strings, quiet tenor, halting, tender, broken off",
+        "why": "The grandson named Pastor, killed by a tile from a roof — 'that tile, hurled, sought my own head'."
+      }
+    ]
+  },
+  {
+    "slug": "sidonius-apollinaris-carmina-0bc4da",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "late roman hymnic processional, lyre and reed pipes with light percussion, layered voices, ceremonial, festive, building",
+        "why": "The gods competing in song for the new Jove — 'with songs, with reeds, with thumb, with voice, with foot'."
+      },
+      {
+        "id": "c19",
+        "style": "bacchic triumphal procession, frame drums, cymbals and double pipes, ecstatic massed voices, driving, intoxicated",
+        "why": "Horned Ganges led in chains while the vine that binds him sprouts leaves along his wet arms."
+      },
+      {
+        "id": "c15",
+        "style": "late antique sea idyll, harp and soft flutes, shimmering female voice, languid, glittering, slow swell",
+        "why": "Triton carrying Venus through the water while Galatea plucks his side and promises a marriage in secret."
+      }
+    ]
+  },
+  {
+    "slug": "john-dennis-poems-91d70a",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "baroque victory anthem, massed choir with organ and trumpets, majestic, thunderous, processional",
+        "why": "'Up, rouze your selves, ye Nations' — the poem opens by demanding to be sung, which settles it."
+      },
+      {
+        "id": "c06",
+        "style": "english blank-verse elegy, low strings and solo horn, sombre baritone, slow, wind-swept",
+        "why": "'The Tempest saw their Strength, and sigh'd, and past them by' — the one line here worth a whole song."
+      },
+      {
+        "id": "c10",
+        "style": "infernal recitative, dark brass and timpani, growling bass, brooding, defiant, ominous",
+        "why": "Satan in council: 'we fought, ye Stygian Gods, we fought' — Miltonic and genuinely stormy."
+      }
+    ]
+  },
+  {
+    "slug": "isabella-kelly-poems-dc1cc7",
+    "picks": [
+      {
+        "id": "c07",
+        "style": "georgian cradle song, harp and soft strings, tender soprano, gentle rocking, hopeful beneath grief",
+        "why": "A song to an unborn child while its father sits in prison — 'emblem of the rose unblown'. Trochaic and singable."
+      },
+      {
+        "id": "c09",
+        "style": "english ballad lament, fiddle and guitar, plain female voice, anapaestic sway, resigned, wounded",
+        "why": "'Though I die, may thy pleasure increase! Thy Mary will never repine' — a wronged wife's farewell in clean ballad stanzas."
+      },
+      {
+        "id": "c12",
+        "style": "mourning parlour song, piano and cello, low female voice, slow, intimate, breaking",
+        "why": "The mother asking her dead child to visit her in dreams and bring word of when they will meet."
+      }
+    ]
+  },
+  {
+    "slug": "aristophanes-frogs-e995cc",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "comic ritual chant, croaking layered male voices over frame drum and reed pipe, insistent, looping refrain, marshy",
+        "why": "Brekekekex koax koax — the most famous refrain in Greek comedy, already built as a song."
+      },
+      {
+        "id": "c03",
+        "style": "torchlight processional hymn, double aulos, cymbals and massed voices, ecstatic, quickening, radiant",
+        "why": "'The meadow shines with flame; the old men's knees leap up; they shake off their griefs' — a real initiation hymn."
+      },
+      {
+        "id": "c07",
+        "style": "greek festival dance-song, lyre and hand drums, mixed voices with call-and-response refrain, lilting, mischievous, warm",
+        "why": "'Iacchus, lover of the dance, escort me' three times over, with the glimpsed girl and the all-night vigil."
+      }
+    ]
+  },
+  {
+    "slug": "kaiten-nukariya-the-religion-of-the-samurai-a-st-193778",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "zen chant-song, shakuhachi and koto, spare male voice, slow, wandering, unadorned",
+        "why": "The ox-herding stanzas — the empty cries of cicadas, the deep grove, the tracks, the cord about to snap."
+      },
+      {
+        "id": "c01",
+        "style": "zen folk verse, solo shakuhachi and light hand drum, warm quiet voice, gentle, settled, resolved",
+        "why": "The other half of the sequence and a complete quatrain on its own: the wild cow tamed, following like a shadow."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-de-virtute-morali-b040b3",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "greek symposium song, lyre over a low drone, wry male voice, measured, ironic, brooding",
+        "why": "Only candidate; 'we know those virtues, which we ne'er pursue' and the anchor dragging on loose ground both land."
+      }
+    ]
+  },
+  {
+    "slug": "henri-bergson-laughter-an-essay-on-the-meaning-4ca582",
+    "picks": []
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "slug": "euripides-alcestis-eea592",
+    "picks": [
+      {"id": "c05", "style": "greek tragic lament, solo female voice, aulos, low drone, keening, faltering, slow", "why": "Alcestis dying mid-sentence into the dark, telling her children to live on beneath the light."},
+      {"id": "c12", "style": "ancient pastoral hymn, lyre and shepherd's pipe, bright male chorus, flowing, radiant", "why": "Apollo piping to the flocks while lynxes and fawns come to listen — a complete, luminous image."},
+      {"id": "c19", "style": "ancient chorus, kithara, hand drum, layered voices, austere, hypnotic, building", "why": "The ode to Necessity: nothing stronger, no Orphic spell, no herb of Phoebus can move her."}
+    ]
+  },
+  {
+    "slug": "marcus-valerius-martiali-epigrams-998913",
+    "picks": [
+      {"id": "c03", "style": "roman tavern song, cithara and tibia, wry baritone, brisk, sardonic", "why": "The perfect two-line epigrams — what my farm yields me is that I do not see you, Linus."},
+      {"id": "c06", "style": "latin epithalamium, lyre and flutes, warm mixed voices, tender, flowing", "why": "Cinnamon with nard, elm with vine, lotus with water — a marriage blessing built out of pairings."},
+      {"id": "c14", "style": "roman memento mori, solo lyre, dark tenor, spare, slow, biting", "why": "Snatch, heap up, carry off, possess: it must be left behind — the whole satire in one line."}
+    ]
+  },
+  {
+    "slug": "george-lyttelton-poems-87ff65",
+    "picks": [
+      {"id": "c15", "style": "georgian ballad, fortepiano and cello, clear tenor, gentle, expectant", "why": "Ballad-metre song of waiting out the last hours before a reunion — already shaped for singing."},
+      {"id": "c16", "style": "english pastoral elegy, acoustic guitar and strings, warm baritone, unhurried, wistful", "why": "Spring returns for everyone else; the linnets and flowers are joyless because Delia is not there."},
+      {"id": "c23", "style": "elegiac chamber song, viola and piano, mourning baritone, slow, hushed", "why": "The widower's grief turning on his books, where every favourite author now speaks of Lucy dead."}
+    ]
+  },
+  {
+    "slug": "john-cunningham-poems-510f71",
+    "picks": [
+      {"id": "c11", "style": "english pastoral air, acoustic guitar and recorder, soft tenor, unhurried, evening light", "why": "Evening in short trochaics: the ploughman's giant shadow and windows burnished by the setting sun."},
+      {"id": "c13", "style": "folk ballad with refrain, fiddle and pipe, bright female vocal, lilting, springlike", "why": "Every stanza turns on the refrain that May is the mother of Love — a song already built."},
+      {"id": "c20", "style": "country dance ballad, fiddle and tabor, warm male voice, jaunty, anapestic swing", "why": "The shepherdess's answer — I've rich ones rejected, and great ones deny'd, but take me — lands cleanly."}
+    ]
+  },
+  {
+    "slug": "francis-fawkes-poems-cae374",
+    "picks": [
+      {"id": "c08", "style": "english ode, chamber strings and oboe, serene tenor, autumnal, slow, luminous", "why": "Forests of vegetable gold and the Sabbath of the year — the finest image in the poet's work."},
+      {"id": "c04", "style": "comic georgian glee, harpsichord and strings, blustery baritone, brisk, satirical", "why": "The country vicar's flight from the burning town, ending on beef, liberty, and safety be my lot."}
+    ]
+  },
+  {
+    "slug": "pliny-the-elder-naturalis-historia-631445",
+    "picks": [
+      {"id": "c00", "style": "latin votive inscription chant, lyre, solemn male voice, spare, measured", "why": "Least-bad of two prose windows; it carries the verse inscription on Cicero's grove and its healing springs."}
+    ]
+  },
+  {
+    "slug": "james-harrington-the-oceana-and-other-works-f53808",
+    "picks": [
+      {"id": "c00", "style": "processional psalm, low male chorus, drum and low brass, martial, solemn, resolute", "why": "Only candidate; the ark-cry — rise up Lord, let thy enemies be scattered — is a real singable line."}
+    ]
+  },
+  {
+    "slug": "cicero-marcus-tullius-in-l-calpurnium-pisonem-15572e",
+    "picks": [
+      {"id": "c00", "style": "roman tragic fragment, bowed drone and low strings, dark bass voice, slow, ominous", "why": "Only candidate; three lines of tragic verse with one vivid image of bleeding limbs on the rocks."}
+    ]
+  }
+]

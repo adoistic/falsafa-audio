@@ -1,0 +1,61 @@
+[
+ {
+  "slug": "euripides-hecuba-95a658",
+  "picks": [
+   {"id": "c08", "style": "ancient greek chorus, lyre, aulos, layered female voices, sea-swaying, mournful, drifting", "why": "The captive women's ode to the sea-breeze — where will you carry me? — running through Phthia, Delos and Athena's saffron robe. Pure lyric, no dialogue."},
+   {"id": "c16", "style": "tragic chorus, frame drum, aulos, low female voices, slow, ashen, building", "why": "The night Troy fell, told from inside the bridal chamber with the spear still hanging on its peg."},
+   {"id": "c07", "style": "tragic duet, lyre and aulos, young female voice answered by an older one, very slow, tender, breaking", "why": "Polyxena's farewell — one last look at the sun, one last touch of her mother's cheek — answered line for line by Hecuba."}
+  ]
+ },
+ {
+  "slug": "aristophanes-clouds-d6b0b8",
+  "picks": [
+   {"id": "c16", "style": "attic pastoral ode, aulos and lyre, warm male voice, unhurried, sunlit, nostalgic", "why": "The old education: running under the sacred olives, crowned with white reeds, when the plane-tree whispers to the elm. The loveliest thing Aristophanes wrote."},
+   {"id": "c09", "style": "comic parabasis, aulos, hand drums, brash mixed chorus, striding, mock-solemn then jeering", "why": "A real hymn — Zeus, the trident-master, Aether, the sun — turning into the Clouds' complaint that the Moon left her path and the Sun drew in his wick over Cleon."},
+   {"id": "c05", "style": "greek comic hymn, double aulos, tambourine, bright chorus, festive, quick, satirical", "why": "The Clouds as goddesses of thought, argument, humbug, circumlocution and the ability to hoax — a joke shaped exactly like a hymn."}
+  ]
+ },
+ {
+  "slug": "sarah-fyge-egerton-poems-e1b5c5",
+  "picks": [
+   {"id": "c05", "style": "english baroque ascent aria, chamber organ, strings, soaring soprano, rising, ecstatic", "why": "Mount, mount, my soul on high — short driving lines climbing out of the world into the sacred magazine of light."},
+   {"id": "c00", "style": "declamatory georgian air, harpsichord and viols, fierce female voice, forceful, mid-tempo, indignant", "why": "The opening of The Female Advocate, answering a satire against women by accusing it of blasphemy. The poem she is remembered for."},
+   {"id": "c12", "style": "english lute song, solo lute, soft female voice, hushed, gentle, unhurried", "why": "Short-lined and secretive — love hidden in a silvan shade where only an echo will repeat it."}
+  ]
+ },
+ {
+  "slug": "john-langhorne-poems-115d60",
+  "picks": [
+   {"id": "c16", "style": "english folk ballad, acoustic guitar, low strings, plain female voice, slow, plain, refrain-led", "why": "Every stanza closes on Simplicity — an actual built-in refrain — carrying a whole village story of two lovers and one bell."},
+   {"id": "c01", "style": "georgian ode, flute and harpsichord, light tenor, flowing, riverine, wistful", "why": "The Eden's poplar trembling when the poet sighs, and the naiads burnishing their green locks in the sun."},
+   {"id": "c12", "style": "pastoral ballad, harp and viol, gentle alto, moderate, moralising, sweet", "why": "The myrtle's answer to the vain tulip — the violet will scent the air when you are in your dusty bed. Clean ballad quatrains."}
+  ]
+ },
+ {
+  "slug": "anthony-alsop-poems-821cca",
+  "picks": [
+   {"id": "c01", "style": "18th-century english air, harpsichord and viol, alternating tenor and soprano, courtly, lilting, gently teasing", "why": "Would you have me cease from loving? You must cease from being fair — a two-voice song already written as one."},
+   {"id": "c02", "style": "georgian duet, lute and chamber strings, two light voices, graceful, unhurried, wry", "why": "Ends on the perfect stalemate — let us each go on for ever, I to ask, and you deny."},
+   {"id": "c16", "style": "comic ballad, fiddle and harpsichord, droll narrator voice, brisk, anapestic swing", "why": "Jove's judgment closing the tale of Venus' stolen doves: they chose Chlorinda, and it is no crime to excel."}
+  ]
+ },
+ {
+  "slug": "ammianus-marcellinus-res-gestae-a447ef",
+  "picks": [
+   {"id": "c02", "style": "oracular chant, low drone, frame drum, single grave voice, slow, foreboding", "why": "A complete Sibylline oracle in verse — festal dancing, then hordes crossing the Danube and finding their end in Pannonia."},
+   {"id": "c00", "style": "hieratic solar litany, deep drone, sistrum and low drum, male voices in unison, slow, ceremonial, repetitive", "why": "The obelisk speaking for the Sun to Ramestes — heavy repetition and epithet, which is exactly what makes it chantable."}
+  ]
+ },
+ {
+  "slug": "plutarch-alcibiades-5a6a4a",
+  "picks": [
+   {"id": "c00", "style": "greek victory ode, lyre, aulos, male chorus, bright, triumphal, processional", "why": "Euripides' epinician for Alcibiades — first, second and third in the chariot race, and the olive of Zeus."}
+  ]
+ },
+ {
+  "slug": "lucian-of-samosata-verae-historiae-d83097",
+  "picks": [
+   {"id": "c00", "style": "mock-epic invocation, kithara, low drum, grand male voice, stately, deadpan, tongue-in-cheek", "why": "Three lines that are a whole poem: an invocation to the Muse, then Lucian coolly noting he saw the underworld and came home."}
+  ]
+ }
+]

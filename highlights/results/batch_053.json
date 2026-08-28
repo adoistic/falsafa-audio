@@ -1,0 +1,60 @@
+[
+  {
+    "slug": "mahabharata",
+    "picks": [
+      {"id": "c09", "style": "sanskrit apocalyptic recitation, tanpura drone and heavy mridangam, deep male voice, ominous, building", "why": "The portents before Kurukshetra — sun and moon eclipsed in one month, clouds raining blood, a rain of flesh at midnight."},
+      {"id": "c19", "style": "gentle sanskrit chant, tanpura and bamboo flute, warm male voice, slow, tender", "why": "The ascetic standing still as a tree-stump until sparrows nest and lay their eggs in his matted hair."},
+      {"id": "c16", "style": "sanskrit funeral lament, sarangi and low drone, keening female-led voices, slow, grieving", "why": "Kṛpī with unbound hair beside Droṇa's pyre, students heaping it with bows and spears while the Sāman is sung."}
+    ]
+  },
+  {
+    "slug": "euripides-bacchae-448fba",
+    "picks": [
+      {"id": "c02", "style": "ancient ecstatic chorus, frame drums and shrill aulos, layered female voices, accelerating, wild", "why": "The parodos itself: 'The plain flows with milk, it flows with wine, it flows with the nectar of bees.'"},
+      {"id": "c09", "style": "ritual call and response, deep drums and low horns, antiphonal voices, frenzied, thunderous", "why": "The palace miracle — 'Shake the world's plain, lady Earthquake!' — already written as call and response."},
+      {"id": "c18", "style": "tragic messenger lament, single aulos and low strings, stark solo voice, slow, harrowing", "why": "Pentheus throwing off the headband so his mother might know him — the most terrible recognition in Greek tragedy."}
+    ]
+  },
+  {
+    "slug": "ambrose-philips-poems-602222",
+    "picks": [
+      {"id": "c13", "style": "pastoral dirge with refrain, oboe and muted strings, plaintive tenor, slow, mournful", "why": "Built on repeated 'Teach me' lines and a returning refrain: 'Awake my Pipe; in ev'ry Note express fair Stella's Death.'"},
+      {"id": "c21", "style": "alternating shepherds' duet, recorder and lute, two light voices trading verses, lilting, courting", "why": "Amoebean couplets swapped between two singers — cowslip bank, murmuring brook, love kept secret."},
+      {"id": "c23", "style": "fairy pastoral, harp and soft flute, clear tenor, gentle, enchanted", "why": "Ends on the singer whose voice freed the eclipsed moon and brought the fairy queen tripping over the green in blue mantles."}
+    ]
+  },
+  {
+    "slug": "william-shenstone-poems-e4f343",
+    "picks": [
+      {"id": "c21", "style": "english tavern air, fiddle and cittern, hearty baritone, steady, convivial", "why": "'To thee, fair Freedom! I retire' — Shenstone's most quoted poem, four square stanzas made for singing at a table."},
+      {"id": "c04", "style": "pastoral folk ballad, acoustic guitar and fiddle, warm female vocal, unhurried, bright", "why": "Trochaic and already tuneful: the milkmaid singing over the brimming pail with cowslips springing around her."},
+      {"id": "c22", "style": "comic broadside ballad, banjo-like plucked strings and bodhran, wry male voice, brisk, deadpan", "why": "A complete joke with a punchline — Richard asks advice, is warned off, marries her, and tells her what Thomas said."}
+    ]
+  },
+  {
+    "slug": "aristophanes-lysistrata-835f72",
+    "picks": [
+      {"id": "c07", "style": "greek festival dance, double pipes and clashing cymbals, massed voices with cries, fast, jubilant", "why": "The closing hymn — Spartan girls like fillies kicking dust beside the Eurotas, hair tossing, feet beating."},
+      {"id": "c03", "style": "urgent women's chorus, hand drums and reed pipe, quick female voices, running tempo, breathless", "why": "The water-carrying chorus racing the fire, with the fountain, the jostling, and the prayer to Tritogeneia."},
+      {"id": "c05", "style": "comic antiphonal chorus, plucked lyre and clappers, two opposing groups of voices, brisk, mocking", "why": "Melanion answered by Timon — two rival tales traded between choruses, built for alternating verses."}
+    ]
+  },
+  {
+    "slug": "titus-livius-livy-ab-urbe-condita-882964",
+    "picks": [
+      {"id": "c00", "style": "roman oracular recitation, low drone and single horn, grave male voice, measured, prophetic", "why": "Only candidate; the Delphic response about the Alban flood and the fall of Veii closes it in real verse."}
+    ]
+  },
+  {
+    "slug": "max-weber-the-protestant-ethic-and-the-spi-3cade1",
+    "picks": [
+      {"id": "c00", "style": "english devotional art song, chamber organ and viol, solemn baritone, slow, valedictory", "why": "Only candidate, and it is the close of Paradise Lost: 'The world was all before them.'"}
+    ]
+  },
+  {
+    "slug": "thomas-hodgskin-the-natural-and-artificial-right-07abc8",
+    "picks": [
+      {"id": "c00", "style": "pastoral hymn, solo acoustic guitar, soft tenor, spacious, reverent", "why": "Only candidate; two famous lines about finding tongues in trees and sermons in stones — short but whole."}
+    ]
+  }
+]

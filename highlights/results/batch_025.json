@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "bacchylides-epinicians-8ecde7",
+    "picks": [
+      {
+        "id": "c06",
+        "style": "greek choral ode, kithara and aulos, layered voices, soaring, expansive, wind-borne",
+        "why": "The eagle slicing the deep air on golden wings while thin-voiced birds crouch — the cleanest, grandest passage here."
+      },
+      {
+        "id": "c05",
+        "style": "greek choral narrative ode, lyre and low drum, solo voice with choral answers, tense then transfigured, slow release",
+        "why": "Croesus on the pyre, Zeus quenching the golden flame with a rain-cloud, Apollo carrying the old man to the Hyperboreans."
+      },
+      {
+        "id": "c11",
+        "style": "underworld lament, single aulos over a deep drone, hollow male voice, slow, ghostly, tear-struck",
+        "why": "Meleager's shade telling how his mother burned the log — and the only time Heracles ever wept."
+      }
+    ]
+  },
+  {
+    "slug": "euripides-helen-bf5256",
+    "picks": [
+      {
+        "id": "c21",
+        "style": "greek sea-chorus, lyre and light frame drum, layered female voices, rowing pulse, bright, hopeful",
+        "why": "'O swift Phoenician ship of Sidon... mother of the oar, leader of the lovely dancing of dolphins' — a sailing song outright."
+      },
+      {
+        "id": "c16",
+        "style": "greek choral threnody, solo aulos and soft kithara, mournful female voices, slow, trilling, keening",
+        "why": "The nightingale summoned from her leafy haunts to help carry the lament — one of Euripides' loveliest openings."
+      },
+      {
+        "id": "c03",
+        "style": "greek tragic chorus, lyre over a low drone, massed female voices, incantatory, sorrowing, ceremonial",
+        "why": "Zeus shining through the air on the wings of a snow-white swan, and the doubled 'fated, fated' of Helen's life."
+      }
+    ]
+  },
+  {
+    "slug": "terence-heautontimorumenos-fc4851",
+    "picks": [
+      {
+        "id": "c07",
+        "style": "roman canticum turned reflective, single tibia and soft strings, warm female voice, unhurried, candid, bittersweet",
+        "why": "The courtesan telling the good girl why virtue is possible for her and not for us — the play's most honest speech."
+      },
+      {
+        "id": "c03",
+        "style": "roman comic canticum, tibia and plucked lyre, quick bright tenor, restless, wry",
+        "why": "'What partial judges are all fathers' — and the vow that if he ever has a son he will be an indulgent father."
+      },
+      {
+        "id": "c09",
+        "style": "roman stage monologue, low tibia and hand drum, weathered baritone, measured, rueful",
+        "why": "'That they can see and judge of other men's affairs better than their own' — the whole play's moral in one line."
+      }
+    ]
+  },
+  {
+    "slug": "william-julius-mickle-poems-de833b",
+    "picks": [
+      {
+        "id": "c20",
+        "style": "scottish pastoral nocturne, fiddle and guitar over a soft drone, warm baritone, slow, moonlit, hushed",
+        "why": "The silver empress of the night, the limpid pool, the low-wheeling bat — a complete evening in four quatrains."
+      },
+      {
+        "id": "c12",
+        "style": "border ballad, harp and low fiddle, plain female voice, modal, steady, mournful",
+        "why": "'I come — I come, where bow nor spear shall more disturb our loves' — the ballad's death-scene, in true ballad metre."
+      },
+      {
+        "id": "c22",
+        "style": "elegiac air, cello and piano, low male voice, slow, bare, aching",
+        "why": "'For thou art gone — my guide, my friend, oh where' — grief measured against the hills and the sainted well."
+      }
+    ]
+  },
+  {
+    "slug": "quintilian-institutio-oratoria-6bfe91",
+    "picks": [
+      {
+        "id": "c05",
+        "style": "latin epic recitation, low strings and driving frame drum, urgent male voice, gathering, headlong, storm-lit",
+        "why": "An unbroken chain of similes — wolves under cloud, the skimming sea-bird, and the runaway chariots that end it."
+      },
+      {
+        "id": "c08",
+        "style": "roman elegiac song, lyre and soft flute, grave tenor, slow, valedictory, evening",
+        "why": "'Pale death with equal foot knocks at the poor man's door', closing on the unhitching of the steaming horses."
+      }
+    ]
+  },
+  {
+    "slug": "albert-moll-the-sexual-life-of-the-child-20c689",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "german kinderlied, music box and simple piano, light child's soprano, gentle, lilting, tender",
+        "why": "A child's song about her doll in its cradle, ending 'I'm just as rich as you' — complete, innocent, and singable in either language."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-quomodo-adulator-ab-amico-intern-d0e48f",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "greek proverb-song, lyre and light hand drum, wry male voice, steady, aphoristic, companionable",
+        "why": "Only candidate, but it opens on a finished rhyming poem: old men with old, boys with boys, and the unlucky telling the unlucky."
+      }
+    ]
+  },
+  {
+    "slug": "pierre-joseph-proudhon-system-of-economical-contradicti-358ea4",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "french romantic chanson, solo piano and cello, low male voice, slow, desolate, hearth-cold",
+        "why": "Only candidate; the silent spinning-wheel and the old man warming pale hands over smoke at an empty hearth."
+      }
+    ]
+  }
+]

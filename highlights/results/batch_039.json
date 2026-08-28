@@ -1,0 +1,59 @@
+[
+ {
+  "slug": "plutarch-de-garrulitate-13baaa",
+  "picks": [
+   {"id": "c02", "style": "greek moralist air, lyre, sparse frame drum, dry male voice, moderate, wry, clipped", "why": "Two finished epigrams on silence — the benefits that attend silent lips, and miseries that spring not from unlocked houses but unbridled tongues."},
+   {"id": "c00", "style": "greek recitative, single kithara, spoken-sung baritone, unhurried, ironic", "why": "Nature gave us two ears and one tongue, then the Euripidean quatrain about pouring wisdom into a skull that will hold nothing."}
+  ]
+ },
+ {
+  "slug": "sophocles-oedipus-at-colonus-92b854",
+  "picks": [
+   {"id": "c21", "style": "greek tragic solo, lyre, low drone, aged male voice, very slow, luminous, valedictory", "why": "Oedipus leading his own funeral procession — light of day, no light to me — the most famous exit in Greek tragedy."},
+   {"id": "c22", "style": "ancient chorus with narrator, aulos, frame drum, layered voices, hushed then swelling, uncanny", "why": "The god calling out of nowhere — Oedipus, Oedipus, why do you delay our going — with everyone's hair rising from terror."},
+   {"id": "c00", "style": "pastoral prologue, lyre, soft flute, two voices, gentle, wandering, unhurried", "why": "The blind old man asking where they have come, and Antigone answering with laurel, olive, vine and a crowd of nightingales."}
+  ]
+ },
+ {
+  "slug": "ovid-amores-1d386d",
+  "picks": [
+   {"id": "c00", "style": "roman elegy, lyre and soft flute, wry male voice, easy lilt, playful, light", "why": "Cupid stealing a foot from every second line — the joke that opens Latin love elegy, told entirely in itself."},
+   {"id": "c02", "style": "sensual roman air, kithara, low drum, warm male voice, slow, hushed, languid", "why": "Corinna in the shuttered afternoon, hair loose, gown loose — the most famous elegy in the book and complete in itself."},
+   {"id": "c06", "style": "aubade, plucked lyre, soft strings, pleading male vocal, unhurried, dawn-lit", "why": "The lover cursing the dawn, with the moon keeping her Endymion drowned in dewy sleep."}
+  ]
+ },
+ {
+  "slug": "michel-de-montaigne-literary-and-philosophical-essay-6e6fc6",
+  "picks": [
+   {"id": "c16", "style": "english romantic art song, piano and cello, dark baritone, slow, solemn, inward", "why": "Clean English throughout: the immortal mind as its own origin of ill and end, its own place and time."},
+   {"id": "c14", "style": "renaissance lament, lute and viol, tenor, plaintive, very slow, bare", "why": "The Catullus brother-elegy in full — with thee my soul is all and whole enshrined — ending on a vow of love beyond death."}
+  ]
+ },
+ {
+  "slug": "unknown-ganapatitattva-66a136",
+  "picks": [
+   {"id": "c01", "style": "balinese sacred chant, metallophone and small gong, drone, low male voice, slow, ritual, hypnotic", "why": "The six limbs of yoga in couplets, ending on the gall-bladder dark in the heart's root and the Lord of the World at the end of the deepest dark."},
+   {"id": "c03", "style": "gamelan-backed recitation, soft gongs, bamboo flute, single voice, measured, meditative", "why": "A stone for the people of the world, the Self for sages — then Maheśvara the size of a thumb, shining like crystal in the temple of the body."},
+   {"id": "c04", "style": "temple chant, drone and hand bell, layered male voices, slow, cyclical, incantatory", "why": "The cosmogony as a chain — from the Unmanifest nāda, from nāda bindu, from bindu the moon, from the moon the universe, again and again."}
+  ]
+ },
+ {
+  "slug": "augustin-thierry-historical-essays-and-narratives-832778",
+  "picks": [
+   {"id": "c00", "style": "nordic war chant, bowed lyre, heavy frame drum, low male chorus, stark, driving, hard refrain", "why": "Pharamond! Pharamond! we have fought with the sword — a real refrain, crows swimming in blood, and we will smile when we must die."},
+   {"id": "c01", "style": "medieval lament, solo female voice, bare vielle drone, no percussion, very slow, desolate", "why": "The exiled woman asking the wind and the clouds for news, and swearing she would swim to them if the ship split."}
+  ]
+ },
+ {
+  "slug": "plutarch-de-e-apud-delphos-80cd0b",
+  "picks": [
+   {"id": "c00", "style": "delphic hymn, lyre and aulos, clear male voice, bright, measured, serene", "why": "A short chain of poets on what music suits which god — Apollo joys in pleasant tones, Pluto in griefs and moans."}
+  ]
+ },
+ {
+  "slug": "plato-gorgias-004473",
+  "picks": [
+   {"id": "c00", "style": "spare philosophical chant, single lyre, hushed male voice, very slow, questioning, echoing", "why": "Two lines that carry the whole thought: who knows if to live is to be dead, and to be dead, to live."}
+  ]
+ }
+]

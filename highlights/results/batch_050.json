@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "sophocles-oedipus-tyrannus-6e2280",
+    "picks": [
+      {
+        "id": "c22",
+        "style": "greek tragic monody, solo aulos, low drone, ravaged male voice, very slow, unbearable, sparse",
+        "why": "The blinded Oedipus addressing Cithaeron, the three roads and the marriage bed — the most famous speech in Greek tragedy."
+      },
+      {
+        "id": "c03",
+        "style": "ancient chorus hymn, lyre, frame drum, torch-lit layered voices, building, invocatory, urgent",
+        "why": "The prayer to the Lycean Lord's golden bowstring, Artemis' fires and Bacchus with his blazing torch — a real invocation."
+      },
+      {
+        "id": "c06",
+        "style": "prophetic chant, deep drone, struck bell, grave old male voice, slow, implacable, gathering dread",
+        "why": "Teiresias: you have sight and do not see; the double lash of your parents' curse will drive you out with darkness on your eyes."
+      }
+    ]
+  },
+  {
+    "slug": "joel-barlow-poems-b85697",
+    "picks": [
+      {
+        "id": "c21",
+        "style": "american husking-bee tune, fiddle, banjo, hammered dulcimer, hearty male lead with mixed chorus, brisk, communal",
+        "why": "The husking: rustling husks, cracking cobs, laughter, and cider going round in silence — a whole night in one scene."
+      },
+      {
+        "id": "c16",
+        "style": "mock-georgic comic air, fiddle, penny whistle, wry tenor, moderate, affectionate, jesting",
+        "why": "The poet recognising his cornmeal abroad by its yellow face, then blushing that Pennsylvanians call it Mush."
+      },
+      {
+        "id": "c14",
+        "style": "mock-heroic invocation, small brass, snare, grandly ironic baritone, stately then winking, moderate",
+        "why": "'Ye Alps audacious... I sing not you. A softer theme I chuse' — the joke of the whole poem stated in its opening lines."
+      }
+    ]
+  },
+  {
+    "slug": "horace-walpole-poems-670e1d",
+    "picks": [
+      {
+        "id": "c06",
+        "style": "augustan satirical air, harpsichord, oboe, crisp cutting baritone, brisk, sardonic",
+        "why": "'The greatest curses any Age has known, / Have issued from the Temple or the Throne' — with the king sucking in the sacred grease."
+      },
+      {
+        "id": "c05",
+        "style": "patriotic declamation, martial snare, strings, ringing tenor with chorus, stirring, defiant",
+        "why": "'That is Empire! shun her baleful path, / Her Words are Slavery, and her Touch is Death!' — pure singable rhetoric."
+      },
+      {
+        "id": "c16",
+        "style": "rococo drawing-room song, fortepiano, flute, light elegant tenor, graceful, playful",
+        "why": "Zeuxis assembling a goddess out of borrowed features — Cynthia's brow, Lesbia's eye, Chloe's vermilion cheek."
+      }
+    ]
+  },
+  {
+    "slug": "john-gerrard-poems-369c27",
+    "picks": [
+      {
+        "id": "c18",
+        "style": "pastoral folk song, acoustic guitar, flute, warm tenor, gentle, wistful, with a returning refrain",
+        "why": "'Ye scenes that engag'd my gay youth, / Say, whither so fast do ye fly?' — an actual song, with its question coming round again."
+      },
+      {
+        "id": "c03",
+        "style": "english elegy ballad, harp, cello, plaintive tenor, slow, stark, catching at the turn",
+        "why": "The gun raised at the moving shade, and the idol of his soul falling shrieking to the ground — the ballad's whole hinge."
+      },
+      {
+        "id": "c04",
+        "style": "deathbed lament, solo viol, low harp, tenor with a fading female voice, very slow, tender",
+        "why": "Her dying words forgiving the hand that killed her — 'Content beneath thy erring hand I die'."
+      }
+    ]
+  },
+  {
+    "slug": "cicero-marcus-tullius-on-the-nature-of-the-gods-3ef991",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "latin dramatic recitation with music, aulos, low strings, rising percussion, awed male voice, surging like sea swell",
+        "why": "The shepherd who has never seen a ship watching the Argo come on — terror, then the sailors' song heard as Silvanus' music."
+      },
+      {
+        "id": "c02",
+        "style": "star-hymn, kithara, small bells, sustained drone, low male voice, slow, nocturnal, glittering",
+        "why": "The Dragon's head with its double-marked temples and two glowing eyes, gazing back at the tail of the Great Bear."
+      }
+    ]
+  },
+  {
+    "slug": "seneca-lucius-annaeus-letters-to-lucilius-bc8c6e",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "sardonic latin chorus, low brass, plucked strings, ironic baritone with answering chorus, marching, swaggering",
+        "why": "'Let me be called most base, so I be called rich' — and money outbidding mother, child and father in the face of Venus."
+      },
+      {
+        "id": "c00",
+        "style": "roman hymn to philosophy, lyre, soft chorus, reverent tenor, slow, golden, spacious",
+        "why": "'Your face is not mortal, nor does your voice sound human' — a goddess worshipped by an upright will, not slaughtered bulls."
+      }
+    ]
+  },
+  {
+    "slug": "cicero-marcus-tullius-ci-letters-of-marcus-tullius-cicero-e92145",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman epistolary litany, solo lyre, sparse strings, half-spoken male voice, unhurried, one line at a time, reflective",
+        "why": "A string of quoted tags that reads as a litany — compliance gets us friends, plain speaking hate; he plants trees for a race to come."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-de-heroditi-malignate-0e88ed",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "greek funeral epigram, bowed lyre, single low drum, unison male voices, very slow, stone-carved, solemn",
+        "why": "The Isthmus epitaph entire: 'When Greece upon the point of danger stood, / We fell, defending her with our life-blood.'"
+      }
+    ]
+  }
+]

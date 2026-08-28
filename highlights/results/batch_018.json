@@ -1,0 +1,61 @@
+[
+ {
+  "slug": "james-macpherson-poems-bc4ce0",
+  "picks": [
+   {"id": "c19", "style": "highland bardic lament, clarsach harp, low bowed drone, weathered male voice, slow, misty, elegiac", "why": "Autumn dark on the mountains, a lone tree marking a grave — the whole passage is one sustained elegy, image after image."},
+   {"id": "c20", "style": "ossianic dirge, solo clarsach, sparse bowed strings, aged male voice, very slow, desolate, sea-wind", "why": "Ossian outliving every other bard: 'my voice remains, like a blast, that roars, lonely, on a sea-surrounded rock.'"},
+   {"id": "c00", "style": "gaelic pastoral duet, clarsach and low whistle, male and female voices answering, tender, unhurried, windswept", "why": "Vinvela and Shilric answering each other across the hill — a natural two-voice song, 'bright as the bow of heaven; as the moon on the western wave.'"}
+  ]
+ },
+ {
+  "slug": "statius-silvae-1ecb5d",
+  "picks": [
+   {"id": "c12", "style": "roman hexameter chant, kithara, low sustained strings, measured male voice, stately, cosmological", "why": "'What, on earth and in heaven, remains without the law of obeying?' — stars, moon, kings and Rome all bound in one turning order."},
+   {"id": "c05", "style": "latin funeral lament, double tibia pipes, muffled frame drum, grieving male voice, slow, raw, unresolved", "why": "A consolation that admits it cannot console: the wound still gaping, the mourner turning a deaf ear to the lyre."},
+   {"id": "c04", "style": "roman convivial song, lyre, tambourine, light tenor, playful, quick, festive", "why": "'Pour the cups, boy—but do not labour to count them' — Statius dismissing the Muses for a friend's bath-house, wholly buoyant."}
+  ]
+ },
+ {
+  "slug": "john-hervey-poems-99f74a",
+  "picks": [
+   {"id": "c02", "style": "georgian moral ode, harpsichord, chamber strings, clear baritone, measured, wry", "why": "'Complain that life affords but little joy, / And yet that little foolishly destroy' — a whole argument about self-made misery, epigram by epigram."},
+   {"id": "c21", "style": "late baroque air, viola da gamba, harpsichord continuo, dark baritone, slow, bitter", "why": "'I thought men worthless, now I've prov'd 'em so' — cold anatomy of mankind closing on wisdom bought too dear."},
+   {"id": "c09", "style": "18th century english art song, fortepiano, plaintive soprano, yearning, rubato, intimate", "why": "'Acceptance is the heav'n which mortals know, / But 'tis the bliss of angels to bestow' — the Ovidian complaint turning into a real theology of giving."}
+  ]
+ },
+ {
+  "slug": "christopher-smart-poems-d6d852",
+  "picks": [
+   {"id": "c23", "style": "english cathedral hymn, organ and strings, boy treble with choir, bright, processional, ecstatic", "why": "Song to David's adoration stanzas — crocus, pheasant, holly, squirrel, all held by the repeating word ADORATION; a built-in refrain."},
+   {"id": "c22", "style": "anthem for choir and organ, full choir, brass, exultant, rising, jubilant", "why": "'God's harp thy symbol, and thy type / The lion and the bee!' — Smart at his strangest and most triumphant."},
+   {"id": "c20", "style": "pastoral sacred blank verse, chamber organ, flute, warm tenor, unhurried, birdsong-lit", "why": "Blackbird, thrush and even the harsh ravens meaning their noise for praise, 'and leave ingratitude to man.'"}
+  ]
+ },
+ {
+  "slug": "richard-owen-cambridge-poems-29aa86",
+  "picks": [
+   {"id": "c03", "style": "georgian comic ballad, fiddle, harpsichord continuo, arch tenor patter, brisk, satirical", "why": "Jotham's fable turned election farce — olive, fig and vine all refuse the crown, and the mob cries 'a bramble! a bramble!'"},
+   {"id": "c10", "style": "mock-oriental comic air, plucked strings, bassoon, sly baritone, jaunty, deadpan", "why": "The holy man who becomes the oracle of his nation purely by running long nails into his backside — the satire lands in the first breath."},
+   {"id": "c05", "style": "mock-elegy drawing room song, harpsichord, muted strings, arch soprano, feigned pathos, gently comic", "why": "'To me alone no card is come, / I must not go abroad — and cannot be at home' — high elegiac machinery cranked up for an unsent invitation."}
+  ]
+ },
+ {
+  "slug": "henry-harington-poems-ca50d9",
+  "picks": [
+   {"id": "c00", "style": "elizabethan pastoral pastiche, lute, recorder, gentle tenor, flowing, sunlit, archaic diction", "why": "The great sheltering oak with its bees, acorns and safe birds' nests — a complete idyll before the fall."},
+   {"id": "c02", "style": "tudor ballad, lute and tabor, stern baritone, building from hush to thunder, archaic", "why": "The axe answers the oak's hospitality, and Jove replies in thunder: 'On high Olympus next mine tree I'll place.'"}
+  ]
+ },
+ {
+  "slug": "plutarch-de-alexandri-magni-fortuna-aut-v-0cebf6",
+  "picks": [
+   {"id": "c00", "style": "ancient greek martial declamation, aulos, kithara, frame drum, strong male voice, rising, warlike", "why": "Fortune's claim on Alexander refuted by his own wounds, ending on the Spartan tag that the well-tuned lyre unsheathes the sword."}
+  ]
+ },
+ {
+  "slug": "the-venerable-bede-the-ecclesiastical-history-of-th-3d6fa5",
+  "picks": [
+   {"id": "c00", "style": "medieval plainchant, unaccompanied male schola, latinate monody, very slow, solemn, stone-reverberant", "why": "Only candidate in the work: a king's epitaph, and its bare recital of kalends and indictions carries as chant."}
+  ]
+ }
+]

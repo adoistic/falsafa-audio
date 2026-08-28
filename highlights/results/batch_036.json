@@ -1,0 +1,59 @@
+[
+ {
+  "slug": "euripides-suppliants-7dcdf4",
+  "picks": [
+   {"id": "c21", "style": "ancient greek lament, lyre, low frame drum, aged male voice, slow, unaccompanied passages, desolate", "why": "Iphis on losing his daughter — tag-free, complete, and the loveliest thing in the play: no aged sire has anything sweeter than a daughter's love."},
+   {"id": "c19", "style": "tragic funeral hymn, aulos, deep drum, solo soprano over low chorus, rising, ecstatic and fatal", "why": "Evadne poised above her husband's pyre; a whole self-contained aria of vow, leap and fire."},
+   {"id": "c09", "style": "ancient chorus, lyre, frame drum, layered male voices, declamatory, building, urgent", "why": "The tyrant who mows down the young like meadow-flowers in spring — the passage this play is quoted for."}
+  ]
+ },
+ {
+  "slug": "plautus-titus-maccius-asinaria-54d3d3",
+  "picks": [
+   {"id": "c04", "style": "roman comic patter, tibia pipes, hand drums, plucked lyre, sly female voice, brisk, knowing", "why": "The bawd's fowler conceit — house, food, decoy, birds — a complete extended metaphor that lands with no context at all."},
+   {"id": "c19", "style": "comic list song, double aulos, tambourine, fast male patter vocal, deadpan, accelerating", "why": "The jealous lover's contract read aloud: an escalating catalogue of prohibitions, built for patter."},
+   {"id": "c03", "style": "roman tavern song, lyre, castanets, warm mocking duet, mid-tempo, swaggering", "why": "Oars and sails against a tide that always carries you back to harbour — one good image, cleanly turned."}
+  ]
+ },
+ {
+  "slug": "john-duncombe-poems-3a49f5",
+  "picks": [
+   {"id": "c20", "style": "georgian pastoral glee, harpsichord, baroque strings, clear soprano, lilting, bright", "why": "The hymn to Health moves through morning, noon, evening and night in short chiming lines — the most singable thing here."},
+   {"id": "c02", "style": "english baroque air, chamber organ, viols, countertenor, stately, ornamented", "why": "Prejudice's seductive address to woman — damask rose, vegetable snow, painted plumes — dense with image and self-contained as a speech."},
+   {"id": "c18", "style": "18th-century catch, guitar and harpsichord, small mixed chorus, easy swing, convivial", "why": "Ends on a plain carpe-diem stanza: snatch the transitory hour and leave to Heaven the morrow."}
+  ]
+ },
+ {
+  "slug": "aurelius-prudentius-clem-cathemerina-10b988",
+  "picks": [
+   {"id": "c00", "style": "latin plainchant hymn, male schola, organum drone, no percussion, slow, dawn-lit", "why": "The cockcrow hymn — winged herald, the sleeper called back to life. A morning hymn already written to be sung."},
+   {"id": "c19", "style": "requiem chant, low male voices, distant bell, sustained drone, very slow, consoling", "why": "The burial hymn: the body handed back to the earth as a deposit God will one day reclaim."},
+   {"id": "c23", "style": "processional latin hymn, boy trebles over male drone, small bells, gentle, luminous, measured", "why": "The Holy Innocents playing with palm and crowns before the altar — the most quoted image in the whole cycle."}
+  ]
+ },
+ {
+  "slug": "ausonius-decimus-magnus-cento-nuptialis-67a900",
+  "picks": [
+   {"id": "c03", "style": "roman epithalamium, double aulos, lyre, tambourine, mixed youth chorus, festive, processional", "why": "An actual wedding song with a refrain shape — scatter the nuts, gird the altars, live happy — plus the Fates at their spindles."},
+   {"id": "c01", "style": "late antique bridal air, kithara, soft frame drum, warm female voice, unhurried, glowing", "why": "The bride coming forth, blushing, hair given to the winds — a single sustained portrait that needs nothing around it."}
+  ]
+ },
+ {
+  "slug": "aeschines-against-timarchus-105a70",
+  "picks": [
+   {"id": "c00", "style": "homeric lament, kithara, low male voice, sparse drum, recitative, grave, unhurried", "why": "Patroclus in the dream asking that one coffer hold both their bones — the strongest verse in a work otherwise made of oratory."}
+  ]
+ },
+ {
+  "slug": "dionysius-of-halicarnass-on-demosthenes-b4fa20",
+  "picks": [
+   {"id": "c00", "style": "pindaric ode, lyre, aulos, layered male chorus, awe-struck, building, sudden hush", "why": "Pindar's eclipse hymn entire — mother of eyes, the stolen star, the catalogue of dooms. Self-contained and magnificent."}
+  ]
+ },
+ {
+  "slug": "vladimir-lenin-philosophical-notebooks-collecte-2d084e",
+  "picks": [
+   {"id": "c00", "style": "austere art song, solo piano, spoken-sung baritone, sparse, modernist, slow, cold", "why": "The Xenophanes fragment: if lions had hands they would carve gods shaped like lions. One thought, complete."}
+  ]
+ }
+]

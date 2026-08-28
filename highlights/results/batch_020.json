@@ -1,0 +1,96 @@
+[
+ {
+  "slug": "euripides-andromache-614cb8",
+  "picks": [
+   {"id": "c06",
+    "style": "ancient greek chorus, lyre, aulos, frame drum, layered female voices, narrative, building dread",
+    "why": "The Judgement of Paris as choral myth — three goddesses bathing in mountain springs, Cassandra crying slay him, and Troy already doomed."},
+   {"id": "c08",
+    "style": "greek tragic lament, solo female voice, plucked lyre, low drone, slow, keening",
+    "why": "Andromache's whole-length interrogation of her killer — what city have I betrayed, what house have I fired — closing on Hector dragged behind the chariot."},
+   {"id": "c23",
+    "style": "antiphonal greek dirge, aged male voice answered by female chorus, bowed strings, frame drum, slow, desolate",
+    "why": "A true kommos: Peleus and chorus trading short lines of grief, call-and-response built for singing."}
+  ]
+ },
+ {
+  "slug": "sophocles-philoctetes-9468b4",
+  "picks": [
+   {"id": "c15",
+    "style": "greek tragic monody, solo male voice, rough lyre, sea-wind drone, bitter, rising",
+    "why": "The betrayed man addressing the cliffs and headlands as his only listeners — he is cutting down a corpse, the shadow of smoke, a mere phantom."},
+   {"id": "c11",
+    "style": "ancient chorus, lyre, aulos, layered male voices, spare, wave-like, hushed",
+    "why": "Ten years of exile in one sustained choral image — no wine, no bread, only the arrow and the stagnant pool — then the turn toward homecoming."},
+   {"id": "c18",
+    "style": "greek lament, aulos, low male voice with answering chorus, mournful, halting",
+    "why": "A man singing farewell to his bow as to a living friend torn from his hands."}
+  ]
+ },
+ {
+  "slug": "sneyd-davies-poems-848580",
+  "picks": [
+   {"id": "c02",
+    "style": "english pastoral air, baroque flute, viola da gamba, gentle tenor, unhurried, sunlit",
+    "why": "The pebbled stream, the bee humming fairy-tunes in praise of flowers, the rooks as cawing legislators debating in full senate — sustained and delighted throughout."},
+   {"id": "c00",
+    "style": "georgian mock-heroic ode, harpsichord, baroque strings, arch tenor, courtly, drowsy",
+    "why": "A grand invocation to the goddess of idleness whose empire outspans Pekin and Agra — the joke is held elegantly across the whole passage."},
+   {"id": "c12",
+    "style": "melancholy georgian air, harpsichord, muted strings, low baritone, languid, ironic",
+    "why": "Syren Sloth singing a dull quietus, the cloistered heart sitting squat at home like a pagod in a niche, closing on the barbed Such are thy comforts, blessed Solitude."}
+  ]
+ },
+ {
+  "slug": "william-congreve-poems-d6b91f",
+  "picks": [
+   {"id": "c03",
+    "style": "baroque lament, ground bass, viol consort, soprano, slow, grieving",
+    "why": "A mother's refusal of spring itself — can all the rains that fall from weeping skies unlock the tomb — with the built-in refrain No, never, never."},
+   {"id": "c06",
+    "style": "english baroque air, theorbo, recorder, clear soprano, tender, blooming",
+    "why": "From every tear that fell, a violet grew — grief turning into a flowerbed, and thence their sweetness came, and thence their mournful hue."},
+   {"id": "c11",
+    "style": "baroque ode, trumpets, timpani, full chorus and organ, majestic, ceremonial",
+    "why": "Congreve's Hymn to Harmony, written to be sung, with the chorus line Confusion heard thy voice and fled already built into it."}
+  ]
+ },
+ {
+  "slug": "ausonius-decimus-magnus-ludus-septem-sapientum-4cb3b9",
+  "picks": [
+   {"id": "c04",
+    "style": "late roman stage recitation, plucked cithara, hand drum, dry baritone, clipped, wry, brisk",
+    "why": "Laconic Chilon complaining that his loins ache waiting for Solon to finish one saying in three hundred verses, then delivering Know yourself and refusing applause."},
+   {"id": "c05",
+    "style": "late antique latin declamation, cithara, tambour, genial baritone, measured, even",
+    "why": "Measure is best, argued in a list that is already a refrain — of speaking, of being silent, of sleep, of waking — and ending let there be a measure."},
+   {"id": "c06",
+    "style": "late antique latin recitative, lyre, low male voice, sea drone, oracular, unhurried",
+    "why": "The golden tripod drawn from the sea, passed around all seven sages and back, until Thales gives it to the god: no man should be believed wise, but a god."}
+  ]
+ },
+ {
+  "slug": "dewitt-h-parker-the-principles-of-aesthetics-d4e238",
+  "picks": [
+   {"id": "c03",
+    "style": "french mélodie, piano, warm mezzo-soprano, rubato, wintry, hushed",
+    "why": "The only candidate that is unbroken verse from end to end — the palm above the tombs, the doves scattering like a necklace coming unstrung, the soul as their nightly tree."}
+  ]
+ },
+ {
+  "slug": "scriptores-historiae-aug-alexander-severus-d95b45",
+  "picks": [
+   {"id": "c00",
+    "style": "roman declamatory ode, lyre, hand drum, resonant male voice, stately turning wry, measured",
+    "why": "Opens on the great Anchises charge — others will draw living faces out of marble, but you, Roman, spare the conquered and war down the proud — then drops into court epigram."}
+  ]
+ },
+ {
+  "slug": "john-emerich-edward-dalb-letters-of-lord-acton-to-mary-gl-faa6fd",
+  "picks": [
+   {"id": "c00",
+    "style": "victorian parlour ballad, upright piano, restrained baritone, spare, epigrammatic, rueful",
+    "why": "Only candidate in the work; carried by the Goldsmith line about a man who to party gave up what was meant for mankind."}
+  ]
+ }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "pindar-isthmean-c5037b",
+    "picks": [
+      {
+        "id": "c17",
+        "style": "greek victory ode, lyre and aulos, chorus answering a soloist, stately triadic sway, questioning, mounting",
+        "why": "'In which of your glories did you most delight, blessed Thebe?' — a chain of 'or when...' questions, including Zeus falling as a snow-shower of gold at midnight."
+      },
+      {
+        "id": "c18",
+        "style": "greek choral lament turning to praise, kithara and low drone, grave massed voices, solemn, ebbing, resigned",
+        "why": "'We die all alike, but our fates are diverse' — winged Pegasus throwing Bellerophon, and sweetness beyond measure awaiting a bitter end."
+      },
+      {
+        "id": "c10",
+        "style": "hymnic greek invocation, lyre with struck bronze, bright high voice over drone, radiant, ceremonial, unhurried",
+        "why": "Night-long fire prodding the air with fragrant smoke, then 'Mother of the Sun, Theia of many names' — a hymn opening in the middle of an ode."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-trinummus-d64ecd",
+    "picks": [
+      {
+        "id": "c03",
+        "style": "roman comic patter song, tibia pipes and hand drum, fast wry male voice, chattering, cheeky, accelerating",
+        "why": "The rant against busybodies — 'they know what Juno talked about in conversation with Jupiter; that which neither is nor is likely to be, do these fellows know.'"
+      },
+      {
+        "id": "c20",
+        "style": "latin street-wisdom song, plucked lyre and clacking percussion, dry rueful baritone, mid-tempo, shrugging, worldly",
+        "why": "'I bought myself an enemy with my talent, and sold my friend' — the whole economics of lending money to a friend in six lines."
+      }
+    ]
+  },
+  {
+    "slug": "alexander-pope-poems-2de8d3",
+    "picks": [
+      {
+        "id": "c16",
+        "style": "baroque ode for music, harpsichord continuo and strings, dramatic tenor with chorus, hammering short lines, infernal then radiant",
+        "why": "Orpheus at the gates of hell with its clipped catalogue — 'Fires that glow, Shrieks of Woe, Sullen Moans, Hollow Groans' — Pope wrote this one to be sung."
+      },
+      {
+        "id": "c08",
+        "style": "georgian philosophical anthem, chamber organ and strings, calm baritone opening to chorus, stately, resolving, luminous",
+        "why": "'All Nature is but Art, unknown to thee; all Chance, Direction which thou canst not see; all Discord, Harmony not understood' — anaphora built for a final chorus."
+      },
+      {
+        "id": "c00",
+        "style": "comic english catch, fiddle and bassoon, gruff jovial bass, bouncing tetrameter, boisterous, barking",
+        "why": "Pope's great dane writing a letter to a lapdog: 'We Country Dogs love nobler Sport, and scorn the Pranks of Dogs at Court.'"
+      }
+    ]
+  },
+  {
+    "slug": "william-collins-poems-b390dd",
+    "picks": [
+      {
+        "id": "c21",
+        "style": "english evening ode, solo flute and viola, soft high female voice, unrhymed and floating, dusk-lit, hushed",
+        "why": "'By fairy hands their knell is rung, by forms unseen their dirge is sung' running straight into the Ode to Evening — Collins at his best twice over."
+      },
+      {
+        "id": "c19",
+        "style": "ode for music, baroque orchestra with shifting solo voices, dramatic contrasts, startled then desolate then rising",
+        "why": "The Passions each seizing the lyre in turn — Fear recoiling at his own sound, Anger striking one rude clash — a score in the words already."
+      },
+      {
+        "id": "c16",
+        "style": "persian-flavoured pastoral eclogue, oud and frame drum with strings, warm female voice, refrain-driven, courtly, lilting",
+        "why": "The shepherd girl carried off by a king, still turning back to look at her flock, with the refrain closing each turn of the story."
+      }
+    ]
+  },
+  {
+    "slug": "charles-wesley-poems-fd377a",
+    "picks": [
+      {
+        "id": "c20",
+        "style": "english christmas hymn, church organ and brass, full congregational chorus, bright, jubilant, ringing",
+        "why": "'Hark how all the Welkin rings' — the first version of the carol everyone knows, before it was smoothed into 'Hark! the herald angels sing'."
+      },
+      {
+        "id": "c11",
+        "style": "methodist hymn, harmonium and low strings, fervent solo tenor opening to chorus, building, released, radiant",
+        "why": "'I woke; the Dungeon flam'd with Light; my Chains fell off, my Heart was free' — the most electric stanza Wesley ever wrote."
+      },
+      {
+        "id": "c08",
+        "style": "open-air revival hymn, fiddle and tambourine with rough chorus, urgent baritone caller, driving, exhortatory, plain",
+        "why": "'Outcasts of Men, to You I call, harlots and publicans, and thieves!' — a hymn that names its congregation and dares the world."
+      }
+    ]
+  },
+  {
+    "slug": "vincent-bourne-poems-5dc73d",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "english parlour song, spinet and recorder, light bright soprano, skipping trochees, cheerful, fireside",
+        "why": "'Little inmate, full of mirth, chirping on my kitchen hearth' — a clean, complete address to a cricket, and it scans like a nursery tune."
+      },
+      {
+        "id": "c03",
+        "style": "comic english glee, bassoon and fiddle, dry deadpan baritone with croaking chorus, jaunty, wry",
+        "why": "The jackdaw on the steeple watching church, army, physic and law go round below — 'and says, what says he? Caw.'"
+      },
+      {
+        "id": "c00",
+        "style": "georgian moral air, guitar and viola, gentle tenor, ballad meter, twilight, tender",
+        "why": "The glow-worm given 'a modicum of light, proportion'd to his size' — a small joke that turns into a small theology."
+      }
+    ]
+  },
+  {
+    "slug": "james-connolly-labour-in-irish-history-dad525",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "irish rebel song, bodhran and fiddle, defiant male voice, driving, angry, marching",
+        "why": "'Who strikes when he's struck, and takes when he starves, in the eyes of the Lord is no rebel' — one coherent furious lyric, not a collage."
+      }
+    ]
+  },
+  {
+    "slug": "plato-phaedrus-bf287e",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "ancient greek epitaph chant, single lyre over low drone, cool unhurried voice, slow, circular, stone-still",
+        "why": "The bronze maiden on the tomb of Midas, speaking so long as water runs and trees put forth leaves — the only candidate, but a real epigram."
+      }
+    ]
+  }
+]

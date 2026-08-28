@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "euripides-heracles-6c1f43",
+    "picks": [
+      {
+        "id": "c10",
+        "style": "ancient greek chorus, seven-stringed lyre and libyan pipe, aged male voices in unison, celebratory, moderate, swelling",
+        "why": "The old singers' ode to song itself — Graces and Muses linked forever, the swan-voiced poet who will not stop praising."
+      },
+      {
+        "id": "c07",
+        "style": "ancient greek lament, kithara and low aulos, grieving female voice answered by a broken male voice, slow, desolate",
+        "why": "Megara asking which child to kiss first, wishing she could gather her sighs like a bee; fortune taking a life like a feather."
+      },
+      {
+        "id": "c13",
+        "style": "ancient greek tragic chorus, frantic frame drums and shrill aulos, layered voices, accelerating, terrifying",
+        "why": "Madness driving her chariot with a hundred hissing serpent-heads — 'the dance begins without the cymbals' crash'."
+      }
+    ]
+  },
+  {
+    "slug": "athenaeus-of-naucratis-deipnosophistae-9c89b8",
+    "picks": [
+      {
+        "id": "c23",
+        "style": "greek pastoral epigram, lyre and soft reed pipe, single warm voice, unhurried, open-air",
+        "why": "Nicaenetus preferring the country to the city feast — a willow-branch bed and the zephyr freshening the heart."
+      },
+      {
+        "id": "c14",
+        "style": "greek symposium song, aulos and hand drum, sardonic male voice with chorus, steady, argumentative",
+        "why": "The attack on athletes — will they fight the enemy with a quoit in hand? — a whole verse argument with a punchline."
+      },
+      {
+        "id": "c08",
+        "style": "comic patter song, plucked lyre and light percussion, sly tenor, brisk, short-breathed lines",
+        "why": "The parasite's self-portrait in short skipping lines: two well-made garments, a rich fool in the forum, and laughter on demand."
+      }
+    ]
+  },
+  {
+    "slug": "philip-morin-freneau-poems-8d7769",
+    "picks": [
+      {
+        "id": "c08",
+        "style": "american pastoral ballad, acoustic guitar and low strings, clear female vocal, elegiac, unhurried",
+        "why": "Colma's dying speech — a spring eternal and a nightless sky far to the west, where souls keep their old feelings."
+      },
+      {
+        "id": "c13",
+        "style": "colonial fireside song, fiddle and dulcimer, mellow tenor, lilting, moderate",
+        "why": "'O gentle sleep, wrap me in dreams, of fields and woods, and running streams' — then the darker draught of Lethe."
+      }
+    ]
+  },
+  {
+    "slug": "terence-andria-ca4ba7",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "roman stage cantica, tibia and soft strings, low tenor, grave, tender, slow",
+        "why": "Chrysis on her deathbed handing over the girl — 'husband, friend, protector, father' — clean monologue, no stage business."
+      }
+    ]
+  },
+  {
+    "slug": "sir-charles-hanbury-williams-poems-faeead",
+    "picks": [
+      {
+        "id": "c08",
+        "style": "georgian love song, harpsichord and strings, light tenor, dancing, amorous, moderate",
+        "why": "The Martial imitation's counting refrain — bees on Hybla, flowers, flocks, sands, stars — and still craving more kisses."
+      },
+      {
+        "id": "c05",
+        "style": "mock-elegy, baroque chamber strings and recorder, plaintive countertenor, ceremonious, slow",
+        "why": "The funeral of Matzel the bullfinch — linnets and doves summoned to beat their wings and drop the natural tear."
+      },
+      {
+        "id": "c11",
+        "style": "welsh tavern ballad, fiddle and pipe, hearty baritone with chorus, jaunty, fast",
+        "why": "The Harriet Hanbury ballad, with its 'Sir' tag ending every stanza and the ale going dead while the Welshmen gaze."
+      }
+    ]
+  },
+  {
+    "slug": "homeric-hymns-hymn-7-to-dionysus-26079b",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "dionysian hymn, aulos, frame drum and finger cymbals, layered voices, intoxicating, building",
+        "why": "Wine running through the black ship, the vine spreading along the sail, ivy on the mast, garlands on the thole-pins."
+      },
+      {
+        "id": "c00",
+        "style": "homeric hymn, kithara over drone, single male voice, narrative, measured, mysterious",
+        "why": "The god on the headland with waving dark hair, the bonds falling from his hands while he sits smiling."
+      },
+      {
+        "id": "c03",
+        "style": "greek epiphany hymn, roaring low drums and shrill pipes, big male chorus, savage then radiant",
+        "why": "The lion and the shaggy bear on deck, the sailors leaping overboard into dolphins, and the helmsman spared."
+      }
+    ]
+  },
+  {
+    "slug": "xenophon-of-ephesus-ephesiaca-b45210",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "oracular chant, aulos drone and struck bronze, grave female voice, hushed, slow, foreboding",
+        "why": "Only candidate, and it is the Apollo oracle itself — 'a tomb shall be the bridal chamber for both, and destroying fire'."
+      }
+    ]
+  },
+  {
+    "slug": "david-hume-a-treatise-of-human-nature-ce1af6",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "latin hexameter setting, lyre and low flutes, sonorous male voice, stately, slow, chamber",
+        "why": "Only candidate; the Virgil and Horace lines still sing in Latin — the wished-for boar, the bird fearing the snake over her fledglings."
+      }
+    ]
+  }
+]

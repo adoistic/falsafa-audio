@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "petronius-arbiter-satyricon-893c6a",
+    "picks": [
+      {
+        "id": "c05",
+        "style": "roman drinking-song elegy, plucked lyre and low pipe, rueful tenor, moderate, wry, intimate",
+        "why": "The bald head as a season: 'dull winter has carried away the bright locks of spring ... a part of thine head hath died already.'"
+      },
+      {
+        "id": "c22",
+        "style": "rustic latin pastoral, reed pipe and hand drum, plain warm voice, gentle, unhurried, hearthside",
+        "why": "The poor cottage inventoried — clay cups off a fast wheel, service-berries in wreaths, savory and raisins — all concrete, all singable."
+      },
+      {
+        "id": "c23",
+        "style": "sardonic roman cabaret, plucked strings and light percussion, dry mocking baritone, jaunty, clipped, looping",
+        "why": "'Whoever has money sails in a fair wind ... Your safe has Jupiter shut up in it' — a complete cynical creed with a punchline."
+      }
+    ]
+  },
+  {
+    "slug": "silius-italicus-punica-739044",
+    "picks": [
+      {
+        "id": "c22",
+        "style": "carthaginian lament, frame drum and double reed, wailing female voice, ecstatic, keening, ritual",
+        "why": "Imilce tearing her hair among the Tyrian mothers, calling her husband home from the wrong war — the poem's one true cry."
+      },
+      {
+        "id": "c19",
+        "style": "latin epic conflagration, low brass and crackling percussion, declamatory bass, driving, blazing, relentless",
+        "why": "The grove burning limb by limb until the bare poplar lets its birds fall from the sky."
+      },
+      {
+        "id": "c06",
+        "style": "grim battle chant, war horns and heavy drum, hoarse male voice, hard, unflinching, stamping",
+        "why": "The severed hand that gropes back to the rein and, knowing nothing, imitates a man still driving."
+      }
+    ]
+  },
+  {
+    "slug": "thomas-campbell-poems-56c1cb",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "english romantic lyric, acoustic guitar and soft strings, warm tenor, unhurried, wide-open, pastoral",
+        "why": "'Tis Distance lends enchantment to the view' — the line the poet is remembered by, sitting in a landscape that opens the song for you."
+      },
+      {
+        "id": "c16",
+        "style": "romantic hymn-anthem, chamber organ and swelling strings, soaring soprano, slow, exalted, luminous close",
+        "why": "The Absalom cry giving way to 'leave — oh! leave — the light of hope behind' — grief and consolation in one arc."
+      },
+      {
+        "id": "c23",
+        "style": "scottish border ballad, fiddle and harp, plaintive female voice, strophic, mournful, unhurried",
+        "why": "Gilderoy's ballad — drum, bell, gallows tree, and the memory of Roslin's glen. Ballad metre, ready to sing."
+      }
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-podagra-e7af6b",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "mock greek tragedy, aulos and low drone with frame drum, grave declaiming male voice, slow, portentous, absurdly solemn",
+        "why": "A tragic curse aimed at gout: nursed in Tartarus by Megaera, milk dripped in by Alecto. Perfect straight-faced parody."
+      },
+      {
+        "id": "c13",
+        "style": "greek cult hymn, layered voices over lyre and hand drum, incantatory, building, insistent",
+        "why": "The litany of epithets — 'who hobble the runner, who rack the ankle-bones, who keep the burning knee awake' — pure singable anaphora."
+      },
+      {
+        "id": "c21",
+        "style": "ancient chorus, lyre and frame drum, layered voices, solemn, building, then softening to prayer",
+        "why": "Salmoneus, Marsyas, Niobe, Arachne — a real tragic ode on mortals who contended with gods, ending in a bargaining prayer to Gout."
+      }
+    ]
+  },
+  {
+    "slug": "eliza-day-poems-281dff",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "fairy incantation, harp and small bells with soft frame drum, silvery female voice, quick, conspiratorial, chanting",
+        "why": "Titania's jealous spell against a marriage — 'Thrice I wave my magic wand' — a charm already written in charm-metre."
+      },
+      {
+        "id": "c18",
+        "style": "english ballad lament, acoustic guitar and low strings, tender female vocal, slow, tearful, strophic",
+        "why": "The strayed child taken in as a broken stem replanted — 'Stay Madelina, child of woe, thy little feet no more shall roam.'"
+      },
+      {
+        "id": "c16",
+        "style": "moral fable song, harpsichord and viol, clear alto, lilting, trochaic, gently instructive",
+        "why": "The sun and wind contending for the traveller's cloak, ending on 'Gentleness ... melts the fetters of the mind.'"
+      }
+    ]
+  },
+  {
+    "slug": "william-woty-poems-a97dc5",
+    "picks": [
+      {
+        "id": "c05",
+        "style": "english winter ode, chamber strings and low flute, grave tenor, measured, austere, welcoming the cold",
+        "why": "'Winter! art thou welcome to my eye' — the seasons remembered in turn, autumn plucking clusters with a tawny hand."
+      },
+      {
+        "id": "c04",
+        "style": "georgian love song, baroque guitar and recorder, warm tenor, lilting, strophic with a returning refrain",
+        "why": "Lilies, roses, and the refrain 'the kisses are of her I love' coming round twice — a song that already has its hook."
+      },
+      {
+        "id": "c06",
+        "style": "bleak pastoral elegy, solo viola and sparse guitar, low voice, slow, wind-blown, desolate",
+        "why": "'Where is the spice kiss of the southern gale?' — an ubi sunt for summer, ending alone on a rain-beaten heath with no star."
+      }
+    ]
+  },
+  {
+    "slug": "adam-smith-an-inquiry-into-the-nature-and-c-915b31",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "english satirical broadside, fiddle and hurdy-gurdy with tabor, brisk chorus of voices, driving, ironic, relentless",
+        "why": "The Fable of the Bees in four-beat couplets — envy and vanity as ministers of industry, ending with the poor living better than the rich before."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-crassus-d9e659",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "greek bacchic chant, aulos and tambourine, wild high voice, ecstatic, unsettling, quickening",
+        "why": "The actor playing Agave with the real severed head: 'We bring from the mountain a tendril fresh-cut to the palace, a wonderful prey.'"
+      }
+    ]
+  }
+]

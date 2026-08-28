@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "euripides-the-trojan-women-d7be5e",
+    "picks": [
+      {
+        "id": "c09",
+        "style": "ancient greek tragic chorus, lyre and aulos, frame drum, layered female voices, slow processional lament, building",
+        "why": "The chorus's own invocation to the Muse and the wooden horse dragged singing through the gates — a self-contained ballad of the fall."
+      },
+      {
+        "id": "c19",
+        "style": "ancient greek threnody, bowed lyre, low drone, single female voice with answering chorus, mournful, sparse",
+        "why": "\"Gone are your sacrifices! gone the dancer's cheerful shout!\" — anaphora built for singing, and the accusation flung at Zeus."
+      },
+      {
+        "id": "c15",
+        "style": "ancient chorus ode, double flute, harp, high female voices in unison, wistful, flowing",
+        "why": "Ganymede pouring wine while his birthplace burns, then \"Ah! Love, Love\" — the most lyric image in the play."
+      }
+    ]
+  },
+  {
+    "slug": "greek-anthology-greek-anthology-881bf4",
+    "picks": [
+      {
+        "id": "c10",
+        "style": "hellenistic art song, kithara, soft hand drum, solo female voice, sensual, unhurried",
+        "why": "\"Who gave soul to the stone?\" and Aphrodite's own outraged \"Where did Praxiteles see me naked?\" — the anthology's most quoted epigrams."
+      },
+      {
+        "id": "c13",
+        "style": "greek erotic lyric, lyre and double flute, light tenor, playful, quickening",
+        "why": "Naked laughing Eros with earth in one hand and sea in the other, closing on \"light it from my soul; for I am all aflame\"."
+      },
+      {
+        "id": "c19",
+        "style": "greek symposium drinking song, barbitos lyre, tambourine, ragged warm male voice, tipsy, swaying",
+        "why": "Anacreon staggering with one slipper lost — the refrain \"Guard the old man, Bacchus, lest he fall\" is already a chorus."
+      }
+    ]
+  },
+  {
+    "slug": "william-cowper-poems-ded728",
+    "picks": [
+      {
+        "id": "c11",
+        "style": "english hymn, chamber organ, viola da gamba, gentle tenor, slow, consoling",
+        "why": "\"Come, peace of mind, delightful guest!\" — a complete stanzaic ode by the author of the Olney Hymns, made to be sung."
+      },
+      {
+        "id": "c05",
+        "style": "georgian sacred air, harpsichord and strings, grave baritone, measured, sombre",
+        "why": "\"Ask what is human life\" — six couplets that answer the question and close on darkness and despair."
+      },
+      {
+        "id": "c13",
+        "style": "pastoral blank-verse air, acoustic guitar and low strings, plain weathered male voice, steady, turning",
+        "why": "The threshing floor and \"By ceaseless action, all that is, subsists\" — a working image that becomes a cosmology."
+      }
+    ]
+  },
+  {
+    "slug": "mary-barber-poems-3d9e19",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "georgian parlour song, harpsichord and cello, bright soprano, lilting, gently mocking",
+        "why": "An actual song in ballad stanzas, and its point lands clean: all can discern a face that's fair, but few a lovely mind."
+      },
+      {
+        "id": "c15",
+        "style": "18th century comic air, fortepiano, wry mezzo-soprano, brisk, conversational",
+        "why": "The poet at her mirror deciding Medusa's snakes were only grey hair — self-contained and genuinely funny."
+      }
+    ]
+  },
+  {
+    "slug": "mary-darwall-poems-ddaf84",
+    "picks": [
+      {
+        "id": "c15",
+        "style": "english pastoral folk ballad, acoustic guitar and recorder, warm female vocal, unhurried, sunlit",
+        "why": "The Ode to May in trochaic quatrains — shepherd, broom, wild thyme; the most singable thing in the set."
+      },
+      {
+        "id": "c09",
+        "style": "georgian elegy, harp and muted strings, clear soprano, slow, aching",
+        "why": "Gilded captivity in the Happy Valley: \"Variety, thou dear, but distant name!\" — longing with a real image behind it."
+      },
+      {
+        "id": "c13",
+        "style": "evening hymn, chamber organ and viol, hushed female voice, slow, spacious",
+        "why": "Silence, Fancy crossing the trackless realms of space, and the hail to Solitude — a devotional stanza set that stands alone."
+      }
+    ]
+  },
+  {
+    "slug": "rev-mr-robertson-poems-2457d5",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "18th century hymn tune, chamber organ, viola, sweet tenor, gentle, flowing",
+        "why": "Clean common-metre stanzas on the beam that \"can make the bed of sickness please, and stop the sense of pain\"."
+      },
+      {
+        "id": "c05",
+        "style": "penitential hymn, low organ and cello, dark baritone, slow, severe",
+        "why": "The Barreaux sonnet's terrible logic — \"Thy majesty prevents my bliss, thy grace demands my doom\" — and the sinner inviting the bolt."
+      }
+    ]
+  },
+  {
+    "slug": "achilles-tatius-leucippe-and-clitophon-746f15",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "greek romance idyll, kithara and soft flute, warm tenor, flowing, ornamented",
+        "why": "Only candidate, but its first half is a genuine set piece: the rose as king of the flowers, blush of the meadow."
+      }
+    ]
+  },
+  {
+    "slug": "friedrich-nietzsche-homer-and-classical-philology-2091a4",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "german student lied, upright piano, light male voice with small chorus, brisk, wry",
+        "why": "Only candidate, and it happens to be a rhymed epigram-quatrain on the Homeric question — short, closed, singable."
+      }
+    ]
+  }
+]

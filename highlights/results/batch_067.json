@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "sophocles-electra-b089ca",
+    "picks": [
+      {
+        "id": "c17",
+        "style": "greek tragic lament, solo aulos and sparse lyre, keening female voice, very slow, bare, desolate",
+        "why": "Electra over the urn — 'accept me into this abode of yours, me, a nothing, into your nothingness.'"
+      },
+      {
+        "id": "c02",
+        "style": "ancient chorus with soloist, lyre and frame drum, layered voices answering one voice, solemn, circling, building",
+        "why": "The kommos on grief that will not end: the bird crying Itys, Itys, and Niobe weeping in her rock."
+      }
+    ]
+  },
+  {
+    "slug": "edward-young-poems-c01d7e",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "solemn georgian nocturne, chamber organ and low strings, grave baritone, slow, hushed, funereal",
+        "why": "'Tired Nature's sweet restorer, balmy Sleep!' — the most famous opening in the graveyard school, and it holds alone."
+      },
+      {
+        "id": "c08",
+        "style": "english blank-verse meditation, viola da gamba and single bell, low male voice, measured, austere, tolling",
+        "why": "'Our birth is nothing but our death begun; / As tapers waste that instant they take fire.'"
+      },
+      {
+        "id": "c01",
+        "style": "georgian moral ode, harpsichord and strings, declamatory tenor, steady, ironic, gathering",
+        "why": "'That all men are about to live' — forever on the brink of being born, the whole poem's argument in one line."
+      }
+    ]
+  },
+  {
+    "slug": "matthew-prior-poems-26b760",
+    "picks": [
+      {
+        "id": "c13",
+        "style": "georgian comic ballad, fiddle and harpsichord, wry baritone patter, brisk, jaunty, gallows-humoured",
+        "why": "The condemned man and the priest, ending on a real punchline: 'He that's hang'd before Noon, ought to think of To-night.'"
+      },
+      {
+        "id": "c16",
+        "style": "drawing-room satirical song, plucked harpsichord and light strings, arch mezzo, light, clipped, knowing",
+        "why": "Marriage anatomised in couplets — 'He sighs for Freedom, She for Pow'r.'"
+      },
+      {
+        "id": "c14",
+        "style": "classical hymn art song, baroque strings and harp, clear tenor, stately, bright, ceremonial",
+        "why": "Infant Zeus in a golden cradle, the bee distilling honey on his lips while the Curetes clash their arms to drown his crying."
+      }
+    ]
+  },
+  {
+    "slug": "rebekah-carmichael-poems-f536c3",
+    "picks": [
+      {
+        "id": "c09",
+        "style": "scottish parlour ballad, fiddle and small harp, plaintive female voice, slow, lilting, refrain-led",
+        "why": "Built on a returning line — 'Dim is the Star of Eden vale' — closing on 'The Sun is set in Eden vale.'"
+      },
+      {
+        "id": "c00",
+        "style": "scots ballad lament, harp and low strings, clear female voice, unhurried, grey, sea-swept",
+        "why": "A lady in white weeping on the shore while the lightning walks the waste and she does not flinch."
+      },
+      {
+        "id": "c03",
+        "style": "georgian comic air, harpsichord and pizzicato strings, arch female voice, quick, teasing, light",
+        "why": "A whole joke with its own refrain — 'O! it were well for woman kind / Were all their loss a tooth!'"
+      }
+    ]
+  },
+  {
+    "slug": "dio-chrysostom-orations-32299d",
+    "picks": [
+      {
+        "id": "c03",
+        "style": "archaic greek hymn, kithara and low drone, deep male voice, slow, oracular, weighty",
+        "why": "The Hesiodic hymn to Zeus — lightly he gives strength, lightly he crushes the strong — with its own hammering repetition."
+      },
+      {
+        "id": "c06",
+        "style": "greek epitaph chant, single lyre, distant clear voice, still, timeless, sparse",
+        "why": "The bronze maiden on Midas' tomb: so long as water flows and tall trees flourish, she will keep saying it."
+      }
+    ]
+  },
+  {
+    "slug": "friedrich-schiller-aesthetical-essays-8efa06",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "chivalric epic recitation, viol and lute, warm baritone, measured, noble, unhurried",
+        "why": "Two enemies trading armour instead of blows, so that others may see they were hosts and guests in their fathers' time."
+      }
+    ]
+  },
+  {
+    "slug": "plato-letters-0176ae",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "classical greek gnomic song, lyre and soft drone, grave male voice, slow, reflective, plain",
+        "why": "Not gold nor diamond nor loaded fields, but 'gallant men's unanimous resolve' — a complete argument in verse."
+      }
+    ]
+  },
+  {
+    "slug": "lewis-carroll-symbolic-logic-56bef5",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "victorian nursery rhyme, music box and pizzicato strings, bright playful voice, quick, light, sing-song",
+        "why": "The only candidate, and it happens to be a finished song already — Jack Sprat, whole and singable."
+      }
+    ]
+  }
+]

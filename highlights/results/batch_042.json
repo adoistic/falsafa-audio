@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "unknown-parasara-smrti-2259be",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "sanskrit recitation, tanpura drone, deep male voice, slow, incantatory, sparse",
+        "why": "The four-yuga refrain — country, village, family, the man himself — a built-in litany with descending force."
+      },
+      {
+        "id": "c05",
+        "style": "martial dharma chant, dhol and shankha, strong male chorus, driving, exalted",
+        "why": "Blood running from the forehead into the mouth counted as a drinking of Soma; a warrior's hymn in four lines."
+      },
+      {
+        "id": "c21",
+        "style": "devotional chant, tanpura and bansuri, warm male voice, reverent, unhurried",
+        "why": "The five bathings — ash, water, mantra, cow-dust, sun-shot rain — ending in the rain-bath equal to the Ganga."
+      }
+    ]
+  },
+  {
+    "slug": "aurelius-prudentius-clem-liber-peristephanon-42bcd7",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "latin martyr hymn, low male schola with a single soprano, hand bell, austere, mounting, slow",
+        "why": "Eulalia counting her wounds as letters Christ writes on her: the purple of the blood speaks the sacred name."
+      },
+      {
+        "id": "c05",
+        "style": "processional hymn, portative organ and boys' choir, bright, lilting, ceremonial",
+        "why": "Violets and blood-red crocuses gathered in mild winter to heap the baskets — an offering song with a clear refrain."
+      },
+      {
+        "id": "c12",
+        "style": "ambrosian chant, unaccompanied male voices, resonant stone acoustic, grave, luminous, slow",
+        "why": "God beyond measure, light pouring out light; hymnic theology with a natural chant cadence."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-mercator-200152",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman comic patter, tibia and clappers, wry male voice, brisk, confiding",
+        "why": "The lover who refuses to complain to the moon and addresses the audience instead — sharp, complete, funny."
+      },
+      {
+        "id": "c19",
+        "style": "comic lover's aria, tibia and lyre, urgent male voice, sweeping, half-serious, accelerating",
+        "why": "Neither river nor mountain nor sea will stop him — a genuine vow-aria hiding inside a farce."
+      },
+      {
+        "id": "c13",
+        "style": "old servant's song, plucked lyre and low drum, cracked weary female voice, slow, rueful",
+        "why": "Syra's burden: fourscore years and four, plus servitude, sweat and thirst."
+      }
+    ]
+  },
+  {
+    "slug": "john-gilbert-cooper-poems-d9c6a6",
+    "picks": [
+      {
+        "id": "c18",
+        "style": "english pastoral ballad, acoustic guitar and fiddle, warm tenor, unhurried, tender",
+        "why": "You'll in your girls again be courted, and I go wooing in my boys — a whole marriage in a stanza."
+      },
+      {
+        "id": "c02",
+        "style": "georgian air, harpsichord and viol, clear soprano, gentle, melancholy, measured",
+        "why": "The narcissus blooming at noon on the river bank and blasted by evening — a complete emblem."
+      },
+      {
+        "id": "c22",
+        "style": "gothic ballad, bowed strings and low drone, hushed baritone, eerie, dragging tempo",
+        "why": "Three weird sisters horsed on staves, the grot where light never entered — vivid and self-contained."
+      }
+    ]
+  },
+  {
+    "slug": "james-hammond-poems-7740d1",
+    "picks": [
+      {
+        "id": "c05",
+        "style": "pastoral folk ballad, acoustic guitar, warm baritone, unhurried, contented",
+        "why": "The little field, the strayed lamb brought home under the arm, sleep under the beating rain."
+      },
+      {
+        "id": "c09",
+        "style": "english elegy, solo piano and cello, restrained tenor, slow, aching",
+        "why": "Wound not thy cheeks, nor hurt that flowing hair — a deathbed address that needs no context."
+      },
+      {
+        "id": "c00",
+        "style": "classical elegy, lute and viol, low male voice, grave, spare, measured",
+        "why": "O spare, Persephone, this guiltless head — Love, too much Love, is all thy suppliant's fault."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-praecepta-gerendae-reipublicae-8891df",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "satirical street chant, hand drum and aulos, jeering male chorus, repetitive, quickening",
+        "why": "The Metiochus jingle — he leads the army, bakes the bread, does all things, and will suffer for it at last."
+      }
+    ]
+  },
+  {
+    "slug": "demosthenes-on-the-crown-6f92d0",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "ancient memorial ode, lyre and low male chorus, solemn, stately, slow",
+        "why": "The epitaph for the fallen: God errs not, fails not; but man lies helpless in the hands of fate."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-septem-sapientium-convivium-33a65e",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "riddle song, plucked lyre, single clear male voice, light, teasing, brisk",
+        "why": "Hesiod's extempore riddle of the racing hooves and the chariots breaking at the tomb of Zeus."
+      }
+    ]
+  }
+]

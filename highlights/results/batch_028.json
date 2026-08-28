@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "clement-of-alexandria-stromata-694383",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "greek threnody, lyre over low drone, single male voice, austere, funereal, very slow",
+        "why": "The great pessimist chorus of Greek verse — mourn the newborn, send out the dead rejoicing, men as generations of leaves."
+      },
+      {
+        "id": "c18",
+        "style": "orphic hymn, kithara and hand drums, layered male voices, rolling, majestic, building",
+        "why": "'Lord of aether and Hades, of sea and earth' — a hymn with a seasonal turn: yours the spring of purple flowers, yours the winter."
+      },
+      {
+        "id": "c10",
+        "style": "mystic hymn, aulos and finger cymbals, ecstatic tenor over drone, rising, luminous",
+        "why": "Souls of the pious singing hymns in heaven, and the poet with golden wings and the sandals of the Sirens going up into the aether."
+      }
+    ]
+  },
+  {
+    "slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "urdu nazm, sitar and harmonium, soft tabla, warm male vocal, contemplative, slow, night-lit",
+        "why": "The Assembly of Stars — the sun pelting evening with tulips from the platter of the horizon, then the angel's call to the night-watchers."
+      },
+      {
+        "id": "c20",
+        "style": "qawwali, harmonium, tabla and dholak, handclaps, impassioned lead with chorus responses, driving, defiant",
+        "why": "The Shikwa's complaint to God — 'Forgive the words, but You are fickle in Your worldly ways' — question after question, made for call and response."
+      },
+      {
+        "id": "c21",
+        "style": "melancholy urdu ghazal, harmonium and sarangi, plaintive male vocal, rubato, intimate",
+        "why": "The garden after the roses: songbirds flown, branches stripped, one lone nightingale still carrying a tempest of melody."
+      }
+    ]
+  },
+  {
+    "slug": "samuel-johnson-poems-56e066",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "georgian winter song, harpsichord and viols, baritone, sparse, cold, slow",
+        "why": "The Winter's Walk — naked hill, leafless grove, hoary ground — clean quatrains where the season takes over the heart."
+      },
+      {
+        "id": "c20",
+        "style": "augustan ode, martial drums and brass, declamatory baritone with chorus, stately, building",
+        "why": "Charles XII: 'Think nothing gain'd, he cries, till nought remain' — Famine guarding the coast, Winter barricading the realm of Frost."
+      },
+      {
+        "id": "c12",
+        "style": "18th century satirical ballad, fiddle and hurdy-gurdy, wry male voice, brisk, biting",
+        "why": "'Slow rises worth, by poverty depress'd' — the line everyone quotes from London, in its own street-noise setting."
+      }
+    ]
+  },
+  {
+    "slug": "terence-phormio-ffdb31",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman comic cantica, tibia pipes and lyre, wry baritone patter, brisk, chamber",
+        "why": "Davus on the unfairness of gifts — what the poor man spares ounce by ounce is carried off by the rich without a thought."
+      },
+      {
+        "id": "c01",
+        "style": "roman stage song, tibia and soft strings, tender tenor, gentle, unhurried",
+        "why": "The girl weeping over her dead mother with no one but one old woman to help her bury her — the play's one moment of real feeling."
+      }
+    ]
+  },
+  {
+    "slug": "unknown-vrhaspatitattva-b60b28",
+    "picks": [
+      {
+        "id": "c08",
+        "style": "balinese sacred chant, gamelan metallophones and bamboo flute, low male chant over drone, slow, ceremonial",
+        "why": "The four states — dream like foam and bubbles, deep sleep a thicket of darkness — closing on ghee hidden in milk."
+      },
+      {
+        "id": "c00",
+        "style": "kawi recitation, suling flute and gong, two voices in question and answer, measured, reverent",
+        "why": "Śiva on Kailāsa opening the teaching, with the blind men groping at the elephant and misleading one another."
+      },
+      {
+        "id": "c01",
+        "style": "sanskrit-kawi litany, drone and small gongs, unison male chant, hypnotic, steady",
+        "why": "Immeasurable, indescribable, incomparable, imperishable — a litany of epithets that is already a chant."
+      }
+    ]
+  },
+  {
+    "slug": "apuleius-apologia-b8a97b",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "latin love lyric, kithara and reed pipe, warm tenor, tender, flowing, moderate",
+        "why": "Garlands for the birthday and songs for the guardian spirit — flowers traded for kisses, ending where the reed-pipe outsings the poet."
+      },
+      {
+        "id": "c00",
+        "style": "roman light verse, plucked lyre and hand drum, playful tenor, witty, brisk, chamber",
+        "why": "The tooth-powder poem — a fine white noble little powder, so no grime shows if you should happen to smile."
+      }
+    ]
+  },
+  {
+    "slug": "james-mackintosh-the-miscellaneous-works-of-sir-j-436c7b",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "victorian recitative song, piano and strings, sober baritone, restrained, slow",
+        "why": "Only candidate; it opens on a line worth singing — 'Fame bears no fruit till the vain planter dies'."
+      }
+    ]
+  },
+  {
+    "slug": "cassius-dio-historia-romana-9a0dce",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "oracular chant, sparse aulos and struck bowl, single grave voice over drone, hushed, very slow",
+        "why": "Only candidate; the Sibylline warning about the king of Egypt reads as oracle and carries the right menace."
+      }
+    ]
+  }
+]

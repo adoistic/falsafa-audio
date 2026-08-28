@@ -1,0 +1,61 @@
+[
+  {
+    "slug": "rigveda-aufrecht",
+    "picks": [
+      {"id": "c00", "style": "vedic hymn, tanpura drone, deep male voice, slow, reverent, sparse", "why": "The opening hymn of the Rigveda — Agni praised at dusk and dawn, the first words of the tradition."},
+      {"id": "c04", "style": "riddle chant, tanpura and low frame drum, hushed male voice, slow, enigmatic", "why": "The Riddle Hymn: seven-wheeled chariot, seven sisters, 'Childlike I ask, not knowing in my mind.'"},
+      {"id": "c05", "style": "vedic praise hymn with refrain, drone and hand-struck drum, strong male voice, building, emphatic", "why": "Built on the great refrain — he who stilled the mountains, who propped up the sky, 'he, O people, is Indra.'"}
+    ]
+  },
+  {
+    "slug": "robert-lowth-poems-3a5966",
+    "picks": [
+      {"id": "c11", "style": "baroque seduction aria, harpsichord and viol, honeyed soprano, languid, coaxing", "why": "Sloth's whole seduction speech: 'Rough is the road to fame, thro' blood and war; smooth is my way, and all my paths are peace.'"},
+      {"id": "c10", "style": "allegorical art song, chamber strings and oboe, clear tenor, stately, expectant", "why": "The two enormous women appearing on the road to the young Hercules — one striking awe, one winning love."},
+      {"id": "c23", "style": "english country ballad, fiddle and cittern, bright male voice with chorus, brisk, roguish", "why": "A genuine ballad with a returning refrain — 'away to the Link' and 'a cool walk on the Link'."}
+    ]
+  },
+  {
+    "slug": "john-dyer-poems-9346e6",
+    "picks": [
+      {"id": "c04", "style": "pastoral octosyllabic song, acoustic guitar and recorder, warm tenor, unhurried, reflective", "why": "Dyer's most quoted lines — 'a little rule, a little sway... between the cradle and the grave' — and the rivers running to endless sleep."},
+      {"id": "c00", "style": "anapaestic country air, fiddle and hand drum, easy baritone, swinging, good-humoured", "why": "Already a song rhythm: 'Have my friends in the town, in the gay busy town, forgot such a man as John Dyer?'"},
+      {"id": "c17", "style": "ruins elegy, low strings and distant horn, grave male voice, slow, hollow", "why": "The monk over the tombs where 'Caesars, heroes, peasants, hermits lie, blended in dust together'."}
+    ]
+  },
+  {
+    "slug": "anne-hunter-poems-81c841",
+    "picks": [
+      {"id": "c18", "style": "georgian canzonetta, fortepiano and cello, tender soprano, gentle, aching", "why": "A finished song with a returning refrain: 'No more I'll murmur and complain, for thou, my love, wilt think on me.'"},
+      {"id": "c15", "style": "mad song, harp and sparse strings, unsteady female voice, shifting tempo, haunted", "why": "The Maniac's Song — 'I had a friend, she prov'd unkind; I had a love, he prov'd untrue' — and a passing bell."},
+      {"id": "c22", "style": "funeral dirge, string quartet and soft voices, clear female lead, slow, processional", "why": "Rosemary, rue, virgin lilies and wild rose strewn on a grave — a dirge already written for singers."}
+    ]
+  },
+  {
+    "slug": "james-barclay-poems-1c4e19",
+    "picks": [
+      {"id": "c06", "style": "morning pastoral ballad, fiddle and flute, bright female vocal, lively, fresh", "why": "'Awake, my fair, the morning springs' — the heifer lows, the blackbird sings; ballad metre made for singing."},
+      {"id": "c10", "style": "satirical parlour song, harpsichord and pizzicato strings, arch baritone, brisk, cutting", "why": "Witwoud young against Witwoud old, closing on flies that grow blind and sting us at the last."},
+      {"id": "c00", "style": "garden fable air, lute and recorder, light tenor, courtly, playful", "why": "The tall tulip lording it over the lily of the valley — the fable set up in one clean scene."}
+    ]
+  },
+  {
+    "slug": "plutarch-themistocles-24aecf",
+    "picks": [
+      {"id": "c01", "style": "greek invective song, lyre and hard-struck drum, biting male voice, driving, sardonic", "why": "Timocreon's attack song in full — three talents of silver, stale meats, and guests praying against their host."},
+      {"id": "c00", "style": "greek satirical air, kithara and light percussion, wry male voice, moderate, mocking", "why": "The Andrians answering Persuasion and Compulsion with their own two gods, Penury and Powerlessness."}
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-pro-lapsu-inter-salutandum-4261ef",
+    "picks": [
+      {"id": "c00", "style": "greek toast song, lyre and hand drum, warm male voice, easy, convivial", "why": "Only candidate; a chain of greetings ending in a drinking-toast order — health first, then prosperity, then joy."}
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-demonax-eaf4f1",
+    "picks": [
+      {"id": "c00", "style": "greek epitaph chant, single lyre, unaccompanied male voice, sparse, final", "why": "Only candidate; short but complete — 'the games are done, the crowns all won; no more delay.'"}
+    ]
+  }
+]

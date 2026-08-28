@@ -1,2 +1,6 @@
 node_modules/
 .DS_Store
+.venv/
+audio-out/
+__pycache__/
+out/

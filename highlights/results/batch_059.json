@@ -1,0 +1,42 @@
+[
+  {"slug": "unknown-visnu-smrti-27f0d8",
+   "picks": [
+     {"id": "c00", "style": "sanskrit cosmogonic chant, tanpura drone and deep frame drum, resonant male voice, slow, vast, ritual", "why": "The Boar lifting the drowned earth, his whole body read as a sacrifice — tusks the sacrificial post, grunt the Sāma chant."},
+     {"id": "c23", "style": "namavali litany, harmonium and hand cymbals, call-and-response male voices, steady, hypnotic, devotional", "why": "A litany of names of the god — already built to be sung antiphonally: O you without beginning, middle, or end."},
+     {"id": "c22", "style": "ascetic chant, single drone and finger cymbals, austere male voice, sparse, unhurried, resolute", "why": "The tapas couplets: austerity as root, middle and end of the world, and nothing insurmountable to it."}
+   ]},
+  {"slug": "moses-mendez-poems-097cec",
+   "picks": [
+     {"id": "c01", "style": "spenserian pastoral, lute and recorder, warm tenor, gentle, unhurried, sunlit", "why": "The hermitage stanza — vine-wound cottage, hundred flowers, a brook that lulls to sleep profound."},
+     {"id": "c15", "style": "gothic ballad, viol and low drone, dark baritone, slow, eerie, brooding", "why": "The turf cottage under the yew, the owl's dirge, and the old miser bound in a golden fillet."},
+     {"id": "c16", "style": "archaic ballad, harp and fiddle, plain male voice, measured, wry, elegiac", "why": "Troy town is now a grass-grown field — the sun itself shall lose its light, and mortal flesh is frail."}
+   ]},
+  {"slug": "homeric-hymns-hymn-5-to-aphrodite-24a8fb",
+   "picks": [
+     {"id": "c00", "style": "homeric hymn, phorminx lyre and light drum, clear male voice, stately, invocatory, flowing", "why": "The proem: the goddess who subdues gods, mortals, birds of the air and everything the sea rears."},
+     {"id": "c15", "style": "greek lament, single lyre and low drone, ageing male voice, slow, hollow, haunted", "why": "Tithonus granted deathlessness without youth — shut in a room, babbling endlessly, unable to lift a limb."},
+     {"id": "c17", "style": "pastoral hymn, syrinx and soft strings, mid-range voice, gentle, mysterious, unhurried", "why": "The mountain nymphs whose pines and oaks are born with them and wither when their lives run out."}
+   ]},
+  {"slug": "isaac-watts-poems-398499",
+   "picks": [
+     {"id": "c00", "style": "english hymn, chamber organ and voices, congregational tenor, steady, majestic, common meter", "why": "Great God, indulge a mortal tongue — and the line that has outlived it: thou sit'st on no precarious throne."},
+     {"id": "c03", "style": "sapphic doom hymn, low drums and drone, massed unison voices, driving, terrifying, relentless", "why": "The Day of Judgment in sapphics — graves opening, the living worm, hopeless immortals screaming."},
+     {"id": "c23", "style": "children's hymn, acoustic guitar and recorder, sweet clear voice, simple, gentle, lilting", "why": "The rose that fades in a day but keeps its perfume — Watts's plainest and best-turned emblem."}
+   ]},
+  {"slug": "moschus-epitaphius-bios-6ff871",
+   "picks": [
+     {"id": "c00", "style": "hellenistic bucolic dirge, syrinx and lyre, plaintive male voice, slow, refrain-driven, mourning", "why": "The opening dirge with its refrain — roses flushing crimson, the hyacinth told to speak its letters."},
+     {"id": "c06", "style": "pastoral lament, low strings and reed pipe, grave voice, slow, resigned, dark", "why": "Mallows and parsley come back each year; we, once dead, sleep an endless unwakeable sleep."},
+     {"id": "c03", "style": "bucolic elegy, solo panpipes and soft drum, tender male voice, unhurried, aching", "why": "Who is bold enough to set his mouth to your reeds — even Pan would fear to come off second."}
+   ]},
+  {"slug": "plutarch-amatorius-3b9dbe",
+   "picks": [
+     {"id": "c01", "style": "greek symposium song, lyre and aulos, wry male voice, moderate, conversational, sardonic", "why": "Hesiod's marriage arithmetic followed by the hundred names of Cypris — she's hell on earth, continued violence."}
+   ]},
+  {"slug": "procopius-of-caesarea-history-of-the-wars-77f718",
+   "picks": [
+     {"id": "c00", "style": "epigraphic chant, single lyre and sea-drone, sparse male voice, slow, weathered, monumental", "why": "The inscription on the stone ship: me, a ship of stone, Agamemnon set up here."}
+   ]},
+  {"slug": "john-locke-second-treatise-of-government-99e9e5",
+   "picks": []}
+]

@@ -1,0 +1,43 @@
+[
+  {"slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+   "picks": [
+     {"id": "c00", "style": "old javanese kakawin invocation, bronze gamelan, suling flute, low male chant, slow, ceremonial, incense-heavy", "why": "The whole poem's opening praise, built as one sustained metaphor of the inner war fought with meditation, compassion and wisdom."},
+     {"id": "c08", "style": "javanese temple chant, gong and rebab, solemn male voice, sparse, ominous, measured", "why": "The road to hell is broad and well-trodden, the path to the gods faint and overgrown — a self-contained turn of thought."},
+     {"id": "c23", "style": "kawi love lament, gender wayang metallophones, breathy female vocal, slow, tender, rain-soft", "why": "A dead lover's song read over and over: if you become a tree, I will become the rain-cloud."}
+   ]},
+  {"slug": "p-vergilius-maro-virgil-georgics-c2e75f",
+   "picks": [
+     {"id": "c00", "style": "latin georgic invocation, lyre and pan pipes, warm baritone, stately, sunlit, processional", "why": "The famous opening — what makes the cornfield smile — naming the whole poem's themes and calling the rustic gods to dance."},
+     {"id": "c20", "style": "pastoral recitation, cello drone, hurdy-gurdy, warm male voice, measured, elegiac", "why": "The bees: each life narrow and brief, yet the race deathless, counted backward from grandsire to grandsire."},
+     {"id": "c23", "style": "underworld lament, solo lyre, low strings, hushed tenor, slow, funereal, echoing", "why": "Orpheus at the jaws of Taenarus, the shades trooping up like birds driven from the hills by winter."}
+   ]},
+  {"slug": "thomas-parnell-poems-2f0378",
+   "picks": [
+     {"id": "c08", "style": "baroque pastoral hymn, strings and harpsichord, bright soprano, dancing triple time, refrain-driven", "why": "The Pervigilium Veneri refrain — let those love now who never loved before — already built as a song."},
+     {"id": "c20", "style": "graveyard elegy, chamber organ, bass viol, grave contralto, slow, hushed, tolling", "why": "The Night-Piece on Death: walking the churchyard by steeple-light, time was and time shall be."},
+     {"id": "c21", "style": "english devotional air, lute and recorder, gentle tenor, unhurried, serene", "why": "The Hymn to Contentment's turn — peace makes this world Eden again, and man contains it in his breast."}
+   ]},
+  {"slug": "edward-moore-poems-516d92",
+   "picks": [
+     {"id": "c00", "style": "18th century broadside ballad, acoustic guitar and fiddle, plaintive female vocal, minor key, steady, mournful", "why": "A complete ballad opening — a voice from the tomb calling Lucy to lie down beside Colin's clay."},
+     {"id": "c01", "style": "graveside ballad lament, solo fiddle, near-unaccompanied female voice, slow, keening", "why": "The lament proper, built on the repeated 'How long' — the most singable stretch in the collection."}
+   ]},
+  {"slug": "thomas-percy-poems-d78715",
+   "picks": [
+     {"id": "c02", "style": "scottish pastoral song, fiddle and small harp, warm tenor, gentle lilt, refrain", "why": "O Nancy, wilt thou go with me — Percy's best-known song, with its 'fairest of the fair' refrain intact."},
+     {"id": "c03", "style": "border ballad, clarsach and low whistle, plain male voice, slow, tender, question-and-refrain", "why": "The song's rising questions — hardship, sickness, the deathbed — each answered by the same refrain."},
+     {"id": "c07", "style": "georgian parlour elegy, fortepiano, soft tenor, wistful, chamber", "why": "The budding rose that shrinks from the blaze of day, and the moment love first landed."}
+   ]},
+  {"slug": "pseudo-plutarch-de-musica-28edac",
+   "picks": [
+     {"id": "c00", "style": "greek comic parody song, aulos and lyre, sardonic female vocal, brisk patter, mock-lament", "why": "Music herself, bruised and battered, listing by name the poets who racked her strings — comic verse already in rhyme."}
+   ]},
+  {"slug": "plutarch-an-seni-respublica-gerenda-sit-bd8449",
+   "picks": [
+     {"id": "c00", "style": "attic tragic chorus, lyre and aulos, layered voices, solemn, flowing, birdsong-bright", "why": "The Colonus chorus Sophocles recited to prove he was not senile — white Colonus, its horses and its nightingale."}
+   ]},
+  {"slug": "plato-sophist-b8c6ad",
+   "picks": [
+     {"id": "c00", "style": "philosophical incantation, low drone, single male voice, austere, slow, oracular", "why": "Only candidate, but it is the Parmenides prohibition itself: keep your mind from this path."}
+   ]}
+]

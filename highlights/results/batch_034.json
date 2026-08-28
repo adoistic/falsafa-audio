@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "terence-hecyra-f1d9be",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "roman comic canticum, tibia and plucked lyre, sardonic female voice, brisk, worldly",
+        "why": "Syra's advice to plunder, fleece and rend every man you lay hold of — a complete comic argument in two voices."
+      },
+      {
+        "id": "c22",
+        "style": "roman monody, soft double pipe and lyre, warm low female voice, reflective, unhurried",
+        "why": "The courtesan's soliloquy: the ring recognised, the truth out, and \"I never, for the sake of gain, will give my mind to base actions\"."
+      }
+    ]
+  },
+  {
+    "slug": "euripides-cyclops-33b10f",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "rustic satyr chorus, panpipes and goatskin drum, rough male voices with calls and whistles, lively, pastoral",
+        "why": "The goat-herding chorus — dewy slope, bursting udder, bleating kids — a genuine work-song with shouts built into it."
+      },
+      {
+        "id": "c06",
+        "style": "greek drinking song, aulos and clapping hands, slurred lusty male voice, rollicking, accelerating",
+        "why": "Silenus on wine: love with all its frolic, dancing, and oblivion of woe — \"if a man rejoice not in his drinking, he is mad\"."
+      },
+      {
+        "id": "c11",
+        "style": "grotesque satyr chorus, braying pipes and heavy drums, leering voices in unison, gleeful, macabre",
+        "why": "\"Ope wide the portal of thy gaping throat, Cyclops\" — a cannibal serenade, self-contained and horribly catchy."
+      }
+    ]
+  },
+  {
+    "slug": "seneca-lucius-annaeus-agamemnon-18bcc4",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "underworld invocation, low drones and struck metal, bass male voice, sepulchral, slow, spoken-sung",
+        "why": "Thyestes' ghost arriving: \"I flee the underworld; I put the upper world to flight\" — an opening that explains itself entirely."
+      },
+      {
+        "id": "c02",
+        "style": "roman chorus, lyre and low strings, unison voices, grave, measured, resigned",
+        "why": "\"Whatever Fortune has raised on high, she lifts to dash it down\" — and the safer joy of rowing close to shore."
+      },
+      {
+        "id": "c15",
+        "style": "lament with responding chorus, harp and viol over a drone, solo female voice, slow, aching",
+        "why": "Cassandra refusing company in her grief against the chorus's \"it is sweet to mingle tears with tears\" — call and answer already written in."
+      }
+    ]
+  },
+  {
+    "slug": "edward-rolle-poems-afdcef",
+    "picks": [
+      {
+        "id": "c15",
+        "style": "18th century ode for music, baroque strings and trumpet, tenor with small chorus, alternating grand and tender",
+        "why": "The Power of Poetry — Orpheus stilling the swains, Rapine dropping her prey. Written in ode stanzas that already ask for setting."
+      },
+      {
+        "id": "c03",
+        "style": "georgian moral air, harpsichord and violin, wry baritone, brisk, epigrammatic",
+        "why": "The fool with the fiddle — \"There's musick in it, could I fetch it out\" — and the moral that we lack not instruments but art."
+      },
+      {
+        "id": "c02",
+        "style": "english drinking-and-repenting song, fortepiano and cello, rueful tenor, easy, self-mocking",
+        "why": "\"To-day be happy, and to-morrow wise!\" and the confession that to fail, the first step is to vow."
+      }
+    ]
+  },
+  {
+    "slug": "constantia-grierson-poems-59afb5",
+    "picks": [
+      {
+        "id": "c09",
+        "style": "georgian song in tetrameter couplets, harpsichord and flute, arch light soprano, playful, trotting",
+        "why": "Cupid complaining of his own portraits: the patriot enslaved to a jilt, the sage wedded to a shrew, vestals languishing for a beau."
+      },
+      {
+        "id": "c05",
+        "style": "18th century ode, strings and oboe, declamatory soprano, stately, indignant",
+        "why": "Phoebus growing jealous as the Muses build a woman's mind and denying her the universal tongue — the grievance is fully legible."
+      }
+    ]
+  },
+  {
+    "slug": "seneca-the-elder-suasoriae-a8110c",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "sea epic recitation, bowed drone and deep frame drum, resonant male voice, vast, foreboding, slow swell",
+        "why": "Pedo's Ocean: \"Whither are we borne?\" — mortals forbidden to know the end of things, troubling the gods' quiet waters with oars."
+      },
+      {
+        "id": "c02",
+        "style": "roman funeral declamation, low strings and muffled drum, grave male voice, heavy, mournful",
+        "why": "Cicero's head on the Rostra — \"one day took away the glory of a lifetime\" and the Latin tongue fell silent."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-de-pythiae-oraculis-dcd871",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "oracular chant, drone and struck bowl, high wavering female voice, hypnotic, portentous",
+        "why": "Only candidate, but it carries a whole oracle in verse — flames from burning seas, an island reared up dreadful to hear — plus the Castalian springs."
+      }
+    ]
+  },
+  {
+    "slug": "aristotle-rhetoric-6b9325",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "aeolic lyric, solo lyre, clear unadorned female voice, intimate, spare",
+        "why": "Only candidate, and it is Sappho answering: if your wish were good, shame would not have filled your eyes. One closed thought."
+      }
+    ]
+  }
+]

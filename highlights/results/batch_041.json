@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "euripides-hippolytus-757342",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "ancient greek hymn, lyre and aulos, clear male voice with soft chorus, modal, reverent, slow",
+        "why": "The wreath from the unmown meadow — the play's most quoted lyric and a complete image on its own."
+      },
+      {
+        "id": "c13",
+        "style": "ancient chorus, kithara, frame drum, layered female voices, keening, dark, building",
+        "why": "The white-winged ship carrying the bride to her doom, closing on the cry that the queen has hanged herself."
+      },
+      {
+        "id": "c23",
+        "style": "ancient processional lament, double aulos, unison girls' choir, solemn, slow, ritual",
+        "why": "Artemis's promise that unwed girls will cut their hair for him forever — a built-in ritual refrain."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-poenulus-3da27c",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman comic patter, tibia pipes, hand drum and clappers, brash male voice, brisk, swaggering",
+        "why": "The prologue's direct address to the audience — hungry or full, sit down and listen; pure stage energy."
+      },
+      {
+        "id": "c22",
+        "style": "comic insult aria, shrill tibia and cymbals, ranting male voice, fast, escalating, theatrical",
+        "why": "The soldier's torrent of abuse — shoe-latchet, skinned pilchard, pot of stinking sea-salt — a list that sings itself."
+      }
+    ]
+  },
+  {
+    "slug": "sophocles-ichneutae-b20bad",
+    "picks": [
+      {
+        "id": "c08",
+        "style": "rustic satyr rant, aulos, goatskin drum, gruff bellowing male voice, driving, earthy",
+        "why": "Silenus lashing his cowardly sons: nothing but body and tongue and voice, trusting words and fleeing deeds."
+      },
+      {
+        "id": "c16",
+        "style": "playful pastoral duet, brightly plucked lyre, nymph soprano against rough male chorus, curious, moderate",
+        "why": "The riddle of the lyre solved — a voice made from a dead animal, and the song that flits like a bee over flowers."
+      },
+      {
+        "id": "c13",
+        "style": "hushed storytelling chant, low lyre drone, warm female voice, secretive, unhurried",
+        "why": "Cyllene's secret: the hidden child in the cave who grew in six days to the height of a young man."
+      }
+    ]
+  },
+  {
+    "slug": "sir-james-marriott-poems-531359",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "georgian glee, harpsichord and traverso flute, clear soprano, light, graceful, lilting",
+        "why": "Goldfinch, lark and nightingale outsung by a woman's voice — a song explicitly about singing."
+      },
+      {
+        "id": "c05",
+        "style": "english cathedral anthem, chamber organ, choir with treble line, majestic, broad, resonant",
+        "why": "Arise, O Lord — night has no shades for thee; a full-throated sublime hymn with natural refrain shape."
+      },
+      {
+        "id": "c21",
+        "style": "baroque ode, strings and continuo, agile tenor, buoyant, rising, ornamented",
+        "why": "Fancy diving to the coral floor for jasper, sapphire and ruby — concrete, glittering, and self-contained."
+      }
+    ]
+  },
+  {
+    "slug": "aristophanes-peace-75f3d4",
+    "picks": [
+      {
+        "id": "c04",
+        "style": "greek comic chorus, aulos and lyre, rowdy male voices, dance rhythm, merry, rustic",
+        "why": "Freed from helmet and cheese and onions — the drinking-by-the-fire song, the warmest thing in the play."
+      },
+      {
+        "id": "c05",
+        "style": "pastoral greek song, syrinx pipes and lyre, warm male voice, sunlit, ambling, contented",
+        "why": "The cricket, the ripening Lemnian vines, the swelling fig, and the cry Dear seasons!"
+      },
+      {
+        "id": "c07",
+        "style": "wedding processional, aulos and tambourine, call-and-response chorus, torchlit, celebratory, quickening",
+        "why": "The Hymen, Hymenaeus refrain with the prayer for barley, wine, figs and children — a ready-made chorus."
+      }
+    ]
+  },
+  {
+    "slug": "lucian-of-samosata-juppiter-tragoedus-51b28f",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "mock-tragic declamation, solo lyre, portentous male voice, grandiose then deflating, moderate",
+        "why": "Gods speaking in borrowed tragic verse about Zeus's sulk — parody that still scans as high style."
+      },
+      {
+        "id": "c01",
+        "style": "oracular chant, reedy aulos, sonorous male voice, mock-solemn hexameters, steady, ceremonial",
+        "why": "Apollo's absurd prophecy — victory lies with the mules — delivered in perfect oracular cadence."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-de-sollertia-animalium-4570af",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "aesopic proverb song, plucked lyre, wry male voice, light, unhurried, conversational",
+        "why": "The fox's many tricks against the hedgehog's one, and the octopus taking the colour of its rock."
+      }
+    ]
+  },
+  {
+    "slug": "cicero-marcus-tullius-letters-to-atticus-0b31fd",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman verse epistle, solo lyre, grave male voice, spare, measured, stern",
+        "why": "The only verse in the batch's letters — a terse exhortation to keep sober and hold what you held as consul."
+      }
+    ]
+  }
+]

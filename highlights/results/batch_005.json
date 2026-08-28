@@ -1,0 +1,147 @@
+[
+  {
+    "slug": "ausonius-decimus-magnus-mosella-d85c10",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "late antique river hymn, cithara and low flute with soft water percussion, warm tenor, flowing, celebratory, unhurried",
+        "why": "'Hail, river ... O greenest of rivers!' — a direct address that gathers spring, brook, lake and tide into one praise."
+      },
+      {
+        "id": "c08",
+        "style": "pastoral idyll, panpipes and light frame drum, mixed voices, playful, sunlit, then hushed at the close",
+        "why": "Nymphs ducking the Satyrs at noon while nobody watches, ending on the poet refusing to say more — mischief with a veil drawn over it."
+      },
+      {
+        "id": "c02",
+        "style": "meditative water song, harp and glassy bowed strings, soft high voice, slow, transparent, drifting",
+        "why": "Looking down through clear water: the furrowed sand rippling, the pebble that gleams and hides, the gravel setting off green moss."
+      }
+    ]
+  },
+  {
+    "slug": "aulus-persius-flaccus-satires-7815f3",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman satirical prologue, plucked lyre and dry hand percussion, wry conversational baritone, brisk, sardonic, clipped",
+        "why": "'I never wet my lips at the nag's spring' — hunger taught the parrot to say good morning, and that is the whole theory of poetry."
+      },
+      {
+        "id": "c16",
+        "style": "insistent moral chant, low strings and ticking percussion, urgent tenor, driving, circling, unresolved",
+        "why": "'Tomorrow this shall be done.' The same tomorrow it will be done — the rim that turns upon itself and is never caught."
+      },
+      {
+        "id": "c09",
+        "style": "stern latin invective, low brass and deep drum, hard declaiming voice, weighty, accusing, building to a curse",
+        "why": "The prayer against tyrants: let them see virtue, and pine for having forsaken it. The best line Persius ever wrote."
+      }
+    ]
+  },
+  {
+    "slug": "william-shakespeare-sonnets-65f289",
+    "picks": [
+      {
+        "id": "c15",
+        "style": "renaissance art song, lute and viol, countertenor, gentle, chamber, wintry and aching",
+        "why": "Sonnet 97 entire — 'How like a winter hath my absence been' — an autumn that feels like December because one person is missing."
+      },
+      {
+        "id": "c05",
+        "style": "elizabethan lute song, solo lute and bass viol, warm tenor, unhurried, radiant then clouding over",
+        "why": "Sonnet 33 entire — the sun flattering the mountain tops, then hidden by the basest clouds, then forgiven."
+      },
+      {
+        "id": "c10",
+        "style": "renaissance consort song, viol consort and lute, grave countertenor, slow, embattled, resolving to a single bright line",
+        "why": "Sonnet 65 entire — brass, stone, earth and sea against time, and only black ink left standing at the end."
+      }
+    ]
+  },
+  {
+    "slug": "terence-eunuchus-b8e41d",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman comic aria, tibia and plucked strings, worldly baritone, conversational, quickening, rueful",
+        "why": "Parmeno's catalogue of love — 'wrongs, suspicions, enmities, reconcilements, war, then peace' — and the folly of being mad with reason."
+      },
+      {
+        "id": "c03",
+        "style": "comic patter song, pizzicato strings and woodblock, sly tenor, fast, antithetical, self-delighted",
+        "why": "The parasite's manifesto: 'Does any one deny? I deny: does he affirm? I affirm.' Built on a rhythm that sings itself."
+      },
+      {
+        "id": "c11",
+        "style": "roman narrative song, lyre and soft drum, hushed conspiratorial voice, unhurried, wondering, sensual",
+        "why": "The boy studying the painting of Danaë's golden shower and delighting that a god would turn himself into money to get in through the roof tiles."
+      }
+    ]
+  },
+  {
+    "slug": "phaedrus-fabulae-6b12c9",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "english fable ballad, fiddle and plucked cittern, bright storytelling tenor, brisk, four-beat, wry",
+        "why": "'Twofold's the genius of the page, to make you smile and make you sage' — a prologue that states its own terms, then walks straight into the wolf and the lamb."
+      },
+      {
+        "id": "c01",
+        "style": "comic beast fable, harpsichord and tabor, mocking mixed voices, trotting, strophic, punchline-timed",
+        "why": "The jackdaw in borrowed peacock quills, stripped by both flocks and told he should have stayed at home. A complete fable with its sting intact."
+      },
+      {
+        "id": "c12",
+        "style": "dry epigrammatic air, plucked lute and light percussion, deadpan baritone, measured, ironic, clipped",
+        "why": "The cock finding a pearl on the dunghill and preferring a grain of barley, closing on 'to whom in vain my pearls are thrown.'"
+      }
+    ]
+  },
+  {
+    "slug": "david-starr-jordan-the-philosophy-of-despair-115696",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "persian-inflected art song, santur and low strings with soft frame drum, dark warm voice, slow, fatalistic, circling",
+        "why": "Rubaiyat quatrains at their bleakest: the phantom caravan reaching the Nothing it set out from, and the door with no key."
+      },
+      {
+        "id": "c00",
+        "style": "island elegy, acoustic guitar and low flute, weathered male voice, unhurried, salt-worn, valedictory",
+        "why": "'A darkening sky and a whitening sea' — a man writing his own epitaph on a stone from the grey sea wall."
+      },
+      {
+        "id": "c03",
+        "style": "victorian hymn-lament, chamber organ and viola, plaintive alto, slow, questioning, unresolved",
+        "why": "'That the mark of rank in Nature is capacity for pain, and the anguish of the singer marks the sweetness of the strain' — a whole thesis in one stanza."
+      }
+    ]
+  },
+  {
+    "slug": "plutarch-solon-48a3e2",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "greek self-mocking lyric, lyre and hand drum, dry knowing male voice, moderate, ironic, conversational",
+        "why": "Solon quoting his own critics — the fool who would not haul in a net full of fish — and answering with a flayed pouch and a blotted line."
+      },
+      {
+        "id": "c00",
+        "style": "greek gnomic chant, plucked lyre and low drone, steady grave voice, measured, plain, resolute",
+        "why": "'Our virtue for their wealth — since one abides always, while riches change their owners every day.'"
+      }
+    ]
+  },
+  {
+    "slug": "william-stanley-jevons-the-coal-question-5f50ce",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "elizabethan broadside lament, bowed lyre and tabor, grim baritone, measured, foreboding, plain",
+        "why": "'These iron times breed none that mind posterity' — and the patent-holder's boast: if the mills go up, down go the goodly trees."
+      }
+    ]
+  }
+]

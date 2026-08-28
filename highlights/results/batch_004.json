@@ -1,0 +1,136 @@
+[
+  {
+    "slug": "plutarch-consolatio-ad-apollonium-71eca9",
+    "picks": [
+      {
+        "id": "c05",
+        "style": "greek consolation ode, lyre and low strings, grave tenor, slow, measured, autumnal",
+        "why": "The leaves simile — 'Another race the following spring supplies; they fall successive, and successive rise' — the oldest image we have for mortality."
+      },
+      {
+        "id": "c06",
+        "style": "dark chamber ballad, viol and muted harp, low female voice, slow, hushed, creeping",
+        "why": "Pandora's plagues creeping on silent feet because Jupiter took away their voices — a nightmare with a beautiful mechanism."
+      },
+      {
+        "id": "c04",
+        "style": "ancient greek gnomic chant, single lyre and drone, plain male voice, unhurried, aphoristic, sparse",
+        "why": "'What are we, what are we not? Man is but a shadow's dream' — Pindar's hyperbole set against a wheel that turns in a single day."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-amphitruo-14f1d9",
+    "picks": [
+      {
+        "id": "c10",
+        "style": "roman stage aria, tibia pipes and light strings, warm female voice, flowing, resigned, dignified",
+        "why": "Alcmena alone: pleasure allotted sorrow for a companion, one night of a husband, and valour named the best reward — a real solo speech."
+      },
+      {
+        "id": "c17",
+        "style": "comic patter song, plucked lyre and hand drum, sly light tenor, quick, conspiratorial, mischievous",
+        "why": "Mercury planning to fake a drunk and pelt a man from his own rooftop — a self-contained aside told straight to the audience."
+      },
+      {
+        "id": "c00",
+        "style": "roman market-god prologue, reedy pipes and tambourine, brash showman's voice, brisk, wheedling, rhythmic",
+        "why": "The god of profit bargaining with the crowd for their silence before naming himself — a prologue that is already a performance."
+      }
+    ]
+  },
+  {
+    "slug": "thomas-tickell-poems-75a572",
+    "picks": [
+      {
+        "id": "c10",
+        "style": "english supernatural ballad, fiddle and harp, plaintive female voice, strophic, ominous, unhurried",
+        "why": "Colin and Lucy — the bell tolling three times and the raven at the window. Ballad metre with a curse in it."
+      },
+      {
+        "id": "c09",
+        "style": "georgian elegy-hymn, chamber organ and strings, clear tenor, slow, questioning, ascending",
+        "why": "'In what new region, to the just assign'd, what new employments please th' unbody'd mind?' — a whole song of questions to the dead."
+      },
+      {
+        "id": "c13",
+        "style": "solemn valediction, muted strings and low flute, grave baritone, slow, bitter, spare",
+        "why": "'Thou musick, warbling to the deafen'd ear! Thou incense wasted on the fun'ral bier!' — fame indicted in four unanswerable lines."
+      }
+    ]
+  },
+  {
+    "slug": "ann-batten-cristall-poems-b0d784",
+    "picks": [
+      {
+        "id": "c18",
+        "style": "english dance-song, tabor and pipe with fiddle, bright female voice, quick, whirling, refrain-driven",
+        "why": "'Come, let us dance and sing' — short lines, internal rhyme, a built-in chorus. It is already a song and says so."
+      },
+      {
+        "id": "c00",
+        "style": "dawn aubade, harp and soft flute, high clear voice, gathering, expectant, luminous",
+        "why": "The poet of spring calling the hours on: 'Swift, swift, ye lingering hours, and wake the morning star.'"
+      },
+      {
+        "id": "c19",
+        "style": "pastoral chase ballad, acoustic guitar and fiddle, warm mixed voices, lilting, teasing, seasonal",
+        "why": "The girl who laughs and runs across three seasons of hills — a pursuit song with the year built into its verses."
+      }
+    ]
+  },
+  {
+    "slug": "matthew-green-poems-bcef0f",
+    "picks": [
+      {
+        "id": "c23",
+        "style": "witty georgian air, harpsichord and recorder, light tenor, tripping, charming, four-beat",
+        "why": "The oak dropping acorns down your neck, birds taking their vacation to sing, flowers leaning out to trade sweets — invention on every line."
+      },
+      {
+        "id": "c14",
+        "style": "reflective english hymn, chamber organ and viola, calm baritone, slow, settled, consoling",
+        "why": "'A stranger into life I'm come, dying may be our going home' — the whole argument for peace of mind in twelve lines."
+      },
+      {
+        "id": "c16",
+        "style": "drawing-room lament, harpsichord and solo violin, tender soprano, gentle, reproachful, strophic",
+        "why": "The sparrow killed to mend a ring, closing on 'A Lucia's face forbear to smile, a Venus kill her bird.'"
+      }
+    ]
+  },
+  {
+    "slug": "lycurgus-against-leocrates-0dcab5",
+    "picks": [
+      {
+        "id": "c02",
+        "style": "greek tragic monody, aulos and low lyre, resolute female voice, measured, unwavering, austere",
+        "why": "The mother giving her daughter to be sacrificed, scorning the women who urge cowardice — a garland destined for her alone."
+      },
+      {
+        "id": "c06",
+        "style": "spartan war chant, deep drum and bronze percussion, massed male voices, hard, driving, stamping",
+        "why": "Tyrtaeus at full pitch, closing on the greatest epitaph ever cut: 'Go tell the Spartans ... that here obedient to their laws we lie.'"
+      },
+      {
+        "id": "c05",
+        "style": "greek marching song, double pipe and frame drum, low male chorus, insistent, grim, steady",
+        "why": "The exile roaming unpitied with his whole line behind him, turned into a reason to stand and guard the old."
+      }
+    ]
+  },
+  {
+    "slug": "plato-ion-ce0676",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "homeric recitation, single lyre and low drone, declaiming male voice, deliberate, ominous, spare",
+        "why": "The eagle and the still-fighting snake that bites its captor and is dropped into the army — a complete omen in one breath."
+      }
+    ]
+  },
+  {
+    "slug": "aristotle-poetics-6c4430",
+    "picks": []
+  }
+]

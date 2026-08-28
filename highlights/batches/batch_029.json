@@ -1,0 +1,698 @@
+[
+ {
+  "slug": "euripides-heracleidae-9c65ba",
+  "title": "Heracleidae",
+  "author": "Euripides",
+  "language": "Greek",
+  "genre": "Classics",
+  "era": "Classical",
+  "class": "poetic",
+  "n_windows": 59,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "Scene.—Before the altar of Zeus at Marathon.\nIolaus:\nI hold this true, and long have held: Nature hath made one man upright for his neighbours’ good, while another hath a disposition wholly given over to gain, useless alike to the state and difficult to have dealings with, but for himself the best of men; and this I know, not from mere hearsay. I, for instance, from pure regard and reverence for my kith and kin, though I might have lived at peace in Argos, alone of all my race shared with Heracles his labours, while he was yet with us, and now that he dwells in heaven,\nI keep these his children safe beneath my wing, though myself I need protection. For when their father passed from earth away, Eurystheus would first of all have slain us, but we escaped. And though our home is lost, our life was saved. But in exile we wander from city to city, ever forced to roam. For, added to our former wrongs, Eurystheus thought it fit to put this further outrage upon us: wheresoe’er he heard that we were settling, thither would he send heralds demanding our surrender and driving us from thence, holding out this threat, that Argos is no mean city to make a friend or foe, and furthermore pointing to his own prosperity. So they, seeing how weak my means, and these little ones left without a father, bow to his superior might and drive us from their land. And I share the exile of these children, and help them bear their evil lot by my sympathy, loth to betray them, lest someone say, Look you! now that the children’s sire is dead,"
+   },
+   {
+    "id": "c01",
+    "at": "1:2",
+    "text": "O children, children, come hither! hold unto my robe; for lo! I see a herald coming towards us from Eurystheus, by whom we are persecuted, wanderers excluded from every land. A curse on thee and him that sent thee, hateful wretch! for that same tongue of thine hath oft announced its master’s evil hests to these children’s noble sire as well.\nCopreus:\nDoubtless thy folly lets thee think this is a good position to have taken up, and that thou art come to a city that will help thee. No! there is none that will prefer thy feeble arm to the might of Eurystheus. Begone! why take this trouble? Thou must arise and go to Argos, where awaits thee death by stoning.\nIolaus:\nNot so, for the god’s altar will protect me, and this land of freedom, wherein we have set foot.\nCopreus:\nWilt give me the trouble of laying hands on thee?"
+   },
+   {
+    "id": "c02",
+    "at": "2:2",
+    "text": "Chorus:\nWho threw thee down thus pitiably?\nIolaus:\nBehold the man who flouts your gods, kind sirs, and tries by force to drag me from my seat before the altar of Zeus.\nChorus:\nFrom what land, old stranger, art thou come to this confederate state of four cities? or have ye left Euboea’s cliffs, and, with the oar that sweeps the sea, put in here from across the firth?\nIolaus:\nSirs, no island life I lead, but from Mycenae to thy land I come.\nChorus:\nWhat do they call thee, aged sir, those folk in Mycenae?\nIolaus:\nMaybe ye have heard of Iolaus, the comrade of Heracles, for he was not unknown to fame.\nChorus:\nYea, I have heard of him in bygone days; but tell me, whose are the tender boys thou bearest in thine arms?\nIolaus:\nThese, sirs, are the sons of Heracles, come as suppliants to you and your city."
+   },
+   {
+    "id": "c03",
+    "at": "3:12",
+    "text": "Demophon:\nWhy should this event have called for cries of pain?\nChorus:\n(turning to Copreus). This fellow caused the uproar by trying to drag them forcibly from this altar, and he tripped up the old man, till my tears for pity flowed.\nDemophon:\nHellenic dress and fashion in his robes doth he no doubt adopt, but deeds like these betray the barbarian. Thou, sirrah, tell me straight the country whence thou earnest thither.\nCopreus:\nAn Argive I; since that thou seek’st to know.\nWho sent me, and the object of my coming, will I freely tell. Eurystheus, king of Mycenae, sends me hither to fetch these back; and I have come, sir stranger, with just grounds in plenty, alike for speech or action. An Argive myself, Argives I come to fetch, taking with me these runaways from my native city, on whom the doom of death was passed by our laws there; and we have a right, since we rule our city independently, to ratify its sentences. And though they have come as suppliants to the altars of numerous others, we have taken our stand on these same arguments, and no one has ventured to bring upon himself evils of his own getting. But they have come hither, either because they perceived some folly in thee, or, in their perplexity, staking all on one risky throw to win or lose;"
+   },
+   {
+    "id": "c04",
+    "at": "4:2",
+    "text": "and yet this falls far short of the present need; for these would be but a poor match for Argives even when fully armed and in their prime, if haply that raises thy spirits; moreover, the time’twixt now and then is long, wherein ye may be blotted out. Nay, hearken to me;\ngive me naught, but let me take mine own, and so gain Mycenae; but forbear to act now, as is your Athenian way, and take the weaker side, when it is in thy power to choose the stronger as thy friends.\nChorus:\nWho can decide a cause or ascertain its merits, till from both sides he clearly learn what they would say?\nIolaus:\nO king, in thy land I start with this advantage, the right to hear and speak in turn, and none, ere that, will drive me hence as elsewhere they would.’Twixt us and him is naught in common, for we no longer have aught to do with Argos since that decree was passed, but we are exiles from our native land; how then can he justly drag us back as subjects of Mycenae, seeing that they have banished us? For we are strangers."
+   },
+   {
+    "id": "c05",
+    "at": "5:4",
+    "text": "Wherefore in return they crave this boon of thee, that they be not surrendered up nor torn by force from the altars of thy gods and cast forth from the land. For this were shame on thee, and hurtful likewise in thy state, should suppliants, exiles, kith and kin of thine, be haled away by force. For pity’s sake! cast one glance at them. I do entreat thee, laying my suppliant bough upon thee, by thy hands and beard, slight not the sons of Heracles, now that thou hast them in thy power to help. Show thyself their kinsman and their friend;\nbe to them father, brother, lord; for better each and all of these than to fall beneath the Argives’ hand.\nChorus:\nO king, I pity them, hearing their sad lot Now more than ever do I see noble birth o’ercome by fortune; for these, though sprung from a noble sire, are suffering what they ne’er deserved."
+   },
+   {
+    "id": "c06",
+    "at": "6:7",
+    "text": "Copreus:\nNot even if I have right upon my side and prove my case?\nDemophon:\nHow can it be right to drag the suppliant away by force?\nCopreus:\nWell, mine is the disgrace; no harm will come to thee.\nDemophon:\nTis harm to me, if I let them be haled away by thee.\nCopreus:\nBanish them thyself, and then will I take them from elsewhere.\nDemophon:\nNature made thee a fool, to think thou knowest better than the god.\nCopreus:\nIt seems then evildoers are to find a refuge here.\nDemophon:\nA temple of the gods is an asylum open to the world."
+   },
+   {
+    "id": "c07",
+    "at": "7:28",
+    "text": "Demophon:\nPerdition seize thee! I am not afraid of thy Argos.\nBe very sure thou shalt not drag these suppliants hence by force, to my shame; for I hold not this city subject unto Argos, but independently.\nChorus:\n’Tis time to use our forethought, ere the host of Argos approach our frontier, for exceeding fierce are the warriors of Mycenae, and in the present case still more than heretofore. For all heralds observe this custom, to exaggerate what happened twofold. Bethink thee what a tale he will tell his master of his dreadful treatment, how he came very near losing his life altogether.\nIolaus:\nChildren have no fairer prize than this, the being born of a good and noble sire, and the power to wed from noble families; but whoso is enslaved by passion and makes a lowborn match, I cannot praise for leaving to his children a legacy of shame, to gratify himself. For noble birth offers a stouter resistance to adversity than base parentage; we, for instance, in the last extremity of woe, have found friends and kinsmen here, the only champions of these children through all the length and breadth of this Hellenic world. Give, children, give to them your hand, and they the same to you; draw near to them. Ah! children, we have made trial of our friends, and if ever ye see the path that leads you back to your native land, and possess your home and the honours of your father, count them ever as your friends and saviours, and never lift against their land the foeman’s spear, in memory of this, but hold this city first midst those ye love. Yea, they well deserve your warm regard, in that they have shifted from our shoulders to their own the enmity of so mighty a land as Argos and its people, though they saw we were vagabonds and beggars; still they did not give us up nor drive us forth."
+   },
+   {
+    "id": "c08",
+    "at": "9:2",
+    "text": "Now will I muster the citizens and set them in array, that I may receive Mycenae’s host with serried ranks. But first will I send scouts to meet them, lest they fall upon me unawares; for at Argos every man is prompt to answer to the call, and I will assemble prophets and ordain a sacrifice. But do thou leave the altar of Zeus and go with the children into the house; for there are those, who will care for thee, even though I be abroad. Enter then my house, old man.\nIolaus:\nI will not leave the altar. Let us sit here still, praying for the city’s fair success, and when thou hast made a glorious end of this struggle, will we go unto the house; nor are the gods who champion us weaker than the gods of Argos, O king; Hera, wife of Zeus, is their leader;\nAthena ours. And this I say is an omen of success, that we have the stronger deity, for Pallas will not brook defeat. [Exit Demophon."
+   },
+   {
+    "id": "c09",
+    "at": "10:7",
+    "text": "Now I, though in your cause I am as zealous as thou seest, yet will not slay my child, nor will I compel any of my subjects to do so against his will; for who of his own will doth harbour such an evil thought as to yield with his own hands the child he loves?\nAnd now thou mayest see angry gatherings, where some declare,’tis right to stand by suppliant strangers, while others charge me with folly; but if I do this deed, a civil war is then and there on foot.\nDo thou then look to this and help to find a way to save yourselves and this country without causing me to be slandered by the citizens. For I am no despot like a barbarian monarch; but provided I do what is just, just will my treatment be.\nChorus:\nCan it be that heaven forbids this city to help strangers, when it hath the will and longing so to do?"
+   },
+   {
+    "id": "c10",
+    "at": "11:9",
+    "text": "But you, children, I lament and pity, and that aged mother of your sire, Alcmena. Ah, woe is thee for thy long span of life! and woe is me for all my idle toil!’Twas after all our destined doom to fall into the hands of our hated foe, and die a death of shame and misery. But lend me thine aid, thou knowest how; for all hope of these children’s safety has not yet left me. Give me up instead of them to the Argives, O king; run no risk, but let me save the children; to love my life becomes me not; let it pass. Me will Eurystheus be most glad to take and treat despitefully, as I was Heracles’ companion; for the man is but a boor; wherefore wise men ought to pray to get a wise man for their foe, and not a proud senseless fool;\nfor so, even if by fortune flouted, one would meet with much consideration."
+   },
+   {
+    "id": "c11",
+    "at": "13:0",
+    "text": "Macaria:\nAre these indeed the terms on which our safety depends?\nIolaus:\nYea, on these; if, that is, we are successful otherwise.\nMacaria:\nNo longer then cower before the hated Argive spear; for I, of my own free will, or ever they bid me, am ready to die and offer myself as a victim. For what excuse have we, if, while this city deems it right to incur a great danger on our behalf, we, though we might save ourselves, fly from death, by foisting our trouble on others? No! indeed,’twere surely most ridiculous to sit and mourn as suppliants of the gods, and show ourselves but cowards, children as we are of that illustrious sire.\nWhere among the brave is such conduct seen? Better, I suppose, this city should be taken and I (which Heaven forefend!) fall into the hands of the enemy, and then, for all I am my noble father’s child, meet an awful doom, and face the Death-god none the less."
+   },
+   {
+    "id": "c12",
+    "at": "13:12",
+    "text": "Iolaus:\nDaughter, thou art his own true child, no other man’s but Heracles’, that godlike soul; proud am I of thy words, though I sorrow for thy lot. Yet will I propose a fairer method:’tis right to summon hither all the sisters of this maiden, and then let her, on whom the lot shall fall, die for her family; for that thou shouldst die without the lot is not just.\nMacaria:\nMy death shall no chance lot decide; there is no graciousness in that; peace! old friend. But if ye accept and will avail you of my readiness, freely do I offer my life for these, and without constraint.\nIolaus:\nAh, this is even nobler than thy former word; that was matchless, but thou dost now surpass thy bravery and noble speech. I cannot bid, will not forbid thy dying, Omy daughter! for by thy death thou dost thy brothers serve."
+   },
+   {
+    "id": "c13",
+    "at": "14:14",
+    "text": "Macaria:\nFarewell, old friend, farewell! and prithee teach these children to be like thyself, wise at every point; let them strive no further, for that will suffice them. And seek to save them from death, even as thou art anxious to do; thy children are we, thy care it was that nurtured us. Thou seest how I yield my bridal bloom to die for them. For you, my brothers gathered here, may you be happy! and may every blessing be yours, for the which my blood shall pay the price! Honour this old friend, and her that is within the house,\nAlcmena, the aged mother of my sire, and these strangers too. And if ever heaven for you devise release from trouble and a return to your home, remember the burial due to her that saved you, a funeral fair as I deserve; for I have not failed, but stood by you, and died to save my race. This shall be my pearl of price instead of children, and for the maiden life I leave, if there be really aught beyond the grave—God grant there may not be! For if, e’en there, we who are to die shall find a life of care,"
+   },
+   {
+    "id": "c14",
+    "at": "16:6",
+    "text": "Why dost thou lie there? Why that downcast look?\nIolaus:\nThere is come a sorrow on my house, whereby I am distressed.\nServant (of Hyllus):\nArise, lift up thy head.\nIolaus:\nI am old, and all my strength is gone.\nServant (of Hyllus):\nBut I come with tidings of great joy for thee.\nIolaus:\nWho art thou? Where have I met thee? I have no remembrance.\nServant (of Hyllus):\nI am a vassal of Hyllus; dost not recognize me now?\nIolaus:\nBest of friends, art thou come to save us twain from hurt?\nServant (of Hyllus):"
+   },
+   {
+    "id": "c15",
+    "at": "16:29",
+    "text": "Alcmena:\nWhy then didst raise a cry, fear’s harbinger?\nIolaus:\nI called thee to come to me in front of this temple.\nAlcmena:\nI know not what it means; who is this?\nIolaus:\nA messenger who says thy grandson cometh hither.\nAlcmena:\nAll hail to thee for these thy tidings! But why is he not here, where is he? if in this land he hath set foot. What hath happened to keep him from coming hither with thee, to cheer my heart?\nServant (of Hyllus):\nHe is posting the army he brought with him, and seeing it marshalled.\nAlcmena:\nThen have I no concern herein.\nIolaus:\nYes, thou hast; though it is my business to inquire into these matters."
+   },
+   {
+    "id": "c16",
+    "at": "17:44",
+    "text": "Servant (of Hyllus):\nSmite perhaps, more likely be smitten thyself.\nIolaus:\nNo foe will dare to meet me face to face.\nServant (of Hyllus):\nFriend, the strength, that erst was thine, is thine no more,\nIolaus:\nWell, at any rate, I will fight with as many as ever I did.\nServant (of Hyllus):\nSmall the weight thou canst throw into the balance for thy friends.\nIolaus:\nDetain me not, when I have girded myself for action.\nServant (of Hyllus):\nThe power to act is thine no more, the will maybe is there.\nIolaus:\nStay here I will not, say what else thou wilt"
+   },
+   {
+    "id": "c17",
+    "at": "18:22",
+    "text": "Iolaus:\nMen must fight; and thou must look to them.\nAlcmena:\nAnd what if thou art slain? what safety shall I find?\nIolaus:\nThy son’s surviving children will care for thee.\nAlcmena:\nSuppose they meet with some reverse? which Heaven forefend!\nIolaus:\nThese strangers will not give thee up, fear not.\nAlcmena:\nThey are my last and only hope, I have no other.\nIolaus:\nZeus too, I feel sure, cares for thy sufferings.\nAlcmena:\nAh! of Zeus will I never speak ill, but himself doth know, whether he is just to me."
+   },
+   {
+    "id": "c18",
+    "at": "19:27",
+    "text": "Chorus:\nO earth, and moon that shines by night, and dazzling radiance of the god, that giveth light to man, bear the tidings to me, shout aloud to heaven for joy, and beside our ruler’s throne, and in the shrine of grey-eyed Athene.\nFor my fatherland and home will I soon decide the issue of the strife with the gleaming sword, because I have taken suppliants under my protection.\nChorus:\n’Tis a fearful thing, that a city prosperous as Mycenae is, one famed for martial prowess, should harbour wrath against my land; still, my countrymen, it were a shameful thing in us to yield up suppliant strangers at the bidding of Argos. Zeus is on my side, I am not afraid; Zeus hath a favour unto me, as is my due; never by me shall gods be thought weaker than mortal men.\nChorus:\nO dread goddess, thine the soil whereon we stand, thine this city, for thou art its mother, queen, and saviour; wherefore turn some other way the impious king, who leadeth a host from Argos with brandished lance against this land; for, such my worth, I little merit exile from my home."
+   },
+   {
+    "id": "c19",
+    "at": "20:10",
+    "text": "They are, and high their fame through all the army spreads.\nAlcmena:\nThe old man Iolaus,—is he yet alive?\nServant (of Hyllus):\nAye, that he is, a hero whom the gods delight to honour.\nAlcmena:\nHow so? Did he perform some deed of prowess?\nServant (of Hyllus):\nHe hath passed from age to youth once more.\nAlcmena:\nThy tale is passing strange; but first I would that thou shouldst tell me, how our friends won the day.\nServant (of Hyllus):\nOne speech of mine puts it all clearly before thee.\nWhen we had deployed our troops and marshalled them face to face with one another, Hyllus dismounted from his four-horsed chariot and stood midway betwixt the hosts. Then cried he, Captain, who art come from Argos, why cannot we leave this land alone? No hurt wilt thou do Mycenae, if of one man thou rob her; come! meet me in single combat, and, if thou slay me, take the children of Heracles away with thee, but, if thou fall, leave me to possess my ancestral honours and my home. The host cried yes! saying the scheme he offered was a fair one, both to rid them of their trouble and satisfy their valour. But that other, feeling no shame before those who heard the challenge or at his own cowardice, quailed, general though he was, to come within reach of the stubborn spear, showing himself an abject coward; yet with such a spirit he came to enslave the children of Heracles. Then did Hyllus withdraw to his own ranks again, and the prophets seeing that no reconciliation would be effected by single combat, began the sacrifice without delay and forthwith let flow from a human throat auspicious streams of blood. And some were mounting chariots, while others couched beneath the shelter of their shields, and the king of the Athenians, as a highborn chieftain should, would exhort his host: Fellow-citizens, the land, that feeds you and that gave you birth, demands to-day the help of every man. Likewise Eurystheus besought his allies that they should scorn to sully the feme of Argos and Mycenae."
+   },
+   {
+    "id": "c20",
+    "at": "22:4",
+    "text": "Servant (of Hyllus):\n’Twas his regard for thee, that thou might’st see him subject to thy hand, and triumph o’er him.\nRest assured,’twas no willing prisoner he made, but by strong constraint he bound him, for Eurystheus was loth indeed to come alive into thy presence and pay his penalty. Farewell, my aged mistress; I pray thee remember thy first promise when I was beginning my story;\nset me free; for, at such a time as this, sincerity becometh noble lips. [Exit Servant.\nChorus:\nSweet is the dance to me, whenso the clear-toned flute and lovely Aphrodite shed grace upon the feast;\nand a joyful thing too it is, I trow, to witness the good luck of friends, who till then ne’er dreamt of it. For numerous is the offspring of Fate, that bringeth all to pass, and of Time, the son of Cronos."
+   },
+   {
+    "id": "c21",
+    "at": "23:6",
+    "text": "Messenger:\nMistress, though thine eyes see him, yet will I announce we have brought Eurystheus hither for thy pleasure, an unexpected sight, for him no less a chance he ne’er foresaw; for little he thought of ever falling into thy hands, what time he marched from Mycenae with his toil-worn warriors, to sack Athens, thinking himself far above fortune. But a power divine hath reversed our destinies, changing their position. Now Hyllus and brave Iolaus I left raising an image to Zeus, who routs the foe, for their triumphant victory, whilst they bid me bring this prisoner to thee, wishing to gladden thy heart; for’tis the sweetest sight to see a foe fall on evil days after prosperity.\nAlcmena:\nArt come, thou hateful wretch? Hath Justice caught thee then at last? First, turn thy head this way to me, and endure to look thy enemies in the face, for thou art no more the ruler, but the slave."
+   },
+   {
+    "id": "c22",
+    "at": "24:16",
+    "text": "Messenger:\nIt was then that he was wronged, by not being slain at first.\nAlcmena:\nWhy, then, he is still in time to pay his penalty.\nMessenger:\nThere is no one, who will slay him now.\nAlcmena:\nI will; and yet I count myself someone.\nMessenger:\nWell, thou wilt incur great blame, if thou do this deed.\nAlcmena:\nI love this city well; that cannot be gainsaid. But since this man hath fallen into my power, no mortal hand shall wrest him from me. Wherefore let who will, call me the woman bold, with thoughts too high for her sex;\nyet shall this deed be brought to pass by me.\nChorus:\nLady, full well I understand thou hast a dire quarrel with this man, and’tis pardonable.\nEurystheus:"
+   },
+   {
+    "id": "c23",
+    "at": "25:1",
+    "text": "Suppose thyself hadst had my lot, wouldst not thou have set to harassing the lion’s angry whelps, instead of letting them dwell at Argos undisturbed? Thou wilt not persuade us otherwise. Now therefore, since they did not slay me then, when I was prepared to die, by the laws of Hellas my death becomes a curse on him, who slays me now. The city wisely let me go, in that she regarded the gods more than her hatred of me. Thou hast had my answer to thy words; henceforth must\nI be called avenging spirit and noble hero too.’Tis even thus with me; to die have I no wish, but, if I leave my life, I shall in no way be grieved.\nChorus:\nAlcmena, fain I would advise thee somewhat; let this man go, for’tis the city’s will.\nAlcmena:\nSuppose he die, and yet I obey the city?\nChorus:\nThat would be best of all; but how can this be?"
+   }
+  ]
+ },
+ {
+  "slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "title": "Bang-E-Dara Part 1",
+  "author": "Allama Iqbal",
+  "language": "Urdu",
+  "genre": "Literature",
+  "era": "20th Century",
+  "class": "poetic",
+  "n_windows": 76,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "What wondrous piety, for all to see,\nHe holds the entire world in enmity.\nFor no one yet has understood of man:\nFrom where he comes, or where his journey goes.\nThe very source that gives the night its dark,\nIs where the star receives its shining spark.\nAnd as for our own tale of heartfelt pain,\nWe tell it to our confidant alone.\nSo subtle are the preacher's sly designs,\nHe trembles at the sound of the call to prayer.\nTheir style is strange, their world a different plane,\nO Lord, what city could these souls contain?\nIn treating anguish, I embrace its pain,\nThe thorns in blisters, I've drawn out with strain.\nO Lord, may my hope's garden thrive and gain,\nI fed these shoots with my own heart's blood-rain."
+   },
+   {
+    "id": "c01",
+    "at": "1:8",
+    "text": "The One who veiled His beauty from Moses, who spoke with God,\nThat same Graceful One now shines forth among the graceful.\nThe wave of their breath can relight an extinguished flame;\nO God! What secrets must be hidden in the breasts of the people of the heart?\nIf you yearn for the ache of the heart, then serve the humble sages;\nthis is a gem not found in the treasuries of kings.\nAsk not about these wearers of the patched robe; if you have faith, just look—\nthey sit with the White Hand's miracle hidden up their sleeves.\nThe sight for which the unseeing eye forever yearns—\nthat very soul of the assembly is found among these solitary mystics.\nSet your heart's harvest ablaze with such a spark\nthat the sun of Judgment Day itself might be counted among your gleaners.\nFor the sake of love, seek out a heart that is ready to break;"
+   },
+   {
+    "id": "c02",
+    "at": "2:18",
+    "text": "The world decries my name, but oh, this foolish, fond refrain:\nI think my love's a secret that my confidants contain.\nWhen the One Beyond Need His generous grace displays,\nThe humble soul finds glory in its lowly ways.\nO Preacher, you have placed your God upon The Throne;\nWhat kind of God would leave His worshippers alone?\nHe is no mystic in my eyes, O Sāqi bright,\nWho separates ecstatic joy from sober light.\nKeep your ear always to the heart, a fragile string,\nFor only when it's broken can a secret sing.\nAnd ask the Preacher what great harm to him is done,\nIf God shows mercy to the deedless, sinful one.\nO God, from where does this fire in my poetry start?\nIt is the very thing that melts a stony heart.\nThe nightingale's lament can tell the rose from thorn;\nWould that a world with such discerning eyes were born."
+   },
+   {
+    "id": "c03",
+    "at": "3:25",
+    "text": "When restless bolts of lightning yearn for its erase?\nAlas, what failure! Heaven marked that bough for its disgrace,\nThe very one I marked to be my fragile nesting-place.\nYour vision can unite the seventy-two faiths,\nYour single cup can serve all time and every space.\nLet me create a wish so strong within my heart,\nThat Heaven would retreat and from my ruin race.\nGo, gather up your harvest, picking grain by grain,\nA bolt of fire will surely come to leave no trace.\nO comrade bird, I honored the hunter's coming loss,\nOr else would I have flown to such a lowly place?\nThe soul-bird must not sing its anthem of the free;\nAh, this garden is no stage for songs of such a grace.\nMajnun left the city; you must leave the desert too.\nIf you desire the vision, then leave Laila too.\nO Preacher, perfect renunciation is what grants the heart's desire;"
+   },
+   {
+    "id": "c04",
+    "at": "5:7",
+    "text": "Your eyes, in their trance, what a sharp and knowing gaze!\nThere was hesitation in their coming, messenger, I know;\nBut tell me this: what was the art of their ‘no’?\nI was drawn, as if by force, toward Moses’s holy height;\nO thirst for a single glimpse, what was your magnetic light?\nSomewhere, Iqbal, your name is still a whispered art;\nWas it a spell, your speech—what magic did it impart?\n...I am harsh upon my heart; of all else, heedless I am.\n...ah, how well it is said: a tyrant I am, an ignorant one I am.\n...the falsehood that vanishes when the Truth appears, I am.\n...alas, my deprivation! A gatherer of worthless shards on the shore, I am.\n...that heedless one for whose neglect the very angels weep, I am.\n...you are but an image of the Assembly, while the Assembly itself, I am."
+   },
+   {
+    "id": "c05",
+    "at": "6:18",
+    "text": "The Sun\nO Sun! Thou art the world's own soul, its flowing grace,\nWho binds the scattered leaves of all of Time and Space.\nThou art the cause that Being from Unbeing flows,\nAnd by Thy breath, the garden of Existence grows.\nThis pageant of the elements by Thee is held,\nThe urge for life in every single thing compelled.\nFrom Thy bright splendor, all things find their stable state,\nThy fire and harmony are life incarnate.\nThat Sun, whose light makes all the world so bright,\nIs Heart, is Mind, is Soul, is conscious Light.\nO Sun, on us the light of consciousness bestow,\nAnd make our eye of reason with Thy radiance glow.\nFor all Existence, Thou dost furnish and adorn,\nThe Lord of all on high and low, of night and morn.\nThy own perfection is in every living heart,"
+   },
+   {
+    "id": "c06",
+    "at": "8:0",
+    "text": "The Anguish of Love\nO, Anguish of Love! A pearl of purest water, you;\nBe not revealed to the unworthy view.\nYour sacred dwelling place lies veiled from sight,\nThis new assembly seeks but surface light.\nA new wind blows through life's once-sacred grounds,\nO, Anguish of Love, no joy in being found.\nLet not the urge for show be your desire,\nNor be indebted to the nightingale's sad choir.\nLet tulips' cups be drained of Passion's wine,\nAnd let the dew's tear be but water's sign.\nLet your deep secret in some breast remain,\nLet no soul-melting tear make your grief plain.\nDo not speak through the eloquent poet's tongue,\nNor in the reed-flute's sound let grief be sung.\nThis age of critics calls; go, hide your face,"
+   },
+   {
+    "id": "c07",
+    "at": "9:8",
+    "text": "The Age of Childhood\nThe earth and sky, a newfound realm for me,\nMy mother's lap, a universe for me,\nEach stir of life, a sign of glee for me,\nMy own tongue, just a wordless sound for me.\nThough childhood's pain at times would make me weep,\nThe door-chain's rattling brought a joy so deep.\nAh, how I'd stare for hours at the moon,\nAnd watch it travel on its silent shoon,\nAnd ask about its hills and deserts bare,\nThen wonder at a fiction born of care.\nMy eye to see, my lips to speak were wrought;\nIt was no heart I had, but pure, inquiring thought.\nA spider to a fly one day did say,\n“You travel daily down this very way,\nBut my poor hut has never been so blessed,"
+   },
+   {
+    "id": "c08",
+    "at": "10:15",
+    "text": "A single glance is more than quite enough.\nYour eyes are like two diamonds, shining bright,\nYour head, God crowned with a plume of light.\nThis grace, this dress, this beauty, and this art!\nAnd then your song in flight that steals the heart!”\nThe fly was softened by this flattering sound,\nAnd said, “No cause for fear in you I've found.\nTo make refusal is a habit I deplore;\nTo break a heart—that's not what I am for.”\nShe said these words and from her perch took flight;\nThe spider leaped and caught her in his might.\nHe'd starved for days, a fact he couldn't conceal,\nAnd made the little fly his easy meal.\nA Mountain and a Squirrel\nA mountain told a squirrel, in a haughty decree,\n\"If you had any shame, you'd go drown in the sea."
+   },
+   {
+    "id": "c09",
+    "at": "11:22",
+    "text": "Had wandered from her path and did appear.\nShe paused and looked around on every hand,\nAnd saw a cow nearby upon the land.\nFirst bowing low, a greeting it conveyed,\nThen with propriety, these words it said:\n\"Good Madam, tell me, how does your health fare?\"\nThe cow replied, \"I'm well,\" with weary air.\n\"My life just passes, be it good or bad,\nA life of constant misery I've had.\nMy very life is now at stake, you see,\nWhat can I say? It's wretched destiny.\nI see the strange and wondrous ways of God,\nAnd weep for all the wretched on this sod.\nThe poor and weak can never find their way,\nWhat fate has written, we must all obey.\nLet no one ever show a kindness to Man,"
+   },
+   {
+    "id": "c10",
+    "at": "12:29",
+    "text": "Her words of wisdom truly strike a note.\"\nThe Traveler's Supplication\nThe name that even angels recite is Yours;\nExalted is Your Presence, Your bounty flows for all.\nThe stars of love are held steadfast by Your pull;\nYour system, like the sun's, is the cosmic rule.\nA sacred visit to Your tomb is life for the heart;\nYour station is beyond the Healer's touch or Khidr's timeless life.\n*If my heart is blackened, I am a scar on Your tulip-field,*\n*And if my brow is bright, I am the flower of Your spring.*\nLike the fragrance of a flower, I have left the garden's keep;\nA trial of my patience has been ordained for me.\nFrom my homeland's house of beauty, I have been pulled along,\nBy the thirst for the wine of knowledge, a current swift and strong.\nMy gaze is on the cloud of grace, a desert tree am I;"
+   },
+   {
+    "id": "c11",
+    "at": "13:31",
+    "text": "The Bird of Imagination's boundless flight.\nYou were pure soul, your form the gathering of song,\nYou graced the crowd, yet did not to the crowd belong.\nYour eye was granted sight of that great beauty's grace,\nWhich, as Life's Fire, lies hid in every time and place.\nThe hall of Being finds its wealth in your sweet lute,\nAs streams lend song to mountains that were deathly mute.\nFrom your mind's paradise, all Nature's splendors rise,\nAnd from your Fields of Thought, green worlds before our eyes.\nA secret life within your playful writing breathes,\nYour gift of speech gives motion to what art bequeaths.\nOn your miraculous lips, all Eloquence takes pride,\nThe Pleiades watch, stunned, where your high fancies ride.\nThe theme's own soul is captive to your graceful style,\nWhile Delhi's bud upon the Rose of Shiraz does smile."
+   },
+   {
+    "id": "c12",
+    "at": "15:24",
+    "text": "A mirror to the face of Nature, it does seem,\nNow striking, now avoiding rocks within the stream.\nO traveler, play on that heart-enchanting string,\nThe soul of man can understand the song you sing.\nWhen Laila of the Night lets down her flowing hair,\nThe waterfall's sound pulls at the heart caught in its snare.\nThat evening silence speech itself would die to be,\nThat thoughtful mood that settles over every tree.\nThe trembling twilight colors on the mountain's face,\nA lovely rouge that lends your cheek its glowing grace.\nO Himalaya, tell a tale of that forgotten age,\nWhen your slope became mankind's first earthly stage.\nTell of that simple life, so innocent and plain,\nUnmarked by the cosmetic of a formal stain.\nO, show me, Fantasy, that dawn and dusk once more!\nO, wheel of time, turn back to days that came before!"
+   },
+   {
+    "id": "c13",
+    "at": "16:36",
+    "text": "Now free from shadow, now consumed by night.\nA moth, a firefly—both take to the air;\nOne seeks the light, one is the light to share.\nTo all things Nature gave a special grace:\nThe Moth, a burning; firefly, light's embrace.\nTo voiceless birds, a vibrant song was sent,\nAnd to the rose, a tongue for silence meant.\nThe twilight's beauty is its fading hour;\nIt gave that fairy brief and shining power.\nIt dressed the dawn, a bride in beauty's grace,\nIn crimson robes, with dew to see her face.\nIt gave the trees their shade, the wind its flight,\nGave water flow, and waves their restless might.\nBut this distinction is a human plight,\nThe firefly's daytime is our deepest night.\nOf Primal Beauty, every thing's a trace:"
+   },
+   {
+    "id": "c14",
+    "at": "18:5",
+    "text": "It vanishes from sight, but it does not perish.\nOne night I slept and saw a dream,\nand from it, my deep turmoil grew.\nI saw myself go forth somewhere,\nin darkness, with no pathway there.\nMy every fiber shook with fear;\nfrom dread, I could not lift a step.\nFinding some courage, I stepped near,\nand saw a line of boys appear.\nIn robes of emerald green arrayed,\na burning lamp each hand displayed.\nThey moved in silence, one by one,\nGod only knew where they were bound.\nWhile lost in this thought, my own son\nI saw among them, moving on.\nHe was at the back, his pace was slow,"
+   },
+   {
+    "id": "c15",
+    "at": "19:8",
+    "text": "This sacred agony, like quicksilver, is my element.\nMy name is Wave; to me, the ocean itself seems shallow,\nMay the whirlpool's circle never hold me in its hollow.\nMy steed moves like the wind upon the water's way,\nThe sharpest fish-bone never makes my garment stay.\nAt times I leap, drawn by the perfect, pulling moon;\nAt times I writhe and dash my head against the shore's hard stone.\nI am that traveler in love with the final goal,\nAsk my own heart why this yearning consumes my soul.\nI flee the torment of the river's narrow straits,\nIn anguish, separated from the ocean's vast expanse.\nAn Inquiry to the Sleepers in Dust\nThe shining sun has gone from sight, the veil is lifted from the face of night,\nUpon existence’s shoulder, see, the tresses of the eve hang free.\nFor whom does it prepare this dark array, this robe of grey?"
+   },
+   {
+    "id": "c16",
+    "at": "20:16",
+    "text": "Do they gather twigs there also, for a nest to call their own?\nDo they worry over brick and clay to build a house of stone?\nIs man a stranger to his essence in that place as well?\nAre they mad for creed and nation, caught within that frantic spell?\nDoes the garden weep there at the nightingale's lament?\nAnd like this world, is the heart there with sorrow also rent?\nIs Paradise a garden, or a stage of final rest?\nOr the unveiled face of Beauty Eterne, made manifest?\nIs Hell a mechanism just to burn all sin away?\nIn its flames, does a lesson to impart hold hidden sway?\nInstead of walking, in that land, do you take flight?\nWhat is this secret, which we men on earth call death's long night?\nThe source of my heart’s restlessness is all that is and seems;\nIs human knowledge also limited in that realm of dreams?"
+   },
+   {
+    "id": "c17",
+    "at": "21:26",
+    "text": "And yet, O brilliant Moon, we differ, you and I;\nThe source from which the anguish springs defines the deeper cry.\nThough I am darkness through and through, and you are purest light,\nYou're worlds away from the keen zest of consciousness and sight.\nThe purpose of my being here, to me is fully known;\nIt is a gleam your polished brow has never called its own.\nA Bird's Lament\nThose garden splendors, the chorus of all,\nThe freedom to come and to go at my call.\nMy heart aches with pain when I chance to recall,\nThe smiling of buds on the dewdrops that fall.\nThat beautiful image, that form full of grace,\nWhose presence brought life to my own dwelling place.\nHer voice never reaches me, held in this plight,\nOh, if only release were within my own might!\nHow wretched I am, for my home I now pine,"
+   },
+   {
+    "id": "c18",
+    "at": "23:16",
+    "text": "With the tall Shamshad I belong, to Qumri I am bound,\nAnd in this garden's silence, I am listening for a sound.\nAnd what I hear, I hear so that to others I may tell,\nAnd what I see, I see to show to other souls as well.\nMy heart loves solitude, and on my humble home I stand,\nAnd laugh upon the thrones of Dara and Iskandar.\nTo lie beneath a tree holds a bewitching, magic art,\nWhile gazing at the evening star that flickers far apart.\nIn knowledge's house of wonders, this truth is never shown,\nThe secret of all Being in a petal's form is known.\nO Brahmin, if you will not take offense,\nYour ancient idols have lost reverence.\nFrom them you learned to hold your kin in scorn;\nFrom God, the Preacher learned how war is born.\nFed up at last, I left both mosque and shrine,\nThe Preacher’s words, and those old tales of thine."
+   },
+   {
+    "id": "c19",
+    "at": "24:29",
+    "text": "And when the land of India would not heed my sound,\nIn China and Japan, new homelands I then found.\nAt times, from particles, a universe I wrought,\nAgainst the meaning that the men of faith had taught.\nI stained a hundred different lands with blood-red dye,\nThe war of faith and reason I let fly.\nWhen I could not yet grasp the truth the stars arrayed,\nIn that same thought, through endless nights I watched and stayed.\nThe drawn swords of the Church could not inspire my fear,\nThe truth of Earth’s own turning I made clear.\nThe secret law of gravity I laid quite bare,\nThe lens of my far-seeing mind I focused there.\nThe restless lightning and the sun’s own rays I caught,\nThis earth into a rival of Paradise I wrought.\nBut ah! The secret of existence was not revealed,\nThough with my mind, the world itself I forced to yield."
+   },
+   {
+    "id": "c20",
+    "at": "26:2",
+    "text": "Then keep your tongue pure—you are a pupil of God's own Grace—\nAnd see your voice is not disgraced, nor falls from its high place.\nAwaken those who slumber with your poetry's great might,\nAnd with your voice's flame, set the harvest of all falsehood alight!\nThe Poet\nThe Nation is a body, a living frame,\nIts people are the limbs that bear its name.\nIts hands and feet tread paths of craft and trade,\nIts government, a graceful face displayed.\nThe Poet is the Nation’s seeing eye;\nWhen one part aches, it cannot help but cry.\nThe Candle\nO Candle, in this world I too am filled with sighs,\nA restless seed within that in the fire cries.\nLove gave to you the heat of inner fire's might,\nAnd made me one who sells red tears of fading light."
+   },
+   {
+    "id": "c21",
+    "at": "27:11",
+    "text": "This house of exile is my homeland and my light.\nThe memory of home became a causeless ache,\nA thirst to see, a questing passion for its sake.\nO Candle, see how far thought's grand illusion strays,\nBehold his fate, who earned the angels' highest praise.\nI am the theme of parting, high as stars that gleam,\nI am the song born of the cosmic Poet's dream.\nWhen He composed my verse, He willed that I be seen,\nAnd wrote me on the book of all that's ever been.\nThe pearl is pleased to dwell within a fist of clay,\nThough weak the binding, lofty is the theme's display.\nIt is the fault of an eye that sees all things amiss,\nThe world's a stage for consciousness to find its bliss.\nThis chain of time and space, it is a trapping snare,\nA collar for that Beauty fond of worldly fare.\nI long to find my goal, but I have lost the way,"
+   },
+   {
+    "id": "c22",
+    "at": "28:22",
+    "text": "This service, honor, this exalted state,\nAre worth far less than a dark, silent fate.\nHad I the power, I'd not be a star,\nBut be a pearl that gleams in depths afar.\nAnd if the waves' contention brought me dread,\nI'd leave the sea, to grace a throat instead.\nWhat joy to gleam, a jewel of beauty's own,\nAnd grace the crown on Caesar's queenly throne.\nA piece of stone, when its great fate was cast,\nOn Solomon's great ring was fixed at last.\nBut such fine things are destined here to break,\nThe rarest gems this final path must take.\nTrue life is that which knows not Death's decree;\nWhat life is this, where Death demands its fee?\nIf this my end, the world's adornment made,\nWhy not as dew upon a flower be laid?"
+   },
+   {
+    "id": "c23",
+    "at": "29:31",
+    "text": "Not on my cleverness to dwell.\nHis Sufi air was known to all,\nThe great and small would heed his call.\nHe’d say the Law in mystic lore resides,\nAs meaning deep within a sentence hides.\nHis heart’s own flask with pious wine was filled,\nBut dregs of pride were secretly distilled.\nOf his own miracles he’d often speak,\nFor more disciples he would always seek.\nFor many years he was a neighbor mine,\nSo Saint and Sinner would their paths align.\nThe holy man once asked a friend I knew\nOf Iqbal, poet of a meaning true,\n“How does he heed the Law’s most sacred plea,\nThough verses flow that Kalim would envy?\n“I hear he calls no Hindu infidel;"
+   }
+  ]
+ },
+ {
+  "slug": "thomas-lisle-poems-d6a267",
+  "title": "Poems",
+  "author": "Thomas Lisle",
+  "language": "English",
+  "genre": "Poetry",
+  "era": "18th Century",
+  "class": "poetic",
+  "n_windows": 80,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "An EXCUSE for INCONSTANCY,\nBy the Rev. Dr. LISLE.\nWHEN Phoebus's beams are withdrawn from our sight,\nWe admire his fair sister, the regent of night;\nTho' languid her beauty, tho' feeble her ray,\nYet still she's akin to the God of the day.\nWhen Susan, like Cynthia, has finish'd her reign,\nThen Charlotte, like Phoebus, shall shine out again.\nAs Catholic bigots fall humble before\nThe pictures of those whom in heart they adore,\nWhich tho' known to be nothing but canvas and paint,\nYet are said to enliven their zeal to the saint;\nSo to Susan I bow, charming Charlotte, for she\nHas just beauty enough to remind me of thee.\nInconstant and faithless in love's the pretence\nOn which you arraign me: pray hear my defence."
+   },
+   {
+    "id": "c01",
+    "at": "0:49",
+    "text": "Bid, bid thy blind boy\nAll his vigour employ;\nOn his wings wou'd I soar up to fame:\n'Tis but just, if he scorch\nMy breast with his torch,\nIn my wit too he kindle a flame.\nRECITATIVE.\nTrophies to Chastity let others raise,\nIn notes as cold as the dull thing they praise,\nTo rage like mine more sprightly themes belong;\nGay youth inspires, and beauty claims my song;\nMe all the little Loves and Graces own;\nFor I was born to worship them alone.\nAIR.\nTell not me the joys that wait\nOn him that's rich, on him that's great:"
+   },
+   {
+    "id": "c02",
+    "at": "1:47",
+    "text": "By the Same.\nTHE hero who to Smyrna bay\nFrom Easton, Hants, pursued his way,\nWho travers'd seas, and hills and vales,\nTo fright his sisters with his tales,\nSing heavenly muse; for what befel\nThou saw'st, and only thou can'st tell.\nSay first (but one thing I premise,\nI'll not be chid for telling lies;\nBesides, my grannum us'd to say\nI always had a knack that way,\nSo, if the love of truth be in ye,\nRead Strabo, Diodorus, Pliny —\nBut like some authors I could name,\nWrapt in myself I lose my theme.)\nSay first, those very rocks we spy'd,"
+   },
+   {
+    "id": "c03",
+    "at": "2:19",
+    "text": "The pains she felt repaid in kind;\nNo rape reveng'd, no room for strife,\nAtrides might have kept his wife,\nOld Troy in peace and plenty smil'd —\nBut the best poem had been spoil'd.\nHow did my heart with joy run o'er,\nWhen to the fam'd Cecropian shore,\nWafted by gentle breezes, we\nCame gliding thro' the smooth still sea!\nWhile backward rov'd my busy thought\nOn deeds in distant ages wrought;\nOn tyrants gloriously withstood;\nOn seas distain'd with Persian blood;\nOn trophies rais'd o'er hills of slain\nIn Marathon's unrival'd plain.\nThen, as around I cast my eye,"
+   },
+   {
+    "id": "c04",
+    "at": "2:67",
+    "text": "A finer grott than she could shew.\nHence let the Muse to Delos roam,\nOr Nio, fam'd for Homer's tomb;\nTo Naxos, known in ancient time\nFor Bacchus' love, for Theseus' crime.\nCan she the Lesbian vine forget\nWhence Horace reinforc'd his wit?\nWhere the fam'd harp Arion strung\nNor play'd more sweet than Sapho sung?\nCould the old bards revive again,\nHow would they mourn th' inverted scene!\nScarce with the barren waste acquainted,\nThey once so beautifully painted.\nAnd here, 'twixt friends, I needs must say,\nBut let it go no farther, pray,\nThese sung-up, cry'd up countries are"
+   },
+   {
+    "id": "c05",
+    "at": "3:47",
+    "text": "Some call'd me his worship, and others the squire.\n'Twas a place, I remember, exactly like Easton,\nA scene for an emperor's fancy to feast on.\nThere I built a fine house with great cost and great care,\n(Your la'ships have form'd many such in the air)\nNot of stucco, nor brick, but as good Portland stone\nAs Kent wou'd desire to be working upon.\nThe apartments not small, nor monstrously great,\nBut chiefly for use, and a little for state;\nSo begilt, and becarv'd, and with ornaments grac'd,\nThat ev'ry one said, I'd an excellent taste.\nHere I liv'd like a king, never hoarded my pelf,\nKept a coach for my sisters, a nag for myself,\nWith something that's good when our Highclear friends come,\nAnd, spite of 'squire Herbert, a fire in each room.\nA canal made for profit as well as for pleasure,"
+   },
+   {
+    "id": "c06",
+    "at": "4:31",
+    "text": "Of habits he may well get clear;\nIll humours are the faults I fear,\nFor in my life I ne'er saw yet\nA creature half so passionate,\nGood heav'ns! how did he rave and tear,\nOn my not going you know where;\nI scarcely yet have got my dread off:\nI thought he'd bite my sister's head off.\n'Tween him and Jenny what a clatter\nAbout a fig, a mighty matter!\nI cou'd recount a thousand more,\nBut scandal's what I most abhor.\nMolly, who long had patient sate,\nAnd heard in silence all their chat,\nObserving how they spoke with rancour,\nTook up my cause, for which I thank her."
+   },
+   {
+    "id": "c07",
+    "at": "5:26",
+    "text": "He mounts upon the waves again,\nHe calls on us, but calls in vain;\nTo death preserves his friendship true,\nAnd mutters out a kind adieu.\nSee now he rises to our sight,\nNow sinks in everlasting night.\nHere Fanny's colour rose and fell,\nAnd Harriot's throat began to swell:\nOne sidled to the window quite,\nPretending some unusual sight,\nThe other left the room outright;\nWhile Molly laugh'd, her ends obtain'd,\nTo think how artfully she feign'd.\nThe HISTORY of PORSENNA, King of RUSSIA\nIN TWO BOOKS.\nBy the Same."
+   },
+   {
+    "id": "c08",
+    "at": "5:74",
+    "text": "All needless pomp, and outward grandeur spar'd,\nThe deeds that grac'd him were his only guard;\nNo private views beneath a borrow'd name;\nHis and the publick interest were the same.\nIn wealth and pleasure let the subject live,\nBut virtue is the king's prerogative;\nPorsenna there without a rival stood,\nAnd wou'd maintain his right of doing good.\nNor did his person less attraction wear,\nSuch majesty and sweetness mingled there;\nHeav'n with uncommon art the clay refin'd,\nA proper mansion for so fair a mind;\nEach look, each action bore peculiar grace,\nAnd love itself was painted on his face.\nIn peaceful time he suffer'd not his mind\nTo rust in sloth, tho' much to peace inclin'd;"
+   },
+   {
+    "id": "c09",
+    "at": "6:40",
+    "text": "Wet with the storm, and wearied with the way,\nBy hunger pinch'd, himself to beasts a prey;\nNor wine to cheer his heart, nor fire to burn,\nNor place to rest, nor prospect to return.\nDrooping and spiritless, at life's despair,\nHe bade it pass, not worth his farther care;\nWhen suddenly he spied a distant light,\nThat faintly twinkled thro' the gloom of night,\nAnd his heart leap'd for joy, and bless'd the welcome sight.\nOft-times he doubted, it appear'd so far,\nAnd hung so high, 'twas nothing but a star,\nOr kindled vapour wand'ring thro' the sky,\nBut still press'd on his steed, still kept it in his eye;\nTill, much fatigue, and many dangers past,\nAt a huge mountain he arriv'd at last.\nThere lighting from his horse, on hands and knees"
+   },
+   {
+    "id": "c10",
+    "at": "7:19",
+    "text": "Implor'd a lodging in her friendly cell.\nMortal, whoe'er thou art, the fiend began,\nAnd as she spake a deadly horror ran\nThro' all his frame; his cheeks the blood forsook,\nChatter'd his teeth, his knees together struck.\nWhoe'er thou art, that with presumption rude\nDar'st on her sacred privacy intrude,\nAnd without licence in our court appear,\nKnow, thou'rt the first that ever enter'd here.\nBut since thou plead'st excuse, thou'rt hither brought\nMore by thy fortune than thy own default,\nThy crime, tho' great, an easy pardon finds,\nFor mercy ever dwells in royal minds;\nAnd wou'd you learn from whose indulgent hand\nYou live, and in whose aweful presence stand,\nKnow farther, thro' yon wide extended plains"
+   },
+   {
+    "id": "c11",
+    "at": "8:11",
+    "text": "Than the young poet's fond ideas are,\nWhen fir'd with love, he tries his utmost art\nTo paint the beauteous tyrant of his heart.\nA satin vest his slender shape confin'd,\nEmbroider'd o'er with flow'rs of ev'ry kind,\nFlora's own work, when first the goddess strove\nTo win the little wanderer to her love.\nOf burnish'd silver were his sandals made,\nSilver his buskins, and with gems o'erlaid;\nA saffron-colour'd robe behind him flow'd,\nAnd added grace and grandeur as he trod.\nHis wings than lillies whiter to behold,\nSprinkled with azure spots, and streak'd with gold;\nSo thin their form, and of so light a kind,\nThat they for ever danc'd, and flutter'd in the wind.\nAround his temples with becoming air,"
+   },
+   {
+    "id": "c12",
+    "at": "9:30",
+    "text": "O Zephyr, cried the fair, thou charming boy,\nThy presence only can create me joy;\nTo me thou art beyond expression dear,\nNor can I quit the place while thou art here.\nExcuse my weakness, madam, when I swear\nSuch gentle words join'd with so soft an air,\nPronounc'd so sweetly from a mouth so fair,\nQuite ravish'd all my sense, nor did I know\nHow long I staid; or when, or where to go.\nMean while the damsels debonnair and gay,\nPrattled around, and laugh'd the time away:\nThese in soft notes address'd the ravish'd ear,\nAnd warbled out so sweet, 'twas heav'n to hear;\nAnd those in rings, beneath the greenwood shade,\nDanc'd to the melody their fellows made.\nSome studious of themselves, employ'd their care"
+   },
+   {
+    "id": "c13",
+    "at": "10:25",
+    "text": "In thought already seiz'd the bless'd abodes,\nAnd in their fond delirium rank'd with gods.\nFruitless attempt! all avenues are kept\nBy dreadful foes, sentry that never slept.\nHere fell Detraction darts her pois'nous breath\nFraught with a thousand stings, and scatters death;\nSharp-sighted Envy there maintains her post,\nAnd shakes her flaming brand, and stalks around the coast.\nThese on the helpless bark their fury pour,\nPlunge in the waves, or dash against the shore;\nTeach wretched mortals they were doom'd to mourn,\nAnd ne'er must rest but in the silent urn.\nBut say, young monarch, for what name you bear\nYour mien, your dress, your person, all declare;\nAnd tho' I seldom fan the frozen north,\nYet I have heard of brave Porsenna's worth."
+   },
+   {
+    "id": "c14",
+    "at": "11:12",
+    "text": "They must abroad before the rising sun,\nAnd hie 'em to the seas: there's mischief to be done.\nExcuse my plainness, Sir, but business stands,\nAnd we have storms and shipwrecks on our hands.\nHe ended frowning, and the noisy rout,\nEach to his several cell went puffing out.\nBut Zephyr, far more courteous than the rest,\nTo his own bow'r convey'd the royal guest;\nThere on a bed of roses neatly laid,\nBeneath the fragrance of a myrtle shade,\nHis limbs to needful rest the prince applied,\nHis sweet companion slumb'ring by his side.\nBOOK II.\nNO sooner in her silver chariot rose\nThe ruddy morn, than sated with repose\nThe prince address'd his host; the God awoke,"
+   },
+   {
+    "id": "c15",
+    "at": "12:25",
+    "text": "And hover for awhile, and bless the soil.\nO'er the gay scene the prince delighted hung,\nAnd gaz'd in rapture, and forgot his tongue;\nTill bursting forth at length. Behold, cried he,\nThe promis'd isle, the land I long'd to see;\nThose plains, those vales, and fruitful hills declare\nMy queen, my charmer must inhabit there.\nThus rav'd the monarch, and the gentle guide,\nPleas'd with his error, thus in smiles replied.\nI must applaud, my lord, the lucky thought;\nEv'n I, who know th' original, am caught,\nAnd doubt my senses, when I view the draught,\nThe slow-ascending hill, the lofty wood\nThat mantles o'er its brow, the silver flood\nWand'ring in mazes thro' the flow'ry mead,\nThe herd that in the plenteous pastures feed,"
+   },
+   {
+    "id": "c16",
+    "at": "13:14",
+    "text": "What Hybla's hills, or rich Oebalia's fields,\nOr flow'ry vale of fam'd Hymettus yields;\nOr what of old th' Hesperian orchard grac'd;\nAll that was e'er delicious to the taste,\nSweet to the smell, or lovely to the view,\nCollected there with added beauty grew.\nHigh-tow'ring to the heav'ns the trees are seen,\nTheir bulk immense, their leaf for ever green;\nSo closely interwove, the tell-tale sun\nCan ne'er descry the deeds beneath them done,\nBut where by fits the sportive gales divide\nTheir tender tops, and fan the leaves aside.\nLike a smooth carpet at their feet lies spread\nThe matted grass, by bubbling fountains fed;\nAnd on each bough the feather'd choir employ\nTheir melting notes, and nought is heard but joy."
+   },
+   {
+    "id": "c17",
+    "at": "14:18",
+    "text": "Gay health, and youthful joys o'erspread the place,\nAnd swell each heart, and triumph in each face.\nSo when embolden'd by the vernal air,\nThe busy bees to blooming fields repair;\nFor various use employ their chymic pow'r;\nOne culls the snowy pounce, one sucks the flow'r;\nAgain to diff'rent works returning home,\nSome steeve the honey, some erect the comb;\nAll for the general good in concert strive,\nAnd ev'ry soul's in motion, ev'ry limb's alive.\nAnd now descending from his flight, the God\nOn the green turf releas'd his precious load;\nThere, after mutual salutations past,\nAnd endless friendship vow'd, they part in haste;\nZephyr impatient to behold his love,\nThe prince in raptures wand'ring thro' the grove;"
+   },
+   {
+    "id": "c18",
+    "at": "15:36",
+    "text": "The damsels of her train with mirth and song\nFrolick behind, and laugh and sport along.\nThe birds proclaim their queen from ev'ry tree;\nThe beasts run frisking thro' the groves to see;\nThe Loves, the Pleasures, and the Graces meet\nIn antic rounds, and dance before her feet.\nBy whate'er fancy led, it chanc'd that day\nThey thro' the secret valley took their way,\nAnd to the crystal grot advancing spied\nThe prince extended by the fountain's side.\nHe look'd as, by some skilful hand express'd,\nApollo's youthful form retir'd to rest;\nWhen with the chace fatigued he quits the wood\nFor Pindus' vale, and Aganippe's flood;\nThere sleeps secure, his careless limbs display'd\nAt ease, encircled by the laurel shade;"
+   },
+   {
+    "id": "c19",
+    "at": "16:38",
+    "text": "An aviary of charming birds like you,\nWhat envy wou'd her happiness create\nIn all, who saw the glories of her state!\nThe prince laugh'd inwardly, surpriz'd to find\nSo strange a speech, so innocent a mind.\nThe compliment indeed did some offence\nTo reason, and a little wrong'd her sense;\nHe cou'd not let it pass, but told his name,\nAnd what he was, and whence, and why he came;\nAnd hinted other things of high concern\nFor him to mention, and for her to learn;\nAnd she 'ad a piercing wit, of wond'rous reach\nTo comprehend whatever he cou'd teach.\nThus hand in hand they to the palace walk,\nPleas'd and instructed with each other's talk.\nHere, shou'd I tell the furniture's expence,"
+   },
+   {
+    "id": "c20",
+    "at": "17:33",
+    "text": "Man soon or late must have his share of woe;\nSlight are his joys, and fleeting as the wind;\nHis griefs wound home, and leave a sting behind.\nHis lot distinguish'd from the brute appears\nLess certain by his laughter than his tears;\nFor ignorance too oft our pleasure breeds,\nBut sorrow from the reas'ning soul proceeds.\nIf man on earth in endless bliss cou'd be,\nThe boon, young prince, had been bestow'd on thee.\nBright shone thy stars, thy Fortune flourish'd fair,\nAnd seem'd secure beyond the reach of care,\nAnd so might still have been, but anxious thought\nHas dash'd thy cup, and thou must taste the draught.\nIt so befel, as on a certain day\nThis happy couple toy'd their time away,\nHe ask'd how many charming hours were flown,"
+   },
+   {
+    "id": "c21",
+    "at": "18:51",
+    "text": "Death to the princess, by whose care you live.\nAt this a deadly pale her cheeks o'erspread,\nCold trembling seiz'd her limbs, her spirits fled;\nShe sunk into his arms: the prince was mov'd,\nFelt all her griefs, for still he greatly lov'd.\nHe sigh'd, he wish'd he could forget his throne;\nConfine his thoughts, and live for her alone;\nBut glory shot him deep, the venom'd dart\nWas fix'd within, and rankled at his heart;\nHe cou'd not hide its wounds, but pin'd away\nLike a sick flow'r, and languish'd in decay.\nAn age no longer like a month appears,\nBut ev'ry month becomes a hundred years.\nFelicity was griev'd, and cou'd not bear\nA scene so chang'd, a sight of so much care.\nShe told him with a look of cold disdain,"
+   },
+   {
+    "id": "c22",
+    "at": "19:47",
+    "text": "(Such was the courser's name) with speed shall bear,\nAnd place you safely in your native air;\nAssist against the foe, with matchless might\nRavage the field, and turn the doubtful fight;\nWith care protect you till the danger cease,\nYour trust in war, your ornament in peace.\nBut this, I warn, beware; whate'er shall lay\nTo intercept your course, or tempt your stay,\nQuit not your saddle, nor your speed abate,\nTill safely landed at your palace gate.\nOn this alone depends your weal or woe;\nSuch is the will of Fate, and so the Gods foreshew.\nHe in the softest terms repaid her love,\nAnd vow'd, nor age, nor absence shou'd remove\nHis constant faith, and sure she cou'd not blame\nA short divorce due to his injur'd fame."
+   },
+   {
+    "id": "c23",
+    "at": "20:22",
+    "text": "Thy soul to gen'rous deeds, if e'er thy mind\nWas touch'd with soft distress, extend thy care\nTo save an old man's life, and ease the load I bear.\nSo may propitious heav'n your journey speed,\nProlong your days, and all your vows succeed.\nMov'd with the pray'r the kind Porsenna staid,\nToo nobly-minded to refuse his aid,\nAnd, prudence yielding to superior grief,\nLeap'd from his steed, and ran to his relief;\nRemov'd the weight, and gave the pris'ner breath,\nJust choak'd, and gasping on the verge of death.\nThen reach'd his hand, when lightly with a bound\nThe grizly spectre vaulting from the ground,\nSeiz'd him with sudden gripe, th' astonish'd prince\nStood horror-struck, and thoughtless of defence.\nO king of Russia, with a thund'ring sound"
+   }
+  ]
+ },
+ {
+  "slug": "john-dalton-poems-98baf0",
+  "title": "Poems",
+  "author": "John Dalton",
+  "language": "English",
+  "genre": "Poetry",
+  "era": "18th Century",
+  "class": "poetic",
+  "n_windows": 59,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "A DESCRIPTIVE POEM: ADDRESSED TO TWO LADIES, AT THEIR RETURN FROM VIEWING THE MINES NEAR WHITEHAVEN.\nBY DR. DALTON.\nWELCOME to light, advent'rous pair!\nThrice welcome to the balmy air\nFrom sulph'rous damps in caverns deep,\nWhere subterranean thunders sleep,\nOr, wak'd, with dire Aetnaean sound\nBellow the trembling mountain round,\nTill to the srighted realms of day\nThro' flaming mouths they force their way;\nFrom bursting streams, and burning rocks,\nFrom nature's fierce intestine shocks;\nFrom the dark mansions of despair,\nWelcome once more to light and air!\nBut why explore that world of night\nConceal'd till then from female sight?"
+   },
+   {
+    "id": "c01",
+    "at": "0:32",
+    "text": "Tho' he with hundred gates and chains\nThe Daemons of the mine restrains,\nTo whom their parent, jealous earth,\nTo guard her hidden stores gave birth,\nAt which, while kindred furies sung,\nWith hideous joy pale Orcus rung;\nTho' boiling with vain rage they sit\nFix'd to the bottom of the pit,\nWhile at his beck the spi'rits of air\nWith breath of heaven their taints repair;\nOr if they seek superior skies,\nThro' ways assign'd by him they rise,\nTroop after troop at day expire\nIn torments of perpetual fire;\nTho' he with fury-quelling charms\nThe whole infernal host disarms,"
+   },
+   {
+    "id": "c02",
+    "at": "1:10",
+    "text": "But quits it now, and hastes away\nTo this great Stygian holiday.\nAgape the sooty collier stands,\nHis axe suspended in his hands,\nHis Aethiopian teeth the while\n\"Grin horribly a ghastly smile,\"\nTo see two goddesses so fair\nDescend to him from fields of air.\nNot greater wonder seiz'd th' abode\nOf gloomy Dis, infernal god,\nWith pity when th' Orphean lyre\nDid every iron heart inspire,\nSooth'd tortur'd ghosts with heavenly strains,\nAnd respited eternal pains.\nBut on you move thro' ways less steep\nTo loftier chambers of the deep,"
+   },
+   {
+    "id": "c03",
+    "at": "2:2",
+    "text": "Wild nature paints with various dyes,\nWith such as tinge the evening skies.\nA different scene to this succeeds:\nThe dreary road abruptly leads\nDown to the cold and humid caves,\nWhere hissing fall the turbid waves.\nResounding deep thro' glimmering shades\nThe clank of chains your ears invades.\nThro' pits profound from distant day,\nScarce travels down light's languid ray.\nHigh on huge axis heav'd, above,\nSee ballanc'd beams unweary'd move!\nWhile pent within the iron womb\nOf boiling caldrons pants for room,\nExpanded steam, and shrinks, or swells,\nAs cold restrains, or heat impells,"
+   },
+   {
+    "id": "c04",
+    "at": "2:34",
+    "text": "At last the long descent is o'er;\nAbove your heads the billows roar:\nHigh o'er your heads they roar in vain;\nNot all the surges of the main\nThe dark recess can e'er disclose,\nRocks heap'd on rocks th'attempt oppose:\nThrice Dover's cliff from you the tides\nWith interposing roof divides!\nFrom such abyss restor'd to light,\nInvade no more the realms of night.\nFor heroines it may well suffice\nOnce to have left these azure skies.\nHeroes themselves, in days of yore,\nBold as they were, atchiev'd no more.\nWithout a dread descent you may\nThe mines in their effects survey,"
+   },
+   {
+    "id": "c05",
+    "at": "3:30",
+    "text": "Thro' Yanwath woods, and Buckholme's groves;\nWhose broad o'erspreading boughs beneath\nWarbling he flows, while zephyrs breathe.\nHere softly swells the spacious lawn,\nWhere bounds the buck, and skips the fawn,\nOr, couch'd beneath the hawthorn-trees,\nIn dappled groups enjoy the breeze.\nAmid yon sunny plain, alone,\nTo patriarchal reverence grown,\nAn oak for many an age has stood\nHimself a widely waving wood,\nWhile men and herds, with swift decay,\nRace after race, have pass'd away.\nSee still his central trunk sustain\nHuge boughs, which round o'erhang the plain,\nAnd hospitable shade inclose,"
+   },
+   {
+    "id": "c06",
+    "at": "4:3",
+    "text": "Sweet Keswick's vale, the muse will guide.\nThe muse, who trod th'inchanted ground,\nWho sail'd the wonderous lake around,\nWith you will haste once more to hail\nThe beauteous brook of Borrodale.\nFrom savage parent, gentle stream!\nBe thou the muse's favourite theme:\nO soft insinuating glide\nSilent along the meadow's side,\nSmooth o'er the sandy bottom pass\nResplendent all thro' fluid glass,\nUnless upon thy yielding breast\nTheir painted heads the lilies rest,\nTo where in deep capacious bed\nThe widely liquid lake is spread.\nLet other streams rejoice to roar"
+   },
+   {
+    "id": "c07",
+    "at": "4:51",
+    "text": "I view with wonder and delight,\nA pleasing, tho' an awful sight:\nFor, seen with them, the verdant isles\nSoften with more delicious smiles,\nMore tempting twine their opening bowers,\nMore lively glow the purple flowers,\nMore smoothly slopes the border gay,\nIn fairer circle bends the bay,\nAnd last, to fix our wandering eyes,\nThy roofs, O Keswick, brighter rise\nThe lake and lofty hills between,\nWhere giant Skiddow shuts the scene.\nSupreme of mountains, Skiddow, hail!\nTo whom all Britain sinks a vale!\nLo, his imperial brow I see\nFrom foul usurping vapours free!"
+   },
+   {
+    "id": "c08",
+    "at": "5:20",
+    "text": "Grateful to see her guardian care\nA tender father's loss repair,\nAnd, rising far o'er grief and pain,\nThe glories of her race maintain.\nTheir antient seats let others fly,\nTo stroll beneath a foreign sky,\nOr loitering in their villas stay,\nTill useless summers waste away,\nWhile, hopeless of their lord's return,\nThe poor exhausted tenants mourn;\nFrom Lowther she disdains to run\nTo bask beneath a southern sun,\nOpens the hospitable door,\nWelcomes the friend, relieves the poor;\nBids tenants share the lib'ral board,\nAnd early know and love their lord,"
+   },
+   {
+    "id": "c09",
+    "at": "6:18",
+    "text": "Tho' Percy, Seymour, mighty names! combine\nTo swell your blood, to dignify your line;\nFor you tho' fortune all her stores has spread,\nAnd beauty points to pleasure's rosy bed;\nYet what avail birth, beauty, fortune's store,\nThe plume of title, and the pride of power,\nIf deaf to virtue, deaf to honour's call,\nTo tyrant vice a wretched slave you fall?\nTo vice, paternal laurels you must yield;\nRevers'd each triumph, lost each purple field;\nYour sires no more their captive foes detain,\nYou pay the ransom, and you break the chain;\nNo more your high-descended fame we view,\nNo Hartford fought, no Percy bled for you.\nI know, my lord, ambition fills your mind,\nAnd in life's voyage is th'impelling wind;"
+   },
+   {
+    "id": "c10",
+    "at": "6:50",
+    "text": "\"For whom these toils, you may perhaps enquire;\"\nFirst for yourself: Next nature will inspire\nThe filial thought, fond wish, and kindred tear,\nWhich make the parent and the sister dear:\nTo these, in closest bands of love, ally'd,\nTheir joy or grief you live, their shame or pride:\nHence timely learn to make their bliss your own,\nAnd scorn to think or act for self alone;\nHence bravely strive upon your own to raise\nTheir honour, grandeur, dignity, and praise.\nBut wider far, beyond the narrow bound\nOf family, ambition searches round;\nSearches to find the friend's delightful face,\nThe friend at least demands the second place.\nAnd yet beware: for most desire a friend\nFrom meaner motives, not for virtue's end."
+   },
+   {
+    "id": "c11",
+    "at": "7:38",
+    "text": "A British noble is a dubious name,\nOf lowest infamy; or highest fame:\nBorn to redress an injur'd orphan's cause,\nTo smooth th' unequal frown of rigid laws;\nTo stand an isthmus of our well-mix'd state,\nWhere rival powers with restless billows beat,\nAnd from each side alike the fury fling\nOf maddening commons, or incroaching king.\nHow mean, who scorns his country's sacred voice!\nBy birth a patriot, but a slave by choice.\nHow great, who answers this illustrious end,\nWhom prince and people call their equal friend!\n\"Yes, there I'll rest; ambition toils no more,\n\" That goal attain'd, sure her long race is o'er. \"\nAlas! 'tis scarce begun; ambition smiles\nAt the poor limits of the British isles;"
+   },
+   {
+    "id": "c12",
+    "at": "7:70",
+    "text": "But in the way to theirs still finds her own.\nTheir's is her own. What, should your taper light\nTen thousand, burns it to yourself less bright?\n\" Men are ungrateful.  \"— Be they so, that dare!\nIs that the giver's, or receiver's care?\nOh! blind to joys, that from true bounty flow,\nTo think, those e'er repent whose hearts bestow!\nMan to his Maker thus best homage pays,\nThus peaceful walks thro' virtue's pleasing ways:\nHer gentle image on the soul imprest\nBids each tempestnous passion leave the breast:\nThence with her livid self-devouring snakes\nPale Envy flies; her quiver Slander breaks:\nThus falis (dire scourge of a distracted age!)\nThe knave-led, one-ey'd monster, Party-Rage.\nAmbition jostles with her friends no more;"
+   },
+   {
+    "id": "c13",
+    "at": "8:25",
+    "text": "Now led to conquest, now to wisdom led;\nPleas'd, or to still the forum's civil roar,\nOr muse, Cajeta, on thy bending shore;\nFree from affairs, unfetter'd with parade,\nTo taste a friend amid the rural shade:\nThere deigns to mingle in immortal lays,\nThere deep thro' time his country's fate surveys;\nWhile from his tongue sublimest precepts flow —\n\"How man but sojourns on this spot below,\n\" How mortal fame is to a point confin'd,\n\"Heaven only fit to fill th' immortal mind;\n\" For heaven, how virtue can alone prepare,\n\"And vice wou'd find herself unhappy there.\"\nHence, loos'd from earth, his pure affections soar\nWhere sensual pleasure cheats the soul no more.\nBeneath his feet do nations treasures lie?"
+   },
+   {
+    "id": "c14",
+    "at": "9:17",
+    "text": "Yet with their triumphs does Newmarket ring.\nWhat tho' (ye fair!) they break thro' honour's laws;\nYet hence they gain a modish world's applause:\nReceiv'd, repuls'd, their boast is still the same,\nAnd still they triumph o'er each injur'd name.\nTheir vote, we know, ne'er rais'd the drooping state,\nBut rescu'd operas from impending fate.\nTheir bounty never bids Affliction smile,\nBut pampers fidlers with the tradesman's spoil.\nNo Goth to learning e'er was foe so fell,\nYet their bought praises dedications swell;\nYet White's allows them, in a length of years,\nThe first of sharpers, tho' the last of peers.\nIn vain for such may domes on domes arise,\nWith heads audacious, and invade the skies;\nIn vain dishonour'd stars dart mimic rays,"
+   },
+   {
+    "id": "c15",
+    "at": "10:5",
+    "text": "Honours, that may your future offspring crown!\nThat sight the muse with pleasing hope surveys,\nWhile to the blissful hour her fancy strays,\nWhen in the Hertford of another age\nThe same fair virtues shall your soul engage;\nThe same soft meekness and majestic mien\nShall chear the private, grace the public scene.\nFrom her, to glad at once your ears and eyes,\nA fair Eliza shall with spirit rise,\nWith lively humour, yet devoid of blame,\nAnd be, with sweet variety, the same;\nO'er some blest heart confirm her lasting sawy,\nWith reason sprightly, and with goodness gay.\nWhen to another Beauchamp you shall owe\nThose joys, that with your dawning virtues grow,\nIn him again be born, again shall live,"
+   },
+   {
+    "id": "c16",
+    "at": "11:8",
+    "text": "Sung gallant Damon and his fair,\nTo beauteous Townsend tun'd her lyre,\nAnd did, at Pelham's sight, inspire\nStrains, that her Lincoln's self forgives\n(You see the daring poet lives!)\nShe, that at Percy-Lodge so late\nFrom morn to night was us'd to prate,\nAlmost impertinent and rude,\nUnbidden would herself intrude\nWith tale, and epigram, and song,\nTo waft the chearful hours along,\nWhilst I, o'erjoy'd myself to view\nAlive, and with my lord and you,\nNot once could check her merry vein,\nHer unpremeditated strain,\nAnd did, from heedless joy, neglect"
+   },
+   {
+    "id": "c17",
+    "at": "11:40",
+    "text": "And there to build the lofty rhyme,\nI to fam'd Claremont's height aspire,\nTo borrow thence poetic fire,\nTo waft, like Cooper's-Hill, its name\nOn wings of everlasting fame;\nOr, (if that bold attempt be vain)\nYour partial ear to entertain.\nI mount my chaise, the space between,\nFancy anticipates the scene,\nAnd Vanity, officious maid,\nThus offers her self-pleasing aid;\n\"Poor Vanbrugh's plan is out of date,\n\" And Garth but saw its rising state,\n\"His verse with tuneful fable rung,\n\" But left its real charms unsung;\n\"But now, to my transported eyes,"
+   },
+   {
+    "id": "c18",
+    "at": "12:29",
+    "text": "\" Again smooth waves salute the shore,\n\"Each sun but sets to rise again,\n\" And gild with morn the dewy plain;\n\"This hour, perhaps, hope cheats the mind,\n\" The next, an equal joy we find. \"\nJust so; the house a shelter lends,\nWithin I find the best of friends,\nSpence, whose soft bosom oft has known\nTo make another's woe her own;\nShe now, with hospitable grace,\nCompassionates my present case,\nAsks of your health, and hears with joy,\nHow you your growing strength employ\nIn rural cares and exercise;\nAnd kind congratulations rise,\nWhen on my favourite theme I dwell,"
+   },
+   {
+    "id": "c19",
+    "at": "13:9",
+    "text": "Here spacious Hampton's turrets shine,\nWhose windows kindling at the ray\nOf Sol, beam back redoubled day;\nTowns, villages, and pointed spires,\nAnd smoak thick-wreath'd from cottage-fires,\nAnd planted villas, intervene,\nTo grace the sweetly-vary'd scene.\nO'er all my eyes transported range,\nWith every glance the visions change,\nTill, drawn by beauties nearer home,\nAlong the lovely park I roam,\nNow skim the walk, descend the glade,\nThen plunge into the deepest shade.\nHere flourish sweets in mingled bloom,\nThere (worthy ancient Greece or Rome)\nFair temples, opening to the sight,"
+   },
+   {
+    "id": "c20",
+    "at": "13:57",
+    "text": "Enchants with harmony the grove;\nNor guesses that the tuneful art,\nWhich awes and charms his simple heart,\nIs hers, whose bounty loves to bless\nSad sickening want, and lone distress,\nAnd hers the sweet enchanting song,\nTo whom the listening groves belong,\nAnd all, that her Newcastle's art\nIn boundless fondness can impart,\nEach level walk, each shelving glade,\nWhate'er employs the labourer's spade,\nWhate'er rewards his patient toil,\nAnd makes the barren desert smile.\nThis isle in tempting prospect stands,\nThither I stretch my eyes and hands,\nEager the farther shore to gain,"
+   },
+   {
+    "id": "c21",
+    "at": "14:19",
+    "text": "From cares for Britain's safety shewn,\nGrudg'd his repose, who guards my own!\nI now pursue my former way,\nAnd with my journey ends this day\nOf hope, and fear, and pain, and pleasure,\nOf all my other days the measure!\nYours a more even tenor know,\nAnd scarce perceive an ebb or flow.\nThe cause is plain. To fortune's gale\nYou, cautious, never spread a sail;\nSafe in your port, content at home,\nYou ne'er for painful pleasure roam,\nAnd think it folly, if not sin,\nOne night to sojourn at an inn.\nNay, when the Atlas of our state\nThrows off for you a nation's weight,"
+   },
+   {
+    "id": "c22",
+    "at": "15:4",
+    "text": "From those distracting dire alarms,\nThat set a jarring world in arms,\nFrom tainted air's infectious breath,\nWhere flies unseen the dart of death,\nHis steps, ye guardian angels, guide,\nAnd turn the fatal shaft aside!\nReturn'd, his parent's bliss to crown,\nAnd make, all earth can give, their own,\nLike Smithson's, may his manly heart\nAct not the vain, but generous part,\nCall drooping art from her recess,\nWith health, and ease, and fame to bless!\nO may, like his, his riper age\nWith caution tread the civil stage,\nLike him, th' enchanted cup put by,\nAnd every vain temptation fly,"
+   },
+   {
+    "id": "c23",
+    "at": "15:36",
+    "text": "But Reason be the Architect.\nReady each beauteous order stands\nTo execute what she commands.\nThe Doric grave, where weight requires;\nTo give his manly strength aspires;\nThe light Corinthian, richly gay,\nDoes all embellishments display;\nBetween them see, with matron air,\nThe Ionic, delicately fair!\nThese their abundant aid will lend\nTo answer every structure's end.\nTo Building can a mode belong\nBut gay, or delicate, or strong?\nWhy search we then for orders new,\nRich in these all-comprising few,\nBut that the standard rules of Greece"
+   }
+  ]
+ },
+ {
+  "slug": "william-ward-poems-01b7bd",
+  "title": "Poems",
+  "author": "William Ward",
+  "language": "English",
+  "genre": "Poetry",
+  "era": "18th Century",
+  "class": "poetic",
+  "n_windows": 16,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "To the Reverend Mr. Mabell, of Cambridge, who has publish'd Proposals for a Translation of Longinus.\nBy William Ward, Esq;\nBath, Dec. 20. 1731.\nTho' great Longinus claims thy aiding Hand,\nAnd hopes, thro' thee, t'instruct a barb'rous Land,\nWhere vile Conceits the Pow'r of Wit confound,\nAnd true Sublimity is lost in Sound;\nWhere Folly, dress'd ten thousand various Ways,\nThe Bar, the Play-house, and the Pulpit sways;\nYet to my Verse thy kind Attention lend;\nPardon the Poet, and indulge the Friend.\nFrom Noise, and Nonsense, and vain Laughter free,\nI steal a thoughtful Hour, and give to thee;\nTo thee, Conductor of my heedless Youth,\nWho taught me first to rev'rence Sense, and Truth;\nVirtue to praise; and boldly Vice deride,"
+   },
+   {
+    "id": "c01",
+    "at": "0:16",
+    "text": "With all the Pomp of Fashion on her Side.\nBehold the Scene a motley Tribe compose,\nWives, Widows, Maids, and intermingled Beaux,\nAll Orders, Ages, in one League unite,\nAnd to dear Passage consecrate the Night!\nNow the Dice rattle in the sounding Box;\nNow groans the Table with repeated Knocks;\n(Delightful Musick to the Gamester's Ear!)\nWhile ev'ry Bosom beats with Hope or Fear.\nA Pass resounds — What wond'rous Transports rise\nIn Celia's Breast, and lighten in her Eyes!\nShe sweeps the Board — The Fop, with ardent Gaze,\nAdmires the Beauty that her Arm displays.\nBut who, unmov'd, can bear the piteous Sight,\nWhile Cynthia frets and raves at Fortune's Spite?\nFled from her Cheek are ev'ry Love and Grace,"
+   },
+   {
+    "id": "c02",
+    "at": "0:32",
+    "text": "And all the Fury threatens in her Face:\nDistracted, lost, with Grief and Rage o'ercome,\nShe quits the Dice, and flies to storm at home.\nWhen I a Curse implore, may courteous Fate\nWith such a Consort curse the Man I hate!\nBut is there One amongst the Many found,\nAdorn'd with Modesty, with Reason crown'd;\nWho treads the slipp'ry Paths of Youth with Care,\nAnd uninfected breathes in tainted Air?\nIf such there be, kind Heav'n, afford thy Aid,\nAnd soften to my Wish the virtuous Maid!\nSee the Belle flutter with the sprightly Beau!\nThey trip it on the light, fantastic Toe:\nNor Words, nor Sighs, their am'rous Thoughts impart;\nThey dance, and glitter at each other's Heart!\nWith honest Scorn survey yon various Croud,"
+   },
+   {
+    "id": "c03",
+    "at": "1:5",
+    "text": "Of supple Slaves, or Lords of Titles proud!\nStiff-nodding Fools! a Mob in Masquerade!\nWhom Honours brand, and Dignities upbraid.\nYet some there are, with Worth and Wisdom blest.\nA noble Few! who satirize the rest;\nWho scorn to boast their great Fore-father's Rays,\nShine of themselves, and mingle Blaze with Blaze.\nAnd such is Orrery; whose gen'rous Mind,\nStill prone to Pity, feels for human Kind.\nA Zeal for Piety inflames his Breast,\nTemper'd with Charity, in Meekness dress'd:\nGrandeur and Ease his ev'ry Action guide;\nHe nor assumes, nor condescends in Pride:\nAdd sprightly Wit, by prudent Laws confin'd,\nA Judgment sober, and by Books refin'd:\nAdd that the Muses ev'ry Charm dispense,"
+   },
+   {
+    "id": "c04",
+    "at": "1:21",
+    "text": "To tune his Voice, and beautify the Sense.\nThis to my Friend: And, O! may this inspite\nLove of fair Fame, and fan the sacred Fire!\nDare to have Taste, and urge thy glorious Toil,\nTo teach th' Unknowing, and to please a Boyle.\nTo the Right Honourable the Earl of Orrery in Dublin: Upon receiving an Account from Mrs. Barber, of his Lordship's great Generosity to her.\nBy the Same.\nLet Others speak your Titles, and your Blood;\nAccept from Me the glorious Name of Good.\nThis Honour only from fair Virtue springs,\nEnnobles Slaves, adds Dignity to Kings.\nO Born to shew Nobility design'd\nNot to insult, but to protect Mankind!\nWell you discern to spare, or to bestow;\nNor waste in Riot, what to Worth you owe.\nJudgment your Bounty guides; and all agree,"
+   },
+   {
+    "id": "c05",
+    "at": "1:37",
+    "text": "'Tis Praise, 'tis Glory, to receive from Thee.\nGen'rous thy Gifts; but more thy matchless Art,\nTo spare the Blush, and doubly bind the Heart.\nTho' Fortune place me in a distant Scene;\nAnd Mountains rise, and Oceans roll between;\nO'er Mountains, Oceans, Gratitude conveys\nThe good Man's Act, and wide extends his Praise.\nStrange! that your Judgment errs in this alone;\nBarber you bless, yet hope your Gifts unknown.\n'Tis Hers to bring each lovely Deed to Light,\nAnd force unwilling Virtue to the Sight:\n'Tis Hers, and 'tis Her Muse's greatest Pride,\nA Favour never to forget, or hide.\nIllustrious Youth! and let me style you Friend,\nO look with Candor on the Lines I send!\nWarm from the Heart my artless Numbers fall;"
+   },
+   {
+    "id": "c06",
+    "at": "2:13",
+    "text": "Nor wait Correctness, when your Virtues call.\nHere, bless'd with all that human Life requires,\nSuperior to vain Fears, or low Desires;\nIn chearful Solitude, in studious Ease;\nCareful my Conscience, and my God, to please;\nI think on Thee, when Want, or Worth, implore;\nAnd unrepining share my little Store.\nSo Stars attend the beauteous Queen of Night;\nAnd faintly shine, not emulate her Light.\nTo Mrs. Ward.\nBy the Same.\nO thou, my beauteous, ever tender Friend,\nThou, on whom all my worldly Joys depend,\nAccept these Numbers; and with Pleasure hear\nUnstudy'd Truth, which few, alas! can bear;\nWhile conscious Virtue takes the Muse's Part,"
+   },
+   {
+    "id": "c07",
+    "at": "2:29",
+    "text": "Glows on thy Cheek, and warms thy gen'rous Heart.\nLet Birth-day Suits be thoughtless Celia's Cire;\nAnd Rows of Di'monds recommend the Fair;\nWhile gazing Crouds around the Pageant press,\nCharm'd with her Pride, and Luxury of Dress:\nFar other Joys thy just Ambition move,\nTo cherish and reward a Husband's Love;\nTo slight vain Titles, in Retreat to shine,\nShun public Praise, and call a Poet thine.\nAnd know, ye Fair, a Poet can supply,\nWhat Wealth, and Pow'r, and Equipage deny.\nWhen the vain Bus'ness of your Lives is o'er,\nAnd the Glass frightens, whom it charm'd before;\nWhen not a Trace remains of what you were,\nAnd not a Compliment salutes your Ear;\nWithout one Virtue, to redeem Respect,"
+   },
+   {
+    "id": "c08",
+    "at": "2:45",
+    "text": "Without one Beauty, to forbid Neglect;\nWith Tears unpity'd, you may then lament\nThe gloomy Setting of a Life mis-spent;\nNor Delia's Choice with witty Malice blame,\nWho gave up Show for Happiness and Fame.\nO! If the Muse, not uninspir'd, divine,\nThy bright Example shall for ever shine;\nTeach the wise Virgin, where to fix her Choice,\nAnd weigh no Marriage by the common Voice;\nTo yield with Dignity, reject with Grace;\nNor tire the Lover with a tedious Chace:\nWith Ease to conquer, and with Ease retain,\nBrighten Prosperity, or soften Pain:\nKnow Woman's Glory, and her proper End;\nLive to her Husband, Family, and Friend:\nThro' varying Life her various Virtues prove,"
+   },
+   {
+    "id": "c09",
+    "at": "3:11",
+    "text": "Honour her Portion here, and Bliss above.\nSay, What Persuasion, or what Arts of mine,\nCould gain a Passage to a Soul like thine?\nWhere Female Softness, Strength of Reason meet,\nA piercing Judgment, and a Wit discrect;\nWhere ev'ry Passion, ev'ry Duty, knows\nIts proper Bounds, and not unlicens'd flows.\nSay, for thou know'st, my ever ablest Guide,\n(One doubtful Act remains unjustify'd)\nOn Me, on Me, thy choicest Favours fell;\nCould You so err, or I deserve so well?\nInstruct me thou the happy Art to steer,\nAnd still with Modesty thy Conduct clear;\nSo in thy Praises may the World agree;\nNor load with Vanity the Muse and Me.\nWith Song still usher'd shall the Morn arise,"
+   },
+   {
+    "id": "c10",
+    "at": "3:27",
+    "text": "That shew'd thee first, all-charming, to my Eyes:\nI gaz'd with Rapture, yet chastiz'd with Awe:\nSo the First Man descending Angels saw.\nSpeaking, or silent, O! secure to charm,\nTo win with Wisdom, or with Beauty warm:\nThe Graces unobserv'd, with easy Care,\nForm thy soft Accents, and compose thy Air.\nI saw, and heard; nor heard, nor saw, unmov'd,\nUnknowing, or I durst not know, I lov'd.\nWhat thence I suffer'd, let high Heav'n declare,\nPitying my Grief, propitious to my Pray'r.\nHeav'n try'd my Passion, and pronounc'd it true:\nHence I embolden'd, and hence softer You.\nYet oft with-held, and falt'ring oft with Pain,\nMy Tongue half utters, what my Eyes explain,\nNor prone to flatter, nor to Virtue blind;"
+   },
+   {
+    "id": "c11",
+    "at": "3:43",
+    "text": "Not void of Knowledge, and to learn inclin'd;\nNor sprung from noble, nor ungen'rous Blood;\nBoasting a Father honest, wise, and good;\nSuch long observ'd, and by long Converse shown,\nMy Temper, Manners, and my Failings known:\nYou trust my Vows, and pity Love sincere;\nHaste to relieve, and smile away my Fear;\nGive all you can, and all the rest forsake,\nThe noblest Sacrifice, that Love could make!\nOf what Avail the Use of Wealth to Thee?\nOr what the Blessing, if unshar'd with Me?\nO doubly honour'd by the grateful Mind,\nFor what you bring, and what you leave behind!\nIs there a Man in Science not unread,\nIn simple Neatness elegantly bred,\nOf what or Health or Nature asks, possess'd,"
+   },
+   {
+    "id": "c12",
+    "at": "4:3",
+    "text": "Receiv'd by all, and by his Friends caress'd,\nFalse and insidious can the Fair pursue,\nAnd look on Beauty with a Miser's View?\nTaught by the Muse such abject Souls to hate,\nAnd hope sweet Converse from the Marriage-State,\nI place my Triumphs in a matchless Wife,\nNor seek superfluous Vanities of Life:\nThus, unobnoxious to Detraction's Aim,\nNor base Suspicion can attaint my Fame.\nDegen'rate Thought! Let sland'rous Tongues assail;\nSpread all their Poison, all their Rage prevail;\nSo gracious Heav'n restore thee, to enjoy\nWhat Love could leave, but Wisdom could employ.\nMean-while my Delia manifests her Worth;\nThe Loss of Riches calls her Prudence forth:\nBehold her now with Dignity descend;"
+   },
+   {
+    "id": "c13",
+    "at": "4:19",
+    "text": "And low, but necessary, Cares attend;\nChearful, what Fortune not allows, resign;\nAnd, harder still, her Charities confine:\nBut Heav'n in secret sees the kind Intent,\nEach Act of Pity, or of Bounty, meant;\nHeav'n sees in secret; but in open Day\nWill crown thy Merit, and thy Praise display.\nTho' small thy Store, not Millions could suffice,\nTo furnish all thy lib'ral Thought supplies.\nHow oft thy lov'd Sapphira melts thy Breast,\nObscur'd her Worth, her Genius half depress'd!\nHow oft thy Fancy helps Old-Age along!\nOr hears the Widow's, and the Orphan's Song!\nNow visionary Temples rise around;\nAnd half thy Empire, GEORGE, is sacred Ground.\nFrom Thee, my Delia, from thy watchful Care,"
+   },
+   {
+    "id": "c14",
+    "at": "4:35",
+    "text": "My Little lasts; my Little, Friends can share:\nNor Debts distract, nor Usuries devour;\nPoor if I am, within my Fortune poor.\nSmile on, my Fair, tho' cautious, void of Fear,\nWise to shun Sorrows, or prepar'd to bear.\nWho copies Thee, shall never fail to find,\n'Midst Clouds and Storms, the Sun-shine of the Mind:\nFor Piety (whatever Ill impends)\nOmniscience guides, Omnipotence defends.\nBless'd in Retirement, Competence, and Love,\nBelow all Envy, and all Vice above,\nCrown'd with Content, I only burn to show,\n(Hopeless to recompense) how much I owe.\nO born with Genius, and with Learning fill'd,\nIn ev'ry Rule of happy Writings skill'd;\nWhom Beauties strike, false Ornaments offend;"
+   },
+   {
+    "id": "c15",
+    "at": "5:7",
+    "text": "Who weigh with Care each Author's Scope and End;\nKnow why Pope slackens, or augments his Fire;\nAnd oft, where others damn, the most admire;\n(So shallow Wits, with bolder Folly, blame,\nFrom Parts, the faultless Universal Frame:\nBut Newton's Genius could the Whole explore,\nSee All was good, and Wisdom's Hand adore.)\nThis Verse (you know me free from faulty Pride)\nOr kindly authorize, or kindly hide:\nApprove; and Fame shall sanctify my Lays:\nSuppress; yet Love my grateful Labour pays."
+   }
+  ]
+ },
+ {
+  "slug": "henrietta-st-john-knight-poems-f6c109",
+  "title": "Poems",
+  "author": "Henrietta St. John Knight",
+  "language": "English",
+  "genre": "Poetry",
+  "era": "18th Century",
+  "class": "poetic",
+  "n_windows": 6,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "0:0",
+    "text": "The BULFINCH in Town.\nBy a Lady of Quality.\nHARK to the blackbird's pleasing note:\nSweet usher of the vocal throng!\nNature directs his warbling throat,\nAnd all that hear, admire the song.\nYon' bulfinch, with unvary'd tone,\nOf cadence harsh, and accent shrill,\nHas brighter plumage to attone\nFor want of harmony and skill.\nYet, discontent with nature's boon,\nLike man, to mimick art he flies;\nOn opera-pinions hoping soon\nUnrival'd he shall mount the skies.\nAnd while, to please some courtly fair,\nHe one dull tune with labour learns,"
+   },
+   {
+    "id": "c01",
+    "at": "0:16",
+    "text": "A well-gilt cage remote from air,\nAnd faded plumes, is all he earns!\nGo, hapless captive! still repeat\nThe sounds which nature never taught;\nGo, listening fair!, and call them sweet,\nBecause you know them dearly bought.\nUnenvy'd both! go hear and sing\nYour study'd musick o'er and o'er;\nWhilst I attend th' inviting spring,\nIn fields where birds unfetter'd soar.\nSONG.\nWritten in Winter 1745.\nBy the Same.\nTHE sun, his gladsome beams withdrawn,\nThe hills all white with snow,\nLeave me dejected and forlorn!"
+   },
+   {
+    "id": "c02",
+    "at": "0:33",
+    "text": "Who can describe my woe?\nBut not the sun's warm beams could cheer.\nNor hills, tho' e'er so green,\nUnless my Damon should appear,\nTo beautify the scene.\nThe frozen brooks and pathless vales,\nDisjoin my love and me!\nThe pining bird his fate bewails\nOn yonder leafless tree!\nBut what to me are birds or brooks\nOr any joy that's near?\nHeavy the lute, and dull the books,\nWhile Damon is not here!\nThe Laplander, who, half the year,\nIs wrapt in shades of night,\nMourns not, like me, his winter drear;"
+   },
+   {
+    "id": "c03",
+    "at": "0:51",
+    "text": "Nor wishes more for light.\nBut what were light without my love,\nOr objects e'er so fine?\nThe flowery meadow, field, of grove,\nIf Damon be not mine?\nEach moment, from my dear away,\nIs a long age of pain;\nFly swift, ye hours, be calm the day,\nThat brings my love again!\nO haste and bring him to my arms;\nNor let us ever part:\nMy breast shall beat no more alarms,\nWhen I secure his heart.\nWritten to a near Neighbour in a tempestuous Night, 1748.\nBy the Same.\nYOU bid my Muse not cease to sing,"
+   },
+   {
+    "id": "c04",
+    "at": "1:4",
+    "text": "You bid my ink not cease to flow;\nThen say it ever shall be spring,\nAnd boisterous winds shall never blow:\nWhen you such miracles can prove,\nI'll sing of friendship, or of love.\nBut now, alone, by storms opprest,\nWhich harshly in my ears resound;\nNo cheerful voice with witty jest,\nNo jocund pipe to still the sound;\nUntrain'd beside in verse-like art,\nHow shall my pen express my heart?\nIn vain I call th' harmonious Nine,\nIn vain implore Apollo's aid;\nObdurate, they refuse a line,\nWhile spleen and care my rest invade,\nSay, shall we Morpheus next implore,"
+   },
+   {
+    "id": "c05",
+    "at": "1:22",
+    "text": "And try if dreams befriend us more?\nWisely at least he'll stop my pen,\nAnd with his poppies crown my brow:\nBetter by far in lonesome den\nTo sleep unheard of — than to glow\nWith treach'rous wildfire of the brain,\nTh' intoxicated poet's bane.\nWritten at a Ferme Ornee near Birmingham; August 7th, 1749.\nBy the Same.\n'TIS Nature here bids pleasing scenes arise,\nAnd wisely gives them Cynthio, to revise:\nTo veil each blemish; brighten every grace;\nYet still preserve the lovely Parent's face.\nHow well the bard obeys, each valley tells;\nThese lucid streams, gay meads, and lonely cells;\nWhere modest art in silence lurks conceal'd:"
+   }
+  ]
+ },
+ {
+  "slug": "franz-oppenheimer-the-state-a06f2f",
+  "title": "The State",
+  "author": "Franz Oppenheimer",
+  "language": "English",
+  "genre": "Political Theory",
+  "era": "20th Century",
+  "class": "mixed",
+  "n_windows": 1,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "30:0",
+    "text": "“I have great treasures; the spear and the sword; Wherewith to guard my body, the bull hide shield well tried.\nWith these I can plough, and harvest my crop, With these I can garner the sweet grape wine,\nBy them I bear the name ‘Lord’ with my serfs.\n“But these never dare to bear spear and sword, Still less the guard of the body, the bull hide shield well tried. They lie at my feet stretched out on the ground, My hand is licked by them as by hounds,\nI am their Persian king—terrifying them by my name.”\n“Would you eke out your life, my young noble squire, Follow then my teaching, upon your horse and join the gang!\nTake to the greenwood, when the peasant comes up, Run him down quickly, grab him then by the collar, Rejoice in your heart, taking from him whatever he has,\nUnharness his horses and get you away!”"
+   }
+  ]
+ },
+ {
+  "slug": "peter-kropotkin-memoirs-of-a-revolutionist-7cffc7",
+  "title": "Memoirs of a Revolutionist",
+  "author": "Peter Kropotkin",
+  "language": "English",
+  "genre": "Literature",
+  "era": "19th Century",
+  "class": "mixed",
+  "n_windows": 1,
+  "candidates": [
+   {
+    "id": "c00",
+    "at": "41:0",
+    "text": "\"Thou Not only cold, amazed acquaintance yield'st, But grantest that in her profoundest breast I gaze, as in the bosom of a friend,\" ---\n\"But you will never link hearts together Unless the linking springs from your own heart.\""
+   }
+  ]
+ }
+]

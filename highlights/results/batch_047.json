@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "aeschylus-libation-bearers-36dd64",
+    "picks": [
+      {
+        "id": "c13",
+        "style": "ancient greek tragic chorus, aulos, bowed lyre, frame drum, layered female voices, slow and building, ominous",
+        "why": "A pure choral ode on the monsters of earth and sea and the worse thing that is human passion — one unbroken voice."
+      },
+      {
+        "id": "c14",
+        "style": "ancient chorus, hand drums, low strings, massed voices with a lead, driving, inexorable, hammer-like pulse",
+        "why": "'The anvil of Justice is planted firm' — Destiny forging a sword; a hard, concrete image with a beat already in it."
+      },
+      {
+        "id": "c01",
+        "style": "greek funeral chorus, sparse lyre, deep drone, women's voices in unison, very slow, desolate",
+        "why": "'What atonement is there for blood fallen to earth?' — the lament that sets the whole play going, and it stands alone."
+      }
+    ]
+  },
+  {
+    "slug": "plautus-titus-maccius-menaechmi-6b2a89",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman comic prologue, tibia double pipe, plucked lyre, brash patter tenor, brisk, sly, direct to the audience",
+        "why": "'I bring you Plautus, with my tongue, not with my hand' — a single voice working a crowd, complete in itself."
+      },
+      {
+        "id": "c17",
+        "style": "frenzied comic aria, aulos, clattering percussion, wild tenor, fast and accelerating, mock-tragic",
+        "why": "The feigned madness — axe, chariot, whip, 'Speed onward, ye steeds' — pure theatrical delirium built to be sung."
+      },
+      {
+        "id": "c01",
+        "style": "grumbling patter song, tibia, hand drum, exasperated baritone, moderate, wry",
+        "why": "One unbroken rant at a wife who interrogates every exit: 'I've surely brought home a custom-house officer as my wife'."
+      }
+    ]
+  },
+  {
+    "slug": "ann-radcliffe-poems-d56a37",
+    "picks": [
+      {
+        "id": "c13",
+        "style": "aquatic art song, harp, celesta, glass harmonica, floating soprano, undulating, weightless",
+        "why": "'Down, down a thousand fathom deep' — a whole sea-nymph's song, self-contained and made of motion."
+      },
+      {
+        "id": "c06",
+        "style": "moonlit gothic pastoral, harp, flute, light soprano with soft chorus, gentle, questioning, silvered",
+        "why": "Fairy footprints on morning sand and the call for the sprites to return — a complete small enchantment."
+      },
+      {
+        "id": "c00",
+        "style": "romantic parlour song, fortepiano, viola, expressive mezzo, pensive, unhurried",
+        "why": "An address to the illusions of the imagination that opens and closes cleanly; the whole gothic sensibility in one lyric."
+      }
+    ]
+  },
+  {
+    "slug": "nahum-tate-poems-b3db78",
+    "picks": [
+      {
+        "id": "c12",
+        "style": "restoration drinking catch, harpsichord, viol, recorder, hearty male chorus, moderate, convivial",
+        "why": "A bloodless feast where only the grape bleeds, love banished from the table — a toast that already scans as a round."
+      },
+      {
+        "id": "c10",
+        "style": "baroque lament, chamber organ, viola da gamba, grave countertenor, slow, funereal, cavernous",
+        "why": "Death's vault with skulls for paving and rows of hourglasses labelled in blood — a startling, entirely visual passage."
+      },
+      {
+        "id": "c20",
+        "style": "restoration memento mori ode, theorbo, consort of viols, declamatory baritone, stately, sardonic",
+        "why": "'This grim Serjeant takes no Bail', then the schemer's mossy skull in the heap — grim wit with a clean turn."
+      }
+    ]
+  },
+  {
+    "slug": "william-taylor-poems-a36e7a",
+    "picks": [
+      {
+        "id": "c03",
+        "style": "english tavern song, fiddle, squeezebox, rowdy male chorus, brisk, comic, foot-stamping",
+        "why": "The drunk coachman's retort — 'soakers like me enable you brewers to ride in your coaches' — a joke that lands on the last line."
+      },
+      {
+        "id": "c09",
+        "style": "scots-inflected comic ballad, fiddle, bodhran, gruff male voice with a laughing chorus, lively, deadpan",
+        "why": "'We shall go, one and all, where we find the best beer', then the man carried headless to the surgeon — two clean punchlines."
+      },
+      {
+        "id": "c08",
+        "style": "sailor's shanty, concertina, stamping feet, gang vocal, swinging, irreverent",
+        "why": "The sailors confess, decide the priest is now carrying the weight, and throw him overboard — perfect shanty logic."
+      }
+    ]
+  },
+  {
+    "slug": "peter-coffey-ontology-or-the-theory-of-being-bd2c2d",
+    "picks": [
+      {
+        "id": "c01",
+        "style": "italian sacred polyphony, organ drone, low bells, tenor cantus with choral answer, very slow, luminous, cathedral reverb",
+        "why": "Dante's order of the universe — all natures borne to different havens across the vast sea of being — in Italian and English together."
+      }
+    ]
+  },
+  {
+    "slug": "friedrich-nietzsche-the-case-of-wagner-nietzsche-con-cf0495",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "sardonic german cabaret, harmonium, cello, biting baritone, march tempo, mock-solemn with swelling brass",
+        "why": "'Is this the German way?' returns as a refrain over censers and Ave-bells — a polemic already shaped as a song."
+      }
+    ]
+  },
+  {
+    "slug": "seneca-the-elder-controversiae-ce0606",
+    "picks": [
+      {
+        "id": "c00",
+        "style": "roman declamation with cithara, sparse lyre, solemn male voice, measured, ceremonial, spacious",
+        "why": "A father's cry of joy that son and grandson compete in virtue, ending 'far better is he than his father' — short and whole."
+      }
+    ]
+  }
+]
