@@ -136,6 +136,20 @@ instead of a fixed residue class).
 
 ## 4. Word-level read-along mapping — how to build it
 
+> **STATUS 2026-07-23: BUILT AND RUNNING.** The plan below was executed with
+> pipeline/align_worker.py (streaming windowed aligner; see its docstring for
+> the windowing algorithm — a full-file Viterbi is quadratic-memory-infeasible)
+> and pipeline/align_merge.py (sidecars + site data). Raw per-stream timings:
+> `align/_streams/<works|verse>__<slug>.json.gz`; player sidecars:
+> `align/<work>/book.json` + `align/<work>/ch/<chapter>.json` (contract in
+> align_merge.py's docstring). Two hard-won implementation notes:
+> torchaudio's `get_model(with_star=True)` hardcodes batch size 1 in its star
+> column (append zeros yourself for batched emissions), and the GRETIL epics'
+> paragraph sidecars are keyed by verse `ref` ("1.1.1"), not char offsets —
+> align_merge handles both grammars. The three-mode reader UI (Read / Listen /
+> Read-along) lives in the falsafa repo: apps/site/src/audio/* + AudioMode.astro,
+> gated by apps/site/src/data/audio-manifest.json so coverage grows per merge.
+
 **Goal:** per-word `[start_ms, end_ms]` timestamps so a reader UI highlights each word as
 it is spoken (karaoke-style), with line- and paragraph-level grouping derived for free.
 

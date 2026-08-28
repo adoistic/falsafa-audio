@@ -130,11 +130,17 @@ def main():
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--track", choices=list(TRACKS), default="narration")
     ap.add_argument("--voice", default="", help="override the track's default voice")
+    ap.add_argument("--slug", default="", help="restrict to one slug (mop-up)")
+    ap.add_argument("--tol-max", type=float, default=0.0,
+                    help="override the verification ratio ceiling (short fragmented "
+                         "Indic works read slower than the char-rate model predicts)")
     ap.add_argument("--calibrate", action="store_true",
                     help="run a few works, report RTF, upload nothing")
     args = ap.parse_args()
 
     cfg = TRACKS[args.track]
+    if args.tol_max:
+        cfg = {**cfg, "tol": (cfg["tol"][0], args.tol_max)}
     voice, speed, prefix = args.voice or cfg["voice"], cfg["speed"], cfg["prefix"]
 
     os.makedirs(args.workdir, exist_ok=True)
@@ -142,6 +148,8 @@ def main():
     done = set() if args.calibrate else already_done(args.bucket, prefix)
 
     mine = [w for i, w in enumerate(works) if i % args.of == args.shard and w["slug"] not in done]
+    if args.slug:
+        mine = [w for w in works if w["slug"] == args.slug and w["slug"] not in done]
     if args.limit:
         mine = mine[:args.limit]
 

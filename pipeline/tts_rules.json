@@ -1,0 +1,596 @@
+{
+ "aryadeva-caryamelapakapradipa-8c21c0": {
+  "strip_danda": true,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\*\\*CMP$",
+   "^\\d+(\\.\\d+|\\.colophon)?\\*\\*$"
+  ],
+  "custom_sub": []
+ },
+ "abhinavagupta-bodhapancadasika-c701d3": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\*\\*\\d+\\*\\*$"
+  ],
+  "custom_sub": []
+ },
+ "abhinavagupta-paramarthasara-3b0d5e": {
+  "strip_danda": true,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\*\\*PS_\\d+\\*\\*$"
+  ],
+  "custom_sub": []
+ },
+ "annambhatta-tarkasamgraha-a21ed4": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\*{0,2}AnTs_\\d+[a-z]?\\*{0,2}$"
+  ],
+  "custom_sub": []
+ },
+ "anonymous-abhisamayalankaravivarana-fb5202": {
+  "strip_danda": true,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\*\\*[IVX]+\\.\\S*\\*\\*$"
+  ],
+  "custom_sub": []
+ },
+ "aryadeva-cittavisuddhiprakarana-d22356": {
+  "strip_danda": true,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\*\\*Cvp$",
+   "^\\d+\\*\\*$",
+   "^\\*\\*colophon\\*\\*$",
+   "^\\[restored\\]$"
+  ],
+  "custom_sub": [
+   [
+    "\\{\\{term:",
+    ""
+   ],
+   [
+    "\\}\\}",
+    ""
+   ]
+  ]
+ },
+ "abhinavagupta-paryantapancasika-82149f": {
+  "strip_danda": false,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^colophon-\\d+$"
+  ],
+  "custom_sub": [
+   [
+    "\\{\\{([^:{}]+):",
+    "\\1, "
+   ],
+   [
+    "\\{\\{",
+    ""
+   ],
+   [
+    "\\}\\}",
+    ""
+   ]
+  ]
+ },
+ "adisesa-paramarthasara-67524a": {
+  "strip_danda": true,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": [
+   [
+    "\\*\\*",
+    ""
+   ],
+   [
+    "[{}]",
+    ""
+   ],
+   [
+    "\\|",
+    ", "
+   ],
+   [
+    "[\\[\\]]",
+    ""
+   ]
+  ]
+ },
+ "samaveda": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": []
+ },
+ "mahabharata": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": []
+ },
+ "atharvaveda-ps": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": [
+   [
+    "[\\[\\]]",
+    ""
+   ]
+  ]
+ },
+ "rigveda-aufrecht": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": []
+ },
+ "simananda-samkhyatattvavivecana-69b94a": {
+  "strip_danda": true,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\*\\*(0\\.title|Tats_[\\d.c]+|\\d+\\.c\\d+)\\*\\*$"
+  ],
+  "custom_sub": [
+   [
+    "\\{\\{[^|{}]+\\|",
+    ""
+   ],
+   [
+    "\\}\\}",
+    ""
+   ]
+  ]
+ },
+ "isvarakrsna-samkhyakarika-d0d300": {
+  "strip_danda": false,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^SK$"
+  ],
+  "custom_sub": [
+   [
+    "\\*+",
+    ""
+   ]
+  ]
+ },
+ "asanga-sarirarthagatha-503db2": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\*+Śag_\\d+(\\.\\d+)*\\**$"
+  ],
+  "custom_sub": [
+   [
+    "\\{\\{[^:{}]*:",
+    ""
+   ],
+   [
+    "\\}\\}",
+    ""
+   ],
+   [
+    "\\|",
+    ", "
+   ]
+  ]
+ },
+ "unknown-brahmabindupanisad-7fe70b": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\*{1,3}\\d+(ab|cd)?\\*{1,3}$"
+  ],
+  "custom_sub": []
+ },
+ "unknown-angirasa-smrti-2bf9d1": {
+  "strip_danda": true,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\*{0,2}Ang_\\d+[,.\\d]*\\*{0,2}$"
+  ],
+  "custom_sub": []
+ },
+ "unknown-ganapatitattva-66a136": {
+  "strip_danda": true,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": [
+   [
+    "\\*",
+    ""
+   ]
+  ]
+ },
+ "unknown-brhaspati-smrti-0fd070": {
+  "strip_danda": true,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^Brh_\\d",
+   "^<!--$",
+   "^-->$",
+   "^p\\.\\d+$"
+  ],
+  "custom_sub": [
+   [
+    "\\*",
+    ""
+   ]
+  ]
+ },
+ "surendranath-dasgupta-a-history-of-indian-philosophy-v-f7aab9": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": [
+   [
+    "@s",
+    "sh"
+   ],
+   [
+    "@r",
+    "ri"
+   ],
+   [
+    "@",
+    ""
+   ],
+   [
+    "[*_]",
+    ""
+   ]
+  ]
+ },
+ "unknown-kalpabuddha-d760dc": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": [
+   [
+    "`",
+    ""
+   ]
+  ]
+ },
+ "unknown-katyayana-smrti-1e06d2": {
+  "strip_danda": true,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^K_\\d+$"
+  ],
+  "custom_sub": [
+   [
+    "\\*",
+    ""
+   ]
+  ]
+ },
+ "unknown-kunjarakarna-dharmakathana-894f4a": {
+  "strip_danda": true,
+  "strip_num_markers": false,
+  "strip_leading_num": true,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": [
+   [
+    "\\*",
+    ""
+   ]
+  ]
+ },
+ "unknown-manusmrti-347b76": {
+  "strip_danda": true,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^Mn_\\d+\\.\\d+(\\[\\d+M\\])?$"
+  ],
+  "custom_sub": [
+   [
+    "[*`]",
+    ""
+   ]
+  ]
+ },
+ "unknown-san-hyan-kamahayanikan-2a0c19": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": [
+   [
+    "[*`]",
+    ""
+   ]
+  ]
+ },
+ "unknown-san-hyan-tattvajnana-1f29bd": {
+  "strip_danda": true,
+  "strip_num_markers": false,
+  "strip_leading_num": true,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": [
+   [
+    "\\*",
+    ""
+   ]
+  ]
+ },
+ "unknown-slokantara-d7a628": {
+  "strip_danda": true,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\[Slo_[^\\]]*\\]$",
+   "^\\|\\|o\\|\\|$"
+  ],
+  "custom_sub": [
+   [
+    "[*_>†]+",
+    ""
+   ],
+   [
+    "[¹²³⁴⁵⁶⁷⁸⁹⁰]+",
+    ""
+   ],
+   [
+    "^\\[([A-Za-zĀ-ṣ].*?)\\]$",
+    "\\1"
+   ]
+  ]
+ },
+ "unknown-naradasmrti-7650d2": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\(Nar\\.",
+   "^M?\\d+\\.\\d+(\\.\\d+)*(\\*\\d+)?\\)[\\.,;]?$"
+  ],
+  "custom_sub": [
+   [
+    "`",
+    ""
+   ],
+   [
+    "\\*",
+    ""
+   ]
+  ]
+ },
+ "unknown-viramitrodaya-d4b632": {
+  "strip_danda": true,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\{[A-Za-z]+-?[A-Za-z]*_\\d+\\}$"
+  ],
+  "custom_sub": [
+   [
+    "\\*",
+    ""
+   ],
+   [
+    "^>$",
+    ""
+   ]
+  ]
+ },
+ "unknown-parasara-smrti-2259be": {
+  "strip_danda": true,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^Par_\\d",
+   "^\\(?[IVX]+,\\d+,$",
+   "^p\\.$",
+   "^BI:$",
+   "^FINIS$"
+  ],
+  "custom_sub": [
+   [
+    "\\*+",
+    ""
+   ]
+  ]
+ },
+ "unknown-san-hyan-mahajnana-11c531": {
+  "strip_danda": true,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\d+\\*+[\\.,;]?$"
+  ],
+  "custom_sub": []
+ },
+ "unknown-vratisasana-d0fe75": {
+  "strip_danda": true,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^\\[VS_[^\\]]+\\]$"
+  ],
+  "custom_sub": [
+   [
+    "\\*",
+    ""
+   ]
+  ]
+ },
+ "unknown-yajnavalkya-smrti-cb88d6": {
+  "strip_danda": true,
+  "strip_num_markers": false,
+  "strip_leading_num": true,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^`?\\*?[/|]*Yj_\\d+\\.\\d+[/|]*[\\.,;]?$"
+  ],
+  "custom_sub": [
+   [
+    "`\\*",
+    ""
+   ],
+   [
+    "\\*`",
+    ""
+   ],
+   [
+    "\\[\\d+\\]([,.;:]?)$",
+    "\\1"
+   ]
+  ]
+ },
+ "valmiki-ramayana": {
+  "strip_danda": false,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": []
+ },
+ "unknown-vrhaspatitattva-b60b28": {
+  "strip_danda": true,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": true,
+  "iast_fold": true,
+  "custom_drop": [],
+  "custom_sub": [
+   [
+    "\\*",
+    ""
+   ]
+  ]
+ },
+ "unknown-visnu-smrti-27f0d8": {
+  "strip_danda": true,
+  "strip_num_markers": false,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^Vi_\\d+\\.\\d+$",
+   "^\\[\\^\\d+\\]:?$",
+   "[ऀ-ॿ]"
+  ],
+  "custom_sub": [
+   [
+    "\\*+",
+    ""
+   ]
+  ]
+ },
+ "unknown-yama-smrti-552f8d": {
+  "strip_danda": true,
+  "strip_num_markers": true,
+  "strip_leading_num": false,
+  "strip_trailing_num": false,
+  "iast_fold": true,
+  "custom_drop": [
+   "^YSS_[0-9]+(\\.[0-9]+)?[A-Z]?$",
+   "^\\.{2,}$"
+  ],
+  "custom_sub": [
+   [
+    "\\*",
+    ""
+   ]
+  ]
+ }
+}

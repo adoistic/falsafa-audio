@@ -257,3 +257,44 @@ Goal: per-word [start,end] timestamps so a reader UI highlights each word as spo
 - REMAINING (deferred legs, documented in HANDOFF.md): (A) word-level alignment pass
   (~$30-40); (B) slice the 6 other oversized epics to book level from alignment boundaries;
   (C) music generation. Nothing running; safe to leave.
+
+---
+
+## 2026-07-23 — UI leg + forced-alignment fleet (three-mode reader)
+
+Goal (session hook): Read / Listen / Read-along modes on every aligned chapter,
+Spotify-grade player in the site's editorial language, lock-screen playback,
+pitch-preserving speed, 2-3-word read-along highlight, verse-in-prose styling.
+
+Shipped so far:
+- `/audio/*` LIVE on falsafa.ai: falsafaai Worker serves bucket falsafa-audio
+  (m3u8/m4s content types, CORS *, Range, immutable cache, Cache-API edge
+  caching — R2 binding reads bypass the edge cache otherwise). Deployed via
+  direct Workers API (wrangler OAuth is on the wrong account; the env's
+  CLOUDFLARE_API_TOKEN lacks R2 mgmt read, which wrangler needs to validate
+  bucket bindings).
+- pipeline/align_worker.py — streaming windowed forced alignment (MMS_FA +
+  torchaudio forced_align), per-chunk frame→time mapping, batched emissions.
+  GOTCHA: torchaudio's with_star=True hardcodes batch=1 (star_dim zeros((1,T,1)))
+  → use with_star=False + append the zeros column manually.
+  Validated <100 ms by greedy-decode span checks (12/12, 8/8, 14/14 multi-window).
+- pipeline/align_merge.py — sidecars align/<work>/book.json + ch/<ch>.json
+  (blocks→lines→word [s,e,off,len]), audio-manifest.json + verse-blocks.json
+  into apps/site/src/data/. ECPA works need the segment.py markdown-paragraph
+  fallback (ported). Mixed works merge only when ALL streams aligned.
+- Site UI (apps/site/src/audio/*): dual-deck engine (native HLS on Safari,
+  hls.js/light lazy elsewhere), span playlists for mixed voices, busy-lock
+  against timeupdate re-entrancy (double-advance bug found live in Frogs),
+  Media Session, rate 0.75–2×, localStorage resume, bottom bar (consent-banner
+  material), read-along overlay (three ink layers + --highlight chunk wash,
+  rAF auto-scroll — element scrollTo smooth silently no-ops in Chromium with
+  html{scroll-behavior:smooth}), verse-inline read-mode styling, /listen page.
+  CSS gotcha: own display:flex rules beat [hidden] — needs explicit overrides.
+- Fleet: 8 pods × 2 shards align --track both; idempotent via align/_streams
+  listing. Two pods delivered broken CUDA (torch cuda.is_available False) and
+  one no-SSH — killed + replaced; --verify shows 16/16.
+
+Verified in browser (dev, localhost:4321 + prod streams): mode pills, listen
+start/resume, dual-deck voice swaps (Frogs, 59 spans), chapter auto-advance
+(Epictetus 1→2 with bar retitle), read-along highlight sync at 1×/1.5×,
+light/dark/sepia, desktop/548px/mobile-375px.

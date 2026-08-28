@@ -92,27 +92,55 @@ python3 -c "import kokoro,torch;assert torch.cuda.is_available()"
 echo SETUP_OK
 """
 
+# Alignment fleet: no TTS deps; torch/torchaudio ship in the RunPod image.
+# The MMS model (1.2 GB) is prefetched at setup so the two shard workers on a
+# pod don't race the same torch-hub download.
+SETUP_ALIGN = r"""
+set -e
+export DEBIAN_FRONTEND=noninteractive
+apt-get update -qq >/dev/null 2>&1
+apt-get install -y -qq ffmpeg unzip curl >/dev/null 2>&1
+curl -sSLo /tmp/rc.zip https://downloads.rclone.org/rclone-current-linux-amd64.zip
+unzip -qo /tmp/rc.zip -d /tmp && cp /tmp/rclone-*/rclone /usr/local/bin/ && chmod +x /usr/local/bin/rclone
+pip install -q num2words >/dev/null 2>&1
+python3 - <<'PYEOF'
+import torch, torchaudio
+assert torch.cuda.is_available()
+torchaudio.pipelines.MMS_FA.get_model(with_star=True)
+PYEOF
+echo SETUP_OK
+"""
 
-def launch(ip, port, shard, shards_total, i, track, voice):
+
+def launch(ip, port, shard, shards_total, i, track, voice, worker="tts"):
     """Start one worker, fire-and-forget. `ssh -n` + setsid detaches the worker, but the
     ssh CLIENT still sometimes blocks the full timeout before returning even though the
     remote process has already started. A raised TimeoutExpired here previously escaped
     the per-pod loop and left the SECOND shard on every pod unlaunched -> silent half
     coverage. So a timeout is EXPECTED and swallowed; coverage is verified separately."""
-    extra = f" --track {track}" + (f" --voice {voice}" if voice else "")
+    if worker == "align":
+        cmd = (f"cd /workspace && source env.sh && "
+               f"export PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True && "
+               f"setsid nohup python3 -u align_worker.py "
+               f"--track both --shard {shard} --of {shards_total} "
+               f"--workdir /workspace/align/w{i} "
+               f"> /workspace/align_{shard}.log 2>&1 < /dev/null & echo started")
+    else:
+        extra = f" --track {track}" + (f" --voice {voice}" if voice else "")
+        cmd = (f"cd /workspace && source env.sh && setsid nohup python3 -u pod_worker.py "
+               f"--shard {shard} --of {shards_total}{extra} "
+               f"--bucket r2:falsafa-audio --workdir /workspace/{track}/w{i} "
+               f"> /workspace/{track}_{shard}.log 2>&1 < /dev/null & echo started")
     try:
         subprocess.run(
-            ["ssh", "-n", *SSH_OPTS, "-p", str(port), f"root@{ip}",
-             f"cd /workspace && source env.sh && setsid nohup python3 -u pod_worker.py "
-             f"--shard {shard} --of {shards_total}{extra} "
-             f"--bucket r2:falsafa-audio --workdir /workspace/{track}/w{i} "
-             f"> /workspace/{track}_{shard}.log 2>&1 < /dev/null & echo started"],
+            ["ssh", "-n", *SSH_OPTS, "-p", str(port), f"root@{ip}", cmd],
             capture_output=True, text=True, timeout=30)
     except subprocess.TimeoutExpired:
         pass                       # detached; verify with --verify, never abort the loop
 
 
-def bring_up(pid, shard_base, shards_total, procs, results, track="narration", voice=""):
+def bring_up(pid, shard_base, shards_total, procs, results, track="narration", voice="",
+             worker="tts"):
     tag = f"pod{shard_base}"
     try:
         for _ in range(40):                      # wait for sshd
@@ -131,15 +159,19 @@ def bring_up(pid, shard_base, shards_total, procs, results, track="narration", v
                f"export RCLONE_CONFIG_R2_SECRET_ACCESS_KEY={os.environ['R2_SECRET_ACCESS_KEY']}\n"
                f"export RCLONE_CONFIG_R2_ENDPOINT={os.environ['R2_S3_ENDPOINT']}\n")
         ssh(ip, port, f"mkdir -p /workspace && cat > /workspace/env.sh <<'XEOF'\n{env}XEOF\nchmod 600 /workspace/env.sh")
-        scp(ip, port, os.path.join(os.path.dirname(os.path.abspath(__file__)), "pod_worker.py"),
-            "/workspace/pod_worker.py")
+        here = os.path.dirname(os.path.abspath(__file__))
+        if worker == "align":
+            scp(ip, port, os.path.join(here, "align_worker.py"), "/workspace/align_worker.py")
+            scp(ip, port, os.path.join(here, "align_common.py"), "/workspace/align_common.py")
+        else:
+            scp(ip, port, os.path.join(here, "pod_worker.py"), "/workspace/pod_worker.py")
 
-        r = ssh(ip, port, SETUP, timeout=900)
+        r = ssh(ip, port, SETUP_ALIGN if worker == "align" else SETUP, timeout=900)
         if "SETUP_OK" not in r.stdout:
             results[pid] = f"{tag}: SETUP FAILED {r.stdout[-200:]} {r.stderr[-200:]}"; return
 
         for i in range(procs):
-            launch(ip, port, shard_base + i, shards_total, i, track, voice)
+            launch(ip, port, shard_base + i, shards_total, i, track, voice, worker)
         # log shipper
         ssh(ip, port,
             "cd /workspace && source env.sh && nohup bash -c 'while true; do "
@@ -164,6 +196,8 @@ def main():
                     help="start a new track on already-provisioned pods (no setup)")
     ap.add_argument("--track", default="narration", choices=["narration", "verse"])
     ap.add_argument("--voice", default="", help="override the track's default voice")
+    ap.add_argument("--worker", default="tts", choices=["tts", "align"],
+                    help="align = forced-alignment fleet (align_worker.py, --track both)")
     ap.add_argument("--verify", action="store_true",
                     help="report which --shard N processes are actually running fleet-wide")
     args = ap.parse_args()
@@ -181,7 +215,8 @@ def main():
             ip, port = ssh_addr(p["id"])
             if not ip:
                 print(f"  {p['name']}: no addr"); continue
-            r = ssh(ip, port, "ps aux | grep '[p]od_worker' | grep -oE -- '--shard [0-9]+' | sort -u",
+            r = ssh(ip, port, "ps aux | grep -E '[p]od_worker|[a]lign_worker' | "
+                              "grep -oE -- '--shard [0-9]+' | sort -u",
                     timeout=30)
             sh = sorted(int(x.split()[1]) for x in r.stdout.split("\n") if x.startswith("--shard"))
             running.update(sh)
@@ -202,19 +237,25 @@ def main():
         live = sorted(((p["id"], int((p.get("name") or "-1").rsplit("-", 1)[1]))
                        for p in pods() if (p.get("name") or "").startswith("falsafa-ssh-")),
                       key=lambda x: x[1])
-        print(f"relaunching {args.track} on {len(live)} pods, {shards_total} shards")
-        worker = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pod_worker.py")
+        print(f"relaunching {args.worker}/{args.track} on {len(live)} pods, {shards_total} shards")
+        here = os.path.dirname(os.path.abspath(__file__))
+        files = (["align_worker.py", "align_common.py"] if args.worker == "align"
+                 else ["pod_worker.py"])
         for pid, base in live:
             ip, port = ssh_addr(pid)
             if not ip:
                 print(f"  pod{base}: no ssh addr"); continue
-            # pods provisioned earlier are running whatever pod_worker.py they were
+            # pods provisioned earlier are running whatever worker they were
             # given at setup; ship the current one before starting a new track
-            r = scp(ip, port, worker, "/workspace/pod_worker.py")
-            if r.returncode != 0:
-                print(f"  pod{base}: scp failed {r.stderr[-120:]}"); continue
+            bad = False
+            for f in files:
+                r = scp(ip, port, os.path.join(here, f), f"/workspace/{f}")
+                if r.returncode != 0:
+                    print(f"  pod{base}: scp failed {r.stderr[-120:]}"); bad = True; break
+            if bad:
+                continue
             for i in range(args.procs):
-                launch(ip, port, base + i, shards_total, i, args.track, args.voice)
+                launch(ip, port, base + i, shards_total, i, args.track, args.voice, args.worker)
             print(f"  pod{base}: shards {base}..{base+args.procs-1} @ {ip}:{port}", flush=True)
         return
 
@@ -232,7 +273,9 @@ def main():
         print(f"adopting {len(created)} existing pods", flush=True)
         results, threads = {}, []
         for pid, base in created:
-            t = threading.Thread(target=bring_up, args=(pid, base, shards_total, args.procs, results))
+            t = threading.Thread(target=bring_up,
+                                 args=(pid, base, shards_total, args.procs, results,
+                                       args.track, args.voice, args.worker))
             t.start(); threads.append(t)
         for t in threads: t.join()
         for pid, msg in sorted(results.items(), key=lambda kv: kv[1]): print(" ", msg)
@@ -265,7 +308,9 @@ def main():
     print(f"\n{len(created)} pods created; bringing up over SSH (parallel)...", flush=True)
     results, threads = {}, []
     for pid, base in created:
-        t = threading.Thread(target=bring_up, args=(pid, base, shards_total, args.procs, results))
+        t = threading.Thread(target=bring_up,
+                             args=(pid, base, shards_total, args.procs, results,
+                                   args.track, args.voice, args.worker))
         t.start(); threads.append(t)
     for t in threads: t.join()
     for pid, msg in sorted(results.items(), key=lambda kv: kv[1]):
